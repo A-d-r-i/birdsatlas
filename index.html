@@ -44,7 +44,7 @@ featureLayer.on('click', function() {
 			var area_name = document.getElementById('area_name');
             area_name.textContent = feature.properties.area_name;
 			document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
-			document.getElementById("area_species").setAttribute("src","https://raw.githubusercontent.com/A-d-r-i/birdsatlas/main/SPECIES/TXT/SPECIES-" + feature.properties.area_name + ".txt");
+			document.getElementById("area_species").setAttribute("src","./SPECIES/TXT/SPECIES-" + feature.properties.area_name + ".txt");
 			var area_id = document.getElementById('area_id');
             area_id.textContent = feature.properties.id;
         });
