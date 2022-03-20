@@ -8,25 +8,61 @@
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://raw.githubusercontent.com/A-d-r-i/birdsatlas/main/maillesfr.geojson"></script>
+<style>
+	html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0px;
+	}
+</style>
 </head>
 <body>
-<div id="map" style="width: 1000px; height: 600px;"></div>
+<table border="0" width="100%" height="100%">
+<tr><td id="map" style="width:50%">
+</td><td>
+Maille : <span id="area_name"></span> | <a id="area_name_url">LIEN ODF</a><br>
+ID : <span id="area_id"></span><br>
+Espèces :<br><embed id="area_species">
+</td></tr>
+</table>
 <script>
-var newMap = L.map('map').setView([47,5], 7);
+var newMap = L.map('map').setView([46.5,2], 6);
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
 }).addTo(newMap);
 
-// loading GeoJSON file - Here my html and usa_adm.geojson file resides in same folder
+// loading GeoJSON file
 $.getJSON("maillesfr.geojson",function(data){
 // L.geoJson function is used to parse geojson file and load on to map
 // add GeoJSON layer to the map once the file is loaded
-var datalayer = L.geoJson(data ,{
+var datalayer = L.geoJson(data, {
+	
 onEachFeature: function(feature, featureLayer) {
 featureLayer.bindPopup(feature.properties.area_name);
+
+featureLayer.on('click', function() {
+			var area_name = document.getElementById('area_name');
+            area_name.textContent = feature.properties.area_name;
+			document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
+			document.getElementById("area_species").setAttribute("src","./SPECIES/TXT/SPECIES-" + feature.properties.area_name + ".txt");
+			var area_id = document.getElementById('area_id');
+            area_id.textContent = feature.properties.id;
+        });
+
+featureLayer.setStyle({
+    weight: 1,
+    opacity: 0.5,
+    color: 'red',
+    dashArray: '3',
+    fillOpacity: 0,	
+	});
+
 }
 }).addTo(newMap);
 newMap.fitBounds(datalayer.getBounds());
+
+
+
 });
 
 </script>
