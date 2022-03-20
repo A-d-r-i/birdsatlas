@@ -1,0 +1,15 @@
+name: UPDATE-MAILLES
+
+on:
+  schedule:
+    #- cron:  '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Script
+        run:  |
+          ./RECHERCHE.ps1
