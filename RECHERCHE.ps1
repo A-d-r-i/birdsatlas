@@ -35,7 +35,7 @@ $txt | Out-File SPECIES1.txt -Encoding UTF8
 Import-Csv SPECIES1.txt -delimiter ";" -Header newcount , frname | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter ";" -NoTypeInformation -Encoding UTF8
 #}
 
-Remove-Item odf.json, count.csv, name.csv, csvtemp1.txt, csvtemp2.csv, SPECIES1-$id.txt
+Remove-Item odf.json, count.csv, name.csv, csvtemp1.txt, csvtemp2.csv, SPECIES1.txt
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
