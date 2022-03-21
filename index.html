@@ -22,7 +22,8 @@
 </td><td>
 Maille : <span id="area_name"></span> | <a id="area_name_url">LIEN ODF</a><br>
 ID : <span id="area_id"></span><br>
-Espèces :<br><embed id="area_species" width="100%" height="50%">
+Espèces non observées après 2019 :<br><embed id="area_species_2019" width="100%" height="100%">
+Espèces non observées (de la plus à la moins courante) :<br><embed id="area_species_never" width="100%" height="100%">
 </td></tr>
 </table>
 <script>
@@ -44,7 +45,7 @@ featureLayer.on('click', function() {
 			var area_name = document.getElementById('area_name');
             area_name.textContent = feature.properties.area_name;
 			document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
-			document.getElementById("area_species").setAttribute("src","./SPECIES/TXT/SPECIES-" + feature.properties.area_name + ".txt");
+			document.getElementById("area_species_2019").setAttribute("src","./SPECIES/TXT/SPECIES-" + feature.properties.area_name + ".txt");
 			var area_id = document.getElementById('area_id');
             area_id.textContent = feature.properties.id;
         });
