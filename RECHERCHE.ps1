@@ -35,12 +35,12 @@ $txt | Out-File SPECIES1.txt -Encoding UTF8
 Import-Csv SPECIES1.txt -delimiter ";" -Header newcount , frname | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter ";" -NoTypeInformation -Encoding UTF8
 #}
 
+Remove-Item odf.json, count.csv, name.csv, csvtemp1.txt, csvtemp2.csv, SPECIES1-$id.txt
+
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
 git config --local user.name "A-d-r-i"
 git add .
 git commit -m "[Bot] Update files - MAILLES"
 git push -f
-
-Remove-Item odf.json, count.csv, name.csv, csvtemp1.txt, csvtemp2.csv, SPECIES1-$id.txt
 
