@@ -3,7 +3,8 @@
 $list = $list = Get-Content ID.txt
 
 #foreach ($code in $list) {
-$id = ([xml](Get-Content ID.xml)).ID.id42510 #"id$code"
+$code = '42510'
+$id = ([xml](Get-Content ID.xml)).ID."id$code"
 
 Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code" -OutFile "odf.json"
 (Get-Content 'odf.json' -Encoding UTF8 | ConvertFrom-Json).all_period.new_count | Out-File count.csv -Encoding UTF8
