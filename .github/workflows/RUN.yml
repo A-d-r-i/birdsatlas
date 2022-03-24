@@ -11,5 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Script
-        run:  |
+        run: |
+          shell: powershell
           ./RECHERCHE.ps1
