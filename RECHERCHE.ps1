@@ -22,7 +22,7 @@ $loop | Out-File csvtemp.txt -Encoding UTF8
 Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , oldcount | Export-Csv SPECIESTEMP.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 $search = Import-Csv -Path 'SPECIESTEMP.csv' -delimiter ","
 $result = $search | Where { $_.newcount -eq 0} 
-$result | Out-File ./SPECIES/TXT/SPECIES-$id.txt -Encoding UTF8
+$result | Out-File ./SPECIES/TXT/SPECIES-$id.txt
 $result | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 
 echo $id
