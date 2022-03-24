@@ -19,11 +19,15 @@ $oldcount = Get-Content oldcount.csv -Encoding UTF8
 
 $loop = for ($i = 0; $i -lt $name.Length; ++$i) { $name[$i] + "," + $lastobs[$i] + "," + $newcount[$i] + "," + $oldcount[$i] }
 $loop | Out-File csvtemp.txt -Encoding UTF8
-Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , oldcount | Export-Csv SPECIESTEMP.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
+Import-Csv csvtemp.txt -delimiter "," -Header frname , lastobs , newcount , oldcount | Export-Csv SPECIESTEMP.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 $search = Import-Csv -Path 'SPECIESTEMP.csv' -delimiter ","
 $result = $search | Where { $_.newcount -eq 0} 
 $result | Out-File SPECIESTEMP.txt
-$result | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
+$file = Get-Content SPECIESTEMP.txt
+$file = $file -replace '\x1b\[[0-9;]*m' , ''
+$file | Out-File ./SPECIES/TXT/SPECIES-$id.txt -Encoding UTF8
+$result | Export-Csv SPECIES.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
+(Get-Content SPECIES.csv) | % {$_ -replace '"', ''} | Out-File ./SPECIES/CSV/SPECIES-$id.csv -Fo -Encoding UTF8
 
 echo $id
 #echo ''
@@ -34,7 +38,7 @@ echo $id
 
 #}
 
-Remove-Item odf.json, name.csv, lastobs.csv, newcount.csv, oldcount.csv, csvtemp.txt, SPECIESTEMP.csv,SPECIESTEMP.txt
+Remove-Item odf.json, name.csv, lastobs.csv, newcount.csv, oldcount.csv, csvtemp.txt, SPECIESTEMP.csv, SPECIESTEMP.txt, SPECIES.csv
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
