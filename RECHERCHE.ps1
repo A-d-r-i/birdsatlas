@@ -23,13 +23,6 @@ Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , ol
 $search = Import-Csv -Path 'SPECIESTEMP.csv' -delimiter ","
 $result = $search | Where { $_.newcount -eq 0} 
 $result | Out-File SPECIESTEMP.txt
-
-$MyPath = "$env:USERPROFILE/a/birdsatlas/birdsatlas/SPECIESTEMP.txt"
-$MyFile = Get-Content $MyPath
-$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-$MyPathOut = "$env:USERPROFILE/a/birdsatlas/birdsatlas/SPECIES/TXT/SPECIES-$id.txt"
-[System.IO.File]::WriteAllLines($MyPathOut, $MyFile, $Utf8NoBomEncoding)
-
 $result | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 
 echo $id
