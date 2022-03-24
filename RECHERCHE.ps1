@@ -15,9 +15,8 @@ $name = Get-Content name.csv -Encoding UTF8
 
 $loop = for ($i = 0; $i -lt $count.Length; ++$i) { $count[$i] + "," + $name[$i] }
 $loop | Out-File csvtemp1.txt -Encoding UTF8
-Import-Csv csvtemp1.txt -delimiter "," -Header newcount , frname | Export-Csv csvtemp2.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
-$search = Import-Csv -Path 'csvtemp2.csv' -delimiter ","
-$result = $search | Where { $_.newcount -eq 0} 
+Import-Csv "csvtemp1.txt" -delimiter "," -Header newcount , frname | Export-Csv SPECIES1.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
+$result = Get-Content "SPECIES1.csv" | Select-String '^\"0\"'
 $result | Out-File ./SPECIES/TXT/SPECIES-$id.txt -Encoding UTF8
 
 echo $id
@@ -27,14 +26,7 @@ echo $id
 #echo '----------------------------------------------------------------------------'
 #echo ''
 
-$txt = Get-Content -path ./SPECIES/TXT/SPECIES-$id.txt -Raw
-$txt = $txt -replace '([0-9]+)        ','$1,'
-$txt = $txt -replace 'newcount frname',''
-$txt = $txt -replace '-------- ------',''
-$txt = $txt -replace '^$',''
-
-$txt | Out-File SPECIES1.txt -Encoding UTF8 
-Import-Csv SPECIES1.txt -delimiter "," -Header newcount , frname | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
+Import-Csv ./SPECIES/TXT/SPECIES-$id.txt -delimiter "," -Header newcount , frname | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 #}
 
 Remove-Item odf.json, count.csv, name.csv, csvtemp1.txt, csvtemp2.csv, SPECIES1.txt
