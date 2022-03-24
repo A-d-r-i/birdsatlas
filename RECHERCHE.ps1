@@ -22,7 +22,14 @@ $loop | Out-File csvtemp.txt -Encoding UTF8
 Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , oldcount | Export-Csv SPECIESTEMP.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 $search = Import-Csv -Path 'SPECIESTEMP.csv' -delimiter ","
 $result = $search | Where { $_.newcount -eq 0} 
-$result | Out-File ./SPECIES/TXT/SPECIES-$id.txt
+$result | Out-File SPECIESTEMP.txt
+
+$MyPath = "$env:USERPROFILE/a/birdsatlas/birdsatlas/SPECIESTEMP.txt"
+$MyFile = Get-Content $MyPath
+$Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
+$MyPathOut = "$env:USERPROFILE/a/birdsatlas/birdsatlas/SPECIES/TXT/SPECIES-$id.txt"
+[System.IO.File]::WriteAllLines($MyPathOut, $MyFile, $Utf8NoBomEncoding)
+
 $result | Export-Csv ./SPECIES/CSV/SPECIES-$id.csv -Delimiter "," -NoTypeInformation -Encoding UTF8
 
 echo $id
@@ -34,7 +41,7 @@ echo $id
 
 #}
 
-Remove-Item odf.json, name.csv, lastobs.csv, newcount.csv, oldcount.csv, csvtemp.txt, SPECIESTEMP.csv
+Remove-Item odf.json, name.csv, lastobs.csv, newcount.csv, oldcount.csv, csvtemp.txt, SPECIESTEMP.csv,SPECIESTEMP.txt
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
