@@ -2,8 +2,8 @@
 #$code = ([xml](Get-Content MAILLES.xml)).MAILLES.$id
 $list = $list = Get-Content ID.txt
 
-#foreach ($code in $list) {
-$code = '42510'
+foreach ($code in $list) {
+#$code = '42510'
 $id = ([xml](Get-Content ID.xml)).ID."id$code"
 
 Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code" -OutFile "odf.json"
@@ -36,7 +36,7 @@ echo $id
 #echo '----------------------------------------------------------------------------'
 #echo ''
 
-#}
+}
 
 Remove-Item odf.json, name.csv, lastobs.csv, newcount.csv, oldcount.csv, csvtemp.txt, SPECIESTEMP.csv, SPECIESTEMP.txt, SPECIES.csv
 
