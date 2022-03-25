@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouvreuil pivoine
-0        Canard colvert
-0        Cassenoix moucheté
-0        Chevalier sylvain
-0        Corneille noire
-0        Épervier d'Europe
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Gobemouche noir
-0        Héron cendré
-0        Mésange bleue
-0        Mésange huppée
-0        Mésange nonnette
-0        Milan noir
-0        Milan royal
-0        Perdrix bartavelle
-0        Pic épeiche
-0        Pinson du Nord
-0        Roitelet à triple bandeau
-0        Rougequeue à front blanc
-0        Sittelle torchepot
-0        Tarier des prés
-0        Tétras lyre
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bouvreuil pivoine         2018    0        1
+Canard colvert            2008    0        2
+Cassenoix moucheté        2014    0        5
+Chevalier sylvain         2012    0        1
+Corneille noire           2017    0        2
+Épervier d'Europe         2018    0        4
+Faucon pèlerin            2009    0        1
+Fauvette grisette         2009    0        2
+Gobemouche noir           2013    0        1
+Héron cendré              2016    0        1
+Mésange bleue             2018    0        5
+Mésange huppée            2018    0        3
+Mésange nonnette          2015    0        4
+Milan noir                2016    0        1
+Milan royal               2008    0        1
+Perdrix bartavelle        2011    0        5
+Pic épeiche               2011    0        1
+Pinson du Nord            2015    0        1
+Roitelet à triple bandeau 2015    0        4
+Rougequeue à front blanc  2015    0        5
+Sittelle torchepot        2011    0        1
+Tarier des prés           2009    0        2
+Tétras lyre               2012    0        5
+Verdier d'Europe          2012    0        1
 

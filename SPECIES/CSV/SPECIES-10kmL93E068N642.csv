@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bruant fou"
-"0";"Chevalier aboyeur"
-"0";"Faucon émerillon"
-"0";"Fauvette passerinette"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Merle à plastron"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,1
+Bécassine des marais,2015,0,1
+Bec-croisé des sapins,2018,0,2
+Bruant fou,2016,0,2
+Chevalier aboyeur,2012,0,1
+Faucon émerillon,2009,0,1
+Fauvette passerinette,2018,0,1
+Grande Aigrette,2014,0,1
+Grèbe castagneux,2007,0,1
+Merle à plastron,2012,0,1
+Phragmite des joncs,2013,0,1
+Pic mar,2012,0,2
+Pie-grièche à tête rousse,2013,0,5
+Pipit spioncelle,2015,0,3
+Pouillot fitis,2018,0,4
+Rossignol philomèle,2018,0,12
+Rousserolle effarvatte,2013,0,1

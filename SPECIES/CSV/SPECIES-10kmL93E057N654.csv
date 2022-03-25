@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Barge à queue noire"
-"0";"Canard mandarin"
-"0";"Faisan vénéré"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2009,0,1
+Barge à queue noire,2017,0,1
+Canard mandarin,2019,0,23
+Faisan vénéré,2017,0,1
+Hibou des marais,2010,0,1
+Huîtrier pie,2010,0,1
+Locustelle tachetée,2009,0,1
+Nette rousse,2010,0,3
+Oie cendrée,2018,0,6
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,2
+Tichodrome échelette,2018,0,22

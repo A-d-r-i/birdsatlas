@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette rieuse"
-"0";"Nette demi-deuil"
-"0";"Petit-duc scops"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Râle des genêts"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,1
+Bruant proyer,2016,0,2
+Busard cendré,2016,0,1
+Chevalier culblanc,2018,0,3
+Cincle plongeur,2010,0,1
+Grèbe huppé,2017,0,20
+Grive litorne,2014,0,2
+Locustelle tachetée,2009,0,1
+Merle à plastron,2016,0,2
+Mouette rieuse,2017,0,1
+Nette demi-deuil,2017,0,1
+Petit-duc scops,2016,0,1
+Pipit spioncelle,2017,0,1
+Pluvier doré,2016,0,1
+Râle des genêts,2014,0,3
+Sarcelle d'hiver,2017,0,3
+Sizerin flammé,2018,0,4
+Vautour fauve,2008,0,2

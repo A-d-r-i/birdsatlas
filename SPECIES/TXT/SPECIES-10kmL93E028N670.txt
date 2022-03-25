@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Bécasseau tacheté
-0        Bécassin à long bec
-0        Bernache nonnette
-0        Busard cendré
-0        Canard mandarin
-0        Chevalier à pattes jaunes
-0        Chevalier stagnatile
-0        Cigogne noire
-0        Circaète Jean-le-Blanc
-0        Cochevis huppé
-0        Coucou geai
-0        Érismature rousse
-0        Fuligule morillon
-0        Gobemouche nain
-0        Goéland à ailes blanches
-0        Guifette leucoptère
-0        Harle bièvre
-0        Macareux moine
-0        Mergule nain
-0        Moineau friquet
-0        Mouette de Franklin
-0        Nette rousse
-0        Océanite de Wilson
-0        Oedicnème criard
-0        Oie à tête barrée
-0        Oie rieuse
-0        Pipit de Richard
-0        Pouillot ibérique
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette calandrelle      2015    0        2
+Bécasseau tacheté         2018    0        17
+Bécassin à long bec       2008    0        1
+Bernache nonnette         2017    0        10
+Busard cendré             2009    0        1
+Canard mandarin           2018    0        1
+Chevalier à pattes jaunes 2016    0        54
+Chevalier stagnatile      2018    0        2
+Cigogne noire             2018    0        9
+Circaète Jean-le-Blanc    2016    0        1
+Cochevis huppé            2010    0        1
+Coucou geai               2012    0        12
+Érismature rousse         2014    0        1
+Fuligule morillon         2018    0        2
+Gobemouche nain           2015    0        7
+Goéland à ailes blanches  2014    0        10
+Guifette leucoptère       2010    0        1
+Harle bièvre              2012    0        5
+Macareux moine            2016    0        86
+Mergule nain              2019    0        2
+Moineau friquet           2010    0        1
+Mouette de Franklin       2016    0        1
+Nette rousse              2015    0        2
+Océanite de Wilson        2017    0        1
+Oedicnème criard          2012    0        2
+Oie à tête barrée         2015    0        3
+Oie rieuse                2013    0        3
+Pipit de Richard          2018    0        1
+Pouillot ibérique         2018    0        1
 

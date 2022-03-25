@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Coucou geai"
-"0";"Faucon kobez"
-"0";"Grive litorne"
-"0";"Hirondelle de rivage"
-"0";"Ibis falcinelle"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette rieuse"
-"0";"Râle des genêts"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Chevalier culblanc,2013,0,1
+Cigogne noire,2013,0,2
+Corbeau freux,2013,0,2
+Coucou geai,2018,0,1
+Faucon kobez,2016,0,1
+Grive litorne,2016,0,7
+Hirondelle de rivage,2017,0,2
+Ibis falcinelle,2012,0,1
+Moineau friquet,2017,0,1
+Mouette mélanocéphale,2017,0,1
+Mouette rieuse,2017,0,2
+Râle des genêts,2014,0,1
+Sizerin cabaret,2018,0,14
+Sizerin flammé,2018,0,14
+Vautour moine,2011,0,1

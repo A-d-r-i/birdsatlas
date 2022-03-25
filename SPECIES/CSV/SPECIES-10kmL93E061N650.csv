@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Gobemouche noir"
-"0";"Guêpier d'Europe"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Petit Gravelot"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2010,0,1
+Bruant proyer,2018,0,6
+Busard des roseaux,2018,0,2
+Busard Saint-Martin,2008,0,3
+Canard pilet,2016,0,1
+Chevalier gambette,2016,0,1
+Cigogne noire,2018,0,3
+Faisan de Colchide,2017,0,7
+Faucon émerillon,2016,0,1
+Gobemouche noir,2017,0,4
+Guêpier d'Europe,2017,0,1
+Merle à plastron,2016,0,3
+Moineau friquet,2011,0,1
+Petit Gravelot,2018,0,2
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Vanneau huppé,2008,0,13

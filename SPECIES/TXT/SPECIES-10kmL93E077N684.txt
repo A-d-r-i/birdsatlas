@@ -1,51 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Buse pattue
-0        Choucas des tours
-0        Chouette hulotte
-0        Cochevis huppé
-0        Combattant varié
-0        Coucou gris
-0        Courlis cendré
-0        Effraie des clochers
-0        Épervier d'Europe
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grive mauvis
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Martinet noir
-0        Mésange à longue queue
-0        Mésange charbonnière
-0        Mésange huppée
-0        Mésange nonnette
-0        Milan noir
-0        Moineau domestique
-0        Mouette rieuse
-0        Perdrix rouge
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Pluvier guignard
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Serin cini
-0        Sittelle torchepot
-0        Tarier des prés
-0        Troglodyte mignon
-0        Verdier d'Europe
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette lulu            2013    0        3
+Autour des palombes      2011    0        1
+Bondrée apivore          2016    0        5
+Bouvreuil pivoine        2018    0        1
+Buse pattue              2009    0        1
+Choucas des tours        2018    0        9
+Chouette hulotte         2016    0        1
+Cochevis huppé           2014    0        6
+Combattant varié         2013    0        1
+Coucou gris              2012    0        5
+Courlis cendré           2014    0        1
+Effraie des clochers     2016    0        2
+Épervier d'Europe        2018    0        14
+Faucon émerillon         2018    0        7
+Faucon hobereau          2016    0        13
+Fauvette des jardins     2014    0        19
+Gallinule poule-d'eau    2012    0        3
+Geai des chênes          2018    0        10
+Gobemouche gris          2010    0        2
+Gobemouche noir          2016    0        1
+Grive mauvis             2012    0        6
+Grosbec casse-noyaux     2012    0        2
+Hibou des marais         2016    0        20
+Hirondelle de rivage     2008    0        1
+Huppe fasciée            2018    0        2
+Hypolaïs polyglotte      2014    0        26
+Martinet noir            2014    0        3
+Mésange à longue queue   2012    0        8
+Mésange charbonnière     2018    0        31
+Mésange huppée           2013    0        3
+Mésange nonnette         2013    0        3
+Milan noir               2016    0        6
+Mouette rieuse           2014    0        7
+Perdrix rouge            2016    0        1
+Pie-grièche grise        2012    0        2
+Pipit des arbres         2014    0        15
+Pluvier guignard         2017    0        2
+Pouillot fitis           2014    0        9
+Rossignol philomèle      2016    0        40
+Rougequeue à front blanc 2013    0        3
+Serin cini               2012    0        5
+Sittelle torchepot       2012    0        2
+Tarier des prés          2012    0        8
+Verdier d'Europe         2014    0        11
 

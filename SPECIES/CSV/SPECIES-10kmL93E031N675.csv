@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Canard siffleur"
-"0";"Cigogne noire"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Guêpier d'Europe"
-"0";"Loriot d'Europe"
-"0";"Pic mar"
-"0";"Pouillot siffleur"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Busard cendré,2009,0,1
+Canard siffleur,2019,0,2
+Cigogne noire,2016,0,1
+Fauvette pitchou,2018,0,5
+Fuligule morillon,2019,0,1
+Gobemouche gris,2018,0,2
+Guêpier d'Europe,2016,0,1
+Loriot d'Europe,2016,0,1
+Pic mar,2012,0,3
+Pouillot siffleur,2016,0,2
+Tarier des prés,2018,0,1
+Torcol fourmilier,2016,0,1
+Traquet motteux,2016,0,1

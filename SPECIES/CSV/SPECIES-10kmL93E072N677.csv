@@ -1,57 +1,54 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cisticole des joncs"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Huppe fasciée"
-"0";"Lusciniole à moustaches"
-"0";"Macreuse brune"
-"0";"Marouette poussin"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle des buissons"
-"0";"Spatule blanche"
-"0";"Sterne naine"
-"0";"Tichodrome échelette"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2007,0,3
+Autour des palombes,2018,0,8
+Barge à queue noire,2015,0,4
+Barge rousse,2011,0,17
+Bécasseau de Temminck,2014,0,4
+Bécasseau maubèche,2014,0,4
+Bécasse des bois,2016,0,7
+Bergeronnette flavéole (M.f.flavissima),2016,0,5
+Blongios nain,2017,0,14
+Busard cendré,2018,0,3
+Butor étoilé,2016,0,12
+Caille des blés,2014,0,6
+Canard mandarin,2017,0,9
+Chevalier arlequin,2017,0,7
+Cigogne noire,2016,0,1
+Circaète Jean-le-Blanc,2017,0,25
+Cisticole des joncs,2009,0,1
+Courlis cendré,2018,0,4
+Courlis corlieu,2017,0,3
+Cygne chanteur,2015,0,3
+Cygne de Bewick,2016,0,6
+Engoulevent d'Europe,2013,0,13
+Faisan vénéré,2018,0,1
+Fuligule milouinan,2017,0,1
+Fuligule nyroca,2018,0,23
+Garrot à oeil d'or,2016,0,77
+Goéland brun,2015,0,6
+Goéland cendré,2017,0,6
+Grèbe à cou noir,2017,0,5
+Grive litorne,2018,0,33
+Guêpier d'Europe,2018,0,5
+Guifette noire,2017,0,7
+Harle huppé,2018,0,2
+Héron pourpré,2017,0,7
+Hibou des marais,2017,0,1
+Huîtrier pie,2018,0,1
+Lusciniole à moustaches,2014,0,12
+Macreuse brune,2018,0,9
+Marouette poussin,2010,0,2
+Mouette pygmée,2017,0,7
+Mouette tridactyle,2015,0,1
+Oedicnème criard,2015,0,4
+Oie cendrée,2015,0,42
+Perdrix rouge,2018,0,5
+Pic cendré,2012,0,2
+Pic mar,2018,0,12
+Pie-grièche à tête rousse,2016,0,1
+Pouillot de Bonelli,2018,0,3
+Rousserolle des buissons,2015,0,1
+Spatule blanche,2016,0,1
+Sterne naine,2017,0,8
+Tichodrome échelette,2007,0,1
+Tournepierre à collier,2017,0,6

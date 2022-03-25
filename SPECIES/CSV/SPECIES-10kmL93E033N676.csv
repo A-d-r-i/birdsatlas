@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fuligule morillon"
-"0";"Grèbe à cou noir"
-"0";"Hirondelle de fenêtre"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Milan royal"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Serin cini"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,2
+Bec-croisé des sapins,2010,0,1
+Bergeronnette des ruisseaux,2009,0,2
+Bondrée apivore,2009,0,1
+Butor étoilé,2009,0,1
+Caille des blés,2009,0,1
+Corbeau freux,2015,0,1
+Courlis cendré,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon émerillon,2009,0,1
+Faucon hobereau,2017,0,7
+Fuligule morillon,2009,0,1
+Grèbe à cou noir,2009,0,1
+Hirondelle de fenêtre,2013,0,2
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2013,0,2
+Milan royal,2018,0,1
+Perdrix grise,2018,0,2
+Perdrix rouge,2016,0,3
+Pie-grièche écorcheur,2013,0,8
+Pipit des arbres,2018,0,15
+Pouillot siffleur,2014,0,4
+Roitelet à triple bandeau,2015,0,4
+Roitelet huppé,2009,0,3
+Rossignol philomèle,2009,0,1
+Serin cini,2009,0,1
+Traquet motteux,2016,0,3

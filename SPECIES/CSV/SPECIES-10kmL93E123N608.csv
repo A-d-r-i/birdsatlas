@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bergeronnette printanière"
-"0";"Busard pâle"
-"0";"Crabier chevelu"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fuligule nyroca"
-"0";"Goéland railleur"
-"0";"Grand Gravelot"
-"0";"Gravelot à collier interrompu"
-"0";"Grosbec casse-noyaux"
-"0";"Martinet à ventre blanc"
-"0";"Moineau cisalpin"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix rouge"
-"0";"Pluvier doré"
-"0";"Sarcelle d'été"
-"0";"Sterne hansel"
-"0";"Torcol fourmilier"
-"0";"Troglodyte mignon"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,1
+Bécasseau minute,2017,0,5
+Bécasseau variable,2017,0,1
+Bergeronnette printanière,2015,0,2
+Busard pâle,2015,0,1
+Crabier chevelu,2017,0,2
+Effraie des clochers,2018,0,1
+Faisan de Colchide,2015,0,1
+Faucon hobereau,2018,0,6
+Fauvette grisette,2015,0,1
+Fuligule nyroca,2009,0,1
+Goéland railleur,2018,0,1
+Grand Gravelot,2015,0,1
+Gravelot à collier interrompu,2009,0,1
+Grosbec casse-noyaux,2009,0,1
+Martinet à ventre blanc,2015,0,1
+Moineau cisalpin,2009,0,1
+Moineau friquet,2018,0,34
+Mouette mélanocéphale,2018,0,2
+Perdrix rouge,2017,0,3
+Pluvier doré,2015,0,4
+Sarcelle d'été,2015,0,1
+Sterne hansel,2015,0,2
+Torcol fourmilier,2017,0,1
+Troglodyte mignon,2009,0,1
+Venturon corse,2018,0,2

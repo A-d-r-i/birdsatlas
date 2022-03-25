@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Alouette calandrelle"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Canard souchet"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Fuligule milouin"
-"0";"Gorgebleue à miroir"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Paon bleu"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2013,0,5
+Alouette calandrelle,2012,0,1
+Bruant des roseaux,2018,0,11
+Bruant ortolan,2018,0,1
+Canard souchet,2016,0,1
+Cassenoix moucheté,2016,0,4
+Chevalier aboyeur,2016,0,1
+Chevalier gambette,2012,0,1
+Courlis cendré,2012,0,1
+Échasse blanche,2011,0,2
+Fuligule milouin,2018,0,1
+Gorgebleue à miroir,2011,0,1
+Huppe fasciée,2018,0,5
+Loriot d'Europe,2017,0,1
+Paon bleu,2018,0,1
+Pipit rousseline,2017,0,2
+Pluvier doré,2018,0,1
+Sarcelle d'hiver,2018,0,1
+Sizerin flammé,2017,0,4

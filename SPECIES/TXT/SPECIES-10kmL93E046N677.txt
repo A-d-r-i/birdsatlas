@@ -1,42 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Caille des blés
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Courlis cendré
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Mésange huppée
-0        Mésange noire
-0        Mouette rieuse
-0        Oedicnème criard
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic mar
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rougequeue à front blanc
-0        Tarier des prés
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2009    0        2
+Autour des palombes       2011    0        3
+Bec-croisé des sapins     2011    0        1
+Bergeronnette printanière 2017    0        2
+Bouvreuil pivoine         2018    0        14
+Bruant des roseaux        2016    0        1
+Caille des blés           2012    0        3
+Chevalier culblanc        2014    0        1
+Cigogne blanche           2017    0        2
+Cisticole des joncs       2012    0        2
+Courlis cendré            2012    0        1
+Cygne tuberculé           2010    0        2
+Engoulevent d'Europe      2012    0        3
+Faucon hobereau           2015    0        5
+Faucon pèlerin            2017    0        1
+Fauvette des jardins      2016    0        1
+Gobemouche noir           2018    0        2
+Grèbe castagneux          2012    0        1
+Grèbe huppé               2008    0        1
+Grive draine              2016    0        26
+Grive litorne             2019    0        7
+Grive mauvis              2019    0        13
+Hibou moyen-duc           2012    0        5
+Mésange huppée            2017    0        23
+Mésange noire             2017    0        2
+Mouette rieuse            2016    0        3
+Oedicnème criard          2015    0        3
+Perdrix grise             2012    0        5
+Perdrix rouge             2015    0        5
+Pic mar                   2011    0        2
+Pie-grièche écorcheur     2016    0        7
+Pie-grièche grise         2011    0        3
+Pipit farlouse            2017    0        13
+Pouillot fitis            2011    0        4
+Pouillot siffleur         2010    0        2
+Rougequeue à front blanc  2014    0        3
+Tarier des prés           2008    0        1
+Tarin des aulnes          2018    0        13
 

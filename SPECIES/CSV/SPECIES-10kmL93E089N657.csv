@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Eider à duvet"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Goéland brun"
-"0";"Guifette noire"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Marouette ponctuée"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Panure à moustaches"
-"0";"Paon bleu"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Plongeon catmarin"
-"0";"Rousserolle verderolle"
-"0";"Tadorne de Belon"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,1
+Aigrette garzette,2013,0,3
+Bécasse des bois,2017,0,1
+Bihoreau gris,2013,0,1
+Busard des roseaux,2017,0,6
+Caille des blés,2011,0,3
+Cassenoix moucheté,2015,0,1
+Chevalier aboyeur,2015,0,1
+Cigogne noire,2008,0,2
+Corbeau freux,2018,0,4
+Eider à duvet,2007,0,1
+Fauvette des jardins,2017,0,4
+Fauvette grisette,2017,0,7
+Goéland brun,2012,0,6
+Guifette noire,2015,0,1
+Héron pourpré,2017,0,1
+Locustelle tachetée,2013,0,2
+Loriot d'Europe,2013,0,1
+Marouette ponctuée,2017,0,1
+Moineau friquet,2016,0,2
+Mouette tridactyle,2017,0,2
+Nette rousse,2019,0,16
+Panure à moustaches,2015,0,2
+Paon bleu,2016,0,1
+Petit-duc scops,2007,0,1
+Phragmite des joncs,2011,0,2
+Pie-grièche grise,2007,0,1
+Plongeon catmarin,2012,0,3
+Rousserolle verderolle,2017,0,2
+Tadorne de Belon,2007,0,1
+Vanneau huppé,2018,0,1

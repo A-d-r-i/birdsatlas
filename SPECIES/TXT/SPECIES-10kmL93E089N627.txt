@@ -1,39 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Blongios nain
-0        Busard cendré
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard mandarin
-0        Canard pilet
-0        Canard souchet
-0        Chevalier guignette
-0        Cigogne noire
-0        Dendrocygne fauve
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Fuligule nyroca
-0        Grèbe à cou noir
-0        Héron pourpré
-0        Hibou des marais
-0        Hirondelle rousseline
-0        Linotte mélodieuse
-0        Monticole bleu
-0        Pie-grièche à tête rousse
-0        Pie-grièche écorcheur
-0        Pie-grièche méridionale
-0        Pouillot à grands sourcils
-0        Rémiz penduline
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Torcol fourmilier
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigle botté                2018    0        5
+Bécasse des bois           2012    0        2
+Bécassine des marais       2007    0        1
+Bec-croisé des sapins      2013    0        1
+Bihoreau gris              2017    0        4
+Blongios nain              2015    0        16
+Busard cendré              2016    0        2
+Busard Saint-Martin        2017    0        9
+Caille des blés            2009    0        1
+Canard mandarin            2017    0        6
+Canard pilet               2017    0        8
+Canard souchet             2013    0        1
+Chevalier guignette        2017    0        2
+Cigogne noire              2014    0        2
+Dendrocygne fauve          2013    0        1
+Engoulevent d'Europe       2013    0        7
+Faucon émerillon           2009    0        1
+Fauvette pitchou           2009    0        1
+Fuligule nyroca            2012    0        2
+Grèbe à cou noir           2014    0        1
+Héron pourpré              2017    0        5
+Hibou des marais           2018    0        1
+Hirondelle rousseline      2017    0        2
+Linotte mélodieuse         2018    0        13
+Monticole bleu             2018    0        5
+Pie-grièche à tête rousse  2012    0        2
+Pie-grièche écorcheur      2017    0        8
+Pie-grièche méridionale    2010    0        3
+Pouillot à grands sourcils 2016    0        3
+Rémiz penduline            2017    0        2
+Rousserolle effarvatte     2014    0        1
+Sarcelle d'hiver           2010    0        1
+Tarier des prés            2018    0        17
+Torcol fourmilier          2016    0        1
 

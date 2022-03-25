@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Goéland argenté"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Milan noir"
-"0";"Rousserolle verderolle"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Goéland argenté,2009,0,1
+Hibou moyen-duc,2015,0,2
+Huppe fasciée,2016,0,2
+Milan noir,2009,0,1
+Rousserolle verderolle,2009,0,1
+Tadorne de Belon,2009,0,1

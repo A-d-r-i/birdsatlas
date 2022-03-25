@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasseau minute
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant fou
-0        Busard pâle
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Cincle plongeur
-0        Faucon hobereau
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Guêpier d'Europe
-0        Guifette moustac
-0        Guifette noire
-0        Harle piette
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Macreuse brune
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Petit Gravelot
-0        Pigeon colombin
-0        Plongeon arctique
-0        Plongeon imbrin
-0        Sarcelle d'été
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2011    0        1
+Autour des palombes   2018    0        8
+Avocette élégante     2016    0        4
+Bécasseau minute      2017    0        1
+Bécassine des marais  2013    0        1
+Bec-croisé des sapins 2017    0        4
+Bihoreau gris         2010    0        2
+Bondrée apivore       2016    0        9
+Bruant des roseaux    2016    0        2
+Bruant fou            2012    0        4
+Busard pâle           2016    0        2
+Chevalier aboyeur     2013    0        1
+Chevalier gambette    2010    0        2
+Cincle plongeur       2014    0        1
+Faucon hobereau       2016    0        5
+Grand Gravelot        2017    0        1
+Grèbe à cou noir      2016    0        1
+Grèbe castagneux      2019    0        30
+Guêpier d'Europe      2018    0        2
+Guifette moustac      2012    0        1
+Guifette noire        2008    0        1
+Harle piette          2010    0        3
+Héron pourpré         2009    0        1
+Hibou moyen-duc       2012    0        1
+Macreuse brune        2016    0        1
+Oie cendrée           2009    0        1
+Ouette d'Egypte       2016    0        1
+Petit Gravelot        2014    0        1
+Pigeon colombin       2012    0        1
+Plongeon arctique     2007    0        1
+Plongeon imbrin       2010    0        5
+Sarcelle d'été        2008    0        1
+Traquet motteux       2017    0        9
+Vanneau huppé         2017    0        2
+Vautour fauve         2010    0        1
 

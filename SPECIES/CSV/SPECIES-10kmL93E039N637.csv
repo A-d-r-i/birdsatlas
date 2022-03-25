@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Léiothrix jaune"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Océanite culblanc"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Spatule blanche"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,1
+Alouette des champs,2016,0,16
+Bécasse des bois,2012,0,2
+Bergeronnette printanière,2014,0,2
+Bihoreau gris,2010,0,1
+Bouscarle de Cetti,2012,0,3
+Bouvreuil pivoine,2014,0,62
+Bruant des roseaux,2016,0,5
+Bruant jaune,2016,0,4
+Bruant ortolan,2010,0,1
+Busard Saint-Martin,2016,0,6
+Caille des blés,2009,0,2
+Calopsitte élégante,2012,0,1
+Chevalier guignette,2014,0,3
+Chevêche d'Athéna,2018,0,3
+Cisticole des joncs,2012,0,2
+Cochevis huppé,2017,0,1
+Courlis cendré,2013,0,27
+Élanion blanc,2016,0,3
+Engoulevent d'Europe,2014,0,18
+Faucon hobereau,2014,0,15
+Faucon kobez,2008,0,1
+Fauvette grisette,2012,0,6
+Gobemouche gris,2012,0,18
+Gobemouche noir,2012,0,4
+Grand Cormoran,2014,0,3
+Grive litorne,2016,0,2
+Grosbec casse-noyaux,2015,0,5
+Hibou moyen-duc,2015,0,1
+Hirondelle de fenêtre,2012,0,8
+Hypolaïs polyglotte,2017,0,14
+Léiothrix jaune,2012,0,4
+Locustelle tachetée,2012,0,2
+Merle à plastron,2014,0,3
+Mésange nonnette,2012,0,3
+Moineau friquet,2012,0,2
+Océanite culblanc,2009,0,1
+Perdrix grise,2018,0,1
+Petit Gravelot,2014,0,2
+Pie-grièche écorcheur,2012,0,6
+Pipit spioncelle,2016,0,3
+Pluvier doré,2012,0,3
+Pouillot fitis,2015,0,2
+Roitelet huppé,2014,0,4
+Sarcelle d'hiver,2012,0,1
+Serin cini,2018,0,49
+Spatule blanche,2012,0,1
+Tarier des prés,2015,0,1
+Torcol fourmilier,2012,0,5
+Tourterelle des bois,2018,0,14
+Vanneau huppé,2016,0,7

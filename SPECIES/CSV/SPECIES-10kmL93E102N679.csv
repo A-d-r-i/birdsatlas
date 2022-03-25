@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevêchette d'Europe"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Goéland cendré"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Oedicnème criard"
-"0";"Oie rieuse"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Pipit rousseline"
-"0";"Râle des genêts"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,3
+Barge à queue noire,2015,0,1
+Bécasse des bois,2018,0,2
+Bernache nonnette,2007,0,1
+Bihoreau gris,2016,0,2
+Busard cendré,2017,0,4
+Buse pattue,2011,0,48
+Canard carolin,2017,0,3
+Canard chipeau,2019,0,3
+Canard siffleur,2017,0,3
+Canard souchet,2018,0,2
+Chevalier aboyeur,2015,0,3
+Chevêchette d'Europe,2019,0,1
+Cygne chanteur,2017,0,6
+Cygne noir,2015,0,3
+Goéland cendré,2012,0,2
+Grand-duc d'Europe,2014,0,4
+Grèbe castagneux,2018,0,6
+Héron garde-boeufs,2012,0,9
+Hibou des marais,2010,0,1
+Jaseur boréal,2011,0,1
+Marouette ponctuée,2007,0,2
+Oedicnème criard,2018,0,2
+Oie rieuse,2014,0,3
+Perdrix grise,2012,0,3
+Perruche à collier,2016,0,1
+Pipit rousseline,2011,0,1
+Râle des genêts,2007,0,1
+Tadorne casarca,2018,0,2
+Tadorne de Belon,2013,0,3
+Tarier des prés,2014,0,3

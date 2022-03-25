@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grand Corbeau"
-"0";"Grèbe castagneux"
-"0";"Guifette leucoptère"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Huîtrier pie"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oie à tête barrée"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pluvier argenté"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,5
+Avocette élégante,2017,0,2
+Bécasseau cocorli,2013,0,2
+Bécasseau maubèche,2007,0,8
+Bécasseau sanderling,2014,0,6
+Bécasse des bois,2012,0,2
+Bec-croisé des sapins,2012,0,1
+Bergeronnette flavéole (M.f.flavissima),2018,0,2
+Bruant ortolan,2009,0,1
+Canard chipeau,2016,0,4
+Canard souchet,2018,0,4
+Combattant varié,2016,0,11
+Courlis cendré,2018,0,4
+Échasse blanche,2016,0,1
+Faisan vénéré,2018,0,1
+Faucon émerillon,2016,0,8
+Garrot à oeil d'or,2013,0,1
+Goéland brun,2016,0,3
+Goéland cendré,2016,0,1
+Gorgebleue à miroir,2016,0,1
+Grand Corbeau,2019,0,1
+Grèbe castagneux,2016,0,3
+Guifette leucoptère,2015,0,1
+Guifette noire,2015,0,4
+Harle bièvre,2018,0,2
+Héron pourpré,2016,0,1
+Huîtrier pie,2018,0,2
+Mésange boréale,2015,0,2
+Moineau friquet,2014,0,1
+Oie à tête barrée,2017,0,1
+Phragmite des joncs,2016,0,1
+Pic cendré,2018,0,12
+Pie-grièche à tête rousse,2017,0,2
+Pluvier argenté,2016,0,5
+Râle d'eau,2018,0,2
+Sizerin cabaret,2018,0,10
+Sizerin flammé,2018,0,10
+Torcol fourmilier,2018,0,23
+Tourterelle rieuse,2015,0,1

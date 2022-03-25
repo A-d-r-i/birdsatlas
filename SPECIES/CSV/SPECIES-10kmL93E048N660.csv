@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bouvreuil pivoine"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Outarde canepetière"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2009,0,1
+Barge à queue noire,2009,0,1
+Bécasseau de Temminck,2009,0,1
+Bécasseau minute,2007,0,2
+Bécasseau variable,2012,0,8
+Bécassine sourde,2015,0,1
+Bergeronnette flavéole (M.f.flavissima),2007,0,1
+Bouvreuil pivoine,2016,0,8
+Canard pilet,2009,0,1
+Canard siffleur,2017,0,10
+Chevalier gambette,2011,0,12
+Chevalier sylvain,2009,0,14
+Combattant varié,2015,0,7
+Courlis cendré,2012,0,1
+Faucon kobez,2008,0,6
+Faucon pèlerin,2017,0,9
+Fauvette des jardins,2017,0,18
+Fauvette pitchou,2009,0,1
+Fuligule morillon,2014,0,1
+Goéland brun,2010,0,1
+Goéland leucophée,2016,0,6
+Grand Gravelot,2015,0,5
+Grèbe à cou noir,2010,0,2
+Grèbe castagneux,2017,0,99
+Guifette moustac,2011,0,24
+Guifette noire,2012,0,19
+Harle bièvre,2011,0,5
+Héron pourpré,2018,0,4
+Hibou des marais,2015,0,61
+Ibis falcinelle,2017,0,1
+Locustelle tachetée,2015,0,4
+Merle à plastron,2015,0,1
+Mésange huppée,2017,0,5
+Mésange noire,2007,0,1
+Milan royal,2014,0,2
+Mouette rieuse,2015,0,38
+Oie cendrée,2013,0,3
+Outarde canepetière,2011,0,2
+Pouillot à grands sourcils,2008,0,1
+Pouillot siffleur,2018,0,2
+Sterne pierregarin,2013,0,44
+Tadorne de Belon,2012,0,4

@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Corneille mantelée"
-"0";"Échasse blanche"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette passerinette"
-"0";"Foulque macroule"
-"0";"Gélinotte des bois"
-"0";"Gobemouche gris"
-"0";"Goéland cendré"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Loriot d'Europe"
-"0";"Monticole de roche"
-"0";"Perdrix bartavelle"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pie-grièche grise"
-"0";"Plongeon arctique"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,6
+Bergeronnette printanière,2018,0,4
+Bruant des roseaux,2008,0,1
+Busard Saint-Martin,2014,0,4
+Chevalier culblanc,2017,0,2
+Chevêche d'Athéna,2011,0,4
+Cisticole des joncs,2016,0,2
+Corneille mantelée,2018,0,11
+Échasse blanche,2015,0,1
+Faucon émerillon,2016,0,1
+Fauvette des jardins,2016,0,7
+Fauvette passerinette,2013,0,2
+Foulque macroule,2017,0,3
+Gélinotte des bois,2009,0,2
+Gobemouche gris,2009,0,1
+Goéland cendré,2013,0,5
+Grimpereau des bois,2011,0,2
+Grive mauvis,2015,0,1
+Hibou des marais,2014,0,1
+Hibou moyen-duc,2016,0,4
+Hirondelle rousseline,2012,0,1
+Loriot d'Europe,2018,0,1
+Monticole de roche,2009,0,1
+Perdrix bartavelle,2016,0,1
+Perdrix grise,2009,0,2
+Perdrix rouge,2014,0,10
+Pie-grièche grise,2016,0,2
+Plongeon arctique,2017,0,1
+Pluvier argenté,2016,0,1
+Pouillot siffleur,2012,0,1
+Râle d'eau,2009,0,3
+Rousserolle verderolle,2008,0,1
+Sarcelle d'hiver,2012,0,2
+Sterne pierregarin,2018,0,1
+Tadorne casarca,2013,0,1
+Vautour moine,2010,0,2

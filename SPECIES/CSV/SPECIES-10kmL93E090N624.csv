@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasseau minute"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Corneille mantelée"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fauvette à lunettes"
-"0";"Flamant rose"
-"0";"Goéland brun"
-"0";"Grande Aigrette"
-"0";"Héron pourpré"
-"0";"Hypolaïs polyglotte"
-"0";"Inséparable de Fischer"
-"0";"Léiothrix jaune"
-"0";"Locustelle tachetée"
-"0";"Oedicnème criard"
-"0";"Phalarope à bec étroit"
-"0";"Phragmite des joncs"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tichodrome échelette"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,1
+Bécasseau minute,2017,0,2
+Bihoreau gris,2017,0,1
+Blongios nain,2014,0,2
+Bruant proyer,2018,0,11
+Caille des blés,2012,0,1
+Calopsitte élégante,2009,0,1
+Canard chipeau,2015,0,1
+Chevalier guignette,2012,0,1
+Cincle plongeur,2017,0,1
+Corbeau freux,2016,0,10
+Corneille mantelée,2018,0,11
+Effraie des clochers,2016,0,2
+Faucon émerillon,2017,0,5
+Fauvette à lunettes,2018,0,1
+Flamant rose,2015,0,3
+Goéland brun,2013,0,1
+Grande Aigrette,2018,0,8
+Héron pourpré,2017,0,3
+Hypolaïs polyglotte,2015,0,5
+Inséparable de Fischer,2018,0,1
+Léiothrix jaune,2018,0,1
+Locustelle tachetée,2017,0,1
+Oedicnème criard,2014,0,1
+Phalarope à bec étroit,2008,0,2
+Phragmite des joncs,2017,0,7
+Pigeon colombin,2018,0,26
+Pipit spioncelle,2017,0,3
+Pouillot à grands sourcils,2018,0,1
+Râle d'eau,2012,0,6
+Sizerin cabaret,2013,0,3
+Sizerin flammé,2013,0,3
+Sterne pierregarin,2012,0,1
+Tichodrome échelette,2017,0,10
+Vanneau huppé,2017,0,14
+Vautour fauve,2017,0,5
+Vautour moine,2017,0,1

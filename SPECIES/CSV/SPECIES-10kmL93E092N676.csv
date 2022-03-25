@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Canard carolin"
-"0";"Canard souchet"
-"0";"Cincle plongeur"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Harle bièvre"
-"0";"Locustelle tachetée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2011,0,2
+Bécassine des marais,2018,0,3
+Bec-croisé des sapins,2011,0,2
+Bergeronnette printanière,2018,0,6
+Bruant des roseaux,2018,0,11
+Busard cendré,2013,0,1
+Busard Saint-Martin,2013,0,1
+Canard carolin,2013,0,2
+Canard souchet,2012,0,1
+Cincle plongeur,2014,0,6
+Faisan de Colchide,2014,0,6
+Faucon hobereau,2013,0,3
+Gobemouche noir,2013,0,1
+Grand-duc d'Europe,2015,0,1
+Grèbe castagneux,2013,0,7
+Grive mauvis,2014,0,8
+Harle bièvre,2011,0,1
+Locustelle tachetée,2011,0,3
+Mésange huppée,2016,0,9
+Mésange noire,2017,0,15
+Moineau friquet,2016,0,7
+Ouette d'Egypte,2012,0,2
+Petit Gravelot,2016,0,1
+Pic cendré,2010,0,3
+Pic épeichette,2018,0,6
+Pie-grièche grise,2019,0,2
+Pigeon colombin,2010,0,2
+Pinson du Nord,2013,0,2
+Pipit des arbres,2011,0,3
+Râle d'eau,2012,0,2
+Rousserolle effarvatte,2016,0,5
+Sarcelle d'hiver,2011,0,2

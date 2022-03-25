@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Fauvette grisette"
-"0";"Geai des chênes"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan noir"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2019,0,2
+Alouette des champs,2009,0,2
+Bécassine des marais,2009,0,1
+Bec-croisé des sapins,2018,0,2
+Bergeronnette printanière,2009,0,1
+Bruant des roseaux,2009,0,1
+Bruant proyer,2009,0,1
+Busard Saint-Martin,2009,0,2
+Coucou gris,2009,0,1
+Effraie des clochers,2009,0,1
+Fauvette grisette,2009,0,1
+Geai des chênes,2014,0,1
+Grèbe castagneux,2009,0,1
+Grimpereau des jardins,2018,0,3
+Grive draine,2014,0,2
+Grosbec casse-noyaux,2018,0,1
+Hirondelle de fenêtre,2018,0,3
+Hypolaïs polyglotte,2009,0,1
+Locustelle tachetée,2009,0,1
+Mésange à longue queue,2014,0,1
+Mésange huppée,2016,0,1
+Mésange noire,2019,0,1
+Mésange nonnette,2016,0,4
+Milan noir,2009,0,1
+Pic noir,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Tarier pâtre,2009,0,1

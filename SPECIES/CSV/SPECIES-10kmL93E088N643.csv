@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Effraie des clochers"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pigeon colombin"
-"0";"Rousserolle effarvatte"
-"0";"Tourterelle des bois"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2013,0,1
+Bruant des roseaux,2018,0,1
+Bruant fou,2017,0,5
+Bruant ortolan,2014,0,3
+Busard des roseaux,2012,0,1
+Chevêche d'Athéna,2012,0,2
+Choucas des tours,2013,0,1
+Effraie des clochers,2013,0,2
+Goéland leucophée,2015,0,1
+Grand-duc d'Europe,2017,0,1
+Grande Aigrette,2019,0,4
+Grèbe castagneux,2018,0,1
+Grive mauvis,2017,0,7
+Merle à plastron,2018,0,2
+Moineau friquet,2017,0,1
+Oedicnème criard,2013,0,1
+Perdrix rouge,2015,0,6
+Petit-duc scops,2011,0,1
+Pigeon colombin,2015,0,1
+Rousserolle effarvatte,2016,0,8
+Tourterelle des bois,2016,0,1
+Venturon montagnard,2016,0,1

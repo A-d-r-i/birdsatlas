@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Canard pilet"
-"0";"Combattant varié"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Mouette tridactyle"
-"0";"Paon bleu"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Phalarope à bec étroit"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Tichodrome échelette"
-"0";"Tournepierre à collier"
-"0";"Vanneau armé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2013,0,2
+Bécasseau cocorli,2018,0,4
+Bécasseau de Temminck,2015,0,6
+Bécasseau maubèche,2013,0,1
+Bécasse des bois,2014,0,2
+Bihoreau gris,2013,0,3
+Bruant ortolan,2018,0,7
+Busard cendré,2018,0,8
+Canard pilet,2015,0,1
+Combattant varié,2017,0,12
+Faucon kobez,2017,0,1
+Foulque macroule,2017,0,2
+Gorgebleue à miroir,2015,0,1
+Grèbe à cou noir,2017,0,6
+Harle bièvre,2014,0,1
+Hibou des marais,2016,0,1
+Huîtrier pie,2014,0,3
+Merle à plastron,2017,0,2
+Mouette mélanocéphale,2015,0,6
+Mouette tridactyle,2009,0,1
+Paon bleu,2016,0,1
+Perruche à collier,2012,0,1
+Perruche ondulée,2015,0,2
+Petit-duc scops,2012,0,1
+Phalarope à bec étroit,2011,0,3
+Phragmite des joncs,2015,0,2
+Pie-grièche grise,2018,0,15
+Pluvier argenté,2013,0,8
+Pluvier doré,2016,0,2
+Râle d'eau,2016,0,1
+Tichodrome échelette,2016,0,1
+Tournepierre à collier,2011,0,3
+Vanneau armé,2007,0,1
+Vautour fauve,2017,0,2

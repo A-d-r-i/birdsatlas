@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Butor étoilé"
-"0";"Courlis cendré"
-"0";"Érismature rousse"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Ibis sacré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2018,0,12
+Barge rousse,2011,0,2
+Bécasseau cocorli,2011,0,5
+Bécasseau de Temminck,2017,0,2
+Bécasseau maubèche,2012,0,1
+Bécasseau sanderling,2011,0,4
+Bécassine sourde,2011,0,5
+Bergeronnette flavéole (M.f.flavissima),2015,0,4
+Bernache du Canada,2012,0,27
+Butor étoilé,2016,0,2
+Courlis cendré,2013,0,18
+Érismature rousse,2014,0,3
+Faucon émerillon,2018,0,8
+Faucon kobez,2008,0,1
+Fuligule à bec cerclé,2018,0,2
+Fuligule nyroca,2009,0,2
+Garrot à oeil d'or,2009,0,2
+Goéland cendré,2013,0,4
+Gorgebleue à miroir,2017,0,1
+Guifette moustac,2009,0,1
+Harle bièvre,2010,0,3
+Harle piette,2009,0,2
+Hibou des marais,2015,0,2
+Huîtrier pie,2008,0,1
+Ibis sacré,2011,0,6
+Pie-grièche à tête rousse,2009,0,1
+Pie-grièche grise,2011,0,15
+Plongeon imbrin,2008,0,2
+Pouillot à grands sourcils,2017,0,1
+Pouillot siffleur,2010,0,3
+Râle des genêts,2017,0,2
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Tadorne casarca,2011,0,7
+Tournepierre à collier,2017,0,1

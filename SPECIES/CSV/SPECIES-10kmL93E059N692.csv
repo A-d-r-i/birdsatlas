@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Corbeau freux"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Grèbe castagneux"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pluvier doré"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,1
+Bécassine des marais,2009,0,1
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2013,0,2
+Caille des blés,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Corbeau freux,2013,0,3
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2018,0,2
+Grèbe castagneux,2009,0,1
+Locustelle tachetée,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Moineau friquet,2013,0,1
+Mouette rieuse,2009,0,1
+Oedicnème criard,2009,0,1
+Pic épeichette,2009,0,1
+Pluvier doré,2009,0,1
+Rossignol philomèle,2009,0,1
+Rousserolle verderolle,2009,0,1

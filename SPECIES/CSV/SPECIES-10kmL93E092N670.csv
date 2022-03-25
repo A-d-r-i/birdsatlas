@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Canard siffleur"
-"0";"Corbeau freux"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,3
+Bécassine des marais,2015,0,1
+Bruant des roseaux,2014,0,3
+Bruant proyer,2012,0,3
+Canard siffleur,2017,0,1
+Corbeau freux,2018,0,15
+Foulque macroule,2010,0,5
+Grèbe castagneux,2015,0,9
+Héron pourpré,2016,0,1
+Hirondelle de rivage,2017,0,1
+Hirondelle de rochers,2018,0,1
+Hypolaïs polyglotte,2015,0,10
+Locustelle tachetée,2014,0,7
+Mésange boréale,2015,0,18
+Oie cendrée,2016,0,2
+Perdrix rouge,2017,0,12
+Pipit farlouse,2017,0,8
+Pipit spioncelle,2014,0,6
+Pluvier doré,2011,0,2
+Pouillot siffleur,2018,0,9

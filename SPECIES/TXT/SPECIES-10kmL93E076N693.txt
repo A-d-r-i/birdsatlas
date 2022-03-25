@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Corbeau freux
-0        Faisan de Colchide
-0        Fauvette grisette
-0        Foulque macroule
-0        Gobemouche gris
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Mésange nonnette
-0        Moineau friquet
-0        Perdrix grise
-0        Pic épeiche
-0        Pic épeichette
-0        Pic mar
-0        Pigeon colombin
-0        Pinson du Nord
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Tarier pâtre
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        2
+Bergeronnette printanière 2009    0        1
+Bouvreuil pivoine         2009    0        2
+Bruant des roseaux        2009    0        1
+Bruant jaune              2009    0        2
+Bruant proyer             2009    0        1
+Busard des roseaux        2009    0        1
+Busard Saint-Martin       2017    0        2
+Chevêche d'Athéna         2014    0        1
+Chouette hulotte          2009    0        1
+Corbeau freux             2018    0        3
+Faisan de Colchide        2009    0        2
+Fauvette grisette         2009    0        1
+Foulque macroule          2009    0        2
+Gobemouche gris           2009    0        1
+Grimpereau des jardins    2009    0        2
+Grive draine              2009    0        2
+Grive litorne             2009    0        1
+Grosbec casse-noyaux      2013    0        2
+Hypolaïs polyglotte       2009    0        1
+Linotte mélodieuse        2009    0        2
+Mésange nonnette          2009    0        2
+Moineau friquet           2013    0        2
+Perdrix grise             2009    0        2
+Pic épeiche               2019    0        5
+Pic épeichette            2009    0        1
+Pic mar                   2009    0        1
+Pigeon colombin           2009    0        1
+Pinson du Nord            2013    0        5
+Roitelet huppé            2009    0        1
+Rossignol philomèle       2009    0        1
+Rousserolle effarvatte    2009    0        1
+Tarier pâtre              2009    0        1
+Verdier d'Europe          2019    0        13
 

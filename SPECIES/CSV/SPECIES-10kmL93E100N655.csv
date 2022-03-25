@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Étourneau sansonnet"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des jardins"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Moineau cisalpin"
-"0";"Perdrix bartavelle"
-"0";"Pic épeichette"
-"0";"Pie-grièche écorcheur"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pluvier guignard"
-"0";"Pouillot siffleur"
-"0";"Roselin cramoisi"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2015,0,1
+Alouette lulu,2014,0,2
+Bécasse des bois,2010,0,2
+Bécassine des marais,2016,0,1
+Bruant des roseaux,2012,0,4
+Bruant jaune,2016,0,42
+Bruant zizi,2013,0,1
+Busard cendré,2017,0,3
+Chevalier culblanc,2011,0,2
+Cigogne blanche,2015,0,1
+Étourneau sansonnet,2012,0,5
+Faucon émerillon,2016,0,4
+Faucon pèlerin,2018,0,14
+Fauvette grisette,2012,0,1
+Gobemouche gris,2016,0,14
+Goéland leucophée,2010,0,2
+Grand Cormoran,2012,0,7
+Grand-duc d'Europe,2014,0,3
+Grimpereau des jardins,2015,0,1
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2017,0,10
+Guêpier d'Europe,2012,0,2
+Hirondelle de rivage,2015,0,11
+Locustelle tachetée,2015,0,3
+Moineau cisalpin,2014,0,1
+Perdrix bartavelle,2017,0,1
+Pic épeichette,2011,0,2
+Pie-grièche écorcheur,2014,0,27
+Pie-grièche grise,2010,0,1
+Pigeon biset domestique,2014,0,2
+Pluvier guignard,2011,0,2
+Pouillot siffleur,2012,0,5
+Roselin cramoisi,2017,0,4
+Tarier pâtre,2013,0,1
+Torcol fourmilier,2007,0,1
+Tourterelle turque,2015,0,1
+Vanneau huppé,2008,0,1

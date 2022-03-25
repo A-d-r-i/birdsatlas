@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bruant des roseaux"
-"0";"Chouette de Tengmalm"
-"0";"Courlis cendré"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Guêpier d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pluvier guignard"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2015,0,1
+Bruant des roseaux,2012,0,1
+Chouette de Tengmalm,2017,0,1
+Courlis cendré,2016,0,1
+Gallinule poule-d'eau,2011,0,2
+Gobemouche noir,2017,0,5
+Guêpier d'Europe,2018,0,2
+Martin-pêcheur d'Europe,2009,0,1
+Mésange boréale,2018,0,18
+Pie-grièche grise,2015,0,1
+Pigeon biset domestique,2018,0,2
+Pluvier guignard,2013,0,1
+Tichodrome échelette,2017,0,2
+Tourterelle des bois,2009,0,1
+Tourterelle turque,2018,0,6
+Venturon montagnard,2009,0,1

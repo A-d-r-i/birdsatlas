@@ -1,7 +1,7 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Cormoran huppé
-0        Faucon pèlerin
-0        Goéland leucophée
+frname            lastobs newcount oldcount
+------            ------- -------- --------
+Cormoran huppé    2009    0        1
+Faucon pèlerin    2018    0        1
+Goéland leucophée 2009    0        1
 

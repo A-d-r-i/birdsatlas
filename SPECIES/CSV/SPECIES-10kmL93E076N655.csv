@@ -1,25 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bernache du Canada"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Cassenoix moucheté"
-"0";"Chevalier sylvain"
-"0";"Courlis cendré"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Pie-grièche à tête rousse"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Aigrette garzette,2012,0,3
+Bécassine des marais,2012,0,6
+Bernache du Canada,2018,0,20
+Bruant des neiges,2013,0,1
+Bruant des roseaux,2016,0,4
+Cassenoix moucheté,2015,0,2
+Chevalier sylvain,2017,0,1
+Courlis cendré,2014,0,2
+Gallinule poule-d'eau,2013,0,2
+Grèbe castagneux,2015,0,19
+Grèbe huppé,2018,0,1
+Grive mauvis,2015,0,6
+Locustelle tachetée,2015,0,14
+Merle à plastron,2014,0,4
+Perdrix grise,2009,0,1
+Pie-grièche à tête rousse,2012,0,14
+Râle d'eau,2018,0,2
+Sizerin cabaret,2012,0,2
+Sizerin flammé,2012,0,2
+Vanneau huppé,2009,0,1

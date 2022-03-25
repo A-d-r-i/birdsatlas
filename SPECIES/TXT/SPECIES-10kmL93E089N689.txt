@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Bondrée apivore
-0        Bruant proyer
-0        Caille des blés
-0        Canard pilet
-0        Chouette hulotte
-0        Cygne tuberculé
-0        Épervier d'Europe
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Grimpereau des bois
-0        Grosbec casse-noyaux
-0        Harle bièvre
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Marouette ponctuée
-0        Martin-pêcheur d'Europe
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange nonnette
-0        Moineau friquet
-0        Ouette d'Egypte
-0        Pic mar
-0        Pic noir
-0        Pic vert
-0        Pigeon colombin
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Rousserolle verderolle
-0        Serin cini
-0        Sittelle torchepot
-0        Torcol fourmilier
-0        Troglodyte mignon
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur mouchet       2018    0        2
+Bondrée apivore         2013    0        3
+Bruant proyer           2015    0        1
+Caille des blés         2013    0        1
+Canard pilet            2018    0        2
+Chouette hulotte        2009    0        1
+Cygne tuberculé         2011    0        4
+Épervier d'Europe       2016    0        2
+Faisan de Colchide      2016    0        1
+Faucon hobereau         2017    0        2
+Fauvette babillarde     2014    0        2
+Fauvette des jardins    2009    0        1
+Grimpereau des bois     2012    0        3
+Grosbec casse-noyaux    2012    0        5
+Harle bièvre            2015    0        1
+Locustelle tachetée     2009    0        1
+Loriot d'Europe         2018    0        2
+Marouette ponctuée      2017    0        1
+Martin-pêcheur d'Europe 2016    0        2
+Mésange à longue queue  2012    0        3
+Mésange boréale         2012    0        2
+Mésange nonnette        2012    0        7
+Moineau friquet         2011    0        2
+Ouette d'Egypte         2017    0        1
+Pic mar                 2012    0        7
+Pic noir                2012    0        1
+Pic vert                2018    0        2
+Pigeon colombin         2012    0        1
+Roitelet huppé          2009    0        1
+Rousserolle turdoïde    2007    0        1
+Rousserolle verderolle  2017    0        1
+Serin cini              2009    0        1
+Sittelle torchepot      2012    0        6
+Torcol fourmilier       2009    0        1
+Troglodyte mignon       2018    0        4
 

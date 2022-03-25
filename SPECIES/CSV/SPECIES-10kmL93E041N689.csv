@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bergeronnette des ruisseaux"
-"0";"Canard colvert"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Hibou moyen-duc"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pipit des arbres"
-"0";"Rougequeue noir"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,2
+Bergeronnette des ruisseaux,2009,0,1
+Canard colvert,2009,0,1
+Fauvette babillarde,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2009,0,1
+Hibou moyen-duc,2009,0,1
+Martinet noir,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Pipit des arbres,2009,0,1
+Rougequeue noir,2009,0,1
+Tarier pâtre,2009,0,1

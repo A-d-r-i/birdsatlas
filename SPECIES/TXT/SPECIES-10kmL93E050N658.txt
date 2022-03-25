@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Busard cendré
-0        Busard des roseaux
-0        Canard chipeau
-0        Chevalier guignette
-0        Corbeau freux
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Fauvette des jardins
-0        Fou de Bassan
-0        Gobemouche gris
-0        Goéland leucophée
-0        Guifette moustac
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Perdrix grise
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot fitis
-0        Roitelet huppé
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2009    0        2
+Bécasse des bois          2015    0        3
+Bergeronnette printanière 2018    0        7
+Bondrée apivore           2018    0        6
+Bouvreuil pivoine         2011    0        3
+Busard cendré             2017    0        23
+Busard des roseaux        2011    0        2
+Canard chipeau            2011    0        2
+Chevalier guignette       2011    0        2
+Corbeau freux             2018    0        5
+Courlis cendré            2010    0        2
+Engoulevent d'Europe      2009    0        2
+Fauvette des jardins      2016    0        14
+Fou de Bassan             2018    0        1
+Gobemouche gris           2017    0        5
+Goéland leucophée         2013    0        1
+Guifette moustac          2016    0        1
+Hirondelle de rivage      2015    0        1
+Locustelle tachetée       2014    0        4
+Perdrix grise             2017    0        2
+Phragmite des joncs       2007    0        1
+Pie-grièche à tête rousse 2011    0        7
+Pigeon biset domestique   2014    0        5
+Pipit spioncelle          2014    0        1
+Pluvier doré              2019    0        5
+Pouillot fitis            2016    0        7
+Roitelet huppé            2015    0        3
+Tarier des prés           2015    0        1
 

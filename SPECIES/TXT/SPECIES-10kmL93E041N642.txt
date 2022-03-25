@@ -1,59 +1,59 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bruant ortolan
-0        Bruant proyer
-0        Canard carolin
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis cendré
-0        Crave à bec rouge
-0        Dendrocygne fauve
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Faucon émerillon
-0        Faucon kobez
-0        Fauvette babillarde
-0        Goéland marin
-0        Grand Corbeau
-0        Grand Gravelot
-0        Grand Labbe
-0        Grèbe à cou noir
-0        Guêpier d'Europe
-0        Huîtrier pie
-0        Ibis falcinelle
-0        Ibis sacré
-0        Inséparable masqué
-0        Léiothrix jaune
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Mouette tridactyle
-0        Nette demi-deuil
-0        Océanite culblanc
-0        Oedicnème criard
-0        Perdrix rouge
-0        Perruche ondulée
-0        Pic noir
-0        Pie-grièche à tête rousse
-0        Plongeon catmarin
-0        Pluvier doré
-0        Pluvier guignard
-0        Pouillot à grands sourcils
-0        Pouillot ibérique
-0        Rémiz penduline
-0        Sterne naine
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Vautour fauve
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Accenteur alpin            2011    0        1
+Autour des palombes        2016    0        4
+Avocette élégante          2013    0        1
+Barge à queue noire        2014    0        9
+Bécasseau variable         2009    0        1
+Bécassine sourde           2017    0        4
+Bec-croisé des sapins      2010    0        1
+Bruant ortolan             2017    0        1
+Bruant proyer              2018    0        3
+Canard carolin             2013    0        15
+Chevalier arlequin         2017    0        2
+Chevalier gambette         2011    0        1
+Chevalier sylvain          2018    0        5
+Cochevis huppé             2016    0        17
+Combattant varié           2017    0        12
+Courlis cendré             2017    0        5
+Crave à bec rouge          2015    0        1
+Dendrocygne fauve          2014    0        6
+Engoulevent d'Europe       2013    0        1
+Érismature rousse          2010    0        2
+Faucon émerillon           2012    0        5
+Faucon kobez               2008    0        1
+Fauvette babillarde        2008    0        1
+Goéland marin              2017    0        1
+Grand Corbeau              2016    0        2
+Grand Gravelot             2017    0        2
+Grand Labbe                2009    0        4
+Grèbe à cou noir           2015    0        4
+Guêpier d'Europe           2014    0        3
+Huîtrier pie               2007    0        1
+Ibis falcinelle            2015    0        2
+Ibis sacré                 2019    0        17
+Inséparable masqué         2014    0        1
+Léiothrix jaune            2012    0        1
+Locustelle luscinioïde     2009    0        2
+Locustelle tachetée        2011    0        1
+Mouette tridactyle         2014    0        15
+Nette demi-deuil           2009    0        2
+Océanite culblanc          2015    0        3
+Oedicnème criard           2017    0        3
+Perdrix rouge              2013    0        1
+Perruche ondulée           2013    0        5
+Pic noir                   2016    0        2
+Pie-grièche à tête rousse  2016    0        2
+Plongeon catmarin          2010    0        9
+Pluvier doré               2018    0        13
+Pluvier guignard           2017    0        1
+Pouillot à grands sourcils 2018    0        6
+Pouillot ibérique          2018    0        2
+Rémiz penduline            2014    0        13
+Sterne naine               2007    0        1
+Sterne pierregarin         2015    0        3
+Tadorne casarca            2015    0        6
+Tadorne de Belon           2011    0        8
+Vautour fauve              2012    0        3
 

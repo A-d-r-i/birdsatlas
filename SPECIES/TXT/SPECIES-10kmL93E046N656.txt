@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Blongios nain
-0        Bouvreuil pivoine
-0        Canard mandarin
-0        Combattant varié
-0        Fauvette des jardins
-0        Gobemouche gris
-0        Grèbe à cou noir
-0        Mésange nonnette
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix grise
-0        Pic épeichette
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2012    0        6
+Bécasse des bois       2013    0        10
+Blongios nain          2013    0        1
+Bouvreuil pivoine      2016    0        2
+Canard mandarin        2012    0        1
+Combattant varié       2016    0        1
+Fauvette des jardins   2012    0        3
+Gobemouche gris        2017    0        3
+Grèbe à cou noir       2018    0        2
+Mésange nonnette       2018    0        5
+Moineau friquet        2009    0        1
+Mouette rieuse         2018    0        5
+Perdrix grise          2018    0        10
+Pic épeichette         2015    0        2
+Rousserolle effarvatte 2018    0        1
+Tarier des prés        2017    0        4
+Torcol fourmilier      2018    0        1
 

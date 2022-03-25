@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bouvreuil pivoine"
-"0";"Chevalier arlequin"
-"0";"Cygne noir"
-"0";"Faucon pèlerin"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche à collier"
-"0";"Gobemouche noir"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Grimpereau des bois"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Merle à plastron"
-"0";"Pie-grièche grise"
-"0";"Pinson du Nord"
-"0";"Pouillot siffleur"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2014,0,1
+Bouvreuil pivoine,2017,0,2
+Chevalier arlequin,2013,0,1
+Cygne noir,2018,0,1
+Faucon pèlerin,2016,0,1
+Garrot à oeil d'or,2016,0,1
+Gobemouche à collier,2016,0,13
+Gobemouche noir,2018,0,1
+Gorgebleue à miroir,2013,0,3
+Grèbe à cou noir,2016,0,3
+Grèbe jougris,2010,0,1
+Grimpereau des bois,2017,0,8
+Harle bièvre,2017,0,3
+Hibou moyen-duc,2015,0,1
+Hirondelle de rivage,2016,0,2
+Merle à plastron,2015,0,1
+Pie-grièche grise,2013,0,2
+Pinson du Nord,2018,0,2
+Pouillot siffleur,2016,0,3
+Sizerin flammé,2016,0,1
+Sterne pierregarin,2016,0,1
+Tarier des prés,2017,0,1
+Tarin des aulnes,2016,0,6
+Torcol fourmilier,2014,0,2

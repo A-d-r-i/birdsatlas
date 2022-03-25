@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau maubèche"
-"0";"Blongios nain"
-"0";"Bruant jaune"
-"0";"Buse pattue"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Chevalier sylvain"
-"0";"Cochevis huppé"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Mésange nonnette"
-"0";"Oie à tête barrée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pingouin torda"
-"0";"Pluvier argenté"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,10
+Bécasseau maubèche,2009,0,1
+Blongios nain,2011,0,1
+Bruant jaune,2016,0,19
+Buse pattue,2015,0,1
+Butor étoilé,2010,0,4
+Caille des blés,2011,0,5
+Calopsitte élégante,2011,0,1
+Canard carolin,2011,0,1
+Canard mandarin,2011,0,2
+Chevalier sylvain,2011,0,2
+Cochevis huppé,2012,0,5
+Grèbe à cou noir,2009,0,3
+Grosbec casse-noyaux,2018,0,8
+Guifette noire,2018,0,1
+Macreuse noire,2008,0,1
+Merle à plastron,2015,0,1
+Mésange nonnette,2016,0,10
+Oie à tête barrée,2015,0,2
+Pie-grièche à tête rousse,2018,0,3
+Pigeon biset (origine naturelle),2019,0,10
+Pingouin torda,2018,0,2
+Pluvier argenté,2010,0,3
+Rémiz penduline,2014,0,1
+Rousserolle turdoïde,2010,0,7
+Sizerin cabaret,2018,0,5
+Sizerin flammé,2018,0,5

@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Goéland leucophée"
-"0";"Grive litorne"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Léiothrix jaune"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Barge à queue noire,2008,0,1
+Bécasse des bois,2014,0,4
+Bécassine sourde,2011,0,2
+Bec-croisé des sapins,2008,0,1
+Bihoreau gris,2014,0,2
+Bruant ortolan,2014,0,1
+Busard cendré,2016,0,8
+Butor étoilé,2014,0,4
+Caille des blés,2015,0,6
+Canard carolin,2010,0,2
+Canard souchet,2015,0,9
+Chevalier gambette,2015,0,4
+Cigogne noire,2017,0,2
+Échasse blanche,2014,0,2
+Effraie des clochers,2018,0,9
+Faucon d'Eléonore,2013,0,1
+Faucon kobez,2015,0,1
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2018,0,5
+Foulque macroule,2015,0,1
+Fuligule milouin,2015,0,1
+Goéland leucophée,2015,0,2
+Grive litorne,2016,0,1
+Harle huppé,2008,0,1
+Hibou des marais,2015,0,1
+Léiothrix jaune,2015,0,1
+Marouette ponctuée,2015,0,1
+Merle à plastron,2014,0,2
+Mésange noire,2018,0,5
+Mouette rieuse,2015,0,6
+Oie cendrée,2011,0,2
+Phragmite des joncs,2013,0,2
+Pigeon biset domestique,2009,0,1
+Pigeon colombin,2017,0,3
+Pinson du Nord,2018,0,13
+Rémiz penduline,2012,0,1
+Rollier d'Europe,2012,0,1
+Sarcelle d'hiver,2018,0,26
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,4
+Spatule blanche,2015,0,1
+Tarier des prés,2018,0,7

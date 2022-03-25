@@ -1,36 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Gobemouche gris"
-"0";"Grand-duc d'Europe"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Nette rousse"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Bécasse des bois,2016,0,3
+Bécassine sourde,2012,0,1
+Bergeronnette printanière,2015,0,3
+Bernache nonnette,2017,0,1
+Bondrée apivore,2016,0,7
+Bruant proyer,2017,0,5
+Busard cendré,2015,0,1
+Busard Saint-Martin,2017,0,3
+Chevalier culblanc,2017,0,3
+Chevalier guignette,2017,0,3
+Gobemouche gris,2016,0,2
+Grand-duc d'Europe,2017,0,2
+Harle bièvre,2014,0,2
+Hibou moyen-duc,2017,0,4
+Hirondelle de rivage,2014,0,3
+Huppe fasciée,2013,0,2
+Locustelle tachetée,2017,0,7
+Mouette rieuse,2016,0,12
+Nette rousse,2017,0,2
+Perruche à collier,2018,0,1
+Petit Gravelot,2010,0,2
+Pic cendré,2017,0,3
+Pie-grièche grise,2016,0,1
+Pipit spioncelle,2012,0,1
+Pluvier doré,2012,0,2
+Rousserolle effarvatte,2017,0,6
+Rousserolle verderolle,2014,0,8
+Sarcelle d'été,2012,0,1
+Tarier des prés,2017,0,4
+Vanneau huppé,2017,0,5

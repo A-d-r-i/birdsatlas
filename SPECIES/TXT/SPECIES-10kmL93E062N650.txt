@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bihoreau gris
-0        Butor étoilé
-0        Canard pilet
-0        Canard souchet
-0        Chouette de Tengmalm
-0        Échasse blanche
-0        Effraie des clochers
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule morillon
-0        Guifette moustac
-0        Harle bièvre
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Moineau friquet
-0        Mouette rieuse
-0        Oie à tête barrée
-0        Petit-duc scops
-0        Pipit rousseline
-0        Plongeon imbrin
-0        Vautour moine
-0        Venturon montagnard
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2016    0        1
+Bihoreau gris        2012    0        1
+Butor étoilé         2011    0        3
+Canard pilet         2012    0        3
+Canard souchet       2017    0        4
+Chouette de Tengmalm 2017    0        2
+Échasse blanche      2010    0        1
+Effraie des clochers 2017    0        3
+Foulque macroule     2015    0        2
+Fuligule milouin     2016    0        6
+Fuligule morillon    2014    0        2
+Guifette moustac     2016    0        1
+Harle bièvre         2007    0        1
+Hirondelle de rivage 2015    0        4
+Locustelle tachetée  2017    0        1
+Moineau friquet      2011    0        1
+Mouette rieuse       2016    0        1
+Oie à tête barrée    2017    0        1
+Petit-duc scops      2016    0        1
+Pipit rousseline     2007    0        1
+Plongeon imbrin      2012    0        4
+Vautour moine        2017    0        2
+Venturon montagnard  2017    0        1
 

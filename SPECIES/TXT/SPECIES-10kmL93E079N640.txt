@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard des roseaux
-0        Canard colvert
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon kobez
-0        Fauvette des jardins
-0        Gobemouche gris
-0        Grimpereau des bois
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Pigeon colombin
-0        Pipit rousseline
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Verdier d'Europe
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Busard des roseaux   2017    0        1
+Canard colvert       2014    0        2
+Chevalier aboyeur    2015    0        2
+Chevalier culblanc   2014    0        2
+Effraie des clochers 2012    0        2
+Engoulevent d'Europe 2016    0        4
+Faucon kobez         2015    0        2
+Fauvette des jardins 2016    0        12
+Gobemouche gris      2015    0        1
+Grimpereau des bois  2017    0        9
+Grosbec casse-noyaux 2013    0        2
+Hibou moyen-duc      2012    0        2
+Huppe fasciée        2011    0        1
+Locustelle tachetée  2012    0        3
+Pigeon colombin      2016    0        1
+Pipit rousseline     2016    0        1
+Pouillot de Bonelli  2012    0        1
+Pouillot fitis       2017    0        2
+Verdier d'Europe     2014    0        5
 

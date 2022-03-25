@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Goéland cendré
-0        Goéland leucophée
-0        Locustelle tachetée
-0        Mésange boréale
-0        Moineau friquet
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2018    0        2
+Bruant proyer             2018    0        3
+Cochevis huppé            2009    0        2
+Engoulevent d'Europe      2009    0        1
+Goéland cendré            2018    0        1
+Goéland leucophée         2018    0        1
+Locustelle tachetée       2009    0        1
+Mésange boréale           2017    0        1
+Moineau friquet           2014    0        2
 

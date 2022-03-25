@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bihoreau gris
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Canard chipeau
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier gambette
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Cochevis huppé
-0        Courlis cendré
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fuligule morillon
-0        Gobemouche noir
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron garde-boeufs
-0        Hibou des marais
-0        Locustelle tachetée
-0        Mésange noire
-0        Ouette d'Egypte
-0        Petit Gravelot
-0        Pic épeichette
-0        Pipit farlouse
-0        Pluvier doré
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2013    0        2
+Bihoreau gris          2012    0        2
+Bouscarle de Cetti     2018    0        1
+Bruant des roseaux     2013    0        5
+Busard cendré          2016    0        2
+Busard des roseaux     2017    0        5
+Canard chipeau         2011    0        1
+Canard pilet           2014    0        2
+Canard siffleur        2015    0        15
+Chevalier gambette     2013    0        2
+Chevêche d'Athéna      2016    0        2
+Cigogne noire          2017    0        1
+Cochevis huppé         2009    0        1
+Courlis cendré         2013    0        2
+Effraie des clochers   2018    0        5
+Faucon émerillon       2012    0        2
+Faucon hobereau        2018    0        6
+Fauvette babillarde    2009    0        1
+Fuligule morillon      2009    0        1
+Gobemouche noir        2014    0        1
+Goéland brun           2012    0        3
+Gorgebleue à miroir    2013    0        1
+Grive mauvis           2018    0        10
+Grosbec casse-noyaux   2018    0        17
+Héron garde-boeufs     2018    0        1
+Hibou des marais       2014    0        3
+Locustelle tachetée    2012    0        2
+Mésange noire          2016    0        3
+Ouette d'Egypte        2016    0        1
+Petit Gravelot         2013    0        1
+Pic épeichette         2017    0        11
+Pipit farlouse         2009    0        1
+Pluvier doré           2018    0        28
+Pouillot siffleur      2013    0        1
+Rousserolle effarvatte 2017    0        5
+Tadorne casarca        2018    0        30
+Tadorne de Belon       2009    0        1
+Tarier des prés        2016    0        2
+Tarin des aulnes       2016    0        12
+Torcol fourmilier      2014    0        1
 

@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bruant lapon
-0        Cormoran huppé
-0        Crabier chevelu
-0        Engoulevent d'Europe
-0        Fuligule milouinan
-0        Gravelot à collier interrompu
-0        Harle huppé
-0        Hypolaïs ictérine
-0        Mouette tridactyle
-0        Oie à tête barrée
-0        Oie des moissons
-0        Perruche à collier
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Plongeon catmarin
-0        Pluvier guignard
-0        Pouillot à grands sourcils
-0        Râle des genêts
-0        Rémiz penduline
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne hansel
-0        Torcol fourmilier
-0        Vautour fauve
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Barge rousse                  2018    0        9
+Bécasseau cocorli             2016    0        2
+Bruant lapon                  2010    0        1
+Cormoran huppé                2018    0        2
+Crabier chevelu               2010    0        2
+Engoulevent d'Europe          2013    0        2
+Fuligule milouinan            2015    0        2
+Gravelot à collier interrompu 2010    0        1
+Harle huppé                   2007    0        1
+Hypolaïs ictérine             2018    0        1
+Mouette tridactyle            2012    0        2
+Oie à tête barrée             2016    0        5
+Oie des moissons              2011    0        2
+Perruche à collier            2016    0        2
+Petit-duc scops               2014    0        1
+Pie-grièche à tête rousse     2018    0        5
+Plongeon catmarin             2014    0        1
+Pluvier guignard              2017    0        2
+Pouillot à grands sourcils    2017    0        26
+Râle des genêts               2013    0        1
+Rémiz penduline               2014    0        2
+Sizerin cabaret               2017    0        1
+Sizerin flammé                2017    0        4
+Sterne hansel                 2016    0        1
+Torcol fourmilier             2016    0        6
+Vautour fauve                 2017    0        1
 

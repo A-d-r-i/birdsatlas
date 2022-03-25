@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bruant des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Grimpereau des bois"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2019,0,2
+Bergeronnette printanière,2018,0,1
+Bernache cravant,2019,0,1
+Bernache du Canada,2018,0,1
+Bruant des roseaux,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Épervier d'Europe,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2009,0,1
+Grimpereau des bois,2009,0,1
+Hibou moyen-duc,2017,0,3
+Huppe fasciée,2009,0,1
+Loriot d'Europe,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Serin cini,2017,0,2

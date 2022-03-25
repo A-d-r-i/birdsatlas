@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bec-croisé des sapins
-0        Bruant ortolan
-0        Busard cendré
-0        Canard mandarin
-0        Cassenoix moucheté
-0        Chevalier aboyeur
-0        Courlis cendré
-0        Cygne chanteur
-0        Cygne de Bewick
-0        Échasse blanche
-0        Effraie des clochers
-0        Faisan vénéré
-0        Fauvette babillarde
-0        Fauvette orphée
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Grand Gravelot
-0        Guifette moustac
-0        Huîtrier pie
-0        Ibis falcinelle
-0        Ibis sacré
-0        Locustelle luscinioïde
-0        Macreuse brune
-0        Moineau soulcie
-0        Mouette tridactyle
-0        Océanite tempête
-0        Oie rieuse
-0        Panure à moustaches
-0        Paon bleu
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pluvier doré
-0        Sterne caspienne
-0        Sterne caugek
-0        Sterne naine
-0        Tournepierre à collier
-0        Vanneau huppé
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Avocette élégante         2012    0        2
+Bécasseau sanderling      2007    0        1
+Bécasseau variable        2016    0        1
+Bec-croisé des sapins     2014    0        3
+Bruant ortolan            2010    0        2
+Busard cendré             2016    0        3
+Canard mandarin           2019    0        1
+Cassenoix moucheté        2013    0        1
+Chevalier aboyeur         2013    0        3
+Courlis cendré            2012    0        2
+Cygne chanteur            2008    0        3
+Cygne de Bewick           2009    0        1
+Échasse blanche           2016    0        2
+Effraie des clochers      2010    0        2
+Faisan vénéré             2014    0        1
+Fauvette babillarde       2012    0        1
+Fauvette orphée           2016    0        1
+Fuligule morillon         2019    0        53
+Garrot à oeil d'or        2012    0        2
+Grand Gravelot            2016    0        3
+Guifette moustac          2017    0        4
+Huîtrier pie              2007    0        1
+Ibis falcinelle           2018    0        5
+Ibis sacré                2011    0        2
+Locustelle luscinioïde    2013    0        2
+Macreuse brune            2007    0        1
+Moineau soulcie           2011    0        4
+Mouette tridactyle        2009    0        1
+Océanite tempête          2009    0        2
+Oie rieuse                2011    0        4
+Panure à moustaches       2019    0        2
+Paon bleu                 2013    0        1
+Phragmite des joncs       2013    0        6
+Pie-grièche à tête rousse 2012    0        1
+Pie-grièche grise         2013    0        1
+Pigeon colombin           2012    0        4
+Pluvier doré              2011    0        1
+Sterne caspienne          2018    0        1
+Sterne caugek             2016    0        1
+Sterne naine              2018    0        1
+Tournepierre à collier    2007    0        1
+Vanneau huppé             2014    0        5
+Vautour moine             2012    0        1
 

@@ -1,46 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Alouette lulu,2011,0,2
+Bécasse des bois,2009,0,1
+Bécassine des marais,2017,0,1
+Bergeronnette printanière,2014,0,7
+Bernache du Canada,2009,0,2
+Bihoreau gris,2009,0,1
+Bondrée apivore,2017,0,2
+Busard cendré,2016,0,3
+Canard mandarin,2009,0,1
+Chevalier sylvain,2016,0,1
+Chevêche d'Athéna,2012,0,2
+Chouette hulotte,2014,0,1
+Coucou gris,2018,0,5
+Faisan de Colchide,2013,0,5
+Faucon émerillon,2014,0,1
+Faucon hobereau,2009,0,1
+Grèbe castagneux,2017,0,4
+Grèbe huppé,2009,0,1
+Grive litorne,2013,0,2
+Hirondelle de rivage,2017,0,4
+Huppe fasciée,2014,0,2
+Linotte mélodieuse,2016,0,6
+Locustelle tachetée,2009,0,1
+Martin-pêcheur d'Europe,2017,0,6
+Ouette d'Egypte,2009,0,1
+Perdrix grise,2014,0,7
+Perdrix rouge,2014,0,4
+Petit Gravelot,2014,0,2
+Pie-grièche écorcheur,2009,0,1
+Pipit des arbres,2010,0,2
+Pipit farlouse,2016,0,4
+Pipit spioncelle,2014,0,1
+Pouillot fitis,2017,0,3
+Râle d'eau,2009,0,1
+Roitelet à triple bandeau,2011,0,2
+Sterne pierregarin,2017,0,3
+Tadorne de Belon,2014,0,3
+Tarier des prés,2016,0,2
+Tarier pâtre,2016,0,2
+Tarin des aulnes,2013,0,3
+Traquet motteux,2016,0,5

@@ -1,48 +1,46 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette calandrelle"
-"0";"Astrild ondulé"
-"0";"Avocette élégante"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Canard à collier noir"
-"0";"Chouette de Tengmalm"
-"0";"Courlis corlieu"
-"0";"Cygne chanteur"
-"0";"Eider à duvet"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faisan vénéré"
-"0";"Faucon kobez"
-"0";"Fauvette mélanocéphale"
-"0";"Fauvette passerinette"
-"0";"Flamant rose"
-"0";"Goéland argenté"
-"0";"Goéland railleur"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Harelde boréale"
-"0";"Jaseur boréal"
-"0";"Labbe à longue queue"
-"0";"Labbe parasite"
-"0";"Monticole de roche"
-"0";"Oie à tête barrée"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Panure à moustaches"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Pluvier guignard"
-"0";"Pouillot à grands sourcils"
-"0";"Rollier d'Europe"
-"0";"Sterne caugek"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,2
+Alouette calandrelle,2015,0,1
+Astrild ondulé,2013,0,5
+Avocette élégante,2010,0,1
+Bécasseau maubèche,2015,0,1
+Bécasseau sanderling,2018,0,12
+Bernache du Canada,2007,0,1
+Bernache nonnette,2013,0,7
+Busard pâle,2013,0,6
+Buse pattue,2017,0,71
+Canard à collier noir,2012,0,14
+Chouette de Tengmalm,2017,0,1
+Courlis corlieu,2015,0,13
+Cygne chanteur,2012,0,25
+Eider à duvet,2014,0,27
+Engoulevent d'Europe,2012,0,3
+Érismature rousse,2015,0,49
+Faisan vénéré,2015,0,1
+Faucon kobez,2016,0,8
+Fauvette mélanocéphale,2016,0,3
+Fauvette passerinette,2008,0,1
+Flamant rose,2012,0,2
+Goéland argenté,2016,0,1
+Goéland railleur,2015,0,1
+Grèbe esclavon,2017,0,4
+Grèbe jougris,2018,0,54
+Harelde boréale,2015,0,5
+Jaseur boréal,2013,0,2
+Labbe à longue queue,2014,0,1
+Labbe parasite,2014,0,2
+Monticole de roche,2017,0,1
+Oie à tête barrée,2016,0,57
+Oie des moissons,2009,0,1
+Oie rieuse,2009,0,5
+Panure à moustaches,2017,0,4
+Perdrix grise,2016,0,6
+Petit-duc scops,2016,0,1
+Pipit à gorge rousse,2013,0,1
+Pipit rousseline,2017,0,15
+Pluvier argenté,2014,0,3
+Pluvier guignard,2016,0,1
+Pouillot à grands sourcils,2016,0,4
+Rollier d'Europe,2016,0,1
+Sterne caugek,2018,0,4
+Venturon montagnard,2017,0,2

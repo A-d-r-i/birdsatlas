@@ -1,66 +1,66 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bergeronnette des ruisseaux
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Busard cendré
-0        Caille des blés
-0        Chardonneret élégant
-0        Chevalier guignette
-0        Choucas des tours
-0        Chouette hulotte
-0        Corbeau freux
-0        Coucou gris
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette à tête noire
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Fuligule milouin
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grèbe huppé
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Hypolaïs polyglotte
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange nonnette
-0        Moineau friquet
-0        Petit Gravelot
-0        Pic épeichette
-0        Pic noir
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pluvier doré
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sizerin flammé
-0        Tarier des prés
-0        Tarier pâtre
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Traquet motteux
-0        Troglodyte mignon
-0        Verdier d'Europe
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigrette garzette           2017    0        1
+Bergeronnette des ruisseaux 2010    0        3
+Bergeronnette printanière   2010    0        7
+Bruant proyer               2010    0        11
+Busard cendré               2015    0        1
+Caille des blés             2010    0        2
+Chardonneret élégant        2016    0        12
+Chevalier guignette         2017    0        2
+Choucas des tours           2018    0        4
+Chouette hulotte            2012    0        4
+Corbeau freux               2019    0        10
+Coucou gris                 2010    0        7
+Effraie des clochers        2012    0        5
+Faisan de Colchide          2010    0        3
+Faucon émerillon            2010    0        1
+Faucon hobereau             2016    0        3
+Fauvette à tête noire       2015    0        10
+Fauvette babillarde         2009    0        2
+Fauvette des jardins        2010    0        4
+Fauvette grisette           2010    0        10
+Fuligule milouin            2009    0        1
+Gobemouche gris             2010    0        2
+Grand Cormoran              2010    0        3
+Grèbe huppé                 2010    0        2
+Grimpereau des jardins      2012    0        10
+Grive draine                2019    0        8
+Grive litorne               2018    0        6
+Grive mauvis                2012    0        1
+Hypolaïs polyglotte         2010    0        6
+Locustelle luscinioïde      2010    0        1
+Locustelle tachetée         2010    0        3
+Loriot d'Europe             2010    0        5
+Martin-pêcheur d'Europe     2010    0        3
+Mésange à longue queue      2012    0        5
+Mésange boréale             2012    0        3
+Mésange huppée              2012    0        2
+Mésange nonnette            2019    0        6
+Moineau friquet             2016    0        13
+Petit Gravelot              2010    0        11
+Pic épeichette              2012    0        2
+Pic noir                    2010    0        2
+Pic vert                    2019    0        8
+Pie-grièche écorcheur       2010    0        6
+Pie-grièche grise           2009    0        2
+Pigeon biset domestique     2019    0        2
+Pigeon colombin             2010    0        1
+Pipit des arbres            2016    0        4
+Pipit farlouse              2010    0        6
+Pluvier doré                2010    0        1
+Pouillot fitis              2010    0        2
+Roitelet huppé              2012    0        5
+Rossignol philomèle         2010    0        3
+Rousserolle effarvatte      2010    0        4
+Rousserolle verderolle      2010    0        2
+Sizerin flammé              2012    0        1
+Tarier des prés             2010    0        3
+Tarier pâtre                2010    0        5
+Tarin des aulnes            2009    0        1
+Tourterelle des bois        2016    0        5
+Traquet motteux             2010    0        5
+Troglodyte mignon           2012    0        8
+Verdier d'Europe            2012    0        11
 

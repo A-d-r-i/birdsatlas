@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Caille des blés
-0        Canard pilet
-0        Canard souchet
-0        Crabier chevelu
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Guêpier d'Europe
-0        Héron pourpré
-0        Linotte mélodieuse
-0        Martinet noir
-0        Mésange noire
-0        Mouette rieuse
-0        Oie à tête barrée
-0        Ouette d'Egypte
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pluvier doré
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Tarin des aulnes
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigle botté            2018    0        1
+Aigrette garzette      2018    0        6
+Bécassine des marais   2012    0        1
+Bondrée apivore        2018    0        9
+Bouvreuil pivoine      2017    0        15
+Caille des blés        2013    0        1
+Canard pilet           2016    0        2
+Canard souchet         2014    0        2
+Crabier chevelu        2015    0        1
+Engoulevent d'Europe   2018    0        2
+Faucon pèlerin         2019    0        1
+Gobemouche noir        2018    0        2
+Grèbe castagneux       2016    0        9
+Guêpier d'Europe       2010    0        1
+Héron pourpré          2012    0        1
+Linotte mélodieuse     2017    0        11
+Martinet noir          2016    0        14
+Mésange noire          2013    0        1
+Mouette rieuse         2010    0        2
+Oie à tête barrée      2017    0        2
+Ouette d'Egypte        2016    0        20
+Perdrix rouge          2015    0        1
+Petit Gravelot         2012    0        4
+Pigeon colombin        2014    0        6
+Pluvier doré           2017    0        3
+Pouillot fitis         2018    0        3
+Roitelet huppé         2016    0        2
+Rousserolle effarvatte 2018    0        1
+Sarcelle d'hiver       2013    0        1
+Tarier des prés        2015    0        5
+Tarin des aulnes       2018    0        4
+Vanneau huppé          2018    0        26
 

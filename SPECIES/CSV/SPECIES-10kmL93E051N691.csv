@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Choucas des tours"
-"0";"Courlis cendré"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Grèbe castagneux"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Caille des blés,2009,0,1
+Choucas des tours,2009,0,2
+Courlis cendré,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette babillarde,2009,0,1
+Grèbe castagneux,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Merle à plastron,2019,0,1
+Mésange huppée,2015,0,4
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1

@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Circaète Jean-le-Blanc"
-"0";"Coucou geai"
-"0";"Coucou gris"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Petit-duc scops"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2008,0,2
+Bruant proyer,2011,0,2
+Bruant zizi,2016,0,2
+Busard Saint-Martin,2018,0,15
+Canard colvert,2015,0,9
+Chevalier guignette,2014,0,1
+Choucas des tours,2013,0,1
+Circaète Jean-le-Blanc,2011,0,1
+Coucou geai,2009,0,1
+Coucou gris,2017,0,7
+Faisan de Colchide,2011,0,2
+Fauvette grisette,2011,0,3
+Gallinule poule-d'eau,2015,0,3
+Goéland brun,2010,0,1
+Grèbe castagneux,2015,0,1
+Harle bièvre,2010,0,3
+Hirondelle de rivage,2017,0,1
+Loriot d'Europe,2017,0,1
+Martinet à ventre blanc,2018,0,3
+Merle à plastron,2014,0,2
+Moineau friquet,2017,0,4
+Mouette rieuse,2012,0,1
+Petit-duc scops,2011,0,1
+Pic cendré,2010,0,3
+Pic mar,2018,0,5
+Pigeon biset domestique,2017,0,6
+Pipit spioncelle,2018,0,6
+Pouillot siffleur,2016,0,5
+Rousserolle verderolle,2012,0,2
+Sarcelle d'hiver,2012,0,1
+Vanneau huppé,2013,0,3

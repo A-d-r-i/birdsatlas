@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant jaune
-0        Canard colvert
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Corneille noire
-0        Étourneau sansonnet
-0        Fauvette à tête noire
-0        Fauvette des jardins
-0        Gélinotte des bois
-0        Grand-duc d'Europe
-0        Grèbe huppé
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Harle bièvre
-0        Hirondelle de fenêtre
-0        Martinet noir
-0        Mésange bleue
-0        Mésange boréale
-0        Mésange huppée
-0        Milan noir
-0        Pigeon biset domestique
-0        Pigeon ramier
-0        Pinson du Nord
-0        Pouillot fitis
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Roselin cramoisi
-0        Rousserolle effarvatte
-0        Serin cini
-0        Tarin des aulnes
-0        Tichodrome échelette
-0        Tourterelle turque
-0        Verdier d'Europe
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Autour des palombes         2010    0        1
+Bergeronnette des ruisseaux 2014    0        5
+Bondrée apivore             2013    0        2
+Bruant des roseaux          2016    0        3
+Bruant jaune                2013    0        1
+Canard colvert              2016    0        13
+Chevalier culblanc          2009    0        1
+Chevalier guignette         2009    0        1
+Corneille noire             2016    0        14
+Étourneau sansonnet         2016    0        5
+Fauvette à tête noire       2016    0        10
+Fauvette des jardins        2016    0        3
+Gélinotte des bois          2013    0        1
+Grand-duc d'Europe          2009    0        2
+Grèbe huppé                 2016    0        11
+Grimpereau des bois         2013    0        1
+Grive litorne               2013    0        5
+Grive musicienne            2017    0        5
+Grosbec casse-noyaux        2014    0        2
+Harle bièvre                2015    0        4
+Hirondelle de fenêtre       2016    0        4
+Martinet noir               2016    0        5
+Mésange bleue               2016    0        12
+Mésange boréale             2014    0        4
+Mésange huppée              2012    0        2
+Milan noir                  2016    0        10
+Pigeon biset domestique     2010    0        3
+Pigeon ramier               2013    0        1
+Pinson du Nord              2011    0        2
+Pouillot fitis              2013    0        4
+Râle d'eau                  2014    0        2
+Roitelet à triple bandeau   2016    0        2
+Roitelet huppé              2013    0        1
+Roselin cramoisi            2009    0        1
+Rousserolle effarvatte      2016    0        1
+Serin cini                  2016    0        5
+Tarin des aulnes            2012    0        2
+Tichodrome échelette        2018    0        7
+Tourterelle turque          2016    0        3
+Verdier d'Europe            2016    0        11
 

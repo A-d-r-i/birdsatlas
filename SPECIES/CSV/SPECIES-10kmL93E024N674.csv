@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Goéland à ailes blanches"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Milan royal"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Phalarope à bec large"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,1
+Busard cendré,2015,0,1
+Butor étoilé,2019,0,6
+Cigogne blanche,2017,0,2
+Cigogne noire,2016,0,1
+Goéland à ailes blanches,2018,0,1
+Gorgebleue à miroir,2018,0,2
+Grèbe à cou noir,2017,0,2
+Hibou des marais,2015,0,1
+Ibis falcinelle,2014,0,1
+Ibis sacré,2015,0,9
+Milan royal,2018,0,1
+Mouette pygmée,2014,0,1
+Mouette tridactyle,2018,0,1
+Oie cendrée,2018,0,2
+Phalarope à bec large,2017,0,13
+Pigeon colombin,2016,0,2
+Pipit spioncelle,2018,0,2
+Plongeon arctique,2018,0,1
+Pouillot à grands sourcils,2016,0,1
+Pouillot siffleur,2017,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1

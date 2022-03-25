@@ -1,66 +1,64 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bergeronnette grise"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Chouette hulotte"
-"0";"Circaète Jean-le-Blanc"
-"0";"Corneille noire"
-"0";"Coucou gris"
-"0";"Élanion blanc"
-"0";"Étourneau sansonnet"
-"0";"Faucon crécerelle"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Héron cendré"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle noir"
-"0";"Mésange à longue queue"
-"0";"Mésange bleue"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Moineau domestique"
-"0";"Pic épeiche"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougegorge familier"
-"0";"Rougequeue noir"
-"0";"Sittelle torchepot"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,8
+Alouette lulu,2017,0,7
+Bécassine des marais,2016,0,2
+Bergeronnette grise,2018,0,19
+Bouvreuil pivoine,2018,0,4
+Bruant des roseaux,2016,0,2
+Bruant jaune,2016,0,4
+Bruant zizi,2018,0,4
+Canard colvert,2018,0,3
+Chardonneret élégant,2017,0,6
+Chouette hulotte,2018,0,3
+Circaète Jean-le-Blanc,2012,0,2
+Corneille noire,2017,0,33
+Coucou gris,2014,0,15
+Élanion blanc,2017,0,4
+Étourneau sansonnet,2018,0,21
+Faucon crécerelle,2017,0,8
+Faucon émerillon,2011,0,1
+Faucon pèlerin,2016,0,4
+Fauvette à tête noire,2013,0,13
+Fauvette grisette,2010,0,2
+Fauvette pitchou,2017,0,3
+Gobemouche gris,2018,0,2
+Gobemouche noir,2009,0,1
+Grive draine,2018,0,11
+Grive litorne,2017,0,1
+Grive mauvis,2018,0,5
+Grive musicienne,2018,0,10
+Grosbec casse-noyaux,2018,0,1
+Guêpier d'Europe,2018,0,1
+Héron cendré,2014,0,2
+Hirondelle rustique,2013,0,3
+Huppe fasciée,2018,0,10
+Hypolaïs polyglotte,2013,0,6
+Loriot d'Europe,2013,0,5
+Martinet noir,2013,0,2
+Martin-pêcheur d'Europe,2010,0,1
+Merle noir,2018,0,36
+Mésange à longue queue,2016,0,10
+Mésange bleue,2018,0,19
+Mésange charbonnière,2018,0,34
+Mésange huppée,2018,0,19
+Mésange nonnette,2017,0,3
+Moineau domestique,2018,0,20
+Pic épeiche,2017,0,28
+Pie bavarde,2017,0,4
+Pigeon biset domestique,2017,0,7
+Pinson du Nord,2017,0,1
+Pipit farlouse,2017,0,5
+Pouillot de Bonelli,2018,0,8
+Pouillot fitis,2009,0,1
+Pouillot véloce,2018,0,17
+Roitelet à triple bandeau,2013,0,10
+Roitelet huppé,2008,0,1
+Rossignol philomèle,2016,0,12
+Rougegorge familier,2018,0,31
+Rougequeue noir,2013,0,14
+Sittelle torchepot,2018,0,30
+Tarier pâtre,2016,0,8
+Tarin des aulnes,2017,0,2
+Torcol fourmilier,2016,0,1
+Tourterelle turque,2018,0,30
+Verdier d'Europe,2016,0,9

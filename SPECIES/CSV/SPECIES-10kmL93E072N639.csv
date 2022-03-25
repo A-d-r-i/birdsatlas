@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Pigeon biset domestique"
-"0";"Pouillot de Bonelli"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,3
+Bécasse des bois,2018,0,10
+Bécassine sourde,2015,0,1
+Bergeronnette printanière,2018,0,4
+Bruant des roseaux,2017,0,3
+Chevalier culblanc,2016,0,6
+Chevalier guignette,2009,0,1
+Chouette hulotte,2017,0,7
+Cincle plongeur,2016,0,7
+Engoulevent d'Europe,2017,0,2
+Faucon émerillon,2015,0,1
+Fauvette orphée,2011,0,2
+Fauvette passerinette,2011,0,2
+Gallinule poule-d'eau,2017,0,1
+Goéland leucophée,2017,0,1
+Grand-duc d'Europe,2017,0,15
+Grosbec casse-noyaux,2009,0,1
+Hibou moyen-duc,2015,0,5
+Martin-pêcheur d'Europe,2018,0,3
+Merle à plastron,2014,0,1
+Pigeon biset domestique,2018,0,4
+Pouillot de Bonelli,2016,0,1
+Sizerin cabaret,2018,0,8
+Sizerin flammé,2018,0,8
+Torcol fourmilier,2013,0,2
+Vanneau huppé,2012,0,1
+Venturon montagnard,2018,0,7

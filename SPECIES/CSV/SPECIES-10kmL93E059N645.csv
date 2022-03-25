@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Avocette élégante"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Bruant ortolan"
-"0";"Busard pâle"
-"0";"Canard chipeau"
-"0";"Chevalier arlequin"
-"0";"Coucou geai"
-"0";"Échasse blanche"
-"0";"Élanion blanc"
-"0";"Faucon crécerellette"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Goéland marin"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Harelde boréale"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau soulcie"
-"0";"Mouette pygmée"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot ibérique"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne naine"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Traquet oreillard"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,1
+Aigle royal,2018,0,2
+Aigrette garzette,2018,0,10
+Avocette élégante,2016,0,3
+Bécasseau minute,2014,0,1
+Bécasseau sanderling,2016,0,1
+Bec-croisé des sapins,2017,0,30
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bernache nonnette,2010,0,1
+Bruant ortolan,2018,0,4
+Busard pâle,2013,0,1
+Canard chipeau,2018,0,17
+Chevalier arlequin,2012,0,1
+Coucou geai,2011,0,1
+Échasse blanche,2018,0,11
+Élanion blanc,2017,0,1
+Faucon crécerellette,2012,0,1
+Fauvette babillarde,2013,0,3
+Foulque macroule,2015,0,5
+Goéland brun,2015,0,2
+Goéland cendré,2008,0,1
+Goéland leucophée,2011,0,1
+Goéland marin,2016,0,1
+Gravelot à collier interrompu,2016,0,3
+Grèbe à cou noir,2016,0,3
+Grèbe huppé,2017,0,40
+Harelde boréale,2009,0,7
+Locustelle tachetée,2014,0,8
+Macreuse noire,2013,0,2
+Martinet à ventre blanc,2007,0,1
+Merle à plastron,2017,0,5
+Mouette mélanocéphale,2015,0,1
+Mouette pygmée,2010,0,2
+Oie à tête barrée,2015,0,1
+Oie cendrée,2018,0,1
+Perdrix grise,2014,0,1
+Perdrix rouge,2018,0,5
+Petit-duc scops,2009,0,2
+Pie-grièche à tête rousse,2009,0,4
+Pigeon biset (origine naturelle),2009,0,1
+Pouillot ibérique,2013,0,3
+Râle d'eau,2017,0,2
+Rousserolle effarvatte,2017,0,1
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,8
+Spatule blanche,2014,0,1
+Sterne naine,2010,0,1
+Sterne pierregarin,2013,0,1
+Tadorne de Belon,2018,0,10
+Traquet oreillard,2018,0,1
+Vautour fauve,2015,0,3

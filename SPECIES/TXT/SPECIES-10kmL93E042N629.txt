@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant jaune
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Canard pilet
-0        Chevalier guignette
-0        Cigogne noire
-0        Échasse blanche
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette grisette
-0        Grèbe castagneux
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Loriot d'Europe
-0        Martinet pâle
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie à tête barrée
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pluvier doré
-0        Roitelet huppé
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2015    0        2
+Alouette lulu             2016    0        7
+Bécassine des marais      2016    0        1
+Bergeronnette printanière 2010    0        1
+Bondrée apivore           2015    0        10
+Bruant jaune              2007    0        1
+Bruant ortolan            2015    0        3
+Bruant proyer             2009    0        2
+Busard cendré             2009    0        1
+Busard Saint-Martin       2017    0        14
+Canard chipeau            2017    0        1
+Canard pilet              2013    0        2
+Chevalier guignette       2011    0        1
+Cigogne noire             2015    0        1
+Échasse blanche           2008    0        1
+Faucon émerillon          2008    0        1
+Faucon hobereau           2007    0        4
+Fauvette grisette         2010    0        2
+Grèbe castagneux          2016    0        4
+Grive draine              2012    0        4
+Grive litorne             2016    0        1
+Grive mauvis              2017    0        6
+Hibou moyen-duc           2009    0        3
+Huppe fasciée             2017    0        3
+Loriot d'Europe           2018    0        8
+Martinet pâle             2015    0        1
+Moineau friquet           2019    0        2
+Oedicnème criard          2009    0        1
+Oie à tête barrée         2011    0        1
+Pipit des arbres          2017    0        3
+Pipit spioncelle          2016    0        2
+Pluvier doré              2012    0        1
+Roitelet huppé            2008    0        1
+Torcol fourmilier         2015    0        1
 

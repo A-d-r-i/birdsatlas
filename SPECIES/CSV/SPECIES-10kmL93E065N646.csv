@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Busard pâle"
-"0";"Canard colvert"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Tichodrome échelette"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,3
+Bécasse des bois,2014,0,1
+Busard pâle,2018,0,1
+Canard colvert,2012,0,1
+Gobemouche gris,2014,0,3
+Gobemouche noir,2014,0,1
+Grande Aigrette,2014,0,1
+Grimpereau des bois,2017,0,6
+Martin-pêcheur d'Europe,2018,0,3
+Pigeon biset domestique,2014,0,3
+Pigeon colombin,2018,0,1
+Pinson du Nord,2013,0,2
+Pipit des arbres,2018,0,3
+Pouillot de Bonelli,2015,0,2
+Tichodrome échelette,2016,0,5
+Vanneau huppé,2017,0,1

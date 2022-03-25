@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bec-croisé des sapins"
-"0";"Busard Saint-Martin"
-"0";"Cassenoix moucheté"
-"0";"Circaète Jean-le-Blanc"
-"0";"Corneille noire"
-"0";"Coucou gris"
-"0";"Crave à bec rouge"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grimpereau des bois"
-"0";"Hirondelle rustique"
-"0";"Lagopède alpin"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Monticole de roche"
-"0";"Perdrix bartavelle"
-"0";"Pic noir"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Tétras lyre"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2015,0,6
+Bec-croisé des sapins,2018,0,5
+Busard Saint-Martin,2007,0,2
+Cassenoix moucheté,2018,0,4
+Circaète Jean-le-Blanc,2009,0,1
+Corneille noire,2016,0,1
+Coucou gris,2016,0,12
+Crave à bec rouge,2018,0,3
+Faucon pèlerin,2012,0,1
+Gobemouche gris,2012,0,1
+Gobemouche noir,2014,0,1
+Grimpereau des bois,2012,0,1
+Hirondelle rustique,2009,0,1
+Lagopède alpin,2018,0,4
+Mésange charbonnière,2018,0,8
+Mésange huppée,2018,0,11
+Monticole de roche,2010,0,3
+Perdrix bartavelle,2011,0,11
+Pic noir,2012,0,2
+Roitelet huppé,2015,0,2
+Rougequeue à front blanc,2018,0,1
+Tétras lyre,2016,0,14
+Tichodrome échelette,2015,0,12
+Tourterelle des bois,2010,0,1

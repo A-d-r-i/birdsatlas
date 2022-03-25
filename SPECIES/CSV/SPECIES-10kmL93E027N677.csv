@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Butor étoilé"
-"0";"Cigogne blanche"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
+frname,lastobs,newcount,oldcount
+Butor étoilé,2014,0,2
+Cigogne blanche,2014,0,1
+Locustelle tachetée,2009,0,1
+Moineau friquet,2009,0,1

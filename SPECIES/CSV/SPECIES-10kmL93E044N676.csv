@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bernache cravant"
-"0";"Butor étoilé"
-"0";"Échasse blanche"
-"0";"Fauvette babillarde"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Grimpereau des bois"
-"0";"Harle piette"
-"0";"Ibis sacré"
-"0";"Macreuse noire"
-"0";"Marouette ponctuée"
-"0";"Mouette pygmée"
-"0";"Nette demi-deuil"
-"0";"Nette rousse"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Pouillot siffleur"
-"0";"Roselin cramoisi"
-"0";"Sterne caspienne"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2017,0,11
+Bécasseau minute,2017,0,4
+Bernache cravant,2014,0,2
+Butor étoilé,2016,0,2
+Échasse blanche,2017,0,6
+Fauvette babillarde,2008,0,4
+Garrot à oeil d'or,2007,0,2
+Goéland cendré,2017,0,3
+Grimpereau des bois,2007,0,2
+Harle piette,2010,0,1
+Ibis sacré,2013,0,4
+Macreuse noire,2017,0,1
+Marouette ponctuée,2013,0,1
+Mouette pygmée,2008,0,1
+Nette demi-deuil,2016,0,5
+Nette rousse,2016,0,4
+Oie rieuse,2011,0,3
+Ouette d'Egypte,2018,0,2
+Pic cendré,2007,0,1
+Pie-grièche grise,2012,0,12
+Pouillot siffleur,2007,0,1
+Roselin cramoisi,2017,0,11
+Sterne caspienne,2017,0,2
+Sterne naine,2010,0,1

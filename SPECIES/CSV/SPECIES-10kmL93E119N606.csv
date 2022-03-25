@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bergeronnette grise"
-"0";"Étourneau sansonnet"
-"0";"Faucon pèlerin"
-"0";"Fauvette sarde"
-"0";"Goéland railleur"
-"0";"Moineau soulcie"
-"0";"Puffin yelkouan"
-"0";"Rémiz penduline"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Aigle botté,2019,0,1
+Bergeronnette grise,2018,0,4
+Étourneau sansonnet,2018,0,1
+Faucon pèlerin,2018,0,1
+Fauvette sarde,2018,0,1
+Goéland railleur,2018,0,1
+Moineau soulcie,2018,0,1
+Puffin yelkouan,2016,0,1
+Rémiz penduline,2016,0,1
+Serin cini,2009,0,1
+Tarier des prés,2018,0,1
+Tarier pâtre,2018,0,1
+Venturon corse,2018,0,1

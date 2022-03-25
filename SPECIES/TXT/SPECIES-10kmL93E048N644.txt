@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécassine des marais
-0        Bouvreuil pivoine
-0        Busard des roseaux
-0        Butor étoilé
-0        Caille des blés
-0        Canard souchet
-0        Échasse blanche
-0        Faisan vénéré
-0        Faucon pèlerin
-0        Foulque macroule
-0        Fuligule milouin
-0        Gobemouche gris
-0        Goéland argenté
-0        Grèbe huppé
-0        Grive litorne
-0        Hirondelle de rivage
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2018    0        6
+Bécassine des marais   2018    0        12
+Bouvreuil pivoine      2017    0        2
+Busard des roseaux     2017    0        7
+Butor étoilé           2014    0        1
+Caille des blés        2014    0        2
+Canard souchet         2013    0        3
+Échasse blanche        2015    0        1
+Faisan vénéré          2014    0        1
+Faucon pèlerin         2018    0        4
+Foulque macroule       2018    0        2
+Fuligule milouin       2017    0        3
+Gobemouche gris        2016    0        9
+Goéland argenté        2012    0        2
+Grèbe huppé            2012    0        2
+Grive litorne          2013    0        1
+Hirondelle de rivage   2013    0        3
+Petit Gravelot         2011    0        3
+Pigeon colombin        2018    0        4
+Pipit des arbres       2018    0        5
+Pouillot de Bonelli    2018    0        4
+Râle d'eau             2017    0        4
+Rousserolle effarvatte 2015    0        1
+Vautour fauve          2013    0        1
 

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Chevalier aboyeur"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Grive à gorge noire"
-"0";"Grive litorne"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Oedicnème criard"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2012,0,1
+Bruant jaune,2015,0,3
+Busard cendré,2015,0,1
+Busard des roseaux,2015,0,4
+Canard mandarin,2015,0,10
+Chevalier aboyeur,2014,0,1
+Cigogne noire,2016,0,2
+Coucou geai,2018,0,2
+Cygne tuberculé,2018,0,2
+Échasse blanche,2016,0,2
+Grive à gorge noire,2008,0,1
+Grive litorne,2015,0,3
+Hirondelle de rivage,2017,0,2
+Moineau friquet,2017,0,3
+Monticole bleu,2011,0,1
+Oedicnème criard,2015,0,19
+Pie-grièche écorcheur,2010,0,3
+Pigeon colombin,2012,0,1
+Pipit rousseline,2011,0,2
+Pluvier doré,2009,0,1
+Râle d'eau,2010,0,2
+Rémiz penduline,2015,0,3
+Sarcelle d'été,2015,0,4
+Tarier des prés,2017,0,4
+Tichodrome échelette,2017,0,2

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Cygne tuberculé"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Pic noir"
-"0";"Pluvier doré"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2015,0,1
+Bruant jaune,2009,0,2
+Canard souchet,2018,0,3
+Chevalier gambette,2016,0,1
+Courlis cendré,2009,0,1
+Cygne noir,2015,0,2
+Cygne tuberculé,2009,0,1
+Faucon hobereau,2015,0,2
+Faucon pèlerin,2018,0,2
+Fuligule milouin,2018,0,3
+Gobemouche gris,2009,0,1
+Gobemouche noir,2018,0,2
+Goéland cendré,2018,0,1
+Grèbe castagneux,2019,0,1
+Grive litorne,2010,0,3
+Harle bièvre,2017,0,3
+Hibou moyen-duc,2016,0,3
+Mésange huppée,2009,0,2
+Moineau friquet,2009,0,2
+Pic noir,2009,0,1
+Pluvier doré,2016,0,2
+Roitelet à triple bandeau,2018,0,4
+Rossignol philomèle,2009,0,1
+Rougequeue à front blanc,2018,0,1
+Tadorne de Belon,2013,0,2

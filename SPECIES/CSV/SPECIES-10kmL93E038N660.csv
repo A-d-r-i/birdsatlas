@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Goéland cendré"
-"0";"Grèbe huppé"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Martinet pâle"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Nette rousse"
-"0";"Outarde canepetière"
-"0";"Perruche à collier"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Rémiz penduline"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,1
+Bécasseau minute,2013,0,2
+Bécasse des bois,2012,0,4
+Bec-croisé des sapins,2012,0,1
+Canard pilet,2017,0,5
+Canard siffleur,2018,0,5
+Chevalier arlequin,2009,0,1
+Goéland cendré,2018,0,9
+Grèbe huppé,2014,0,6
+Ibis falcinelle,2018,0,2
+Ibis sacré,2016,0,2
+Locustelle tachetée,2009,0,1
+Martinet pâle,2015,0,1
+Mésange nonnette,2015,0,3
+Milan royal,2018,0,6
+Nette rousse,2012,0,1
+Outarde canepetière,2009,0,3
+Perruche à collier,2012,0,2
+Pigeon biset (origine naturelle),2017,0,7
+Rémiz penduline,2015,0,1
+Sterne pierregarin,2014,0,2

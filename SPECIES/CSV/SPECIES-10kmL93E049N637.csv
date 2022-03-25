@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Calopsitte élégante"
-"0";"Choucas des tours"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Grèbe jougris"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2017,0,15
+Autour des palombes,2009,0,1
+Bondrée apivore,2013,0,5
+Bruant des roseaux,2016,0,5
+Bruant jaune,2011,0,2
+Bruant proyer,2015,0,2
+Calopsitte élégante,2014,0,2
+Choucas des tours,2015,0,2
+Cigogne noire,2016,0,1
+Corbeau freux,2016,0,1
+Faucon pèlerin,2017,0,2
+Fauvette des jardins,2017,0,1
+Fauvette pitchou,2011,0,2
+Fuligule milouin,2012,0,1
+Gobemouche noir,2014,0,1
+Goéland leucophée,2018,0,2
+Grèbe castagneux,2015,0,6
+Grèbe jougris,2018,0,2
+Grive litorne,2017,0,3
+Hibou moyen-duc,2016,0,1
+Hirondelle de fenêtre,2010,0,5
+Hirondelle de rivage,2009,0,3
+Linotte mélodieuse,2018,0,6
+Martinet noir,2013,0,7
+Martin-pêcheur d'Europe,2016,0,7
+Milan royal,2016,0,5
+Moineau friquet,2014,0,5
+Pigeon biset domestique,2016,0,6
+Pipit des arbres,2010,0,4
+Pipit spioncelle,2012,0,1
+Pouillot de Bonelli,2007,0,1
+Pouillot siffleur,2017,0,1
+Roitelet huppé,2008,0,1
+Sarcelle d'hiver,2012,0,1
+Tarier des prés,2009,0,1
+Torcol fourmilier,2010,0,2
+Traquet motteux,2016,0,1
+Vanneau huppé,2017,0,5

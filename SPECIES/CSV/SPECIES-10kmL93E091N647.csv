@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Grand-duc d'Europe"
-"0";"Huppe fasciée"
-"0";"Niverolle alpine"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pigeon biset domestique"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,14
+Bécassine sourde,2009,0,1
+Bihoreau gris,2018,0,1
+Blongios nain,2016,0,8
+Busard cendré,2007,0,1
+Busard Saint-Martin,2010,0,3
+Canard siffleur,2012,0,1
+Chevalier culblanc,2012,0,4
+Chevalier guignette,2011,0,1
+Choucas des tours,2015,0,3
+Cigogne blanche,2014,0,1
+Combattant varié,2012,0,1
+Corbeau freux,2018,0,1
+Engoulevent d'Europe,2007,0,1
+Fauvette grisette,2011,0,2
+Fuligule milouin,2017,0,1
+Grand-duc d'Europe,2012,0,7
+Huppe fasciée,2010,0,3
+Niverolle alpine,2014,0,5
+Perdrix grise,2017,0,2
+Perdrix rouge,2011,0,4
+Pigeon biset domestique,2013,0,1
+Sarcelle d'hiver,2018,0,38
+Tadorne de Belon,2007,0,1
+Tourterelle des bois,2015,0,5
+Tourterelle turque,2017,0,20
+Vautour moine,2011,0,1

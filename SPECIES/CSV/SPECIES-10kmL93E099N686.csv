@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Fuligule morillon"
-"0";"Grand-duc d'Europe"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Jaseur boréal"
-"0";"Mésange huppée"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pélican frisé"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2013,0,1
+Bihoreau gris,2017,0,3
+Chevalier aboyeur,2011,0,1
+Chevalier arlequin,2011,0,1
+Cincle plongeur,2013,0,2
+Courlis cendré,2012,0,1
+Fuligule morillon,2015,0,4
+Grand-duc d'Europe,2012,0,1
+Harle piette,2012,0,2
+Héron pourpré,2018,0,5
+Jaseur boréal,2013,0,1
+Mésange huppée,2012,0,2
+Nette rousse,2016,0,3
+Oie cendrée,2017,0,1
+Pélican frisé,2016,0,1
+Petit-duc scops,2009,0,1
+Phragmite des joncs,2009,0,1
+Pie-grièche à tête rousse,2015,0,30
+Pipit rousseline,2013,0,1

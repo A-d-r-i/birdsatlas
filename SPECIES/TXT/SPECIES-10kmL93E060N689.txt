@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Canard chipeau
-0        Canard pilet
-0        Canard souchet
-0        Faisan vénéré
-0        Faucon émerillon
-0        Fuligule milouin
-0        Gobemouche noir
-0        Goéland argenté
-0        Goéland cendré
-0        Goéland leucophée
-0        Grèbe huppé
-0        Léiothrix jaune
-0        Merle à plastron
-0        Oie cendrée
-0        Pie-grièche grise
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bernache nonnette      2015    0        1
+Canard chipeau         2012    0        2
+Canard pilet           2018    0        1
+Canard souchet         2018    0        1
+Faisan vénéré          2018    0        1
+Faucon émerillon       2012    0        2
+Fuligule milouin       2016    0        8
+Gobemouche noir        2015    0        1
+Goéland argenté        2012    0        3
+Goéland cendré         2013    0        2
+Goéland leucophée      2017    0        5
+Grèbe huppé            2016    0        10
+Léiothrix jaune        2018    0        1
+Merle à plastron       2013    0        1
+Oie cendrée            2013    0        1
+Pie-grièche grise      2012    0        1
+Pouillot de Bonelli    2013    0        1
+Pouillot fitis         2013    0        6
+Pouillot siffleur      2011    0        1
+Râle d'eau             2009    0        1
+Rousserolle effarvatte 2012    0        5
+Sizerin cabaret        2012    0        2
+Sizerin flammé         2012    0        2
+Torcol fourmilier      2012    0        2
 

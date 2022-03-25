@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Caille des blés"
-"0";"Chouette hulotte"
-"0";"Crave à bec rouge"
-"0";"Engoulevent d'Europe"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Fauvette mélanocéphale"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pie-grièche méridionale"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle royal,2017,0,4
+Bécasse des bois,2018,0,4
+Bec-croisé des sapins,2017,0,1
+Bruant des roseaux,2012,0,2
+Bruant fou,2009,0,1
+Caille des blés,2014,0,4
+Chouette hulotte,2017,0,20
+Crave à bec rouge,2016,0,2
+Engoulevent d'Europe,2016,0,4
+Faucon d'Eléonore,2012,0,2
+Faucon kobez,2017,0,1
+Fauvette grisette,2018,0,14
+Fauvette mélanocéphale,2018,0,2
+Fauvette pitchou,2017,0,1
+Gallinule poule-d'eau,2009,0,1
+Goéland brun,2016,0,2
+Goéland leucophée,2015,0,2
+Grand Cormoran,2018,0,3
+Grimpereau des bois,2009,0,1
+Grive litorne,2013,0,2
+Grosbec casse-noyaux,2018,0,9
+Hibou moyen-duc,2009,0,4
+Hypolaïs polyglotte,2018,0,3
+Moineau friquet,2019,0,2
+Mouette rieuse,2017,0,1
+Perdrix rouge,2017,0,4
+Petit-duc scops,2017,0,3
+Pic épeichette,2009,0,3
+Pie-grièche méridionale,2013,0,2
+Rougequeue à front blanc,2018,0,4
+Rousserolle effarvatte,2012,0,1
+Traquet motteux,2017,0,8
+Vanneau huppé,2016,0,1
+Vautour moine,2014,0,1

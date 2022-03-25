@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Grand Corbeau"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Perdrix rouge"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2018,0,2
+Effraie des clochers,2016,0,11
+Épervier d'Europe,2018,0,3
+Grand Corbeau,2018,0,3
+Grand Cormoran,2017,0,1
+Grand-duc d'Europe,2009,0,1
+Héron garde-boeufs,2017,0,1
+Hirondelle de fenêtre,2015,0,3
+Hirondelle de rivage,2009,0,1
+Martinet noir,2016,0,2
+Mésange noire,2009,0,1
+Moineau friquet,2017,0,2
+Moineau soulcie,2009,0,1
+Perdrix rouge,2009,0,1
+Pigeon biset domestique,2017,0,1
+Pigeon colombin,2016,0,1
+Roitelet huppé,2018,0,1
+Torcol fourmilier,2009,0,1
+Vanneau huppé,2017,0,1

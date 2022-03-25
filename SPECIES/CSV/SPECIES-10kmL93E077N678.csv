@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Pie-grièche à tête rousse"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,6
+Bécasse des bois,2015,0,1
+Bec-croisé des sapins,2015,0,2
+Buse pattue,2010,0,3
+Caille des blés,2017,0,9
+Cochevis huppé,2012,0,1
+Engoulevent d'Europe,2017,0,1
+Faucon émerillon,2013,0,5
+Fauvette babillarde,2018,0,6
+Gallinule poule-d'eau,2017,0,4
+Grèbe castagneux,2016,0,1
+Héron pourpré,2018,0,1
+Merle à plastron,2012,0,1
+Mésange boréale,2018,0,1
+Mésange noire,2019,0,9
+Moineau friquet,2017,0,15
+Mouette rieuse,2018,0,4
+Pie-grièche à tête rousse,2010,0,2

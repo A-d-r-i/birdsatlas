@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Canard mandarin"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Hibou moyen-duc"
-"0";"Oedicnème criard"
-"0";"Petit-duc scops"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,2
+Bec-croisé des sapins,2018,0,1
+Canard mandarin,2017,0,1
+Corbeau freux,2009,0,1
+Engoulevent d'Europe,2016,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2016,0,4
+Grand Cormoran,2018,0,2
+Hibou moyen-duc,2017,0,2
+Oedicnème criard,2012,0,1
+Petit-duc scops,2018,0,1
+Pouillot siffleur,2017,0,1
+Roitelet huppé,2015,0,1
+Rollier d'Europe,2017,0,7
+Vanneau huppé,2017,0,1

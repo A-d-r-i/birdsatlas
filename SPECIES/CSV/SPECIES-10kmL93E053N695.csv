@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Phragmite des joncs"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bruant des roseaux,2009,0,1
+Canard chipeau,2009,0,1
+Canard siffleur,2009,0,1
+Goéland cendré,2018,0,1
+Goéland leucophée,2018,0,1
+Hypolaïs polyglotte,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Phragmite des joncs,2009,0,1

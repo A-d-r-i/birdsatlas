@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Fauvette pitchou"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,2
+Aigrette garzette,2017,0,1
+Alouette des champs,2018,0,14
+Autour des palombes,2017,0,2
+Bécasse des bois,2018,0,3
+Bernache du Canada,2015,0,2
+Bihoreau gris,2014,0,1
+Bruant des roseaux,2017,0,9
+Bruant fou,2011,0,3
+Bruant jaune,2017,0,22
+Busard des roseaux,2018,0,1
+Caille des blés,2016,0,3
+Chevalier culblanc,2017,0,5
+Chevalier guignette,2017,0,1
+Cigogne blanche,2014,0,2
+Cigogne noire,2011,0,2
+Circaète Jean-le-Blanc,2018,0,8
+Fauvette pitchou,2018,0,10
+Gobemouche gris,2018,0,6
+Gobemouche noir,2018,0,3
+Grande Aigrette,2019,0,6
+Grive litorne,2016,0,3
+Héron pourpré,2018,0,3
+Hibou moyen-duc,2018,0,4
+Hirondelle de rivage,2013,0,1
+Locustelle tachetée,2011,0,2
+Mésange noire,2018,0,2
+Moineau friquet,2017,0,2
+Oedicnème criard,2017,0,1
+Perdrix grise,2018,0,10
+Petit Gravelot,2017,0,3
+Pie-grièche à tête rousse,2016,0,1
+Pie-grièche écorcheur,2017,0,3
+Pie-grièche grise,2014,0,5
+Pigeon biset domestique,2018,0,18
+Pigeon colombin,2016,0,1
+Pipit spioncelle,2018,0,13
+Râle d'eau,2017,0,3
+Roitelet huppé,2016,0,9
+Rollier d'Europe,2012,0,1
+Sarcelle d'hiver,2017,0,5
+Tarier des prés,2013,0,1
+Torcol fourmilier,2010,0,2

@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bruant ortolan
-0        Canard à collier noir
-0        Chevalier gambette
-0        Cincle plongeur
-0        Corneille mantelée
-0        Cygne noir
-0        Échasse blanche
-0        Faucon kobez
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Goéland argenté
-0        Goéland brun
-0        Goéland cendré
-0        Gorgebleue à miroir
-0        Gravelot à collier interrompu
-0        Grèbe jougris
-0        Grimpereau des bois
-0        Guifette leucoptère
-0        Guifette moustac
-0        Harle huppé
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Macreuse brune
-0        Marouette ponctuée
-0        Mésange huppée
-0        Mésange noire
-0        Mouette pygmée
-0        Oie rieuse
-0        Perdrix grise
-0        Perruche à collier
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pipit à gorge rousse
-0        Pipit rousseline
-0        Plongeon imbrin
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Rollier d'Europe
-0        Tadorne casarca
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Bécasseau variable            2017    0        6
+Bécasse des bois              2008    0        2
+Bec-croisé des sapins         2012    0        2
+Bruant ortolan                2017    0        7
+Canard à collier noir         2013    0        1
+Chevalier gambette            2017    0        10
+Cincle plongeur               2011    0        5
+Corneille mantelée            2016    0        7
+Cygne noir                    2008    0        2
+Échasse blanche               2015    0        2
+Faucon kobez                  2016    0        5
+Fuligule milouinan            2010    0        3
+Fuligule nyroca               2017    0        18
+Goéland argenté               2007    0        1
+Goéland brun                  2012    0        2
+Goéland cendré                2012    0        8
+Gorgebleue à miroir           2008    0        1
+Gravelot à collier interrompu 2008    0        2
+Grèbe jougris                 2016    0        1
+Grimpereau des bois           2015    0        1
+Guifette leucoptère           2011    0        1
+Guifette moustac              2013    0        7
+Harle huppé                   2010    0        5
+Locustelle luscinioïde        2011    0        3
+Locustelle tachetée           2017    0        10
+Macreuse brune                2011    0        3
+Marouette ponctuée            2015    0        3
+Mésange huppée                2015    0        2
+Mésange noire                 2018    0        9
+Mouette pygmée                2016    0        9
+Oie rieuse                    2011    0        3
+Perdrix grise                 2017    0        8
+Perruche à collier            2014    0        1
+Phragmite des joncs           2014    0        3
+Pie-grièche à tête rousse     2018    0        6
+Pie-grièche grise             2014    0        7
+Pipit à gorge rousse          2014    0        2
+Pipit rousseline              2012    0        4
+Plongeon imbrin               2012    0        7
+Pouillot de Bonelli           2014    0        1
+Pouillot siffleur             2009    0        2
+Rémiz penduline               2017    0        6
+Rollier d'Europe              2014    0        8
+Tadorne casarca               2015    0        3
 

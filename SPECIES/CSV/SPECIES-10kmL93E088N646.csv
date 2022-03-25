@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Choucas des tours"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,5
+Bernache du Canada,2010,0,1
+Bruant fou,2018,0,2
+Bruant ortolan,2017,0,1
+Busard cendré,2017,0,1
+Busard des roseaux,2017,0,12
+Caille des blés,2011,0,2
+Canard mandarin,2015,0,3
+Canard souchet,2015,0,2
+Chevalier guignette,2017,0,1
+Chevalier sylvain,2013,0,1
+Choucas des tours,2018,0,4
+Cincle plongeur,2017,0,2
+Corbeau freux,2018,0,15
+Effraie des clochers,2017,0,2
+Foulque macroule,2018,0,18
+Gallinule poule-d'eau,2018,0,8
+Gobemouche gris,2015,0,5
+Grande Aigrette,2014,0,2
+Grimpereau des bois,2013,0,2
+Hibou moyen-duc,2017,0,2
+Hirondelle de rivage,2017,0,3
+Huppe fasciée,2013,0,1
+Locustelle tachetée,2018,0,1
+Martin-pêcheur d'Europe,2015,0,1
+Moineau friquet,2014,0,1
+Mouette rieuse,2015,0,1
+Pigeon colombin,2016,0,4
+Pouillot fitis,2017,0,3
+Rollier d'Europe,2017,0,6
+Sarcelle d'hiver,2013,0,1
+Sizerin cabaret,2014,0,1
+Sizerin flammé,2014,0,1
+Tichodrome échelette,2007,0,1
+Tourterelle des bois,2012,0,4
+Vautour fauve,2015,0,2
+Venturon montagnard,2015,0,3

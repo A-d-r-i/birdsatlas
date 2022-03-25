@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Chevalier gambette"
-"0";"Corneille mantelée"
-"0";"Crave à bec rouge"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fuligule morillon"
-"0";"Glaréole à collier"
-"0";"Goéland railleur"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe jougris"
-"0";"Grive draine"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle rousseline"
-"0";"Huîtrier pie"
-"0";"Hypolaïs ictérine"
-"0";"Moineau friquet"
-"0";"Phragmite des joncs"
-"0";"Pingouin torda"
-"0";"Pluvier doré"
-"0";"Puffin cendré"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Sarcelle marbrée"
-"0";"Sittelle torchepot"
-"0";"Sterne pierregarin"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2012,0,1
+Bruant zizi,2014,0,1
+Busard Saint-Martin,2012,0,2
+Canard chipeau,2012,0,1
+Chevalier gambette,2017,0,1
+Corneille mantelée,2018,0,1
+Crave à bec rouge,2013,0,1
+Effraie des clochers,2011,0,1
+Faucon émerillon,2014,0,1
+Fauvette babillarde,2011,0,1
+Fauvette des jardins,2014,0,21
+Fuligule morillon,2016,0,1
+Glaréole à collier,2018,0,1
+Goéland railleur,2018,0,1
+Gorgebleue à miroir,2012,0,1
+Grèbe jougris,2016,0,3
+Grive draine,2018,0,1
+Héron garde-boeufs,2018,0,3
+Hirondelle rousseline,2013,0,2
+Huîtrier pie,2017,0,1
+Hypolaïs ictérine,2013,0,2
+Moineau friquet,2011,0,1
+Phragmite des joncs,2013,0,4
+Pingouin torda,2017,0,1
+Pluvier doré,2015,0,1
+Puffin cendré,2014,0,1
+Rémiz penduline,2014,0,7
+Rollier d'Europe,2015,0,2
+Sarcelle d'été,2011,0,1
+Sarcelle marbrée,2018,0,1
+Sittelle torchepot,2014,0,1
+Sterne pierregarin,2009,0,1
+Tournepierre à collier,2017,0,1

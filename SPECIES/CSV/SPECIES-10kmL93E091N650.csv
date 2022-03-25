@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bruant proyer"
-"0";"Busard pâle"
-"0";"Cassenoix moucheté"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Goéland brun"
-"0";"Héron pourpré"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pipit à gorge rousse"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Tourterelle des bois"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2014,0,1
+Bruant proyer,2016,0,1
+Busard pâle,2014,0,1
+Cassenoix moucheté,2016,0,3
+Faucon émerillon,2017,0,7
+Faucon kobez,2018,0,12
+Fauvette des jardins,2017,0,3
+Goéland brun,2014,0,1
+Héron pourpré,2014,0,1
+Oie cendrée,2015,0,1
+Perdrix grise,2017,0,2
+Phragmite des joncs,2013,0,1
+Pipit à gorge rousse,2014,0,1
+Râle d'eau,2016,0,2
+Rousserolle turdoïde,2013,0,1
+Tourterelle des bois,2016,0,1
+Vautour moine,2017,0,4

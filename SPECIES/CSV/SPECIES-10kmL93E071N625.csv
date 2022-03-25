@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bruant des roseaux"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette grisette"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Ouette d'Egypte"
-"0";"Outarde canepetière"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2018,0,2
+Bruant des roseaux,2018,0,4
+Chevalier aboyeur,2017,0,3
+Chevalier gambette,2017,0,1
+Chevêche d'Athéna,2017,0,2
+Cochevis huppé,2014,0,4
+Engoulevent d'Europe,2013,0,1
+Fauvette grisette,2016,0,2
+Fauvette passerinette,2017,0,2
+Fauvette pitchou,2017,0,1
+Hibou des marais,2018,0,1
+Locustelle tachetée,2017,0,2
+Ouette d'Egypte,2018,0,1
+Outarde canepetière,2018,0,2
+Pie-grièche écorcheur,2013,0,1
+Pipit des arbres,2016,0,4
+Pipit rousseline,2018,0,1
+Pouillot siffleur,2016,0,1
+Râle d'eau,2018,0,2
+Rousserolle turdoïde,2016,0,1
+Sterne pierregarin,2014,0,2

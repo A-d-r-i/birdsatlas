@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard cendré
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Coucou gris
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule morillon
-0        Gobemouche gris
-0        Grive litorne
-0        Grive mauvis
-0        Grive musicienne
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange huppée
-0        Oedicnème criard
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic mar
-0        Pic noir
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Sarcelle d'hiver
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2009    0        2
+Bécassine des marais      2019    0        1
+Bergeronnette grise       2009    0        2
+Bergeronnette printanière 2009    0        1
+Bihoreau gris             2009    0        1
+Bruant des roseaux        2009    0        2
+Bruant proyer             2009    0        1
+Busard cendré             2009    0        1
+Busard des roseaux        2009    0        1
+Chevalier culblanc        2009    0        1
+Chouette hulotte          2009    0        2
+Coucou gris               2009    0        1
+Faisan de Colchide        2009    0        1
+Faucon émerillon          2019    0        2
+Faucon pèlerin            2009    0        1
+Fauvette des jardins      2009    0        1
+Foulque macroule          2009    0        2
+Fuligule morillon         2009    0        1
+Gobemouche gris           2009    0        1
+Grive litorne             2009    0        1
+Grive mauvis              2009    0        1
+Grive musicienne          2009    0        2
+Hibou moyen-duc           2009    0        2
+Hirondelle de fenêtre     2009    0        1
+Hirondelle de rivage      2009    0        1
+Locustelle tachetée       2016    0        2
+Loriot d'Europe           2018    0        4
+Mésange huppée            2009    0        2
+Oedicnème criard          2009    0        1
+Perdrix grise             2009    0        1
+Perdrix rouge             2017    0        3
+Petit Gravelot            2009    0        1
+Phragmite des joncs       2009    0        1
+Pic mar                   2009    0        2
+Pic noir                  2009    0        1
+Pigeon colombin           2019    0        3
+Pipit des arbres          2009    0        1
+Pouillot de Bonelli       2009    0        1
+Pouillot fitis            2009    0        1
+Râle d'eau                2009    0        1
+Rousserolle effarvatte    2016    0        2
+Rousserolle turdoïde      2016    0        1
+Sarcelle d'hiver          2009    0        1
+Torcol fourmilier         2009    0        1
+Tourterelle des bois      2009    0        1
 

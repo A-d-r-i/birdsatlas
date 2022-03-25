@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bihoreau gris
-0        Bruant fou
-0        Bruant jaune
-0        Busard cendré
-0        Busard pâle
-0        Canard carolin
-0        Canard pilet
-0        Canard siffleur
-0        Cigogne blanche
-0        Courlis cendré
-0        Faucon kobez
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Martinet à ventre blanc
-0        Mésange noire
-0        Pie-grièche à tête rousse
-0        Pluvier doré
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Sarcelle d'hiver
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2018    0        27
+Aigrette garzette         2011    0        1
+Bécassine des marais      2011    0        2
+Bihoreau gris             2014    0        3
+Bruant fou                2018    0        40
+Bruant jaune              2018    0        19
+Busard cendré             2016    0        8
+Busard pâle               2016    0        1
+Canard carolin            2009    0        1
+Canard pilet              2016    0        1
+Canard siffleur           2012    0        1
+Cigogne blanche           2009    0        1
+Courlis cendré            2007    0        1
+Faucon kobez              2008    0        1
+Héron pourpré             2012    0        2
+Hirondelle de rivage      2015    0        2
+Martinet à ventre blanc   2015    0        1
+Mésange noire             2017    0        4
+Pie-grièche à tête rousse 2014    0        1
+Pluvier doré              2015    0        6
+Pluvier guignard          2011    0        1
+Pouillot siffleur         2016    0        14
+Sarcelle d'hiver          2012    0        3
+Vanneau huppé             2018    0        10
 

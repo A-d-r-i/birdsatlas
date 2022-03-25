@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bernache nonnette
-0        Bruant proyer
-0        Chevalier sylvain
-0        Cigogne blanche
-0        Cigogne noire
-0        Eider à duvet
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Fuligule milouin
-0        Garrot à oeil d'or
-0        Guifette noire
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Macreuse brune
-0        Milan noir
-0        Moineau friquet
-0        Mouette tridactyle
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic mar
-0        Plongeon arctique
-0        Pouillot de Bonelli
-0        Puffin des Baléares
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne de Dougall
-0        Sterne naine
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette lulu            2009    0        1
+Bernache nonnette        2017    0        3
+Bruant proyer            2014    0        4
+Chevalier sylvain        2007    0        1
+Cigogne blanche          2017    0        3
+Cigogne noire            2017    0        1
+Eider à duvet            2009    0        1
+Engoulevent d'Europe     2009    0        1
+Faucon émerillon         2009    0        1
+Fauvette babillarde      2014    0        1
+Fuligule milouin         2009    0        1
+Garrot à oeil d'or       2017    0        1
+Guifette noire           2015    0        3
+Harle bièvre             2017    0        1
+Hibou moyen-duc          2017    0        5
+Locustelle tachetée      2014    0        3
+Macreuse brune           2009    0        1
+Milan noir               2009    0        1
+Moineau friquet          2013    0        1
+Mouette tridactyle       2009    0        1
+Perdrix rouge            2009    0        1
+Petit Gravelot           2015    0        2
+Pic mar                  2017    0        2
+Plongeon arctique        2009    0        1
+Pouillot de Bonelli      2015    0        1
+Puffin des Baléares      2009    0        1
+Rossignol philomèle      2014    0        1
+Rougequeue à front blanc 2018    0        2
+Rousserolle verderolle   2013    0        1
+Sarcelle d'été           2009    0        1
+Sizerin cabaret          2017    0        4
+Sizerin flammé           2017    0        4
+Sterne de Dougall        2015    0        5
+Sterne naine             2016    0        1
 

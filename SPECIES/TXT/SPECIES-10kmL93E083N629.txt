@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle royal
-0        Alouette calandrelle
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bruant jaune
-0        Busard cendré
-0        Butor étoilé
-0        Caille des blés
-0        Canard chipeau
-0        Chevalier guignette
-0        Courlis cendré
-0        Effraie des clochers
-0        Faucon d'Eléonore
-0        Faucon émerillon
-0        Fauvette passerinette
-0        Goéland cendré
-0        Grive draine
-0        Grive litorne
-0        Guifette moustac
-0        Hirondelle de rivage
-0        Hirondelle rousseline
-0        Hypolaïs ictérine
-0        Locustelle tachetée
-0        Martinet pâle
-0        Monticole bleu
-0        Pluvier argenté
-0        Pouillot fitis
-0        Tarier des prés
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2016    0        1
+Aigle royal               2018    0        1
+Alouette calandrelle      2009    0        2
+Bécassine des marais      2017    0        7
+Bergeronnette printanière 2017    0        4
+Bruant jaune              2012    0        6
+Busard cendré             2018    0        2
+Butor étoilé              2012    0        1
+Caille des blés           2009    0        1
+Canard chipeau            2012    0        2
+Chevalier guignette       2014    0        4
+Courlis cendré            2018    0        1
+Effraie des clochers      2017    0        8
+Faucon d'Eléonore         2014    0        2
+Faucon émerillon          2011    0        4
+Fauvette passerinette     2018    0        14
+Goéland cendré            2011    0        1
+Grive draine              2011    0        5
+Grive litorne             2018    0        4
+Guifette moustac          2016    0        2
+Hirondelle de rivage      2014    0        1
+Hirondelle rousseline     2016    0        1
+Hypolaïs ictérine         2015    0        2
+Locustelle tachetée       2014    0        2
+Martinet pâle             2009    0        1
+Monticole bleu            2017    0        3
+Pluvier argenté           2011    0        2
+Pouillot fitis            2014    0        8
+Tarier des prés           2017    0        1
+Traquet motteux           2007    0        1
 

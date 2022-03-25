@@ -1,5 +1,5 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        R
+frname lastobs newcount oldcount
+------ ------- -------- --------
+R      2       0        1
 

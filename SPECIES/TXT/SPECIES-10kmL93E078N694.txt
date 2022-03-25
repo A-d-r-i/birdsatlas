@@ -1,52 +1,52 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécasseau minute
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Canard colvert
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Corbeau freux
-0        Coucou gris
-0        Épervier d'Europe
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Goéland brun
-0        Grand Cormoran
-0        Grive mauvis
-0        Grive musicienne
-0        Héron cendré
-0        Hibou des marais
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Outarde canepetière
-0        Petit Gravelot
-0        Pic épeiche
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pluvier doré
-0        Pouillot fitis
-0        Râle des genêts
-0        Roitelet huppé
-0        Rousserolle verderolle
-0        Serin cini
-0        Tarin des aulnes
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette lulu               2014    0        5
+Bécasseau minute            2016    0        1
+Bécasse des bois            2015    0        1
+Bécassine des marais        2015    0        2
+Bécassine sourde            2015    0        1
+Bec-croisé des sapins       2016    0        4
+Bergeronnette des ruisseaux 2015    0        7
+Bondrée apivore             2017    0        4
+Bouvreuil pivoine           2015    0        8
+Bruant des roseaux          2015    0        8
+Busard des roseaux          2018    0        4
+Canard colvert              2018    0        7
+Chevalier aboyeur           2016    0        2
+Chevalier culblanc          2015    0        1
+Corbeau freux               2018    0        12
+Coucou gris                 2016    0        8
+Épervier d'Europe           2015    0        11
+Faucon émerillon            2016    0        3
+Fauvette babillarde         2016    0        8
+Goéland brun                2015    0        1
+Grand Cormoran              2016    0        12
+Grive mauvis                2015    0        7
+Grive musicienne            2016    0        33
+Héron cendré                2012    0        3
+Hibou des marais            2015    0        1
+Martinet noir               2016    0        6
+Martin-pêcheur d'Europe     2016    0        1
+Mésange à longue queue      2018    0        8
+Mésange boréale             2015    0        5
+Mésange huppée              2011    0        2
+Mésange noire               2011    0        2
+Mésange nonnette            2018    0        6
+Outarde canepetière         2012    0        1
+Petit Gravelot              2015    0        1
+Pic épeiche                 2018    0        17
+Pic épeichette              2015    0        1
+Pic mar                     2015    0        1
+Pie-grièche écorcheur       2016    0        21
+Pie-grièche grise           2011    0        2
+Pigeon colombin             2014    0        6
+Pluvier doré                2015    0        6
+Pouillot fitis              2015    0        2
+Râle des genêts             2015    0        1
+Roitelet huppé              2012    0        5
+Rousserolle verderolle      2015    0        9
+Serin cini                  2015    0        4
+Tarin des aulnes            2015    0        14
+Vanneau huppé               2018    0        23
 

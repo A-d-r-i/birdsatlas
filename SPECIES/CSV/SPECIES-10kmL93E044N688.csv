@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Cigogne blanche"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,1
+Cigogne blanche,2015,0,1

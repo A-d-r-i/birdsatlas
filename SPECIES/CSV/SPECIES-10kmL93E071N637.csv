@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasseau minute"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Corbeau freux"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Fauvette babillarde"
-"0";"Fauvette orphée"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Grand Labbe"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harelde boréale"
-"0";"Hypolaïs ictérine"
-"0";"Labbe parasite"
-"0";"Locustelle luscinioïde"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot brun"
-"0";"Tadorne de Belon"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2015,0,3
+Bécasseau minute,2008,0,3
+Bergeronnette flavéole (M.f.flavissima),2015,0,6
+Canard carolin,2009,0,1
+Canard chipeau,2015,0,11
+Canard siffleur,2018,0,16
+Chevalier gambette,2015,0,3
+Corbeau freux,2019,0,2
+Cygne tuberculé,2016,0,78
+Échasse blanche,2016,0,11
+Fauvette babillarde,2014,0,2
+Fauvette orphée,2014,0,5
+Fuligule milouin,2015,0,10
+Goéland cendré,2007,0,1
+Grand Gravelot,2017,0,7
+Grand Labbe,2017,0,1
+Grèbe à cou noir,2007,0,6
+Grèbe huppé,2012,0,7
+Guifette moustac,2013,0,1
+Guifette noire,2016,0,5
+Harelde boréale,2009,0,1
+Hypolaïs ictérine,2015,0,1
+Labbe parasite,2012,0,1
+Locustelle luscinioïde,2015,0,1
+Mouette mélanocéphale,2014,0,1
+Mouette pygmée,2008,0,1
+Nette rousse,2012,0,4
+Oedicnème criard,2018,0,1
+Oie cendrée,2008,0,1
+Perdrix grise,2013,0,1
+Petit-duc scops,2017,0,21
+Petit Gravelot,2015,0,12
+Pipit rousseline,2017,0,4
+Pluvier argenté,2008,0,2
+Pluvier doré,2016,0,1
+Pouillot à grands sourcils,2017,0,12
+Pouillot brun,2016,0,1
+Tadorne de Belon,2013,0,1
+Tourterelle des bois,2018,0,13

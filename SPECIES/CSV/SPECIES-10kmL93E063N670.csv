@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Colin de Virginie"
-"0";"Hibou moyen-duc"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2009,0,1
+Busard cendré,2008,0,1
+Colin de Virginie,2018,0,1
+Hibou moyen-duc,2018,0,2
+Perdrix rouge,2018,0,1
+Pic cendré,2009,0,1

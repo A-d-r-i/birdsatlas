@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Bécasseau tacheté"
-"0";"Bécassine sourde"
-"0";"Bruant ortolan"
-"0";"Busard pâle"
-"0";"Canard carolin"
-"0";"Chevalier stagnatile"
-"0";"Courlis corlieu"
-"0";"Faucon kobez"
-"0";"Fuligule milouinan"
-"0";"Goéland pontique"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Oie des moissons"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Pipit rousseline"
-"0";"Rousserolle verderolle"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,2
+Bécasseau tacheté,2017,0,8
+Bécassine sourde,2018,0,4
+Bruant ortolan,2015,0,1
+Busard pâle,2018,0,1
+Canard carolin,2017,0,2
+Chevalier stagnatile,2018,0,34
+Courlis corlieu,2017,0,8
+Faucon kobez,2017,0,1
+Fuligule milouinan,2017,0,4
+Goéland pontique,2018,0,1
+Harle piette,2012,0,2
+Hibou des marais,2012,0,2
+Macreuse noire,2014,0,1
+Merle à plastron,2016,0,2
+Mésange huppée,2012,0,2
+Oie des moissons,2015,0,14
+Perruche à collier,2018,0,1
+Petit-duc scops,2007,0,1
+Pipit rousseline,2018,0,1
+Rousserolle verderolle,2008,0,1
+Sizerin boréal (C.f.flammea),2018,0,2
+Sizerin cabaret,2018,0,7
+Sizerin flammé,2018,0,9

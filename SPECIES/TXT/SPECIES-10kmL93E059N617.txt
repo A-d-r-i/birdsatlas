@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle botté
-0        Autour des palombes
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Grand-duc d'Europe
-0        Martinet à ventre blanc
-0        Milan noir
-0        Pic vert
-0        Pouillot fitis
-0        Tichodrome échelette
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2017    0        4
+Aigle botté             2016    0        1
+Autour des palombes     2017    0        2
+Faucon pèlerin          2009    0        1
+Fauvette des jardins    2009    0        1
+Grand-duc d'Europe      2009    0        1
+Martinet à ventre blanc 2009    0        1
+Milan noir              2017    0        2
+Pic vert                2009    0        1
+Pouillot fitis          2018    0        1
+Tichodrome échelette    2009    0        1
 

@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Barge rousse
-0        Goéland pontique
-0        Goéland railleur
-0        Grèbe jougris
-0        Guifette leucoptère
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Labbe pomarin
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Barge à queue noire 2009    0        1
+Barge rousse        2009    0        1
+Goéland pontique    2018    0        1
+Goéland railleur    2018    0        1
+Grèbe jougris       2018    0        1
+Guifette leucoptère 2018    0        1
+Harle bièvre        2009    0        1
+Hibou moyen-duc     2018    0        2
+Labbe pomarin       2018    0        1
 

@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grand-duc d'Europe"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bouscarle de Cetti,2010,0,1
+Bruant fou,2011,0,3
+Busard des roseaux,2016,0,6
+Butor étoilé,2012,0,4
+Canard pilet,2012,0,3
+Canard siffleur,2018,0,5
+Chevalier gambette,2014,0,4
+Chevalier sylvain,2013,0,2
+Cincle plongeur,2013,0,10
+Échasse blanche,2012,0,1
+Faisan vénéré,2018,0,3
+Faucon émerillon,2013,0,3
+Faucon pèlerin,2015,0,8
+Fuligule milouin,2016,0,5
+Goéland cendré,2010,0,2
+Grand-duc d'Europe,2012,0,2
+Guifette noire,2012,0,1
+Hibou moyen-duc,2015,0,10
+Marouette ponctuée,2017,0,1
+Merle à plastron,2013,0,1
+Mésange boréale,2017,0,62
+Moineau friquet,2015,0,9
+Oie à tête barrée,2015,0,2
+Oie cendrée,2018,0,5
+Pipit spioncelle,2019,0,13
+Pouillot de Bonelli,2017,0,1
+Râle d'eau,2017,0,22
+Rollier d'Europe,2016,0,4
+Rousserolle verderolle,2011,0,1
+Sizerin cabaret,2018,0,15
+Sizerin flammé,2018,0,16
+Sterne naine,2013,0,6
+Tadorne de Belon,2016,0,12

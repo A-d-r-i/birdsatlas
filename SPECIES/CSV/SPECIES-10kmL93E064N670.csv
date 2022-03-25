@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Choucas des tours"
-"0";"Moineau friquet"
+frname,lastobs,newcount,oldcount
+Choucas des tours,2018,0,3
+Moineau friquet,2015,0,2

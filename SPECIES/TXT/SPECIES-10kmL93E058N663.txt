@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bihoreau gris
-0        Blongios nain
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Busard cendré
-0        Busard des roseaux
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Circaète Jean-le-Blanc
-0        Combattant varié
-0        Corbeau freux
-0        Coucou gris
-0        Courlis cendré
-0        Épervier d'Europe
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grand Gravelot
-0        Grive draine
-0        Grosbec casse-noyaux
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange huppée
-0        Oedicnème criard
-0        Petit Gravelot
-0        Pic épeichette
-0        Pipit des arbres
-0        Pluvier argenté
-0        Serin cini
-0        Spatule blanche
-0        Tarin des aulnes
-0        Traquet motteux
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette des champs    2018    0        3
+Alouette lulu          2018    0        2
+Autour des palombes    2018    0        2
+Avocette élégante      2009    0        1
+Bécasseau minute       2007    0        2
+Bécasseau variable     2009    0        3
+Bihoreau gris          2017    0        2
+Blongios nain          2009    0        1
+Bondrée apivore        2009    0        1
+Bouvreuil pivoine      2009    0        2
+Bruant jaune           2009    0        2
+Busard cendré          2009    0        1
+Busard des roseaux     2007    0        1
+Chevalier aboyeur      2007    0        1
+Chevalier arlequin     2009    0        2
+Chevalier guignette    2007    0        1
+Chevalier sylvain      2007    0        1
+Circaète Jean-le-Blanc 2009    0        1
+Combattant varié       2007    0        2
+Corbeau freux          2019    0        2
+Coucou gris            2016    0        2
+Courlis cendré         2018    0        3
+Épervier d'Europe      2009    0        1
+Faucon émerillon       2015    0        2
+Faucon hobereau        2009    0        1
+Fauvette grisette      2009    0        1
+Gallinule poule-d'eau  2009    0        1
+Gobemouche gris        2009    0        1
+Goéland leucophée      2009    0        1
+Grand Gravelot         2007    0        1
+Grive draine           2009    0        2
+Grosbec casse-noyaux   2009    0        1
+Harle bièvre           2009    0        1
+Hibou moyen-duc        2016    0        2
+Hirondelle de rivage   2009    0        1
+Huppe fasciée          2009    0        1
+Hypolaïs polyglotte    2009    0        1
+Linotte mélodieuse     2019    0        2
+Locustelle tachetée    2009    0        1
+Loriot d'Europe        2009    0        1
+Mésange huppée         2019    0        3
+Oedicnème criard       2009    0        1
+Petit Gravelot         2009    0        3
+Pic épeichette         2009    0        2
+Pipit des arbres       2009    0        1
+Pluvier argenté        2007    0        1
+Serin cini             2009    0        1
+Spatule blanche        2007    0        1
+Tarin des aulnes       2019    0        1
+Traquet motteux        2009    0        1
 

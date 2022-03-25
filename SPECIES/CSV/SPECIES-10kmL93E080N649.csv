@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Chevalier guignette"
-"0";"Chouette de Tengmalm"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Goéland leucophée"
-"0";"Locustelle tachetée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2014,0,3
+Bruant des roseaux,2017,0,10
+Bruant fou,2018,0,3
+Busard des roseaux,2015,0,2
+Butor étoilé,2015,0,2
+Chevalier guignette,2015,0,1
+Chouette de Tengmalm,2007,0,1
+Courlis cendré,2018,0,20
+Échasse blanche,2015,0,1
+Faucon kobez,2015,0,1
+Foulque macroule,2015,0,6
+Goéland leucophée,2018,0,1
+Locustelle tachetée,2018,0,8
+Pie-grièche à tête rousse,2014,0,2
+Pie-grièche grise,2016,0,1
+Pipit rousseline,2010,0,1
+Pipit spioncelle,2018,0,3
+Rousserolle effarvatte,2014,0,1
+Sarcelle d'été,2012,0,1
+Sarcelle d'hiver,2018,0,2
+Torcol fourmilier,2016,0,5
+Vautour fauve,2008,0,1

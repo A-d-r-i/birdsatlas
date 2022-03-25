@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche à collier"
-"0";"Grimpereau des bois"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Roselin cramoisi"
-"0";"Sarcelle d'été"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2014,0,1
+Bihoreau gris,2009,0,1
+Bruant ortolan,2010,0,1
+Caille des blés,2016,0,5
+Canard mandarin,2017,0,2
+Chevalier culblanc,2017,0,1
+Cincle plongeur,2013,0,9
+Faucon émerillon,2013,0,3
+Faucon pèlerin,2012,0,1
+Garrot à oeil d'or,2013,0,1
+Gobemouche à collier,2013,0,7
+Grimpereau des bois,2014,0,9
+Guêpier d'Europe,2016,0,1
+Guifette noire,2018,0,1
+Harle bièvre,2010,0,2
+Hibou moyen-duc,2017,0,9
+Huppe fasciée,2015,0,2
+Jaseur boréal,2013,0,2
+Locustelle tachetée,2017,0,21
+Merle à plastron,2013,0,2
+Perdrix grise,2017,0,1
+Phragmite des joncs,2014,0,1
+Pic cendré,2017,0,4
+Pie-grièche grise,2015,0,6
+Roselin cramoisi,2016,0,9
+Sarcelle d'été,2015,0,8
+Sizerin flammé,2018,0,1
+Tarier des prés,2017,0,7
+Vanneau huppé,2015,0,4

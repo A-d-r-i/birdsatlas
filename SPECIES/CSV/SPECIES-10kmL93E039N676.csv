@@ -1,42 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2017,0,1
+Bec-croisé des sapins,2008,0,1
+Bergeronnette printanière,2013,0,1
+Bruant des roseaux,2017,0,2
+Caille des blés,2016,0,20
+Canard souchet,2017,0,6
+Chevalier culblanc,2018,0,20
+Chevalier guignette,2017,0,4
+Courlis cendré,2013,0,3
+Courlis corlieu,2014,0,3
+Cygne tuberculé,2016,0,1
+Engoulevent d'Europe,2012,0,8
+Faucon émerillon,2018,0,4
+Faucon hobereau,2017,0,9
+Fauvette des jardins,2016,0,10
+Gobemouche noir,2016,0,2
+Grèbe castagneux,2010,0,2
+Grèbe huppé,2012,0,3
+Grosbec casse-noyaux,2018,0,5
+Hibou des marais,2012,0,1
+Hirondelle de rivage,2013,0,1
+Mésange noire,2018,0,4
+Mésange nonnette,2018,0,3
+Milan royal,2019,0,4
+Moineau friquet,2015,0,58
+Oie cendrée,2014,0,6
+Perdrix grise,2011,0,2
+Pic épeichette,2016,0,3
+Pic noir,2015,0,52
+Pie-grièche écorcheur,2015,0,1
+Pipit des arbres,2013,0,5
+Pipit spioncelle,2017,0,4
+Pouillot fitis,2018,0,14
+Pouillot siffleur,2015,0,4
+Rougequeue à front blanc,2015,0,1
+Sarcelle d'hiver,2018,0,10
+Serin cini,2016,0,4
+Traquet motteux,2017,0,19

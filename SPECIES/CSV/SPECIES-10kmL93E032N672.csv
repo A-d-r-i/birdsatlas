@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache cravant"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne chanteur"
-"0";"Faucon hobereau"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Gobemouche noir"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Ibis falcinelle"
-"0";"Martinet noir"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2011,0,2
+Bec-croisé des sapins,2008,0,1
+Bernache cravant,2018,0,1
+Butor étoilé,2011,0,2
+Caille des blés,2016,0,1
+Canard chipeau,2018,0,5
+Courlis cendré,2013,0,3
+Courlis corlieu,2016,0,1
+Cygne chanteur,2018,0,2
+Faucon hobereau,2017,0,6
+Fuligule milouinan,2019,0,1
+Fuligule morillon,2014,0,2
+Gobemouche noir,2018,0,3
+Grèbe huppé,2019,0,20
+Grosbec casse-noyaux,2013,0,3
+Hirondelle de fenêtre,2018,0,15
+Ibis falcinelle,2016,0,1
+Martinet noir,2017,0,7
+Perdrix grise,2017,0,1
+Perdrix rouge,2015,0,1
+Petit Gravelot,2013,0,1
+Pigeon colombin,2012,0,2
+Rossignol philomèle,2016,0,8

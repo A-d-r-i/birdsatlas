@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,6
+Bécasse des bois,2013,0,3
+Bergeronnette printanière,2009,0,1
+Bruant des roseaux,2012,0,4
+Bruant proyer,2018,0,2
+Butor étoilé,2011,0,1
+Chevalier guignette,2014,0,3
+Courlis cendré,2012,0,3
+Courlis corlieu,2017,0,2
+Faucon émerillon,2014,0,2
+Grèbe castagneux,2018,0,4
+Grèbe huppé,2019,0,1
+Héron pourpré,2016,0,1
+Locustelle tachetée,2017,0,1
+Moineau friquet,2014,0,2
+Mouette mélanocéphale,2014,0,1
+Perdrix grise,2010,0,1
+Perruche à collier,2013,0,3
+Pluvier doré,2017,0,5
+Pouillot siffleur,2014,0,3
+Rougequeue à front blanc,2010,0,1
+Torcol fourmilier,2009,0,1

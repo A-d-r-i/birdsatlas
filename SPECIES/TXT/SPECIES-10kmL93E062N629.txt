@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bihoreau gris
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Cincle plongeur
-0        Fauvette des jardins
-0        Fauvette pitchou
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Grive litorne
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Martinet noir
-0        Moineau friquet
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot fitis
-0        Rollier d'Europe
-0        Rougequeue à front blanc
-0        Tarier des prés
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2013    0        1
+Bécasse des bois          2008    0        1
+Bihoreau gris             2009    0        1
+Busard des roseaux        2018    0        2
+Chevalier culblanc        2015    0        1
+Cincle plongeur           2017    0        2
+Fauvette des jardins      2007    0        1
+Fauvette pitchou          2018    0        2
+Foulque macroule          2014    0        1
+Gallinule poule-d'eau     2017    0        6
+Grand Gravelot            2017    0        1
+Grèbe castagneux          2009    0        1
+Grive litorne             2018    0        10
+Héron pourpré             2016    0        2
+Hibou moyen-duc           2015    0        11
+Hirondelle de rivage      2017    0        1
+Martinet noir             2018    0        12
+Moineau friquet           2017    0        1
+Petit Gravelot            2017    0        15
+Pie-grièche à tête rousse 2013    0        3
+Pipit rousseline          2017    0        11
+Pipit spioncelle          2016    0        1
+Pluvier doré              2019    0        2
+Pouillot fitis            2017    0        2
+Rollier d'Europe          2016    0        5
+Rougequeue à front blanc  2017    0        6
+Tarier des prés           2018    0        7
+Vautour fauve             2017    0        2
 

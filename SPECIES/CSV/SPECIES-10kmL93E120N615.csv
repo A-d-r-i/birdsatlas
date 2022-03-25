@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouscarle de Cetti"
-"0";"Pic noir"
+frname,lastobs,newcount,oldcount
+Bouscarle de Cetti,2007,0,1
+Pic noir,2015,0,1

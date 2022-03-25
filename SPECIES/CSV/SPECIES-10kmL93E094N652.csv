@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Eider à duvet"
-"0";"Faucon kobez"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Harle piette"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Macreuse brune"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Niverolle alpine"
-"0";"Perdrix rouge"
-"0";"Pie-grièche grise"
-"0";"Plongeon imbrin"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tétras lyre"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Bruant des neiges,2012,0,1
+Bruant des roseaux,2018,0,3
+Busard Saint-Martin,2012,0,2
+Canard chipeau,2018,0,7
+Canard mandarin,2013,0,3
+Canard siffleur,2014,0,2
+Canard souchet,2014,0,4
+Chevalier guignette,2018,0,7
+Chevêche d'Athéna,2012,0,2
+Cigogne noire,2013,0,1
+Eider à duvet,2011,0,14
+Faucon kobez,2011,0,1
+Gallinule poule-d'eau,2011,0,3
+Grèbe à cou noir,2018,0,8
+Grèbe castagneux,2019,0,42
+Grèbe esclavon,2015,0,3
+Grèbe jougris,2012,0,6
+Harle piette,2012,0,4
+Locustelle tachetée,2012,0,6
+Loriot d'Europe,2009,0,2
+Macreuse brune,2007,0,1
+Mouette mélanocéphale,2016,0,1
+Mouette pygmée,2016,0,1
+Nette rousse,2018,0,21
+Niverolle alpine,2017,0,2
+Perdrix rouge,2012,0,1
+Pie-grièche grise,2013,0,2
+Plongeon imbrin,2007,0,7
+Pouillot siffleur,2018,0,1
+Râle d'eau,2018,0,1
+Sizerin cabaret,2015,0,12
+Sizerin flammé,2015,0,12
+Tadorne de Belon,2018,0,3
+Tétras lyre,2017,0,18
+Vanneau huppé,2016,0,5
+Vautour moine,2009,0,1

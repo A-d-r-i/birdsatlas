@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bruant fou"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Chevalier aboyeur"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Élanion blanc"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Grèbe huppé"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Tadorne de Belon"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Bruant fou,2016,0,3
+Caille des blés,2010,0,2
+Calopsitte élégante,2011,0,1
+Chevalier aboyeur,2018,0,1
+Cigogne blanche,2013,0,2
+Cigogne noire,2016,0,2
+Échasse blanche,2008,0,1
+Effraie des clochers,2011,0,2
+Élanion blanc,2015,0,1
+Faisan de Colchide,2016,0,5
+Fauvette grisette,2016,0,5
+Grèbe huppé,2011,0,1
+Héron garde-boeufs,2017,0,1
+Héron pourpré,2011,0,2
+Locustelle tachetée,2018,0,2
+Martinet à ventre blanc,2015,0,7
+Moineau friquet,2012,0,6
+Mouette mélanocéphale,2011,0,1
+Petit Gravelot,2011,0,5
+Pic mar,2014,0,1
+Pic noir,2007,0,1
+Pigeon colombin,2017,0,1
+Tadorne de Belon,2018,0,3
+Vautour moine,2008,0,1

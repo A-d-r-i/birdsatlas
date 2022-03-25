@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Busard Saint-Martin"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Faucon d'Eléonore"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette mélanocéphale"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Héron cendré"
-"0";"Hypolaïs polyglotte"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Pic vert"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pluvier guignard"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,6
+Busard Saint-Martin,2014,0,1
+Chevalier guignette,2017,0,1
+Choucas des tours,2018,0,1
+Faucon d'Eléonore,2013,0,1
+Faucon hobereau,2014,0,1
+Faucon kobez,2016,0,1
+Fauvette mélanocéphale,2017,0,2
+Grand Cormoran,2017,0,3
+Grand-duc d'Europe,2014,0,1
+Héron cendré,2018,0,29
+Hypolaïs polyglotte,2009,0,1
+Moineau friquet,2017,0,12
+Petit-duc scops,2018,0,18
+Pic vert,2018,0,8
+Pigeon biset domestique,2015,0,3
+Pigeon colombin,2018,0,1
+Pinson du Nord,2018,0,1
+Pluvier guignard,2007,0,1
+Tarier des prés,2015,0,2
+Torcol fourmilier,2017,0,8
+Tourterelle des bois,2012,0,1
+Tourterelle turque,2017,0,29
+Vautour moine,2012,0,1

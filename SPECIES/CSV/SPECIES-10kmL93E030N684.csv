@@ -1,33 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier arlequin"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Eider à duvet"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fou de Bassan"
-"0";"Foulque macroule"
-"0";"Goéland leucophée"
-"0";"Harle huppé"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pinson du Nord"
-"0";"Pipit maritime"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2018,0,2
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bruant des roseaux,2016,0,2
+Canard chipeau,2017,0,1
+Canard pilet,2018,0,6
+Chevalier arlequin,2013,0,1
+Cigogne noire,2014,0,1
+Eider à duvet,2017,0,1
+Faucon hobereau,2016,0,2
+Fauvette grisette,2009,0,1
+Fou de Bassan,2017,0,2
+Foulque macroule,2009,0,1
+Goéland leucophée,2016,0,1
+Harle huppé,2016,0,1
+Hypolaïs polyglotte,2017,0,2
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2016,0,1
+Phragmite des joncs,2009,0,2
+Pic épeichette,2018,0,4
+Pic noir,2016,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pinson du Nord,2017,0,1
+Pipit maritime,2015,0,5
+Pouillot fitis,2018,0,1
+Roitelet huppé,2017,0,2
+Sterne pierregarin,2014,0,3
+Tadorne casarca,2009,0,1
+Tarier des prés,2016,0,1
+Tourterelle des bois,2018,0,8

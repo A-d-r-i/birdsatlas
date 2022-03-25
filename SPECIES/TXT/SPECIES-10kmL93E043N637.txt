@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette lulu
-0        Autour des palombes
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bernache du Canada
-0        Bihoreau gris
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Canard mandarin
-0        Cigogne blanche
-0        Cigogne noire
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive litorne
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hirondelle de fenêtre
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Moineau friquet
-0        Oie cendrée
-0        Perdrix rouge
-0        Perruche ondulée
-0        Pic épeichette
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2017    0        3
+Alouette lulu             2018    0        20
+Autour des palombes       2011    0        6
+Bécassine des marais      2012    0        6
+Bec-croisé des sapins     2010    0        1
+Bergeronnette printanière 2012    0        7
+Bernache du Canada        2018    0        10
+Bihoreau gris             2011    0        1
+Busard des roseaux        2009    0        1
+Busard Saint-Martin       2013    0        3
+Canard mandarin           2014    0        4
+Cigogne blanche           2016    0        4
+Cigogne noire             2009    0        1
+Faucon émerillon          2019    0        2
+Faucon hobereau           2016    0        14
+Faucon pèlerin            2011    0        2
+Fauvette des jardins      2011    0        4
+Fauvette grisette         2010    0        3
+Gobemouche gris           2012    0        4
+Gobemouche noir           2012    0        25
+Grande Aigrette           2009    0        1
+Grèbe castagneux          2013    0        4
+Grive litorne             2018    0        18
+Héron garde-boeufs        2010    0        2
+Héron pourpré             2013    0        1
+Hirondelle de fenêtre     2013    0        59
+Linotte mélodieuse        2017    0        3
+Locustelle tachetée       2011    0        1
+Moineau friquet           2017    0        1
+Oie cendrée               2011    0        1
+Perdrix rouge             2012    0        3
+Perruche ondulée          2009    0        1
+Pic épeichette            2018    0        26
+Pie-grièche grise         2014    0        1
+Pigeon colombin           2011    0        6
+Pipit spioncelle          2012    0        3
+Pouillot fitis            2009    0        11
+Tarier des prés           2012    0        2
+Torcol fourmilier         2013    0        7
+Traquet motteux           2015    0        1
+Vautour fauve             2017    0        1
 

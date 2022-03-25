@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Chevalier arlequin
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Coucou gris
-0        Courlis corlieu
-0        Effraie des clochers
-0        Fauvette passerinette
-0        Gravelot à collier interrompu
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Monticole de roche
-0        Pigeon biset (origine naturelle)
-0        Pluvier argenté
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Bondrée apivore                  2018    0        5
+Chevalier arlequin               2018    0        1
+Chevêche d'Athéna                2015    0        1
+Cigogne noire                    2018    0        1
+Coucou gris                      2018    0        2
+Courlis corlieu                  2018    0        1
+Effraie des clochers             2009    0        1
+Fauvette passerinette            2009    0        1
+Gravelot à collier interrompu    2018    0        1
+Hibou des marais                 2018    0        1
+Hibou moyen-duc                  2017    0        1
+Monticole de roche               2018    0        1
+Pigeon biset (origine naturelle) 2017    0        1
+Pluvier argenté                  2018    0        3
 

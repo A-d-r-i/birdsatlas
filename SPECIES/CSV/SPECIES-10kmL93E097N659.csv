@@ -1,63 +1,61 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasseau variable"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Chocard à bec jaune"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland pontique"
-"0";"Gorgebleue à miroir"
-"0";"Grande Aigrette"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Inséparable de Fischer"
-"0";"Jaseur boréal"
-"0";"Linotte mélodieuse"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mouette tridactyle"
-"0";"Niverolle alpine"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caugek"
-"0";"Tadorne de Belon"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2015,0,1
+Bécasseau variable,2018,0,2
+Bernache du Canada,2012,0,14
+Blongios nain,2016,0,1
+Bruant fou,2015,0,4
+Busard cendré,2013,0,1
+Busard Saint-Martin,2016,0,5
+Buse pattue,2011,0,1
+Caille des blés,2011,0,3
+Canard carolin,2018,0,1
+Canard mandarin,2017,0,2
+Canard siffleur,2017,0,1
+Canard souchet,2018,0,3
+Chevalier aboyeur,2018,0,2
+Chevalier culblanc,2017,0,5
+Chevalier sylvain,2017,0,1
+Chocard à bec jaune,2016,0,19
+Chouette de Tengmalm,2011,0,2
+Cigogne blanche,2016,0,3
+Cigogne noire,2017,0,8
+Circaète Jean-le-Blanc,2011,0,1
+Corneille mantelée,2011,0,2
+Courlis cendré,2009,0,1
+Échasse blanche,2017,0,2
+Effraie des clochers,2013,0,4
+Eider à duvet,2017,0,11
+Fauvette babillarde,2016,0,3
+Fauvette grisette,2018,0,7
+Fuligule nyroca,2013,0,40
+Garrot à oeil d'or,2016,0,2
+Goéland argenté,2014,0,1
+Goéland brun,2018,0,2
+Goéland pontique,2018,0,2
+Gorgebleue à miroir,2016,0,2
+Grande Aigrette,2008,0,1
+Héron pourpré,2016,0,1
+Hibou moyen-duc,2017,0,7
+Hypolaïs polyglotte,2018,0,12
+Inséparable de Fischer,2011,0,1
+Jaseur boréal,2009,0,2
+Linotte mélodieuse,2017,0,26
+Macreuse brune,2018,0,3
+Merle à plastron,2008,0,2
+Mouette tridactyle,2009,0,1
+Niverolle alpine,2012,0,1
+Perdrix rouge,2008,0,1
+Petit-duc scops,2007,0,1
+Pic noir,2018,0,7
+Pigeon colombin,2018,0,1
+Pipit des arbres,2018,0,52
+Plongeon arctique,2009,0,1
+Pouillot siffleur,2018,0,9
+Sizerin cabaret,2011,0,2
+Sizerin flammé,2011,0,2
+Sterne caugek,2013,0,1
+Tadorne de Belon,2016,0,4
+Tarier pâtre,2018,0,14
+Torcol fourmilier,2017,0,6
+Tournepierre à collier,2017,0,2
+Tourterelle des bois,2017,0,1

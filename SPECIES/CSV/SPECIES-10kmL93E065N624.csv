@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette calandrelle"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rousseline"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Moineau friquet"
-"0";"Monticole de roche"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2014,0,1
+Alouette calandrelle,2016,0,2
+Bergeronnette printanière,2017,0,2
+Bihoreau gris,2009,0,2
+Bruant ortolan,2016,0,8
+Busard des roseaux,2018,0,2
+Caille des blés,2018,0,8
+Chevalier culblanc,2018,0,3
+Cincle plongeur,2015,0,2
+Combattant varié,2013,0,1
+Corbeau freux,2018,0,1
+Faucon crécerellette,2016,0,2
+Faucon émerillon,2018,0,1
+Fauvette des jardins,2018,0,1
+Fauvette grisette,2017,0,3
+Foulque macroule,2009,0,5
+Héron garde-boeufs,2018,0,1
+Hibou des marais,2016,0,1
+Hirondelle de rivage,2015,0,1
+Hirondelle rousseline,2015,0,1
+Locustelle tachetée,2014,0,1
+Martinet à ventre blanc,2015,0,1
+Moineau friquet,2016,0,2
+Monticole de roche,2012,0,1
+Pipit spioncelle,2012,0,1
+Râle d'eau,2014,0,2
+Rousserolle turdoïde,2009,0,4
+Sarcelle d'hiver,2014,0,1

@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Chocard à bec jaune"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Faucon kobez"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Hirondelle rousseline"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot fitis"
-"0";"Rollier d'Europe"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,2
+Autour des palombes,2016,0,14
+Bouvreuil pivoine,2014,0,1
+Bruant jaune,2017,0,1
+Chocard à bec jaune,2015,0,1
+Choucas des tours,2014,0,4
+Corbeau freux,2018,0,1
+Faucon kobez,2008,0,1
+Gobemouche gris,2016,0,1
+Grand Cormoran,2015,0,1
+Hirondelle rousseline,2018,0,1
+Loriot d'Europe,2013,0,1
+Mésange boréale,2012,0,2
+Pie-grièche à tête rousse,2016,0,1
+Pouillot fitis,2014,0,1
+Rollier d'Europe,2014,0,1
+Tarier des prés,2017,0,2
+Tichodrome échelette,2015,0,3
+Tourterelle turque,2013,0,5

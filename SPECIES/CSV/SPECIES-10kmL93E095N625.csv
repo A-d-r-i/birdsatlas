@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant fou"
-"0";"Canard à collier noir"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Coucou geai"
-"0";"Cygne noir"
-"0";"Dendrocygne fauve"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2019,0,17
+Aigrette garzette,2010,0,2
+Alouette des champs,2012,0,1
+Bécasse des bois,2009,0,1
+Bec-croisé des sapins,2014,0,3
+Bihoreau gris,2018,0,1
+Bruant fou,2013,0,2
+Canard à collier noir,2010,0,6
+Chevalier culblanc,2015,0,1
+Chevêche d'Athéna,2015,0,1
+Cisticole des joncs,2011,0,2
+Coucou geai,2014,0,1
+Cygne noir,2015,0,1
+Dendrocygne fauve,2018,0,3
+Échasse blanche,2015,0,1
+Engoulevent d'Europe,2014,0,21
+Fauvette des jardins,2010,0,1
+Fuligule milouin,2010,0,4
+Grèbe huppé,2014,0,1
+Grive litorne,2013,0,4
+Grive mauvis,2011,0,2
+Hibou moyen-duc,2013,0,6
+Hirondelle de rivage,2011,0,1
+Hirondelle de rochers,2016,0,25
+Hirondelle rousseline,2014,0,9
+Hypolaïs polyglotte,2012,0,4
+Linotte mélodieuse,2012,0,4
+Pic noir,2014,0,4
+Pie-grièche écorcheur,2012,0,1
+Sarcelle d'été,2010,0,1
+Tarier des prés,2013,0,2
+Tichodrome échelette,2010,0,2
+Torcol fourmilier,2012,0,3
+Traquet motteux,2011,0,2
+Vautour moine,2010,0,1

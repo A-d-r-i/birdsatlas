@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Busard des roseaux"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cygne tuberculé"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Grand-duc d'Europe"
-"0";"Grive litorne"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pipit spioncelle"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Tadorne de Belon"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,2
+Bihoreau gris,2013,0,2
+Busard des roseaux,2008,0,1
+Canard souchet,2015,0,1
+Chevalier culblanc,2017,0,6
+Chevalier guignette,2015,0,1
+Cygne tuberculé,2013,0,3
+Faucon pèlerin,2016,0,2
+Fauvette des jardins,2013,0,3
+Foulque macroule,2015,0,11
+Fuligule milouin,2018,0,1
+Gobemouche gris,2007,0,1
+Grand Corbeau,2007,0,1
+Grand-duc d'Europe,2009,0,7
+Grive litorne,2017,0,9
+Locustelle tachetée,2013,0,1
+Martin-pêcheur d'Europe,2018,0,4
+Mésange noire,2019,0,1
+Perdrix rouge,2012,0,3
+Pipit spioncelle,2017,0,7
+Rousserolle effarvatte,2012,0,1
+Rousserolle verderolle,2007,0,1
+Tadorne de Belon,2013,0,1
+Tarin des aulnes,2017,0,5
+Traquet motteux,2015,0,3

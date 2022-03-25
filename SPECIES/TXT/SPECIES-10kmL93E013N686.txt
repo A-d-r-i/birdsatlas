@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Bécasseau minute
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Bruant zizi
-0        Buse variable
-0        Canard colvert
-0        Canard pilet
-0        Canard souchet
-0        Chevalier gambette
-0        Choucas des tours
-0        Étourneau sansonnet
-0        Grèbe huppé
-0        Grive musicienne
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Hirondelle rustique
-0        Linotte mélodieuse
-0        Merle noir
-0        Mésange bleue
-0        Moineau domestique
-0        Pie bavarde
-0        Pigeon colombin
-0        Pigeon ramier
-0        Pouillot fitis
-0        Pouillot véloce
-0        Roitelet huppé
-0        Sarcelle d'hiver
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Troglodyte mignon
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2009    0        1
+Bécasseau minute          2012    0        1
+Bergeronnette printanière 2015    0        1
+Bruant proyer             2009    0        1
+Bruant zizi               2009    0        1
+Buse variable             2015    0        1
+Canard colvert            2019    0        3
+Canard pilet              2009    0        1
+Canard souchet            2009    0        1
+Chevalier gambette        2019    0        3
+Choucas des tours         2009    0        1
+Étourneau sansonnet       2018    0        2
+Grèbe huppé               2015    0        2
+Grive musicienne          2009    0        1
+Hibou des marais          2017    0        2
+Hirondelle de rivage      2009    0        1
+Hirondelle rustique       2015    0        2
+Linotte mélodieuse        2015    0        1
+Merle noir                2009    0        1
+Mésange bleue             2009    0        1
+Moineau domestique        2009    0        1
+Pie bavarde               2009    0        1
+Pigeon colombin           2009    0        1
+Pigeon ramier             2009    0        1
+Pouillot fitis            2015    0        1
+Pouillot véloce           2009    0        1
+Roitelet huppé            2009    0        1
+Sarcelle d'hiver          2009    0        1
+Tarin des aulnes          2009    0        1
+Tourterelle des bois      2009    0        1
+Tourterelle turque        2009    0        1
+Troglodyte mignon         2009    0        1
+Verdier d'Europe          2017    0        1
 

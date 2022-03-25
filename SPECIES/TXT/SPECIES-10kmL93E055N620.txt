@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Chevêche d'Athéna
-0        Fauvette des jardins
-0        Grand-duc d'Europe
-0        Grand Tétras
-0        Loriot d'Europe
-0        Pouillot de Bonelli
-0        Rollier d'Europe
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Autour des palombes  2018    0        2
+Bécasse des bois     2019    0        2
+Chevêche d'Athéna    2009    0        1
+Fauvette des jardins 2009    0        1
+Grand-duc d'Europe   2009    0        1
+Grand Tétras         2009    0        1
+Loriot d'Europe      2018    0        1
+Pouillot de Bonelli  2009    0        1
+Rollier d'Europe     2009    0        1
+Torcol fourmilier    2009    0        1
+Tourterelle des bois 2009    0        1
 

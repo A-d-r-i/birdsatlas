@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Gobemouche noir"
-"0";"Goéland cendré"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Oie à tête barrée"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'été"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2012,0,1
+Bec-croisé des sapins,2019,0,1
+Bernache du Canada,2013,0,2
+Bihoreau gris,2012,0,2
+Bruant des roseaux,2018,0,6
+Busard Saint-Martin,2012,0,1
+Caille des blés,2012,0,2
+Canard pilet,2013,0,1
+Canard siffleur,2016,0,4
+Canard souchet,2016,0,5
+Chevalier aboyeur,2018,0,1
+Chevalier culblanc,2017,0,10
+Cigogne blanche,2018,0,16
+Faucon émerillon,2013,0,2
+Faucon pèlerin,2012,0,1
+Gobemouche noir,2016,0,4
+Goéland cendré,2014,0,8
+Grimpereau des bois,2018,0,8
+Grive mauvis,2016,0,4
+Harle bièvre,2016,0,6
+Harle piette,2012,0,2
+Hibou moyen-duc,2017,0,2
+Huppe fasciée,2017,0,3
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2018,0,4
+Oie à tête barrée,2013,0,1
+Pic épeichette,2013,0,1
+Pic mar,2013,0,1
+Pie-grièche à tête rousse,2012,0,3
+Pigeon colombin,2012,0,2
+Pipit des arbres,2016,0,1
+Sarcelle d'été,2012,0,1
+Tourterelle des bois,2017,0,6

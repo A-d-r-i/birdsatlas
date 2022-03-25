@@ -1,10 +1,10 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Grèbe huppé
-0        Locustelle tachetée
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Grèbe huppé            2009    0        1
+Locustelle tachetée    2009    0        1
+Phragmite des joncs    2009    0        1
+Pigeon colombin        2018    0        2
+Rousserolle effarvatte 2009    0        1
+Sarcelle d'hiver       2018    0        2
 

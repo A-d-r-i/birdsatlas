@@ -1,73 +1,71 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant zizi"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Faisan vénéré"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand Corbeau"
-"0";"Grande Aigrette"
-"0";"Grèbe esclavon"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Harelde boréale"
-"0";"Harle piette"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Huîtrier pie"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Labbe à longue queue"
-"0";"Linotte mélodieuse"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette de Sabine"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Plongeon catmarin"
-"0";"Plongeon imbrin"
-"0";"Pouillot fitis"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tournepierre à collier"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,5
+Alouette des champs,2018,0,6
+Alouette lulu,2009,0,1
+Barge rousse,2018,0,1
+Bécasseau maubèche,2009,0,1
+Bécasseau minute,2012,0,1
+Bergeronnette printanière,2017,0,2
+Bihoreau gris,2017,0,1
+Bondrée apivore,2010,0,2
+Bouvreuil pivoine,2012,0,2
+Bruant zizi,2014,0,7
+Canard siffleur,2018,0,7
+Chevalier aboyeur,2012,0,3
+Chevalier culblanc,2017,0,1
+Choucas des tours,2017,0,4
+Chouette hulotte,2017,0,5
+Cigogne blanche,2014,0,3
+Courlis cendré,2018,0,7
+Courlis corlieu,2010,0,1
+Cygne noir,2016,0,2
+Faisan vénéré,2016,0,1
+Faucon pèlerin,2018,0,3
+Fauvette des jardins,2015,0,4
+Fauvette grisette,2016,0,1
+Fuligule milouinan,2016,0,1
+Fuligule nyroca,2016,0,2
+Gobemouche gris,2017,0,18
+Gobemouche noir,2018,0,18
+Grand Corbeau,2016,0,3
+Grande Aigrette,2010,0,2
+Grèbe esclavon,2018,0,27
+Grive litorne,2018,0,3
+Guêpier d'Europe,2010,0,1
+Guifette moustac,2015,0,1
+Harelde boréale,2018,0,1
+Harle piette,2014,0,9
+Hirondelle de rivage,2010,0,1
+Hirondelle de rochers,2018,0,1
+Huîtrier pie,2010,0,1
+Huppe fasciée,2017,0,3
+Jaseur boréal,2009,0,4
+Labbe à longue queue,2012,0,5
+Linotte mélodieuse,2010,0,2
+Mésange boréale,2015,0,1
+Mésange huppée,2018,0,11
+Mésange noire,2017,0,11
+Mouette de Sabine,2017,0,1
+Mouette tridactyle,2017,0,1
+Oie cendrée,2016,0,2
+Pic épeichette,2017,0,8
+Pipit des arbres,2011,0,1
+Pipit farlouse,2018,0,2
+Pipit spioncelle,2017,0,3
+Plongeon catmarin,2014,0,9
+Plongeon imbrin,2018,0,8
+Pouillot fitis,2017,0,13
+Rossignol philomèle,2017,0,3
+Rousserolle effarvatte,2014,0,2
+Sarcelle d'hiver,2018,0,5
+Serin cini,2018,0,25
+Sizerin cabaret,2016,0,1
+Sizerin flammé,2016,0,1
+Sterne pierregarin,2018,0,23
+Tadorne casarca,2014,0,4
+Tadorne de Belon,2015,0,5
+Tarier des prés,2014,0,1
+Tarier pâtre,2018,0,4
+Tournepierre à collier,2016,0,2
+Tourterelle des bois,2007,0,2
+Vanneau huppé,2015,0,2

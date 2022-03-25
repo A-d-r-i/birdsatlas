@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bouscarle de Cetti
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Choucas des tours
-0        Corbeau freux
-0        Épervier d'Europe
-0        Fauvette babillarde
-0        Fuligule milouin
-0        Gobemouche gris
-0        Gorgebleue à miroir
-0        Grand Cormoran
-0        Grèbe huppé
-0        Hibou moyen-duc
-0        Mésange boréale
-0        Mésange noire
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix grise
-0        Petit Gravelot
-0        Pipit farlouse
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Tadorne de Belon
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        2
+Autour des palombes       2009    0        2
+Bécasse des bois          2009    0        2
+Bergeronnette printanière 2009    0        1
+Bouscarle de Cetti        2009    0        1
+Bruant proyer             2009    0        2
+Busard Saint-Martin       2009    0        2
+Canard chipeau            2009    0        2
+Choucas des tours         2009    0        2
+Corbeau freux             2009    0        2
+Épervier d'Europe         2015    0        3
+Fauvette babillarde       2009    0        1
+Fuligule milouin          2009    0        1
+Gobemouche gris           2013    0        2
+Gorgebleue à miroir       2009    0        1
+Grand Cormoran            2009    0        2
+Grèbe huppé               2009    0        1
+Hibou moyen-duc           2009    0        1
+Mésange boréale           2009    0        1
+Mésange noire             2019    0        4
+Moineau friquet           2013    0        2
+Mouette rieuse            2009    0        1
+Perdrix grise             2009    0        2
+Petit Gravelot            2009    0        1
+Pipit farlouse            2009    0        2
+Râle d'eau                2009    0        1
+Rousserolle effarvatte    2009    0        1
+Tadorne de Belon          2009    0        1
+Tarin des aulnes          2019    0        5
+Tourterelle des bois      2018    0        2
+Vanneau huppé             2009    0        1
 

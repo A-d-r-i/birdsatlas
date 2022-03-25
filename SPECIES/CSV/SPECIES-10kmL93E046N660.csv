@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Canard souchet"
-"0";"Fauvette pitchou"
-"0";"Goéland argenté"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,5
+Bécassine sourde,2015,0,4
+Bec-croisé des sapins,2012,0,1
+Bergeronnette printanière,2015,0,2
+Bihoreau gris,2017,0,2
+Bruant proyer,2015,0,3
+Canard souchet,2016,0,1
+Fauvette pitchou,2016,0,2
+Goéland argenté,2018,0,1
+Goéland leucophée,2018,0,3
+Grèbe castagneux,2018,0,2
+Hibou des marais,2011,0,2
+Hirondelle de rivage,2015,0,1
+Perdrix grise,2015,0,1
+Petit-duc scops,2015,0,2
+Petit Gravelot,2012,0,1
+Pie-grièche à tête rousse,2016,0,4
+Pipit spioncelle,2014,0,3
+Râle d'eau,2018,0,1
+Sarcelle d'hiver,2015,0,2
+Tarier des prés,2013,0,1
+Tichodrome échelette,2012,0,1

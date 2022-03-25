@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bécasseau tacheté
-0        Busard pâle
-0        Canard carolin
-0        Chevalier arlequin
-0        Cigogne noire
-0        Courlis cendré
-0        Cygne noir
-0        Faucon kobez
-0        Flamant rose
-0        Goéland brun
-0        Goéland railleur
-0        Grand Gravelot
-0        Hibou moyen-duc
-0        Hirondelle de rochers
-0        Ibis sacré
-0        Locustelle tachetée
-0        Macreuse brune
-0        Martinet à ventre blanc
-0        Ouette d'Egypte
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pluvier doré
-0        Pouillot à grands sourcils
-0        Sterne naine
-0        Tadorne casarca
-0        Talève sultane
-0        Tourterelle rieuse
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Barge à queue noire        2011    0        4
+Bécasseau cocorli          2008    0        1
+Bécasseau minute           2010    0        3
+Bécasseau tacheté          2008    0        4
+Busard pâle                2017    0        3
+Canard carolin             2018    0        1
+Chevalier arlequin         2018    0        8
+Cigogne noire              2017    0        6
+Courlis cendré             2011    0        1
+Cygne noir                 2017    0        14
+Faucon kobez               2015    0        2
+Flamant rose               2013    0        20
+Goéland brun               2018    0        2
+Goéland railleur           2016    0        1
+Grand Gravelot             2015    0        8
+Hibou moyen-duc            2018    0        80
+Hirondelle de rochers      2018    0        2
+Ibis sacré                 2010    0        3
+Locustelle tachetée        2016    0        3
+Macreuse brune             2010    0        5
+Martinet à ventre blanc    2018    0        1
+Ouette d'Egypte            2018    0        43
+Pie-grièche à tête rousse  2012    0        1
+Pie-grièche méridionale    2018    0        13
+Pluvier doré               2018    0        9
+Pouillot à grands sourcils 2015    0        1
+Sterne naine               2008    0        1
+Tadorne casarca            2012    0        11
+Talève sultane             2018    0        38
+Tourterelle rieuse         2017    0        2
 

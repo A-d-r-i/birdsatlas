@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Busard pâle"
-"0";"Engoulevent d'Europe"
-"0";"Fuligule morillon"
-"0";"Grand Gravelot"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Hibou des marais"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Outarde canepetière"
-"0";"Phragmite des joncs"
-"0";"Pluvier argenté"
-"0";"Pluvier guignard"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Sterne caugek"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2019,0,5
+Busard pâle,2009,0,4
+Engoulevent d'Europe,2012,0,1
+Fuligule morillon,2013,0,1
+Grand Gravelot,2010,0,2
+Guêpier d'Europe,2008,0,1
+Guifette moustac,2017,0,1
+Hibou des marais,2013,0,2
+Locustelle luscinioïde,2018,0,1
+Locustelle tachetée,2014,0,2
+Mésange nonnette,2015,0,4
+Moineau friquet,2018,0,23
+Mouette pygmée,2014,0,7
+Mouette tridactyle,2009,0,4
+Outarde canepetière,2018,0,5
+Phragmite des joncs,2015,0,3
+Pluvier argenté,2013,0,3
+Pluvier guignard,2011,0,1
+Râle d'eau,2015,0,1
+Râle des genêts,2014,0,99
+Sterne caugek,2011,0,1

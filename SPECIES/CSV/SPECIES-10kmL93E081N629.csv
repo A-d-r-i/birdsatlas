@@ -1,34 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandre"
-"0";"Bécasseau cocorli"
-"0";"Bécasse des bois"
-"0";"Bruant ortolan"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Cigogne noire"
-"0";"Cygne tuberculé"
-"0";"Élanion blanc"
-"0";"Faucon crécerellette"
-"0";"Faucon d'Eléonore"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Goéland argenté"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Harle bièvre"
-"0";"Hirondelle rousseline"
-"0";"Ibis falcinelle"
-"0";"Lusciniole à moustaches"
-"0";"Martinet à ventre blanc"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Alouette calandre,2014,0,1
+Bécasseau cocorli,2011,0,1
+Bécasse des bois,2013,0,4
+Bruant ortolan,2014,0,1
+Canard siffleur,2012,0,2
+Canard souchet,2013,0,2
+Cigogne noire,2015,0,1
+Cygne tuberculé,2013,0,24
+Élanion blanc,2015,0,1
+Faucon crécerellette,2008,0,1
+Faucon d'Eléonore,2010,0,1
+Faucon pèlerin,2017,0,5
+Fauvette des jardins,2017,0,1
+Fauvette orphée,2011,0,1
+Fuligule milouinan,2014,0,3
+Fuligule nyroca,2015,0,7
+Garrot à oeil d'or,2017,0,5
+Gobemouche gris,2018,0,2
+Goéland argenté,2010,0,2
+Grand-duc d'Europe,2016,0,7
+Grèbe à cou noir,2016,0,2
+Harle bièvre,2014,0,8
+Hirondelle rousseline,2016,0,10
+Lusciniole à moustaches,2012,0,2
+Martinet à ventre blanc,2013,0,2
+Nette rousse,2019,0,3
+Oie cendrée,2015,0,6
+Rousserolle turdoïde,2013,0,6
+Sarcelle d'été,2013,0,1
+Tadorne casarca,2010,0,2

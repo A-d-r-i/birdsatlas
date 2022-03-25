@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Gobemouche noir"
-"0";"Grive mauvis"
-"0";"Hirondelle de rochers"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,1
+Bécassine des marais,2016,0,1
+Bruant des roseaux,2009,0,1
+Busard cendré,2017,0,5
+Caille des blés,2017,0,5
+Chevêche d'Athéna,2016,0,1
+Cigogne blanche,2018,0,8
+Circaète Jean-le-Blanc,2012,0,2
+Engoulevent d'Europe,2012,0,3
+Faucon émerillon,2016,0,2
+Fauvette des jardins,2017,0,8
+Fauvette grisette,2018,0,6
+Foulque macroule,2017,0,12
+Fuligule morillon,2015,0,1
+Gobemouche noir,2018,0,1
+Grive mauvis,2019,0,7
+Hirondelle de rochers,2018,0,1
+Huppe fasciée,2016,0,9
+Locustelle tachetée,2014,0,1
+Mouette rieuse,2018,0,3
+Perdrix grise,2012,0,2
+Perdrix rouge,2018,0,2
+Pipit farlouse,2018,0,13
+Pluvier doré,2016,0,1
+Râle d'eau,2014,0,1
+Roitelet huppé,2018,0,18
+Rougequeue à front blanc,2018,0,10
+Rousserolle effarvatte,2017,0,31
+Tarier des prés,2014,0,4
+Tichodrome échelette,2018,0,58
+Vanneau huppé,2017,0,8

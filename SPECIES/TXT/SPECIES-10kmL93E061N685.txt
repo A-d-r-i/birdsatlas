@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bécassine des marais
-0        Canard à collier noir
-0        Cigogne blanche
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Goéland brun
-0        Goéland leucophée
-0        Harle bièvre
-0        Oie à tête barrée
-0        Paon bleu
-0        Petit Gravelot
-0        Pouillot de Bonelli
-0        Sarcelle d'été
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Torcol fourmilier
-0        Traquet motteux
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette lulu         2016    0        2
+Autour des palombes   2009    0        1
+Bécassine des marais  2016    0        1
+Canard à collier noir 2018    0        2
+Cigogne blanche       2014    0        7
+Faucon émerillon      2013    0        1
+Faucon pèlerin        2014    0        1
+Goéland brun          2016    0        1
+Goéland leucophée     2016    0        3
+Harle bièvre          2019    0        1
+Oie à tête barrée     2019    0        5
+Paon bleu             2016    0        3
+Petit Gravelot        2012    0        1
+Pouillot de Bonelli   2018    0        1
+Sarcelle d'été        2016    0        1
+Sterne pierregarin    2018    0        8
+Tadorne casarca       2011    0        3
+Torcol fourmilier     2016    0        1
+Traquet motteux       2018    0        4
 

@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant jaune
-0        Chevalier aboyeur
-0        Étourneau sansonnet
-0        Geai des chênes
-0        Goéland pontique
-0        Grand Corbeau
-0        Grive musicienne
-0        Océanite tempête
-0        Pie bavarde
-0        Puffin des Anglais
-0        Tourterelle turque
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bruant jaune        2016    0        2
+Chevalier aboyeur   2013    0        1
+Étourneau sansonnet 2016    0        2
+Geai des chênes     2016    0        2
+Goéland pontique    2018    0        2
+Grand Corbeau       2014    0        1
+Grive musicienne    2016    0        1
+Océanite tempête    2017    0        1
+Pie bavarde         2015    0        2
+Puffin des Anglais  2016    0        1
+Tourterelle turque  2016    0        2
 

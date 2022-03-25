@@ -1,67 +1,65 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Buse variable"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Corneille noire"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Fauvette à tête noire"
-"0";"Fauvette des jardins"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Grimpereau des bois"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange bleue"
-"0";"Mésange boréale"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau domestique"
-"0";"Pic épeiche"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pigeon ramier"
-"0";"Pinson des arbres"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougegorge familier"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Sittelle torchepot"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2012,0,4
+Bécasse des bois,2012,0,2
+Bec-croisé des sapins,2018,0,4
+Bergeronnette des ruisseaux,2018,0,12
+Bergeronnette grise,2016,0,6
+Bondrée apivore,2018,0,2
+Bouvreuil pivoine,2014,0,7
+Bruant jaune,2014,0,4
+Buse variable,2016,0,8
+Canard colvert,2018,0,5
+Chardonneret élégant,2011,0,2
+Chouette hulotte,2018,0,1
+Cigogne noire,2015,0,2
+Cincle plongeur,2018,0,13
+Corneille noire,2011,0,3
+Coucou gris,2014,0,3
+Épervier d'Europe,2018,0,1
+Fauvette à tête noire,2018,0,11
+Fauvette des jardins,2016,0,5
+Geai des chênes,2014,0,4
+Gobemouche gris,2016,0,3
+Grand Corbeau,2014,0,1
+Grimpereau des bois,2013,0,6
+Grimpereau des jardins,2015,0,11
+Grive draine,2014,0,6
+Grive mauvis,2012,0,2
+Grive musicienne,2016,0,6
+Grosbec casse-noyaux,2019,0,12
+Héron cendré,2018,0,6
+Hirondelle de fenêtre,2009,0,2
+Hirondelle rustique,2018,0,4
+Hypolaïs polyglotte,2013,0,1
+Linotte mélodieuse,2018,0,3
+Martinet noir,2013,0,1
+Martin-pêcheur d'Europe,2016,0,2
+Mésange à longue queue,2014,0,4
+Mésange bleue,2016,0,7
+Mésange boréale,2014,0,9
+Mésange charbonnière,2014,0,8
+Mésange huppée,2016,0,8
+Mésange noire,2015,0,11
+Mésange nonnette,2014,0,9
+Moineau domestique,2012,0,5
+Pic épeiche,2018,0,13
+Pic épeichette,2014,0,3
+Pic mar,2013,0,5
+Pic noir,2015,0,5
+Pigeon colombin,2012,0,2
+Pigeon ramier,2014,0,10
+Pinson des arbres,2016,0,13
+Pipit des arbres,2014,0,5
+Pouillot fitis,2013,0,3
+Pouillot siffleur,2014,0,6
+Pouillot véloce,2016,0,10
+Roitelet à triple bandeau,2016,0,8
+Roitelet huppé,2015,0,13
+Rougegorge familier,2016,0,11
+Rougequeue à front blanc,2016,0,2
+Rougequeue noir,2014,0,3
+Sittelle torchepot,2016,0,12
+Tarier pâtre,2018,0,4
+Tarin des aulnes,2019,0,9
+Tourterelle turque,2009,0,2
+Troglodyte mignon,2018,0,12

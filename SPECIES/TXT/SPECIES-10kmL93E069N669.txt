@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Avocette élégante
-0        Bécasseau cocorli
-0        Bécasse des bois
-0        Bernache nonnette
-0        Blongios nain
-0        Butor étoilé
-0        Canard carolin
-0        Canard siffleur
-0        Chevalier sylvain
-0        Cincle plongeur
-0        Combattant varié
-0        Faisan vénéré
-0        Garrot à oeil d'or
-0        Goéland cendré
-0        Gorgebleue à miroir
-0        Guifette moustac
-0        Harle huppé
-0        Harle piette
-0        Héron pourpré
-0        Hibou des marais
-0        Huîtrier pie
-0        Merle à plastron
-0        Mésange boréale
-0        Nette rousse
-0        Ouette d'Egypte
-0        Phragmite des joncs
-0        Pic cendré
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Torcol fourmilier
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigle botté         2017    0        1
+Avocette élégante   2009    0        1
+Bécasseau cocorli   2008    0        1
+Bécasse des bois    2017    0        7
+Bernache nonnette   2010    0        2
+Blongios nain       2007    0        2
+Butor étoilé        2016    0        5
+Canard carolin      2012    0        2
+Canard siffleur     2018    0        1
+Chevalier sylvain   2016    0        1
+Cincle plongeur     2011    0        3
+Combattant varié    2014    0        1
+Faisan vénéré       2012    0        2
+Garrot à oeil d'or  2012    0        1
+Goéland cendré      2009    0        2
+Gorgebleue à miroir 2015    0        2
+Guifette moustac    2016    0        1
+Harle huppé         2009    0        1
+Harle piette        2012    0        2
+Héron pourpré       2011    0        4
+Hibou des marais    2013    0        1
+Huîtrier pie        2015    0        2
+Merle à plastron    2016    0        1
+Mésange boréale     2016    0        4
+Nette rousse        2012    0        1
+Ouette d'Egypte     2016    0        4
+Phragmite des joncs 2014    0        4
+Pic cendré          2012    0        3
+Pouillot siffleur   2016    0        6
+Rémiz penduline     2008    0        1
+Sarcelle d'été      2018    0        3
+Sizerin cabaret     2018    0        6
+Sizerin flammé      2018    0        6
+Torcol fourmilier   2012    0        3
 

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Chevalier gambette"
-"0";"Chouette de Tengmalm"
-"0";"Étourneau sansonnet"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Milan royal"
-"0";"Moineau soulcie"
-"0";"Petit-duc scops"
-"0";"Pluvier guignard"
-"0";"Pouillot fitis"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,2
+Bécasse des bois,2015,0,1
+Bergeronnette printanière,2011,0,1
+Bruant zizi,2015,0,3
+Busard Saint-Martin,2010,0,1
+Chevalier gambette,2012,0,1
+Chouette de Tengmalm,2012,0,3
+Étourneau sansonnet,2017,0,2
+Faisan de Colchide,2017,0,1
+Faucon émerillon,2016,0,1
+Goéland leucophée,2015,0,1
+Grand-duc d'Europe,2009,0,1
+Grosbec casse-noyaux,2017,0,12
+Hibou des marais,2017,0,1
+Hibou moyen-duc,2009,0,2
+Huppe fasciée,2012,0,2
+Milan royal,2012,0,2
+Moineau soulcie,2009,0,1
+Petit-duc scops,2016,0,1
+Pluvier guignard,2018,0,2
+Pouillot fitis,2016,0,1
+Tarier pâtre,2009,0,1

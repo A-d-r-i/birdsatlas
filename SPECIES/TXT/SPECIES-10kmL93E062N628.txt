@@ -1,53 +1,53 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bouvreuil pivoine
-0        Bruant ortolan
-0        Butor étoilé
-0        Canard chipeau
-0        Chevalier arlequin
-0        Chevalier stagnatile
-0        Chevalier sylvain
-0        Cincle plongeur
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis corlieu
-0        Faucon kobez
-0        Fauvette passerinette
-0        Flamant rose
-0        Goéland brun
-0        Goéland cendré
-0        Goéland d'Audouin
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Ibis falcinelle
-0        Locustelle tachetée
-0        Martinet à ventre blanc
-0        Merle à plastron
-0        Mouette pygmée
-0        Ouette d'Egypte
-0        Outarde canepetière
-0        Petit-duc scops
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pintade de Numidie
-0        Plongeon imbrin
-0        Pluvier doré
-0        Pouillot siffleur
-0        Rollier d'Europe
-0        Rousserolle effarvatte
-0        Sarcelle à ailes bleues
-0        Sterne hansel
-0        Sterne pierregarin
-0        Torcol fourmilier
-0        Tournepierre à collier
-0        Vautour fauve
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Avocette élégante                       2012    0        2
+Bécasseau cocorli                       2012    0        4
+Bécasseau minute                        2012    0        1
+Bécasseau variable                      2017    0        14
+Bécassine sourde                        2018    0        2
+Bec-croisé des sapins                   2014    0        4
+Bergeronnette flavéole (M.f.flavissima) 2016    0        4
+Bouvreuil pivoine                       2018    0        2
+Bruant ortolan                          2014    0        4
+Butor étoilé                            2018    0        2
+Canard chipeau                          2017    0        95
+Chevalier arlequin                      2015    0        8
+Chevalier stagnatile                    2012    0        4
+Chevalier sylvain                       2018    0        56
+Cincle plongeur                         2013    0        1
+Cochevis huppé                          2008    0        1
+Combattant varié                        2018    0        35
+Courlis corlieu                         2018    0        5
+Faucon kobez                            2008    0        1
+Fauvette passerinette                   2018    0        12
+Flamant rose                            2013    0        1
+Goéland brun                            2018    0        9
+Goéland cendré                          2012    0        4
+Goéland d'Audouin                       2014    0        24
+Gorgebleue à miroir                     2018    0        2
+Grand Gravelot                          2016    0        12
+Ibis falcinelle                         2017    0        23
+Locustelle tachetée                     2012    0        1
+Martinet à ventre blanc                 2015    0        3
+Merle à plastron                        2015    0        5
+Mouette pygmée                          2014    0        5
+Ouette d'Egypte                         2014    0        3
+Outarde canepetière                     2013    0        1
+Petit-duc scops                         2017    0        1
+Phragmite des joncs                     2017    0        5
+Pie-grièche à tête rousse               2017    0        70
+Pie-grièche grise                       2016    0        1
+Pintade de Numidie                      2013    0        1
+Plongeon imbrin                         2016    0        16
+Pluvier doré                            2018    0        3
+Pouillot siffleur                       2013    0        1
+Rollier d'Europe                        2018    0        28
+Rousserolle effarvatte                  2018    0        19
+Sarcelle à ailes bleues                 2015    0        1
+Sterne hansel                           2014    0        3
+Sterne pierregarin                      2018    0        3
+Torcol fourmilier                       2016    0        6
+Tournepierre à collier                  2012    0        5
+Vautour fauve                           2015    0        3
 

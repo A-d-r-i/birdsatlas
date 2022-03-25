@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Merle à plastron"
-"0";"Oie à tête barrée"
-"0";"Ouette d'Egypte"
-"0";"Pic épeichette"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,1
+Bécasse des bois,2018,0,4
+Bécassine des marais,2016,0,8
+Bécassine sourde,2015,0,2
+Bec-croisé des sapins,2011,0,1
+Bruant ortolan,2014,0,1
+Bruant proyer,2019,0,39
+Bruant zizi,2016,0,2
+Busard des roseaux,2016,0,3
+Caille des blés,2009,0,1
+Canard mandarin,2013,0,4
+Canard pilet,2015,0,2
+Engoulevent d'Europe,2017,0,1
+Faucon émerillon,2017,0,5
+Fuligule milouin,2013,0,2
+Gobemouche gris,2015,0,4
+Héron pourpré,2017,0,1
+Hibou des marais,2012,0,1
+Hirondelle de rivage,2009,0,1
+Loriot d'Europe,2016,0,4
+Merle à plastron,2014,0,1
+Oie à tête barrée,2011,0,1
+Ouette d'Egypte,2016,0,1
+Pic épeichette,2018,0,6
+Pouillot siffleur,2012,0,2
+Râle d'eau,2013,0,3
+Rousserolle effarvatte,2016,0,7
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tadorne de Belon,2013,0,2
+Torcol fourmilier,2014,0,1

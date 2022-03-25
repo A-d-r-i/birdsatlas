@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Canard colvert"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grosbec casse-noyaux"
-"0";"Oedicnème criard"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2009,0,1
+Canard colvert,2009,0,1
+Effraie des clochers,2009,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2009,0,2
+Grosbec casse-noyaux,2009,0,1
+Oedicnème criard,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Serin cini,2009,0,1
+Tourterelle des bois,2009,0,1
+Vanneau huppé,2009,0,1

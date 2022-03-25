@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Mouette mélanocéphale"
-"0";"Petit-duc scops"
-"0";"Pie-grièche méridionale"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2008,0,1
+Bécasse des bois,2018,0,20
+Bécassine sourde,2016,0,1
+Blongios nain,2009,0,2
+Butor étoilé,2015,0,2
+Canard mandarin,2011,0,2
+Canard siffleur,2018,0,3
+Chevalier aboyeur,2010,0,1
+Chevalier guignette,2010,0,1
+Courlis cendré,2017,0,17
+Élanion blanc,2018,0,1
+Gobemouche gris,2017,0,8
+Goéland brun,2018,0,1
+Gorgebleue à miroir,2013,0,1
+Mouette mélanocéphale,2017,0,1
+Petit-duc scops,2012,0,1
+Pie-grièche méridionale,2018,0,37
+Pipit rousseline,2017,0,4
+Pouillot de Bonelli,2010,0,2
+Pouillot siffleur,2015,0,1
+Râle d'eau,2015,0,1
+Rémiz penduline,2018,0,1
+Rousserolle verderolle,2009,0,2
+Sarcelle d'été,2018,0,4
+Tadorne casarca,2012,0,2

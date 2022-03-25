@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard Saint-Martin"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Pipit des arbres"
-"0";"Rougequeue à front blanc"
-"0";"Sittelle torchepot"
+frname,lastobs,newcount,oldcount
+Busard Saint-Martin,2019,0,1
+Effraie des clochers,2018,0,2
+Faucon pèlerin,2019,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2016,0,3
+Hibou moyen-duc,2009,0,1
+Hirondelle de fenêtre,2016,0,2
+Pipit des arbres,2009,0,1
+Rougequeue à front blanc,2009,0,1
+Sittelle torchepot,2009,0,1

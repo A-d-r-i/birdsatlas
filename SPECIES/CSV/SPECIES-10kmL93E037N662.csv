@@ -1,32 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Faisan vénéré"
-"0";"Fuligule milouin"
-"0";"Grive litorne"
-"0";"Guifette moustac"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Sarcelle d'hiver"
-"0";"Spatule blanche"
-"0";"Tadorne de Belon"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2011,0,2
+Barge à queue noire,2017,0,1
+Bécasse des bois,2018,0,7
+Bécassine des marais,2018,0,15
+Bergeronnette printanière,2018,0,1
+Canard mandarin,2018,0,2
+Canard pilet,2019,0,1
+Chevalier guignette,2018,0,1
+Chevêche d'Athéna,2018,0,34
+Cigogne noire,2013,0,4
+Cochevis huppé,2014,0,3
+Faisan vénéré,2011,0,1
+Fuligule milouin,2012,0,2
+Grive litorne,2018,0,7
+Guifette moustac,2013,0,1
+Hibou moyen-duc,2016,0,5
+Hirondelle de rivage,2014,0,4
+Mésange noire,2012,0,2
+Moineau friquet,2018,0,4
+Mouette mélanocéphale,2017,0,2
+Oie cendrée,2015,0,14
+Petit Gravelot,2017,0,3
+Pigeon colombin,2018,0,1
+Pluvier doré,2010,0,2
+Sarcelle d'hiver,2013,0,3
+Spatule blanche,2016,0,1
+Tadorne de Belon,2010,0,1
+Traquet motteux,2013,0,3

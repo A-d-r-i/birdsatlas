@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bihoreau gris
-0        Courlis corlieu
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Grand Gravelot
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Moineau friquet
-0        Petit-duc scops
-0        Pluvier guignard
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Barge à queue noire  2012    0        1
+Bihoreau gris        2013    0        3
+Courlis corlieu      2016    0        1
+Cygne noir           2017    0        5
+Engoulevent d'Europe 2015    0        1
+Grand Gravelot       2017    0        1
+Hibou des marais     2018    0        9
+Hirondelle de rivage 2017    0        5
+Merle à plastron     2017    0        3
+Moineau friquet      2018    0        4
+Petit-duc scops      2016    0        1
+Pluvier guignard     2012    0        3
 

@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Barge rousse"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Foulque macroule"
-"0";"Goéland brun"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Locustelle tachetée"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pluvier guignard"
-"0";"Pouillot siffleur"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2011,0,3
+Barge rousse,2018,0,1
+Bec-croisé des sapins,2012,0,1
+Bruant des roseaux,2019,0,4
+Bruant ortolan,2017,0,7
+Chevalier aboyeur,2015,0,1
+Chevalier culblanc,2018,0,2
+Cigogne noire,2015,0,1
+Circaète Jean-le-Blanc,2018,0,1
+Cygne tuberculé,2017,0,1
+Échasse blanche,2013,0,1
+Faisan vénéré,2014,0,2
+Faucon émerillon,2017,0,1
+Foulque macroule,2018,0,1
+Goéland brun,2013,0,2
+Hibou des marais,2018,0,1
+Hirondelle de rivage,2017,0,1
+Hirondelle de rochers,2018,0,1
+Locustelle tachetée,2018,0,1
+Petit Gravelot,2010,0,3
+Pie-grièche à tête rousse,2011,0,1
+Pluvier guignard,2017,0,2
+Pouillot siffleur,2018,0,10
+Sizerin flammé,2013,0,1

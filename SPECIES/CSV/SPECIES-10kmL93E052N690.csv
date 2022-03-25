@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chouette hulotte"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2019,0,1
+Bergeronnette des ruisseaux,2019,0,2
+Bergeronnette grise,2009,0,1
+Bondrée apivore,2018,0,2
+Bruant zizi,2009,0,1
+Busard Saint-Martin,2018,0,2
+Canard colvert,2018,0,2
+Chouette hulotte,2009,0,1
+Épervier d'Europe,2009,0,2
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Geai des chênes,2009,0,2
+Gobemouche gris,2009,0,1
+Grive mauvis,2019,0,2
+Grosbec casse-noyaux,2018,0,1
+Hirondelle de fenêtre,2009,0,1
+Hirondelle rustique,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Martinet noir,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange à longue queue,2019,0,7
+Mésange huppée,2013,0,3
+Pic épeichette,2019,0,2
+Pic mar,2009,0,1
+Pie-grièche écorcheur,2018,0,2
+Pinson du Nord,2019,0,1
+Pouillot fitis,2009,0,1
+Roitelet huppé,2009,0,2
+Rougequeue à front blanc,2009,0,1
+Rougequeue noir,2018,0,2
+Serin cini,2009,0,1
+Vanneau huppé,2018,0,2

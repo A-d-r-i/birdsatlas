@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2013,0,2
+Bécassine des marais,2017,0,14
+Bec-croisé des sapins,2010,0,1
+Bernache du Canada,2015,0,2
+Bruant proyer,2013,0,1
+Busard cendré,2018,0,1
+Busard des roseaux,2018,0,5
+Caille des blés,2009,0,2
+Canard chipeau,2018,0,6
+Canard pilet,2014,0,3
+Chevalier aboyeur,2013,0,3
+Chevalier gambette,2017,0,4
+Cigogne noire,2015,0,4
+Cochevis huppé,2010,0,26
+Engoulevent d'Europe,2018,0,10
+Fauvette grisette,2018,0,40
+Fauvette pitchou,2015,0,2
+Fuligule morillon,2013,0,1
+Goéland cendré,2010,0,2
+Hibou moyen-duc,2019,0,9
+Linotte mélodieuse,2015,0,19
+Perdrix rouge,2018,0,4
+Perruche à collier,2019,0,4
+Phragmite des joncs,2014,0,2
+Pic mar,2018,0,1
+Pie-grièche à tête rousse,2009,0,2
+Pigeon colombin,2016,0,1
+Pipit spioncelle,2015,0,13
+Pouillot à grands sourcils,2018,0,1
+Pouillot fitis,2010,0,1
+Pouillot siffleur,2017,0,3
+Rougequeue à front blanc,2018,0,36
+Rousserolle effarvatte,2014,0,2
+Sarcelle d'été,2015,0,1
+Sarcelle d'hiver,2018,0,13
+Tadorne de Belon,2013,0,2
+Tarier des prés,2014,0,3
+Torcol fourmilier,2015,0,13
+Vautour fauve,2018,0,1

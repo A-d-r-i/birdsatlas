@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Cigogne blanche"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Harle huppé"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Nette rousse"
-"0";"Océanite culblanc"
-"0";"Océanite tempête"
-"0";"Oedicnème criard"
-"0";"Pipit rousseline"
-"0";"Plongeon catmarin"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sterne caugek"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2010,0,1
+Bec-croisé des sapins,2018,0,2
+Bergeronnette des ruisseaux,2017,0,3
+Bergeronnette printanière,2018,0,13
+Bouvreuil pivoine,2018,0,5
+Canard chipeau,2017,0,2
+Canard souchet,2012,0,7
+Chevalier culblanc,2007,0,1
+Chevalier sylvain,2015,0,1
+Cigogne blanche,2013,0,2
+Faucon pèlerin,2016,0,1
+Fuligule milouin,2012,0,2
+Fuligule milouinan,2009,0,4
+Fuligule morillon,2017,0,9
+Goéland argenté,2016,0,8
+Goéland brun,2019,0,12
+Grèbe castagneux,2011,0,4
+Grive litorne,2018,0,4
+Grive mauvis,2018,0,16
+Grosbec casse-noyaux,2018,0,13
+Harle huppé,2018,0,7
+Macreuse brune,2017,0,4
+Merle à plastron,2017,0,5
+Nette rousse,2017,0,1
+Océanite culblanc,2009,0,1
+Océanite tempête,2011,0,3
+Oedicnème criard,2013,0,1
+Pipit rousseline,2013,0,1
+Plongeon catmarin,2015,0,3
+Pluvier argenté,2018,0,1
+Pouillot à grands sourcils,2018,0,1
+Pouillot fitis,2012,0,2
+Rémiz penduline,2018,0,2
+Sarcelle d'hiver,2019,0,6
+Serin cini,2018,0,8
+Sterne caugek,2016,0,3
+Tadorne de Belon,2018,0,3
+Tarier des prés,2012,0,2

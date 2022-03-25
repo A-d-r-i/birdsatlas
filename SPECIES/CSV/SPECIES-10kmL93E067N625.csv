@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Grand Cormoran"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Pic épeichette"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,2
+Bergeronnette printanière,2018,0,9
+Bouvreuil pivoine,2017,0,3
+Bruant jaune,2018,0,4
+Bruant ortolan,2010,0,4
+Caille des blés,2013,0,4
+Canard colvert,2014,0,2
+Chevêche d'Athéna,2007,0,1
+Cigogne noire,2014,0,2
+Cochevis huppé,2011,0,2
+Effraie des clochers,2009,0,1
+Faisan de Colchide,2015,0,3
+Faucon émerillon,2011,0,1
+Faucon kobez,2014,0,3
+Fauvette des jardins,2018,0,2
+Grand Cormoran,2014,0,1
+Grosbec casse-noyaux,2018,0,8
+Hibou moyen-duc,2011,0,2
+Hirondelle de rivage,2018,0,1
+Pic épeichette,2015,0,3
+Pie bavarde,2016,0,6
+Pigeon biset domestique,2016,0,10
+Pigeon colombin,2018,0,2
+Pipit spioncelle,2013,0,6
+Torcol fourmilier,2018,0,8
+Traquet oreillard,2009,0,1
+Vanneau huppé,2012,0,3

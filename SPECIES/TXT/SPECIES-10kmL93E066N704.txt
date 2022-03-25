@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Avocette élégante
-0        Bécassine sourde
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Mésange boréale
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic épeichette
-0        Pic mar
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pluvier doré
-0        Rousserolle verderolle
-0        Tadorne casarca
-0        Tadorne de Belon
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2018    0        3
+Avocette élégante      2009    0        1
+Bécassine sourde       2019    0        3
+Chevalier culblanc     2018    0        1
+Cigogne blanche        2018    0        1
+Mésange boréale        2019    0        2
+Perdrix rouge          2018    0        2
+Petit Gravelot         2009    0        1
+Pic épeichette         2017    0        3
+Pic mar                2019    0        2
+Pigeon colombin        2018    0        1
+Pipit farlouse         2009    0        1
+Pluvier doré           2018    0        2
+Rousserolle verderolle 2009    0        1
+Tadorne casarca        2018    0        1
+Tadorne de Belon       2009    0        1
 

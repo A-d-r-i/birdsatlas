@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant proyer
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Crave à bec rouge
-0        Élanion blanc
-0        Faucon kobez
-0        Fauvette grisette
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Grive litorne
-0        Guêpier d'Europe
-0        Hirondelle de rochers
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Mésange noire
-0        Perdrix rouge
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Serin cini
-0        Tarier des prés
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour moine
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Aigle botté              2015    0        7
+Aigrette garzette        2017    0        5
+Alouette des champs      2009    0        1
+Alouette lulu            2009    0        1
+Autour des palombes      2010    0        2
+Bécasse des bois         2008    0        1
+Bihoreau gris            2014    0        1
+Bondrée apivore          2017    0        8
+Bouscarle de Cetti       2009    0        1
+Bruant des roseaux       2016    0        1
+Bruant fou               2018    0        2
+Bruant proyer            2015    0        7
+Chevêche d'Athéna        2012    0        6
+Cigogne blanche          2011    0        1
+Crave à bec rouge        2016    0        4
+Élanion blanc            2018    0        1
+Faucon kobez             2008    0        2
+Fauvette grisette        2018    0        4
+Fauvette pitchou         2009    0        1
+Gallinule poule-d'eau    2009    0        1
+Grive litorne            2010    0        2
+Guêpier d'Europe         2017    0        23
+Hirondelle de rochers    2010    0        3
+Hypolaïs polyglotte      2015    0        11
+Linotte mélodieuse       2013    0        7
+Mésange noire            2012    0        3
+Perdrix rouge            2011    0        3
+Pie-grièche écorcheur    2017    0        22
+Pipit des arbres         2013    0        7
+Pipit spioncelle         2016    0        5
+Pouillot de Bonelli      2018    0        2
+Pouillot fitis           2012    0        4
+Roitelet huppé           2013    0        6
+Rossignol philomèle      2018    0        2
+Rougequeue à front blanc 2014    0        2
+Serin cini               2018    0        11
+Tarier des prés          2012    0        1
+Torcol fourmilier        2014    0        3
+Tourterelle des bois     2013    0        2
+Traquet motteux          2012    0        1
+Vanneau huppé            2012    0        7
+Vautour moine            2013    0        1
 

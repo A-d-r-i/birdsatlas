@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bernache nonnette
-0        Canard chipeau
-0        Chevalier culblanc
-0        Cincle plongeur
-0        Cochevis huppé
-0        Courlis cendré
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Faucon kobez
-0        Fauvette babillarde
-0        Fuligule milouin
-0        Goéland brun
-0        Huppe fasciée
-0        Merle à plastron
-0        Mésange boréale
-0        Mésange huppée
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Outarde canepetière
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pluvier doré
-0        Râle des genêts
-0        Sterne pierregarin
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasse des bois     2011    0        2
+Bernache nonnette    2014    0        4
+Canard chipeau       2018    0        1
+Chevalier culblanc   2015    0        3
+Cincle plongeur      2013    0        11
+Cochevis huppé       2012    0        2
+Courlis cendré       2014    0        1
+Cygne noir           2010    0        6
+Engoulevent d'Europe 2013    0        7
+Faisan vénéré        2015    0        1
+Faucon kobez         2015    0        1
+Fauvette babillarde  2016    0        6
+Fuligule milouin     2015    0        1
+Goéland brun         2012    0        2
+Huppe fasciée        2018    0        2
+Merle à plastron     2013    0        4
+Mésange boréale      2015    0        8
+Mésange huppée       2015    0        9
+Oie cendrée          2010    0        2
+Ouette d'Egypte      2018    0        1
+Outarde canepetière  2008    0        2
+Perdrix rouge        2014    0        5
+Petit Gravelot       2012    0        1
+Pluvier doré         2013    0        2
+Râle des genêts      2014    0        1
+Sterne pierregarin   2015    0        1
 

@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Caille des blés
-0        Canard mandarin
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier guignette
-0        Cisticole des joncs
-0        Courlis cendré
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Foulque macroule
-0        Goéland brun
-0        Grande Aigrette
-0        Grand Gravelot
-0        Guifette moustac
-0        Locustelle tachetée
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Milan royal
-0        Oedicnème criard
-0        Oie cendrée
-0        Perdrix grise
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Pluvier doré
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Sterne pierregarin
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2011    0        6
+Aigrette garzette         2017    0        17
+Autour des palombes       2018    0        22
+Bécassine des marais      2013    0        6
+Bergeronnette printanière 2013    0        5
+Caille des blés           2014    0        1
+Canard mandarin           2011    0        2
+Canard souchet            2010    0        1
+Chevalier culblanc        2015    0        7
+Chevalier gambette        2013    0        1
+Chevalier guignette       2013    0        1
+Cisticole des joncs       2009    0        5
+Courlis cendré            2010    0        2
+Cygne tuberculé           2014    0        1
+Engoulevent d'Europe      2012    0        5
+Faucon hobereau           2016    0        27
+Foulque macroule          2017    0        5
+Goéland brun              2012    0        1
+Grande Aigrette           2015    0        26
+Grand Gravelot            2009    0        1
+Guifette moustac          2011    0        1
+Locustelle tachetée       2013    0        1
+Martin-pêcheur d'Europe   2018    0        4
+Merle à plastron          2017    0        1
+Milan royal               2012    0        4
+Oedicnème criard          2015    0        2
+Oie cendrée               2014    0        3
+Perdrix grise             2012    0        2
+Petit Gravelot            2016    0        4
+Phragmite des joncs       2015    0        1
+Pipit spioncelle          2013    0        7
+Pluvier doré              2014    0        1
+Rousserolle verderolle    2012    0        1
+Sarcelle d'été            2013    0        3
+Sarcelle d'hiver          2014    0        3
+Sterne pierregarin        2010    0        1
+Torcol fourmilier         2012    0        1
+Traquet motteux           2016    0        5
+Vanneau huppé             2014    0        10
 

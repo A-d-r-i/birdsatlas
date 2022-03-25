@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Accenteur mouchet
-0        Aigle royal
-0        Alouette des champs
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Cassenoix moucheté
-0        Chevêchette d'Europe
-0        Chocard à bec jaune
-0        Cincle plongeur
-0        Coucou gris
-0        Crave à bec rouge
-0        Épervier d'Europe
-0        Faucon crécerelle
-0        Geai des chênes
-0        Gobemouche noir
-0        Grand Corbeau
-0        Grimpereau des bois
-0        Grive draine
-0        Grive litorne
-0        Grive musicienne
-0        Lagopède alpin
-0        Linotte mélodieuse
-0        Mésange boréale
-0        Mésange noire
-0        Pic épeiche
-0        Pic vert
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rougegorge familier
-0        Rougequeue noir
-0        Serin cini
-0        Tichodrome échelette
-0        Traquet motteux
-0        Vautour fauve
-0        Venturon montagnard
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Accenteur alpin      2018    0        3
+Accenteur mouchet    2009    0        1
+Aigle royal          2016    0        1
+Alouette des champs  2014    0        1
+Bondrée apivore      2013    0        1
+Bouvreuil pivoine    2014    0        1
+Cassenoix moucheté   2009    0        1
+Chevêchette d'Europe 2013    0        1
+Chocard à bec jaune  2014    0        3
+Cincle plongeur      2012    0        1
+Coucou gris          2009    0        1
+Crave à bec rouge    2018    0        3
+Épervier d'Europe    2014    0        1
+Faucon crécerelle    2014    0        1
+Geai des chênes      2009    0        1
+Gobemouche noir      2014    0        2
+Grand Corbeau        2018    0        2
+Grimpereau des bois  2014    0        3
+Grive draine         2014    0        4
+Grive litorne        2012    0        1
+Grive musicienne     2009    0        1
+Lagopède alpin       2009    0        1
+Linotte mélodieuse   2014    0        1
+Mésange boréale      2016    0        5
+Mésange noire        2018    0        8
+Pic épeiche          2016    0        6
+Pic vert             2014    0        2
+Pipit des arbres     2014    0        2
+Pipit spioncelle     2014    0        1
+Pouillot de Bonelli  2014    0        3
+Pouillot fitis       2013    0        1
+Roitelet huppé       2014    0        3
+Rougegorge familier  2014    0        2
+Rougequeue noir      2018    0        5
+Serin cini           2009    0        1
+Tichodrome échelette 2018    0        1
+Traquet motteux      2018    0        5
+Vautour fauve        2018    0        3
+Venturon montagnard  2018    0        7
 

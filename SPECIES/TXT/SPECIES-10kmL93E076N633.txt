@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Alouette lulu
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard des roseaux
-0        Chevalier guignette
-0        Choucas des tours
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Faucon d'Eléonore
-0        Faucon hobereau
-0        Fauvette grisette
-0        Fauvette mélanocéphale
-0        Fauvette passerinette
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grive litorne
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Martinet à ventre blanc
-0        Monticole bleu
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pipit farlouse
-0        Roitelet huppé
-0        Tarin des aulnes
-0        Tichodrome échelette
-0        Venturon montagnard
-0        Verdier d'Europe
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2013    0        1
+Alouette lulu           2011    0        1
+Autour des palombes     2016    0        7
+Bec-croisé des sapins   2017    0        6
+Bruant des roseaux      2011    0        1
+Bruant ortolan          2014    0        1
+Bruant proyer           2011    0        1
+Busard des roseaux      2013    0        3
+Chevalier guignette     2007    0        1
+Choucas des tours       2017    0        3
+Engoulevent d'Europe    2009    0        2
+Étourneau sansonnet     2016    0        3
+Faucon d'Eléonore       2012    0        1
+Faucon hobereau         2016    0        5
+Fauvette grisette       2017    0        1
+Fauvette mélanocéphale  2013    0        2
+Fauvette passerinette   2017    0        13
+Gobemouche gris         2012    0        4
+Grand Cormoran          2019    0        19
+Grande Aigrette         2017    0        2
+Grive litorne           2017    0        3
+Huppe fasciée           2018    0        1
+Hypolaïs polyglotte     2016    0        3
+Loriot d'Europe         2009    0        2
+Martinet à ventre blanc 2015    0        2
+Monticole bleu          2008    0        1
+Pic épeichette          2017    0        6
+Pie-grièche écorcheur   2009    0        1
+Pipit farlouse          2016    0        1
+Roitelet huppé          2017    0        25
+Tarin des aulnes        2016    0        6
+Tichodrome échelette    2015    0        2
+Venturon montagnard     2012    0        4
+Verdier d'Europe        2018    0        9
 

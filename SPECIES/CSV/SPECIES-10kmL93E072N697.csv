@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Tarier pâtre"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bergeronnette printanière,2016,0,2
+Bernache du Canada,2009,0,2
+Blongios nain,2009,0,1
+Bouvreuil pivoine,2009,0,2
+Bruant des roseaux,2009,0,2
+Bruant proyer,2009,0,2
+Busard cendré,2009,0,1
+Caille des blés,2009,0,1
+Canard mandarin,2009,0,2
+Canard siffleur,2009,0,1
+Canard souchet,2009,0,1
+Chevêche d'Athéna,2009,0,2
+Chouette hulotte,2009,0,2
+Cigogne blanche,2009,0,1
+Corbeau freux,2009,0,2
+Cygne noir,2009,0,1
+Effraie des clochers,2009,0,1
+Fauvette babillarde,2018,0,2
+Fuligule milouin,2009,0,1
+Goéland cendré,2009,0,1
+Goéland leucophée,2009,0,1
+Gorgebleue à miroir,2009,0,1
+Grive draine,2009,0,2
+Grive litorne,2009,0,1
+Grosbec casse-noyaux,2013,0,2
+Harle bièvre,2009,0,1
+Hirondelle de rivage,2009,0,1
+Huppe fasciée,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange boréale,2009,0,2
+Mésange noire,2009,0,1
+Mésange nonnette,2009,0,2
+Moineau friquet,2009,0,1
+Oedicnème criard,2009,0,1
+Oie cendrée,2009,0,1
+Ouette d'Egypte,2009,0,1
+Phragmite des joncs,2009,0,1
+Pic mar,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1
+Sterne pierregarin,2009,0,1
+Tadorne de Belon,2009,0,1
+Tarier pâtre,2009,0,1
+Vanneau huppé,2011,0,2

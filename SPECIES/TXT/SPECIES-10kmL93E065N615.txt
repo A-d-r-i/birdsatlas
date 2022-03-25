@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bruant zizi
-0        Fauvette orphée
-0        Grand-duc d'Europe
-0        Grosbec casse-noyaux
-0        Pic épeichette
-0        Pic vert
-0        Pie bavarde
-0        Pluvier guignard
-0        Pouillot fitis
-0        Rossignol philomèle
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bondrée apivore      2018    0        4
+Bruant zizi          2017    0        2
+Fauvette orphée      2012    0        2
+Grand-duc d'Europe   2009    0        1
+Grosbec casse-noyaux 2016    0        2
+Pic épeichette       2017    0        6
+Pic vert             2009    0        2
+Pie bavarde          2017    0        11
+Pluvier guignard     2018    0        10
+Pouillot fitis       2013    0        2
+Rossignol philomèle  2009    0        1
 

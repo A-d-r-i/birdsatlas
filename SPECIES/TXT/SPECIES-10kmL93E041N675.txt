@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bouvreuil pivoine
-0        Busard cendré
-0        Caille des blés
-0        Canard chipeau
-0        Canard pilet
-0        Cassenoix moucheté
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Érismature rousse
-0        Fuligule nyroca
-0        Grand Gravelot
-0        Guifette moustac
-0        Guifette noire
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie cendrée
-0        Pluvier argenté
-0        Pouillot fitis
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Sterne pierregarin
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Avocette élégante        2011    0        1
+Barge à queue noire      2017    0        1
+Bécasseau variable       2016    0        1
+Bouvreuil pivoine        2019    0        7
+Busard cendré            2018    0        5
+Caille des blés          2018    0        5
+Canard chipeau           2017    0        10
+Canard pilet             2015    0        4
+Cassenoix moucheté       2009    0        7
+Cigogne blanche          2012    0        1
+Cisticole des joncs      2017    0        4
+Érismature rousse        2015    0        11
+Fuligule nyroca          2013    0        1
+Grand Gravelot           2013    0        1
+Guifette moustac         2013    0        1
+Guifette noire           2015    0        1
+Moineau friquet          2013    0        3
+Oedicnème criard         2018    0        6
+Oie cendrée              2014    0        2
+Pluvier argenté          2013    0        1
+Pouillot fitis           2017    0        2
+Rougequeue à front blanc 2015    0        3
+Sarcelle d'été           2010    0        1
+Sterne pierregarin       2016    0        3
 

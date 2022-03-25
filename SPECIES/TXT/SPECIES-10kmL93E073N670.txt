@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard pilet
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Circaète Jean-le-Blanc
-0        Cochevis huppé
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Foulque macroule
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grive mauvis
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Mésange noire
-0        Oedicnème criard
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Torcol fourmilier
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2014    0        1
+Bondrée apivore           2014    0        9
+Bruant des roseaux        2017    0        3
+Busard des roseaux        2018    0        6
+Busard Saint-Martin       2018    0        21
+Caille des blés           2017    0        15
+Canard pilet              2010    0        2
+Chevalier culblanc        2016    0        1
+Chevalier gambette        2012    0        1
+Circaète Jean-le-Blanc    2009    0        2
+Cochevis huppé            2013    0        1
+Courlis cendré            2009    0        1
+Engoulevent d'Europe      2014    0        2
+Fauvette babillarde       2017    0        1
+Fauvette des jardins      2018    0        1
+Foulque macroule          2010    0        2
+Goéland leucophée         2007    0        1
+Grèbe castagneux          2019    0        2
+Grive mauvis              2019    0        7
+Hirondelle de rivage      2011    0        2
+Huppe fasciée             2016    0        15
+Hypolaïs polyglotte       2017    0        20
+Mésange noire             2017    0        1
+Oedicnème criard          2012    0        3
+Perdrix grise             2017    0        1
+Perdrix rouge             2015    0        15
+Petit Gravelot            2012    0        3
+Pie-grièche à tête rousse 2012    0        1
+Pouillot de Bonelli       2009    0        3
+Pouillot fitis            2014    0        17
+Pouillot siffleur         2010    0        2
+Roitelet huppé            2012    0        2
+Rousserolle effarvatte    2012    0        3
+Tarier des prés           2011    0        2
+Torcol fourmilier         2013    0        13
+Vautour fauve             2018    0        1
 

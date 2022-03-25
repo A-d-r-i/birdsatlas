@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Aigle royal
-0        Aigrette garzette
-0        Bruant jaune
-0        Busard cendré
-0        Engoulevent d'Europe
-0        Grand-duc d'Europe
-0        Grive litorne
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Moineau friquet
-0        Ouette d'Egypte
-0        Petit Gravelot
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot fitis
-0        Rémiz penduline
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Troglodyte mignon
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Accenteur mouchet    2017    0        2
+Aigle royal          2018    0        1
+Aigrette garzette    2017    0        1
+Bruant jaune         2017    0        2
+Busard cendré        2017    0        3
+Engoulevent d'Europe 2017    0        9
+Grand-duc d'Europe   2018    0        6
+Grive litorne        2012    0        1
+Héron pourpré        2016    0        1
+Hibou moyen-duc      2016    0        1
+Moineau friquet      2016    0        2
+Ouette d'Egypte      2015    0        3
+Petit Gravelot       2009    0        1
+Pipit rousseline     2012    0        7
+Pluvier doré         2018    0        1
+Pouillot fitis       2015    0        2
+Rémiz penduline      2009    0        1
+Roitelet huppé       2009    0        1
+Rousserolle turdoïde 2009    0        1
+Sarcelle d'hiver     2015    0        1
+Tarier des prés      2012    0        1
+Troglodyte mignon    2017    0        12
 

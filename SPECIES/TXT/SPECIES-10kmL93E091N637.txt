@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle botté
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Bouscarle de Cetti
-0        Bouvreuil pivoine
-0        Calopsitte élégante
-0        Canard siffleur
-0        Chevêche d'Athéna
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Engoulevent d'Europe
-0        Fauvette mélanocéphale
-0        Fauvette orphée
-0        Martinet à ventre blanc
-0        Nette rousse
-0        Perruche à collier
-0        Pigeon colombin
-0        Pipit à gorge rousse
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Tichodrome échelette
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2014    0        2
+Aigle botté             2012    0        1
+Bécasseau sanderling    2013    0        1
+Bécasseau variable      2013    0        1
+Bec-croisé des sapins   2011    0        5
+Bihoreau gris           2014    0        4
+Bouscarle de Cetti      2016    0        3
+Bouvreuil pivoine       2017    0        7
+Calopsitte élégante     2016    0        1
+Canard siffleur         2013    0        2
+Chevêche d'Athéna       2018    0        3
+Cisticole des joncs     2017    0        2
+Corneille mantelée      2010    0        1
+Engoulevent d'Europe    2018    0        7
+Fauvette mélanocéphale  2017    0        1
+Fauvette orphée         2016    0        3
+Martinet à ventre blanc 2018    0        4
+Nette rousse            2014    0        2
+Perruche à collier      2018    0        1
+Pigeon colombin         2009    0        1
+Pipit à gorge rousse    2018    0        1
+Rousserolle effarvatte  2016    0        1
+Tarier des prés         2018    0        1
+Tichodrome échelette    2016    0        4
 

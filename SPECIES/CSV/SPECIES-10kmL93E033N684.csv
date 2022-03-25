@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Cigogne noire"
-"0";"Dendrocygne fauve"
-"0";"Guifette noire"
-"0";"Harelde boréale"
-"0";"Macreuse brune"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Plongeon arctique"
-"0";"Pouillot ibérique"
-"0";"Sterne naine"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2018,0,6
+Bécasseau minute,2018,0,3
+Bécasseau sanderling,2016,0,1
+Bec-croisé des sapins,2015,0,1
+Bernache du Canada,2017,0,1
+Bihoreau gris,2017,0,2
+Cigogne noire,2017,0,1
+Dendrocygne fauve,2016,0,1
+Guifette noire,2018,0,5
+Harelde boréale,2014,0,2
+Macreuse brune,2015,0,4
+Marouette ponctuée,2018,0,2
+Merle à plastron,2017,0,1
+Pie-grièche écorcheur,2010,0,2
+Pipit des arbres,2009,0,1
+Plongeon arctique,2018,0,1
+Pouillot ibérique,2017,0,1
+Sterne naine,2017,0,1
+Torcol fourmilier,2018,0,1

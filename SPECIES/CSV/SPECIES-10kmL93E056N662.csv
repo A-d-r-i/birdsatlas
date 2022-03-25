@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Blongios nain"
-"0";"Caille des blés"
-"0";"Chevalier stagnatile"
-"0";"Coucou geai"
-"0";"Cygne noir"
-"0";"Fauvette mélanocéphale"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Grimpereau des bois"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Labbe pomarin"
-"0";"Locustelle luscinioïde"
-"0";"Mouette pygmée"
-"0";"Nette demi-deuil"
-"0";"Oie des moissons"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Plongeon catmarin"
-"0";"Pouillot à grands sourcils"
-"0";"Rousserolle turdoïde"
-"0";"Serin cini"
-"0";"Sterne caspienne"
-"0";"Tournepierre à collier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Avocette élégante,2018,0,6
+Bécasseau cocorli,2018,0,3
+Bécasseau maubèche,2014,0,1
+Bécasseau sanderling,2017,0,1
+Bécasse des bois,2009,0,1
+Blongios nain,2009,0,2
+Caille des blés,2009,0,1
+Chevalier stagnatile,2016,0,1
+Coucou geai,2017,0,1
+Cygne noir,2018,0,1
+Fauvette mélanocéphale,2018,0,1
+Goéland cendré,2017,0,2
+Goéland pontique,2018,0,1
+Grimpereau des bois,2015,0,1
+Harle bièvre,2019,0,5
+Harle huppé,2009,0,1
+Harle piette,2017,0,3
+Labbe pomarin,2007,0,1
+Locustelle luscinioïde,2016,0,2
+Mouette pygmée,2018,0,2
+Nette demi-deuil,2014,0,1
+Oie des moissons,2015,0,2
+Pie-grièche à tête rousse,2009,0,2
+Pigeon colombin,2009,0,1
+Plongeon catmarin,2007,0,2
+Pouillot à grands sourcils,2017,0,1
+Rousserolle turdoïde,2009,0,1
+Serin cini,2009,0,1
+Sterne caspienne,2018,0,1
+Tournepierre à collier,2016,0,1
+Traquet motteux,2015,0,1

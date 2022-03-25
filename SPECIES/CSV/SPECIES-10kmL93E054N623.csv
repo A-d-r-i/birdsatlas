@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Bouvreuil pivoine"
-"0";"Chevalier arlequin"
-"0";"Coucou gris"
-"0";"Courlis corlieu"
-"0";"Dendrocygne veuf"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Goéland argenté"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Gorgebleue à miroir"
-"0";"Grand-duc d'Europe"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Grosbec casse-noyaux"
-"0";"Huîtrier pie"
-"0";"Mésange huppée"
-"0";"Oie rieuse"
-"0";"Panure à moustaches"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Rémiz penduline"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,3
+Avocette élégante,2012,0,3
+Barge rousse,2011,0,2
+Bécasseau cocorli,2012,0,3
+Bécasseau de Temminck,2010,0,1
+Bécasseau sanderling,2012,0,2
+Bécasseau tacheté,2010,0,1
+Bécasse des bois,2009,0,1
+Bernache nonnette,2018,0,2
+Bouvreuil pivoine,2009,0,5
+Chevalier arlequin,2016,0,3
+Coucou gris,2011,0,6
+Courlis corlieu,2012,0,2
+Dendrocygne veuf,2018,0,3
+Engoulevent d'Europe,2009,0,2
+Faucon émerillon,2011,0,1
+Fauvette des jardins,2012,0,1
+Fuligule à bec cerclé,2011,0,1
+Fuligule milouinan,2011,0,3
+Goéland argenté,2017,0,5
+Goéland cendré,2013,0,5
+Goéland pontique,2017,0,1
+Gorgebleue à miroir,2012,0,4
+Grand-duc d'Europe,2009,0,1
+Gravelot à collier interrompu,2011,0,1
+Grèbe à cou noir,2019,0,14
+Grèbe jougris,2009,0,4
+Grosbec casse-noyaux,2018,0,6
+Huîtrier pie,2011,0,1
+Mésange huppée,2018,0,1
+Oie rieuse,2011,0,1
+Panure à moustaches,2011,0,1
+Perdrix rouge,2017,0,1
+Phragmite des joncs,2012,0,6
+Pic mar,2010,0,4
+Pie-grièche à tête rousse,2013,0,1
+Pipit rousseline,2016,0,3
+Plongeon catmarin,2011,0,1
+Pluvier doré,2012,0,1
+Pouillot de Bonelli,2009,0,2
+Rémiz penduline,2013,0,7
+Rougequeue à front blanc,2011,0,1
+Rousserolle effarvatte,2013,0,9
+Rousserolle turdoïde,2016,0,10
+Tarier des prés,2011,0,2
+Torcol fourmilier,2012,0,3

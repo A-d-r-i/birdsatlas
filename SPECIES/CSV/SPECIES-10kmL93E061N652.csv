@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette haussecol"
-"0";"Avocette élégante"
-"0";"Bécasseau minute"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Échasse blanche"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Macreuse brune"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pic mar"
-"0";"Plongeon arctique"
-"0";"Plongeon catmarin"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Sizerin cabaret"
-"0";"Sterne caugek"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette haussecol,2017,0,11
+Avocette élégante,2014,0,3
+Bécasseau minute,2011,0,1
+Canard pilet,2017,0,3
+Canard siffleur,2018,0,3
+Chevalier aboyeur,2016,0,2
+Chevalier gambette,2018,0,3
+Chevêche d'Athéna,2009,0,2
+Cigogne blanche,2007,0,4
+Corbeau freux,2018,0,2
+Échasse blanche,2017,0,1
+Foulque macroule,2017,0,1
+Fuligule morillon,2018,0,1
+Gallinule poule-d'eau,2009,0,2
+Goéland brun,2018,0,3
+Goéland cendré,2009,0,1
+Grand Gravelot,2016,0,2
+Grèbe à cou noir,2016,0,1
+Grèbe esclavon,2010,0,4
+Grèbe jougris,2017,0,18
+Harle bièvre,2014,0,16
+Harle huppé,2014,0,1
+Macreuse brune,2018,0,4
+Mouette pygmée,2014,0,2
+Mouette tridactyle,2009,0,1
+Nette rousse,2018,0,2
+Oie cendrée,2018,0,2
+Pic mar,2017,0,3
+Plongeon arctique,2017,0,2
+Plongeon catmarin,2017,0,21
+Plongeon imbrin,2013,0,2
+Pouillot à grands sourcils,2018,0,1
+Sizerin cabaret,2017,0,7
+Sterne caugek,2016,0,1
+Vanneau huppé,2018,0,6
+Vautour fauve,2018,0,1

@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Busard pâle"
-"0";"Canard carolin"
-"0";"Canard souchet"
-"0";"Crave à bec rouge"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot ibérique"
-"0";"Sarcelle d'hiver"
-"0";"Spatule blanche"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2019,0,4
+Bécasse des bois,2011,0,1
+Bécassine des marais,2016,0,1
+Bruant des roseaux,2019,0,13
+Busard pâle,2016,0,1
+Canard carolin,2018,0,4
+Canard souchet,2013,0,2
+Crave à bec rouge,2018,0,1
+Cygne noir,2019,0,1
+Échasse blanche,2008,0,1
+Héron pourpré,2017,0,1
+Hirondelle de rivage,2018,0,6
+Locustelle tachetée,2014,0,1
+Pipit des arbres,2018,0,2
+Pouillot de Bonelli,2017,0,2
+Pouillot ibérique,2014,0,1
+Sarcelle d'hiver,2016,0,1
+Spatule blanche,2017,0,2
+Vanneau huppé,2018,0,3

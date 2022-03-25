@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Canard souchet
-0        Courlis cendré
-0        Cygne tuberculé
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Milan royal
-0        Mouette mélanocéphale
-0        Pie-grièche à tête rousse
-0        Torcol fourmilier
-0        Tourterelle rieuse
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Barge rousse                            2016    0        1
+Bergeronnette flavéole (M.f.flavissima) 2014    0        1
+Canard souchet                          2018    0        1
+Courlis cendré                          2018    0        1
+Cygne tuberculé                         2017    0        1
+Grèbe castagneux                        2018    0        2
+Grèbe huppé                             2018    0        2
+Milan royal                             2018    0        4
+Mouette mélanocéphale                   2015    0        5
+Pie-grièche à tête rousse               2016    0        5
+Torcol fourmilier                       2018    0        3
+Tourterelle rieuse                      2011    0        3
 

@@ -1,34 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Coucou geai"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Garrot à oeil d'or"
-"0";"Guifette moustac"
-"0";"Hirondelle de rochers"
-"0";"Marouette poussin"
-"0";"Merle à plastron"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,4
+Bécasseau cocorli,2017,0,1
+Bécasseau minute,2016,0,6
+Bruant fou,2018,0,1
+Bruant jaune,2013,0,5
+Busard cendré,2018,0,3
+Busard Saint-Martin,2018,0,8
+Canard à collier noir,2014,0,2
+Canard carolin,2013,0,1
+Canard mandarin,2013,0,13
+Coucou geai,2012,0,2
+Cygne tuberculé,2018,0,9
+Engoulevent d'Europe,2018,0,1
+Fauvette des jardins,2009,0,1
+Fauvette passerinette,2015,0,2
+Fauvette pitchou,2016,0,3
+Garrot à oeil d'or,2011,0,6
+Guifette moustac,2018,0,1
+Marouette poussin,2011,0,7
+Merle à plastron,2017,0,1
+Nette rousse,2015,0,7
+Oie cendrée,2013,0,2
+Pipit rousseline,2018,0,5
+Pluvier argenté,2016,0,2
+Pluvier doré,2017,0,20
+Râle d'eau,2018,0,1
+Rousserolle turdoïde,2018,0,2
+Sterne pierregarin,2014,0,2
+Torcol fourmilier,2018,0,12
+Tourterelle rieuse,2015,0,1

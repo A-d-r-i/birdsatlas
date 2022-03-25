@@ -1,30 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Busard cendré
-0        Busard Saint-Martin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chouette de Tengmalm
-0        Corneille mantelée
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon kobez
-0        Fauvette grisette
-0        Fuligule morillon
-0        Gélinotte des bois
-0        Harle huppé
-0        Héron garde-boeufs
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Nette rousse
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Tourterelle des bois
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasseau variable   2016    0        1
+Busard cendré        2014    0        2
+Busard Saint-Martin  2016    0        4
+Chevalier gambette   2016    0        2
+Chevalier sylvain    2011    0        1
+Chouette de Tengmalm 2015    0        1
+Corneille mantelée   2016    0        1
+Effraie des clochers 2018    0        14
+Faucon émerillon     2017    0        1
+Faucon kobez         2013    0        3
+Fauvette grisette    2016    0        5
+Fuligule morillon    2016    0        72
+Gélinotte des bois   2016    0        13
+Harle huppé          2011    0        1
+Héron garde-boeufs   2012    0        1
+Huppe fasciée        2017    0        3
+Locustelle tachetée  2016    0        3
+Nette rousse         2014    0        5
+Oie cendrée          2013    0        2
+Ouette d'Egypte      2013    0        1
+Phragmite des joncs  2011    0        1
+Pigeon colombin      2014    0        3
+Pluvier guignard     2014    0        1
+Pouillot siffleur    2018    0        6
+Tourterelle des bois 2013    0        3
 

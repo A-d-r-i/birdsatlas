@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécassine des marais"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Faisan de Colchide"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Héron cendré"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de fenêtre"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pigeon colombin"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Pouillot véloce"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,2
+Bécassine des marais,2017,0,1
+Canard colvert,2018,0,4
+Choucas des tours,2009,0,2
+Corbeau freux,2009,0,2
+Coucou gris,2018,0,2
+Faisan de Colchide,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2009,0,1
+Gobemouche gris,2018,0,4
+Grèbe castagneux,2009,0,1
+Héron cendré,2018,0,2
+Héron garde-boeufs,2017,0,2
+Hirondelle de fenêtre,2009,0,1
+Loriot d'Europe,2009,0,1
+Martinet noir,2009,0,1
+Mésange noire,2009,0,1
+Moineau friquet,2015,0,6
+Pigeon colombin,2009,0,1
+Pipit farlouse,2009,0,1
+Pluvier doré,2009,0,1
+Pouillot fitis,2009,0,1
+Pouillot siffleur,2009,0,1
+Pouillot véloce,2009,0,1
+Rossignol philomèle,2009,0,1
+Rougequeue à front blanc,2009,0,1

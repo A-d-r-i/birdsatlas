@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Bouscarle de Cetti
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Chevalier gambette
-0        Cochevis huppé
-0        Corbeau freux
-0        Échasse blanche
-0        Faucon crécerellette
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Grèbe castagneux
-0        Grive litorne
-0        Hibou moyen-duc
-0        Mésange huppée
-0        Moineau soulcie
-0        Pic épeichette
-0        Pigeon biset domestique
-0        Pouillot de Bonelli
-0        Tarin des aulnes
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Autour des palombes     2016    0        3
+Bec-croisé des sapins   2014    0        1
+Bihoreau gris           2014    0        1
+Bouscarle de Cetti      2016    0        1
+Bouvreuil pivoine       2015    0        1
+Bruant des roseaux      2013    0        1
+Chevalier gambette      2016    0        1
+Cochevis huppé          2009    0        1
+Corbeau freux           2016    0        1
+Échasse blanche         2016    0        1
+Faucon crécerellette    2014    0        1
+Fauvette des jardins    2009    0        1
+Fauvette orphée         2009    0        1
+Fauvette pitchou        2015    0        3
+Gallinule poule-d'eau   2009    0        1
+Grèbe castagneux        2017    0        1
+Grive litorne           2015    0        3
+Hibou moyen-duc         2009    0        1
+Mésange huppée          2009    0        1
+Moineau soulcie         2018    0        2
+Pic épeichette          2016    0        2
+Pigeon biset domestique 2017    0        5
+Pouillot de Bonelli     2017    0        4
+Tarin des aulnes        2016    0        1
 

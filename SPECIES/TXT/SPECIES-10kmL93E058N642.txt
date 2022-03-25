@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Bernache nonnette
-0        Bruant fou
-0        Bruant jaune
-0        Bruant proyer
-0        Caille des blés
-0        Cigogne noire
-0        Fauvette orphée
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Grive litorne
-0        Martinet à ventre blanc
-0        Mésange huppée
-0        Moineau friquet
-0        Oedicnème criard
-0        Pouillot fitis
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2009    0        1
+Bernache nonnette         2017    0        2
+Bruant fou                2009    0        1
+Bruant jaune              2009    0        1
+Bruant proyer             2009    0        1
+Caille des blés           2009    0        1
+Cigogne noire             2017    0        2
+Fauvette orphée           2017    0        3
+Foulque macroule          2009    0        1
+Gallinule poule-d'eau     2018    0        7
+Grive litorne             2018    0        2
+Martinet à ventre blanc   2009    0        1
+Mésange huppée            2016    0        2
+Moineau friquet           2016    0        5
+Oedicnème criard          2013    0        1
+Pouillot fitis            2017    0        2
+Traquet motteux           2010    0        2
+Vanneau huppé             2018    0        2
 

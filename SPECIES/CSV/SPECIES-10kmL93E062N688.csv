@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Gorgebleue à miroir"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Pie-grièche grise"
-"0";"Pouillot de Bonelli"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,3
+Bergeronnette flavéole (M.f.flavissima),2018,0,2
+Busard cendré,2018,0,2
+Busard pâle,2017,0,1
+Butor étoilé,2016,0,1
+Canard carolin,2017,0,3
+Canard chipeau,2013,0,2
+Canard mandarin,2017,0,5
+Courlis cendré,2016,0,2
+Cygne noir,2013,0,1
+Faisan vénéré,2018,0,2
+Faucon émerillon,2017,0,5
+Faucon pèlerin,2016,0,7
+Gorgebleue à miroir,2013,0,1
+Harle bièvre,2014,0,1
+Hibou des marais,2013,0,3
+Hirondelle de rivage,2012,0,2
+Locustelle tachetée,2018,0,15
+Milan royal,2012,0,1
+Moineau friquet,2018,0,1
+Mouette mélanocéphale,2012,0,1
+Oie cendrée,2017,0,6
+Perruche ondulée,2018,0,1
+Pie-grièche grise,2011,0,1
+Pouillot de Bonelli,2018,0,1
+Sarcelle d'hiver,2013,0,2
+Sizerin cabaret,2018,0,7
+Sizerin flammé,2018,0,8
+Torcol fourmilier,2015,0,1

@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Crave à bec rouge"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Monticole bleu"
-"0";"Nette rousse"
-"0";"Pipit des arbres"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2016,0,1
+Bergeronnette printanière,2016,0,2
+Bruant fou,2016,0,2
+Canard chipeau,2011,0,2
+Canard souchet,2016,0,1
+Chevêche d'Athéna,2018,0,1
+Chouette hulotte,2018,0,6
+Cigogne blanche,2017,0,4
+Cigogne noire,2017,0,4
+Courlis cendré,2018,0,1
+Crave à bec rouge,2009,0,1
+Échasse blanche,2016,0,3
+Effraie des clochers,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon kobez,2015,0,2
+Fauvette des jardins,2009,0,1
+Fauvette pitchou,2018,0,4
+Garrot à oeil d'or,2010,0,2
+Goéland brun,2013,0,1
+Grèbe à cou noir,2017,0,1
+Grive litorne,2018,0,3
+Héron garde-boeufs,2018,0,7
+Hibou moyen-duc,2015,0,1
+Mésange noire,2014,0,1
+Monticole bleu,2016,0,2
+Nette rousse,2011,0,2
+Pipit des arbres,2016,0,2
+Plongeon arctique,2013,0,1
+Pouillot à grands sourcils,2018,0,1
+Pouillot fitis,2018,0,3
+Râle d'eau,2014,0,2
+Rousserolle effarvatte,2016,0,2
+Sarcelle d'hiver,2013,0,4
+Torcol fourmilier,2014,0,2
+Vanneau huppé,2017,0,1

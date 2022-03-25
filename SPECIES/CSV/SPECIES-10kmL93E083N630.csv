@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Glaréole à collier"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette leucoptère"
-"0";"Guifette noire"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rousseline"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Monticole bleu"
-"0";"Nette rousse"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Spatule blanche"
-"0";"Traquet oreillard"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,1
+Bécassine sourde,2017,0,1
+Bihoreau gris,2011,0,1
+Bruant ortolan,2009,0,1
+Canard chipeau,2012,0,2
+Canard pilet,2012,0,1
+Canard siffleur,2012,0,1
+Canard souchet,2019,0,2
+Cigogne noire,2007,0,1
+Coucou geai,2014,0,2
+Effraie des clochers,2010,0,1
+Etourneau roselin,2018,0,1
+Faucon kobez,2017,0,4
+Faucon pèlerin,2012,0,2
+Glaréole à collier,2011,0,1
+Gobemouche gris,2017,0,2
+Gobemouche noir,2018,0,5
+Goéland brun,2015,0,1
+Goéland cendré,2012,0,1
+Grèbe à cou noir,2012,0,1
+Grèbe huppé,2017,0,13
+Grive litorne,2017,0,6
+Grosbec casse-noyaux,2018,0,3
+Guifette leucoptère,2015,0,1
+Guifette noire,2015,0,1
+Hirondelle de rivage,2012,0,2
+Hirondelle rousseline,2012,0,1
+Locustelle tachetée,2012,0,2
+Martinet à ventre blanc,2010,0,2
+Monticole bleu,2015,0,1
+Nette rousse,2012,0,4
+Pinson du Nord,2017,0,4
+Pipit rousseline,2009,0,1
+Pipit spioncelle,2013,0,3
+Pluvier doré,2013,0,3
+Râle d'eau,2015,0,1
+Sarcelle d'hiver,2012,0,6
+Spatule blanche,2016,0,1
+Traquet oreillard,2009,0,1
+Vanneau huppé,2016,0,9

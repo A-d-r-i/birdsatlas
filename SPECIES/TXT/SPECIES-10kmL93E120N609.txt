@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette des ruisseaux
-0        Buse variable
-0        Faucon pèlerin
-0        Monticole de roche
-0        Pipit rousseline
-0        Serin cini
-0        Torcol fourmilier
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bergeronnette des ruisseaux 2017    0        1
+Buse variable               2009    0        1
+Faucon pèlerin              2009    0        1
+Monticole de roche          2017    0        1
+Pipit rousseline            2017    0        1
+Serin cini                  2009    0        1
+Torcol fourmilier           2009    0        1
 

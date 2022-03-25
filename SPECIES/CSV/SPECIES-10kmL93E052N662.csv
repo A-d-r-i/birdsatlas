@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier arlequin"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Grèbe huppé"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Outarde canepetière"
-"0";"Perdrix grise"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Spatule blanche"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2018,0,3
+Canard chipeau,2016,0,3
+Canard pilet,2016,0,1
+Canard souchet,2013,0,2
+Chevalier arlequin,2017,0,3
+Chevalier guignette,2017,0,12
+Chevalier sylvain,2017,0,3
+Cochevis huppé,2012,0,2
+Corbeau freux,2014,0,11
+Courlis cendré,2012,0,15
+Cygne tuberculé,2009,0,1
+Grèbe huppé,2018,0,26
+Guêpier d'Europe,2015,0,2
+Guifette moustac,2016,0,1
+Hibou des marais,2016,0,3
+Locustelle tachetée,2013,0,2
+Merle à plastron,2017,0,1
+Moineau friquet,2011,0,2
+Mouette rieuse,2018,0,15
+Oie cendrée,2014,0,1
+Outarde canepetière,2012,0,5
+Perdrix grise,2012,0,3
+Pie-grièche à tête rousse,2018,0,1
+Pipit rousseline,2009,0,1
+Pipit spioncelle,2016,0,1
+Pouillot siffleur,2009,0,3
+Râle d'eau,2010,0,2
+Rousserolle effarvatte,2018,0,3
+Spatule blanche,2018,0,1
+Sterne pierregarin,2018,0,2
+Tarier des prés,2018,0,8
+Torcol fourmilier,2015,0,1

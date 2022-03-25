@@ -1,56 +1,54 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Barge rousse"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau variable"
-"0";"Bécassine sourde"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Bruant lapon"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Courlis corlieu"
-"0";"Effraie des clochers"
-"0";"Fulmar boréal"
-"0";"Grand Gravelot"
-"0";"Grand Labbe"
-"0";"Grosbec casse-noyaux"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Ibis falcinelle"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Macareux moine"
-"0";"Macreuse brune"
-"0";"Mergule nain"
-"0";"Mésange noire"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Phalarope à bec large"
-"0";"Phragmite des joncs"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pipit maritime"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Puffin cendré"
-"0";"Rémiz penduline"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Sterne pierregarin"
-"0";"Tournepierre à collier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,1
+Alouette des champs,2016,0,5
+Barge rousse,2018,0,1
+Bécasseau minute,2013,0,1
+Bécasseau sanderling,2013,0,1
+Bécasseau variable,2018,0,1
+Bécassine sourde,2012,0,1
+Bergeronnette des ruisseaux,2015,0,3
+Bergeronnette printanière,2016,0,4
+Bernache cravant,2009,0,1
+Bondrée apivore,2017,0,1
+Bruant lapon,2015,0,1
+Busard des roseaux,2015,0,3
+Butor étoilé,2014,0,1
+Canard siffleur,2015,0,2
+Chevalier aboyeur,2017,0,1
+Chevalier guignette,2017,0,1
+Chevalier sylvain,2018,0,1
+Courlis corlieu,2013,0,1
+Effraie des clochers,2016,0,1
+Fulmar boréal,2018,0,7
+Grand Gravelot,2013,0,1
+Grand Labbe,2017,0,8
+Grosbec casse-noyaux,2017,0,1
+Harle huppé,2009,0,1
+Hibou des marais,2018,0,3
+Huppe fasciée,2017,0,2
+Ibis falcinelle,2018,0,2
+Labbe parasite,2017,0,3
+Labbe pomarin,2017,0,2
+Locustelle tachetée,2011,0,2
+Loriot d'Europe,2016,0,2
+Macareux moine,2015,0,3
+Macreuse brune,2012,0,3
+Mergule nain,2012,0,3
+Mésange noire,2015,0,2
+Mouette mélanocéphale,2015,0,4
+Perdrix grise,2017,0,1
+Phalarope à bec large,2015,0,1
+Phragmite des joncs,2012,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2014,0,2
+Pipit maritime,2013,0,1
+Plongeon arctique,2009,0,1
+Pouillot à grands sourcils,2013,0,1
+Pouillot fitis,2013,0,1
+Puffin cendré,2012,0,3
+Rémiz penduline,2015,0,1
+Spatule blanche,2010,0,1
+Sterne caspienne,2011,0,2
+Sterne pierregarin,2013,0,2
+Tournepierre à collier,2015,0,3
+Tourterelle des bois,2018,0,4

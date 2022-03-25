@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Calopsitte élégante"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Monticole bleu"
-"0";"Pie-grièche méridionale"
-"0";"Pipit spioncelle"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2017,0,2
+Bergeronnette printanière,2013,0,3
+Bruant des roseaux,2011,0,2
+Bruant ortolan,2014,0,4
+Busard cendré,2013,0,2
+Busard Saint-Martin,2018,0,4
+Calopsitte élégante,2017,0,1
+Corbeau freux,2017,0,1
+Effraie des clochers,2016,0,3
+Faucon crécerellette,2010,0,1
+Faucon émerillon,2015,0,2
+Goéland leucophée,2017,0,2
+Grand-duc d'Europe,2012,0,5
+Hibou moyen-duc,2015,0,1
+Hirondelle de rivage,2009,0,1
+Monticole bleu,2013,0,6
+Pie-grièche méridionale,2015,0,1
+Pipit spioncelle,2009,0,4
+Torcol fourmilier,2016,0,3

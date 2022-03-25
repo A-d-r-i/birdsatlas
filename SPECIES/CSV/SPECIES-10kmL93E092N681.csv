@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant des neiges"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevêchette d'Europe"
-"0";"Choucas des tours"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Cygne tuberculé"
-"0";"Faisan de Colchide"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Foulque macroule"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Oie des moissons"
-"0";"Perdrix grise"
-"0";"Pic cendré"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin flammé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,1
+Aigrette garzette,2018,0,1
+Bécasse des bois,2018,0,6
+Bécassine des marais,2012,0,3
+Bergeronnette des ruisseaux,2017,0,75
+Bruant des neiges,2012,0,4
+Bruant fou,2016,0,3
+Bruant ortolan,2013,0,5
+Cassenoix moucheté,2015,0,8
+Chevalier aboyeur,2016,0,1
+Chevalier culblanc,2018,0,2
+Chevêchette d'Europe,2017,0,1
+Choucas des tours,2013,0,30
+Combattant varié,2012,0,1
+Corbeau freux,2018,0,69
+Cygne tuberculé,2013,0,1
+Faisan de Colchide,2015,0,3
+Faisan vénéré,2014,0,4
+Faucon émerillon,2017,0,35
+Foulque macroule,2013,0,4
+Grande Aigrette,2017,0,30
+Grèbe castagneux,2009,0,2
+Grive mauvis,2017,0,96
+Guêpier d'Europe,2011,0,2
+Héron garde-boeufs,2013,0,1
+Hirondelle de rivage,2013,0,11
+Locustelle tachetée,2012,0,3
+Martin-pêcheur d'Europe,2009,0,1
+Mouette rieuse,2012,0,1
+Oie cendrée,2013,0,5
+Oie des moissons,2011,0,1
+Perdrix grise,2015,0,1
+Pic cendré,2012,0,4
+Pigeon biset (origine naturelle),2009,0,1
+Pipit spioncelle,2013,0,7
+Pouillot à grands sourcils,2018,0,8
+Rémiz penduline,2013,0,2
+Rousserolle effarvatte,2013,0,2
+Sizerin flammé,2015,0,21
+Vautour fauve,2017,0,3

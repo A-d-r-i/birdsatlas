@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Blongios nain"
-"0";"Busard Saint-Martin"
-"0";"Canard siffleur"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'été"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2014,0,9
+Bécasse des bois,2017,0,6
+Bec-croisé des sapins,2017,0,13
+Blongios nain,2017,0,1
+Busard Saint-Martin,2017,0,8
+Canard siffleur,2017,0,14
+Corneille mantelée,2014,0,5
+Courlis cendré,2013,0,2
+Courlis corlieu,2015,0,2
+Effraie des clochers,2015,0,8
+Engoulevent d'Europe,2015,0,1
+Garrot à oeil d'or,2018,0,3
+Goéland argenté,2011,0,4
+Goéland leucophée,2016,0,1
+Grand-duc d'Europe,2017,0,6
+Grèbe à cou noir,2011,0,2
+Grive draine,2018,0,25
+Grosbec casse-noyaux,2018,0,17
+Guifette noire,2013,0,1
+Harle bièvre,2015,0,2
+Héron pourpré,2018,0,1
+Hibou moyen-duc,2018,0,5
+Huppe fasciée,2017,0,1
+Locustelle tachetée,2012,0,3
+Macreuse brune,2012,0,9
+Oie à tête barrée,2018,0,4
+Oie cendrée,2013,0,6
+Perdrix grise,2017,0,3
+Pic mar,2016,0,2
+Pie-grièche grise,2012,0,2
+Pigeon colombin,2015,0,5
+Pouillot siffleur,2013,0,1
+Râle d'eau,2011,0,2
+Roitelet huppé,2018,0,14
+Sarcelle d'été,2016,0,1
+Sizerin flammé,2011,0,1
+Torcol fourmilier,2013,0,1
+Traquet motteux,2017,0,9

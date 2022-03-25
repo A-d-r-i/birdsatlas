@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Courlis corlieu"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faucon émerillon"
-"0";"Fauvette pitchou"
-"0";"Goéland argenté"
-"0";"Grèbe esclavon"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pluvier argenté"
-"0";"Pouillot de Bonelli"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caugek"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,26
+Barge rousse,2014,0,2
+Bécasseau de Temminck,2012,0,2
+Bécasseau maubèche,2009,0,2
+Bécasseau sanderling,2017,0,4
+Bécasseau tacheté,2012,0,9
+Bécasse des bois,2018,0,5
+Bec-croisé des sapins,2016,0,2
+Busard cendré,2013,0,2
+Butor étoilé,2015,0,8
+Calopsitte élégante,2017,0,1
+Canard à collier noir,2008,0,1
+Canard carolin,2011,0,3
+Courlis corlieu,2015,0,2
+Engoulevent d'Europe,2018,0,5
+Érismature rousse,2015,0,2
+Faucon émerillon,2017,0,12
+Fauvette pitchou,2010,0,1
+Goéland argenté,2019,0,11
+Grèbe esclavon,2012,0,12
+Guifette leucoptère,2012,0,3
+Harle bièvre,2017,0,5
+Harle piette,2009,0,4
+Hibou des marais,2017,0,2
+Hibou moyen-duc,2017,0,18
+Ibis falcinelle,2013,0,1
+Ibis sacré,2015,0,1
+Locustelle tachetée,2017,0,11
+Macreuse brune,2009,0,33
+Merle à plastron,2007,0,1
+Mésange noire,2018,0,69
+Milan royal,2018,0,6
+Moineau friquet,2016,0,10
+Oie des moissons,2009,0,1
+Oie rieuse,2016,0,4
+Ouette d'Egypte,2012,0,4
+Phragmite des joncs,2013,0,6
+Pie-grièche à tête rousse,2011,0,1
+Pluvier argenté,2014,0,6
+Pouillot de Bonelli,2016,0,2
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Sterne caugek,2014,0,1
+Tarier des prés,2018,0,12

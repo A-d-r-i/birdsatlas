@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Chouette de Tengmalm"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Etourneau roselin"
-"0";"Faisan de Colchide"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Grand-duc d'Europe"
-"0";"Grand Tétras"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2015,0,2
+Bihoreau gris,2018,0,4
+Bruant des roseaux,2018,0,1
+Bruant fou,2018,0,14
+Busard des roseaux,2015,0,1
+Chevalier culblanc,2018,0,4
+Chevalier guignette,2016,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette de Tengmalm,2009,0,1
+Effraie des clochers,2018,0,2
+Engoulevent d'Europe,2009,0,1
+Etourneau roselin,2018,0,1
+Faisan de Colchide,2018,0,5
+Fauvette pitchou,2016,0,1
+Foulque macroule,2018,0,5
+Grand-duc d'Europe,2009,0,1
+Grand Tétras,2018,0,3
+Héron garde-boeufs,2015,0,1
+Héron pourpré,2018,0,3
+Hibou moyen-duc,2016,0,2
+Martin-pêcheur d'Europe,2009,0,1
+Pigeon colombin,2016,0,1
+Pluvier doré,2018,0,2
+Pouillot siffleur,2016,0,1
+Râle d'eau,2018,0,3
+Rousserolle effarvatte,2017,0,1
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tourterelle des bois,2009,0,1
+Venturon montagnard,2018,0,1

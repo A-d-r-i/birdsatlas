@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,2
+Bécassine des marais,2018,0,2
+Bruant zizi,2015,0,1
+Busard Saint-Martin,2009,0,1
+Canard chipeau,2009,0,1
+Canard siffleur,2009,0,1
+Chevalier guignette,2015,0,2
+Chevêche d'Athéna,2018,0,4
+Corbeau freux,2016,0,3
+Coucou gris,2017,0,2
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2016,0,2
+Foulque macroule,2009,0,1
+Fuligule milouin,2009,0,1
+Goéland cendré,2017,0,2
+Grèbe huppé,2009,0,1
+Hibou moyen-duc,2009,0,1
+Moineau friquet,2016,0,6
+Pic épeichette,2017,0,2
+Pipit des arbres,2016,0,1
+Pouillot fitis,2017,0,1
+Pouillot siffleur,2016,0,1
+Râle d'eau,2009,0,1
+Tarier des prés,2015,0,1
+Torcol fourmilier,2015,0,2
+Tourterelle des bois,2016,0,2

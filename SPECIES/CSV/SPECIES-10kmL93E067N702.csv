@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Fauvette babillarde"
-"0";"Grand Cormoran"
-"0";"Hypolaïs ictérine"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Pic épeichette"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2015,0,2
+Chevêche d'Athéna,2009,0,1
+Fauvette babillarde,2009,0,1
+Grand Cormoran,2018,0,2
+Hypolaïs ictérine,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange boréale,2009,0,1
+Mésange huppée,2018,0,2
+Milan royal,2018,0,1
+Moineau friquet,2016,0,1
+Oie cendrée,2015,0,2
+Pic épeichette,2009,0,1
+Pigeon colombin,2018,0,2
+Pouillot fitis,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1

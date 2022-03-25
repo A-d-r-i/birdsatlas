@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant proyer"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Cygne chanteur"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fuligule à bec cerclé"
-"0";"Perruche à collier"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caugek"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,1
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bruant proyer,2009,0,1
+Cisticole des joncs,2009,0,1
+Cochevis huppé,2009,0,1
+Cygne chanteur,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faisan vénéré,2018,0,1
+Fauvette babillarde,2017,0,2
+Fuligule à bec cerclé,2007,0,1
+Perruche à collier,2009,0,1
+Sizerin cabaret,2018,0,4
+Sizerin flammé,2018,0,5
+Sterne caugek,2018,0,1

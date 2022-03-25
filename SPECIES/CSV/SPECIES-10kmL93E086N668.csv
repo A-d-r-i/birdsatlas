@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette lulu"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Blongios nain"
-"0";"Buse pattue"
-"0";"Calopsitte élégante"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cisticole des joncs"
-"0";"Érismature rousse"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe jougris"
-"0";"Harle piette"
-"0";"Hirondelle de rochers"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Marouette poussin"
-"0";"Oie des moissons"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pouillot à grands sourcils"
-"0";"Rémiz penduline"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Sterne hansel"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,3
+Alouette lulu,2018,0,11
+Barge rousse,2009,0,15
+Bécasseau maubèche,2011,0,9
+Blongios nain,2014,0,3
+Buse pattue,2010,0,2
+Calopsitte élégante,2018,0,1
+Canard à collier noir,2014,0,3
+Canard carolin,2016,0,1
+Canard des Bahamas,2013,0,1
+Circaète Jean-le-Blanc,2014,0,5
+Cisticole des joncs,2011,0,1
+Érismature rousse,2018,0,76
+Goéland cendré,2018,0,29
+Gorgebleue à miroir,2015,0,13
+Gravelot à collier interrompu,2018,0,29
+Grèbe jougris,2016,0,126
+Harle piette,2016,0,16
+Hirondelle de rochers,2015,0,1
+Locustelle tachetée,2012,0,2
+Macreuse brune,2018,0,2
+Marouette poussin,2014,0,4
+Oie des moissons,2017,0,3
+Petit-duc scops,2008,0,1
+Pie-grièche grise,2012,0,3
+Pipit rousseline,2017,0,5
+Pouillot à grands sourcils,2016,0,3
+Rémiz penduline,2017,0,10
+Spatule blanche,2016,0,1
+Sterne caspienne,2018,0,2
+Sterne hansel,2018,0,7
+Tournepierre à collier,2018,0,4

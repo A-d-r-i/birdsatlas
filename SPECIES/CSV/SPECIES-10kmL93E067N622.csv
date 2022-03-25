@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Chevalier arlequin"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Etourneau roselin"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Gobemouche gris"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Monticole de roche"
-"0";"Petit Gravelot"
-"0";"Pic de Sharpe"
-"0";"Pic épeichette"
-"0";"Pic vert"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2008,0,1
+Bécasse des bois,2017,0,3
+Bécassine des marais,2018,0,1
+Bergeronnette printanière,2016,0,1
+Bihoreau gris,2009,0,2
+Bruant ortolan,2018,0,6
+Chevalier arlequin,2007,0,1
+Chevalier guignette,2011,0,1
+Chevêche d'Athéna,2007,0,2
+Cigogne blanche,2014,0,1
+Cincle plongeur,2012,0,1
+Engoulevent d'Europe,2009,0,1
+Etourneau roselin,2018,0,1
+Faucon crécerellette,2017,0,1
+Faucon émerillon,2017,0,1
+Gobemouche gris,2018,0,7
+Grosbec casse-noyaux,2007,0,1
+Héron pourpré,2015,0,1
+Hirondelle de rivage,2016,0,1
+Martin-pêcheur d'Europe,2016,0,10
+Mésange noire,2017,0,2
+Moineau friquet,2009,0,2
+Monticole de roche,2015,0,1
+Petit Gravelot,2016,0,5
+Pic de Sharpe,2016,0,1
+Pic épeichette,2013,0,4
+Pic vert,2013,0,2
+Pigeon biset domestique,2013,0,7
+Pigeon colombin,2007,0,1
+Pipit spioncelle,2013,0,1
+Râle d'eau,2007,0,1
+Rousserolle turdoïde,2009,0,1
+Torcol fourmilier,2015,0,1
+Traquet oreillard,2009,0,1
+Vanneau huppé,2019,0,2

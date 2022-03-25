@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bouvreuil pivoine"
-"0";"Caille des blés"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Gallinule poule-d'eau"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Héron pourpré"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2014,0,3
+Bécasse des bois,2017,0,2
+Bergeronnette des ruisseaux,2017,0,5
+Bouvreuil pivoine,2012,0,2
+Caille des blés,2018,0,2
+Cygne tuberculé,2012,0,1
+Échasse blanche,2017,0,1
+Gallinule poule-d'eau,2016,0,4
+Grive litorne,2012,0,1
+Guêpier d'Europe,2018,0,1
+Héron pourpré,2015,0,1
+Loriot d'Europe,2018,0,3
+Martin-pêcheur d'Europe,2017,0,1
+Merle à plastron,2011,0,1
+Mésange huppée,2017,0,12
+Moineau friquet,2017,0,5
+Pic épeichette,2018,0,1
+Pigeon biset domestique,2017,0,9
+Pipit rousseline,2017,0,9
+Pipit spioncelle,2011,0,1
+Pluvier doré,2012,0,3
+Roitelet huppé,2011,0,1
+Rougequeue à front blanc,2017,0,6
+Rousserolle effarvatte,2015,0,1
+Serin cini,2012,0,5
+Tarin des aulnes,2017,0,4

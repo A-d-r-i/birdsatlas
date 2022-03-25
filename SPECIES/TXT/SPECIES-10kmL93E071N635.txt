@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bec-croisé des sapins
-0        Busard pâle
-0        Canard pilet
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chocard à bec jaune
-0        Cigogne blanche
-0        Coucou geai
-0        Échasse blanche
-0        Faucon d'Eléonore
-0        Fauvette babillarde
-0        Gallinule poule-d'eau
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Héron garde-boeufs
-0        Hypolaïs ictérine
-0        Loriot d'Europe
-0        Moineau soulcie
-0        Monticole bleu
-0        Monticole de roche
-0        Oedicnème criard
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pluvier doré
-0        Pluvier guignard
-0        Rousserolle effarvatte
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Vanneau huppé
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2017    0        1
+Bec-croisé des sapins     2017    0        12
+Busard pâle               2012    0        2
+Canard pilet              2014    0        2
+Chevalier aboyeur         2017    0        1
+Chevalier culblanc        2018    0        6
+Chocard à bec jaune       2016    0        1
+Cigogne blanche           2018    0        2
+Coucou geai               2017    0        7
+Échasse blanche           2011    0        1
+Faucon d'Eléonore         2017    0        2
+Fauvette babillarde       2013    0        1
+Gallinule poule-d'eau     2009    0        1
+Grand Gravelot            2008    0        1
+Grèbe castagneux          2009    0        1
+Héron garde-boeufs        2014    0        2
+Hypolaïs ictérine         2012    0        1
+Loriot d'Europe           2010    0        1
+Moineau soulcie           2017    0        1
+Monticole bleu            2017    0        1
+Monticole de roche        2017    0        5
+Oedicnème criard          2015    0        3
+Pie-grièche à tête rousse 2018    0        3
+Pie-grièche grise         2017    0        11
+Pluvier doré              2016    0        3
+Pluvier guignard          2015    0        1
+Rousserolle effarvatte    2016    0        1
+Sarcelle d'été            2018    0        1
+Sarcelle d'hiver          2018    0        2
+Vanneau huppé             2015    0        11
+Venturon montagnard       2017    0        4
 

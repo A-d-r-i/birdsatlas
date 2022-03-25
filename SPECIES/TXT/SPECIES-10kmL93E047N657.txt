@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Barge rousse
-0        Bécasseau maubèche
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Busard pâle
-0        Butor étoilé
-0        Chevalier sylvain
-0        Combattant varié
-0        Faucon d'Eléonore
-0        Fuligule morillon
-0        Fuligule nyroca
-0        Goéland cendré
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Grèbe huppé
-0        Guifette moustac
-0        Guifette noire
-0        Moineau friquet
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Oie rieuse
-0        Petit-duc scops
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Spatule blanche
-0        Sterne pierregarin
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Avocette élégante         2013    0        3
+Barge rousse              2015    0        1
+Bécasseau maubèche        2011    0        2
+Bécasseau sanderling      2013    0        1
+Bécasseau variable        2015    0        4
+Busard pâle               2015    0        1
+Butor étoilé              2012    0        1
+Chevalier sylvain         2015    0        17
+Combattant varié          2016    0        3
+Faucon d'Eléonore         2013    0        2
+Fuligule morillon         2014    0        12
+Fuligule nyroca           2012    0        1
+Goéland cendré            2017    0        3
+Grand Gravelot            2017    0        6
+Grèbe à cou noir          2014    0        3
+Grèbe huppé               2018    0        74
+Guifette moustac          2016    0        4
+Guifette noire            2013    0        2
+Moineau friquet           2013    0        1
+Mouette mélanocéphale     2013    0        1
+Mouette rieuse            2016    0        27
+Oie rieuse                2013    0        3
+Petit-duc scops           2015    0        1
+Petit Gravelot            2016    0        5
+Pie-grièche à tête rousse 2017    0        18
+Pie-grièche méridionale   2012    0        2
+Pipit rousseline          2017    0        5
+Pluvier guignard          2014    0        3
+Pouillot siffleur         2013    0        1
+Spatule blanche           2014    0        3
+Sterne pierregarin        2013    0        1
 

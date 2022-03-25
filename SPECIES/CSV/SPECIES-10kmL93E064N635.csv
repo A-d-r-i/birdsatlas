@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Canard colvert"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Martinet noir"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,2
+Bergeronnette printanière,2009,0,1
+Bondrée apivore,2010,0,3
+Bruant des roseaux,2018,0,1
+Bruant jaune,2015,0,3
+Bruant proyer,2018,0,6
+Canard colvert,2018,0,5
+Cigogne blanche,2009,0,2
+Circaète Jean-le-Blanc,2017,0,1
+Gallinule poule-d'eau,2014,0,1
+Grand Cormoran,2007,0,1
+Grive draine,2009,0,2
+Grive litorne,2017,0,3
+Grosbec casse-noyaux,2018,0,2
+Hirondelle de fenêtre,2017,0,4
+Martinet noir,2018,0,11
+Moineau friquet,2009,0,3
+Moineau soulcie,2017,0,1
+Pic épeichette,2018,0,1
+Pipit des arbres,2018,0,8
+Pouillot fitis,2009,0,1
+Tarier des prés,2013,0,1
+Traquet motteux,2012,0,2

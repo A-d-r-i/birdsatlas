@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Canard à collier noir"
-"0";"Chevalier arlequin"
-"0";"Cygne noir"
-"0";"Érismature rousse"
-"0";"Fuligule à bec cerclé"
-"0";"Garrot à oeil d'or"
-"0";"Glaréole à collier"
-"0";"Gobemouche à collier"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grimpereau des bois"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pipit des arbres"
-"0";"Rémiz penduline"
-"0";"Sterne hansel"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2013,0,2
+Bécasse des bois,2015,0,7
+Bergeronnette flavéole (M.f.flavissima),2009,0,2
+Blongios nain,2016,0,5
+Butor étoilé,2007,0,1
+Canard à collier noir,2014,0,1
+Chevalier arlequin,2012,0,3
+Cygne noir,2012,0,11
+Érismature rousse,2011,0,3
+Fuligule à bec cerclé,2010,0,2
+Garrot à oeil d'or,2013,0,7
+Glaréole à collier,2016,0,2
+Gobemouche à collier,2007,0,3
+Grèbe à cou noir,2018,0,6
+Grèbe esclavon,2012,0,1
+Grèbe jougris,2011,0,5
+Grimpereau des bois,2017,0,1
+Hibou moyen-duc,2014,0,11
+Hirondelle rousseline,2008,0,1
+Hypolaïs ictérine,2012,0,1
+Jaseur boréal,2009,0,1
+Marouette ponctuée,2008,0,1
+Merle à plastron,2015,0,1
+Mésange noire,2010,0,2
+Perdrix rouge,2018,0,7
+Phragmite des joncs,2007,0,2
+Pipit des arbres,2018,0,15
+Rémiz penduline,2007,0,1
+Sterne hansel,2008,0,1
+Vautour moine,2017,0,1

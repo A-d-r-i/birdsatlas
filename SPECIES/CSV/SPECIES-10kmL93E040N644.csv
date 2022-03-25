@@ -1,51 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bruant jaune"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,5
+Autour des palombes,2015,0,1
+Bécasse des bois,2008,0,1
+Bergeronnette printanière,2017,0,4
+Bernache du Canada,2009,0,1
+Bruant jaune,2009,0,1
+Butor étoilé,2011,0,1
+Canard chipeau,2011,0,2
+Canard pilet,2014,0,1
+Chevalier gambette,2011,0,1
+Cigogne noire,2011,0,1
+Cochevis huppé,2014,0,4
+Courlis cendré,2010,0,4
+Cygne tuberculé,2018,0,24
+Échasse blanche,2017,0,5
+Engoulevent d'Europe,2018,0,12
+Faucon émerillon,2011,0,1
+Faucon hobereau,2018,0,9
+Fauvette grisette,2017,0,12
+Fauvette pitchou,2018,0,24
+Foulque macroule,2018,0,10
+Gobemouche gris,2017,0,10
+Gobemouche noir,2015,0,3
+Goéland brun,2015,0,1
+Goéland leucophée,2016,0,8
+Grosbec casse-noyaux,2015,0,3
+Guêpier d'Europe,2013,0,1
+Hibou moyen-duc,2018,0,1
+Hirondelle de rivage,2014,0,2
+Ibis falcinelle,2017,0,1
+Ibis sacré,2012,0,1
+Locustelle tachetée,2011,0,5
+Milan royal,2011,0,2
+Oie cendrée,2018,0,1
+Pigeon colombin,2015,0,3
+Pinson du Nord,2017,0,2
+Pipit rousseline,2016,0,7
+Pipit spioncelle,2017,0,3
+Pouillot de Bonelli,2016,0,4
+Pouillot fitis,2011,0,2
+Pouillot siffleur,2007,0,1
+Râle d'eau,2015,0,5
+Roitelet huppé,2015,0,7
+Rousserolle effarvatte,2018,0,4
+Tadorne de Belon,2018,0,2
+Torcol fourmilier,2016,0,6
+Tourterelle des bois,2016,0,22
+Traquet motteux,2008,0,1

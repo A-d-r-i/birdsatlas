@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette des champs"
-"0";"Bergeronnette grise"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Fauvette à tête noire"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Grimpereau des bois"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle rustique"
-"0";"Linotte mélodieuse"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Pouillot véloce"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Troglodyte mignon"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2015,0,2
+Alouette des champs,2014,0,1
+Bergeronnette grise,2014,0,1
+Bruant des roseaux,2014,0,1
+Bruant jaune,2014,0,2
+Canard colvert,2016,0,1
+Chardonneret élégant,2015,0,1
+Chevêche d'Athéna,2010,0,2
+Choucas des tours,2014,0,1
+Chouette hulotte,2016,0,2
+Épervier d'Europe,2015,0,1
+Faucon crécerelle,2015,0,1
+Fauvette à tête noire,2009,0,1
+Fauvette babillarde,2015,0,1
+Fauvette des jardins,2009,0,1
+Grimpereau des bois,2009,0,1
+Grimpereau des jardins,2014,0,1
+Grive draine,2015,0,4
+Grive litorne,2015,0,2
+Grive musicienne,2014,0,2
+Grosbec casse-noyaux,2009,0,1
+Héron cendré,2015,0,1
+Hirondelle rustique,2016,0,4
+Linotte mélodieuse,2014,0,1
+Mésange à longue queue,2009,0,1
+Mésange noire,2016,0,1
+Milan noir,2014,0,1
+Pipit farlouse,2015,0,3
+Pouillot fitis,2009,0,1
+Pouillot siffleur,2009,0,1
+Pouillot véloce,2014,0,2
+Râle d'eau,2015,0,2
+Roitelet à triple bandeau,2009,0,1
+Roitelet huppé,2009,0,1
+Tarier pâtre,2014,0,1
+Tarin des aulnes,2015,0,1
+Troglodyte mignon,2015,0,4
+Verdier d'Europe,2016,0,2

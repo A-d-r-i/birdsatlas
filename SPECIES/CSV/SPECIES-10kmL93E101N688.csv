@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Grand Cormoran"
-"0";"Locustelle tachetée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2017,0,1
+Busard des roseaux,2016,0,1
+Busard Saint-Martin,2016,0,2
+Caille des blés,2017,0,1
+Chevalier guignette,2013,0,1
+Chevêche d'Athéna,2016,0,1
+Cigogne blanche,2018,0,1
+Faucon hobereau,2018,0,3
+Faucon pèlerin,2014,0,1
+Grand Cormoran,2016,0,1
+Locustelle tachetée,2016,0,3
+Pie-grièche à tête rousse,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2017,0,3
+Rousserolle verderolle,2009,0,1
+Serin cini,2015,0,6
+Torcol fourmilier,2016,0,2
+Tourterelle des bois,2009,0,1
+Vanneau huppé,2015,0,2

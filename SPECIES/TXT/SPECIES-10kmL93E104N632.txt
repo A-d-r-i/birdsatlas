@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bruant des neiges
-0        Bruant ortolan
-0        Canard colvert
-0        Cassenoix moucheté
-0        Chevêchette d'Europe
-0        Chocard à bec jaune
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Faisan vénéré
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fauvette passerinette
-0        Fauvette pitchou
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Guêpier d'Europe
-0        Héron cendré
-0        Hirondelle rousseline
-0        Huppe fasciée
-0        Linotte mélodieuse
-0        Merle à plastron
-0        Mésange boréale
-0        Monticole de roche
-0        Perdrix grise
-0        Pie bavarde
-0        Pinson du Nord
-0        Pipit rousseline
-0        Rougequeue à front blanc
-0        Tarier pâtre
-0        Tétras lyre
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Tourterelle turque
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette des champs      2009    0        1
+Bruant des neiges        2013    0        1
+Bruant ortolan           2014    0        1
+Canard colvert           2011    0        1
+Cassenoix moucheté       2012    0        1
+Chevêchette d'Europe     2014    0        1
+Chocard à bec jaune      2015    0        4
+Engoulevent d'Europe     2017    0        6
+Étourneau sansonnet      2017    0        9
+Faisan vénéré            2010    0        1
+Faucon hobereau          2009    0        1
+Faucon pèlerin           2016    0        5
+Fauvette grisette        2014    0        1
+Fauvette passerinette    2017    0        7
+Fauvette pitchou         2014    0        3
+Grand Cormoran           2016    0        4
+Grand-duc d'Europe       2018    0        3
+Guêpier d'Europe         2014    0        1
+Héron cendré             2018    0        9
+Hirondelle rousseline    2014    0        1
+Huppe fasciée            2013    0        4
+Linotte mélodieuse       2016    0        6
+Merle à plastron         2017    0        1
+Mésange boréale          2013    0        1
+Monticole de roche       2014    0        7
+Perdrix grise            2013    0        1
+Pie bavarde              2018    0        35
+Pinson du Nord           2009    0        1
+Pipit rousseline         2009    0        1
+Rougequeue à front blanc 2011    0        2
+Tarier pâtre             2010    0        1
+Tétras lyre              2010    0        2
+Tichodrome échelette     2016    0        5
+Torcol fourmilier        2017    0        14
+Tourterelle turque       2015    0        9
 

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau variable"
-"0";"Bergeronnette printanière"
-"0";"Busard Saint-Martin"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Fauvette pitchou"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Grand Gravelot"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Rollier d'Europe"
-"0";"Spatule blanche"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,1
+Avocette élégante,2017,0,2
+Barge à queue noire,2017,0,1
+Bécasseau sanderling,2017,0,1
+Bécasseau variable,2013,0,1
+Bergeronnette printanière,2017,0,1
+Busard Saint-Martin,2017,0,2
+Cigogne noire,2017,0,3
+Combattant varié,2017,0,4
+Corbeau freux,2016,0,8
+Fauvette pitchou,2016,0,1
+Gobemouche noir,2015,0,1
+Goéland brun,2016,0,1
+Grand Gravelot,2017,0,1
+Grosbec casse-noyaux,2018,0,6
+Guifette noire,2018,0,1
+Hibou moyen-duc,2018,0,1
+Moineau friquet,2017,0,15
+Oie cendrée,2015,0,1
+Petit-duc scops,2018,0,5
+Pipit spioncelle,2010,0,2
+Pouillot de Bonelli,2009,0,1
+Rollier d'Europe,2016,0,2
+Spatule blanche,2016,0,1
+Traquet motteux,2018,0,1

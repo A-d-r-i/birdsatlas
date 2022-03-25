@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier stagnatile"
-"0";"Cigogne blanche"
-"0";"Fauvette babillarde"
-"0";"Gélinotte des bois"
-"0";"Gobemouche noir"
-"0";"Pie-grièche grise"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,3
+Bergeronnette printanière,2018,0,2
+Busard des roseaux,2017,0,1
+Busard Saint-Martin,2016,0,1
+Chevalier stagnatile,2016,0,1
+Cigogne blanche,2018,0,1
+Fauvette babillarde,2012,0,3
+Gélinotte des bois,2009,0,1
+Gobemouche noir,2013,0,1
+Pie-grièche grise,2014,0,4
+Rémiz penduline,2012,0,4
+Sarcelle d'hiver,2018,0,1
+Sizerin flammé,2018,0,1
+Vanneau huppé,2018,0,2

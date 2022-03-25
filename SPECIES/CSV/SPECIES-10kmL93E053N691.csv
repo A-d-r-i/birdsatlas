@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Circaète Jean-le-Blanc"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Mouette tridactyle"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bec-croisé des sapins,2017,0,2
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bergeronnette printanière,2009,0,2
+Bruant des roseaux,2009,0,1
+Bruant proyer,2015,0,1
+Bruant zizi,2009,0,2
+Caille des blés,2015,0,2
+Circaète Jean-le-Blanc,2009,0,1
+Corbeau freux,2018,0,4
+Courlis cendré,2009,0,1
+Cygne tuberculé,2009,0,1
+Épervier d'Europe,2016,0,10
+Faisan de Colchide,2015,0,3
+Faucon hobereau,2015,0,10
+Fauvette des jardins,2009,0,1
+Foulque macroule,2019,0,2
+Grèbe huppé,2009,0,1
+Locustelle tachetée,2009,0,1
+Mésange à longue queue,2015,0,33
+Mésange noire,2009,0,2
+Moineau friquet,2009,0,1
+Mouette rieuse,2018,0,3
+Mouette tridactyle,2018,0,1
+Perdrix rouge,2015,0,1
+Phragmite des joncs,2009,0,1
+Pic épeichette,2015,0,6
+Pic mar,2009,0,2
+Pic noir,2009,0,1
+Pigeon colombin,2009,0,1
+Pinson du Nord,2012,0,1
+Pluvier doré,2009,0,1
+Râle d'eau,2009,0,1
+Rougequeue à front blanc,2013,0,2
+Serin cini,2013,0,2
+Tarin des aulnes,2014,0,4
+Torcol fourmilier,2012,0,1
+Vanneau huppé,2009,0,1

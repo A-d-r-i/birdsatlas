@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant jaune
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard colvert
-0        Chevalier culblanc
-0        Cigogne noire
-0        Corbeau freux
-0        Crave à bec rouge
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Goéland leucophée
-0        Gorgebleue à miroir
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Hirondelle rousseline
-0        Merle à plastron
-0        Monticole de roche
-0        Niverolle alpine
-0        Oie cendrée
-0        Petit Gravelot
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pigeon biset domestique
-0        Pipit spioncelle
-0        Pouillot à grands sourcils
-0        Pouillot fitis
-0        Traquet motteux
-0        Venturon montagnard
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Alouette des champs        2017    0        6
+Autour des palombes        2013    0        5
+Bécassine des marais       2017    0        1
+Bergeronnette printanière  2009    0        1
+Bouvreuil pivoine          2015    0        3
+Bruant des roseaux         2012    0        6
+Bruant fou                 2016    0        10
+Bruant jaune               2012    0        5
+Bruant proyer              2017    0        5
+Busard des roseaux         2018    0        3
+Busard Saint-Martin        2017    0        1
+Caille des blés            2014    0        1
+Canard colvert             2012    0        4
+Chevalier culblanc         2012    0        2
+Cigogne noire              2010    0        1
+Corbeau freux              2018    0        2
+Crave à bec rouge          2015    0        19
+Engoulevent d'Europe       2014    0        6
+Faucon pèlerin             2017    0        27
+Fauvette grisette          2013    0        1
+Fauvette orphée            2009    0        1
+Fauvette pitchou           2016    0        28
+Gallinule poule-d'eau      2009    0        1
+Goéland leucophée          2007    0        1
+Gorgebleue à miroir        2009    0        1
+Grand-duc d'Europe         2018    0        17
+Grive mauvis               2012    0        7
+Hirondelle rousseline      2008    0        1
+Merle à plastron           2015    0        3
+Monticole de roche         2013    0        7
+Niverolle alpine           2010    0        2
+Oie cendrée                2016    0        1
+Petit Gravelot             2012    0        3
+Pic épeichette             2018    0        9
+Pie-grièche écorcheur      2017    0        2
+Pigeon biset domestique    2018    0        13
+Pipit spioncelle           2015    0        2
+Pouillot à grands sourcils 2016    0        1
+Pouillot fitis             2017    0        5
+Traquet motteux            2013    0        3
+Venturon montagnard        2018    0        16
 

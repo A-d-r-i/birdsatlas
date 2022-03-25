@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cigogne noire"
-"0";"Fauvette des jardins"
-"0";"Locustelle tachetée"
-"0";"Oie cendrée"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Cigogne noire,2009,0,1
+Fauvette des jardins,2009,0,1
+Locustelle tachetée,2009,0,1
+Oie cendrée,2018,0,2
+Sizerin cabaret,2019,0,1
+Sizerin flammé,2019,0,1

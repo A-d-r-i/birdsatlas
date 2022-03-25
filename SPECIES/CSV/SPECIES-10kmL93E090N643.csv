@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant proyer"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Gélinotte des bois"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pipit farlouse"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,1
+Alouette lulu,2014,0,6
+Bécasse des bois,2016,0,5
+Bergeronnette printanière,2014,0,4
+Bruant proyer,2018,0,11
+Canard souchet,2012,0,1
+Chevalier culblanc,2015,0,2
+Chevalier sylvain,2008,0,1
+Chevêche d'Athéna,2015,0,2
+Corbeau freux,2014,0,1
+Engoulevent d'Europe,2013,0,1
+Faisan vénéré,2010,0,1
+Faucon émerillon,2016,0,1
+Gélinotte des bois,2010,0,2
+Huppe fasciée,2018,0,5
+Hypolaïs polyglotte,2017,0,1
+Jaseur boréal,2009,0,2
+Loriot d'Europe,2014,0,3
+Martin-pêcheur d'Europe,2014,0,1
+Oie cendrée,2013,0,1
+Perdrix grise,2017,0,1
+Petit-duc scops,2009,0,9
+Pipit farlouse,2015,0,5
+Pouillot siffleur,2017,0,4
+Rousserolle verderolle,2018,0,1
+Sarcelle d'hiver,2007,0,1
+Sizerin cabaret,2015,0,3
+Sizerin flammé,2015,0,4
+Tourterelle des bois,2010,0,2
+Vanneau huppé,2014,0,1

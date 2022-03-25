@@ -1,51 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau tacheté"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Chevalier stagnatile"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Courlis corlieu"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Cygne noir"
-"0";"Dendrocygne fauve"
-"0";"Fauvette orphée"
-"0";"Glaréole à collier"
-"0";"Grand Labbe"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hibou des marais"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rousseline"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Mouette tridactyle"
-"0";"Nette demi-deuil"
-"0";"Océanite culblanc"
-"0";"Oedicnème criard"
-"0";"Oie à bec court"
-"0";"Oie des moissons"
-"0";"Pélican frisé"
-"0";"Petit-duc scops"
-"0";"Phragmite aquatique"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pouillot ibérique"
-"0";"Rémiz penduline"
-"0";"Sterne caugek"
+frname,lastobs,newcount,oldcount
+Barge rousse,2016,0,14
+Bécasseau maubèche,2018,0,2
+Bécasseau minute,2014,0,15
+Bécasseau tacheté,2011,0,4
+Bécassine sourde,2016,0,16
+Bec-croisé des sapins,2015,0,2
+Bergeronnette flavéole (M.f.flavissima),2014,0,8
+Bernache nonnette,2018,0,70
+Busard cendré,2014,0,2
+Canard mandarin,2018,0,2
+Chevalier arlequin,2018,0,63
+Chevalier stagnatile,2014,0,2
+Cochevis huppé,2014,0,3
+Corbeau freux,2010,0,1
+Courlis corlieu,2010,0,2
+Crabier chevelu,2016,0,31
+Cygne chanteur,2009,0,27
+Cygne de Bewick,2011,0,5
+Cygne noir,2017,0,11
+Dendrocygne fauve,2011,0,1
+Fauvette orphée,2013,0,1
+Glaréole à collier,2014,0,2
+Grand Labbe,2017,0,1
+Gravelot à collier interrompu,2014,0,2
+Grèbe à cou noir,2017,0,2
+Guifette moustac,2018,0,6
+Guifette noire,2017,0,18
+Hibou des marais,2017,0,1
+Hirondelle de rochers,2010,0,1
+Hirondelle rousseline,2011,0,1
+Ibis sacré,2010,0,37
+Locustelle tachetée,2016,0,6
+Mouette tridactyle,2009,0,5
+Nette demi-deuil,2012,0,1
+Océanite culblanc,2009,0,1
+Oedicnème criard,2012,0,4
+Oie à bec court,2009,0,1
+Oie des moissons,2018,0,7
+Pélican frisé,2016,0,1
+Petit-duc scops,2015,0,2
+Phragmite aquatique,2012,0,1
+Phragmite des joncs,2015,0,4
+Pie-grièche à tête rousse,2016,0,3
+Pie-grièche méridionale,2013,0,1
+Pigeon colombin,2018,0,30
+Pouillot ibérique,2010,0,3
+Rémiz penduline,2015,0,4
+Sterne caugek,2010,0,3

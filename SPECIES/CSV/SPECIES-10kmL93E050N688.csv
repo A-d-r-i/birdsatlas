@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Grèbe castagneux"
-"0";"Mésange noire"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2013,0,3
+Caille des blés,2009,0,1
+Grèbe castagneux,2009,0,1
+Mésange noire,2009,0,1
+Serin cini,2009,0,1

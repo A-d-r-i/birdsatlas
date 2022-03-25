@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Bruant ortolan"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Cincle plongeur"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Fuligule nyroca"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Huppe fasciée"
-"0";"Mouette pygmée"
-"0";"Perdrix grise"
-"0";"Pic cendré"
-"0";"Rémiz penduline"
-"0";"Sizerin flammé"
-"0";"Sterne caspienne"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,1
+Bernache nonnette,2015,0,1
+Bruant ortolan,2013,0,3
+Butor étoilé,2018,0,4
+Caille des blés,2012,0,2
+Cincle plongeur,2009,0,1
+Courlis corlieu,2018,0,3
+Faucon émerillon,2017,0,5
+Fuligule nyroca,2015,0,1
+Grèbe esclavon,2013,0,8
+Grèbe jougris,2014,0,29
+Grimpereau des bois,2017,0,3
+Héron pourpré,2017,0,2
+Hibou moyen-duc,2017,0,3
+Hirondelle rousseline,2015,0,1
+Huppe fasciée,2013,0,1
+Mouette pygmée,2011,0,2
+Perdrix grise,2012,0,2
+Pic cendré,2009,0,1
+Rémiz penduline,2009,0,1
+Sizerin flammé,2017,0,4
+Sterne caspienne,2012,0,1
+Vautour fauve,2016,0,1

@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Garrot à oeil d'or"
-"0";"Grive mauvis"
-"0";"Harle bièvre"
-"0";"Labbe parasite"
-"0";"Océanite culblanc"
-"0";"Phalarope à bec large"
-"0";"Pipit maritime"
-"0";"Pouillot à grands sourcils"
+frname,lastobs,newcount,oldcount
+Combattant varié,2018,0,1
+Corbeau freux,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Garrot à oeil d'or,2009,0,1
+Grive mauvis,2019,0,2
+Harle bièvre,2009,0,1
+Labbe parasite,2017,0,1
+Océanite culblanc,2018,0,1
+Phalarope à bec large,2018,0,3
+Pipit maritime,2018,0,1
+Pouillot à grands sourcils,2018,0,1

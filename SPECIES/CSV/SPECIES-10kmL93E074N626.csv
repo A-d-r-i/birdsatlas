@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Avocette élégante"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Bruant ortolan"
-"0";"Buse pattue"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette orphée"
-"0";"Grand Corbeau"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle rousseline"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Monticole de roche"
-"0";"Nette rousse"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Sterne hansel"
+frname,lastobs,newcount,oldcount
+Aigle criard,2018,0,1
+Avocette élégante,2014,0,2
+Bécassine des marais,2017,0,9
+Bécassine sourde,2017,0,1
+Bec-croisé des sapins,2012,0,1
+Bouvreuil pivoine,2013,0,1
+Bruant ortolan,2014,0,4
+Buse pattue,2018,0,56
+Chevalier guignette,2018,0,21
+Chevalier sylvain,2018,0,5
+Faucon d'Eléonore,2018,0,7
+Fauvette des jardins,2014,0,2
+Fauvette grisette,2018,0,3
+Fauvette orphée,2017,0,19
+Grand Corbeau,2016,0,3
+Grand Gravelot,2016,0,1
+Grèbe castagneux,2016,0,4
+Grive litorne,2018,0,5
+Grive mauvis,2019,0,2
+Grosbec casse-noyaux,2018,0,4
+Héron pourpré,2018,0,5
+Hirondelle rousseline,2017,0,4
+Locustelle tachetée,2018,0,3
+Martin-pêcheur d'Europe,2018,0,8
+Mésange noire,2019,0,4
+Monticole de roche,2009,0,1
+Nette rousse,2015,0,1
+Petit Gravelot,2018,0,38
+Pigeon colombin,2017,0,2
+Pinson du Nord,2015,0,1
+Râle des genêts,2014,0,1
+Rémiz penduline,2017,0,1
+Rousserolle turdoïde,2018,0,2
+Sarcelle d'hiver,2015,0,1
+Sterne hansel,2016,0,1

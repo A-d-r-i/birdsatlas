@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine sourde
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Caille des blés
-0        Canard souchet
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Foulque macroule
-0        Fuligule milouin
-0        Gobemouche gris
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive draine
-0        Grive litorne
-0        Hibou des marais
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau friquet
-0        Perruche à collier
-0        Pipit des arbres
-0        Rousserolle effarvatte
-0        Serin cini
-0        Tarin des aulnes
-0        Tourterelle des bois
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigrette garzette           2018    0        1
+Bécassine sourde            2009    0        1
+Bergeronnette des ruisseaux 2009    0        2
+Bondrée apivore             2016    0        1
+Bouvreuil pivoine           2009    0        2
+Bruant des roseaux          2009    0        2
+Busard cendré               2015    0        2
+Busard des roseaux          2009    0        2
+Caille des blés             2009    0        1
+Canard souchet              2009    0        1
+Faucon hobereau             2009    0        1
+Fauvette babillarde         2009    0        1
+Fauvette des jardins        2009    0        1
+Fauvette grisette           2009    0        1
+Foulque macroule            2009    0        2
+Fuligule milouin            2009    0        1
+Gobemouche gris             2009    0        1
+Grande Aigrette             2009    0        1
+Grèbe castagneux            2009    0        1
+Grive draine                2009    0        2
+Grive litorne               2009    0        1
+Hibou des marais            2009    0        1
+Hypolaïs polyglotte         2009    0        1
+Locustelle tachetée         2009    0        1
+Mésange huppée              2009    0        1
+Mésange noire               2009    0        1
+Mésange nonnette            2009    0        2
+Moineau friquet             2009    0        2
+Perruche à collier          2009    0        1
+Pipit des arbres            2009    0        1
+Rousserolle effarvatte      2009    0        1
+Serin cini                  2009    0        2
+Tarin des aulnes            2009    0        1
+Tourterelle des bois        2009    0        1
 

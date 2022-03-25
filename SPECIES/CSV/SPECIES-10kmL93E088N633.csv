@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Coucou geai"
-"0";"Crave à bec rouge"
-"0";"Échasse blanche"
-"0";"Faisan de Colchide"
-"0";"Faucon d'Eléonore"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette pitchou"
-"0";"Grand-duc d'Europe"
-"0";"Héron pourpré"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Merle à plastron"
-"0";"Milan royal"
-"0";"Moineau soulcie"
-"0";"Oedicnème criard"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'hiver"
-"0";"Tarin des aulnes"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,14
+Aigle botté,2015,0,1
+Aigrette garzette,2016,0,1
+Autour des palombes,2016,0,10
+Bécasse des bois,2012,0,4
+Bécassine des marais,2012,0,2
+Bihoreau gris,2011,0,3
+Bouscarle de Cetti,2018,0,4
+Bouvreuil pivoine,2012,0,3
+Bruant des roseaux,2013,0,15
+Bruant ortolan,2012,0,7
+Busard cendré,2009,0,4
+Busard des roseaux,2017,0,8
+Caille des blés,2014,0,11
+Canard carolin,2016,0,5
+Chevalier guignette,2014,0,5
+Cigogne blanche,2011,0,1
+Coucou geai,2009,0,2
+Crave à bec rouge,2010,0,1
+Échasse blanche,2015,0,2
+Faisan de Colchide,2010,0,2
+Faucon d'Eléonore,2009,0,1
+Faucon hobereau,2018,0,7
+Faucon kobez,2013,0,1
+Fauvette babillarde,2009,0,1
+Fauvette pitchou,2010,0,2
+Grand-duc d'Europe,2013,0,7
+Héron pourpré,2018,0,3
+Hirondelle rousseline,2009,0,1
+Hypolaïs polyglotte,2017,0,6
+Merle à plastron,2012,0,2
+Milan royal,2013,0,3
+Moineau soulcie,2012,0,2
+Oedicnème criard,2009,0,2
+Pie-grièche méridionale,2009,0,3
+Pigeon colombin,2014,0,6
+Pipit des arbres,2016,0,28
+Pipit farlouse,2019,0,7
+Pipit rousseline,2017,0,10
+Pipit spioncelle,2014,0,3
+Pouillot siffleur,2011,0,1
+Sarcelle d'hiver,2014,0,3
+Tarin des aulnes,2017,0,9
+Vautour moine,2016,0,6

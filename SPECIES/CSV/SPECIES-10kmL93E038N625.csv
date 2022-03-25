@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Faucon émerillon"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,1
+Bécasseau tacheté,2010,0,1
+Bécasse des bois,2015,0,3
+Bruant des roseaux,2017,0,13
+Bruant fou,2011,0,1
+Bruant jaune,2014,0,3
+Bruant ortolan,2011,0,1
+Busard cendré,2017,0,1
+Caille des blés,2015,0,3
+Canard chipeau,2014,0,24
+Courlis cendré,2012,0,1
+Crabier chevelu,2016,0,4
+Faucon émerillon,2013,0,4
+Gorgebleue à miroir,2011,0,1
+Grand Gravelot,2018,0,2
+Grèbe à cou noir,2017,0,1
+Grosbec casse-noyaux,2018,0,10
+Héron pourpré,2018,0,5
+Hibou moyen-duc,2018,0,1
+Hirondelle de rivage,2014,0,2
+Mésange huppée,2016,0,3
+Moineau friquet,2009,0,1
+Oie cendrée,2017,0,1
+Pipit des arbres,2017,0,4
+Pouillot fitis,2015,0,3
+Rougequeue à front blanc,2012,0,1
+Sarcelle d'été,2012,0,1
+Traquet motteux,2013,0,4

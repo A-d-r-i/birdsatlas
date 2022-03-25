@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Avocette élégante"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Bruant ortolan"
-"0";"Caille des blés"
-"0";"Choucas des tours"
-"0";"Corneille mantelée"
-"0";"Fuligule morillon"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Goéland pontique"
-"0";"Grand Corbeau"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Mouette pygmée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Puffin cendré"
-"0";"Sterne arctique"
-"0";"Sterne naine"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2015,0,3
+Avocette élégante,2015,0,1
+Bernache cravant,2016,0,4
+Bondrée apivore,2018,0,1
+Bruant ortolan,2015,0,1
+Caille des blés,2015,0,1
+Choucas des tours,2009,0,1
+Corneille mantelée,2016,0,3
+Fuligule morillon,2016,0,1
+Goéland à ailes blanches,2012,0,1
+Goéland bourgmestre,2015,0,2
+Goéland pontique,2013,0,4
+Grand Corbeau,2018,0,2
+Grèbe à cou noir,2017,0,1
+Grosbec casse-noyaux,2017,0,5
+Huppe fasciée,2015,0,1
+Loriot d'Europe,2018,0,3
+Martinet à ventre blanc,2018,0,1
+Martinet noir,2018,0,3
+Mésange noire,2017,0,1
+Mouette pygmée,2015,0,6
+Pie-grièche à tête rousse,2016,0,2
+Pipit à gorge rousse,2017,0,4
+Pipit de Richard,2017,0,12
+Pipit des arbres,2018,0,4
+Pouillot siffleur,2017,0,1
+Puffin cendré,2017,0,6
+Sterne arctique,2018,0,4
+Sterne naine,2009,0,1
+Tourterelle des bois,2015,0,4

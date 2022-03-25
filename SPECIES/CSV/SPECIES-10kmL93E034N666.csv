@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Busard des roseaux"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Perruche à collier"
-"0";"Pigeon colombin"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,2
+Bergeronnette des ruisseaux,2012,0,2
+Bergeronnette printanière,2015,0,2
+Bihoreau gris,2016,0,2
+Bondrée apivore,2012,0,3
+Bouvreuil pivoine,2007,0,1
+Busard des roseaux,2012,0,1
+Courlis cendré,2010,0,3
+Courlis corlieu,2008,0,1
+Faucon émerillon,2011,0,2
+Faucon pèlerin,2012,0,1
+Fauvette des jardins,2015,0,6
+Foulque macroule,2010,0,2
+Fuligule milouin,2010,0,2
+Gobemouche gris,2012,0,2
+Goéland brun,2013,0,8
+Grosbec casse-noyaux,2015,0,2
+Héron pourpré,2015,0,1
+Hibou des marais,2012,0,4
+Hibou moyen-duc,2016,0,3
+Loriot d'Europe,2018,0,6
+Mésange huppée,2010,0,2
+Mésange noire,2012,0,1
+Mouette mélanocéphale,2016,0,9
+Oie cendrée,2011,0,3
+Perruche à collier,2011,0,1
+Pigeon colombin,2011,0,3
+Pluvier argenté,2013,0,1
+Pluvier doré,2010,0,2
+Pouillot fitis,2011,0,2
+Rougequeue à front blanc,2015,0,1
+Sarcelle d'hiver,2011,0,2
+Serin cini,2014,0,3
+Tarier des prés,2016,0,5
+Tarin des aulnes,2011,0,4
+Traquet motteux,2015,0,5

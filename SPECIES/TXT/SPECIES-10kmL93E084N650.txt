@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bec-croisé des sapins
-0        Bernache nonnette
-0        Bruant ortolan
-0        Busard cendré
-0        Canard chipeau
-0        Canard mandarin
-0        Canard siffleur
-0        Cigogne noire
-0        Combattant varié
-0        Courlis corlieu
-0        Crabier chevelu
-0        Engoulevent d'Europe
-0        Faucon kobez
-0        Fauvette passerinette
-0        Fuligule milouin
-0        Garrot à oeil d'or
-0        Goéland cendré
-0        Hirondelle de rochers
-0        Huîtrier pie
-0        Nette rousse
-0        Oie cendrée
-0        Outarde canepetière
-0        Perdrix grise
-0        Petit-duc scops
-0        Pipit rousseline
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne pierregarin
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Barge à queue noire   2013    0        1
+Bec-croisé des sapins 2016    0        1
+Bernache nonnette     2010    0        5
+Bruant ortolan        2016    0        2
+Busard cendré         2017    0        7
+Canard chipeau        2010    0        5
+Canard mandarin       2011    0        2
+Canard siffleur       2009    0        2
+Cigogne noire         2017    0        5
+Combattant varié      2011    0        2
+Courlis corlieu       2016    0        1
+Crabier chevelu       2016    0        2
+Engoulevent d'Europe  2017    0        1
+Faucon kobez          2017    0        1
+Fauvette passerinette 2008    0        1
+Fuligule milouin      2017    0        3
+Garrot à oeil d'or    2010    0        2
+Goéland cendré        2015    0        2
+Hirondelle de rochers 2017    0        1
+Huîtrier pie          2016    0        1
+Nette rousse          2013    0        1
+Oie cendrée           2013    0        3
+Outarde canepetière   2015    0        1
+Perdrix grise         2018    0        5
+Petit-duc scops       2011    0        2
+Pipit rousseline      2017    0        2
+Pouillot siffleur     2016    0        4
+Sizerin cabaret       2018    0        2
+Sizerin flammé        2018    0        2
+Sterne pierregarin    2008    0        1
+Vautour fauve         2018    0        1
 

@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette lulu
-0        Autour des palombes
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Canard chipeau
-0        Canard souchet
-0        Chevalier gambette
-0        Cigogne noire
-0        Circaète Jean-le-Blanc
-0        Cygne chanteur
-0        Faucon émerillon
-0        Gobemouche gris
-0        Gobemouche noir
-0        Hibou des marais
-0        Hirondelle de rochers
-0        Locustelle tachetée
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Nette rousse
-0        Oie cendrée
-0        Petit Gravelot
-0        Pic cendré
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Tadorne de Belon
-0        Vautour fauve
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2017    0        4
+Alouette lulu             2013    0        5
+Autour des palombes       2018    0        26
+Bruant des roseaux        2016    0        15
+Busard des roseaux        2015    0        4
+Canard chipeau            2013    0        1
+Canard souchet            2015    0        6
+Chevalier gambette        2015    0        1
+Cigogne noire             2018    0        7
+Circaète Jean-le-Blanc    2013    0        4
+Cygne chanteur            2015    0        1
+Faucon émerillon          2013    0        4
+Gobemouche gris           2017    0        17
+Gobemouche noir           2015    0        2
+Hibou des marais          2011    0        1
+Hirondelle de rochers     2013    0        1
+Locustelle tachetée       2011    0        6
+Mésange noire             2017    0        18
+Mouette mélanocéphale     2013    0        1
+Nette rousse              2015    0        1
+Oie cendrée               2016    0        16
+Petit Gravelot            2014    0        1
+Pic cendré                2014    0        3
+Pie-grièche à tête rousse 2014    0        1
+Pie-grièche grise         2013    0        6
+Rousserolle turdoïde      2012    0        3
+Sarcelle d'été            2015    0        1
+Sarcelle d'hiver          2014    0        1
+Tadorne de Belon          2017    0        2
+Vautour fauve             2016    0        3
+Vautour moine             2012    0        1
 

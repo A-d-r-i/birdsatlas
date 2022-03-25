@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Choucas des tours
-0        Chouette hulotte
-0        Faucon pèlerin
-0        Fauvette orphée
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Grive musicienne
-0        Linotte mélodieuse
-0        Mésange huppée
-0        Mésange noire
-0        Moineau friquet
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic mar
-0        Pic noir
-0        Pipit des arbres
-0        Roitelet huppé
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigle botté         2017    0        2
+Alouette des champs 2016    0        1
+Autour des palombes 2015    0        1
+Bécasse des bois    2015    0        1
+Choucas des tours   2016    0        1
+Chouette hulotte    2018    0        3
+Faucon pèlerin      2017    0        1
+Fauvette orphée     2015    0        1
+Grive draine        2018    0        10
+Grive litorne       2016    0        1
+Grive mauvis        2016    0        3
+Grive musicienne    2018    0        9
+Linotte mélodieuse  2007    0        1
+Mésange huppée      2015    0        1
+Mésange noire       2019    0        1
+Moineau friquet     2014    0        1
+Phragmite des joncs 2015    0        1
+Pic épeichette      2015    0        2
+Pic mar             2018    0        4
+Pic noir            2018    0        2
+Pipit des arbres    2018    0        6
+Roitelet huppé      2018    0        1
+Tarin des aulnes    2016    0        4
+Torcol fourmilier   2016    0        5
+Traquet motteux     2017    0        5
 

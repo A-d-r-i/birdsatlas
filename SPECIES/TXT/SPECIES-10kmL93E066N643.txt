@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bec-croisé des sapins
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Goéland leucophée
-0        Grande Aigrette
-0        Harle bièvre
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bec-croisé des sapins  2016    0        3
+Busard des roseaux     2015    0        1
+Busard Saint-Martin    2013    0        1
+Goéland leucophée      2016    0        1
+Grande Aigrette        2019    0        2
+Harle bièvre           2018    0        1
+Pie-grièche grise      2016    0        1
+Pipit farlouse         2017    0        6
+Pouillot fitis         2012    0        1
+Rossignol philomèle    2009    0        2
+Rousserolle effarvatte 2015    0        1
+Sizerin cabaret        2018    0        1
+Sizerin flammé         2018    0        2
+Torcol fourmilier      2009    0        1
+Vanneau huppé          2015    0        2
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Perruche ondulée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,2
+Bécassine des marais,2015,0,1
+Bruant proyer,2017,0,11
+Butor étoilé,2011,0,1
+Canard chipeau,2016,0,11
+Canard mandarin,2009,0,2
+Effraie des clochers,2016,0,2
+Faucon émerillon,2017,0,5
+Fuligule milouin,2019,0,46
+Fuligule milouinan,2013,0,9
+Fuligule morillon,2018,0,8
+Goéland cendré,2009,0,2
+Grèbe à cou noir,2013,0,1
+Guifette noire,2017,0,1
+Harle bièvre,2010,0,2
+Hirondelle de rivage,2015,0,19
+Locustelle tachetée,2013,0,3
+Martinet à ventre blanc,2017,0,1
+Merle à plastron,2012,0,1
+Mésange boréale,2011,0,2
+Mésange noire,2018,0,47
+Oedicnème criard,2009,0,1
+Oie cendrée,2012,0,1
+Perdrix grise,2014,0,1
+Perruche ondulée,2015,0,1
+Pie-grièche à tête rousse,2014,0,1
+Pigeon colombin,2017,0,13
+Pipit des arbres,2018,0,19
+Pouillot de Bonelli,2018,0,14
+Râle d'eau,2011,0,1
+Rémiz penduline,2013,0,1
+Rousserolle effarvatte,2017,0,3
+Sarcelle d'été,2018,0,4
+Sarcelle d'hiver,2019,0,29
+Tarier des prés,2018,0,5
+Torcol fourmilier,2017,0,16
+Traquet motteux,2017,0,3

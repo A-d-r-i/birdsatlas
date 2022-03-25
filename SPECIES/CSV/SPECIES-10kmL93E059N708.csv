@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Barge rousse"
-"0";"Bergeronnette grise"
-"0";"Bernache nonnette"
-"0";"Bruant des neiges"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Épervier d'Europe"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Grand Gravelot"
-"0";"Grèbe esclavon"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Harelde boréale"
-"0";"Harle bièvre"
-"0";"Héron cendré"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange bleue"
-"0";"Oie rieuse"
-"0";"Phalarope à bec large"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin des Baléares"
-"0";"Sterne arctique"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,1
+Barge rousse,2018,0,2
+Bergeronnette grise,2016,0,1
+Bernache nonnette,2009,0,1
+Bruant des neiges,2018,0,3
+Busard des roseaux,2009,0,1
+Busard Saint-Martin,2009,0,1
+Canard colvert,2018,0,2
+Épervier d'Europe,2016,0,2
+Fuligule milouinan,2009,0,1
+Fuligule morillon,2018,0,1
+Grand Gravelot,2017,0,1
+Grèbe esclavon,2009,0,1
+Grive litorne,2009,0,1
+Grive mauvis,2009,0,1
+Harelde boréale,2018,0,1
+Harle bièvre,2009,0,1
+Héron cendré,2018,0,1
+Hirondelle de rivage,2017,0,1
+Martin-pêcheur d'Europe,2019,0,1
+Mésange bleue,2016,0,1
+Oie rieuse,2009,0,1
+Phalarope à bec large,2016,0,2
+Pluvier argenté,2018,0,2
+Pouillot à grands sourcils,2017,0,2
+Puffin des Baléares,2015,0,2
+Sterne arctique,2017,0,2

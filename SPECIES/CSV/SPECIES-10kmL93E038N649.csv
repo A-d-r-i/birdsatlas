@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bruant jaune"
-"0";"Choucas des tours"
-"0";"Combattant varié"
-"0";"Cygne noir"
-"0";"Eider à duvet"
-"0";"Flamant rose"
-"0";"Fou de Bassan"
-"0";"Gorgebleue à miroir"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe huppé"
-"0";"Guifette moustac"
-"0";"Guillemot de Troïl"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot de Bonelli"
-"0";"Sterne pierregarin"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2016,0,1
+Bruant jaune,2012,0,3
+Choucas des tours,2019,0,1
+Combattant varié,2017,0,8
+Cygne noir,2013,0,2
+Eider à duvet,2009,0,1
+Flamant rose,2016,0,1
+Fou de Bassan,2016,0,2
+Gorgebleue à miroir,2017,0,3
+Gravelot à collier interrompu,2014,0,5
+Grèbe huppé,2014,0,3
+Guifette moustac,2017,0,5
+Guillemot de Troïl,2017,0,1
+Locustelle tachetée,2018,0,14
+Merle à plastron,2018,0,1
+Mouette pygmée,2017,0,4
+Nette rousse,2015,0,1
+Oedicnème criard,2018,0,2
+Pie-grièche à tête rousse,2012,0,1
+Pouillot de Bonelli,2017,0,1
+Sterne pierregarin,2011,0,1
+Tarin des aulnes,2009,0,1

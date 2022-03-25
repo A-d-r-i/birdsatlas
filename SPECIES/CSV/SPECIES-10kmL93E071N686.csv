@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Busard cendré"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Paon bleu"
-"0";"Perruche à collier"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2013,0,2
+Busard cendré,2014,0,5
+Canard pilet,2012,0,1
+Chevalier aboyeur,2017,0,1
+Chevalier culblanc,2013,0,1
+Effraie des clochers,2015,0,5
+Fauvette des jardins,2014,0,12
+Gallinule poule-d'eau,2017,0,16
+Hirondelle de rivage,2015,0,7
+Locustelle tachetée,2017,0,11
+Mésange boréale,2014,0,6
+Mésange noire,2018,0,8
+Milan noir,2013,0,1
+Moineau friquet,2014,0,12
+Mouette mélanocéphale,2013,0,1
+Paon bleu,2017,0,1
+Perruche à collier,2014,0,18
+Pic épeichette,2017,0,10
+Pic noir,2018,0,12
+Pie-grièche écorcheur,2017,0,12
+Pouillot siffleur,2014,0,2
+Rousserolle effarvatte,2013,0,3
+Rousserolle verderolle,2010,0,2
+Tadorne de Belon,2012,0,1

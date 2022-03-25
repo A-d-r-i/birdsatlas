@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant ortolan"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Cincle plongeur"
-"0";"Courlis corlieu"
-"0";"Cygne de Bewick"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Mésange boréale"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2010,0,1
+Avocette élégante,2013,0,2
+Barge à queue noire,2010,0,3
+Barge rousse,2007,0,1
+Bécasse des bois,2016,0,6
+Bergeronnette flavéole (M.f.flavissima),2013,0,3
+Bruant ortolan,2016,0,3
+Calopsitte élégante,2013,0,2
+Canard mandarin,2014,0,5
+Cincle plongeur,2017,0,11
+Courlis corlieu,2010,0,1
+Cygne de Bewick,2018,0,2
+Cygne tuberculé,2018,0,79
+Échasse blanche,2016,0,2
+Garrot à oeil d'or,2017,0,69
+Goéland cendré,2009,0,2
+Gorgebleue à miroir,2014,0,1
+Guifette leucoptère,2011,0,2
+Guifette moustac,2017,0,52
+Harle huppé,2016,0,10
+Hibou des marais,2018,0,1
+Locustelle tachetée,2015,0,4
+Macreuse brune,2018,0,9
+Mésange boréale,2012,0,4
+Mouette tridactyle,2009,0,1
+Oie cendrée,2018,0,33
+Oie rieuse,2012,0,20
+Pie-grièche à tête rousse,2009,0,2
+Pie-grièche grise,2014,0,10
+Pipit spioncelle,2012,0,2
+Plongeon arctique,2018,0,5
+Pouillot à grands sourcils,2012,0,1
+Pouillot siffleur,2018,0,3
+Râle d'eau,2016,0,3
+Rémiz penduline,2018,0,2
+Roitelet huppé,2018,0,43
+Rollier d'Europe,2014,0,3
+Tadorne casarca,2014,0,2

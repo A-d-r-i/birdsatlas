@@ -1,39 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bruant des neiges
-0        Caille des blés
-0        Canard colvert
-0        Chevalier guignette
-0        Cigogne noire
-0        Cincle plongeur
-0        Coucou gris
-0        Effraie des clochers
-0        Fauvette à tête noire
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grive mauvis
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Mésange à longue queue
-0        Mésange huppée
-0        Mésange noire
-0        Mouette rieuse
-0        Perdrix grise
-0        Pic mar
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Serin cini
-0        Sterne pierregarin
-0        Tarier des prés
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Autour des palombes      2009    0        3
+Bruant des neiges        2010    0        2
+Caille des blés          2011    0        23
+Canard colvert           2018    0        12
+Chevalier guignette      2018    0        1
+Cigogne noire            2013    0        1
+Cincle plongeur          2018    0        9
+Coucou gris              2017    0        53
+Effraie des clochers     2010    0        3
+Fauvette babillarde      2010    0        2
+Fauvette des jardins     2015    0        16
+Gallinule poule-d'eau    2015    0        7
+Gobemouche gris          2010    0        2
+Grive mauvis             2013    0        6
+Hypolaïs polyglotte      2015    0        15
+Locustelle tachetée      2010    0        2
+Mésange à longue queue   2013    0        28
+Mésange huppée           2012    0        15
+Mésange noire            2009    0        9
+Mouette rieuse           2010    0        1
+Perdrix grise            2014    0        3
+Pic mar                  2012    0        4
+Pipit spioncelle         2013    0        4
+Pouillot de Bonelli      2011    0        2
+Pouillot fitis           2015    0        76
+Pouillot siffleur        2010    0        6
+Roitelet huppé           2012    0        13
+Rossignol philomèle      2018    0        37
+Rougequeue à front blanc 2010    0        13
+Serin cini               2012    0        12
+Sterne pierregarin       2018    0        1
+Tarier des prés          2018    0        3
+Torcol fourmilier        2010    0        2
+Tourterelle des bois     2015    0        49
 

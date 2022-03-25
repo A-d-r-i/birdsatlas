@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Gobemouche noir"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pluvier guignard"
-"0";"Rossignol philomèle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,6
+Bécasse des bois,2016,0,3
+Bruant des roseaux,2018,0,3
+Chevalier guignette,2018,0,1
+Cigogne blanche,2015,0,2
+Effraie des clochers,2017,0,1
+Gobemouche noir,2013,0,4
+Moineau friquet,2015,0,2
+Mouette tridactyle,2009,0,1
+Petit Gravelot,2008,0,1
+Pie-grièche grise,2016,0,4
+Pluvier guignard,2018,0,1
+Rossignol philomèle,2017,0,1
+Vanneau huppé,2015,0,1

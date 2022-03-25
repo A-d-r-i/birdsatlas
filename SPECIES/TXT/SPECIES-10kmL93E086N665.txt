@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau maubèche
-0        Bécasseau sanderling
-0        Bécasse des bois
-0        Bernache nonnette
-0        Butor étoilé
-0        Cigogne noire
-0        Cisticole des joncs
-0        Crabier chevelu
-0        Cygne noir
-0        Élanion blanc
-0        Faucon émerillon
-0        Faucon kobez
-0        Goéland brun
-0        Goéland cendré
-0        Grèbe jougris
-0        Harle piette
-0        Hibou des marais
-0        Ibis falcinelle
-0        Locustelle luscinioïde
-0        Marouette ponctuée
-0        Martinet à ventre blanc
-0        Merle à plastron
-0        Mésange noire
-0        Mouette pygmée
-0        Oie à tête barrée
-0        Oie des moissons
-0        Oie rieuse
-0        Pic cendré
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pipit à gorge rousse
-0        Pipit rousseline
-0        Plongeon imbrin
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Serin cini
-0        Spatule blanche
-0        Sterne naine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2017    0        1
+Bécasseau cocorli         2015    0        6
+Bécasseau de Temminck     2018    0        8
+Bécasseau maubèche        2013    0        2
+Bécasseau sanderling      2016    0        2
+Bécasse des bois          2015    0        1
+Bernache nonnette         2011    0        2
+Butor étoilé              2016    0        5
+Cigogne noire             2018    0        8
+Cisticole des joncs       2017    0        34
+Crabier chevelu           2010    0        3
+Cygne noir                2010    0        2
+Élanion blanc             2009    0        2
+Faucon émerillon          2018    0        18
+Faucon kobez              2015    0        1
+Goéland brun              2018    0        19
+Goéland cendré            2018    0        11
+Grèbe jougris             2018    0        27
+Harle piette              2016    0        13
+Hibou des marais          2012    0        1
+Ibis falcinelle           2016    0        3
+Locustelle luscinioïde    2018    0        2
+Marouette ponctuée        2009    0        1
+Martinet à ventre blanc   2013    0        1
+Merle à plastron          2016    0        1
+Mésange noire             2017    0        1
+Mouette pygmée            2018    0        1
+Oie à tête barrée         2014    0        4
+Oie des moissons          2016    0        8
+Oie rieuse                2009    0        1
+Pic cendré                2015    0        5
+Pie-grièche à tête rousse 2012    0        6
+Pie-grièche grise         2017    0        30
+Pipit à gorge rousse      2018    0        1
+Pipit rousseline          2015    0        3
+Plongeon imbrin           2017    0        24
+Pluvier doré              2018    0        20
+Pouillot de Bonelli       2017    0        1
+Serin cini                2018    0        8
+Spatule blanche           2018    0        11
+Sterne naine              2009    0        1
 

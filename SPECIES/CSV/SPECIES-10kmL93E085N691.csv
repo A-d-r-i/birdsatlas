@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Étourneau sansonnet"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,6
+Bec-croisé des sapins,2009,0,1
+Bergeronnette des ruisseaux,2018,0,1
+Bondrée apivore,2015,0,4
+Bruant des roseaux,2013,0,3
+Busard des roseaux,2014,0,4
+Chevalier guignette,2009,0,1
+Choucas des tours,2018,0,17
+Cigogne blanche,2013,0,2
+Courlis cendré,2009,0,1
+Étourneau sansonnet,2019,0,21
+Faucon émerillon,2015,0,1
+Faucon pèlerin,2013,0,2
+Fauvette des jardins,2018,0,8
+Gallinule poule-d'eau,2018,0,4
+Gobemouche gris,2018,0,3
+Grand Cormoran,2018,0,6
+Grèbe castagneux,2009,0,1
+Grèbe huppé,2009,0,1
+Grimpereau des bois,2009,0,1
+Grive mauvis,2019,0,1
+Grosbec casse-noyaux,2019,0,5
+Locustelle tachetée,2009,0,1
+Merle à plastron,2013,0,1
+Mésange à longue queue,2012,0,4
+Mésange noire,2009,0,1
+Mouette rieuse,2012,0,2
+Petit Gravelot,2009,0,1
+Phragmite des joncs,2009,0,1
+Pic cendré,2009,0,1
+Pigeon biset domestique,2018,0,12
+Pipit des arbres,2012,0,4
+Pipit farlouse,2009,0,1
+Pouillot fitis,2018,0,3
+Pouillot siffleur,2009,0,1
+Roitelet huppé,2019,0,2
+Rousserolle effarvatte,2013,0,3
+Tarin des aulnes,2019,0,1
+Vanneau huppé,2015,0,4

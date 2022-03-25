@@ -1,56 +1,56 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécassine des marais
-0        Bernache cravant
-0        Bernache nonnette
-0        Bihoreau gris
-0        Bruant ortolan
-0        Busard des roseaux
-0        Caille des blés
-0        Canard à collier noir
-0        Canard mandarin
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Cigogne noire
-0        Cincle plongeur
-0        Combattant varié
-0        Courlis cendré
-0        Cygne chanteur
-0        Cygne noir
-0        Eider à duvet
-0        Faucon émerillon
-0        Fuligule à tête noire
-0        Goéland argenté
-0        Goéland cendré
-0        Grand Corbeau
-0        Grand-duc d'Europe
-0        Grand Gravelot
-0        Grèbe jougris
-0        Harelde boréale
-0        Huîtrier pie
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Macreuse brune
-0        Macreuse noire
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Oedicnème criard
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Plongeon arctique
-0        Plongeon imbrin
-0        Pluvier argenté
-0        Rousserolle verderolle
-0        Serin cini
-0        Sterne caugek
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarier pâtre
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau minute       2016    0        3
+Bécasseau sanderling   2016    0        2
+Bécassine des marais   2018    0        4
+Bernache cravant       2011    0        3
+Bernache nonnette      2016    0        9
+Bihoreau gris          2011    0        1
+Bruant ortolan         2013    0        1
+Busard des roseaux     2018    0        6
+Caille des blés        2009    0        1
+Canard à collier noir  2009    0        1
+Canard mandarin        2015    0        3
+Chevalier arlequin     2012    0        1
+Chevalier gambette     2018    0        5
+Chevalier sylvain      2018    0        7
+Cigogne noire          2012    0        1
+Cincle plongeur        2017    0        8
+Combattant varié       2012    0        1
+Courlis cendré         2018    0        3
+Cygne chanteur         2012    0        4
+Cygne noir             2014    0        2
+Eider à duvet          2011    0        1
+Faucon émerillon       2017    0        7
+Fuligule à tête noire  2014    0        1
+Goéland argenté        2012    0        1
+Goéland cendré         2018    0        19
+Grand Corbeau          2013    0        2
+Grand-duc d'Europe     2014    0        1
+Grand Gravelot         2016    0        4
+Grèbe jougris          2017    0        8
+Harelde boréale        2017    0        5
+Huîtrier pie           2011    0        1
+Hypolaïs polyglotte    2011    0        2
+Linotte mélodieuse     2018    0        6
+Locustelle tachetée    2018    0        4
+Macreuse brune         2019    0        23
+Macreuse noire         2018    0        12
+Mésange noire          2013    0        1
+Mouette mélanocéphale  2015    0        1
+Oedicnème criard       2018    0        5
+Perdrix rouge          2012    0        2
+Phragmite des joncs    2014    0        1
+Pie-grièche grise      2017    0        1
+Pipit des arbres       2016    0        5
+Plongeon arctique      2008    0        1
+Plongeon imbrin        2009    0        2
+Pluvier argenté        2013    0        3
+Rousserolle verderolle 2012    0        4
+Serin cini             2018    0        4
+Sterne caugek          2018    0        1
+Tadorne de Belon       2017    0        14
+Tarier des prés        2017    0        3
+Tarier pâtre           2018    0        2
 

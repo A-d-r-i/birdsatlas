@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Autour des palombes"
-"0";"Bruant mélanocéphale"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Épervier d'Europe"
-"0";"Fauvette des jardins"
-"0";"Gobemouche à collier"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Moineau domestique"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pie bavarde"
-"0";"Pigeon ramier"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,1
+Autour des palombes,2017,0,1
+Bruant mélanocéphale,2017,0,1
+Busard des roseaux,2017,0,1
+Canard chipeau,2017,0,4
+Épervier d'Europe,2017,0,3
+Fauvette des jardins,2018,0,1
+Gobemouche à collier,2018,0,2
+Grive draine,2017,0,5
+Grosbec casse-noyaux,2018,0,2
+Hirondelle de fenêtre,2018,0,2
+Hirondelle rustique,2018,0,2
+Moineau domestique,2015,0,1
+Moineau friquet,2012,0,2
+Pic épeichette,2018,0,1
+Pie bavarde,2017,0,1
+Pigeon ramier,2018,0,2
+Pouillot fitis,2017,0,1
+Roitelet à triple bandeau,2018,0,3
+Roitelet huppé,2014,0,1
+Rousserolle effarvatte,2016,0,2

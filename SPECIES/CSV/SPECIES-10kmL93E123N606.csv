@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cormoran huppé"
-"0";"Océanite tempête"
+frname,lastobs,newcount,oldcount
+Cormoran huppé,2009,0,1
+Océanite tempête,2009,0,1

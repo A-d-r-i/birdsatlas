@@ -1,64 +1,64 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant zizi
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevalier sylvain
-0        Chouette hulotte
-0        Cigogne blanche
-0        Combattant varié
-0        Coucou gris
-0        Courlis cendré
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland brun
-0        Goéland cendré
-0        Grand Gravelot
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Héron pourpré
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Huîtrier pie
-0        Huppe fasciée
-0        Loriot d'Europe
-0        Mésange noire
-0        Milan royal
-0        Moineau friquet
-0        Mouette pygmée
-0        Perdrix grise
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pluvier argenté
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Serin cini
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Autour des palombes         2017    0        1
+Avocette élégante           2015    0        1
+Bécasseau cocorli           2015    0        2
+Bécasseau de Temminck       2018    0        1
+Bécasseau minute            2015    0        2
+Bécasseau sanderling        2016    0        2
+Bécasseau variable          2015    0        4
+Bécasse des bois            2009    0        1
+Bergeronnette des ruisseaux 2009    0        2
+Bondrée apivore             2009    0        1
+Bouvreuil pivoine           2009    0        2
+Bruant zizi                 2013    0        8
+Canard chipeau              2009    0        1
+Canard siffleur             2009    0        1
+Chevalier culblanc          2016    0        13
+Chevalier sylvain           2017    0        3
+Chouette hulotte            2018    0        6
+Cigogne blanche             2017    0        3
+Combattant varié            2017    0        9
+Coucou gris                 2009    0        1
+Courlis cendré              2017    0        2
+Effraie des clochers        2017    0        4
+Faucon émerillon            2009    0        1
+Faucon hobereau             2009    0        1
+Faucon pèlerin              2009    0        1
+Fuligule morillon           2009    0        1
+Gallinule poule-d'eau       2009    0        2
+Garrot à oeil d'or          2009    0        1
+Gobemouche gris             2016    0        1
+Gobemouche noir             2015    0        2
+Goéland brun                2009    0        1
+Goéland cendré              2012    0        1
+Grand Gravelot              2017    0        7
+Guifette moustac            2017    0        7
+Guifette noire              2016    0        9
+Harle bièvre                2009    0        1
+Héron pourpré               2015    0        1
+Hibou des marais            2016    0        1
+Hibou moyen-duc             2009    0        1
+Huîtrier pie                2018    0        1
+Huppe fasciée               2017    0        2
+Loriot d'Europe             2009    0        1
+Mésange noire               2018    0        3
+Milan royal                 2015    0        1
+Moineau friquet             2009    0        1
+Mouette pygmée              2017    0        3
+Perdrix grise               2018    0        3
+Pic épeichette              2015    0        3
+Pie-grièche écorcheur       2009    0        1
+Pie-grièche grise           2009    0        1
+Pigeon colombin             2009    0        2
+Pipit des arbres            2009    0        1
+Pluvier argenté             2016    0        5
+Pouillot de Bonelli         2009    0        1
+Pouillot fitis              2009    0        1
+Pouillot siffleur           2009    0        1
+Rougequeue à front blanc    2009    0        1
+Rousserolle effarvatte      2015    0        2
+Sarcelle d'hiver            2009    0        1
+Serin cini                  2009    0        1
 

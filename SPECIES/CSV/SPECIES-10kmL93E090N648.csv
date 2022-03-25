@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland argenté"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Mouette pygmée"
-"0";"Mouette rieuse"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pouillot à grands sourcils"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2019,0,3
+Bernache nonnette,2018,0,2
+Canard chipeau,2015,0,1
+Canard mandarin,2016,0,1
+Chouette de Tengmalm,2012,0,2
+Cigogne blanche,2015,0,3
+Engoulevent d'Europe,2016,0,1
+Faucon émerillon,2017,0,1
+Fuligule milouin,2016,0,1
+Fuligule morillon,2018,0,8
+Goéland argenté,2016,0,1
+Goéland cendré,2012,0,2
+Gorgebleue à miroir,2018,0,2
+Grèbe huppé,2018,0,8
+Héron pourpré,2016,0,6
+Jaseur boréal,2013,0,1
+Locustelle tachetée,2011,0,3
+Mésange boréale,2010,0,6
+Mouette pygmée,2018,0,2
+Mouette rieuse,2017,0,6
+Nette rousse,2019,0,4
+Oie cendrée,2018,0,1
+Pouillot à grands sourcils,2016,0,2
+Sizerin cabaret,2018,0,6
+Sizerin flammé,2018,0,6
+Tichodrome échelette,2017,0,1

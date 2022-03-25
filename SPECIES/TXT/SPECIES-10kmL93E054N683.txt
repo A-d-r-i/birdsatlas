@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Bruant proyer
-0        Caille des blés
-0        Choucas des tours
-0        Engoulevent d'Europe
-0        Fuligule morillon
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Perdrix rouge
-0        Pic épeichette
-0        Pic mar
-0        Pigeon biset domestique
-0        Pluvier doré
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Spatule blanche
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2018    0        1
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2009    0        1
+Bruant des roseaux        2009    0        1
+Bruant proyer             2009    0        1
+Caille des blés           2009    0        1
+Choucas des tours         2018    0        2
+Engoulevent d'Europe      2009    0        1
+Fuligule morillon         2009    0        1
+Grimpereau des bois       2009    0        1
+Grive litorne             2009    0        1
+Grive mauvis              2009    0        1
+Hibou moyen-duc           2009    0        1
+Locustelle tachetée       2009    0        1
+Loriot d'Europe           2009    0        1
+Martinet noir             2009    0        1
+Perdrix rouge             2018    0        3
+Pic épeichette            2009    0        2
+Pic mar                   2019    0        4
+Pigeon biset domestique   2009    0        1
+Pluvier doré              2019    0        4
+Roitelet à triple bandeau 2009    0        1
+Roitelet huppé            2019    0        3
+Rossignol philomèle       2009    0        1
+Rougequeue à front blanc  2018    0        3
+Spatule blanche           2017    0        1
 

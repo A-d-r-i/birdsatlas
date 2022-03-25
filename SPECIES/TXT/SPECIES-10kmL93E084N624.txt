@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau cocorli
-0        Bécasseau sanderling
-0        Bondrée apivore
-0        Caille des blés
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier gambette
-0        Corneille noire
-0        Crabier chevelu
-0        Échasse blanche
-0        Fauvette à lunettes
-0        Fauvette babillarde
-0        Goéland railleur
-0        Grand Cormoran
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Harle huppé
-0        Huîtrier pie
-0        Milan noir
-0        Moineau domestique
-0        Mouette pygmée
-0        Mouette rieuse
-0        Petit-duc scops
-0        Pingouin torda
-0        Pinson des arbres
-0        Pipit rousseline
-0        Pluvier argenté
-0        Pouillot fitis
-0        Rougequeue à front blanc
-0        Sterne caspienne
-0        Sterne naine
-0        Tarier des prés
-0        Tournepierre à collier
-0        Tourterelle des bois
-0        Traquet motteux
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Avocette élégante        2009    0        2
+Bécasseau cocorli        2011    0        1
+Bécasseau sanderling     2017    0        1
+Bondrée apivore          2018    0        1
+Caille des blés          2018    0        1
+Canard chipeau           2018    0        1
+Canard siffleur          2017    0        1
+Chevalier gambette       2009    0        2
+Corneille noire          2017    0        1
+Crabier chevelu          2018    0        1
+Échasse blanche          2018    0        3
+Fauvette à lunettes      2009    0        1
+Fauvette babillarde      2018    0        1
+Goéland railleur         2017    0        2
+Grand Cormoran           2018    0        2
+Grand Gravelot           2018    0        1
+Grèbe à cou noir         2017    0        2
+Harle huppé              2017    0        1
+Huîtrier pie             2018    0        3
+Milan noir               2018    0        1
+Moineau domestique       2018    0        2
+Mouette pygmée           2017    0        1
+Mouette rieuse           2018    0        2
+Petit-duc scops          2009    0        1
+Pingouin torda           2017    0        1
+Pinson des arbres        2018    0        1
+Pipit rousseline         2018    0        1
+Pluvier argenté          2017    0        1
+Pouillot fitis           2018    0        1
+Rougequeue à front blanc 2018    0        1
+Sterne caspienne         2010    0        1
+Sterne naine             2018    0        5
+Tarier des prés          2018    0        1
+Tournepierre à collier   2018    0        2
+Tourterelle des bois     2018    0        1
+Traquet motteux          2018    0        2
 

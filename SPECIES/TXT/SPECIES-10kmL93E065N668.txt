@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Foulque macroule
-0        Fuligule nyroca
-0        Goéland cendré
-0        Grèbe castagneux
-0        Harle bièvre
-0        Héron pourpré
-0        Perdrix rouge
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Sterne pierregarin
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Aigrette garzette                       2016    0        1
+Bécassine des marais                    2017    0        1
+Bergeronnette flavéole (M.f.flavissima) 2017    0        1
+Busard Saint-Martin                     2018    0        9
+Chevalier culblanc                      2016    0        2
+Chevêche d'Athéna                       2016    0        1
+Cigogne blanche                         2009    0        1
+Cygne tuberculé                         2017    0        2
+Engoulevent d'Europe                    2018    0        5
+Foulque macroule                        2018    0        8
+Fuligule nyroca                         2016    0        1
+Goéland cendré                          2014    0        1
+Grèbe castagneux                        2016    0        1
+Harle bièvre                            2009    0        1
+Héron pourpré                           2016    0        1
+Perdrix rouge                           2014    0        1
+Pipit spioncelle                        2015    0        2
+Pouillot de Bonelli                     2016    0        1
+Sterne pierregarin                      2018    0        1
 

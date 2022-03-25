@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Courlis cendré
-0        Grosbec casse-noyaux
-0        Monticole bleu
-0        Phragmite des joncs
-0        Pic épeichette
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Serin cini
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2014    0        1
+Courlis cendré            2018    0        1
+Grosbec casse-noyaux      2017    0        2
+Monticole bleu            2015    0        1
+Phragmite des joncs       2009    0        1
+Pic épeichette            2016    0        6
+Rougequeue à front blanc  2017    0        1
+Rousserolle effarvatte    2009    0        1
+Serin cini                2009    0        1
 

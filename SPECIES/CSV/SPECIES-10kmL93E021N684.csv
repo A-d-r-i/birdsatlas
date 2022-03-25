@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Canard musqué"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Huîtrier pie"
-"0";"Huppe fasciée"
-"0";"Marouette ponctuée"
-"0";"Oie cendrée"
-"0";"Paon bleu"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2009,0,1
+Barge à queue noire,2014,0,6
+Bécasseau maubèche,2010,0,3
+Bécasseau minute,2010,0,2
+Bécasseau variable,2017,0,10
+Bergeronnette printanière,2018,0,1
+Bernache cravant,2013,0,4
+Bernache du Canada,2007,0,5
+Bernache nonnette,2014,0,53
+Canard musqué,2017,0,28
+Combattant varié,2016,0,4
+Courlis corlieu,2015,0,1
+Cygne noir,2016,0,3
+Fuligule milouin,2018,0,6
+Fuligule milouinan,2008,0,1
+Grèbe à cou noir,2018,0,8
+Grosbec casse-noyaux,2011,0,2
+Guifette noire,2012,0,15
+Harle piette,2010,0,12
+Hibou moyen-duc,2009,0,1
+Huîtrier pie,2010,0,1
+Huppe fasciée,2009,0,1
+Marouette ponctuée,2012,0,1
+Oie cendrée,2015,0,3
+Paon bleu,2016,0,1
+Perdrix rouge,2017,0,1
+Petit Gravelot,2018,0,5
+Phragmite des joncs,2017,0,9
+Plongeon imbrin,2012,0,5
+Pluvier doré,2017,0,9
+Sizerin cabaret,2013,0,1
+Sizerin flammé,2013,0,1
+Sterne arctique,2015,0,1
+Sterne pierregarin,2017,0,11
+Tadorne casarca,2018,0,1
+Tadorne de Belon,2018,0,8
+Tarier des prés,2018,0,5

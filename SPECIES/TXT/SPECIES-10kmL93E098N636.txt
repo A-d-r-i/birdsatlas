@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bruant proyer
-0        Busard des roseaux
-0        Faucon hobereau
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hibou moyen-duc
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Sizerin flammé
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasse des bois     2009    0        1
+Bruant proyer        2016    0        1
+Busard des roseaux   2016    0        3
+Faucon hobereau      2018    0        3
+Grosbec casse-noyaux 2017    0        6
+Héron cendré         2016    0        2
+Hibou moyen-duc      2017    0        1
+Pipit rousseline     2015    0        2
+Pluvier guignard     2010    0        2
+Pouillot siffleur    2009    0        1
+Sizerin flammé       2009    0        1
 

@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasseau cocorli
-0        Bihoreau gris
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier arlequin
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Cigogne blanche
-0        Cincle plongeur
-0        Combattant varié
-0        Courlis cendré
-0        Cygne chanteur
-0        Goéland brun
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hibou des marais
-0        Merle à plastron
-0        Mésange boréale
-0        Mouette rieuse
-0        Perruche à collier
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Roitelet à triple bandeau
-0        Rousserolle turdoïde
-0        Serin cini
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2014    0        2
+Bécasseau cocorli         2013    0        1
+Bihoreau gris             2014    0        1
+Canard siffleur           2018    0        1
+Canard souchet            2016    0        4
+Chevalier arlequin        2017    0        1
+Chevalier guignette       2016    0        7
+Chevalier sylvain         2015    0        4
+Cigogne blanche           2013    0        3
+Cincle plongeur           2018    0        12
+Combattant varié          2013    0        1
+Courlis cendré            2013    0        1
+Cygne chanteur            2018    0        1
+Goéland brun              2007    0        1
+Héron garde-boeufs        2014    0        1
+Héron pourpré             2016    0        1
+Hibou des marais          2016    0        4
+Merle à plastron          2018    0        1
+Mésange boréale           2019    0        1
+Mouette rieuse            2016    0        2
+Perruche à collier        2015    0        1
+Petit Gravelot            2009    0        1
+Phragmite des joncs       2016    0        1
+Pie-grièche à tête rousse 2012    0        5
+Pie-grièche grise         2009    0        3
+Pouillot siffleur         2009    0        2
+Rémiz penduline           2016    0        3
+Roitelet à triple bandeau 2018    0        9
+Rousserolle turdoïde      2017    0        1
+Serin cini                2015    0        9
+Sizerin cabaret           2017    0        1
+Sizerin flammé            2017    0        1
 

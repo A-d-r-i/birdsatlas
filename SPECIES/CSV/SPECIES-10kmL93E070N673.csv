@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cygne tuberculé"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland cendré"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2012,0,5
+Bondrée apivore,2014,0,5
+Bruant proyer,2013,0,8
+Busard cendré,2010,0,1
+Busard Saint-Martin,2017,0,3
+Caille des blés,2010,0,4
+Chevalier culblanc,2014,0,1
+Chouette hulotte,2010,0,4
+Cygne tuberculé,2014,0,1
+Fauvette babillarde,2010,0,4
+Fuligule milouin,2011,0,2
+Gobemouche gris,2011,0,2
+Goéland cendré,2013,0,2
+Grèbe huppé,2018,0,4
+Grive litorne,2017,0,6
+Grive mauvis,2013,0,2
+Martinet noir,2016,0,2
+Mésange boréale,2010,0,4
+Mésange huppée,2010,0,7
+Mésange nonnette,2018,0,8
+Milan royal,2018,0,3
+Oedicnème criard,2009,0,2
+Perdrix grise,2011,0,2
+Perdrix rouge,2010,0,4
+Pipit farlouse,2013,0,1
+Pouillot fitis,2017,0,7
+Roitelet huppé,2013,0,9
+Rousserolle effarvatte,2010,0,4
+Sterne pierregarin,2009,0,1

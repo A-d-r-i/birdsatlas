@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bouvreuil pivoine"
-"0";"Canard mandarin"
-"0";"Chevalier aboyeur"
-"0";"Chouette hulotte"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Gorgebleue à miroir"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pluvier doré"
-"0";"Roitelet huppé"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,1
+Bouvreuil pivoine,2012,0,1
+Canard mandarin,2018,0,1
+Chevalier aboyeur,2016,0,2
+Chouette hulotte,2017,0,7
+Courlis cendré,2017,0,2
+Faucon émerillon,2018,0,1
+Faucon pèlerin,2013,0,1
+Gorgebleue à miroir,2018,0,1
+Grand Cormoran,2017,0,3
+Grèbe castagneux,2017,0,1
+Grive litorne,2017,0,17
+Grosbec casse-noyaux,2018,0,7
+Guêpier d'Europe,2015,0,1
+Hibou moyen-duc,2017,0,5
+Mésange noire,2013,0,3
+Moineau friquet,2013,0,7
+Pic cendré,2011,0,3
+Pic mar,2013,0,6
+Pluvier doré,2016,0,5
+Roitelet huppé,2017,0,6
+Sterne pierregarin,2017,0,1
+Torcol fourmilier,2016,0,1

@@ -1,55 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Cochevis huppé"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grand Gravelot"
-"0";"Grimpereau des jardins"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Milan noir"
-"0";"Mouette rieuse"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pic vert"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Râle des genêts"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rougegorge familier"
-"0";"Sittelle torchepot"
-"0";"Sterne pierregarin"
-"0";"Tarin des aulnes"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,3
+Bécasse des bois,2015,0,2
+Bergeronnette flavéole (M.f.flavissima),2017,0,1
+Bondrée apivore,2018,0,9
+Bouvreuil pivoine,2016,0,13
+Bruant des roseaux,2018,0,5
+Bruant zizi,2018,0,2
+Coucou gris,2016,0,7
+Engoulevent d'Europe,2015,0,4
+Faucon émerillon,2012,0,2
+Faucon hobereau,2017,0,11
+Fauvette babillarde,2016,0,7
+Fauvette des jardins,2018,0,11
+Fauvette grisette,2018,0,20
+Gobemouche gris,2016,0,8
+Gobemouche noir,2012,0,1
+Grand Cormoran,2017,0,2
+Grand Gravelot,2016,0,1
+Grimpereau des jardins,2016,0,6
+Grive mauvis,2012,0,2
+Grosbec casse-noyaux,2017,0,7
+Hirondelle de fenêtre,2018,0,11
+Hirondelle de rivage,2012,0,3
+Hypolaïs polyglotte,2018,0,19
+Locustelle tachetée,2016,0,4
+Loriot d'Europe,2018,0,13
+Mésange boréale,2012,0,2
+Mésange huppée,2012,0,6
+Mésange nonnette,2016,0,3
+Milan noir,2016,0,3
+Mouette rieuse,2013,0,1
+Petit Gravelot,2013,0,1
+Pic épeichette,2012,0,2
+Pic mar,2012,0,2
+Pic noir,2013,0,8
+Pic vert,2016,0,8
+Pie-grièche écorcheur,2018,0,15
+Pigeon colombin,2017,0,11
+Pinson du Nord,2018,0,4
+Pipit des arbres,2018,0,15
+Pouillot de Bonelli,2009,0,1
+Pouillot fitis,2018,0,13
+Râle des genêts,2012,0,1
+Roitelet à triple bandeau,2017,0,7
+Rossignol philomèle,2016,0,16
+Rougegorge familier,2018,0,32
+Sittelle torchepot,2013,0,8
+Sterne pierregarin,2016,0,1
+Tarin des aulnes,2017,0,8
+Vautour fauve,2011,0,1

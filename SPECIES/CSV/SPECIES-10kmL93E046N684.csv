@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Chevêche d'Athéna"
-"0";"Courlis cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Mésange noire"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Courlis cendré,2009,0,1
+Hirondelle de fenêtre,2009,0,1
+Mésange noire,2018,0,1
+Pic noir,2009,0,1
+Pigeon colombin,2009,0,1
+Tarier pâtre,2009,0,1

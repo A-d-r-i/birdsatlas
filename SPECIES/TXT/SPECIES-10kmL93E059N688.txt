@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau de Temminck
-0        Blongios nain
-0        Canard carolin
-0        Canard mandarin
-0        Circaète Jean-le-Blanc
-0        Cochevis huppé
-0        Cormoran huppé
-0        Élanion blanc
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Guifette noire
-0        Huppe fasciée
-0        Léiothrix jaune
-0        Mésange boréale
-0        Perroquet jaco
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Plongeon arctique
-0        Plongeon catmarin
-0        Pouillot de Bonelli
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Avocette élégante      2014    0        3
+Bécasseau de Temminck  2017    0        2
+Blongios nain          2017    0        1
+Canard carolin         2018    0        1
+Canard mandarin        2015    0        2
+Circaète Jean-le-Blanc 2017    0        3
+Cochevis huppé         2009    0        1
+Cormoran huppé         2015    0        1
+Élanion blanc          2012    0        3
+Engoulevent d'Europe   2015    0        3
+Faisan vénéré          2009    0        1
+Fuligule milouinan     2017    0        23
+Fuligule nyroca        2014    0        1
+Guifette noire         2017    0        3
+Huppe fasciée          2017    0        2
+Léiothrix jaune        2010    0        1
+Mésange boréale        2009    0        1
+Perroquet jaco         2018    0        7
+Pie-grièche grise      2007    0        2
+Pipit spioncelle       2018    0        1
+Plongeon arctique      2013    0        1
+Plongeon catmarin      2013    0        5
+Pouillot de Bonelli    2009    0        1
+Rousserolle verderolle 2013    0        2
+Sizerin cabaret        2014    0        1
+Sizerin flammé         2014    0        1
+Tadorne de Belon       2015    0        7
 

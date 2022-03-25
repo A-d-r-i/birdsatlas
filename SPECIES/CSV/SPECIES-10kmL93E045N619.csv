@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bondrée apivore"
-"0";"Chevalier culblanc"
-"0";"Chouette de Tengmalm"
-"0";"Épervier d'Europe"
-"0";"Étourneau sansonnet"
-"0";"Fauvette des jardins"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des bois"
-"0";"Grimpereau des jardins"
-"0";"Hirondelle de fenêtre"
-"0";"Lagopède alpin"
-"0";"Martinet noir"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Monticole bleu"
-"0";"Perdrix grise"
-"0";"Pic épeiche"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Pigeon ramier"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Tichodrome échelette"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Bondrée apivore,2013,0,3
+Chevalier culblanc,2018,0,1
+Chouette de Tengmalm,2009,0,1
+Épervier d'Europe,2017,0,2
+Étourneau sansonnet,2009,0,1
+Fauvette des jardins,2009,0,1
+Gobemouche noir,2014,0,4
+Grand-duc d'Europe,2009,0,1
+Grimpereau des bois,2014,0,2
+Grimpereau des jardins,2009,0,1
+Hirondelle de fenêtre,2014,0,2
+Lagopède alpin,2009,0,1
+Martinet noir,2014,0,8
+Mésange à longue queue,2018,0,4
+Mésange huppée,2009,0,1
+Mésange nonnette,2009,0,1
+Monticole bleu,2009,0,1
+Perdrix grise,2009,0,1
+Pic épeiche,2014,0,2
+Pie bavarde,2009,0,1
+Pigeon biset domestique,2009,0,1
+Pigeon ramier,2009,0,1
+Pipit farlouse,2011,0,2
+Pouillot fitis,2018,0,2
+Rougequeue à front blanc,2011,0,1
+Tichodrome échelette,2018,0,1
+Venturon montagnard,2009,0,1

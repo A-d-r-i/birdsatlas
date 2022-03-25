@@ -1,6 +1,6 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Fauvette des jardins
-0        Hirondelle de fenêtre
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Fauvette des jardins  2009    0        1
+Hirondelle de fenêtre 2018    0        2
 

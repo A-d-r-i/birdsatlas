@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bruant ortolan"
-"0";"Caille des blés"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Grand-duc d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,3
+Bécasse des bois,2016,0,1
+Bruant ortolan,2017,0,2
+Caille des blés,2017,0,2
+Cigogne noire,2018,0,1
+Engoulevent d'Europe,2017,0,5
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2018,0,1
+Fauvette orphée,2015,0,4
+Fauvette passerinette,2009,0,1
+Grand-duc d'Europe,2009,0,1
+Hibou moyen-duc,2015,0,2
+Hirondelle de rochers,2011,0,1
+Locustelle tachetée,2017,0,2
+Martinet à ventre blanc,2011,0,1
+Moineau friquet,2010,0,1
+Petit-duc scops,2016,0,3
+Sarcelle d'été,2018,0,1
+Tarier des prés,2017,0,3

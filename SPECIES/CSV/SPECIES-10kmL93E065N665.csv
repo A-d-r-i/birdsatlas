@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Foulque macroule"
-"0";"Ibis sacré"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Pouillot fitis"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2016,0,2
+Chevêche d'Athéna,2018,0,1
+Cigogne noire,2016,0,1
+Foulque macroule,2015,0,1
+Ibis sacré,2014,0,1
+Perruche à collier,2015,0,1
+Petit-duc scops,2018,0,3
+Pouillot fitis,2018,0,2
+Tarin des aulnes,2009,0,1

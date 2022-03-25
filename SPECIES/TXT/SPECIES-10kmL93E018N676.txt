@@ -1,26 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Blongios nain
-0        Bruant lapon
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Caille des blés
-0        Coucou geai
-0        Engoulevent d'Europe
-0        Fuligule à bec cerclé
-0        Garrot à oeil d'or
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Grèbe jougris
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Mésange noire
-0        Milan royal
-0        Nette rousse
-0        Pipit de Richard
-0        Pluvier guignard
-0        Rougequeue à front blanc
-0        Vautour fauve
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bécasseau de Temminck    2016    0        1
+Blongios nain            2010    0        2
+Bruant lapon             2018    0        3
+Busard Saint-Martin      2018    0        2
+Butor étoilé             2016    0        8
+Caille des blés          2012    0        1
+Coucou geai              2015    0        13
+Engoulevent d'Europe     2009    0        1
+Fuligule à bec cerclé    2013    0        2
+Garrot à oeil d'or       2014    0        4
+Goéland à ailes blanches 2009    0        1
+Goéland bourgmestre      2014    0        2
+Grèbe jougris            2013    0        2
+Locustelle tachetée      2018    0        6
+Mésange noire            2009    0        1
+Milan royal              2012    0        2
+Nette rousse             2016    0        4
+Pipit de Richard         2016    0        1
+Pluvier guignard         2012    0        1
+Rougequeue à front blanc 2014    0        1
+Vautour fauve            2018    0        1
 

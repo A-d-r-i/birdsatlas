@@ -1,44 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Busard des roseaux"
-"0";"Busard pâle"
-"0";"Caille des blés"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des bois"
-"0";"Grimpereau des jardins"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mouette rieuse"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,2
+Bécasse des bois,2016,0,1
+Bec-croisé des sapins,2017,0,6
+Busard des roseaux,2015,0,3
+Busard pâle,2014,0,3
+Caille des blés,2012,0,2
+Corbeau freux,2016,0,1
+Coucou gris,2009,0,2
+Effraie des clochers,2014,0,3
+Faisan de Colchide,2014,0,1
+Faucon hobereau,2017,0,2
+Fauvette babillarde,2014,0,3
+Fauvette des jardins,2015,0,4
+Fauvette grisette,2017,0,4
+Gobemouche gris,2017,0,2
+Gobemouche noir,2012,0,3
+Grand Cormoran,2017,0,2
+Grand-duc d'Europe,2011,0,2
+Grimpereau des bois,2017,0,9
+Grive mauvis,2017,0,2
+Guêpier d'Europe,2017,0,1
+Hibou moyen-duc,2012,0,5
+Locustelle tachetée,2012,0,2
+Loriot d'Europe,2018,0,1
+Martinet à ventre blanc,2008,0,1
+Martin-pêcheur d'Europe,2011,0,4
+Mouette rieuse,2011,0,1
+Pic épeichette,2017,0,4
+Pic mar,2016,0,4
+Pigeon biset domestique,2012,0,3
+Pigeon colombin,2017,0,3
+Pouillot siffleur,2017,0,4
+Rossignol philomèle,2015,0,1
+Rousserolle verderolle,2017,0,3
+Tichodrome échelette,2018,0,6
+Torcol fourmilier,2018,0,5
+Tourterelle turque,2012,0,8
+Traquet motteux,2015,0,4

@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bec-croisé des sapins"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Faucon pèlerin"
-"0";"Goéland brun"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2014,0,1
+Bec-croisé des sapins,2017,0,1
+Canard carolin,2015,0,1
+Canard mandarin,2015,0,3
+Canard pilet,2016,0,1
+Canard siffleur,2010,0,2
+Chevalier aboyeur,2018,0,8
+Faucon pèlerin,2017,0,3
+Goéland brun,2018,0,2
+Moineau friquet,2014,0,3
+Ouette d'Egypte,2015,0,1
+Rémiz penduline,2014,0,1
+Rousserolle turdoïde,2014,0,1
+Sarcelle d'été,2016,0,2
+Sterne pierregarin,2017,0,4
+Tadorne de Belon,2016,0,5

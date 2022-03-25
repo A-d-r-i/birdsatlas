@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécassine sourde
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Busard cendré
-0        Busard des roseaux
-0        Canard souchet
-0        Chevalier gambette
-0        Cigogne blanche
-0        Corbeau freux
-0        Courlis cendré
-0        Faucon hobereau
-0        Faucon kobez
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule morillon
-0        Gorgebleue à miroir
-0        Grive litorne
-0        Guifette moustac
-0        Hirondelle de rivage
-0        Mésange noire
-0        Mouette rieuse
-0        Oie cendrée
-0        Outarde canepetière
-0        Petit-duc scops
-0        Petit Gravelot
-0        Pic épeichette
-0        Pigeon biset domestique
-0        Plongeon imbrin
-0        Pluvier doré
-0        Pouillot siffleur
-0        Tadorne de Belon
-0        Tarier des prés
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2016    0        2
+Autour des palombes     2016    0        3
+Avocette élégante       2014    0        1
+Bécasseau variable      2012    0        1
+Bécassine sourde        2016    0        1
+Bondrée apivore         2018    0        17
+Bouvreuil pivoine       2010    0        2
+Busard cendré           2018    0        3
+Busard des roseaux      2017    0        7
+Canard souchet          2016    0        3
+Chevalier gambette      2012    0        1
+Cigogne blanche         2012    0        1
+Corbeau freux           2017    0        15
+Courlis cendré          2010    0        2
+Faucon hobereau         2015    0        10
+Faucon kobez            2012    0        1
+Foulque macroule        2015    0        18
+Fuligule milouin        2016    0        3
+Fuligule morillon       2016    0        2
+Gorgebleue à miroir     2010    0        1
+Grive litorne           2017    0        6
+Guifette moustac        2011    0        2
+Hirondelle de rivage    2016    0        3
+Mésange noire           2017    0        2
+Mouette rieuse          2018    0        2
+Oie cendrée             2016    0        1
+Outarde canepetière     2017    0        12
+Petit-duc scops         2018    0        1
+Petit Gravelot          2014    0        1
+Pic épeichette          2011    0        3
+Pigeon biset domestique 2016    0        7
+Plongeon imbrin         2013    0        9
+Pluvier doré            2012    0        4
+Pouillot siffleur       2017    0        1
+Tadorne de Belon        2018    0        2
+Tarier des prés         2017    0        8
 

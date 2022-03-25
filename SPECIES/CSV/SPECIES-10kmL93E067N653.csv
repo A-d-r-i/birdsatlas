@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Linotte mélodieuse"
-"0";"Mouette rieuse"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,3
+Busard des roseaux,2014,0,2
+Canard chipeau,2010,0,2
+Canard siffleur,2017,0,3
+Chevalier culblanc,2012,0,2
+Chevêche d'Athéna,2013,0,2
+Cigogne noire,2017,0,5
+Effraie des clochers,2013,0,1
+Faucon émerillon,2007,0,1
+Faucon hobereau,2011,0,1
+Gallinule poule-d'eau,2015,0,1
+Grèbe castagneux,2012,0,3
+Linotte mélodieuse,2016,0,2
+Mouette rieuse,2010,0,1
+Tarier des prés,2015,0,5
+Vautour fauve,2008,0,1

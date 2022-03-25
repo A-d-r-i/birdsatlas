@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandre"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Bouscarle de Cetti"
-"0";"Colin de Californie"
-"0";"Corneille mantelée"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Faisan vénéré"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Gravelot à collier interrompu"
-"0";"Grimpereau des bois"
-"0";"Guifette leucoptère"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Mésange boréale"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pipit à gorge rousse"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Alouette calandre,2017,0,3
+Avocette élégante,2016,0,3
+Barge à queue noire,2014,0,29
+Barge rousse,2014,0,7
+Bécasseau cocorli,2014,0,24
+Bécasseau maubèche,2013,0,11
+Bécasseau sanderling,2013,0,4
+Bécasse des bois,2013,0,1
+Bécassine sourde,2018,0,3
+Bergeronnette flavéole (M.f.flavissima),2016,0,2
+Blongios nain,2017,0,1
+Bouscarle de Cetti,2017,0,1
+Colin de Californie,2013,0,2
+Corneille mantelée,2014,0,2
+Courlis corlieu,2013,0,24
+Cygne noir,2018,0,3
+Faisan vénéré,2018,0,2
+Fuligule nyroca,2017,0,6
+Garrot à oeil d'or,2018,0,1
+Goéland brun,2013,0,1
+Gorgebleue à miroir,2014,0,1
+Gravelot à collier interrompu,2017,0,2
+Grimpereau des bois,2014,0,3
+Guifette leucoptère,2013,0,3
+Hibou des marais,2018,0,4
+Huîtrier pie,2014,0,1
+Jaseur boréal,2013,0,1
+Marouette ponctuée,2013,0,8
+Mésange boréale,2014,0,1
+Mouette mélanocéphale,2014,0,10
+Mouette pygmée,2008,0,2
+Phragmite des joncs,2013,0,5
+Pie-grièche grise,2012,0,4
+Pipit à gorge rousse,2015,0,3
+Pluvier argenté,2013,0,6
+Pouillot siffleur,2018,0,1
+Rollier d'Europe,2016,0,2
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Tadorne casarca,2012,0,12
+Tournepierre à collier,2013,0,6

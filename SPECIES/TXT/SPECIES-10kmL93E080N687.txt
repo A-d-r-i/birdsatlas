@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bihoreau gris
-0        Bruant zizi
-0        Calopsitte élégante
-0        Canard mandarin
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange boréale
-0        Oie cendrée
-0        Perdrix rouge
-0        Perruche ondulée
-0        Petit Gravelot
-0        Pic mar
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Sterne pierregarin
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigrette garzette      2017    0        1
+Bécasseau variable     2018    0        1
+Bécasse des bois       2018    0        5
+Bécassine des marais   2016    0        2
+Bihoreau gris          2011    0        1
+Bruant zizi            2012    0        1
+Calopsitte élégante    2015    0        1
+Canard mandarin        2015    0        1
+Chevalier guignette    2011    0        1
+Chevêche d'Athéna      2014    0        3
+Courlis cendré         2010    0        2
+Engoulevent d'Europe   2012    0        4
+Jaseur boréal          2011    0        2
+Locustelle tachetée    2016    0        5
+Merle à plastron       2018    0        11
+Mésange boréale        2012    0        2
+Oie cendrée            2018    0        3
+Perdrix rouge          2018    0        4
+Perruche ondulée       2013    0        1
+Petit Gravelot         2012    0        2
+Pic mar                2017    0        4
+Pouillot de Bonelli    2018    0        2
+Pouillot siffleur      2016    0        1
+Rousserolle verderolle 2018    0        1
+Sterne pierregarin     2016    0        1
+Vautour fauve          2015    0        1
 

@@ -1,40 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Chevalier aboyeur"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Courlis corlieu"
-"0";"Faucon pèlerin"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Goéland pontique"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Ouette d'Egypte"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Râle des genêts"
-"0";"Roitelet à triple bandeau"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sterne naine"
-"0";"Tarin des aulnes"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,4
+Bécasse des bois,2017,0,2
+Bec-croisé des sapins,2013,0,3
+Bihoreau gris,2017,0,1
+Bouvreuil pivoine,2017,0,21
+Chevalier aboyeur,2018,0,3
+Cigogne blanche,2013,0,11
+Cochevis huppé,2013,0,3
+Courlis corlieu,2008,0,1
+Faucon pèlerin,2015,0,4
+Goéland argenté,2015,0,1
+Goéland brun,2018,0,1
+Goéland leucophée,2018,0,2
+Goéland pontique,2018,0,1
+Grèbe castagneux,2016,0,7
+Grive mauvis,2019,0,8
+Grosbec casse-noyaux,2018,0,11
+Huppe fasciée,2013,0,2
+Locustelle tachetée,2018,0,10
+Merle à plastron,2016,0,5
+Mésange boréale,2018,0,12
+Mésange noire,2016,0,6
+Perdrix rouge,2014,0,2
+Petit Gravelot,2011,0,3
+Pic mar,2016,0,1
+Pie-grièche grise,2018,0,3
+Pipit rousseline,2013,0,4
+Pouillot de Bonelli,2013,0,3
+Râle des genêts,2016,0,38
+Roitelet à triple bandeau,2018,0,9
+Rousserolle effarvatte,2017,0,15
+Rousserolle verderolle,2009,0,2
+Sarcelle d'été,2010,0,1
+Sterne naine,2016,0,1
+Tarin des aulnes,2016,0,6
+Vautour fauve,2011,0,1

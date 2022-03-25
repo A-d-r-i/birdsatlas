@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bécassine sourde
-0        Canard siffleur
-0        Chevalier culblanc
-0        Cormoran huppé
-0        Courlis cendré
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Fuligule morillon
-0        Hibou des marais
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Milan royal
-0        Perdrix rouge
-0        Pigeon colombin
-0        Pouillot de Bonelli
-0        Sarcelle d'hiver
-0        Serin cini
-0        Tadorne de Belon
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigle botté          2011    0        1
+Bécasseau variable   2012    0        2
+Bécassine des marais 2018    0        9
+Bécassine sourde     2012    0        1
+Canard siffleur      2017    0        4
+Chevalier culblanc   2018    0        8
+Cormoran huppé       2015    0        1
+Courlis cendré       2017    0        1
+Fauvette pitchou     2009    0        2
+Fuligule milouin     2017    0        2
+Fuligule morillon    2017    0        3
+Hibou des marais     2015    0        1
+Locustelle tachetée  2010    0        3
+Mésange huppée       2010    0        5
+Mésange noire        2017    0        3
+Milan royal          2018    0        1
+Perdrix rouge        2018    0        5
+Pigeon colombin      2014    0        2
+Pouillot de Bonelli  2010    0        2
+Sarcelle d'hiver     2017    0        5
+Serin cini           2012    0        3
+Tadorne de Belon     2017    0        1
 

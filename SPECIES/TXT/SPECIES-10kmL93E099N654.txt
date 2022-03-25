@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette des champs
-0        Alouette lulu
-0        Bruant zizi
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cigogne noire
-0        Corbeau freux
-0        Corneille mantelée
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette grisette
-0        Fauvette passerinette
-0        Fuligule morillon
-0        Grand-duc d'Europe
-0        Grande Aigrette
-0        Grive mauvis
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet à ventre blanc
-0        Mouette rieuse
-0        Perruche ondulée
-0        Pigeon colombin
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Sarcelle d'hiver
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigrette garzette       2007    0        2
+Alouette des champs     2011    0        2
+Alouette lulu           2015    0        1
+Bruant zizi             2016    0        2
+Busard des roseaux      2017    0        6
+Chevalier culblanc      2017    0        2
+Cigogne blanche         2018    0        5
+Cigogne noire           2014    0        3
+Corbeau freux           2009    0        1
+Corneille mantelée      2015    0        3
+Effraie des clochers    2016    0        3
+Faisan de Colchide      2012    0        3
+Faucon émerillon        2018    0        2
+Faucon hobereau         2015    0        4
+Fauvette grisette       2014    0        2
+Fauvette passerinette   2010    0        1
+Fuligule morillon       2015    0        1
+Grand-duc d'Europe      2017    0        1
+Grande Aigrette         2011    0        1
+Grive mauvis            2016    0        8
+Harle bièvre            2010    0        1
+Hibou moyen-duc         2018    0        2
+Locustelle tachetée     2013    0        1
+Loriot d'Europe         2010    0        1
+Martinet à ventre blanc 2016    0        3
+Mouette rieuse          2008    0        1
+Perruche ondulée        2017    0        1
+Pigeon colombin         2016    0        3
+Pluvier guignard        2016    0        3
+Pouillot siffleur       2016    0        5
+Rousserolle verderolle  2014    0        4
+Sarcelle d'hiver        2010    0        1
 

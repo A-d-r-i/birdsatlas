@@ -1,55 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Chevêche d'Athéna"
-"0";"Cygne chanteur"
-"0";"Échasse blanche"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Grand-duc d'Europe"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Huîtrier pie"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Ibis sacré"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Pigeon colombin"
-"0";"Pipit à gorge rousse"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caspienne"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2013,0,5
+Autour des palombes,2018,0,7
+Barge à queue noire,2018,0,7
+Bécasseau cocorli,2013,0,2
+Bécasseau maubèche,2018,0,1
+Bécasseau minute,2016,0,4
+Bécasseau variable,2018,0,24
+Bécasse des bois,2017,0,3
+Bec-croisé des sapins,2017,0,2
+Bernache nonnette,2018,0,9
+Bondrée apivore,2015,0,4
+Busard des roseaux,2016,0,11
+Canard mandarin,2015,0,3
+Chevalier arlequin,2017,0,22
+Chevêche d'Athéna,2017,0,4
+Cygne chanteur,2013,0,6
+Échasse blanche,2018,0,2
+Fuligule milouinan,2019,0,4
+Garrot à oeil d'or,2018,0,20
+Goéland argenté,2011,0,3
+Goéland brun,2017,0,5
+Goéland cendré,2019,0,20
+Goéland pontique,2011,0,1
+Grand-duc d'Europe,2018,0,2
+Grand Gravelot,2018,0,22
+Grèbe à cou noir,2011,0,2
+Grèbe esclavon,2009,0,2
+Grèbe jougris,2014,0,6
+Guifette moustac,2013,0,1
+Guifette noire,2013,0,8
+Harle piette,2010,0,1
+Hibou des marais,2015,0,12
+Hibou moyen-duc,2017,0,7
+Huîtrier pie,2008,0,1
+Huppe fasciée,2013,0,1
+Hypolaïs polyglotte,2012,0,5
+Ibis sacré,2015,0,11
+Macreuse brune,2011,0,7
+Merle à plastron,2012,0,1
+Mouette mélanocéphale,2014,0,1
+Mouette pygmée,2015,0,3
+Oie à tête barrée,2008,0,1
+Oie rieuse,2013,0,6
+Perdrix rouge,2016,0,1
+Pigeon colombin,2017,0,3
+Pipit à gorge rousse,2015,0,1
+Pluvier argenté,2017,0,1
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,3
+Sterne caspienne,2016,0,2
+Tourterelle des bois,2018,0,9

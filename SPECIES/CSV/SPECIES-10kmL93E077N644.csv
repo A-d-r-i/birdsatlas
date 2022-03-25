@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Corbeau freux"
-"0";"Échasse blanche"
-"0";"Faucon émerillon"
-"0";"Fauvette orphée"
-"0";"Fuligule milouin"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pipit rousseline"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2014,0,25
+Bihoreau gris,2018,0,27
+Bruant ortolan,2017,0,2
+Busard cendré,2018,0,3
+Canard chipeau,2014,0,14
+Canard siffleur,2016,0,5
+Canard souchet,2014,0,20
+Cassenoix moucheté,2017,0,1
+Chevalier aboyeur,2015,0,4
+Corbeau freux,2014,0,4
+Échasse blanche,2015,0,1
+Faucon émerillon,2018,0,2
+Fauvette orphée,2014,0,1
+Fuligule milouin,2019,0,5
+Guifette moustac,2011,0,1
+Guifette noire,2012,0,2
+Mouette tridactyle,2009,0,1
+Nette rousse,2015,0,8
+Ouette d'Egypte,2010,0,2
+Petit Gravelot,2018,0,28
+Pipit rousseline,2017,0,2
+Rousserolle turdoïde,2017,0,2
+Sizerin cabaret,2018,0,40
+Sizerin flammé,2018,0,46
+Tadorne de Belon,2009,0,2
+Tarier des prés,2018,0,17
+Tourterelle des bois,2012,0,4
+Vanneau huppé,2017,0,5

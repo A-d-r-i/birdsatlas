@@ -1,53 +1,53 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bouscarle de Cetti
-0        Canard carolin
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Cochevis huppé
-0        Courlis cendré
-0        Courlis corlieu
-0        Cygne noir
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland brun
-0        Goéland cendré
-0        Goéland pontique
-0        Grèbe esclavon
-0        Harle bièvre
-0        Harle piette
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Inséparable de Fischer
-0        Macreuse brune
-0        Mouette mélanocéphale
-0        Oedicnème criard
-0        Perdrix rouge
-0        Perruche ondulée
-0        Phragmite des joncs
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Plongeon arctique
-0        Râle d'eau
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caugek
-0        Tadorne de Belon
-0        Tarier des prés
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2018    0        7
+Autour des palombes    2010    0        1
+Avocette élégante      2015    0        2
+Bécasseau variable     2014    0        1
+Bécasse des bois       2012    0        1
+Bécassine des marais   2015    0        3
+Bec-croisé des sapins  2013    0        2
+Bouscarle de Cetti     2014    0        1
+Canard carolin         2016    0        3
+Canard pilet           2018    0        2
+Canard siffleur        2018    0        17
+Canard souchet         2019    0        10
+Chevalier culblanc     2011    0        3
+Chevalier gambette     2013    0        1
+Cochevis huppé         2018    0        24
+Courlis cendré         2012    0        1
+Courlis corlieu        2011    0        1
+Cygne noir             2017    0        9
+Faucon émerillon       2015    0        3
+Faucon pèlerin         2018    0        7
+Garrot à oeil d'or     2013    0        6
+Gobemouche gris        2010    0        4
+Gobemouche noir        2012    0        1
+Goéland brun           2017    0        12
+Goéland cendré         2017    0        22
+Goéland pontique       2013    0        2
+Grèbe esclavon         2010    0        2
+Harle bièvre           2014    0        18
+Harle piette           2012    0        6
+Héron garde-boeufs     2010    0        2
+Hibou moyen-duc        2013    0        1
+Inséparable de Fischer 2017    0        1
+Macreuse brune         2013    0        11
+Mouette mélanocéphale  2014    0        3
+Oedicnème criard       2011    0        1
+Perdrix rouge          2019    0        6
+Perruche ondulée       2011    0        2
+Phragmite des joncs    2016    0        2
+Pipit des arbres       2015    0        7
+Pipit spioncelle       2014    0        3
+Plongeon arctique      2013    0        10
+Râle d'eau             2016    0        2
+Rousserolle verderolle 2015    0        3
+Sarcelle d'été         2013    0        1
+Sizerin cabaret        2009    0        1
+Sizerin flammé         2009    0        1
+Sterne caugek          2016    0        1
+Tadorne de Belon       2014    0        4
+Tarier des prés        2016    0        6
 

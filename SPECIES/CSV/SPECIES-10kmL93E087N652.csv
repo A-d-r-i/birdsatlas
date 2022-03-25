@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Héron garde-boeufs"
-"0";"Locustelle luscinioïde"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2016,0,4
+Bécasse des bois,2017,0,6
+Busard cendré,2008,0,1
+Canard mandarin,2016,0,1
+Canard pilet,2013,0,4
+Canard souchet,2016,0,11
+Chevalier gambette,2017,0,1
+Chevalier sylvain,2012,0,2
+Combattant varié,2011,0,1
+Corneille mantelée,2011,0,2
+Courlis cendré,2017,0,7
+Crabier chevelu,2017,0,1
+Échasse blanche,2012,0,3
+Effraie des clochers,2018,0,5
+Faucon émerillon,2014,0,4
+Fauvette babillarde,2015,0,1
+Fauvette des jardins,2018,0,8
+Fuligule nyroca,2018,0,34
+Garrot à oeil d'or,2016,0,3
+Goéland brun,2012,0,3
+Goéland cendré,2015,0,4
+Grand Gravelot,2017,0,1
+Grèbe à cou noir,2015,0,1
+Guifette noire,2018,0,6
+Harle huppé,2015,0,10
+Héron garde-boeufs,2017,0,5
+Locustelle luscinioïde,2014,0,2
+Merle à plastron,2012,0,1
+Mouette pygmée,2015,0,2
+Pouillot de Bonelli,2016,0,1
+Rousserolle verderolle,2017,0,1
+Sarcelle d'été,2015,0,6
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tadorne de Belon,2015,0,4
+Tarier des prés,2018,0,7
+Venturon montagnard,2008,0,1

@@ -1,61 +1,61 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette lulu
-0        Bécassine des marais
-0        Bruant proyer
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard chipeau
-0        Canard mandarin
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fuligule milouin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange boréale
-0        Mésange noire
-0        Milan noir
-0        Milan royal
-0        Nette rousse
-0        Oedicnème criard
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Petit Gravelot
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Pluvier doré
-0        Râle d'eau
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Spatule blanche
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarin des aulnes
-0        Traquet motteux
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2015    0        3
+Alouette lulu         2018    0        2
+Bécassine des marais  2015    0        17
+Bruant proyer         2018    0        6
+Busard cendré         2016    0        3
+Busard des roseaux    2018    0        8
+Busard Saint-Martin   2018    0        14
+Caille des blés       2016    0        1
+Canard chipeau        2018    0        38
+Canard mandarin       2015    0        2
+Canard pilet          2018    0        2
+Canard siffleur       2017    0        10
+Chevalier aboyeur     2016    0        3
+Chevalier culblanc    2017    0        8
+Chevalier gambette    2016    0        1
+Faucon hobereau       2017    0        13
+Faucon pèlerin        2017    0        1
+Fauvette babillarde   2011    0        8
+Fuligule milouin      2015    0        11
+Fuligule morillon     2015    0        25
+Garrot à oeil d'or    2015    0        1
+Gobemouche gris       2016    0        5
+Gobemouche noir       2017    0        4
+Grive draine          2019    0        29
+Grive litorne         2017    0        9
+Grive mauvis          2018    0        2
+Grosbec casse-noyaux  2016    0        4
+Hibou des marais      2016    0        1
+Hibou moyen-duc       2016    0        5
+Locustelle tachetée   2010    0        3
+Merle à plastron      2010    0        1
+Mésange boréale       2010    0        2
+Mésange noire         2012    0        5
+Milan noir            2018    0        2
+Milan royal           2014    0        2
+Nette rousse          2011    0        2
+Oedicnème criard      2018    0        4
+Oie cendrée           2013    0        3
+Ouette d'Egypte       2010    0        2
+Perdrix grise         2016    0        19
+Petit Gravelot        2018    0        3
+Pic épeichette        2016    0        3
+Pic mar               2017    0        1
+Pie-grièche écorcheur 2010    0        4
+Pigeon colombin       2016    0        10
+Pinson du Nord        2016    0        6
+Pipit spioncelle      2016    0        1
+Pluvier doré          2016    0        2
+Râle d'eau            2018    0        15
+Rémiz penduline       2015    0        1
+Sarcelle d'été        2018    0        6
+Sarcelle d'hiver      2018    0        44
+Spatule blanche       2013    0        1
+Tadorne de Belon      2009    0        1
+Tarier des prés       2011    0        1
+Tarin des aulnes      2018    0        9
+Traquet motteux       2015    0        1
 

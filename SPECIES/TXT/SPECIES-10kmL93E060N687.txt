@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Canard mandarin
-0        Cochevis huppé
-0        Dendrocygne fauve
-0        Fuligule milouin
-0        Goéland pontique
-0        Grèbe à cou noir
-0        Guifette noire
-0        Harle bièvre
-0        Héron pourpré
-0        Hibou des marais
-0        Merle à plastron
-0        Mésange boréale
-0        Moineau friquet
-0        Mouette tridactyle
-0        Nette rousse
-0        Ouette d'Egypte
-0        Paon bleu
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Tarier des prés
-0        Torcol fourmilier
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bernache nonnette        2018    0        18
+Canard mandarin          2014    0        2
+Cochevis huppé           2016    0        7
+Dendrocygne fauve        2012    0        3
+Fuligule milouin         2018    0        65
+Goéland pontique         2012    0        2
+Grèbe à cou noir         2015    0        2
+Guifette noire           2015    0        1
+Harle bièvre             2017    0        7
+Héron pourpré            2013    0        1
+Hibou des marais         2017    0        1
+Merle à plastron         2016    0        6
+Mésange boréale          2015    0        1
+Moineau friquet          2015    0        4
+Mouette tridactyle       2014    0        2
+Nette rousse             2015    0        11
+Ouette d'Egypte          2015    0        1
+Paon bleu                2016    0        1
+Pipit spioncelle         2015    0        1
+Pouillot siffleur        2014    0        4
+Rougequeue à front blanc 2015    0        5
+Sarcelle d'été           2012    0        2
+Tarier des prés          2017    0        2
+Torcol fourmilier        2016    0        1
 

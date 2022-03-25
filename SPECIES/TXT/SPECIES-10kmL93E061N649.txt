@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant fou
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Martinet à ventre blanc
-0        Merle à plastron
-0        Mésange boréale
-0        Moineau domestique
-0        Moineau friquet
-0        Pie-grièche à tête rousse
-0        Pouillot fitis
-0        Serin cini
-0        Sizerin flammé
-0        Tourterelle turque
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2018    0        6
+Bécasse des bois          2016    0        5
+Bergeronnette printanière 2018    0        5
+Bruant fou                2016    0        1
+Busard des roseaux        2015    0        1
+Busard Saint-Martin       2009    0        1
+Chevalier culblanc        2007    0        1
+Chevalier guignette       2017    0        4
+Chevêche d'Athéna         2009    0        2
+Choucas des tours         2017    0        2
+Faisan de Colchide        2014    0        1
+Faucon hobereau           2016    0        1
+Faucon pèlerin            2012    0        2
+Hibou moyen-duc           2017    0        3
+Huppe fasciée             2017    0        4
+Martinet à ventre blanc   2012    0        1
+Merle à plastron          2017    0        1
+Mésange boréale           2018    0        11
+Moineau domestique        2018    0        24
+Moineau friquet           2010    0        2
+Pie-grièche à tête rousse 2018    0        1
+Pouillot fitis            2018    0        7
+Serin cini                2016    0        4
+Sizerin flammé            2017    0        1
+Tourterelle turque        2016    0        7
+Vanneau huppé             2011    0        3
 

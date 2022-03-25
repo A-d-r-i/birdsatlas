@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bruant jaune"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Fauvette pitchou"
-"0";"Fuligule nyroca"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Océanite culblanc"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,43
+Bruant jaune,2015,0,3
+Canard chipeau,2011,0,1
+Canard siffleur,2015,0,3
+Fauvette pitchou,2018,0,1
+Fuligule nyroca,2011,0,1
+Mouette pygmée,2009,0,1
+Mouette tridactyle,2014,0,7
+Océanite culblanc,2009,0,2
+Perdrix rouge,2013,0,3
+Petit-duc scops,2016,0,1
+Pie-grièche à tête rousse,2018,0,2
+Pipit rousseline,2018,0,2
+Tarier des prés,2018,0,9

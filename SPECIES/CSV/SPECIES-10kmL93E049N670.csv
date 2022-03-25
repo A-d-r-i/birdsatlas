@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cigogne blanche"
-"0";"Combattant varié"
-"0";"Faisan vénéré"
-"0";"Goéland argenté"
-"0";"Grand Gravelot"
-"0";"Guêpier d'Europe"
-"0";"Hibou des marais"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2011,0,2
+Bécasseau minute,2011,0,1
+Bécasseau variable,2011,0,1
+Chevalier aboyeur,2017,0,2
+Chevalier gambette,2011,0,1
+Cigogne blanche,2017,0,6
+Combattant varié,2011,0,1
+Faisan vénéré,2015,0,3
+Goéland argenté,2008,0,1
+Grand Gravelot,2011,0,2
+Guêpier d'Europe,2017,0,1
+Hibou des marais,2018,0,2
+Merle à plastron,2017,0,1
+Moineau friquet,2008,0,1
+Oie cendrée,2018,0,12
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1

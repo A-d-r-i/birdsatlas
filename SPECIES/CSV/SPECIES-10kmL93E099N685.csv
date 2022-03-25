@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Blongios nain"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Goéland pontique"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Harle piette"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,2
+Autour des palombes,2018,0,12
+Blongios nain,2015,0,3
+Bruant proyer,2015,0,4
+Busard cendré,2018,0,1
+Butor étoilé,2015,0,3
+Calopsitte élégante,2012,0,1
+Canard mandarin,2014,0,4
+Canard souchet,2018,0,1
+Chevalier aboyeur,2017,0,3
+Chevalier sylvain,2014,0,1
+Chevêche d'Athéna,2017,0,3
+Faisan de Colchide,2018,0,6
+Faucon hobereau,2017,0,3
+Goéland pontique,2014,0,5
+Grand-duc d'Europe,2018,0,1
+Grèbe castagneux,2019,0,25
+Grimpereau des bois,2016,0,12
+Harle piette,2016,0,8
+Jaseur boréal,2009,0,2
+Locustelle tachetée,2018,0,22
+Pipit rousseline,2014,0,2
+Plongeon arctique,2018,0,1
+Pouillot siffleur,2017,0,1
+Râle d'eau,2014,0,3
+Rémiz penduline,2013,0,2
+Sterne pierregarin,2018,0,3
+Tadorne de Belon,2014,0,2
+Vautour fauve,2015,0,1

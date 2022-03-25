@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Fauvette grisette"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Hirondelle de rivage"
-"0";"Inséparable de Fischer"
-"0";"Locustelle tachetée"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Perdrix rouge"
-"0";"Pie-grièche écorcheur"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle rieuse"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,1
+Bruant des roseaux,2015,0,4
+Bruant jaune,2010,0,5
+Chevalier culblanc,2017,0,2
+Chevalier guignette,2010,0,1
+Corbeau freux,2017,0,1
+Fauvette grisette,2014,0,1
+Grande Aigrette,2012,0,3
+Grèbe castagneux,2016,0,2
+Grive litorne,2018,0,13
+Hirondelle de rivage,2015,0,3
+Inséparable de Fischer,2011,0,1
+Locustelle tachetée,2012,0,2
+Oie cendrée,2014,0,2
+Ouette d'Egypte,2009,0,1
+Perdrix rouge,2017,0,3
+Pie-grièche écorcheur,2018,0,10
+Pluvier doré,2018,0,1
+Pouillot siffleur,2017,0,1
+Tarier des prés,2012,0,1
+Tichodrome échelette,2018,0,1
+Torcol fourmilier,2016,0,3
+Tourterelle rieuse,2016,0,1
+Vanneau huppé,2018,0,41

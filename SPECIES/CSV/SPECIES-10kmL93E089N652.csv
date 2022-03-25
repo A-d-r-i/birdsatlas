@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Canard pilet"
-"0";"Cassenoix moucheté"
-"0";"Faucon kobez"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gélinotte des bois"
-"0";"Goéland leucophée"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Perruche à collier"
-"0";"Pigeon biset domestique"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Bruant proyer,2014,0,1
+Busard cendré,2013,0,1
+Canard pilet,2016,0,1
+Cassenoix moucheté,2016,0,4
+Faucon kobez,2015,0,1
+Fuligule milouin,2014,0,1
+Gallinule poule-d'eau,2017,0,1
+Gélinotte des bois,2014,0,1
+Goéland leucophée,2019,0,9
+Grèbe huppé,2018,0,8
+Locustelle tachetée,2018,0,1
+Martin-pêcheur d'Europe,2018,0,5
+Moineau friquet,2015,0,2
+Perruche à collier,2013,0,2
+Pigeon biset domestique,2016,0,4
+Vanneau huppé,2011,0,1

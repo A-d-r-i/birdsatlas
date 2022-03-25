@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasse des bois
-0        Busard des roseaux
-0        Choucas des tours
-0        Cincle plongeur
-0        Corbeau freux
-0        Cygne tuberculé
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Martinet noir
-0        Mésange noire
-0        Moineau friquet
-0        Perdrix rouge
-0        Pic cendré
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Râle d'eau
-0        Rossignol philomèle
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigle botté          2009    0        2
+Bécasse des bois     2017    0        6
+Busard des roseaux   2015    0        3
+Choucas des tours    2009    0        4
+Cincle plongeur      2013    0        4
+Corbeau freux        2018    0        6
+Cygne tuberculé      2011    0        5
+Faucon pèlerin       2012    0        2
+Fauvette des jardins 2018    0        14
+Goéland leucophée    2011    0        1
+Grèbe castagneux     2017    0        1
+Hirondelle de rivage 2014    0        9
+Huppe fasciée        2009    0        1
+Hypolaïs polyglotte  2018    0        6
+Locustelle tachetée  2014    0        1
+Martinet noir        2018    0        8
+Mésange noire        2018    0        5
+Moineau friquet      2011    0        3
+Perdrix rouge        2017    0        1
+Pic cendré           2018    0        6
+Pie-grièche grise    2009    0        6
+Pipit spioncelle     2018    0        2
+Râle d'eau           2014    0        1
+Rossignol philomèle  2017    0        2
 

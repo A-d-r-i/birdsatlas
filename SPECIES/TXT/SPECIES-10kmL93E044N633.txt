@@ -1,80 +1,80 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette lulu
-0        Bergeronnette des ruisseaux
-0        Bergeronnette grise
-0        Bruant jaune
-0        Bruant zizi
-0        Busard Saint-Martin
-0        Canard colvert
-0        Canard souchet
-0        Chardonneret élégant
-0        Chouette hulotte
-0        Corneille noire
-0        Coucou gris
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon crécerelle
-0        Faucon d'Eléonore
-0        Faucon pèlerin
-0        Fauvette à tête noire
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive mauvis
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hirondelle de fenêtre
-0        Hirondelle rustique
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Loriot d'Europe
-0        Martinet noir
-0        Merle noir
-0        Mésange à longue queue
-0        Mésange bleue
-0        Mésange charbonnière
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Milan noir
-0        Moineau domestique
-0        Moineau friquet
-0        Moineau soulcie
-0        Pic épeiche
-0        Pic épeichette
-0        Pic vert
-0        Pie bavarde
-0        Pigeon biset domestique
-0        Pigeon ramier
-0        Pinson des arbres
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot véloce
-0        Roitelet à triple bandeau
-0        Rossignol philomèle
-0        Rougegorge familier
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Serin cini
-0        Sittelle torchepot
-0        Tarier pâtre
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Troglodyte mignon
-0        Verdier d'Europe
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2017    0        7
+Alouette lulu               2018    0        9
+Bergeronnette des ruisseaux 2017    0        5
+Bergeronnette grise         2018    0        17
+Bruant jaune                2018    0        8
+Bruant zizi                 2018    0        12
+Busard Saint-Martin         2009    0        2
+Canard colvert              2017    0        11
+Canard souchet              2011    0        7
+Chardonneret élégant        2018    0        16
+Chouette hulotte            2013    0        3
+Corneille noire             2017    0        11
+Coucou gris                 2016    0        11
+Effraie des clochers        2018    0        2
+Engoulevent d'Europe        2013    0        5
+Épervier d'Europe           2018    0        10
+Étourneau sansonnet         2018    0        5
+Faisan de Colchide          2017    0        9
+Faucon crécerelle           2018    0        8
+Faucon d'Eléonore           2013    0        3
+Faucon pèlerin              2017    0        1
+Fauvette à tête noire       2014    0        27
+Fauvette pitchou            2016    0        6
+Gallinule poule-d'eau       2013    0        3
+Gobemouche gris             2013    0        6
+Gobemouche noir             2018    0        2
+Grimpereau des jardins      2017    0        30
+Grive draine                2017    0        13
+Grive mauvis                2011    0        3
+Grive musicienne            2013    0        31
+Grosbec casse-noyaux        2018    0        5
+Héron cendré                2018    0        9
+Hirondelle de fenêtre       2013    0        6
+Hirondelle rustique         2016    0        15
+Huppe fasciée               2018    0        10
+Hypolaïs polyglotte         2013    0        4
+Linotte mélodieuse          2011    0        5
+Loriot d'Europe             2018    0        1
+Martinet noir               2013    0        13
+Merle noir                  2018    0        38
+Mésange à longue queue      2018    0        8
+Mésange bleue               2018    0        30
+Mésange charbonnière        2018    0        37
+Mésange huppée              2018    0        15
+Mésange noire               2018    0        1
+Mésange nonnette            2012    0        3
+Milan noir                  2013    0        3
+Moineau domestique          2018    0        21
+Moineau friquet             2018    0        2
+Moineau soulcie             2013    0        3
+Pic épeiche                 2017    0        31
+Pic épeichette              2013    0        3
+Pic vert                    2018    0        33
+Pie bavarde                 2018    0        12
+Pigeon biset domestique     2013    0        4
+Pigeon ramier               2017    0        22
+Pinson des arbres           2018    0        46
+Pinson du Nord              2018    0        1
+Pipit des arbres            2013    0        10
+Pipit farlouse              2017    0        12
+Pipit rousseline            2013    0        3
+Pipit spioncelle            2011    0        4
+Pouillot de Bonelli         2013    0        6
+Pouillot véloce             2018    0        26
+Roitelet à triple bandeau   2017    0        20
+Rossignol philomèle         2013    0        4
+Rougegorge familier         2018    0        32
+Rougequeue à front blanc    2018    0        5
+Rougequeue noir             2018    0        14
+Serin cini                  2013    0        3
+Sittelle torchepot          2018    0        26
+Tarier pâtre                2017    0        12
+Tarin des aulnes            2018    0        16
+Tourterelle des bois        2013    0        3
+Troglodyte mignon           2018    0        36
+Verdier d'Europe            2013    0        13
 

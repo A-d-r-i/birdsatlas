@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Fauvette à tête noire"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Geai des chênes"
-"0";"Grand Cormoran"
-"0";"Grèbe huppé"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Mouette rieuse"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2009,0,1
+Bouvreuil pivoine,2009,0,2
+Bruant zizi,2009,0,1
+Busard des roseaux,2018,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2009,0,2
+Corbeau freux,2009,0,1
+Épervier d'Europe,2009,0,1
+Faisan de Colchide,2009,0,2
+Fauvette à tête noire,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Foulque macroule,2009,0,1
+Gallinule poule-d'eau,2009,0,2
+Geai des chênes,2009,0,2
+Grand Cormoran,2009,0,1
+Grèbe huppé,2009,0,1
+Grimpereau des jardins,2009,0,2
+Grive draine,2009,0,2
+Grive mauvis,2009,0,1
+Grosbec casse-noyaux,2009,0,1
+Héron cendré,2009,0,1
+Hirondelle de fenêtre,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange noire,2009,0,1
+Mésange nonnette,2009,0,2
+Mouette rieuse,2009,0,1
+Pic épeichette,2009,0,1
+Pic noir,2009,0,1
+Pigeon biset domestique,2009,0,1
+Pigeon colombin,2009,0,2
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Tarier pâtre,2009,0,1
+Tarin des aulnes,2009,0,1
+Tourterelle des bois,2009,0,1

@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Fuligule morillon
-0        Gobemouche gris
-0        Goéland brun
-0        Goéland leucophée
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Mésange boréale
-0        Moineau friquet
-0        Mouette rieuse
-0        Nette rousse
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot siffleur
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2016    0        1
+Aigrette garzette         2011    0        1
+Busard des roseaux        2016    0        3
+Busard Saint-Martin       2017    0        33
+Canard siffleur           2015    0        1
+Chevalier culblanc        2016    0        1
+Chevalier guignette       2014    0        2
+Fuligule morillon         2014    0        2
+Gobemouche gris           2016    0        8
+Goéland brun              2013    0        1
+Goéland leucophée         2015    0        2
+Hibou des marais          2017    0        2
+Hirondelle de rivage      2018    0        3
+Mésange boréale           2011    0        2
+Moineau friquet           2015    0        4
+Mouette rieuse            2015    0        3
+Nette rousse              2019    0        1
+Petit Gravelot            2007    0        2
+Pie-grièche à tête rousse 2016    0        9
+Pipit rousseline          2014    0        1
+Pluvier doré              2014    0        1
+Pouillot siffleur         2018    0        11
+Tarier des prés           2016    0        7
 

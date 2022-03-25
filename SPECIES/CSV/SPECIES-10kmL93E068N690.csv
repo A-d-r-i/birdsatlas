@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Cygne tuberculé"
-"0";"Goéland argenté"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Phragmite des joncs"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,1
+Bécasse des bois,2009,0,2
+Bihoreau gris,2009,0,1
+Bouscarle de Cetti,2009,0,1
+Bruant des roseaux,2009,0,2
+Bruant zizi,2009,0,1
+Busard cendré,2009,0,1
+Chevêche d'Athéna,2009,0,2
+Courlis cendré,2009,0,1
+Cygne noir,2009,0,1
+Cygne tuberculé,2009,0,1
+Goéland argenté,2009,0,1
+Hibou des marais,2009,0,1
+Hirondelle de rivage,2018,0,1
+Huppe fasciée,2009,0,1
+Locustelle tachetée,2009,0,1
+Moineau friquet,2013,0,2
+Phragmite des joncs,2009,0,1
+Pigeon biset (origine naturelle),2017,0,1
+Pipit des arbres,2017,0,4
+Pipit spioncelle,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1
+Sizerin flammé,2016,0,1
+Sterne pierregarin,2009,0,1
+Tadorne de Belon,2009,0,1

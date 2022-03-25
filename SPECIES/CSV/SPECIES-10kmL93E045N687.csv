@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
+frname,lastobs,newcount,oldcount
+Martinet noir,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1

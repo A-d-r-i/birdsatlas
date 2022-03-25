@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier guignette
-0        Chouette hulotte
-0        Cochevis huppé
-0        Corbeau freux
-0        Coucou gris
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Goéland argenté
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Martinet à ventre blanc
-0        Milan royal
-0        Moineau soulcie
-0        Mouette rieuse
-0        Oie cendrée
-0        Perdrix rouge
-0        Pie-grièche à tête rousse
-0        Pie-grièche écorcheur
-0        Pipit rousseline
-0        Roitelet huppé
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2012    0        2
+Autour des palombes       2014    0        1
+Bécasse des bois          2013    0        2
+Bergeronnette printanière 2018    0        1
+Bondrée apivore           2018    0        8
+Bruant des roseaux        2016    0        1
+Busard Saint-Martin       2013    0        2
+Caille des blés           2014    0        3
+Chevalier guignette       2018    0        1
+Chouette hulotte          2017    0        6
+Cochevis huppé            2014    0        2
+Corbeau freux             2015    0        4
+Coucou gris               2015    0        5
+Faisan de Colchide        2017    0        7
+Faucon émerillon          2016    0        1
+Faucon pèlerin            2015    0        1
+Fauvette des jardins      2015    0        1
+Fauvette orphée           2014    0        3
+Gallinule poule-d'eau     2014    0        1
+Gobemouche gris           2017    0        4
+Goéland argenté           2010    0        1
+Grand-duc d'Europe        2013    0        2
+Grive mauvis              2010    0        1
+Martinet à ventre blanc   2017    0        3
+Milan royal               2018    0        2
+Moineau soulcie           2017    0        11
+Mouette rieuse            2013    0        1
+Oie cendrée               2014    0        1
+Perdrix rouge             2016    0        1
+Pie-grièche à tête rousse 2017    0        7
+Pie-grièche écorcheur     2015    0        1
+Pipit rousseline          2017    0        1
+Roitelet huppé            2016    0        3
+Torcol fourmilier         2007    0        1
 

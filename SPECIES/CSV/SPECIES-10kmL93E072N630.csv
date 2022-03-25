@@ -1,52 +1,50 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Cigogne blanche"
-"0";"Corneille mantelée"
-"0";"Coucou geai"
-"0";"Échasse blanche"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gorgebleue à miroir"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Niverolle alpine"
-"0";"Paon bleu"
-"0";"Petit Gravelot"
-"0";"Pie-grièche méridionale"
-"0";"Pipit spioncelle"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,4
+Aigle botté,2019,0,2
+Autour des palombes,2017,0,1
+Bécassine des marais,2017,0,3
+Bruant fou,2018,0,1
+Bruant ortolan,2018,0,4
+Busard des roseaux,2017,0,5
+Canard siffleur,2017,0,1
+Chevalier aboyeur,2016,0,4
+Chevalier culblanc,2018,0,15
+Chevalier sylvain,2013,0,1
+Cigogne blanche,2013,0,3
+Corneille mantelée,2009,0,1
+Coucou geai,2015,0,1
+Échasse blanche,2016,0,1
+Fauvette pitchou,2018,0,9
+Fuligule morillon,2013,0,1
+Gallinule poule-d'eau,2014,0,3
+Gobemouche gris,2016,0,5
+Gorgebleue à miroir,2013,0,1
+Grande Aigrette,2016,0,1
+Grèbe castagneux,2016,0,3
+Grive litorne,2019,0,8
+Grive mauvis,2014,0,3
+Héron garde-boeufs,2018,0,1
+Héron pourpré,2013,0,1
+Hirondelle de rivage,2012,0,2
+Locustelle tachetée,2016,0,1
+Loriot d'Europe,2018,0,3
+Martinet à ventre blanc,2013,0,2
+Martin-pêcheur d'Europe,2017,0,2
+Merle à plastron,2018,0,3
+Moineau friquet,2008,0,1
+Moineau soulcie,2012,0,2
+Mouette rieuse,2012,0,1
+Niverolle alpine,2015,0,2
+Paon bleu,2017,0,1
+Petit Gravelot,2013,0,4
+Pie-grièche méridionale,2016,0,9
+Pipit spioncelle,2017,0,3
+Rousserolle turdoïde,2008,0,1
+Sarcelle d'été,2018,0,1
+Sarcelle d'hiver,2018,0,4
+Sizerin cabaret,2012,0,1
+Sizerin flammé,2012,0,1
+Tadorne casarca,2014,0,4
+Tadorne de Belon,2016,0,3
+Torcol fourmilier,2017,0,8
+Traquet oreillard,2013,0,1

@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Accenteur mouchet
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Busard Saint-Martin
-0        Cassenoix moucheté
-0        Chevêchette d'Europe
-0        Choucas des tours
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Grosbec casse-noyaux
-0        Linotte mélodieuse
-0        Merle à plastron
-0        Milan noir
-0        Monticole bleu
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Perdrix rouge
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pipit rousseline
-0        Pouillot fitis
-0        Tarier pâtre
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Vautour moine
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2017    0        4
+Accenteur mouchet         2017    0        2
+Bécasse des bois          2018    0        1
+Bergeronnette printanière 2007    0        1
+Busard Saint-Martin       2018    0        1
+Cassenoix moucheté        2017    0        3
+Chevêchette d'Europe      2018    0        4
+Choucas des tours         2009    0        2
+Engoulevent d'Europe      2017    0        3
+Étourneau sansonnet       2008    0        1
+Faisan de Colchide        2009    0        1
+Faucon hobereau           2017    0        5
+Fauvette babillarde       2014    0        3
+Fauvette des jardins      2009    0        2
+Fauvette orphée           2014    0        1
+Grosbec casse-noyaux      2019    0        10
+Linotte mélodieuse        2018    0        4
+Merle à plastron          2012    0        2
+Milan noir                2017    0        2
+Monticole bleu            2014    0        3
+Niverolle alpine          2008    0        1
+Perdrix bartavelle        2018    0        3
+Perdrix rouge             2018    0        4
+Pic épeichette            2012    0        2
+Pie-grièche écorcheur     2018    0        4
+Pipit rousseline          2012    0        2
+Pouillot fitis            2013    0        1
+Tarier pâtre              2011    0        2
+Torcol fourmilier         2018    0        4
+Tourterelle des bois      2017    0        1
+Tourterelle turque        2014    0        1
+Vautour moine             2014    0        1
+Verdier d'Europe          2019    0        3
 

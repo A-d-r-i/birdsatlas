@@ -1,59 +1,57 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Fuligule à tête noire"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Grimpereau des bois"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hirondelle de rochers"
-"0";"Ibis sacré"
-"0";"Mouette pygmée"
-"0";"Mouette rieuse"
-"0";"Oie à tête barrée"
-"0";"Perdrix rouge"
-"0";"Phalarope à bec large"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pipit des arbres"
-"0";"Plongeon imbrin"
-"0";"Pluvier argenté"
-"0";"Pouillot fitis"
-"0";"Rémiz penduline"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,4
+Avocette élégante,2012,0,1
+Barge rousse,2013,0,2
+Bécasseau sanderling,2012,0,3
+Bécasse des bois,2018,0,3
+Bécassine des marais,2017,0,13
+Bergeronnette printanière,2015,0,5
+Bondrée apivore,2018,0,7
+Busard des roseaux,2017,0,1
+Busard Saint-Martin,2018,0,9
+Caille des blés,2014,0,2
+Canard chipeau,2013,0,88
+Canard pilet,2013,0,9
+Canard siffleur,2015,0,52
+Canard souchet,2018,0,52
+Chevalier gambette,2015,0,5
+Cigogne noire,2016,0,2
+Cincle plongeur,2018,0,1
+Circaète Jean-le-Blanc,2013,0,1
+Coucou gris,2018,0,9
+Courlis cendré,2012,0,2
+Courlis corlieu,2012,0,3
+Fauvette grisette,2015,0,6
+Fauvette pitchou,2012,0,2
+Fuligule à tête noire,2008,0,1
+Fuligule milouinan,2017,0,2
+Fuligule nyroca,2015,0,13
+Goéland leucophée,2017,0,42
+Grèbe à cou noir,2014,0,4
+Grimpereau des bois,2018,0,1
+Grive draine,2019,0,8
+Grive litorne,2019,0,5
+Guêpier d'Europe,2018,0,1
+Guifette moustac,2015,0,1
+Harle bièvre,2011,0,3
+Héron pourpré,2015,0,7
+Hirondelle de rochers,2019,0,16
+Ibis sacré,2011,0,2
+Mouette pygmée,2017,0,2
+Mouette rieuse,2018,0,27
+Oie à tête barrée,2009,0,1
+Perdrix rouge,2013,0,1
+Phalarope à bec large,2009,0,1
+Pic épeichette,2015,0,10
+Pic mar,2018,0,2
+Pipit des arbres,2018,0,1
+Plongeon imbrin,2012,0,1
+Pluvier argenté,2009,0,2
+Pouillot fitis,2018,0,8
+Rémiz penduline,2012,0,1
+Rossignol philomèle,2016,0,7
+Rousserolle effarvatte,2010,0,2
+Rousserolle turdoïde,2009,0,5
+Sarcelle d'été,2012,0,3
+Tadorne casarca,2011,0,3
+Torcol fourmilier,2013,0,4

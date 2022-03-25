@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Alouette calandre
-0        Bécasseau tacheté
-0        Bécasseau violet
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bernache nonnette
-0        Blongios nain
-0        Bruant fou
-0        Bruant jaune
-0        Canard des Bahamas
-0        Chevalier stagnatile
-0        Cygne de Bewick
-0        Dendrocygne fauve
-0        Érismature rousse
-0        Fauvette à lunettes
-0        Fauvette babillarde
-0        Flamant des Caraïbes
-0        Goéland argenté
-0        Grand-duc d'Europe
-0        Grand Labbe
-0        Grèbe esclavon
-0        Grosbec casse-noyaux
-0        Guifette leucoptère
-0        Harle piette
-0        Hypolaïs ictérine
-0        Ibis sacré
-0        Macareux moine
-0        Macreuse noire
-0        Mésange nonnette
-0        Monticole bleu
-0        Monticole de roche
-0        Oie à tête barrée
-0        Ouette d'Egypte
-0        Perruche à collier
-0        Perruche ondulée
-0        Pic vert
-0        Pipit de Godlewski
-0        Pluvier guignard
-0        Pouillot à grands sourcils
-0        Sittelle torchepot
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Aigle royal                             2012    0        2
+Alouette calandre                       2016    0        10
+Bécasseau tacheté                       2015    0        5
+Bécasseau violet                        2012    0        6
+Bergeronnette flavéole (M.f.flavissima) 2017    0        8
+Bernache nonnette                       2016    0        4
+Blongios nain                           2015    0        24
+Bruant fou                              2017    0        3
+Bruant jaune                            2017    0        1
+Canard des Bahamas                      2012    0        1
+Chevalier stagnatile                    2012    0        6
+Cygne de Bewick                         2012    0        25
+Dendrocygne fauve                       2013    0        1
+Érismature rousse                       2009    0        1
+Fauvette à lunettes                     2013    0        1
+Fauvette babillarde                     2008    0        1
+Flamant des Caraïbes                    2017    0        1
+Goéland argenté                         2009    0        1
+Grand-duc d'Europe                      2009    0        1
+Grand Labbe                             2018    0        15
+Grèbe esclavon                          2016    0        16
+Grosbec casse-noyaux                    2018    0        8
+Guifette leucoptère                     2017    0        13
+Harle piette                            2019    0        15
+Hypolaïs ictérine                       2017    0        15
+Ibis sacré                              2007    0        1
+Macareux moine                          2018    0        16
+Macreuse noire                          2018    0        12
+Mésange nonnette                        2014    0        1
+Monticole bleu                          2016    0        1
+Monticole de roche                      2014    0        2
+Oie à tête barrée                       2016    0        14
+Ouette d'Egypte                         2018    0        9
+Perruche à collier                      2014    0        3
+Perruche ondulée                        2017    0        1
+Pic vert                                2009    0        2
+Pipit de Godlewski                      2017    0        20
+Pluvier guignard                        2015    0        11
+Pouillot à grands sourcils              2017    0        2
+Sittelle torchepot                      2011    0        2
 

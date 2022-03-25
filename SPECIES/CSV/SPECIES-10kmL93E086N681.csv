@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pluvier doré"
-"0";"Rousserolle effarvatte"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,47
+Aigrette garzette,2014,0,3
+Autour des palombes,2015,0,1
+Bec-croisé des sapins,2018,0,1
+Bruant des roseaux,2016,0,4
+Caille des blés,2015,0,4
+Canard mandarin,2016,0,1
+Canard souchet,2018,0,1
+Chevalier guignette,2017,0,4
+Choucas des tours,2016,0,19
+Chouette hulotte,2015,0,7
+Cygne tuberculé,2013,0,3
+Effraie des clochers,2019,0,8
+Faucon hobereau,2015,0,6
+Faucon pèlerin,2016,0,2
+Fauvette babillarde,2017,0,12
+Foulque macroule,2014,0,3
+Gallinule poule-d'eau,2016,0,23
+Gobemouche gris,2017,0,8
+Gobemouche noir,2018,0,3
+Goéland leucophée,2010,0,1
+Grèbe castagneux,2015,0,7
+Grimpereau des bois,2018,0,9
+Grive litorne,2017,0,76
+Hibou moyen-duc,2015,0,1
+Hirondelle de rivage,2016,0,6
+Mésange noire,2018,0,16
+Mésange nonnette,2018,0,57
+Moineau friquet,2017,0,33
+Mouette rieuse,2016,0,3
+Phragmite des joncs,2013,0,1
+Pic cendré,2015,0,1
+Pic mar,2013,0,2
+Pie-grièche grise,2011,0,2
+Pluvier doré,2015,0,2
+Rousserolle effarvatte,2017,0,14
+Tourterelle des bois,2017,0,25
+Traquet motteux,2015,0,2

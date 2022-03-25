@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bouscarle de Cetti"
-"0";"Canard à collier noir"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Crabier chevelu"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fuligule nyroca"
-"0";"Grèbe à cou noir"
-"0";"Grimpereau des bois"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Marouette poussin"
-"0";"Martin triste"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2016,0,4
+Bécasseau minute,2014,0,4
+Bécasseau variable,2018,0,15
+Bécasse des bois,2017,0,5
+Bec-croisé des sapins,2016,0,3
+Bouscarle de Cetti,2018,0,1
+Canard à collier noir,2016,0,30
+Canard mandarin,2016,0,9
+Canard siffleur,2017,0,39
+Chevalier arlequin,2014,0,1
+Chevalier gambette,2018,0,2
+Cigogne noire,2016,0,1
+Combattant varié,2014,0,2
+Corneille mantelée,2015,0,3
+Crabier chevelu,2017,0,7
+Faisan vénéré,2018,0,2
+Fauvette babillarde,2018,0,1
+Fuligule nyroca,2014,0,24
+Grèbe à cou noir,2017,0,4
+Grimpereau des bois,2009,0,1
+Hypolaïs ictérine,2008,0,1
+Jaseur boréal,2013,0,3
+Locustelle tachetée,2016,0,4
+Marouette poussin,2013,0,3
+Martin triste,2011,0,1
+Merle à plastron,2016,0,1
+Mésange boréale,2017,0,4
+Oie cendrée,2018,0,7
+Ouette d'Egypte,2013,0,3
+Petit-duc scops,2018,0,1
+Phragmite des joncs,2016,0,1
+Pie-grièche grise,2015,0,1
+Pipit rousseline,2012,0,2
+Pluvier guignard,2015,0,3
+Rollier d'Europe,2018,0,6
+Rousserolle turdoïde,2017,0,12
+Tadorne de Belon,2018,0,16

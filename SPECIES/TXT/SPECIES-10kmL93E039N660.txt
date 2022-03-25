@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécassine sourde
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Canard mandarin
-0        Combattant varié
-0        Hibou des marais
-0        Moineau soulcie
-0        Outarde canepetière
-0        Pigeon biset (origine naturelle)
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Bécasseau variable                      2016    0        6
+Bécassine sourde                        2011    0        1
+Bergeronnette flavéole (M.f.flavissima) 2014    0        1
+Canard mandarin                         2018    0        1
+Combattant varié                        2018    0        9
+Hibou des marais                        2018    0        13
+Moineau soulcie                         2009    0        2
+Outarde canepetière                     2012    0        10
+Pigeon biset (origine naturelle)        2016    0        1
 

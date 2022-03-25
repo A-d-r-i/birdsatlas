@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Fauvette à tête noire"
-"0";"Gallinule poule-d'eau"
-"0";"Geai des chênes"
-"0";"Martinet noir"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Roitelet huppé"
-"0";"Rougequeue noir"
-"0";"Vanneau huppé"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2009,0,1
+Bruant des roseaux,2009,0,1
+Busard Saint-Martin,2009,0,1
+Corbeau freux,2009,0,2
+Coucou gris,2009,0,1
+Fauvette à tête noire,2009,0,2
+Gallinule poule-d'eau,2009,0,1
+Geai des chênes,2009,0,2
+Martinet noir,2009,0,1
+Mésange à longue queue,2018,0,1
+Mésange noire,2019,0,4
+Roitelet huppé,2016,0,1
+Rougequeue noir,2009,0,1
+Vanneau huppé,2009,0,1
+Verdier d'Europe,2019,0,2

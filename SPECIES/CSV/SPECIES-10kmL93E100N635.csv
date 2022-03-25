@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Chevêchette d'Europe"
-"0";"Chouette hulotte"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Huppe fasciée"
-"0";"Milan noir"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,2
+Bondrée apivore,2017,0,8
+Busard des roseaux,2017,0,1
+Chevalier gambette,2007,0,1
+Chevalier guignette,2017,0,1
+Chevalier sylvain,2007,0,1
+Chevêchette d'Europe,2017,0,10
+Chouette hulotte,2012,0,2
+Faucon pèlerin,2016,0,1
+Fauvette des jardins,2012,0,2
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2011,0,2
+Guêpier d'Europe,2015,0,1
+Huppe fasciée,2015,0,1
+Milan noir,2007,0,1
+Pouillot fitis,2018,0,1
+Rougequeue à front blanc,2016,0,2
+Sizerin cabaret,2011,0,3
+Sizerin flammé,2011,0,4
+Tourterelle des bois,2016,0,2
+Verdier d'Europe,2009,0,2

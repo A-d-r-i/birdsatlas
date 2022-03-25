@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bruant ortolan
-0        Bruant zizi
-0        Busard Saint-Martin
-0        Caille des blés
-0        Corneille noire
-0        Fauvette des jardins
-0        Grimpereau des jardins
-0        Grive musicienne
-0        Guêpier d'Europe
-0        Héron cendré
-0        Martinet noir
-0        Mésange nonnette
-0        Milan noir
-0        Pic épeiche
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pouillot fitis
-0        Sittelle torchepot
-0        Tarier pâtre
-0        Tétras lyre
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2009    0        1
+Bruant ortolan         2017    0        3
+Bruant zizi            2010    0        1
+Busard Saint-Martin    2016    0        1
+Caille des blés        2015    0        4
+Corneille noire        2017    0        13
+Fauvette des jardins   2018    0        3
+Grimpereau des jardins 2008    0        1
+Grive musicienne       2017    0        4
+Guêpier d'Europe       2015    0        1
+Héron cendré           2017    0        1
+Martinet noir          2018    0        24
+Mésange nonnette       2009    0        1
+Milan noir             2018    0        2
+Pic épeiche            2018    0        13
+Pic noir               2013    0        1
+Pie-grièche écorcheur  2016    0        2
+Pouillot fitis         2014    0        3
+Sittelle torchepot     2012    0        1
+Tarier pâtre           2009    0        1
+Tétras lyre            2018    0        12
 

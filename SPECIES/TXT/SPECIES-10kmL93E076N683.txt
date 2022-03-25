@@ -1,68 +1,68 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bondrée apivore
-0        Bouscarle de Cetti
-0        Canard chipeau
-0        Canard pilet
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Cigogne noire
-0        Combattant varié
-0        Courlis cendré
-0        Cygne chanteur
-0        Cygne tuberculé
-0        Faucon pèlerin
-0        Foulque macroule
-0        Geai des chênes
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland cendré
-0        Goéland leucophée
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron pourpré
-0        Hibou des marais
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Huîtrier pie
-0        Huppe fasciée
-0        Marouette ponctuée
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange boréale
-0        Mésange noire
-0        Mésange nonnette
-0        Milan royal
-0        Mouette mélanocéphale
-0        Outarde canepetière
-0        Petit Gravelot
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Pluvier doré
-0        Râle d'eau
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Serin cini
-0        Sittelle torchepot
-0        Sterne pierregarin
-0        Tarin des aulnes
-0        Verdier d'Europe
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette lulu           2013    0        3
+Avocette élégante       2018    0        1
+Barge à queue noire     2013    0        1
+Bécasseau variable      2013    0        1
+Bécasse des bois        2012    0        1
+Bécassine des marais    2013    0        7
+Bondrée apivore         2018    0        4
+Bouscarle de Cetti      2018    0        5
+Canard chipeau          2013    0        3
+Canard pilet            2018    0        3
+Canard souchet          2013    0        4
+Chevalier aboyeur       2013    0        4
+Chevalier arlequin      2013    0        1
+Chevalier culblanc      2013    0        17
+Chevalier gambette      2013    0        12
+Chevalier guignette     2013    0        7
+Chevalier sylvain       2012    0        2
+Cigogne noire           2014    0        9
+Combattant varié        2018    0        5
+Courlis cendré          2016    0        4
+Cygne chanteur          2015    0        1
+Cygne tuberculé         2013    0        12
+Faucon pèlerin          2013    0        2
+Foulque macroule        2013    0        11
+Geai des chênes         2013    0        12
+Gobemouche gris         2013    0        1
+Gobemouche noir         2008    0        1
+Goéland cendré          2013    0        1
+Goéland leucophée       2013    0        1
+Gorgebleue à miroir     2013    0        6
+Grand Gravelot          2013    0        2
+Grèbe castagneux        2013    0        4
+Grive mauvis            2014    0        6
+Grosbec casse-noyaux    2013    0        1
+Héron pourpré           2013    0        1
+Hibou des marais        2012    0        3
+Hirondelle de fenêtre   2017    0        12
+Hirondelle de rivage    2013    0        3
+Huîtrier pie            2018    0        1
+Huppe fasciée           2015    0        1
+Marouette ponctuée      2018    0        2
+Martinet noir           2013    0        4
+Martin-pêcheur d'Europe 2014    0        7
+Mésange boréale         2013    0        3
+Mésange noire           2015    0        2
+Mésange nonnette        2016    0        8
+Milan royal             2013    0        3
+Mouette mélanocéphale   2013    0        5
+Outarde canepetière     2013    0        1
+Petit Gravelot          2016    0        6
+Pinson du Nord          2012    0        1
+Pipit spioncelle        2013    0        4
+Pluvier doré            2013    0        18
+Râle d'eau              2013    0        4
+Roitelet huppé          2013    0        1
+Rousserolle turdoïde    2013    0        1
+Rousserolle verderolle  2013    0        3
+Sarcelle d'été          2013    0        1
+Sarcelle d'hiver        2013    0        2
+Serin cini              2016    0        11
+Sittelle torchepot      2016    0        6
+Sterne pierregarin      2013    0        1
+Tarin des aulnes        2016    0        8
+Verdier d'Europe        2016    0        24
 

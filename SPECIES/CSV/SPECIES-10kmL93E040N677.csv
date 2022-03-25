@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Dendrocygne fauve"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faucon émerillon"
-"0";"Goéland cendré"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2010,0,4
+Bec-croisé des sapins,2009,0,1
+Bergeronnette printanière,2018,0,2
+Bernache cravant,2015,0,5
+Bondrée apivore,2016,0,1
+Bouvreuil pivoine,2014,0,5
+Busard cendré,2017,0,1
+Caille des blés,2011,0,6
+Canard chipeau,2013,0,6
+Canard pilet,2010,0,2
+Canard siffleur,2016,0,14
+Chevalier gambette,2015,0,2
+Cigogne noire,2017,0,5
+Courlis cendré,2011,0,2
+Courlis corlieu,2018,0,1
+Cygne noir,2011,0,2
+Dendrocygne fauve,2007,0,1
+Engoulevent d'Europe,2010,0,2
+Érismature rousse,2018,0,4
+Faucon émerillon,2017,0,2
+Goéland cendré,2010,0,3
+Grosbec casse-noyaux,2017,0,7
+Guifette noire,2007,0,1
+Harle bièvre,2011,0,2
+Mésange noire,2017,0,1
+Milan noir,2014,0,4
+Milan royal,2014,0,2
+Moineau friquet,2013,0,4
+Oedicnème criard,2018,0,2
+Ouette d'Egypte,2017,0,1
+Perdrix grise,2018,0,9
+Petit Gravelot,2018,0,6
+Phragmite des joncs,2015,0,2
+Pigeon biset domestique,2019,0,21
+Pipit des arbres,2010,0,1
+Rougequeue à front blanc,2010,0,3
+Rousserolle effarvatte,2016,0,5
+Sarcelle d'été,2016,0,2
+Serin cini,2016,0,1
+Sterne pierregarin,2011,0,4

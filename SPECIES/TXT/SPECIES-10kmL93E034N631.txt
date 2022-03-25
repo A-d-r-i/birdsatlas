@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Alouette haussecol
-0        Autour des palombes
-0        Barge rousse
-0        Bécasseau violet
-0        Blongios nain
-0        Bruant des neiges
-0        Bruant fou
-0        Canard mandarin
-0        Crabier chevelu
-0        Érismature rousse
-0        Faucon kobez
-0        Fauvette babillarde
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Fulmar boréal
-0        Goéland à ailes blanches
-0        Goéland d'Amérique
-0        Goéland d'Audouin
-0        Grèbe esclavon
-0        Guêpier d'Europe
-0        Guifette leucoptère
-0        Harelde boréale
-0        Harle bièvre
-0        Hirondelle rousseline
-0        Huîtrier pie
-0        Labbe parasite
-0        Macareux moine
-0        Macreuse brune
-0        Mergule nain
-0        Moineau friquet
-0        Océanite tempête
-0        Oie rieuse
-0        Perruche ondulée
-0        Petit-duc scops
-0        Pie-grièche méridionale
-0        Pipit maritime
-0        Plongeon arctique
-0        Plongeon imbrin
-0        Pluvier guignard
-0        Pouillot brun
-0        Pouillot siffleur
-0        Puffin cendré
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caspienne
-0        Sterne hansel
-0        Tadorne de Belon
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette calandrelle     2013    0        4
+Alouette haussecol       2009    0        1
+Autour des palombes      2018    0        30
+Barge rousse             2016    0        19
+Bécasseau violet         2010    0        3
+Blongios nain            2018    0        274
+Bruant des neiges        2016    0        2
+Bruant fou               2014    0        2
+Canard mandarin          2009    0        4
+Crabier chevelu          2016    0        1
+Érismature rousse        2018    0        1
+Faucon kobez             2018    0        2
+Fauvette babillarde      2018    0        5
+Fauvette orphée          2012    0        1
+Fauvette passerinette    2009    0        1
+Fulmar boréal            2014    0        16
+Goéland à ailes blanches 2018    0        8
+Goéland d'Amérique       2016    0        3
+Goéland d'Audouin        2015    0        2
+Grèbe esclavon           2010    0        2
+Guêpier d'Europe         2015    0        9
+Guifette leucoptère      2007    0        1
+Harelde boréale          2011    0        2
+Harle bièvre             2012    0        1
+Hirondelle rousseline    2017    0        3
+Huîtrier pie             2017    0        21
+Labbe parasite           2014    0        8
+Macareux moine           2016    0        42
+Macreuse brune           2015    0        9
+Mergule nain             2014    0        6
+Moineau friquet          2014    0        28
+Océanite tempête         2014    0        12
+Oie rieuse               2013    0        1
+Perruche ondulée         2012    0        2
+Petit-duc scops          2012    0        2
+Pie-grièche méridionale  2008    0        1
+Pipit maritime           2016    0        5
+Plongeon arctique        2017    0        6
+Plongeon imbrin          2017    0        15
+Pluvier guignard         2012    0        3
+Pouillot brun            2016    0        3
+Pouillot siffleur        2015    0        2
+Puffin cendré            2012    0        4
+Rousserolle verderolle   2012    0        1
+Sarcelle d'été           2014    0        5
+Sizerin cabaret          2015    0        1
+Sizerin flammé           2015    0        1
+Sterne caspienne         2017    0        9
+Sterne hansel            2017    0        3
+Tadorne de Belon         2014    0        7
 

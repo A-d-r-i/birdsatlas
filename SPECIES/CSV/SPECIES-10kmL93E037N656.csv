@@ -1,69 +1,67 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau cocorli"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant lapon"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cormoran huppé"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouinan"
-"0";"Fulmar boréal"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Goéland pontique"
-"0";"Grèbe à cou noir"
-"0";"Grimpereau des jardins"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Guillemot de Troïl"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Huîtrier pie"
-"0";"Hypolaïs ictérine"
-"0";"Ibis sacré"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette de Sabine"
-"0";"Océanite culblanc"
-"0";"Oedicnème criard"
-"0";"Oie rieuse"
-"0";"Phragmite des joncs"
-"0";"Pic épeiche"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Puffin cendré"
-"0";"Puffin des Anglais"
-"0";"Rémiz penduline"
-"0";"Rossignol progné"
-"0";"Sarcelle d'été"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,2
+Bécasseau cocorli,2016,0,1
+Bécasse des bois,2017,0,17
+Bernache du Canada,2010,0,2
+Bondrée apivore,2013,0,4
+Bouvreuil pivoine,2009,0,1
+Bruant lapon,2010,0,1
+Bruant ortolan,2015,0,1
+Busard cendré,2014,0,2
+Caille des blés,2009,0,1
+Chevalier aboyeur,2015,0,4
+Chevalier culblanc,2018,0,11
+Chevalier gambette,2018,0,17
+Chouette hulotte,2015,0,2
+Cigogne blanche,2012,0,2
+Cigogne noire,2015,0,1
+Cormoran huppé,2015,0,1
+Coucou gris,2016,0,12
+Engoulevent d'Europe,2015,0,1
+Faucon émerillon,2016,0,5
+Faucon hobereau,2018,0,32
+Fauvette des jardins,2016,0,24
+Fauvette pitchou,2012,0,1
+Fuligule milouinan,2016,0,3
+Fulmar boréal,2014,0,1
+Goéland à ailes blanches,2009,0,2
+Goéland bourgmestre,2017,0,2
+Goéland pontique,2014,0,1
+Grèbe à cou noir,2017,0,3
+Grimpereau des jardins,2018,0,21
+Grosbec casse-noyaux,2018,0,22
+Guifette moustac,2008,0,1
+Guillemot de Troïl,2018,0,56
+Harelde boréale,2013,0,1
+Harle huppé,2019,0,2
+Héron garde-boeufs,2016,0,4
+Héron pourpré,2015,0,4
+Hirondelle de rivage,2018,0,55
+Huîtrier pie,2018,0,35
+Hypolaïs ictérine,2011,0,1
+Ibis sacré,2016,0,2
+Labbe pomarin,2015,0,4
+Locustelle tachetée,2011,0,2
+Macareux moine,2014,0,12
+Mésange huppée,2012,0,5
+Mésange nonnette,2013,0,4
+Milan royal,2012,0,2
+Moineau friquet,2013,0,10
+Mouette de Sabine,2017,0,7
+Océanite culblanc,2016,0,23
+Oedicnème criard,2012,0,7
+Oie rieuse,2009,0,2
+Phragmite des joncs,2017,0,2
+Pic épeiche,2017,0,2
+Plongeon imbrin,2017,0,2
+Pluvier doré,2012,0,32
+Pouillot à grands sourcils,2017,0,8
+Pouillot de Bonelli,2011,0,4
+Pouillot siffleur,2013,0,1
+Puffin cendré,2017,0,2
+Puffin des Anglais,2015,0,4
+Rémiz penduline,2015,0,4
+Rossignol progné,2011,0,1
+Sarcelle d'été,2012,0,1
+Sizerin flammé,2016,0,3
+Torcol fourmilier,2017,0,4

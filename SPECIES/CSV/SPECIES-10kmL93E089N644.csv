@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette des champs"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Faisan de Colchide"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Pigeon biset domestique"
-"0";"Rollier d'Europe"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,8
+Alouette des champs,2015,0,5
+Bergeronnette printanière,2017,0,3
+Busard des roseaux,2014,0,2
+Cigogne noire,2012,0,2
+Corbeau freux,2017,0,1
+Faisan de Colchide,2017,0,9
+Foulque macroule,2009,0,1
+Gobemouche gris,2013,0,2
+Grive mauvis,2018,0,2
+Guêpier d'Europe,2014,0,1
+Martin-pêcheur d'Europe,2016,0,2
+Moineau friquet,2019,0,3
+Monticole bleu,2009,0,1
+Monticole de roche,2009,0,1
+Mouette rieuse,2012,0,1
+Pigeon biset domestique,2011,0,1
+Rollier d'Europe,2016,0,1
+Vanneau huppé,2017,0,1

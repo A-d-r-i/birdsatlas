@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette des ruisseaux
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Gobemouche gris
-0        Grèbe castagneux
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Mouette rieuse
-0        Pic cendré
-0        Pic mar
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Râle d'eau
-0        Tarier des prés
-0        Traquet motteux
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigle botté                 2017    0        1
+Autour des palombes         2016    0        5
+Bécassine des marais        2017    0        12
+Bécassine sourde            2015    0        1
+Bergeronnette des ruisseaux 2017    0        2
+Chevalier culblanc          2016    0        1
+Chevalier guignette         2017    0        1
+Chevêche d'Athéna           2015    0        7
+Cigogne blanche             2016    0        3
+Cochevis huppé              2015    0        1
+Engoulevent d'Europe        2015    0        1
+Gobemouche gris             2017    0        2
+Grèbe castagneux            2015    0        3
+Grosbec casse-noyaux        2018    0        12
+Hibou moyen-duc             2015    0        5
+Mouette rieuse              2015    0        1
+Pic cendré                  2015    0        3
+Pic mar                     2017    0        3
+Pouillot de Bonelli         2015    0        2
+Pouillot siffleur           2017    0        1
+Râle d'eau                  2018    0        7
+Tarier des prés             2017    0        2
+Traquet motteux             2018    0        4
 

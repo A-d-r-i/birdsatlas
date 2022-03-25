@@ -1,48 +1,46 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Cygne tuberculé"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Hibou des marais"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Inséparable de Fischer"
-"0";"Inséparable masqué"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche grise"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2013,0,7
+Aigle botté,2013,0,3
+Alouette des champs,2017,0,11
+Bécasse des bois,2012,0,2
+Bécassine des marais,2012,0,1
+Bergeronnette des ruisseaux,2017,0,7
+Bergeronnette printanière,2018,0,8
+Busard cendré,2012,0,5
+Busard Saint-Martin,2016,0,1
+Caille des blés,2013,0,1
+Cigogne blanche,2017,0,2
+Coucou gris,2015,0,7
+Cygne tuberculé,2016,0,1
+Faisan de Colchide,2013,0,7
+Faucon pèlerin,2014,0,4
+Fauvette des jardins,2016,0,3
+Fauvette grisette,2013,0,5
+Grive mauvis,2012,0,3
+Grive musicienne,2018,0,18
+Hibou des marais,2014,0,1
+Hirondelle de fenêtre,2017,0,12
+Hypolaïs polyglotte,2016,0,3
+Inséparable de Fischer,2008,0,1
+Inséparable masqué,2008,0,1
+Martinet noir,2013,0,4
+Martin-pêcheur d'Europe,2012,0,1
+Mésange huppée,2017,0,2
+Oedicnème criard,2009,0,1
+Perdrix grise,2009,0,1
+Perruche à collier,2009,0,1
+Pic épeichette,2011,0,2
+Pic noir,2018,0,6
+Pie-grièche grise,2013,0,1
+Pinson du Nord,2015,0,6
+Pipit des arbres,2013,0,5
+Pluvier doré,2016,0,1
+Pouillot fitis,2016,0,3
+Pouillot siffleur,2013,0,4
+Roitelet à triple bandeau,2012,0,2
+Roitelet huppé,2016,0,4
+Serin cini,2018,0,3
+Tarier des prés,2018,0,3
+Tarin des aulnes,2017,0,3
+Torcol fourmilier,2015,0,2
+Traquet motteux,2018,0,3

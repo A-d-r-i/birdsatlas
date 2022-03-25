@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Buse variable"
-"0";"Faucon hobereau"
-"0";"Fauvette à tête noire"
-"0";"Fauvette pitchou"
-"0";"Goéland railleur"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pluvier doré"
-"0";"Puffin cendré"
-"0";"Spatule blanche"
-"0";"Sterne caugek"
+frname,lastobs,newcount,oldcount
+Busard cendré,2017,0,1
+Buse variable,2018,0,1
+Faucon hobereau,2018,0,1
+Fauvette à tête noire,2014,0,1
+Fauvette pitchou,2018,0,1
+Goéland railleur,2018,0,1
+Linotte mélodieuse,2018,0,2
+Martinet noir,2018,0,4
+Pigeon biset (origine naturelle),2018,0,2
+Pluvier doré,2018,0,1
+Puffin cendré,2009,0,1
+Spatule blanche,2018,0,1
+Sterne caugek,2018,0,2

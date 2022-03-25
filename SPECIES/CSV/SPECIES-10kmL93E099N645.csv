@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Bruant jaune"
-"0";"Cassenoix moucheté"
-"0";"Lagopède alpin"
-"0";"Martinet à ventre blanc"
-"0";"Monticole de roche"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2014,0,6
+Aigle royal,2014,0,2
+Bruant jaune,2018,0,1
+Cassenoix moucheté,2012,0,2
+Lagopède alpin,2017,0,4
+Martinet à ventre blanc,2017,0,4
+Monticole de roche,2015,0,1
+Venturon montagnard,2014,0,1

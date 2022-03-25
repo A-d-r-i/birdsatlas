@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Eider à duvet"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grand Labbe"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Harelde boréale"
-"0";"Jaseur boréal"
-"0";"Milan noir"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Phragmite aquatique"
-"0";"Pic épeichette"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pluvier guignard"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,1
+Autour des palombes,2012,0,1
+Bernache du Canada,2017,0,3
+Bernache nonnette,2017,0,41
+Chevalier sylvain,2008,0,1
+Cigogne noire,2014,0,3
+Corbeau freux,2015,0,1
+Eider à duvet,2017,0,9
+Fuligule milouinan,2014,0,1
+Garrot à oeil d'or,2009,0,1
+Goéland leucophée,2014,0,1
+Gorgebleue à miroir,2012,0,2
+Grand Labbe,2018,0,1
+Grosbec casse-noyaux,2018,0,12
+Guêpier d'Europe,2016,0,1
+Harelde boréale,2017,0,1
+Jaseur boréal,2012,0,1
+Milan noir,2017,0,1
+Oedicnème criard,2012,0,1
+Perdrix grise,2016,0,1
+Phragmite aquatique,2012,0,1
+Pic épeichette,2015,0,1
+Pie-grièche écorcheur,2018,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2017,0,3
+Pipit spioncelle,2019,0,1
+Pluvier guignard,2018,0,7
+Rougequeue à front blanc,2018,0,1
+Sarcelle d'été,2017,0,3

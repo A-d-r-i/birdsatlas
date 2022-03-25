@@ -1,14 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Harle bièvre"
-"0";"Oie cendrée"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Butor étoilé,2009,0,1
+Canard chipeau,2013,0,1
+Canard siffleur,2016,0,1
+Canard souchet,2018,0,4
+Fauvette pitchou,2009,0,2
+Fuligule milouin,2018,0,3
+Harle bièvre,2009,0,1
+Oie cendrée,2014,0,1
+Sarcelle d'été,2017,0,1
+Vanneau huppé,2019,0,6

@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Chevalier sylvain"
-"0";"Échasse blanche"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pipit spioncelle"
-"0";"Rossignol philomèle"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2016,0,1
+Bondrée apivore,2018,0,3
+Butor étoilé,2009,0,1
+Canard pilet,2009,0,1
+Chevalier sylvain,2016,0,1
+Échasse blanche,2015,0,1
+Fauvette pitchou,2009,0,1
+Fuligule à bec cerclé,2012,0,1
+Harle bièvre,2011,0,1
+Hirondelle de rivage,2017,0,1
+Milan noir,2018,0,1
+Milan royal,2018,0,2
+Perdrix grise,2017,0,1
+Petit Gravelot,2014,0,2
+Pipit spioncelle,2018,0,1
+Rossignol philomèle,2016,0,3
+Tarier des prés,2018,0,4

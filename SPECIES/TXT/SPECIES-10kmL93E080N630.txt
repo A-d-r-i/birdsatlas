@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bergeronnette printanière
-0        Bruant fou
-0        Bruant ortolan
-0        Caille des blés
-0        Canard mandarin
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Cygne noir
-0        Échasse blanche
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon d'Eléonore
-0        Fauvette grisette
-0        Flamant rose
-0        Gorgebleue à miroir
-0        Grand Corbeau
-0        Hirondelle rousseline
-0        Inséparable masqué
-0        Martinet pâle
-0        Nette rousse
-0        Perroquet jaco
-0        Perruche ondulée
-0        Pie-grièche écorcheur
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Serin du Mozambique
-0        Sittelle torchepot
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Vanneau huppé
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2009    0        1
+Bergeronnette printanière 2018    0        7
+Bruant fou                2019    0        1
+Bruant ortolan            2016    0        1
+Caille des blés           2016    0        3
+Canard mandarin           2013    0        2
+Chevalier guignette       2016    0        5
+Chevalier sylvain         2017    0        2
+Cygne noir                2015    0        10
+Échasse blanche           2015    0        2
+Effraie des clochers      2017    0        5
+Engoulevent d'Europe      2016    0        6
+Faucon d'Eléonore         2015    0        2
+Fauvette grisette         2014    0        4
+Flamant rose              2014    0        3
+Gorgebleue à miroir       2007    0        1
+Grand Corbeau             2009    0        1
+Hirondelle rousseline     2018    0        15
+Inséparable masqué        2011    0        1
+Martinet pâle             2016    0        3
+Nette rousse              2013    0        1
+Perroquet jaco            2017    0        1
+Perruche ondulée          2018    0        1
+Pie-grièche écorcheur     2018    0        12
+Pinson du Nord            2015    0        4
+Pipit spioncelle          2017    0        13
+Râle d'eau                2015    0        1
+Rousserolle effarvatte    2018    0        4
+Serin du Mozambique       2010    0        1
+Sittelle torchepot        2017    0        2
+Tadorne casarca           2009    0        4
+Tadorne de Belon          2018    0        1
+Vanneau huppé             2018    0        8
+Vautour fauve             2018    0        1
 

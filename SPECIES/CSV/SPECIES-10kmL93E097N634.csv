@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette grise"
-"0";"Bruant zizi"
-"0";"Cassenoix moucheté"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Grive litorne"
-"0";"Héron cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rustique"
-"0";"Hypolaïs polyglotte"
-"0";"Lagopède alpin"
-"0";"Martinet à ventre blanc"
-"0";"Martinet noir"
-"0";"Mésange bleue"
-"0";"Monticole de roche"
-"0";"Niverolle alpine"
-"0";"Perdrix bartavelle"
-"0";"Perdrix rouge"
-"0";"Pic épeiche"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,1
+Bergeronnette grise,2014,0,2
+Bruant zizi,2012,0,2
+Cassenoix moucheté,2017,0,5
+Chouette hulotte,2012,0,3
+Cincle plongeur,2019,0,1
+Circaète Jean-le-Blanc,2018,0,15
+Engoulevent d'Europe,2015,0,1
+Faucon pèlerin,2011,0,1
+Fauvette à tête noire,2014,0,14
+Fauvette babillarde,2015,0,2
+Fauvette grisette,2012,0,2
+Grive litorne,2019,0,2
+Héron cendré,2015,0,3
+Hirondelle de fenêtre,2014,0,2
+Hirondelle de rochers,2014,0,7
+Hirondelle rustique,2011,0,1
+Hypolaïs polyglotte,2012,0,2
+Lagopède alpin,2011,0,4
+Martinet à ventre blanc,2014,0,1
+Martinet noir,2014,0,2
+Mésange bleue,2014,0,7
+Monticole de roche,2011,0,2
+Niverolle alpine,2009,0,1
+Perdrix bartavelle,2014,0,3
+Perdrix rouge,2009,0,1
+Pic épeiche,2012,0,2
+Pinson du Nord,2019,0,1
+Pipit rousseline,2009,0,1
+Pluvier guignard,2014,0,2
+Roitelet huppé,2012,0,3
+Rossignol philomèle,2014,0,1
+Serin cini,2017,0,6
+Sittelle torchepot,2012,0,2
+Vautour moine,2014,0,3

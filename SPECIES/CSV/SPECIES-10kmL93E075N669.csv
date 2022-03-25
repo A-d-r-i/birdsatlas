@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Busard cendré"
-"0";"Canard colvert"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Mésange huppée"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2013,0,9
+Busard cendré,2017,0,9
+Canard colvert,2014,0,7
+Corbeau freux,2017,0,24
+Effraie des clochers,2018,0,3
+Faucon hobereau,2011,0,3
+Fauvette des jardins,2009,0,2
+Gobemouche gris,2011,0,3
+Grand Cormoran,2013,0,3
+Grande Aigrette,2018,0,7
+Grèbe castagneux,2015,0,1
+Grive draine,2017,0,34
+Grive litorne,2013,0,14
+Grive mauvis,2013,0,3
+Grive musicienne,2015,0,9
+Guêpier d'Europe,2018,0,8
+Hirondelle de rivage,2011,0,3
+Mésange huppée,2011,0,7
+Petit Gravelot,2011,0,3
+Pic noir,2011,0,4
+Pouillot siffleur,2011,0,4
+Serin cini,2011,0,3
+Tarier des prés,2016,0,1
+Vanneau huppé,2011,0,3

@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Bécassine sourde
-0        Bernache nonnette
-0        Bruant des neiges
-0        Canard carolin
-0        Cygne noir
-0        Érismature rousse
-0        Fuligule milouinan
-0        Goéland à ailes blanches
-0        Gorgebleue à miroir
-0        Gravelot à collier interrompu
-0        Guêpier d'Europe
-0        Guifette leucoptère
-0        Harle bièvre
-0        Harle huppé
-0        Hibou des marais
-0        Huîtrier pie
-0        Ibis falcinelle
-0        Macreuse noire
-0        Mouette tridactyle
-0        Oie à tête barrée
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Pipit de Richard
-0        Plongeon catmarin
-0        Plongeon imbrin
-0        Râle d'eau
-0        Sterne hansel
-0        Tadorne casarca
-0        Vanneau sociable
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Aigle botté                   2016    0        1
+Bécasseau de Temminck         2017    0        4
+Bécasseau sanderling          2017    0        5
+Bécasseau tacheté             2015    0        3
+Bécassine sourde              2015    0        1
+Bernache nonnette             2013    0        45
+Bruant des neiges             2017    0        1
+Canard carolin                2018    0        1
+Cygne noir                    2017    0        3
+Érismature rousse             2019    0        1
+Fuligule milouinan            2009    0        1
+Goéland à ailes blanches      2008    0        1
+Gorgebleue à miroir           2016    0        2
+Gravelot à collier interrompu 2017    0        3
+Guêpier d'Europe              2012    0        2
+Guifette leucoptère           2017    0        1
+Harle bièvre                  2019    0        7
+Harle huppé                   2014    0        1
+Hibou des marais              2013    0        3
+Huîtrier pie                  2015    0        6
+Ibis falcinelle               2013    0        2
+Macreuse noire                2014    0        3
+Mouette tridactyle            2016    0        3
+Oie à tête barrée             2012    0        1
+Oie rieuse                    2013    0        11
+Ouette d'Egypte               2016    0        15
+Pipit de Richard              2019    0        3
+Plongeon catmarin             2013    0        4
+Plongeon imbrin               2016    0        32
+Râle d'eau                    2018    0        4
+Sterne hansel                 2017    0        8
+Tadorne casarca               2011    0        1
+Vanneau sociable              2018    0        2
 

@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Alouette calandrelle
-0        Alouette haussecol
-0        Autour des palombes
-0        Bécasseau falcinelle
-0        Bécasseau rousset
-0        Bécasseau tacheté
-0        Bruant jaune
-0        Bruant ortolan
-0        Chevalier stagnatile
-0        Choucas des tours
-0        Cochevis huppé
-0        Crabier chevelu
-0        Cygne chanteur
-0        Étourneau unicolore
-0        Fauvette babillarde
-0        Fauvette mélanocéphale
-0        Fuligule à bec cerclé
-0        Fuligule milouinan
-0        Fulmar boréal
-0        Garrot à oeil d'or
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Goéland pontique
-0        Goéland railleur
-0        Guillemot de Troïl
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Hirondelle rousseline
-0        Inséparable de Fischer
-0        Léiothrix jaune
-0        Macareux moine
-0        Mouette blanche
-0        Nette rousse
-0        Océanite tempête
-0        Perruche ondulée
-0        Phalarope à bec étroit
-0        Pipit à gorge rousse
-0        Pluvian fluviatile
-0        Pouillot ibérique
-0        Pouillot siffleur
-0        Rousserolle turdoïde
-0        Sterne hansel
-0        Vautour fauve
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Accenteur alpin          2017    0        1
+Alouette calandrelle     2010    0        1
+Alouette haussecol       2012    0        1
+Autour des palombes      2016    0        11
+Bécasseau falcinelle     2015    0        1
+Bécasseau rousset        2018    0        1
+Bécasseau tacheté        2018    0        6
+Bruant jaune             2019    0        9
+Bruant ortolan           2018    0        3
+Chevalier stagnatile     2017    0        34
+Choucas des tours        2015    0        1
+Cochevis huppé           2017    0        3
+Crabier chevelu          2016    0        5
+Cygne chanteur           2015    0        11
+Étourneau unicolore      2012    0        2
+Fauvette babillarde      2016    0        2
+Fauvette mélanocéphale   2018    0        3
+Fuligule à bec cerclé    2015    0        1
+Fuligule milouinan       2015    0        8
+Fulmar boréal            2009    0        3
+Garrot à oeil d'or       2012    0        2
+Goéland à ailes blanches 2017    0        40
+Goéland bourgmestre      2018    0        62
+Goéland pontique         2014    0        2
+Goéland railleur         2014    0        9
+Guillemot de Troïl       2018    0        21
+Harle bièvre             2019    0        12
+Hibou moyen-duc          2013    0        1
+Hirondelle rousseline    2013    0        3
+Inséparable de Fischer   2011    0        1
+Léiothrix jaune          2017    0        1
+Macareux moine           2018    0        6
+Mouette blanche          2009    0        4
+Nette rousse             2013    0        4
+Océanite tempête         2009    0        2
+Perruche ondulée         2017    0        1
+Phalarope à bec étroit   2015    0        2
+Pipit à gorge rousse     2011    0        1
+Pluvian fluviatile       2017    0        1
+Pouillot ibérique        2018    0        3
+Pouillot siffleur        2014    0        6
+Rousserolle turdoïde     2017    0        7
+Sterne hansel            2013    0        3
+Vautour fauve            2014    0        1
 

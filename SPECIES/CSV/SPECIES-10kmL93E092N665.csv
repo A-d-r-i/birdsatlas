@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard siffleur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Faucon émerillon"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland cendré"
-"0";"Grive mauvis"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Rollier d'Europe"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2014,0,1
+Bec-croisé des sapins,2017,0,14
+Bruant des roseaux,2012,0,1
+Busard Saint-Martin,2014,0,8
+Canard siffleur,2018,0,1
+Circaète Jean-le-Blanc,2018,0,1
+Faucon émerillon,2014,0,4
+Gallinule poule-d'eau,2017,0,24
+Goéland cendré,2016,0,1
+Grive mauvis,2017,0,6
+Hirondelle de rivage,2017,0,1
+Hypolaïs polyglotte,2013,0,6
+Perdrix grise,2015,0,2
+Perdrix rouge,2018,0,1
+Pie-grièche grise,2015,0,25
+Pipit spioncelle,2015,0,5
+Rollier d'Europe,2014,0,18
+Tadorne de Belon,2010,0,1
+Tarier des prés,2014,0,6
+Traquet motteux,2017,0,6
+Vanneau huppé,2015,0,5

@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Chouette hulotte"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Linotte mélodieuse"
-"0";"Mouette rieuse"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pipit farlouse"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2018,0,6
+Autour des palombes,2014,0,4
+Bécasse des bois,2010,0,2
+Bec-croisé des sapins,2018,0,10
+Bruant proyer,2016,0,1
+Bruant zizi,2016,0,2
+Busard Saint-Martin,2009,0,1
+Chouette hulotte,2018,0,4
+Engoulevent d'Europe,2016,0,2
+Faucon hobereau,2013,0,1
+Fauvette des jardins,2017,0,10
+Grimpereau des bois,2018,0,9
+Grive litorne,2012,0,3
+Grive mauvis,2019,0,3
+Linotte mélodieuse,2013,0,4
+Mouette rieuse,2009,0,1
+Petit Gravelot,2009,0,1
+Pic épeichette,2017,0,7
+Pic mar,2017,0,2
+Pigeon biset domestique,2014,0,1
+Pipit farlouse,2018,0,4
+Tarier des prés,2016,0,2
+Torcol fourmilier,2010,0,2
+Tourterelle des bois,2009,0,3

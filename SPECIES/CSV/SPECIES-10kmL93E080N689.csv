@@ -1,32 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Grand Cormoran"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Outarde canepetière"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Râle des genêts"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,6
+Bécasse des bois,2014,0,8
+Bergeronnette printanière,2017,0,15
+Bruant des roseaux,2017,0,6
+Busard des roseaux,2016,0,21
+Chevalier culblanc,2018,0,1
+Chevalier guignette,2015,0,3
+Cigogne blanche,2014,0,4
+Cigogne noire,2016,0,4
+Élanion blanc,2016,0,32
+Engoulevent d'Europe,2013,0,1
+Faucon hobereau,2017,0,11
+Foulque macroule,2012,0,5
+Grand Cormoran,2018,0,8
+Grive draine,2017,0,25
+Guêpier d'Europe,2014,0,1
+Hibou moyen-duc,2014,0,3
+Mésange boréale,2013,0,7
+Moineau friquet,2019,0,1
+Mouette rieuse,2012,0,4
+Outarde canepetière,2013,0,4
+Pie-grièche à tête rousse,2015,0,1
+Pie-grièche grise,2014,0,4
+Pigeon colombin,2017,0,18
+Pipit spioncelle,2012,0,1
+Pluvier doré,2017,0,1
+Râle des genêts,2013,0,2
+Vautour fauve,2007,0,1

@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Bruant proyer"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chocard à bec jaune"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Fauvette des jardins"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Rousserolle turdoïde"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2017,0,4
+Aigrette garzette,2018,0,2
+Bec-croisé des sapins,2012,0,1
+Bihoreau gris,2015,0,10
+Blongios nain,2015,0,1
+Bruant proyer,2016,0,2
+Canard chipeau,2013,0,3
+Canard siffleur,2017,0,1
+Canard souchet,2014,0,1
+Chevalier guignette,2017,0,3
+Chocard à bec jaune,2012,0,2
+Crabier chevelu,2017,0,1
+Échasse blanche,2014,0,2
+Faisan vénéré,2015,0,1
+Fauvette des jardins,2017,0,2
+Fuligule morillon,2015,0,5
+Goéland cendré,2015,0,1
+Grèbe castagneux,2017,0,4
+Hibou moyen-duc,2015,0,3
+Hirondelle de rochers,2018,0,1
+Mouette rieuse,2014,0,4
+Perdrix rouge,2017,0,15
+Rousserolle turdoïde,2012,0,2
+Venturon montagnard,2016,0,1

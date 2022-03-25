@@ -1,43 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier culblanc"
-"0";"Cochevis huppé"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Linotte mélodieuse"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2017,0,1
+Alouette lulu,2017,0,1
+Bécasse des bois,2012,0,3
+Bergeronnette des ruisseaux,2018,0,9
+Bondrée apivore,2016,0,5
+Bruant des roseaux,2019,0,3
+Bruant jaune,2013,0,1
+Bruant proyer,2011,0,2
+Busard Saint-Martin,2016,0,17
+Caille des blés,2009,0,2
+Canard chipeau,2010,0,2
+Canard pilet,2011,0,2
+Chevalier culblanc,2018,0,2
+Cochevis huppé,2010,0,2
+Épervier d'Europe,2019,0,8
+Faucon hobereau,2013,0,4
+Fauvette grisette,2018,0,11
+Fauvette pitchou,2013,0,1
+Fuligule milouin,2018,0,2
+Gallinule poule-d'eau,2016,0,4
+Gobemouche gris,2013,0,2
+Grèbe castagneux,2019,0,3
+Grive draine,2016,0,15
+Grosbec casse-noyaux,2018,0,10
+Linotte mélodieuse,2010,0,1
+Merle à plastron,2010,0,1
+Moineau friquet,2013,0,1
+Nette rousse,2016,0,4
+Oie cendrée,2010,0,2
+Perdrix rouge,2013,0,7
+Pie-grièche écorcheur,2016,0,2
+Pigeon biset domestique,2016,0,9
+Pouillot de Bonelli,2013,0,1
+Roitelet huppé,2016,0,1
+Rougequeue à front blanc,2018,0,3
+Sarcelle d'hiver,2019,0,3
+Torcol fourmilier,2013,0,1
+Traquet motteux,2010,0,2
+Vanneau huppé,2012,0,8

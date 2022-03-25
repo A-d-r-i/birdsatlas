@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle botté
-0        Bruant ortolan
-0        Canard mandarin
-0        Canard pilet
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Courlis corlieu
-0        Cygne chanteur
-0        Cygne tuberculé
-0        Échasse blanche
-0        Faucon kobez
-0        Fauvette pitchou
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Héron pourpré
-0        Martinet pâle
-0        Moineau friquet
-0        Mouette rieuse
-0        Oie cendrée
-0        Outarde canepetière
-0        Perruche à collier
-0        Petit-duc scops
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic cendré
-0        Pic mar
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot à grands sourcils
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Torcol fourmilier
-0        Traquet motteux
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Accenteur alpin            2012    0        5
+Aigle botté                2014    0        2
+Bruant ortolan             2011    0        1
+Canard mandarin            2012    0        1
+Canard pilet               2007    0        1
+Canard souchet             2007    0        1
+Chevalier aboyeur          2010    0        3
+Chevalier gambette         2008    0        3
+Chevalier sylvain          2018    0        3
+Courlis corlieu            2012    0        1
+Cygne chanteur             2010    0        1
+Cygne tuberculé            2018    0        3
+Échasse blanche            2013    0        1
+Faucon kobez               2012    0        3
+Fauvette pitchou           2009    0        2
+Goéland brun               2015    0        4
+Gorgebleue à miroir        2013    0        3
+Héron pourpré              2010    0        2
+Martinet pâle              2009    0        2
+Moineau friquet            2015    0        6
+Mouette rieuse             2018    0        8
+Oie cendrée                2014    0        12
+Outarde canepetière        2009    0        1
+Perruche à collier         2014    0        2
+Petit-duc scops            2017    0        1
+Petit Gravelot             2017    0        13
+Phragmite des joncs        2017    0        2
+Pic cendré                 2009    0        1
+Pic mar                    2011    0        2
+Pie-grièche à tête rousse  2017    0        2
+Pie-grièche grise          2007    0        1
+Pipit rousseline           2013    0        6
+Pluvier guignard           2012    0        1
+Pouillot à grands sourcils 2014    0        2
+Pouillot siffleur          2018    0        4
+Sizerin cabaret            2009    0        1
+Sizerin flammé             2012    0        4
+Tadorne de Belon           2019    0        5
+Torcol fourmilier          2015    0        6
+Traquet motteux            2014    0        12
 

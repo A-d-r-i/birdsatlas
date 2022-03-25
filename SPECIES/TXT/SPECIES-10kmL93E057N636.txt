@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bihoreau gris
-0        Busard des roseaux
-0        Chouette hulotte
-0        Cochevis huppé
-0        Faucon pèlerin
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Guêpier d'Europe
-0        Moineau friquet
-0        Sarcelle d'hiver
-0        Tourterelle rieuse
-0        Vanneau huppé
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2017    0        3
+Bihoreau gris         2015    0        1
+Busard des roseaux    2017    0        2
+Chouette hulotte      2018    0        11
+Cochevis huppé        2009    0        1
+Faucon pèlerin        2017    0        32
+Fauvette orphée       2009    0        1
+Fauvette passerinette 2018    0        1
+Guêpier d'Europe      2017    0        3
+Moineau friquet       2015    0        3
+Sarcelle d'hiver      2017    0        2
+Tourterelle rieuse    2017    0        1
+Vanneau huppé         2017    0        3
 

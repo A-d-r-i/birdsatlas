@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette sarde"
-"0";"Gobemouche gris"
-"0";"Grive musicienne"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle rustique"
-"0";"Petit-duc scops"
-"0";"Serin cini"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,2
+Engoulevent d'Europe,2009,0,1
+Fauvette sarde,2015,0,2
+Gobemouche gris,2018,0,2
+Grive musicienne,2018,0,1
+Guêpier d'Europe,2018,0,3
+Hirondelle rustique,2009,0,1
+Petit-duc scops,2019,0,2
+Serin cini,2009,0,1
+Troglodyte mignon,2018,0,3

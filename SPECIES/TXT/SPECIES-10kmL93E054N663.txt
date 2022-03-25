@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécasse des bois
-0        Blongios nain
-0        Bondrée apivore
-0        Butor étoilé
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chouette hulotte
-0        Cigogne noire
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis cendré
-0        Fauvette pitchou
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Guifette moustac
-0        Guifette noire
-0        Huppe fasciée
-0        Linotte mélodieuse
-0        Locustelle luscinioïde
-0        Mésange huppée
-0        Mouette mélanocéphale
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic noir
-0        Pie-grièche à tête rousse
-0        Pipit farlouse
-0        Pluvier argenté
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Sarcelle d'été
-0        Serin cini
-0        Sterne pierregarin
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2013    0        1
+Barge à queue noire       2016    0        1
+Bécasseau variable        2017    0        2
+Bécasse des bois          2009    0        1
+Blongios nain             2009    0        1
+Bondrée apivore           2018    0        11
+Butor étoilé              2015    0        1
+Canard siffleur           2017    0        1
+Chevalier aboyeur         2017    0        4
+Chouette hulotte          2012    0        2
+Cigogne noire             2016    0        3
+Cochevis huppé            2011    0        3
+Combattant varié          2012    0        2
+Courlis cendré            2017    0        2
+Fauvette pitchou          2014    0        2
+Gobemouche gris           2017    0        4
+Goéland leucophée         2017    0        3
+Grive litorne             2017    0        6
+Grosbec casse-noyaux      2018    0        5
+Guifette moustac          2017    0        20
+Guifette noire            2008    0        1
+Huppe fasciée             2017    0        8
+Linotte mélodieuse        2016    0        14
+Locustelle luscinioïde    2009    0        1
+Mésange huppée            2009    0        1
+Mouette mélanocéphale     2013    0        1
+Phragmite des joncs       2009    0        1
+Pic épeichette            2012    0        4
+Pic noir                  2017    0        6
+Pie-grièche à tête rousse 2008    0        1
+Pipit farlouse            2017    0        16
+Pluvier argenté           2017    0        1
+Pluvier doré              2013    0        3
+Pouillot de Bonelli       2013    0        3
+Pouillot fitis            2017    0        5
+Pouillot siffleur         2009    0        1
+Sarcelle d'été            2017    0        4
+Serin cini                2015    0        3
+Sterne pierregarin        2012    0        1
+Tarier des prés           2017    0        6
+Torcol fourmilier         2013    0        1
+Traquet motteux           2017    0        1
 

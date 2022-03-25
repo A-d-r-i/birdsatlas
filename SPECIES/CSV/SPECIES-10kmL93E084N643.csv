@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécassine sourde"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Chevalier sylvain"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Goéland marin"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hirondelle rousseline"
-"0";"Ibis falcinelle"
-"0";"Locustelle luscinioïde"
-"0";"Macreuse brune"
-"0";"Monticole de roche"
-"0";"Mouette mélanocéphale"
-"0";"Mouette tridactyle"
-"0";"Océanite tempête"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perruche ondulée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
-"0";"Sizerin flammé"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2012,0,1
+Bécassine sourde,2017,0,14
+Busard cendré,2017,0,1
+Butor étoilé,2015,0,1
+Canard mandarin,2018,0,14
+Canard pilet,2017,0,19
+Chevalier sylvain,2011,0,2
+Faucon d'Eléonore,2010,0,1
+Faucon kobez,2014,0,3
+Fuligule milouinan,2016,0,43
+Fuligule nyroca,2014,0,38
+Garrot à oeil d'or,2018,0,7
+Goéland argenté,2017,0,69
+Goéland marin,2015,0,2
+Gorgebleue à miroir,2011,0,4
+Grand Gravelot,2008,0,3
+Grèbe à cou noir,2019,0,9
+Harelde boréale,2017,0,4
+Harle huppé,2019,0,16
+Harle piette,2017,0,21
+Hirondelle rousseline,2016,0,1
+Ibis falcinelle,2016,0,9
+Locustelle luscinioïde,2012,0,8
+Macreuse brune,2014,0,7
+Monticole de roche,2014,0,1
+Mouette mélanocéphale,2018,0,14
+Mouette tridactyle,2009,0,3
+Océanite tempête,2009,0,1
+Oedicnème criard,2018,0,2
+Perdrix grise,2011,0,1
+Perruche ondulée,2016,0,1
+Pie-grièche à tête rousse,2011,0,1
+Pipit rousseline,2018,0,4
+Rémiz penduline,2015,0,7
+Rousserolle verderolle,2010,0,1
+Sizerin flammé,2010,0,1
+Sterne caugek,2008,0,1
+Tadorne casarca,2012,0,1
+Vanneau huppé,2016,0,3
+Vautour moine,2008,0,1

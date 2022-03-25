@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette calandrelle"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Canard des Bahamas"
-"0";"Chevalier gambette"
-"0";"Chocard à bec jaune"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Faucon crécerellette"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Grand-duc d'Europe"
-"0";"Grive mauvis"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sterne caugek"
-"0";"Sterne naine"
-"0";"Tadorne casarca"
-"0";"Traquet oreillard"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2009,0,1
+Alouette calandrelle,2013,0,5
+Bécasseau minute,2016,0,1
+Bécasse des bois,2015,0,1
+Bernache nonnette,2015,0,2
+Bruant ortolan,2018,0,9
+Canard chipeau,2011,0,1
+Canard des Bahamas,2017,0,3
+Chevalier gambette,2017,0,1
+Chocard à bec jaune,2018,0,4
+Chouette de Tengmalm,2017,0,5
+Cigogne noire,2016,0,5
+Coucou geai,2014,0,1
+Cygne noir,2016,0,7
+Échasse blanche,2017,0,6
+Faucon crécerellette,2015,0,2
+Faucon d'Eléonore,2009,0,1
+Faucon émerillon,2018,0,10
+Fuligule milouin,2018,0,3
+Fuligule morillon,2016,0,1
+Grand-duc d'Europe,2016,0,6
+Grive mauvis,2017,0,7
+Guifette moustac,2012,0,1
+Guifette noire,2012,0,1
+Hibou moyen-duc,2017,0,3
+Hirondelle de rivage,2018,0,14
+Martin-pêcheur d'Europe,2018,0,9
+Oie à tête barrée,2017,0,10
+Oie cendrée,2015,0,1
+Petit-duc scops,2018,0,12
+Petit Gravelot,2017,0,11
+Pie-grièche à tête rousse,2018,0,13
+Pipit à gorge rousse,2016,0,2
+Pipit rousseline,2016,0,11
+Rémiz penduline,2008,0,1
+Rollier d'Europe,2014,0,1
+Sarcelle d'été,2018,0,7
+Sarcelle d'hiver,2017,0,9
+Sterne caugek,2013,0,2
+Sterne naine,2012,0,1
+Tadorne casarca,2017,0,12
+Traquet oreillard,2012,0,2
+Vautour moine,2012,0,1

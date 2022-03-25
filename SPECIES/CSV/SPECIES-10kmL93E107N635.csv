@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Coucou gris"
-"0";"Hirondelle de rochers"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
+frname,lastobs,newcount,oldcount
+Caille des blés,2017,0,1
+Coucou gris,2014,0,1
+Hirondelle de rochers,2009,0,2
+Pie-grièche écorcheur,2017,0,2
+Pinson des arbres,2017,0,2
+Pipit farlouse,2014,0,1
+Pouillot de Bonelli,2017,0,1

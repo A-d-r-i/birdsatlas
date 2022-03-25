@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Chevalier gambette
-0        Cigogne noire
-0        Fauvette pitchou
-0        Fuligule morillon
-0        Grèbe à cou noir
-0        Ibis falcinelle
-0        Ibis sacré
-0        Milan royal
-0        Moineau friquet
-0        Petit Gravelot
-0        Pipit spioncelle
-0        Pouillot à grands sourcils
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Busard Saint-Martin        2018    0        5
+Chevalier gambette         2018    0        1
+Cigogne noire              2012    0        1
+Fauvette pitchou           2012    0        3
+Fuligule morillon          2016    0        1
+Grèbe à cou noir           2017    0        2
+Ibis falcinelle            2014    0        1
+Ibis sacré                 2015    0        1
+Milan royal                2017    0        1
+Moineau friquet            2017    0        1
+Petit Gravelot             2009    0        2
+Pipit spioncelle           2017    0        1
+Pouillot à grands sourcils 2018    0        42
+Pouillot siffleur          2017    0        1
+Rossignol philomèle        2017    0        1
+Sizerin cabaret            2018    0        2
+Sizerin flammé             2018    0        2
 

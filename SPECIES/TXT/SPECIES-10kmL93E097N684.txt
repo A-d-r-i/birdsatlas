@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Canard chipeau
-0        Canard souchet
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Courlis cendré
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Gobemouche à collier
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Grive mauvis
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Petit Gravelot
-0        Pic cendré
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Pipit farlouse
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Sterne pierregarin
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Canard chipeau        2017    0        2
+Canard souchet        2017    0        1
+Chevalier culblanc    2013    0        1
+Chouette hulotte      2014    0        11
+Courlis cendré        2015    0        1
+Fauvette des jardins  2013    0        8
+Fuligule morillon     2017    0        3
+Gallinule poule-d'eau 2016    0        5
+Gobemouche à collier  2012    0        11
+Gobemouche noir       2016    0        1
+Grèbe castagneux      2017    0        9
+Grive mauvis          2018    0        1
+Mésange boréale       2012    0        1
+Mésange huppée        2018    0        1
+Mésange noire         2012    0        5
+Petit Gravelot        2015    0        4
+Pic cendré            2012    0        3
+Pie-grièche grise     2015    0        1
+Pipit des arbres      2017    0        10
+Pipit farlouse        2018    0        8
+Sarcelle d'été        2017    0        1
+Sarcelle d'hiver      2017    0        1
+Sterne pierregarin    2016    0        1
 

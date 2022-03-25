@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Grand Cormoran"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2009,0,1
+Canard colvert,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2009,0,2
+Chouette hulotte,2009,0,1
+Faisan de Colchide,2018,0,4
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,2
+Gallinule poule-d'eau,2009,0,2
+Goéland brun,2018,0,1
+Grand Cormoran,2009,0,1
+Grive draine,2009,0,2
+Grive litorne,2009,0,1
+Grosbec casse-noyaux,2009,0,2
+Héron cendré,2009,0,1
+Hibou moyen-duc,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange à longue queue,2009,0,1
+Mésange huppée,2009,0,1
+Mouette rieuse,2009,0,1
+Oie cendrée,2009,0,1
+Perdrix rouge,2009,0,1
+Pie-grièche écorcheur,2009,0,1
+Pigeon colombin,2009,0,1
+Roitelet huppé,2009,0,1
+Rossignol philomèle,2009,0,1
+Vanneau huppé,2017,0,4

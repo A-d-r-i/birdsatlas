@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Cochevis huppé"
-"0";"Crave à bec rouge"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Faucon kobez"
-"0";"Fauvette orphée"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,1
+Bergeronnette des ruisseaux,2015,0,6
+Cochevis huppé,2013,0,2
+Crave à bec rouge,2009,0,1
+Effraie des clochers,2009,0,2
+Etourneau roselin,2018,0,1
+Faucon kobez,2013,0,2
+Fauvette orphée,2012,0,2

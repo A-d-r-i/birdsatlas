@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevêchette d'Europe"
-"0";"Eider à duvet"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Héron pourpré"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Mouette mélanocéphale"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Rousserolle verderolle"
-"0";"Tadorne casarca"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2008,0,1
+Canard à collier noir,2015,0,7
+Canard carolin,2010,0,3
+Canard pilet,2008,0,1
+Canard siffleur,2019,0,9
+Chevêchette d'Europe,2013,0,1
+Eider à duvet,2017,0,1
+Faisan vénéré,2007,0,1
+Faucon émerillon,2018,0,2
+Héron pourpré,2013,0,4
+Jaseur boréal,2013,0,4
+Marouette ponctuée,2009,0,1
+Mouette mélanocéphale,2018,0,2
+Oie à tête barrée,2009,0,6
+Perdrix grise,2017,0,1
+Petit Gravelot,2011,0,5
+Phragmite des joncs,2013,0,1
+Pie-grièche grise,2018,0,11
+Pipit à gorge rousse,2008,0,1
+Pipit rousseline,2018,0,8
+Rousserolle verderolle,2014,0,7
+Tadorne casarca,2007,0,1
+Vanneau huppé,2016,0,4

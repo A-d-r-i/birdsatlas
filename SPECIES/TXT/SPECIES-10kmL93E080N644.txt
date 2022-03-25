@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Bergeronnette printanière
-0        Cassenoix moucheté
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Chouette de Tengmalm
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grande Aigrette
-0        Grive mauvis
-0        Hirondelle de rivage
-0        Oie cendrée
-0        Perdrix rouge
-0        Pic épeichette
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pouillot de Bonelli
-0        Sarcelle d'hiver
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2015    0        1
+Bergeronnette printanière 2010    0        2
+Cassenoix moucheté        2012    0        1
+Chevalier culblanc        2018    0        3
+Chevalier guignette       2018    0        3
+Chevêche d'Athéna         2009    0        1
+Chouette de Tengmalm      2012    0        9
+Effraie des clochers      2014    0        1
+Faisan de Colchide        2018    0        3
+Faucon hobereau           2014    0        10
+Faucon pèlerin            2015    0        1
+Gallinule poule-d'eau     2009    0        1
+Gobemouche gris           2018    0        13
+Grande Aigrette           2018    0        3
+Grive mauvis              2015    0        1
+Hirondelle de rivage      2012    0        2
+Oie cendrée               2013    0        1
+Perdrix rouge             2017    0        2
+Pic épeichette            2017    0        3
+Pigeon colombin           2017    0        2
+Pipit farlouse            2017    0        7
+Pouillot de Bonelli       2017    0        8
+Sarcelle d'hiver          2018    0        2
+Venturon montagnard       2014    0        2
 

@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cygne tuberculé"
-"0";"Foulque macroule"
-"0";"Goéland pontique"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,1
+Chevalier guignette,2018,0,2
+Cigogne blanche,2018,0,1
+Cygne tuberculé,2018,0,1
+Foulque macroule,2015,0,3
+Goéland pontique,2009,0,1
+Grèbe castagneux,2009,0,1
+Hibou moyen-duc,2009,0,1
+Mésange boréale,2011,0,2
+Moineau friquet,2017,0,1
+Rousserolle effarvatte,2009,0,1

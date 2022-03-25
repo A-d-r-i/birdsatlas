@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Bécasse des bois"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Canard colvert"
-"0";"Chevalier guignette"
-"0";"Chouette hulotte"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Fauvette mélanocéphale"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grive mauvis"
-"0";"Hirondelle de fenêtre"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Monticole bleu"
-"0";"Pic épeichette"
-"0";"Pigeon biset domestique"
-"0";"Rougequeue à front blanc"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2016,0,3
+Bécasse des bois,2017,0,6
+Bouscarle de Cetti,2017,0,1
+Bouvreuil pivoine,2015,0,3
+Bruant des roseaux,2018,0,1
+Canard colvert,2016,0,15
+Chevalier guignette,2018,0,5
+Chouette hulotte,2017,0,21
+Cisticole des joncs,2016,0,2
+Cochevis huppé,2016,0,3
+Effraie des clochers,2010,0,1
+Faisan de Colchide,2017,0,5
+Fauvette mélanocéphale,2016,0,9
+Gobemouche gris,2015,0,6
+Goéland leucophée,2015,0,1
+Grande Aigrette,2017,0,1
+Grive mauvis,2017,0,4
+Hirondelle de fenêtre,2017,0,9
+Merle à plastron,2018,0,11
+Moineau friquet,2010,0,1
+Moineau soulcie,2015,0,2
+Monticole bleu,2018,0,1
+Pic épeichette,2017,0,4
+Pigeon biset domestique,2017,0,7
+Rougequeue à front blanc,2018,0,15
+Venturon montagnard,2015,0,1

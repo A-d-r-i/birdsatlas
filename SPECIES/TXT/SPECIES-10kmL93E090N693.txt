@@ -1,43 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine sourde
-0        Bergeronnette grise
-0        Busard des roseaux
-0        Caille des blés
-0        Chardonneret élégant
-0        Cigogne blanche
-0        Cigogne noire
-0        Cincle plongeur
-0        Corbeau freux
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette grisette
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Grive litorne
-0        Héron cendré
-0        Hirondelle de fenêtre
-0        Hirondelle rustique
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Milan noir
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Tarier des prés
-0        Tarier pâtre
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bécassine sourde        2016    0        1
+Busard des roseaux      2017    0        5
+Caille des blés         2017    0        1
+Chardonneret élégant    2016    0        2
+Cigogne blanche         2016    0        1
+Cigogne noire           2017    0        3
+Cincle plongeur         2017    0        1
+Corbeau freux           2016    0        17
+Effraie des clochers    2018    0        3
+Faisan de Colchide      2016    0        1
+Faucon hobereau         2017    0        1
+Faucon pèlerin          2017    0        1
+Fauvette babillarde     2017    0        4
+Fauvette grisette       2018    0        8
+Gobemouche gris         2016    0        3
+Grand Cormoran          2017    0        1
+Grand-duc d'Europe      2012    0        2
+Grive litorne           2016    0        4
+Héron cendré            2015    0        4
+Hirondelle de fenêtre   2016    0        5
+Hirondelle rustique     2017    0        7
+Loriot d'Europe         2013    0        1
+Martin-pêcheur d'Europe 2019    0        1
+Milan noir              2015    0        9
+Ouette d'Egypte         2016    0        1
+Perdrix grise           2017    0        5
+Pic épeichette          2016    0        1
+Pie-grièche écorcheur   2015    0        1
+Pie-grièche grise       2016    0        10
+Pouillot fitis          2016    0        2
+Pouillot siffleur       2015    0        1
+Rossignol philomèle     2014    0        2
+Rousserolle verderolle  2015    0        1
+Tarier des prés         2016    0        1
+Tarier pâtre            2015    0        4
+Tourterelle des bois    2017    0        5
+Traquet motteux         2018    0        4
+Vanneau huppé           2017    0        5
 

@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cygne chanteur"
-"0";"Faucon hobereau"
-"0";"Grand Labbe"
-"0";"Guifette noire"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mésange nonnette"
-"0";"Océanite tempête"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Pipit de Richard"
-"0";"Plongeon arctique"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2015,0,1
+Bernache nonnette,2014,0,1
+Bondrée apivore,2008,0,1
+Chevêche d'Athéna,2017,0,3
+Cigogne noire,2015,0,1
+Cygne chanteur,2016,0,41
+Faucon hobereau,2018,0,5
+Grand Labbe,2013,0,1
+Guifette noire,2018,0,1
+Locustelle tachetée,2017,0,3
+Macareux moine,2014,0,3
+Mésange nonnette,2013,0,2
+Océanite tempête,2014,0,1
+Oie cendrée,2018,0,9
+Oie rieuse,2018,0,1
+Perdrix grise,2016,0,1
+Perdrix rouge,2015,0,1
+Perruche à collier,2015,0,1
+Pipit de Richard,2015,0,1
+Plongeon arctique,2017,0,2
+Rossignol philomèle,2014,0,1
+Rougequeue à front blanc,2018,0,1
+Sarcelle d'été,2017,0,4

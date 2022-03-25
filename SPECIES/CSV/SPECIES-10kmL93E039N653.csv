@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bernache cravant"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Cygne noir"
-"0";"Fauvette pitchou"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe huppé"
-"0";"Guifette noire"
-"0";"Ibis rouge"
-"0";"Mésange huppée"
-"0";"Mouette pygmée"
-"0";"Océanite culblanc"
-"0";"Outarde canepetière"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche grise"
-"0";"Rousserolle turdoïde"
-"0";"Sterne hansel"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bécasseau sanderling,2016,0,4
+Bécasseau tacheté,2011,0,5
+Bernache cravant,2011,0,1
+Blongios nain,2013,0,1
+Butor étoilé,2017,0,14
+Cygne noir,2007,0,1
+Fauvette pitchou,2008,0,2
+Gravelot à collier interrompu,2018,0,5
+Grèbe huppé,2008,0,4
+Guifette noire,2017,0,10
+Ibis rouge,2017,0,2
+Mésange huppée,2019,0,1
+Mouette pygmée,2017,0,2
+Océanite culblanc,2009,0,1
+Outarde canepetière,2016,0,1
+Phragmite aquatique,2017,0,2
+Pie-grièche grise,2018,0,22
+Rousserolle turdoïde,2013,0,1
+Sterne hansel,2017,0,14
+Sterne pierregarin,2018,0,6
+Tadorne casarca,2016,0,4
+Tichodrome échelette,2016,0,20

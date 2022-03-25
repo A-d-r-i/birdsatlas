@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Busard cendré
-0        Caille des blés
-0        Corbeau freux
-0        Cygne tuberculé
-0        Faisan de Colchide
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grive litorne
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Linotte mélodieuse
-0        Perdrix grise
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Vanneau huppé
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2014    0        8
+Busard cendré             2012    0        1
+Caille des blés           2011    0        2
+Corbeau freux             2013    0        2
+Cygne tuberculé           2018    0        22
+Faisan de Colchide        2014    0        12
+Gobemouche gris           2018    0        2
+Gobemouche noir           2018    0        5
+Grive litorne             2017    0        2
+Héron pourpré             2017    0        2
+Hibou moyen-duc           2017    0        14
+Linotte mélodieuse        2013    0        3
+Perdrix grise             2015    0        1
+Petit Gravelot            2012    0        1
+Pie-grièche à tête rousse 2012    0        1
+Pigeon colombin           2012    0        1
+Pipit des arbres          2018    0        7
+Pipit farlouse            2016    0        2
+Pouillot de Bonelli       2018    0        19
+Pouillot fitis            2018    0        3
+Pouillot siffleur         2016    0        4
+Roitelet huppé            2017    0        1
+Sarcelle d'été            2018    0        1
+Sarcelle d'hiver          2017    0        1
+Tichodrome échelette      2017    0        2
+Torcol fourmilier         2016    0        15
+Vanneau huppé             2017    0        5
+Vautour fauve             2016    0        2
 

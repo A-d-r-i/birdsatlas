@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant jaune"
-"0";"Coucou gris"
-"0";"Fauvette grisette"
-"0";"Pipit des arbres"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bruant jaune,2009,0,1
+Coucou gris,2009,0,1
+Fauvette grisette,2009,0,1
+Pipit des arbres,2009,0,1
+Tourterelle des bois,2009,0,1

@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bécasse des bois
-0        Bécassine des marais
-0        Blongios nain
-0        Bruant des roseaux
-0        Bruant jaune
-0        Busard des roseaux
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cigogne noire
-0        Cochevis huppé
-0        Coucou geai
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Fauvette orphée
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Héron garde-boeufs
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Hirondelle rousseline
-0        Linotte mélodieuse
-0        Martinet pâle
-0        Moineau friquet
-0        Perdrix rouge
-0        Perruche à collier
-0        Pie-grièche écorcheur
-0        Pipit rousseline
-0        Tarier des prés
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette des champs   2015    0        1
+Bécasse des bois      2017    0        1
+Bécassine des marais  2012    0        4
+Blongios nain         2014    0        1
+Bruant des roseaux    2010    0        2
+Bruant jaune          2017    0        2
+Busard des roseaux    2018    0        2
+Chevêche d'Athéna     2018    0        2
+Chouette hulotte      2018    0        9
+Cigogne noire         2017    0        1
+Cochevis huppé        2009    0        1
+Coucou geai           2009    0        1
+Effraie des clochers  2012    0        2
+Faucon pèlerin        2015    0        3
+Fauvette orphée       2009    0        1
+Grive litorne         2017    0        1
+Grosbec casse-noyaux  2018    0        4
+Héron garde-boeufs    2015    0        2
+Hirondelle de rivage  2010    0        1
+Hirondelle de rochers 2015    0        2
+Hirondelle rousseline 2018    0        2
+Linotte mélodieuse    2010    0        3
+Martinet pâle         2009    0        1
+Moineau friquet       2013    0        2
+Perdrix rouge         2016    0        3
+Perruche à collier    2016    0        3
+Pie-grièche écorcheur 2009    0        2
+Pipit rousseline      2018    0        2
+Tarier des prés       2017    0        1
+Torcol fourmilier     2010    0        2
 

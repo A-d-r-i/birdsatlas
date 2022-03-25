@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Faisan de Colchide"
-"0";"Fauvette pitchou"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2018,0,1
+Bondrée apivore,2016,0,8
+Bruant des neiges,2018,0,2
+Bruant des roseaux,2014,0,1
+Busard Saint-Martin,2017,0,3
+Caille des blés,2011,0,2
+Chevêche d'Athéna,2009,0,1
+Cisticole des joncs,2010,0,5
+Faisan de Colchide,2018,0,7
+Fauvette pitchou,2009,0,1
+Héron garde-boeufs,2018,0,1
+Hibou des marais,2018,0,2
+Hirondelle de rivage,2014,0,2
+Hypolaïs polyglotte,2009,0,1
+Locustelle tachetée,2014,0,2
+Mouette mélanocéphale,2007,0,1
+Perdrix rouge,2009,0,5
+Pipit des arbres,2016,0,5
+Pluvier doré,2017,0,2
+Pouillot siffleur,2018,0,8
+Serin cini,2009,0,2

@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette haussecol
-0        Busard pâle
-0        Chevalier sylvain
-0        Flamant du Chili
-0        Harelde boréale
-0        Labbe parasite
-0        Locustelle tachetée
-0        Moineau friquet
-0        Pipit à gorge rousse
-0        Rousserolle verderolle
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette haussecol     2009    0        1
+Busard pâle            2010    0        1
+Chevalier sylvain      2016    0        1
+Flamant du Chili       2010    0        1
+Harelde boréale        2017    0        1
+Labbe parasite         2017    0        1
+Locustelle tachetée    2009    0        1
+Moineau friquet        2011    0        1
+Pipit à gorge rousse   2016    0        1
+Rousserolle verderolle 2017    0        8
+Torcol fourmilier      2016    0        1
 

@@ -1,48 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Canard mandarin
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cigogne noire
-0        Cochevis huppé
-0        Courlis cendré
-0        Cygne tuberculé
-0        Faisan vénéré
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Foulque macroule
-0        Goéland brun
-0        Goéland cendré
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Guifette moustac
-0        Hibou des marais
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange nonnette
-0        Milan royal
-0        Moineau friquet
-0        Mouette mélanocéphale
-0        Oie cendrée
-0        Petit Gravelot
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle d'eau
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        1
+Bergeronnette printanière 2018    0        7
+Bihoreau gris             2009    0        1
+Bouvreuil pivoine         2017    0        7
+Bruant des roseaux        2019    0        15
+Busard cendré             2018    0        6
+Busard des roseaux        2011    0        6
+Canard mandarin           2011    0        1
+Canard souchet            2015    0        1
+Chevalier aboyeur         2016    0        2
+Chevalier guignette       2010    0        1
+Cigogne blanche           2018    0        25
+Cochevis huppé            2016    0        5
+Courlis cendré            2017    0        4
+Cygne tuberculé           2015    0        6
+Faisan vénéré             2013    0        2
+Faucon émerillon          2012    0        2
+Faucon pèlerin            2014    0        2
+Foulque macroule          2019    0        42
+Goéland brun              2012    0        3
+Goéland cendré            2012    0        3
+Goéland leucophée         2013    0        5
+Grèbe castagneux          2010    0        6
+Guifette moustac          2007    0        2
+Hibou des marais          2013    0        1
+Locustelle tachetée       2015    0        8
+Merle à plastron          2010    0        1
+Mésange nonnette          2014    0        9
+Milan royal               2016    0        15
+Moineau friquet           2012    0        1
+Mouette mélanocéphale     2013    0        2
+Oie cendrée               2014    0        2
+Petit Gravelot            2007    0        2
+Pie-grièche grise         2011    0        4
+Pigeon colombin           2018    0        5
+Pipit spioncelle          2016    0        3
+Pluvier doré              2017    0        30
+Pouillot fitis            2009    0        1
+Pouillot siffleur         2009    0        1
+Râle d'eau                2015    0        1
+Sarcelle d'hiver          2013    0        1
+Tarier des prés           2013    0        1
+Traquet motteux           2018    0        2
 

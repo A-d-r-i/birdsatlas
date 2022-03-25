@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Butor étoilé"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,1
+Aigrette garzette,2009,0,1
+Bécassine sourde,2012,0,1
+Bec-croisé des sapins,2018,0,2
+Bergeronnette printanière,2007,0,1
+Butor étoilé,2018,0,1
+Canard souchet,2007,0,1
+Chevalier aboyeur,2016,0,2
+Chevalier guignette,2016,0,6
+Corbeau freux,2018,0,2
+Courlis cendré,2007,0,1
+Élanion blanc,2017,0,1
+Engoulevent d'Europe,2016,0,1
+Faucon émerillon,2017,0,1
+Faucon pèlerin,2018,0,4
+Fauvette des jardins,2016,0,3
+Foulque macroule,2016,0,2
+Gobemouche gris,2016,0,3
+Grèbe huppé,2016,0,1
+Héron pourpré,2016,0,1
+Hibou moyen-duc,2017,0,1
+Hirondelle de rivage,2014,0,1
+Petit Gravelot,2016,0,2
+Pic mar,2010,0,2
+Pigeon biset domestique,2017,0,7
+Pouillot de Bonelli,2016,0,4
+Pouillot siffleur,2018,0,8
+Râle d'eau,2016,0,1
+Roitelet huppé,2018,0,5
+Sarcelle d'été,2007,0,1
+Tarier des prés,2018,0,2
+Vautour fauve,2018,0,1

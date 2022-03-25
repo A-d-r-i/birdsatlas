@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Cisticole des joncs"
-"0";"Faisan de Colchide"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pluvier guignard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,2
+Autour des palombes,2016,0,2
+Bécasse des bois,2017,0,1
+Cisticole des joncs,2016,0,1
+Faisan de Colchide,2015,0,2
+Grèbe castagneux,2013,0,1
+Grosbec casse-noyaux,2018,0,2
+Guifette moustac,2016,0,1
+Martinet à ventre blanc,2018,0,1
+Merle à plastron,2017,0,2
+Perdrix rouge,2014,0,1
+Pic mar,2014,0,1
+Pigeon colombin,2012,0,1
+Pluvier guignard,2013,0,1

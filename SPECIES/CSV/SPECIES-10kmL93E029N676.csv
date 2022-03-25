@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Calopsitte élégante"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Corbeau freux"
-"0";"Faucon émerillon"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Grosbec casse-noyaux"
-"0";"Mésange noire"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,4
+Bergeronnette printanière,2015,0,1
+Calopsitte élégante,2017,0,1
+Chevêche d'Athéna,2018,0,1
+Cisticole des joncs,2015,0,1
+Corbeau freux,2009,0,1
+Faucon émerillon,2017,0,1
+Fauvette grisette,2009,0,1
+Fauvette pitchou,2007,0,1
+Fuligule milouin,2017,0,1
+Grosbec casse-noyaux,2018,0,4
+Mésange noire,2017,0,1
+Mouette mélanocéphale,2017,0,1
+Oie cendrée,2018,0,3
+Phragmite des joncs,2017,0,1
+Râle d'eau,2016,0,1
+Rossignol philomèle,2016,0,1

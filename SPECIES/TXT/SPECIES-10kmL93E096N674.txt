@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bernache du Canada
-0        Bihoreau gris
-0        Bruant zizi
-0        Busard cendré
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Cigogne noire
-0        Combattant varié
-0        Courlis cendré
-0        Goéland leucophée
-0        Héron pourpré
-0        Huppe fasciée
-0        Jaseur boréal
-0        Moineau friquet
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Rémiz penduline
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigrette garzette   2018    0        1
+Bernache du Canada  2018    0        1
+Bihoreau gris       2018    0        1
+Bruant zizi         2013    0        2
+Busard cendré       2016    0        1
+Busard Saint-Martin 2013    0        3
+Chevalier guignette 2014    0        1
+Cigogne noire       2015    0        1
+Combattant varié    2018    0        1
+Courlis cendré      2012    0        1
+Goéland leucophée   2018    0        2
+Héron pourpré       2018    0        1
+Huppe fasciée       2012    0        3
+Jaseur boréal       2009    0        1
+Moineau friquet     2019    0        15
+Pie-grièche grise   2010    0        1
+Pigeon colombin     2013    0        1
+Pipit rousseline    2018    0        1
+Pipit spioncelle    2010    0        3
+Pluvier doré        2018    0        1
+Pouillot de Bonelli 2014    0        3
+Rémiz penduline     2014    0        1
 

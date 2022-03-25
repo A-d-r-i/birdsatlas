@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bondrée apivore
-0        Busard des roseaux
-0        Canard colvert
-0        Circaète Jean-le-Blanc
-0        Épervier d'Europe
-0        Fauvette des jardins
-0        Gobemouche gris
-0        Grand Tétras
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hirondelle de fenêtre
-0        Huppe fasciée
-0        Martinet noir
-0        Merle à plastron
-0        Pic mar
-0        Pipit des arbres
-0        Rollier d'Europe
-0        Rougequeue à front blanc
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tarier des prés
-0        Tourterelle turque
-0        Traquet motteux
-0        Vautour fauve
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Autour des palombes      2011    0        4
+Bondrée apivore          2010    0        2
+Busard des roseaux       2011    0        1
+Canard colvert           2015    0        1
+Circaète Jean-le-Blanc   2008    0        1
+Épervier d'Europe        2018    0        8
+Fauvette des jardins     2011    0        3
+Gobemouche gris          2010    0        3
+Grand Tétras             2010    0        3
+Grive mauvis             2011    0        1
+Grosbec casse-noyaux     2018    0        4
+Hirondelle de fenêtre    2016    0        3
+Huppe fasciée            2011    0        1
+Martinet noir            2016    0        3
+Merle à plastron         2011    0        3
+Pic mar                  2011    0        1
+Pipit des arbres         2010    0        4
+Rollier d'Europe         2017    0        1
+Rougequeue à front blanc 2011    0        4
+Sizerin cabaret          2009    0        1
+Sizerin flammé           2012    0        2
+Tarier des prés          2010    0        2
+Tourterelle turque       2012    0        2
+Traquet motteux          2017    0        1
+Vautour fauve            2007    0        1
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Courlis corlieu"
-"0";"Cygne de Bewick"
-"0";"Échasse blanche"
-"0";"Fauvette passerinette"
-"0";"Goéland marin"
-"0";"Grèbe esclavon"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Macreuse noire"
-"0";"Mésange boréale"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit à gorge rousse"
-"0";"Plongeon arctique"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot ibérique"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Avocette élégante,2018,0,3
+Barge à queue noire,2012,0,1
+Bécasseau sanderling,2007,0,1
+Bécasse des bois,2017,0,5
+Bécassine sourde,2018,0,3
+Bec-croisé des sapins,2016,0,13
+Bergeronnette flavéole (M.f.flavissima),2012,0,1
+Blongios nain,2015,0,4
+Butor étoilé,2016,0,2
+Courlis corlieu,2012,0,5
+Cygne de Bewick,2009,0,2
+Échasse blanche,2016,0,3
+Fauvette passerinette,2018,0,1
+Goéland marin,2007,0,1
+Grèbe esclavon,2016,0,3
+Harle bièvre,2008,0,1
+Harle huppé,2017,0,4
+Macreuse noire,2010,0,4
+Mésange boréale,2015,0,8
+Mouette tridactyle,2009,0,4
+Oie cendrée,2015,0,1
+Phragmite des joncs,2016,0,4
+Pie-grièche à tête rousse,2016,0,1
+Pie-grièche grise,2018,0,17
+Pipit à gorge rousse,2014,0,2
+Plongeon arctique,2013,0,3
+Plongeon imbrin,2013,0,6
+Pluvier doré,2016,0,1
+Pouillot de Bonelli,2016,0,7
+Pouillot ibérique,2018,0,1
+Rémiz penduline,2018,0,12
+Rousserolle turdoïde,2012,0,13
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2018,0,8
+Spatule blanche,2016,0,1
+Tichodrome échelette,2010,0,3

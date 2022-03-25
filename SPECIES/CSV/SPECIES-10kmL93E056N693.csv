@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Cigogne blanche"
-"0";"Faucon hobereau"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Petit Gravelot"
-"0";"Pouillot siffleur"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2019,0,2
+Cigogne blanche,2018,0,1
+Faucon hobereau,2009,0,1
+Merle à plastron,2017,0,1
+Moineau friquet,2015,0,1
+Petit Gravelot,2017,0,1
+Pouillot siffleur,2009,0,1
+Sizerin flammé,2018,0,3
+Tourterelle des bois,2009,0,1

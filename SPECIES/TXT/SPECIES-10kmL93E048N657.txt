@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Caille des blés
-0        Calopsitte élégante
-0        Canard colvert
-0        Chevalier guignette
-0        Circaète Jean-le-Blanc
-0        Cisticole des joncs
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Faucon kobez
-0        Faucon pèlerin
-0        Fauvette pitchou
-0        Foulque macroule
-0        Gobemouche gris
-0        Gorgebleue à miroir
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Milan noir
-0        Milan royal
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie cendrée
-0        Pie-grièche écorcheur
-0        Pouillot siffleur
-0        Torcol fourmilier
-0        Vautour fauve
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette lulu           2009    0        1
+Autour des palombes     2017    0        3
+Bec-croisé des sapins   2017    0        1
+Bruant des roseaux      2015    0        5
+Caille des blés         2013    0        3
+Calopsitte élégante     2017    0        5
+Canard colvert          2015    0        5
+Chevalier guignette     2011    0        1
+Circaète Jean-le-Blanc  2015    0        4
+Cisticole des joncs     2009    0        1
+Cochevis huppé          2009    0        1
+Engoulevent d'Europe    2009    0        1
+Faucon hobereau         2017    0        4
+Faucon kobez            2015    0        1
+Faucon pèlerin          2013    0        2
+Fauvette pitchou        2018    0        1
+Foulque macroule        2015    0        1
+Gobemouche gris         2018    0        6
+Gorgebleue à miroir     2010    0        2
+Martinet noir           2017    0        8
+Martin-pêcheur d'Europe 2009    0        1
+Milan noir              2018    0        4
+Milan royal             2015    0        1
+Moineau friquet         2015    0        7
+Oedicnème criard        2013    0        3
+Oie cendrée             2017    0        5
+Pie-grièche écorcheur   2018    0        3
+Pouillot siffleur       2015    0        1
+Torcol fourmilier       2009    0        1
+Vautour fauve           2018    0        1
 

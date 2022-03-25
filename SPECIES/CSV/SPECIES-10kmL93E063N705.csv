@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Cygne tuberculé"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,1
+Cygne tuberculé,2013,0,1
+Hirondelle de fenêtre,2009,0,1
+Hirondelle rustique,2009,0,1

@@ -1,33 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécassine sourde
-0        Bruant fou
-0        Canard mandarin
-0        Canard pilet
-0        Chevalier aboyeur
-0        Corneille mantelée
-0        Courlis cendré
-0        Crabier chevelu
-0        Faisan vénéré
-0        Faucon pèlerin
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Grèbe à cou noir
-0        Guifette noire
-0        Harle bièvre
-0        Harle piette
-0        Hibou moyen-duc
-0        Labbe parasite
-0        Macreuse brune
-0        Moineau friquet
-0        Perdrix grise
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Râle d'eau
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bécasseau minute    2017    0        1
+Bécassine sourde    2013    0        1
+Bruant fou          2009    0        1
+Canard mandarin     2015    0        3
+Canard pilet        2015    0        2
+Chevalier aboyeur   2016    0        2
+Corneille mantelée  2011    0        1
+Courlis cendré      2013    0        2
+Crabier chevelu     2017    0        4
+Faisan vénéré       2016    0        36
+Faucon pèlerin      2018    0        16
+Fuligule nyroca     2014    0        4
+Garrot à oeil d'or  2011    0        2
+Grèbe à cou noir    2013    0        1
+Guifette noire      2013    0        1
+Harle bièvre        2014    0        2
+Harle piette        2008    0        1
+Labbe parasite      2007    0        1
+Macreuse brune      2010    0        1
+Moineau friquet     2012    0        4
+Perdrix grise       2016    0        12
+Petit Gravelot      2018    0        14
+Phragmite des joncs 2016    0        3
+Pipit spioncelle    2018    0        3
+Râle d'eau          2017    0        1
+Sarcelle d'été      2017    0        9
+Sizerin cabaret     2009    0        1
+Sizerin flammé      2011    0        3
 

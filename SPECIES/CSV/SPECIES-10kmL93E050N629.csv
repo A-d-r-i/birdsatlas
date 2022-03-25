@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Grand-duc d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,1
+Cochevis huppé,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon pèlerin,2018,0,1
+Gobemouche gris,2009,0,1
+Grand-duc d'Europe,2013,0,1
+Mésange huppée,2012,0,1
+Mésange nonnette,2009,0,1
+Perdrix grise,2018,0,1
+Pipit rousseline,2012,0,1
+Pouillot fitis,2012,0,1
+Roitelet huppé,2014,0,1
+Tarin des aulnes,2015,0,3
+Vanneau huppé,2015,0,2

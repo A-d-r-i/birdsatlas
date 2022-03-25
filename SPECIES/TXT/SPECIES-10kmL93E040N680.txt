@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Caille des blés
-0        Chevalier aboyeur
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Fuligule milouinan
-0        Goéland cendré
-0        Goéland pontique
-0        Guifette moustac
-0        Hibou moyen-duc
-0        Ibis sacré
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Milan noir
-0        Moineau friquet
-0        Mouette pygmée
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Perdrix rouge
-0        Pipit des arbres
-0        Pluvier doré
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Sterne arctique
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2018    0        1
+Bécassine sourde          2013    0        1
+Bergeronnette printanière 2014    0        1
+Busard cendré             2016    0        1
+Busard des roseaux        2011    0        2
+Busard Saint-Martin       2017    0        2
+Butor étoilé              2018    0        3
+Caille des blés           2013    0        3
+Chevalier aboyeur         2018    0        5
+Cigogne blanche           2017    0        1
+Cisticole des joncs       2012    0        1
+Courlis cendré            2011    0        2
+Engoulevent d'Europe      2014    0        2
+Fuligule milouinan        2012    0        1
+Goéland cendré            2007    0        1
+Goéland pontique          2014    0        1
+Guifette moustac          2015    0        2
+Hibou moyen-duc           2017    0        4
+Ibis sacré                2009    0        2
+Locustelle luscinioïde    2014    0        7
+Locustelle tachetée       2012    0        1
+Mésange huppée            2011    0        2
+Mésange noire             2017    0        1
+Milan noir                2018    0        11
+Moineau friquet           2017    0        5
+Mouette pygmée            2008    0        1
+Oie cendrée               2018    0        4
+Ouette d'Egypte           2012    0        1
+Perdrix rouge             2016    0        1
+Pipit des arbres          2011    0        1
+Pluvier doré              2014    0        7
+Rossignol philomèle       2018    0        4
+Rougequeue à front blanc  2014    0        1
+Sarcelle d'été            2017    0        14
+Sterne arctique           2011    0        2
+Tarier des prés           2017    0        16
 

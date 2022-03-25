@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bernache cravant"
-"0";"Bouscarle de Cetti"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2008,0,1
+Bécassine des marais,2012,0,4
+Bergeronnette des ruisseaux,2018,0,8
+Bernache cravant,2009,0,1
+Bouscarle de Cetti,2009,0,1
+Bruant jaune,2011,0,2
+Busard des roseaux,2016,0,1
+Calopsitte élégante,2017,0,1
+Canard chipeau,2014,0,3
+Chevêche d'Athéna,2014,0,1
+Cigogne blanche,2014,0,3
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2016,0,3
+Grèbe huppé,2014,0,2
+Grive mauvis,2018,0,2
+Grosbec casse-noyaux,2018,0,8
+Merle à plastron,2016,0,1
+Mouette pygmée,2009,0,1
+Mouette tridactyle,2009,0,2
+Oedicnème criard,2012,0,3
+Perdrix grise,2018,0,1
+Perdrix rouge,2011,0,1
+Phragmite des joncs,2016,0,1
+Pie-grièche à tête rousse,2016,0,6
+Pigeon colombin,2015,0,1
+Pouillot siffleur,2014,0,1
+Râle d'eau,2016,0,2
+Rousserolle effarvatte,2014,0,1
+Tadorne de Belon,2009,0,1
+Torcol fourmilier,2016,0,4
+Tournepierre à collier,2009,0,1
+Vautour fauve,2016,0,1

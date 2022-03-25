@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Cigogne blanche"
-"0";"Cisticole des joncs"
-"0";"Coucou gris"
-"0";"Cygne tuberculé"
-"0";"Faucon hobereau"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Pic épeichette"
-"0";"Pluvier doré"
-"0";"Rougequeue noir"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,1
+Bec-croisé des sapins,2018,0,1
+Bondrée apivore,2009,0,1
+Busard cendré,2018,0,1
+Cigogne blanche,2018,0,1
+Cisticole des joncs,2009,0,1
+Coucou gris,2009,0,1
+Cygne tuberculé,2009,0,1
+Faucon hobereau,2009,0,1
+Gobemouche gris,2009,0,1
+Grand Corbeau,2009,0,1
+Milan noir,2018,0,1
+Milan royal,2018,0,2
+Pic épeichette,2009,0,1
+Pluvier doré,2016,0,1
+Rougequeue noir,2019,0,1
+Tourterelle des bois,2018,0,3

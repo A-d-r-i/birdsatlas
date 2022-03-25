@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Bruant proyer"
-"0";"Canard pilet"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Fuligule à bec cerclé"
-"0";"Goéland cendré"
-"0";"Grèbe jougris"
-"0";"Harle bièvre"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pic noir"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2009,0,1
+Bruant proyer,2009,0,2
+Canard pilet,2009,0,1
+Chouette hulotte,2018,0,4
+Corbeau freux,2019,0,15
+Courlis cendré,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Fuligule à bec cerclé,2018,0,1
+Goéland cendré,2009,0,1
+Grèbe jougris,2018,0,1
+Harle bièvre,2009,0,1
+Mésange boréale,2009,0,2
+Moineau friquet,2018,0,5
+Oedicnème criard,2009,0,1
+Pic noir,2018,0,4
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2009,0,1

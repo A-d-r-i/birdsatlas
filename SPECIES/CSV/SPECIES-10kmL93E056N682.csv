@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2018,0,9
+Bergeronnette des ruisseaux,2009,0,2
+Bouvreuil pivoine,2009,0,2
+Bruant des roseaux,2018,0,4
+Bruant zizi,2018,0,2
+Choucas des tours,2019,0,3
+Chouette hulotte,2009,0,2
+Cochevis huppé,2009,0,1
+Corbeau freux,2009,0,1
+Coucou gris,2009,0,1
+Cygne tuberculé,2009,0,1
+Effraie des clochers,2009,0,1
+Épervier d'Europe,2009,0,1
+Faisan vénéré,2009,0,1
+Faucon émerillon,2018,0,2
+Fauvette grisette,2018,0,2
+Gallinule poule-d'eau,2018,0,3
+Grand Cormoran,2009,0,1
+Grèbe castagneux,2009,0,1
+Grèbe huppé,2009,0,1
+Grimpereau des bois,2009,0,1
+Grive litorne,2018,0,3
+Hibou moyen-duc,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Linotte mélodieuse,2018,0,5
+Loriot d'Europe,2009,0,1
+Martin-pêcheur d'Europe,2009,0,2
+Mésange à longue queue,2009,0,2
+Mésange huppée,2009,0,2
+Milan royal,2018,0,2
+Mouette rieuse,2019,0,1
+Perdrix grise,2018,0,3
+Pic épeichette,2009,0,1
+Pic mar,2009,0,2
+Pic noir,2009,0,2
+Pigeon colombin,2018,0,1
+Pipit farlouse,2019,0,9
+Pluvier doré,2018,0,14
+Pouillot fitis,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Roitelet huppé,2009,0,2
+Rossignol philomèle,2009,0,1
+Serin cini,2009,0,1
+Tarier des prés,2016,0,1
+Tarier pâtre,2009,0,1
+Tarin des aulnes,2009,0,1
+Tourterelle des bois,2009,0,1

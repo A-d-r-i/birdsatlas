@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Busard pâle"
-"0";"Chevalier aboyeur"
-"0";"Corbeau freux"
-"0";"Fauvette à lunettes"
-"0";"Grimpereau des bois"
-"0";"Mésange huppée"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2012,0,1
+Busard pâle,2018,0,2
+Chevalier aboyeur,2018,0,1
+Corbeau freux,2019,0,3
+Fauvette à lunettes,2014,0,1
+Grimpereau des bois,2017,0,1
+Mésange huppée,2018,0,1
+Pigeon biset (origine naturelle),2017,0,1
+Tadorne de Belon,2013,0,1

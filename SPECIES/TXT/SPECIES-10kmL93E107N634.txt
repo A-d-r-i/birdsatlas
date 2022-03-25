@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bruant jaune
-0        Buse variable
-0        Chevêchette d'Europe
-0        Chocard à bec jaune
-0        Chouette hulotte
-0        Faucon pèlerin
-0        Fauvette mélanocéphale
-0        Gobemouche gris
-0        Grive mauvis
-0        Guêpier d'Europe
-0        Lagopède alpin
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Petit-duc scops
-0        Tarier des prés
-0        Tichodrome échelette
-0        Torcol fourmilier
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bondrée apivore         2016    0        4
+Bruant jaune            2012    0        1
+Buse variable           2016    0        7
+Chevêchette d'Europe    2010    0        1
+Chocard à bec jaune     2018    0        8
+Chouette hulotte        2016    0        4
+Faucon pèlerin          2011    0        2
+Fauvette mélanocéphale  2016    0        1
+Gobemouche gris         2015    0        1
+Grive mauvis            2013    0        2
+Guêpier d'Europe        2011    0        1
+Lagopède alpin          2013    0        1
+Martin-pêcheur d'Europe 2015    0        1
+Merle à plastron        2009    0        2
+Petit-duc scops         2013    0        1
+Tarier des prés         2014    0        4
+Tichodrome échelette    2010    0        2
+Torcol fourmilier       2014    0        2
 

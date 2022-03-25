@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Cassenoix moucheté"
-"0";"Cigogne noire"
-"0";"Cygne tuberculé"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Grèbe huppé"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Moineau soulcie"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2011,0,1
+Bruant ortolan,2013,0,1
+Canard chipeau,2010,0,2
+Canard siffleur,2016,0,1
+Cassenoix moucheté,2012,0,2
+Cigogne noire,2015,0,1
+Cygne tuberculé,2018,0,5
+Faucon kobez,2015,0,1
+Foulque macroule,2015,0,1
+Grèbe huppé,2016,0,3
+Harle bièvre,2015,0,3
+Hirondelle de rivage,2017,0,1
+Locustelle tachetée,2015,0,3
+Merle à plastron,2016,0,1
+Mésange boréale,2009,0,2
+Moineau soulcie,2012,0,17
+Mouette tridactyle,2009,0,9
+Oie cendrée,2011,0,1
+Perdrix rouge,2018,0,11
+Perruche à collier,2018,0,2
+Petit Gravelot,2015,0,7
+Pie-grièche à tête rousse,2008,0,1
+Râle d'eau,2007,0,1
+Rollier d'Europe,2015,0,4
+Rousserolle effarvatte,2016,0,4
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2018,0,8
+Tadorne de Belon,2010,0,5
+Venturon montagnard,2013,0,1

@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Canard colvert"
-"0";"Cincle plongeur"
-"0";"Faucon hobereau"
-"0";"Gobemouche à collier"
-"0";"Grande Aigrette"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2018,0,3
+Bouvreuil pivoine,2015,0,2
+Bruant des roseaux,2012,0,1
+Canard colvert,2009,0,1
+Cincle plongeur,2009,0,1
+Faucon hobereau,2015,0,5
+Gobemouche à collier,2009,0,1
+Grande Aigrette,2016,0,5
+Hypolaïs polyglotte,2012,0,2
+Martin-pêcheur d'Europe,2015,0,1
+Mésange huppée,2012,0,2
+Mésange noire,2009,0,1
+Pic mar,2009,0,1
+Pigeon colombin,2012,0,2
+Pouillot siffleur,2009,0,1
+Roitelet huppé,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2017,0,5
+Sittelle torchepot,2016,0,2
+Vanneau huppé,2018,0,1

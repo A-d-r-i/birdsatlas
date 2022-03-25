@@ -1,6 +1,6 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Cormoran huppé
-0        Grand Cormoran
+frname         lastobs newcount oldcount
+------         ------- -------- --------
+Cormoran huppé 2017    0        1
+Grand Cormoran 2017    0        1
 

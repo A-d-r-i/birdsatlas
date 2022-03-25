@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange nonnette"
-"0";"Petit-duc scops"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,2
+Bécasse des bois,2009,0,1
+Bondrée apivore,2014,0,3
+Canard souchet,2009,0,1
+Chevalier culblanc,2012,0,1
+Chevalier guignette,2017,0,1
+Foulque macroule,2013,0,4
+Grèbe castagneux,2013,0,8
+Grosbec casse-noyaux,2018,0,6
+Héron pourpré,2009,0,1
+Hibou moyen-duc,2014,0,2
+Mésange nonnette,2015,0,2
+Petit-duc scops,2017,0,11
+Pic noir,2015,0,3
+Pie-grièche écorcheur,2009,0,2

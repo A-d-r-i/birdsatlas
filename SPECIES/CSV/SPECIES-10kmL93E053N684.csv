@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mouette rieuse"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2018,0,1
+Cigogne noire,2017,0,1
+Cochevis huppé,2009,0,1
+Grosbec casse-noyaux,2019,0,2
+Mésange à longue queue,2009,0,2
+Mésange huppée,2009,0,1
+Mouette rieuse,2009,0,1
+Pigeon biset domestique,2019,0,2
+Pigeon colombin,2019,0,2
+Pinson du Nord,2019,0,2
+Pouillot fitis,2009,0,1

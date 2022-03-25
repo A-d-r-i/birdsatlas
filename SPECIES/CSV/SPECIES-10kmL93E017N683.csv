@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Foulque macroule"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Pouillot ibérique"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2016,0,7
+Busard des roseaux,2016,0,1
+Chevalier culblanc,2016,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon hobereau,2018,0,9
+Faucon pèlerin,2015,0,4
+Foulque macroule,2015,0,1
+Gobemouche noir,2015,0,1
+Goéland argenté,2018,0,5
+Hibou moyen-duc,2009,0,2
+Hirondelle de rivage,2016,0,1
+Huppe fasciée,2010,0,1
+Milan noir,2018,0,1
+Milan royal,2017,0,8
+Moineau friquet,2013,0,1
+Pic épeichette,2018,0,3
+Pie-grièche grise,2009,0,1
+Pipit spioncelle,2018,0,2
+Pouillot ibérique,2018,0,3
+Vanneau huppé,2018,0,7

@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Oedicnème criard"
-"0";"Pic mar"
-"0";"Pouillot siffleur"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2019,0,3
+Bergeronnette printanière,2016,0,4
+Bruant fou,2018,0,6
+Busard cendré,2009,0,1
+Chevalier guignette,2016,0,1
+Cigogne noire,2016,0,1
+Faucon hobereau,2014,0,3
+Fauvette des jardins,2018,0,4
+Gobemouche gris,2018,0,19
+Grive litorne,2019,0,10
+Guêpier d'Europe,2016,0,1
+Locustelle tachetée,2015,0,1
+Loriot d'Europe,2009,0,1
+Martin-pêcheur d'Europe,2018,0,2
+Oedicnème criard,2015,0,1
+Pic mar,2016,0,10
+Pouillot siffleur,2011,0,1
+Traquet motteux,2012,0,1

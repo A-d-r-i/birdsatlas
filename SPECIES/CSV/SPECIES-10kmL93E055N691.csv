@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Faisan vénéré"
-"0";"Grèbe à cou noir"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2009,0,1
+Butor étoilé,2009,0,1
+Caille des blés,2009,0,1
+Canard siffleur,2016,0,5
+Cigogne noire,2016,0,1
+Courlis cendré,2009,0,1
+Faisan vénéré,2009,0,1
+Grèbe à cou noir,2016,0,1
+Locustelle tachetée,2009,0,1
+Mésange boréale,2009,0,1

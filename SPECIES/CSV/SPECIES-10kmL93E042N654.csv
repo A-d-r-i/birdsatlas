@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Avocette élégante"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Gorgebleue à miroir"
-"0";"Grive litorne"
-"0";"Outarde canepetière"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2011,0,1
+Avocette élégante,2018,0,1
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bruant des roseaux,2017,0,7
+Bruant ortolan,2011,0,1
+Cigogne noire,2017,0,2
+Courlis cendré,2011,0,3
+Échasse blanche,2007,0,2
+Engoulevent d'Europe,2009,0,1
+Faucon pèlerin,2018,0,4
+Gorgebleue à miroir,2010,0,2
+Grive litorne,2018,0,7
+Outarde canepetière,2016,0,7
+Petit-duc scops,2010,0,3
+Phragmite des joncs,2011,0,1
+Pipit rousseline,2015,0,1
+Pouillot de Bonelli,2010,0,2
+Pouillot siffleur,2011,0,1
+Râle des genêts,2009,0,1
+Tarier des prés,2015,0,1
+Tichodrome échelette,2012,0,14
+Vautour fauve,2013,0,1

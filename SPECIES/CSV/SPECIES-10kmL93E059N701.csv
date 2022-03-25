@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau tacheté"
-"0";"Bécasseau violet"
-"0";"Bruant zizi"
-"0";"Chevalier stagnatile"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Etourneau roselin"
-"0";"Flamant des Caraïbes"
-"0";"Flamant du Chili"
-"0";"Flamant rose"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette leucoptère"
-"0";"Hibou moyen-duc"
-"0";"Linotte à bec jaune"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Plongeon arctique"
-"0";"Pluvier guignard"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau tacheté,2018,0,2
+Bécasseau violet,2009,0,1
+Bruant zizi,2009,0,1
+Chevalier stagnatile,2015,0,1
+Chevêche d'Athéna,2018,0,2
+Cochevis huppé,2017,0,3
+Etourneau roselin,2017,0,2
+Flamant des Caraïbes,2018,0,6
+Flamant du Chili,2017,0,1
+Flamant rose,2017,0,3
+Grosbec casse-noyaux,2018,0,3
+Guifette leucoptère,2018,0,3
+Hibou moyen-duc,2009,0,2
+Linotte à bec jaune,2009,0,1
+Locustelle luscinioïde,2009,0,1
+Macareux moine,2017,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Plongeon arctique,2018,0,4
+Pluvier guignard,2018,0,1
+Sizerin flammé,2015,0,1
+Torcol fourmilier,2018,0,1

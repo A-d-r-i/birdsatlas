@@ -1,51 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Chouette hulotte
-0        Corbeau freux
-0        Cygne noir
-0        Effraie des clochers
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Fuligule milouin
-0        Fuligule morillon
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grèbe huppé
-0        Grive litorne
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange nonnette
-0        Milan noir
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix grise
-0        Pic mar
-0        Pipit des arbres
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Serin cini
-0        Sizerin flammé
-0        Tarier des prés
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Barge à queue noire       2017    0        1
+Bergeronnette printanière 2016    0        8
+Bondrée apivore           2014    0        1
+Bouvreuil pivoine         2017    0        8
+Bruant des roseaux        2012    0        5
+Bruant proyer             2018    0        6
+Busard Saint-Martin       2015    0        2
+Chevalier guignette       2010    0        1
+Chouette hulotte          2012    0        2
+Corbeau freux             2018    0        15
+Cygne noir                2011    0        2
+Effraie des clochers      2012    0        7
+Fauvette des jardins      2013    0        4
+Fauvette grisette         2016    0        8
+Fuligule milouin          2016    0        5
+Fuligule morillon         2010    0        4
+Gobemouche gris           2017    0        3
+Goéland leucophée         2012    0        1
+Grèbe huppé               2010    0        4
+Grive litorne             2017    0        3
+Hibou moyen-duc           2016    0        1
+Hypolaïs polyglotte       2018    0        7
+Linotte mélodieuse        2013    0        13
+Martinet noir             2010    0        2
+Martin-pêcheur d'Europe   2013    0        4
+Mésange boréale           2014    0        1
+Mésange huppée            2012    0        2
+Mésange nonnette          2012    0        5
+Milan noir                2017    0        5
+Moineau friquet           2016    0        8
+Mouette rieuse            2017    0        1
+Perdrix grise             2012    0        5
+Pic mar                   2010    0        2
+Pipit des arbres          2016    0        9
+Pluvier doré              2013    0        1
+Pouillot fitis            2012    0        4
+Pouillot siffleur         2013    0        1
+Râle d'eau                2016    0        1
+Roitelet huppé            2017    0        3
+Rossignol philomèle       2012    0        3
+Rousserolle effarvatte    2010    0        3
+Serin cini                2012    0        4
+Sizerin flammé            2017    0        1
+Tarier des prés           2018    0        3
+Tarin des aulnes          2012    0        3
+Tourterelle des bois      2012    0        4
+Traquet motteux           2010    0        2
 

@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Busard des roseaux"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon crécerellette"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fauvette mélanocéphale"
-"0";"Fauvette passerinette"
-"0";"Grand Cormoran"
-"0";"Grosbec casse-noyaux"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Moineau soulcie"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Aigle royal,2012,0,1
+Bergeronnette printanière,2017,0,4
+Bruant fou,2016,0,3
+Busard des roseaux,2017,0,2
+Choucas des tours,2018,0,3
+Chouette hulotte,2017,0,4
+Cigogne blanche,2012,0,4
+Cincle plongeur,2017,0,3
+Effraie des clochers,2018,0,8
+Engoulevent d'Europe,2018,0,4
+Faucon crécerellette,2012,0,1
+Faucon hobereau,2013,0,5
+Fauvette grisette,2018,0,21
+Fauvette mélanocéphale,2017,0,1
+Fauvette passerinette,2018,0,2
+Grand Cormoran,2013,0,3
+Grosbec casse-noyaux,2015,0,1
+Héron garde-boeufs,2018,0,3
+Hibou moyen-duc,2017,0,2
+Moineau soulcie,2018,0,3
+Pic épeichette,2018,0,2
+Pic mar,2015,0,2
+Pie-grièche à tête rousse,2013,0,2
+Pipit des arbres,2016,0,10
+Pipit rousseline,2012,0,1
+Pouillot véloce,2018,0,4
+Roitelet à triple bandeau,2017,0,1
+Tarin des aulnes,2018,0,1
+Torcol fourmilier,2012,0,7
+Verdier d'Europe,2018,0,10

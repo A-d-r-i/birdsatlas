@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Busard des roseaux
-0        Canard chipeau
-0        Canard pilet
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Cigogne blanche
-0        Courlis cendré
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Mésange huppée
-0        Mésange noire
-0        Moineau friquet
-0        Mouette rieuse
-0        Petit Gravelot
-0        Pic cendré
-0        Pouillot fitis
-0        Tadorne casarca
-0        Tarier des prés
-0        Traquet motteux
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2017    0        1
+Autour des palombes  2018    0        1
+Bécasse des bois     2018    0        3
+Busard des roseaux   2016    0        1
+Canard chipeau       2017    0        1
+Canard pilet         2008    0        1
+Canard souchet       2017    0        5
+Chevalier aboyeur    2010    0        1
+Chevalier guignette  2018    0        10
+Chevalier sylvain    2012    0        1
+Cigogne blanche      2012    0        1
+Courlis cendré       2017    0        1
+Gobemouche gris      2017    0        2
+Goéland leucophée    2009    0        1
+Grèbe castagneux     2016    0        2
+Grive mauvis         2013    0        4
+Hibou moyen-duc      2017    0        3
+Hirondelle de rivage 2016    0        2
+Mésange huppée       2012    0        2
+Mésange noire        2017    0        2
+Moineau friquet      2017    0        1
+Mouette rieuse       2018    0        5
+Petit Gravelot       2010    0        1
+Pic cendré           2018    0        2
+Pouillot fitis       2012    0        2
+Tadorne casarca      2014    0        2
+Tarier des prés      2013    0        1
+Traquet motteux      2017    0        2
 

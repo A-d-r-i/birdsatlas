@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Autour des palombes"
-"0";"Busard pâle"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Coucou geai"
-"0";"Courlis cendré"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Glaréole à collier"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Petit Gravelot"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot ibérique"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,4
+Autour des palombes,2014,0,1
+Busard pâle,2018,0,100
+Canard pilet,2014,0,1
+Chevalier gambette,2016,0,1
+Coucou geai,2012,0,1
+Courlis cendré,2009,0,1
+Fauvette pitchou,2018,0,9
+Fuligule morillon,2016,0,6
+Garrot à oeil d'or,2018,0,2
+Glaréole à collier,2012,0,2
+Grand-duc d'Europe,2009,0,1
+Grèbe à cou noir,2016,0,1
+Grive litorne,2017,0,1
+Petit Gravelot,2011,0,2
+Pigeon biset (origine naturelle),2017,0,3
+Plongeon imbrin,2019,0,16
+Pouillot à grands sourcils,2018,0,2
+Pouillot ibérique,2017,0,1

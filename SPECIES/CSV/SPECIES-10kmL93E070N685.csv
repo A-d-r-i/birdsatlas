@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Cygne noir"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2015,0,1
+Busard pâle,2017,0,2
+Buse pattue,2011,0,7
+Canard carolin,2012,0,1
+Cygne noir,2016,0,7
+Goéland argenté,2012,0,1
+Gorgebleue à miroir,2013,0,1
+Grand Gravelot,2014,0,1
+Hibou moyen-duc,2014,0,3
+Huppe fasciée,2010,0,1
+Moineau friquet,2012,0,1
+Ouette d'Egypte,2012,0,1
+Sizerin cabaret,2012,0,2
+Sizerin flammé,2012,0,2
+Sterne pierregarin,2012,0,2
+Torcol fourmilier,2014,0,1
+Vautour fauve,2018,0,3
+Vautour moine,2017,0,1

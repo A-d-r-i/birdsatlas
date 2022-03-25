@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Cigogne blanche
-0        Faisan de Colchide
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Gorgebleue à miroir
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Mésange boréale
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Râle d'eau
-0        Râle des genêts
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Busard Saint-Martin   2013    0        2
+Cigogne blanche       2012    0        1
+Faisan de Colchide    2012    0        2
+Fauvette des jardins  2015    0        7
+Gallinule poule-d'eau 2013    0        2
+Gorgebleue à miroir   2013    0        1
+Hypolaïs polyglotte   2015    0        4
+Locustelle tachetée   2011    0        3
+Mésange boréale       2013    0        4
+Pie-grièche grise     2008    0        2
+Pipit farlouse        2013    0        2
+Râle d'eau            2016    0        1
+Râle des genêts       2013    0        1
 

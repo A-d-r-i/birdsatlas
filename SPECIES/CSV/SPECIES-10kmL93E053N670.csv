@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Canard mandarin"
-"0";"Cochevis huppé"
-"0";"Échasse blanche"
-"0";"Fuligule milouinan"
-"0";"Grèbe à cou noir"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Locustelle tachetée"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Sterne caspienne"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2018,0,2
+Bécassine sourde,2008,0,3
+Bernache nonnette,2009,0,1
+Canard mandarin,2012,0,3
+Cochevis huppé,2015,0,6
+Échasse blanche,2016,0,2
+Fuligule milouinan,2009,0,1
+Grèbe à cou noir,2012,0,1
+Harle huppé,2009,0,1
+Harle piette,2013,0,4
+Locustelle tachetée,2015,0,4
+Mouette pygmée,2009,0,1
+Nette rousse,2018,0,2
+Pie-grièche à tête rousse,2008,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Sterne caspienne,2009,0,1

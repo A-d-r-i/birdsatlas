@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Chouette de Tengmalm
-0        Faucon pèlerin
-0        Goéland leucophée
-0        Grosbec casse-noyaux
-0        Mésange nonnette
-0        Mouette rieuse
-0        Pinson du Nord
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Chouette de Tengmalm 2017    0        1
+Faucon pèlerin       2012    0        1
+Goéland leucophée    2013    0        2
+Grosbec casse-noyaux 2014    0        1
+Mésange nonnette     2015    0        1
+Mouette rieuse       2017    0        1
+Pinson du Nord       2017    0        2
 

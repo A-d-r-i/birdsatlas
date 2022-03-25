@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette lulu"
-"0";"Bruant des neiges"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Canard mandarin"
-"0";"Chevêche d'Athéna"
-"0";"Chevêchette d'Europe"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Jaseur boréal"
-"0";"Martin-pêcheur d'Europe"
-"0";"Perdrix rouge"
-"0";"Pie-grièche grise"
-"0";"Pipit farlouse"
-"0";"Tichodrome échelette"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2014,0,1
+Alouette lulu,2008,0,4
+Bruant des neiges,2010,0,4
+Bruant fou,2018,0,5
+Busard cendré,2008,0,1
+Busard Saint-Martin,2019,0,4
+Canard mandarin,2013,0,1
+Chevêche d'Athéna,2015,0,3
+Chevêchette d'Europe,2014,0,10
+Chouette de Tengmalm,2012,0,3
+Cigogne blanche,2013,0,2
+Faucon kobez,2014,0,1
+Fauvette babillarde,2017,0,2
+Grand Cormoran,2017,0,3
+Grand-duc d'Europe,2017,0,1
+Grive mauvis,2018,0,5
+Hibou moyen-duc,2018,0,30
+Jaseur boréal,2009,0,40
+Martin-pêcheur d'Europe,2009,0,1
+Perdrix rouge,2015,0,2
+Pie-grièche grise,2016,0,1
+Pipit farlouse,2018,0,15
+Tichodrome échelette,2013,0,2
+Traquet motteux,2018,0,40
+Vanneau huppé,2014,0,1
+Venturon montagnard,2007,0,1

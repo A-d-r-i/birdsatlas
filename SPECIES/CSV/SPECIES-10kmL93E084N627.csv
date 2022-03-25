@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécassine sourde"
-"0";"Bruant des neiges"
-"0";"Bruant jaune"
-"0";"Bruant nain"
-"0";"Bruant ortolan"
-"0";"Chevalier stagnatile"
-"0";"Cormoran pygmée"
-"0";"Cygne chanteur"
-"0";"Élanion blanc"
-"0";"Fauvette babillarde"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Corbeau"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à bec bigarré"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette leucoptère"
-"0";"Macreuse brune"
-"0";"Macreuse noire"
-"0";"Mésange noire"
-"0";"Monticole de roche"
-"0";"Mouette pygmée"
-"0";"Perdrix grise"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
-"0";"Traquet du désert"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Barge rousse,2013,0,1
+Bécassine sourde,2014,0,1
+Bruant des neiges,2016,0,1
+Bruant jaune,2017,0,2
+Bruant nain,2011,0,1
+Bruant ortolan,2017,0,2
+Chevalier stagnatile,2018,0,1
+Cormoran pygmée,2014,0,2
+Cygne chanteur,2015,0,1
+Élanion blanc,2011,0,1
+Fauvette babillarde,2018,0,2
+Garrot à oeil d'or,2015,0,4
+Goéland brun,2017,0,2
+Goéland cendré,2013,0,4
+Grand Corbeau,2016,0,3
+Gravelot à collier interrompu,2013,0,1
+Grèbe à bec bigarré,2014,0,58
+Grive mauvis,2012,0,3
+Grosbec casse-noyaux,2018,0,1
+Guifette leucoptère,2017,0,4
+Macreuse brune,2010,0,3
+Macreuse noire,2009,0,2
+Mésange noire,2017,0,2
+Monticole de roche,2007,0,1
+Mouette pygmée,2018,0,12
+Perdrix grise,2014,0,3
+Sterne caugek,2015,0,1
+Tadorne casarca,2009,0,1
+Traquet du désert,2015,0,4
+Vautour moine,2011,0,1

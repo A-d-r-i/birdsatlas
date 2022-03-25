@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Cygne noir"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pluvier doré"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,2
+Bernache nonnette,2015,0,1
+Bruant des roseaux,2016,0,6
+Busard des roseaux,2014,0,1
+Butor étoilé,2010,0,2
+Canard mandarin,2015,0,1
+Canard siffleur,2012,0,2
+Canard souchet,2017,0,2
+Chevêche d'Athéna,2012,0,2
+Cigogne blanche,2012,0,1
+Corbeau freux,2014,0,9
+Cygne noir,2015,0,1
+Faucon pèlerin,2015,0,1
+Fuligule milouin,2012,0,1
+Héron pourpré,2016,0,1
+Hibou moyen-duc,2016,0,2
+Mésange noire,2014,0,3
+Mésange nonnette,2018,0,14
+Perdrix rouge,2014,0,1
+Pic cendré,2012,0,1
+Pluvier doré,2014,0,5
+Serin cini,2011,0,2
+Sterne pierregarin,2015,0,3
+Tarier des prés,2014,0,2
+Torcol fourmilier,2010,0,1

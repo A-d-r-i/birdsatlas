@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bouvreuil pivoine
-0        Bruant ortolan
-0        Busard cendré
-0        Caille des blés
-0        Chevêchette d'Europe
-0        Crave à bec rouge
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Faucon kobez
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Fauvette pitchou
-0        Gobemouche noir
-0        Grand-duc d'Europe
-0        Grimpereau des bois
-0        Héron cendré
-0        Hirondelle de rochers
-0        Hypolaïs polyglotte
-0        Merle à plastron
-0        Mésange boréale
-0        Mésange nonnette
-0        Moineau cisalpin
-0        Monticole de roche
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Petit-duc scops
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Serin cini
-0        Tarier pâtre
-0        Tichodrome échelette
-0        Tourterelle turque
-0        Venturon montagnard
-0        Verdier d'Europe
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2015    0        6
+Bouvreuil pivoine     2017    0        7
+Bruant ortolan        2018    0        4
+Busard cendré         2011    0        1
+Caille des blés       2009    0        1
+Chevêchette d'Europe  2012    0        1
+Crave à bec rouge     2018    0        15
+Engoulevent d'Europe  2017    0        7
+Épervier d'Europe     2017    0        7
+Faucon kobez          2016    0        1
+Faucon pèlerin        2016    0        4
+Fauvette grisette     2015    0        9
+Fauvette orphée       2013    0        1
+Fauvette passerinette 2017    0        5
+Fauvette pitchou      2017    0        1
+Gobemouche noir       2014    0        1
+Grand-duc d'Europe    2013    0        1
+Grimpereau des bois   2012    0        2
+Héron cendré          2014    0        1
+Hirondelle de rochers 2017    0        20
+Hypolaïs polyglotte   2009    0        1
+Merle à plastron      2016    0        6
+Mésange boréale       2018    0        24
+Mésange nonnette      2019    0        15
+Moineau cisalpin      2017    0        5
+Monticole de roche    2016    0        4
+Niverolle alpine      2012    0        2
+Perdrix bartavelle    2015    0        4
+Petit-duc scops       2017    0        5
+Pic épeichette        2010    0        2
+Pie-grièche écorcheur 2013    0        2
+Pipit farlouse        2013    0        1
+Pipit rousseline      2018    0        1
+Pipit spioncelle      2014    0        3
+Pouillot siffleur     2009    0        1
+Rossignol philomèle   2012    0        3
+Serin cini            2017    0        15
+Tarier pâtre          2017    0        7
+Tichodrome échelette  2015    0        5
+Tourterelle turque    2015    0        2
+Venturon montagnard   2018    0        6
+Verdier d'Europe      2017    0        4
 

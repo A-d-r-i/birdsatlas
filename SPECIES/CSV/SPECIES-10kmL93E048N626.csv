@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fuligule morillon"
-"0";"Perdrix grise"
-"0";"Phalarope à bec large"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2017,0,1
+Bécasseau variable,2017,0,1
+Canard chipeau,2019,0,3
+Canard siffleur,2013,0,1
+Faucon émerillon,2009,0,1
+Faucon hobereau,2018,0,3
+Fuligule morillon,2009,0,1
+Perdrix grise,2018,0,1
+Phalarope à bec large,2013,0,2
+Tadorne casarca,2017,0,1
+Tadorne de Belon,2009,0,1

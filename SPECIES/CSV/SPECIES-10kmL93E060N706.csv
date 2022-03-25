@@ -1,14 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Grosbec casse-noyaux"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Faisan vénéré,2017,0,1
+Fauvette babillarde,2017,0,3
+Fuligule milouin,2009,0,1
+Fuligule morillon,2009,0,1
+Grosbec casse-noyaux,2018,0,4
+Perdrix grise,2009,0,1
+Perdrix rouge,2018,0,2
+Perruche à collier,2013,0,1
+Rossignol philomèle,2017,0,1
+Rousserolle verderolle,2009,0,1

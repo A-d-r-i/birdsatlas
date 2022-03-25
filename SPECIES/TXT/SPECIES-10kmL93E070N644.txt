@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau tacheté
-0        Bruant des neiges
-0        Bruant ortolan
-0        Buse pattue
-0        Coucou geai
-0        Courlis corlieu
-0        Crabier chevelu
-0        Cygne chanteur
-0        Cygne noir
-0        Fauvette passerinette
-0        Hypolaïs ictérine
-0        Locustelle luscinioïde
-0        Oedicnème criard
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne hansel
-0        Tichodrome échelette
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2011    0        2
+Barge à queue noire       2016    0        4
+Barge rousse              2008    0        2
+Bécasseau tacheté         2011    0        7
+Bruant des neiges         2010    0        3
+Bruant ortolan            2008    0        1
+Buse pattue               2013    0        5
+Coucou geai               2016    0        1
+Courlis corlieu           2010    0        2
+Crabier chevelu           2014    0        1
+Cygne chanteur            2015    0        26
+Cygne noir                2016    0        2
+Fauvette passerinette     2018    0        1
+Hypolaïs ictérine         2016    0        1
+Locustelle luscinioïde    2007    0        1
+Oedicnème criard          2015    0        1
+Pie-grièche à tête rousse 2016    0        27
+Pipit rousseline          2013    0        1
+Pouillot siffleur         2018    0        1
+Sizerin cabaret           2018    0        1
+Sizerin flammé            2018    0        2
+Sterne hansel             2013    0        1
+Tichodrome échelette      2009    0        2
 

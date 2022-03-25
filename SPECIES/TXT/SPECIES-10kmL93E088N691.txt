@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine sourde
-0        Bihoreau gris
-0        Blongios nain
-0        Corbeau freux
-0        Faisan de Colchide
-0        Goéland leucophée
-0        Gorgebleue à miroir
-0        Grand Corbeau
-0        Grand-duc d'Europe
-0        Guifette noire
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Hypolaïs ictérine
-0        Mésange noire
-0        Nette rousse
-0        Oie à tête barrée
-0        Perdrix grise
-0        Pic cendré
-0        Pigeon biset domestique
-0        Serin cini
-0        Tadorne de Belon
-0        Tourterelle turque
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigrette garzette       2013    0        1
+Bécassine sourde        2016    0        3
+Bihoreau gris           2015    0        2
+Blongios nain           2013    0        2
+Corbeau freux           2009    0        1
+Faisan de Colchide      2018    0        16
+Goéland leucophée       2019    0        2
+Gorgebleue à miroir     2017    0        2
+Grand Corbeau           2014    0        1
+Grand-duc d'Europe      2018    0        1
+Guifette noire          2017    0        3
+Héron garde-boeufs      2017    0        2
+Héron pourpré           2014    0        2
+Hirondelle de rivage    2017    0        4
+Hypolaïs ictérine       2012    0        1
+Mésange noire           2017    0        3
+Nette rousse            2018    0        1
+Oie à tête barrée       2016    0        11
+Perdrix grise           2013    0        5
+Pic cendré              2017    0        3
+Pigeon biset domestique 2017    0        4
+Serin cini              2009    0        1
+Tadorne de Belon        2013    0        2
+Tourterelle turque      2013    0        4
 

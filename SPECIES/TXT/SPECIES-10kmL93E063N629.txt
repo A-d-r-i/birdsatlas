@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bernache du Canada
-0        Bruant jaune
-0        Canard à collier noir
-0        Canard siffleur
-0        Cigogne blanche
-0        Cigogne noire
-0        Cygne tuberculé
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette passerinette
-0        Grèbe huppé
-0        Grive litorne
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Martinet à ventre blanc
-0        Oie cendrée
-0        Petit-duc scops
-0        Pipit rousseline
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Sterne pierregarin
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2018    0        3
+Aigrette garzette       2017    0        4
+Avocette élégante       2018    0        1
+Bécasseau variable      2018    0        3
+Bécasse des bois        2018    0        4
+Bernache du Canada      2012    0        2
+Bruant jaune            2016    0        2
+Canard à collier noir   2018    0        16
+Canard siffleur         2017    0        1
+Cigogne blanche         2018    0        3
+Cigogne noire           2017    0        2
+Cygne tuberculé         2017    0        2
+Faucon émerillon        2015    0        2
+Faucon hobereau         2017    0        3
+Fauvette passerinette   2017    0        1
+Grèbe huppé             2017    0        2
+Grive litorne           2017    0        4
+Hibou des marais        2018    0        1
+Hibou moyen-duc         2011    0        3
+Locustelle tachetée     2010    0        1
+Martinet à ventre blanc 2018    0        1
+Oie cendrée             2017    0        2
+Petit-duc scops         2007    0        1
+Pipit rousseline        2017    0        6
+Roitelet huppé          2018    0        1
+Rollier d'Europe        2018    0        4
+Sterne pierregarin      2018    0        1
 

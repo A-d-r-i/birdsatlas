@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bécassine des marais
-0        Bihoreau gris
-0        Calopsitte élégante
-0        Canard carolin
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Faisan vénéré
-0        Gorgebleue à miroir
-0        Hibou des marais
-0        Locustelle tachetée
-0        Mouette rieuse
-0        Perruche à collier
-0        Pipit rousseline
-0        Rollier d'Europe
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour moine
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur alpin        2018    0        14
+Bécassine des marais   2017    0        2
+Bihoreau gris          2012    0        3
+Calopsitte élégante    2013    0        1
+Canard carolin         2017    0        3
+Chevêche d'Athéna      2018    0        4
+Cigogne noire          2015    0        11
+Faisan vénéré          2016    0        1
+Gorgebleue à miroir    2014    0        1
+Hibou des marais       2012    0        1
+Locustelle tachetée    2016    0        7
+Mouette rieuse         2017    0        4
+Perruche à collier     2014    0        2
+Pipit rousseline       2011    0        3
+Rollier d'Europe       2013    0        2
+Rousserolle effarvatte 2014    0        3
+Sizerin cabaret        2018    0        9
+Sizerin flammé         2018    0        24
+Vautour moine          2017    0        1
 

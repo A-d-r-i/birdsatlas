@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Cormoran huppé"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Pigeon colombin"
-"0";"Rousserolle verderolle"
-"0";"Tadorne de Belon"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Caille des blés,2009,0,1
+Cormoran huppé,2009,0,1
+Hibou moyen-duc,2010,0,1
+Locustelle tachetée,2009,0,1
+Moineau friquet,2013,0,1
+Pigeon colombin,2009,0,1
+Rousserolle verderolle,2009,0,1
+Tadorne de Belon,2009,0,1
+Tourterelle des bois,2009,0,1

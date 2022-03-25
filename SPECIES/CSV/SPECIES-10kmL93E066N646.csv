@@ -1,23 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Fuligule morillon"
-"0";"Grimpereau des bois"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange huppée"
-"0";"Perdrix grise"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Sarcelle d'été"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2015,0,1
+Aigle royal,2018,0,2
+Aigrette garzette,2013,0,1
+Avocette élégante,2014,0,1
+Bécasse des bois,2017,0,4
+Bruant fou,2017,0,1
+Busard cendré,2015,0,1
+Busard Saint-Martin,2016,0,1
+Fuligule morillon,2016,0,3
+Grimpereau des bois,2013,0,1
+Guifette moustac,2016,0,1
+Harle bièvre,2016,0,1
+Héron pourpré,2015,0,3
+Hibou moyen-duc,2015,0,1
+Mésange huppée,2019,0,4
+Perdrix grise,2015,0,1
+Pie-grièche à tête rousse,2016,0,2
+Pigeon colombin,2017,0,3
+Tadorne de Belon,2011,0,1

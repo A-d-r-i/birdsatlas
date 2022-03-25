@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasse des bois
-0        Bruant des neiges
-0        Bruant jaune
-0        Busard cendré
-0        Canard siffleur
-0        Chevalier arlequin
-0        Chevalier stagnatile
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Crabier chevelu
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Fauvette à lunettes
-0        Fuligule milouin
-0        Fuligule morillon
-0        Goéland d'Audouin
-0        Grand-duc d'Europe
-0        Grand Labbe
-0        Grèbe esclavon
-0        Grèbe jougris
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Guillemot de Troïl
-0        Harelde boréale
-0        Labbe à longue queue
-0        Labbe pomarin
-0        Lusciniole à moustaches
-0        Martinet à ventre blanc
-0        Martinet pâle
-0        Monticole de roche
-0        Nette rousse
-0        Océanite tempête
-0        Oie cendrée
-0        Perdrix grise
-0        Pic épeiche
-0        Pie-grièche méridionale
-0        Pigeon biset domestique
-0        Pipit à gorge rousse
-0        Pluvier doré
-0        Pouillot à grands sourcils
-0        Pouillot ibérique
-0        Puffin de Scopoli
-0        Sarcelle d'été
-0        Sterne caspienne
-0        Traquet oreillard
-0        Vanneau huppé
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigle botté                2018    0        4
+Barge rousse               2008    0        3
+Bécasseau cocorli          2018    0        8
+Bécasse des bois           2018    0        1
+Bruant des neiges          2011    0        1
+Bruant jaune               2011    0        1
+Busard cendré              2016    0        2
+Canard siffleur            2018    0        3
+Chevalier arlequin         2016    0        4
+Chevalier stagnatile       2018    0        4
+Chevalier sylvain          2018    0        7
+Chevêche d'Athéna          2018    0        3
+Cigogne noire              2012    0        1
+Crabier chevelu            2017    0        7
+Effraie des clochers       2018    0        11
+Faucon pèlerin             2012    0        1
+Fauvette à lunettes        2018    0        24
+Fuligule milouin           2015    0        3
+Fuligule morillon          2012    0        1
+Goéland d'Audouin          2017    0        11
+Grand-duc d'Europe         2017    0        6
+Grand Labbe                2017    0        15
+Grèbe esclavon             2013    0        1
+Grèbe jougris              2016    0        2
+Grive mauvis               2016    0        1
+Grosbec casse-noyaux       2018    0        6
+Guillemot de Troïl         2015    0        1
+Harelde boréale            2013    0        2
+Labbe à longue queue       2008    0        3
+Labbe pomarin              2015    0        8
+Lusciniole à moustaches    2017    0        1
+Martinet à ventre blanc    2010    0        3
+Martinet pâle              2018    0        2
+Monticole de roche         2018    0        4
+Nette rousse               2015    0        9
+Océanite tempête           2015    0        5
+Oie cendrée                2011    0        1
+Perdrix grise              2017    0        2
+Pic épeiche                2018    0        2
+Pie-grièche méridionale    2012    0        5
+Pigeon biset domestique    2013    0        1
+Pipit à gorge rousse       2018    0        1
+Pluvier doré               2012    0        3
+Pouillot à grands sourcils 2016    0        1
+Pouillot ibérique          2018    0        2
+Puffin de Scopoli          2018    0        33
+Sarcelle d'été             2018    0        6
+Sterne caspienne           2015    0        3
+Traquet oreillard          2010    0        1
+Vanneau huppé              2019    0        21
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Cigogne blanche"
-"0";"Cisticole des joncs"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Loriot d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,2
+Bécasse des bois,2018,0,1
+Bergeronnette printanière,2013,0,3
+Bruant des roseaux,2015,0,5
+Bruant ortolan,2013,0,1
+Bruant proyer,2012,0,2
+Cigogne blanche,2013,0,3
+Cisticole des joncs,2016,0,3
+Courlis cendré,2016,0,2
+Effraie des clochers,2013,0,7
+Faucon d'Eléonore,2015,0,4
+Faucon émerillon,2016,0,4
+Faucon kobez,2015,0,1
+Fauvette des jardins,2012,0,3
+Fauvette grisette,2012,0,2
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2013,0,6
+Gobemouche noir,2013,0,4
+Grive draine,2016,0,13
+Grive mauvis,2010,0,1
+Hibou moyen-duc,2009,0,2
+Hirondelle de fenêtre,2009,0,1
+Loriot d'Europe,2014,0,4
+Mésange à longue queue,2013,0,10
+Mésange noire,2012,0,3
+Perdrix rouge,2016,0,7
+Pic épeichette,2016,0,1
+Pie-grièche grise,2015,0,1
+Pie-grièche méridionale,2012,0,1
+Pigeon biset domestique,2016,0,7
+Pinson du Nord,2015,0,5
+Pipit rousseline,2013,0,5
+Roitelet huppé,2016,0,3
+Rollier d'Europe,2015,0,1
+Rousserolle effarvatte,2017,0,2
+Serin cini,2014,0,7
+Tarier des prés,2013,0,1

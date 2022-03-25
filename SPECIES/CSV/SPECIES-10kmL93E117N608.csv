@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Buse variable"
-"0";"Caille des blés"
-"0";"Cormoran huppé"
-"0";"Engoulevent d'Europe"
-"0";"Faucon crécerelle"
-"0";"Fauvette à tête noire"
-"0";"Fauvette de Moltoni"
-"0";"Fauvette pitchou"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Goéland d'Audouin"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rousseline"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Merle noir"
-"0";"Mésange bleue"
-"0";"Milan royal"
-"0";"Petit-duc scops"
-"0";"Pinson des arbres"
-"0";"Roitelet à triple bandeau"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2018,0,2
+Buse variable,2009,0,1
+Caille des blés,2017,0,1
+Cormoran huppé,2017,0,1
+Engoulevent d'Europe,2017,0,2
+Faucon crécerelle,2016,0,2
+Fauvette à tête noire,2017,0,7
+Fauvette de Moltoni,2017,0,1
+Fauvette pitchou,2017,0,5
+Geai des chênes,2017,0,2
+Gobemouche gris,2018,0,5
+Goéland d'Audouin,2017,0,1
+Guêpier d'Europe,2017,0,1
+Hirondelle de fenêtre,2009,0,1
+Hirondelle rousseline,2009,0,1
+Hirondelle rustique,2009,0,1
+Huppe fasciée,2017,0,1
+Merle noir,2018,0,3
+Mésange bleue,2018,0,6
+Milan royal,2017,0,1
+Petit-duc scops,2018,0,2
+Pinson des arbres,2018,0,4
+Roitelet à triple bandeau,2017,0,7

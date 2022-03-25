@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cormoran huppé"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Garrot à oeil d'or"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Rousserolle verderolle"
-"0";"Spatule blanche"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,1
+Bécassine sourde,2018,0,1
+Butor étoilé,2011,0,1
+Caille des blés,2009,0,1
+Canard pilet,2015,0,1
+Canard souchet,2009,0,1
+Chevalier culblanc,2018,0,1
+Chevêche d'Athéna,2009,0,1
+Cormoran huppé,2013,0,1
+Faucon hobereau,2009,0,1
+Fauvette grisette,2009,0,2
+Fuligule milouin,2017,0,3
+Garrot à oeil d'or,2011,0,2
+Harle bièvre,2011,0,3
+Héron pourpré,2017,0,1
+Hibou moyen-duc,2018,0,4
+Mésange noire,2018,0,9
+Rousserolle verderolle,2009,0,1
+Spatule blanche,2017,0,1
+Sterne pierregarin,2016,0,1

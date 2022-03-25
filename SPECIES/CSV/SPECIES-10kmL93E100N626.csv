@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasseau tacheté"
-"0";"Bergeronnette citrine"
-"0";"Bruant des neiges"
-"0";"Bruant jaune"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Chevalier bargette"
-"0";"Chevalier stagnatile"
-"0";"Cincle plongeur"
-"0";"Conure veuve"
-"0";"Corbeau freux"
-"0";"Cygne de Bewick"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Étourneau unicolore"
-"0";"Faucon crécerellette"
-"0";"Fauvette à lunettes"
-"0";"Fauvette orphée"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Grèbe jougris"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Monticole bleu"
-"0";"Oie cendrée"
-"0";"Panure à moustaches"
-"0";"Pigeon colombin"
-"0";"Pingouin torda"
-"0";"Plongeon imbrin"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Aigle royal,2016,0,3
+Bécasseau tacheté,2017,0,2
+Bergeronnette citrine,2016,0,1
+Bruant des neiges,2012,0,6
+Bruant jaune,2015,0,5
+Butor étoilé,2013,0,26
+Canard carolin,2012,0,1
+Canard des Bahamas,2012,0,1
+Chevalier bargette,2016,0,1
+Chevalier stagnatile,2017,0,30
+Cincle plongeur,2016,0,1
+Conure veuve,2011,0,2
+Corbeau freux,2016,0,7
+Cygne de Bewick,2011,0,1
+Effraie des clochers,2014,0,2
+Eider à duvet,2017,0,15
+Étourneau unicolore,2012,0,3
+Faucon crécerellette,2017,0,1
+Fauvette à lunettes,2018,0,2
+Fauvette orphée,2017,0,1
+Fuligule nyroca,2018,0,6
+Garrot à oeil d'or,2017,0,1
+Grèbe jougris,2017,0,1
+Guifette leucoptère,2014,0,3
+Harle bièvre,2018,0,16
+Hibou des marais,2018,0,7
+Hibou moyen-duc,2017,0,2
+Macreuse noire,2017,0,3
+Merle à plastron,2017,0,3
+Monticole bleu,2011,0,3
+Oie cendrée,2017,0,9
+Panure à moustaches,2014,0,1
+Pigeon colombin,2017,0,1
+Pingouin torda,2017,0,34
+Plongeon imbrin,2017,0,26
+Tadorne casarca,2013,0,1

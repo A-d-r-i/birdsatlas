@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier sylvain"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Corneille mantelée"
-"0";"Courlis corlieu"
-"0";"Crave à bec rouge"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette orphée"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grive obscure"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de rivage"
-"0";"Mésange nonnette"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2019,0,20
+Aigle botté,2016,0,1
+Bécasse des bois,2016,0,5
+Bec-croisé des sapins,2017,0,11
+Bergeronnette printanière,2014,0,5
+Bihoreau gris,2014,0,2
+Bouvreuil pivoine,2018,0,16
+Bruant fou,2009,0,1
+Bruant jaune,2017,0,3
+Bruant ortolan,2009,0,2
+Bruant proyer,2014,0,7
+Busard des roseaux,2010,0,2
+Caille des blés,2015,0,1
+Chevalier sylvain,2014,0,1
+Chouette hulotte,2017,0,8
+Cigogne noire,2018,0,2
+Corneille mantelée,2012,0,3
+Courlis corlieu,2016,0,1
+Crave à bec rouge,2010,0,1
+Engoulevent d'Europe,2015,0,5
+Fauvette orphée,2017,0,3
+Gobemouche noir,2017,0,4
+Grand Cormoran,2017,0,1
+Grand-duc d'Europe,2012,0,3
+Grive obscure,2007,0,1
+Héron garde-boeufs,2017,0,2
+Hirondelle de rivage,2013,0,1
+Mésange nonnette,2016,0,1
+Milan noir,2017,0,6
+Moineau friquet,2010,0,1
+Moineau soulcie,2009,0,2
+Perdrix rouge,2015,0,13
+Pipit des arbres,2014,0,3
+Pipit farlouse,2014,0,1
+Pouillot fitis,2014,0,2
+Râle d'eau,2013,0,1
+Rollier d'Europe,2018,0,3
+Rougequeue à front blanc,2017,0,11
+Sarcelle d'été,2015,0,2
+Sarcelle d'hiver,2010,0,1
+Vanneau huppé,2017,0,1
+Vautour moine,2016,0,1
+Venturon montagnard,2016,0,3

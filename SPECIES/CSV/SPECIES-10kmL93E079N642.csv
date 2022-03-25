@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant proyer"
-"0";"Busard pâle"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette mélanocéphale"
-"0";"Grand Cormoran"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bruant proyer,2013,0,4
+Busard pâle,2018,0,3
+Chevalier gambette,2014,0,1
+Chevalier sylvain,2011,0,1
+Cigogne noire,2018,0,5
+Corbeau freux,2015,0,1
+Faucon émerillon,2016,0,4
+Faucon kobez,2015,0,1
+Fauvette mélanocéphale,2017,0,1
+Grand Cormoran,2018,0,8
+Hibou moyen-duc,2014,0,6
+Hypolaïs polyglotte,2018,0,4
+Loriot d'Europe,2015,0,1
+Mésange boréale,2015,0,1
+Moineau friquet,2012,0,1
+Oedicnème criard,2012,0,2
+Pigeon biset domestique,2011,0,1
+Pipit rousseline,2013,0,1
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,4
+Tourterelle des bois,2012,0,1

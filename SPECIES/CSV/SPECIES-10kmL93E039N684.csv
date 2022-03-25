@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Faucon hobereau"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2009,0,1
+Chouette hulotte,2015,0,1
+Coucou gris,2009,0,1
+Faucon hobereau,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange noire,2016,0,1
+Milan royal,2015,0,1
+Moineau friquet,2015,0,1
+Traquet motteux,2010,0,1

@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Busard des roseaux"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Élanion blanc"
-"0";"Faisan vénéré"
-"0";"Fuligule milouin"
-"0";"Grand Gravelot"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sterne naine"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bécasseau cocorli,2017,0,1
+Bécasseau maubèche,2015,0,3
+Bergeronnette flavéole (M.f.flavissima),2017,0,4
+Bihoreau gris,2018,0,1
+Bouvreuil pivoine,2018,0,6
+Busard des roseaux,2015,0,8
+Chevalier aboyeur,2018,0,61
+Chevalier sylvain,2018,0,19
+Combattant varié,2015,0,5
+Élanion blanc,2009,0,1
+Faisan vénéré,2017,0,2
+Fuligule milouin,2015,0,2
+Grand Gravelot,2018,0,6
+Guêpier d'Europe,2017,0,1
+Hibou moyen-duc,2017,0,4
+Hirondelle de rivage,2017,0,4
+Locustelle tachetée,2016,0,6
+Martin-pêcheur d'Europe,2018,0,10
+Merle à plastron,2016,0,2
+Moineau friquet,2015,0,1
+Phragmite des joncs,2017,0,3
+Pie-grièche écorcheur,2017,0,10
+Pigeon biset (origine naturelle),2009,0,1
+Pouillot siffleur,2010,0,1
+Rousserolle effarvatte,2018,0,6
+Sarcelle d'été,2018,0,3
+Sterne naine,2015,0,1
+Tarin des aulnes,2018,0,18
+Torcol fourmilier,2017,0,1

@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bouscarle de Cetti
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Combattant varié
-0        Corbeau freux
-0        Courlis cendré
-0        Eider à duvet
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fou de Bassan
-0        Fuligule milouinan
-0        Gobemouche gris
-0        Gravelot à collier interrompu
-0        Grèbe à cou noir
-0        Harle bièvre
-0        Harle huppé
-0        Héron pourpré
-0        Labbe parasite
-0        Locustelle tachetée
-0        Macreuse brune
-0        Macreuse noire
-0        Mésange huppée
-0        Milan noir
-0        Moineau friquet
-0        Mouette pygmée
-0        Mouette tridactyle
-0        Pingouin torda
-0        Pipit maritime
-0        Plongeon arctique
-0        Plongeon catmarin
-0        Pluvier doré
-0        Pouillot siffleur
-0        Puffin des Baléares
-0        Râle d'eau
-0        Sizerin flammé
-0        Sterne caugek
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Bécasseau variable            2017    0        1
+Bouscarle de Cetti            2009    0        1
+Canard chipeau                2009    0        1
+Canard siffleur               2009    0        1
+Chevalier aboyeur             2017    0        4
+Chevalier guignette           2019    0        6
+Combattant varié              2017    0        2
+Corbeau freux                 2014    0        1
+Courlis cendré                2009    0        1
+Eider à duvet                 2009    0        1
+Engoulevent d'Europe          2009    0        1
+Faucon émerillon              2016    0        1
+Faucon pèlerin                2017    0        2
+Fou de Bassan                 2009    0        1
+Fuligule milouinan            2016    0        1
+Gobemouche gris               2009    0        1
+Gravelot à collier interrompu 2017    0        1
+Grèbe à cou noir              2009    0        1
+Harle bièvre                  2019    0        1
+Harle huppé                   2009    0        1
+Héron pourpré                 2015    0        4
+Labbe parasite                2009    0        1
+Locustelle tachetée           2009    0        1
+Macreuse brune                2009    0        1
+Macreuse noire                2009    0        1
+Mésange huppée                2009    0        1
+Milan noir                    2018    0        1
+Moineau friquet               2014    0        1
+Mouette pygmée                2009    0        1
+Mouette tridactyle            2009    0        1
+Pingouin torda                2009    0        1
+Pipit maritime                2009    0        1
+Plongeon arctique             2009    0        1
+Plongeon catmarin             2009    0        1
+Pluvier doré                  2017    0        2
+Pouillot siffleur             2009    0        1
+Puffin des Baléares           2009    0        1
+Râle d'eau                    2018    0        1
+Sizerin flammé                2013    0        1
+Sterne caugek                 2009    0        1
 

@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Faisan vénéré"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Mésange huppée"
+frname,lastobs,newcount,oldcount
+Faisan vénéré,2009,0,1
+Locustelle tachetée,2009,0,1
+Martinet noir,2009,0,1
+Mésange huppée,2009,0,1

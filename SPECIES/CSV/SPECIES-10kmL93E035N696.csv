@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant lapon"
-"0";"Corbeau freux"
-"0";"Gobemouche noir"
-"0";"Grive litorne"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
+frname,lastobs,newcount,oldcount
+Bruant lapon,2017,0,1
+Corbeau freux,2009,0,1
+Gobemouche noir,2016,0,1
+Grive litorne,2016,0,1
+Merle à plastron,2018,0,2
+Mouette pygmée,2017,0,1

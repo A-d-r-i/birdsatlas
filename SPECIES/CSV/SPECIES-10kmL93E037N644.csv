@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette calandrelle"
-"0";"Avocette élégante"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bernache du Canada"
-"0";"Butor étoilé"
-"0";"Chevalier stagnatile"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Coucou geai"
-"0";"Cygne noir"
-"0";"Faucon d'Eléonore"
-"0";"Fou de Bassan"
-"0";"Goéland à ailes blanches"
-"0";"Grand Labbe"
-"0";"Grosbec casse-noyaux"
-"0";"Guillemot de Troïl"
-"0";"Harelde boréale"
-"0";"Hibou moyen-duc"
-"0";"Huîtrier pie"
-"0";"Macreuse brune"
-"0";"Macreuse noire"
-"0";"Mergule nain"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Océanite culblanc"
-"0";"Oedicnème criard"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche méridionale"
-"0";"Pinson du Nord"
-"0";"Pipit spioncelle"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caugek"
-"0";"Sterne naine"
-"0";"Tadorne de Belon"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2012,0,1
+Alouette calandrelle,2011,0,2
+Avocette élégante,2014,0,10
+Bécasseau de Temminck,2012,0,2
+Bécasseau minute,2017,0,2
+Bernache du Canada,2015,0,1
+Butor étoilé,2018,0,24
+Chevalier stagnatile,2015,0,1
+Chevêche d'Athéna,2013,0,2
+Cochevis huppé,2012,0,7
+Combattant varié,2018,0,22
+Coucou geai,2017,0,1
+Cygne noir,2010,0,1
+Faucon d'Eléonore,2009,0,2
+Fou de Bassan,2011,0,4
+Goéland à ailes blanches,2018,0,1
+Grand Labbe,2010,0,1
+Grosbec casse-noyaux,2018,0,3
+Guillemot de Troïl,2009,0,1
+Harelde boréale,2013,0,1
+Hibou moyen-duc,2016,0,1
+Huîtrier pie,2017,0,1
+Macreuse brune,2010,0,1
+Macreuse noire,2010,0,4
+Mergule nain,2012,0,3
+Merle à plastron,2016,0,3
+Mouette pygmée,2011,0,13
+Mouette tridactyle,2009,0,2
+Nette rousse,2012,0,2
+Océanite culblanc,2009,0,1
+Oedicnème criard,2018,0,2
+Oie rieuse,2011,0,3
+Perdrix rouge,2010,0,2
+Pie-grièche à tête rousse,2010,0,1
+Pie-grièche grise,2011,0,4
+Pie-grièche méridionale,2011,0,1
+Pinson du Nord,2018,0,12
+Pipit spioncelle,2018,0,26
+Plongeon catmarin,2013,0,4
+Pluvier doré,2012,0,7
+Sarcelle d'été,2012,0,9
+Sizerin cabaret,2017,0,4
+Sizerin flammé,2017,0,4
+Sterne caugek,2011,0,2
+Sterne naine,2014,0,1
+Tadorne de Belon,2018,0,6
+Tournepierre à collier,2017,0,3

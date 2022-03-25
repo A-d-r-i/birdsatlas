@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Choucas des tours
-0        Chouette de Tengmalm
-0        Cigogne blanche
-0        Corneille mantelée
-0        Engoulevent d'Europe
-0        Gélinotte des bois
-0        Goéland leucophée
-0        Grand-duc d'Europe
-0        Héron cendré
-0        Héron pourpré
-0        Lagopède alpin
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Moineau friquet
-0        Moineau soulcie
-0        Monticole de roche
-0        Perdrix bartavelle
-0        Pic épeichette
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pipit farlouse
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2013    0        1
+Bouscarle de Cetti        2016    0        1
+Bruant des roseaux        2017    0        3
+Busard cendré             2015    0        2
+Busard Saint-Martin       2011    0        1
+Canard colvert            2015    0        7
+Chevalier culblanc        2013    0        1
+Chevalier gambette        2012    0        2
+Choucas des tours         2018    0        1
+Chouette de Tengmalm      2017    0        13
+Cigogne blanche           2014    0        3
+Corneille mantelée        2014    0        2
+Engoulevent d'Europe      2012    0        2
+Gélinotte des bois        2015    0        6
+Goéland leucophée         2017    0        1
+Grand-duc d'Europe        2017    0        2
+Héron cendré              2018    0        11
+Héron pourpré             2018    0        1
+Lagopède alpin            2019    0        12
+Locustelle tachetée       2014    0        2
+Loriot d'Europe           2012    0        2
+Moineau friquet           2018    0        8
+Moineau soulcie           2017    0        7
+Monticole de roche        2016    0        2
+Perdrix bartavelle        2017    0        3
+Pic épeichette            2018    0        3
+Pie-grièche à tête rousse 2018    0        2
+Pie-grièche grise         2010    0        1
+Pigeon biset domestique   2012    0        1
+Pipit farlouse            2017    0        7
 

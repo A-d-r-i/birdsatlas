@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Merle à plastron"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Merle à plastron,2016,0,1
+Pouillot siffleur,2009,0,1
+Sarcelle d'hiver,2009,0,1

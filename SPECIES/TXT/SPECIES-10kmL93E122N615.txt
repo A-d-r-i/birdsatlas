@@ -1,9 +1,9 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Chardonneret élégant
-0        Gobemouche gris
-0        Hirondelle de fenêtre
-0        Martinet noir
-0        Petit-duc scops
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Chardonneret élégant  2015    0        2
+Gobemouche gris       2015    0        3
+Hirondelle de fenêtre 2018    0        3
+Martinet noir         2015    0        1
+Petit-duc scops       2018    0        1
 

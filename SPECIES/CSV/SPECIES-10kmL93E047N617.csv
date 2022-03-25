@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Accenteur mouchet"
-"0";"Chocard à bec jaune"
-"0";"Crave à bec rouge"
-"0";"Lagopède alpin"
-"0";"Pipit spioncelle"
-"0";"Rougequeue noir"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2009,0,1
+Accenteur mouchet,2009,0,1
+Chocard à bec jaune,2009,0,1
+Crave à bec rouge,2009,0,1
+Lagopède alpin,2009,0,1
+Pipit spioncelle,2009,0,1
+Rougequeue noir,2009,0,1
+Traquet motteux,2009,0,1

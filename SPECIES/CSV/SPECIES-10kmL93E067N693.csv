@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Fauvette à tête noire"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Grand Cormoran"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Rousserolle effarvatte"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,8
+Bondrée apivore,2009,0,1
+Busard cendré,2009,0,1
+Chevêche d'Athéna,2018,0,2
+Chouette hulotte,2009,0,1
+Coucou gris,2017,0,2
+Faisan vénéré,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette à tête noire,2017,0,9
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2017,0,4
+Foulque macroule,2018,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2009,0,1
+Goéland brun,2009,0,1
+Grand Cormoran,2009,0,1
+Hibou des marais,2009,0,1
+Hibou moyen-duc,2009,0,2
+Hirondelle de fenêtre,2017,0,3
+Mésange à longue queue,2009,0,2
+Mésange huppée,2009,0,2
+Milan royal,2016,0,1
+Moineau friquet,2009,0,1
+Oie cendrée,2009,0,1
+Perdrix rouge,2017,0,2
+Petit Gravelot,2009,0,1
+Pic épeichette,2009,0,1
+Pic noir,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Tarier pâtre,2009,0,1

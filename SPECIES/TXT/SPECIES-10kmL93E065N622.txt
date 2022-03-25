@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouscarle de Cetti
-0        Bruant ortolan
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Cigogne noire
-0        Cochevis huppé
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon crécerellette
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive mauvis
-0        Merle à plastron
-0        Mésange nonnette
-0        Moineau friquet
-0        Monticole de roche
-0        Pie-grièche méridionale
-0        Pouillot fitis
-0        Tarier des prés
-0        Traquet oreillard
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bouscarle de Cetti      2009    0        2
+Bruant ortolan          2009    0        1
+Caille des blés         2009    0        1
+Chevalier culblanc      2018    0        1
+Chevalier guignette     2014    0        1
+Chevêche d'Athéna       2009    0        1
+Choucas des tours       2007    0        2
+Cigogne noire           2018    0        5
+Cochevis huppé          2012    0        2
+Effraie des clochers    2009    0        10
+Faisan de Colchide      2018    0        3
+Faucon crécerellette    2017    0        1
+Faucon émerillon        2011    0        2
+Fauvette des jardins    2009    0        1
+Fauvette pitchou        2013    0        2
+Gallinule poule-d'eau   2009    0        1
+Grande Aigrette         2018    0        2
+Grèbe castagneux        2009    0        1
+Grive mauvis            2011    0        5
+Merle à plastron        2015    0        1
+Mésange nonnette        2009    0        1
+Moineau friquet         2016    0        1
+Monticole de roche      2013    0        1
+Pie-grièche méridionale 2013    0        2
+Pouillot fitis          2012    0        2
+Tarier des prés         2015    0        2
+Traquet oreillard       2009    0        2
+Vanneau huppé           2018    0        2
 

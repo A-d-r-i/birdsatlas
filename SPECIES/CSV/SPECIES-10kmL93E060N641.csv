@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Pie-grièche grise"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,4
+Bécasse des bois,2017,0,1
+Bécassine des marais,2018,0,1
+Bergeronnette printanière,2015,0,1
+Bruant des roseaux,2018,0,3
+Caille des blés,2017,0,1
+Chevalier guignette,2009,0,1
+Cigogne blanche,2017,0,1
+Cigogne noire,2016,0,1
+Cygne tuberculé,2018,0,1
+Engoulevent d'Europe,2018,0,1
+Foulque macroule,2015,0,1
+Grèbe castagneux,2018,0,1
+Grive litorne,2019,0,4
+Hibou moyen-duc,2019,0,3
+Linotte mélodieuse,2010,0,2
+Moineau friquet,2010,0,2
+Moineau soulcie,2018,0,7
+Pie-grièche grise,2009,0,1
+Pouillot fitis,2016,0,2
+Rousserolle effarvatte,2016,0,1

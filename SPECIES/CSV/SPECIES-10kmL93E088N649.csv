@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier sylvain"
-"0";"Cisticole des joncs"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland pontique"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Pipit spioncelle"
-"0";"Rollier d'Europe"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Canard chipeau,2018,0,1
+Canard siffleur,2016,0,1
+Chevalier sylvain,2017,0,2
+Cisticole des joncs,2016,0,2
+Courlis cendré,2014,0,1
+Échasse blanche,2017,0,1
+Faucon kobez,2017,0,1
+Faucon pèlerin,2015,0,4
+Fauvette des jardins,2018,0,5
+Goéland argenté,2014,0,3
+Goéland brun,2017,0,3
+Goéland pontique,2013,0,2
+Grèbe huppé,2017,0,1
+Grimpereau des bois,2016,0,2
+Hirondelle de rivage,2013,0,1
+Moineau friquet,2018,0,3
+Pipit spioncelle,2018,0,1
+Rollier d'Europe,2016,0,1
+Tourterelle des bois,2018,0,11
+Vanneau huppé,2017,0,4

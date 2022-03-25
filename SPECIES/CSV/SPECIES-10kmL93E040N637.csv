@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Élanion blanc"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Foulque macroule"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Mésange nonnette"
-"0";"Oie cendrée"
-"0";"Pigeon colombin"
-"0";"Pipit farlouse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,1
+Bécassine des marais,2007,0,1
+Bergeronnette printanière,2018,0,6
+Bruant des roseaux,2018,0,5
+Bruant jaune,2018,0,10
+Busard cendré,2017,0,8
+Busard des roseaux,2017,0,2
+Chevalier culblanc,2014,0,3
+Chevêche d'Athéna,2011,0,4
+Cisticole des joncs,2016,0,1
+Élanion blanc,2016,0,1
+Faisan de Colchide,2018,0,25
+Faucon émerillon,2013,0,2
+Faucon pèlerin,2013,0,1
+Foulque macroule,2010,0,5
+Grosbec casse-noyaux,2017,0,1
+Héron pourpré,2013,0,1
+Hibou des marais,2011,0,1
+Hibou moyen-duc,2013,0,3
+Hirondelle de rivage,2016,0,2
+Locustelle tachetée,2016,0,4
+Martinet noir,2018,0,13
+Mésange nonnette,2013,0,1
+Oie cendrée,2010,0,1
+Pigeon colombin,2017,0,1
+Pipit farlouse,2017,0,24
+Pipit rousseline,2017,0,5
+Pipit spioncelle,2016,0,2
+Pluvier doré,2009,0,1
+Pouillot siffleur,2013,0,1
+Tarier des prés,2017,0,7
+Torcol fourmilier,2018,0,7

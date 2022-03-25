@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette des ruisseaux
-0        Canard mandarin
-0        Chevêche d'Athéna
-0        Épervier d'Europe
-0        Faisan de Colchide
-0        Martin-pêcheur d'Europe
-0        Pic épeichette
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rougequeue noir
-0        Tarier des prés
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bergeronnette des ruisseaux 2012    0        3
+Canard mandarin             2018    0        1
+Chevêche d'Athéna           2009    0        1
+Épervier d'Europe           2013    0        5
+Faisan de Colchide          2009    0        1
+Martin-pêcheur d'Europe     2018    0        2
+Pic épeichette              2009    0        1
+Pouillot fitis              2009    0        1
+Roitelet huppé              2009    0        1
+Rougequeue noir             2012    0        2
+Tarier des prés             2018    0        1
 

@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Hypolaïs ictérine"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,2
+Chevêche d'Athéna,2016,0,4
+Cigogne blanche,2018,0,2
+Gobemouche noir,2018,0,3
+Grand-duc d'Europe,2018,0,1
+Hypolaïs ictérine,2009,0,1
+Martin-pêcheur d'Europe,2018,0,1
+Moineau friquet,2019,0,8
+Pipit spioncelle,2013,0,2
+Râle d'eau,2012,0,1
+Rousserolle verderolle,2018,0,1

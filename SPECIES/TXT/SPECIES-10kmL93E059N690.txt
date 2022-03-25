@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Caille des blés
-0        Canard colvert
-0        Canard souchet
-0        Choucas des tours
-0        Effraie des clochers
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Loriot d'Europe
-0        Mésange à longue queue
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Pic mar
-0        Pic noir
-0        Pigeon colombin
-0        Pluvier doré
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Rossignol philomèle
-0        Serin cini
-0        Sittelle torchepot
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bécassine des marais        2009    0        1
+Bec-croisé des sapins       2009    0        1
+Bergeronnette des ruisseaux 2018    0        1
+Bouvreuil pivoine           2009    0        2
+Bruant des roseaux          2009    0        1
+Bruant proyer               2018    0        6
+Caille des blés             2009    0        1
+Canard colvert              2009    0        2
+Canard souchet              2009    0        1
+Choucas des tours           2018    0        3
+Effraie des clochers        2009    0        1
+Épervier d'Europe           2017    0        3
+Faucon hobereau             2018    0        3
+Foulque macroule            2018    0        1
+Gallinule poule-d'eau       2009    0        2
+Geai des chênes             2018    0        6
+Gobemouche gris             2009    0        1
+Grand Cormoran              2018    0        2
+Grive litorne               2018    0        2
+Grive mauvis                2009    0        1
+Grosbec casse-noyaux        2018    0        2
+Hibou moyen-duc             2009    0        1
+Hirondelle de rivage        2018    0        2
+Loriot d'Europe             2009    0        1
+Mésange à longue queue      2018    0        3
+Mésange huppée              2009    0        2
+Mésange noire               2009    0        1
+Mésange nonnette            2018    0        3
+Pic mar                     2009    0        1
+Pic noir                    2009    0        2
+Pigeon colombin             2009    0        1
+Pluvier doré                2018    0        3
+Pouillot fitis              2009    0        1
+Roitelet à triple bandeau   2018    0        3
+Rossignol philomèle         2018    0        2
+Serin cini                  2018    0        2
+Sittelle torchepot          2018    0        7
 

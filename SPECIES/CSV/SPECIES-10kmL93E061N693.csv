@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant proyer"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Foulque macroule"
-"0";"Grimpereau des jardins"
-"0";"Grosbec casse-noyaux"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Tarier pâtre"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2009,0,1
+Bruant proyer,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2009,0,1
+Foulque macroule,2009,0,1
+Grimpereau des jardins,2009,0,2
+Grosbec casse-noyaux,2009,0,1
+Martinet noir,2018,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange huppée,2018,0,2
+Pic mar,2009,0,1
+Pigeon biset domestique,2018,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2017,0,1
+Roitelet à triple bandeau,2009,0,1
+Roitelet huppé,2018,0,2
+Tarier pâtre,2009,0,1
+Tourterelle des bois,2009,0,1

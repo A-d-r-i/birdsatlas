@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau cocorli"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Échasse blanche"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette mélanocéphale"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Pluvier argenté"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sterne caspienne"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,3
+Bécasseau cocorli,2016,0,4
+Busard des roseaux,2013,0,2
+Canard chipeau,2017,0,8
+Canard siffleur,2017,0,2
+Chevalier arlequin,2015,0,2
+Chevalier gambette,2016,0,11
+Chevalier sylvain,2018,0,3
+Cigogne noire,2008,0,1
+Cochevis huppé,2013,0,1
+Combattant varié,2016,0,11
+Courlis cendré,2016,0,1
+Courlis corlieu,2012,0,1
+Échasse blanche,2012,0,1
+Faucon kobez,2016,0,4
+Fauvette des jardins,2018,0,2
+Fauvette mélanocéphale,2018,0,2
+Grèbe à cou noir,2016,0,1
+Grosbec casse-noyaux,2018,0,11
+Guifette moustac,2016,0,1
+Guifette noire,2018,0,11
+Hibou moyen-duc,2015,0,7
+Hirondelle de rivage,2016,0,5
+Hirondelle de rochers,2015,0,1
+Mésange noire,2018,0,2
+Moineau friquet,2018,0,4
+Petit-duc scops,2018,0,8
+Pie-grièche à tête rousse,2017,0,1
+Pipit spioncelle,2017,0,7
+Pluvier argenté,2017,0,9
+Rougequeue à front blanc,2017,0,3
+Rousserolle effarvatte,2018,0,2
+Sterne caspienne,2016,0,1
+Torcol fourmilier,2009,0,1
+Tournepierre à collier,2016,0,7

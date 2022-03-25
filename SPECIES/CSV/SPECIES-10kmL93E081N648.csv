@@ -1,36 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Bécassine des marais"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Cassenoix moucheté"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon sacre"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pipit spioncelle"
-"0";"Plongeon imbrin"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle rieuse"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2014,0,1
+Aigle royal,2018,0,1
+Bécassine des marais,2015,0,3
+Bernache du Canada,2017,0,1
+Bihoreau gris,2017,0,1
+Calopsitte élégante,2018,0,4
+Canard chipeau,2012,0,1
+Canard mandarin,2015,0,9
+Canard siffleur,2014,0,4
+Canard souchet,2013,0,1
+Cassenoix moucheté,2012,0,1
+Cigogne blanche,2018,0,11
+Courlis cendré,2010,0,1
+Effraie des clochers,2018,0,6
+Faucon sacre,2011,0,1
+Goéland brun,2010,0,11
+Goéland cendré,2010,0,2
+Grande Aigrette,2017,0,5
+Grèbe castagneux,2017,0,2
+Hirondelle de rivage,2018,0,3
+Locustelle tachetée,2010,0,3
+Perdrix grise,2018,0,4
+Petit-duc scops,2016,0,2
+Plongeon imbrin,2018,0,1
+Rousserolle turdoïde,2009,0,1
+Sizerin cabaret,2014,0,3
+Sizerin flammé,2018,0,5
+Tadorne de Belon,2017,0,1
+Tarier des prés,2018,0,9
+Torcol fourmilier,2018,0,8
+Tourterelle rieuse,2012,0,1
+Traquet motteux,2018,0,6

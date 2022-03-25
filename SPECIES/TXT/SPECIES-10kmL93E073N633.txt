@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Busard cendré
-0        Busard des roseaux
-0        Cassenoix moucheté
-0        Chevalier guignette
-0        Cigogne noire
-0        Échasse blanche
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Fauvette mélanocéphale
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Grand Cormoran
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hypolaïs polyglotte
-0        Martinet à ventre blanc
-0        Martin-pêcheur d'Europe
-0        Monticole bleu
-0        Pic épeichette
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rollier d'Europe
-0        Tarier des prés
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2017    0        4
+Busard cendré           2016    0        1
+Busard des roseaux      2017    0        2
+Cassenoix moucheté      2015    0        2
+Chevalier guignette     2013    0        2
+Cigogne noire           2017    0        3
+Échasse blanche         2015    0        1
+Faisan de Colchide      2016    0        1
+Faucon pèlerin          2018    0        9
+Fauvette mélanocéphale  2018    0        1
+Fauvette orphée         2017    0        5
+Fauvette pitchou        2016    0        8
+Grand Cormoran          2017    0        4
+Grive mauvis            2017    0        17
+Grosbec casse-noyaux    2016    0        4
+Hypolaïs polyglotte     2014    0        6
+Martinet à ventre blanc 2016    0        3
+Martin-pêcheur d'Europe 2016    0        3
+Monticole bleu          2017    0        1
+Pic épeichette          2016    0        1
+Pie-grièche grise       2013    0        2
+Pigeon biset domestique 2017    0        10
+Pigeon colombin         2017    0        14
+Pipit farlouse          2017    0        11
+Pipit rousseline        2015    0        2
+Pipit spioncelle        2016    0        2
+Pouillot fitis          2018    0        5
+Pouillot siffleur       2017    0        2
+Rollier d'Europe        2010    0        1
+Tarier des prés         2016    0        6
+Venturon montagnard     2016    0        7
 

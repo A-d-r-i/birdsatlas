@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Buse pattue"
-"0";"Chevalier aboyeur"
-"0";"Chouette hulotte"
-"0";"Courlis cendré"
-"0";"Hirondelle de rivage"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,1
+Bondrée apivore,2017,0,4
+Bruant des roseaux,2013,0,3
+Busard cendré,2018,0,4
+Buse pattue,2011,0,2
+Chevalier aboyeur,2010,0,1
+Chouette hulotte,2018,0,5
+Courlis cendré,2010,0,2
+Hirondelle de rivage,2010,0,2
+Jaseur boréal,2013,0,3
+Locustelle tachetée,2011,0,5
+Martinet noir,2015,0,3
+Mésange huppée,2017,0,3
+Mésange noire,2010,0,2
+Mouette rieuse,2010,0,1
+Oedicnème criard,2012,0,3
+Pic épeichette,2013,0,6
+Pie-grièche à tête rousse,2010,0,2
+Pigeon colombin,2013,0,3
+Pluvier doré,2011,0,1
+Sarcelle d'hiver,2013,0,4
+Torcol fourmilier,2016,0,2
+Traquet motteux,2018,0,2

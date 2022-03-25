@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant proyer"
-"0";"Courlis cendré"
-"0";"Goéland cendré"
-"0";"Huîtrier pie"
-"0";"Oie rieuse"
-"0";"Panure à moustaches"
-"0";"Perdrix rouge"
-"0";"Roitelet à triple bandeau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bruant proyer,2009,0,1
+Courlis cendré,2009,0,1
+Goéland cendré,2017,0,1
+Huîtrier pie,2017,0,1
+Oie rieuse,2009,0,1
+Panure à moustaches,2018,0,1
+Perdrix rouge,2009,0,1
+Roitelet à triple bandeau,2018,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,3

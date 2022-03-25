@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Combattant varié
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon kobez
-0        Faucon pèlerin
-0        Foulque macroule
-0        Grand Corbeau
-0        Grand Cormoran
-0        Grive mauvis
-0        Hirondelle de fenêtre
-0        Hypolaïs ictérine
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Martin-pêcheur d'Europe
-0        Mésange huppée
-0        Mésange noire
-0        Mouette rieuse
-0        Petit Gravelot
-0        Pic cendré
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Pluvier doré
-0        Râle d'eau
-0        Râle des genêts
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Serin cini
-0        Sizerin flammé
-0        Tarier des prés
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Barge à queue noire     2012    0        1
+Bécasse des bois        2017    0        8
+Bécassine des marais    2007    0        4
+Bec-croisé des sapins   2011    0        3
+Bouvreuil pivoine       2018    0        13
+Bruant des roseaux      2019    0        12
+Chevalier culblanc      2016    0        5
+Chevalier gambette      2013    0        1
+Chevalier guignette     2009    0        1
+Chevalier sylvain       2013    0        1
+Chevêche d'Athéna       2012    0        29
+Chouette hulotte        2018    0        15
+Combattant varié        2017    0        1
+Faisan de Colchide      2013    0        4
+Faucon hobereau         2018    0        7
+Faucon kobez            2015    0        2
+Faucon pèlerin          2013    0        5
+Foulque macroule        2018    0        6
+Grand Corbeau           2018    0        2
+Grand Cormoran          2017    0        11
+Grive mauvis            2017    0        5
+Hirondelle de fenêtre   2018    0        41
+Hypolaïs ictérine       2018    0        17
+Jaseur boréal           2013    0        3
+Locustelle tachetée     2013    0        5
+Martin-pêcheur d'Europe 2018    0        16
+Mésange huppée          2018    0        11
+Mésange noire           2018    0        7
+Mouette rieuse          2007    0        1
+Petit Gravelot          2017    0        1
+Pic cendré              2017    0        15
+Pie-grièche grise       2015    0        7
+Pipit farlouse          2018    0        9
+Pipit spioncelle        2016    0        8
+Pluvier doré            2013    0        1
+Râle d'eau              2013    0        2
+Râle des genêts         2014    0        1
+Roitelet huppé          2018    0        23
+Rousserolle effarvatte  2011    0        6
+Rousserolle verderolle  2011    0        6
+Serin cini              2018    0        15
+Sizerin flammé          2010    0        1
+Tarier des prés         2017    0        14
 

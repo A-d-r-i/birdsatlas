@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau violet"
-"0";"Bécasse des bois"
-"0";"Chevalier gambette"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland bourgmestre"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Huppe fasciée"
-"0";"Labbe pomarin"
-"0";"Moineau friquet"
-"0";"Pluvier doré"
-"0";"Sittelle torchepot"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasseau violet,2014,0,5
+Bécasse des bois,2012,0,1
+Chevalier gambette,2019,0,6
+Coucou gris,2014,0,1
+Effraie des clochers,2016,0,2
+Foulque macroule,2012,0,1
+Gallinule poule-d'eau,2016,0,1
+Goéland bourgmestre,2014,0,5
+Grèbe castagneux,2019,0,2
+Grosbec casse-noyaux,2017,0,1
+Huppe fasciée,2017,0,1
+Labbe pomarin,2018,0,2
+Moineau friquet,2019,0,5
+Pluvier doré,2009,0,1
+Sittelle torchepot,2012,0,2
+Torcol fourmilier,2018,0,1
+Vanneau huppé,2018,0,2

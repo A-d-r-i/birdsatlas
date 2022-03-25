@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette lulu"
-"0";"Bruant des roseaux"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Corbeau freux"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland cendré"
-"0";"Grande Aigrette"
-"0";"Grèbe à cou noir"
-"0";"Grive musicienne"
-"0";"Héron cendré"
-"0";"Moineau domestique"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pinson des arbres"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Tadorne de Belon"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2009,0,1
+Alouette lulu,2017,0,1
+Bruant des roseaux,2017,0,1
+Canard colvert,2009,0,2
+Chardonneret élégant,2018,0,2
+Corbeau freux,2009,0,2
+Faucon hobereau,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Foulque macroule,2009,0,1
+Fuligule morillon,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Goéland cendré,2009,0,1
+Grande Aigrette,2018,0,1
+Grèbe à cou noir,2009,0,1
+Grive musicienne,2017,0,1
+Héron cendré,2016,0,1
+Moineau domestique,2017,0,2
+Mouette rieuse,2018,0,2
+Perdrix grise,2009,0,1
+Perdrix rouge,2009,0,1
+Petit Gravelot,2009,0,1
+Pinson des arbres,2018,0,2
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,1
+Pouillot fitis,2009,0,1
+Tadorne de Belon,2009,0,1
+Tourterelle des bois,2009,0,1
+Tourterelle turque,2018,0,3

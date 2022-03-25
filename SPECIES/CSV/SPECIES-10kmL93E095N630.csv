@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Coucou geai"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fou à pieds rouges"
-"0";"Garrot à oeil d'or"
-"0";"Grand Gravelot"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Outarde canepetière"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'été"
-"0";"Tadorne de Belon"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2018,0,5
+Bécasseau minute,2016,0,1
+Bécasse des bois,2012,0,1
+Bergeronnette printanière,2018,0,5
+Busard des roseaux,2013,0,7
+Canard chipeau,2017,0,2
+Canard pilet,2017,0,1
+Chevalier sylvain,2012,0,2
+Chevêche d'Athéna,2014,0,6
+Cigogne noire,2014,0,1
+Cochevis huppé,2018,0,1
+Corbeau freux,2018,0,1
+Coucou geai,2009,0,1
+Faucon émerillon,2016,0,7
+Faucon kobez,2009,0,5
+Faucon pèlerin,2015,0,6
+Fou à pieds rouges,2011,0,1
+Garrot à oeil d'or,2017,0,8
+Grand Gravelot,2016,0,1
+Guifette moustac,2017,0,4
+Guifette noire,2016,0,1
+Harle piette,2009,0,1
+Héron pourpré,2015,0,1
+Moineau friquet,2009,0,1
+Nette rousse,2016,0,3
+Oedicnème criard,2018,0,12
+Outarde canepetière,2009,0,5
+Pluvier argenté,2018,0,2
+Pouillot siffleur,2016,0,1
+Sarcelle d'été,2016,0,2
+Tadorne de Belon,2014,0,8
+Vanneau huppé,2017,0,2
+Venturon montagnard,2018,0,18

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Chevalier guignette"
-"0";"Échasse blanche"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouin"
-"0";"Grive mauvis"
-"0";"Harle bièvre"
-"0";"Linotte mélodieuse"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2015,0,2
+Chevalier guignette,2018,0,1
+Échasse blanche,2016,0,1
+Élanion blanc,2016,0,1
+Engoulevent d'Europe,2015,0,3
+Faisan de Colchide,2017,0,6
+Faucon hobereau,2015,0,2
+Fauvette des jardins,2017,0,4
+Fauvette passerinette,2015,0,1
+Fuligule milouin,2015,0,1
+Grive mauvis,2019,0,4
+Harle bièvre,2011,0,9
+Linotte mélodieuse,2018,0,1
+Mésange noire,2018,0,19
+Moineau friquet,2007,0,1
+Oedicnème criard,2018,0,1
+Pic épeichette,2016,0,2
+Pipit rousseline,2007,0,1
+Pouillot fitis,2015,0,1
+Tichodrome échelette,2016,0,1
+Torcol fourmilier,2018,0,2
+Traquet motteux,2016,0,1

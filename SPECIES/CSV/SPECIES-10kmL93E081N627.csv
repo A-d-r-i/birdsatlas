@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle criard"
-"0";"Aigle impérial"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant nain"
-"0";"Bruant ortolan"
-"0";"Buse pattue"
-"0";"Canard pilet"
-"0";"Chevalier stagnatile"
-"0";"Cormoran pygmée"
-"0";"Crave à bec rouge"
-"0";"Cygne de Bewick"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Glaréole à ailes noires"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Grive mauvis"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Hypolaïs ictérine"
-"0";"Ibis sacré"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Martinet pâle"
-"0";"Moineau soulcie"
-"0";"Oie des moissons"
-"0";"Outarde canepetière"
-"0";"Petit-duc scops"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sittelle torchepot"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,9
+Aigle criard,2017,0,5
+Aigle impérial,2018,0,99
+Barge rousse,2015,0,2
+Bécasseau cocorli,2015,0,1
+Bécasseau de Temminck,2018,0,8
+Bécassine sourde,2009,0,3
+Bruant fou,2010,0,3
+Bruant jaune,2012,0,3
+Bruant nain,2014,0,1
+Bruant ortolan,2010,0,1
+Buse pattue,2017,0,4
+Canard pilet,2017,0,18
+Chevalier stagnatile,2010,0,1
+Cormoran pygmée,2016,0,1
+Crave à bec rouge,2017,0,1
+Cygne de Bewick,2019,0,4
+Fauvette des jardins,2018,0,11
+Fauvette grisette,2018,0,8
+Fuligule milouin,2018,0,5
+Fuligule morillon,2011,0,1
+Fuligule nyroca,2011,0,3
+Glaréole à ailes noires,2015,0,3
+Grand-duc d'Europe,2018,0,16
+Grèbe à cou noir,2012,0,3
+Grive mauvis,2010,0,2
+Hibou des marais,2018,0,6
+Huîtrier pie,2014,0,3
+Hypolaïs ictérine,2009,0,1
+Ibis sacré,2018,0,22
+Locustelle luscinioïde,2017,0,1
+Locustelle tachetée,2009,0,1
+Martinet à ventre blanc,2017,0,5
+Martinet pâle,2010,0,2
+Moineau soulcie,2018,0,4
+Oie des moissons,2010,0,2
+Outarde canepetière,2011,0,2
+Petit-duc scops,2013,0,2
+Roitelet à triple bandeau,2017,0,12
+Roitelet huppé,2016,0,5
+Sittelle torchepot,2009,0,1
+Sterne caugek,2008,0,1
+Tadorne casarca,2016,0,3
+Torcol fourmilier,2018,0,12
+Vautour fauve,2016,0,4
+Venturon montagnard,2018,0,1

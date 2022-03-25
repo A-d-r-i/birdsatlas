@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bihoreau gris"
-"0";"Bouscarle de Cetti"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Canard colvert"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Chocard à bec jaune"
-"0";"Corneille mantelée"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette mélanocéphale"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Milan royal"
-"0";"Petit-duc scops"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Tétras lyre"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bihoreau gris,2015,0,2
+Bouscarle de Cetti,2009,0,1
+Bruant jaune,2016,0,23
+Busard des roseaux,2010,0,2
+Canard colvert,2013,0,5
+Chevalier culblanc,2015,0,1
+Chevêche d'Athéna,2017,0,3
+Chocard à bec jaune,2014,0,1
+Corneille mantelée,2008,0,1
+Engoulevent d'Europe,2017,0,2
+Faucon hobereau,2014,0,5
+Faucon kobez,2012,0,1
+Faucon pèlerin,2017,0,8
+Fauvette des jardins,2013,0,5
+Fauvette mélanocéphale,2015,0,2
+Goéland leucophée,2017,0,1
+Grand Cormoran,2013,0,2
+Grand-duc d'Europe,2017,0,3
+Grande Aigrette,2017,0,4
+Hibou moyen-duc,2017,0,1
+Hypolaïs polyglotte,2011,0,2
+Linotte mélodieuse,2016,0,10
+Milan royal,2016,0,4
+Petit-duc scops,2017,0,21
+Pipit farlouse,2013,0,4
+Pipit spioncelle,2017,0,1
+Râle d'eau,2013,0,1
+Tétras lyre,2015,0,2
+Vanneau huppé,2012,0,1

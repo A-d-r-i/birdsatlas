@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Buse pattue"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Gorgebleue à miroir"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Mouette rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,1
+Bec-croisé des sapins,2017,0,5
+Bouvreuil pivoine,2017,0,6
+Bruant des roseaux,2015,0,1
+Bruant fou,2017,0,3
+Buse pattue,2014,0,1
+Cigogne blanche,2016,0,4
+Effraie des clochers,2016,0,3
+Etourneau roselin,2018,0,1
+Faucon émerillon,2012,0,1
+Faucon kobez,2018,0,1
+Fauvette des jardins,2014,0,2
+Gorgebleue à miroir,2017,0,1
+Hirondelle de rivage,2018,0,4
+Locustelle tachetée,2008,0,2
+Merle à plastron,2010,0,1
+Mésange huppée,2017,0,21
+Moineau friquet,2010,0,3
+Monticole bleu,2018,0,1
+Mouette rieuse,2017,0,1
+Pie-grièche à tête rousse,2012,0,1
+Pipit rousseline,2013,0,9
+Pouillot à grands sourcils,2018,0,1
+Pouillot fitis,2017,0,9
+Rousserolle effarvatte,2018,0,3
+Torcol fourmilier,2018,0,27
+Vanneau huppé,2015,0,2

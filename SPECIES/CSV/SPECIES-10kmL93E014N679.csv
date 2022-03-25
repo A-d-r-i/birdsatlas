@@ -1,26 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Butor étoilé"
-"0";"Canard musqué"
-"0";"Chevalier sylvain"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule à tête noire"
-"0";"Garrot à oeil d'or"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Grèbe à cou noir"
-"0";"Guêpier d'Europe"
-"0";"Guillemot à miroir"
-"0";"Guillemot de Troïl"
-"0";"Hibou moyen-duc"
-"0";"Ibis sacré"
-"0";"Loriot d'Europe"
-"0";"Macareux moine"
-"0";"Petit Gravelot"
-"0";"Pluvier argenté"
-"0";"Pouillot fitis"
-"0";"Puffin des Baléares"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Butor étoilé,2010,0,1
+Canard musqué,2018,0,2
+Chevalier sylvain,2016,0,2
+Fauvette pitchou,2017,0,4
+Fuligule à bec cerclé,2007,0,3
+Fuligule à tête noire,2017,0,6
+Garrot à oeil d'or,2007,0,1
+Goéland à ailes blanches,2015,0,3
+Goéland bourgmestre,2014,0,4
+Grèbe à cou noir,2018,0,3
+Guêpier d'Europe,2016,0,1
+Guillemot à miroir,2015,0,1
+Guillemot de Troïl,2017,0,5
+Hibou moyen-duc,2009,0,1
+Ibis sacré,2008,0,1
+Loriot d'Europe,2016,0,2
+Macareux moine,2014,0,3
+Petit Gravelot,2012,0,1
+Pluvier argenté,2019,0,8
+Puffin des Baléares,2014,0,1
+Sterne pierregarin,2016,0,1
+Torcol fourmilier,2016,0,2

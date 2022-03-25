@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Grèbe huppé"
-"0";"Guifette moustac"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Perdrix grise"
-"0";"Pie-grièche à tête rousse"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sizerin flammé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle royal,2012,0,1
+Bécassine des marais,2017,0,12
+Bec-croisé des sapins,2016,0,4
+Canard chipeau,2015,0,14
+Canard pilet,2012,0,7
+Canard siffleur,2019,0,35
+Canard souchet,2012,0,7
+Chevalier aboyeur,2016,0,4
+Chevalier gambette,2013,0,4
+Cygne chanteur,2013,0,2
+Cygne de Bewick,2009,0,2
+Foulque macroule,2012,0,18
+Fuligule milouin,2016,0,9
+Fuligule morillon,2015,0,4
+Fuligule nyroca,2009,0,4
+Grèbe huppé,2016,0,1
+Guifette moustac,2017,0,1
+Héron pourpré,2012,0,3
+Hibou des marais,2013,0,1
+Huîtrier pie,2018,0,1
+Locustelle tachetée,2017,0,7
+Moineau friquet,2015,0,1
+Mouette tridactyle,2009,0,1
+Nette rousse,2011,0,2
+Perdrix grise,2015,0,1
+Pie-grièche à tête rousse,2010,0,2
+Râle d'eau,2011,0,3
+Rémiz penduline,2011,0,1
+Rousserolle turdoïde,2011,0,3
+Sarcelle d'été,2014,0,5
+Sizerin flammé,2017,0,1
+Vautour fauve,2013,0,2

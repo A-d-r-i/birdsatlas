@@ -1,31 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Grand Cormoran
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau friquet
-0        Outarde canepetière
-0        Paon bleu
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Serin cini
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2019    0        1
+Chevalier culblanc        2019    0        1
+Cigogne blanche           2010    0        1
+Engoulevent d'Europe      2014    0        2
+Faisan de Colchide        2019    0        10
+Faucon émerillon          2011    0        2
+Faucon hobereau           2015    0        3
+Fauvette des jardins      2009    0        1
+Gallinule poule-d'eau     2011    0        3
+Grand Cormoran            2013    0        2
+Grosbec casse-noyaux      2013    0        2
+Hibou des marais          2013    0        3
+Martinet noir             2017    0        5
+Martin-pêcheur d'Europe   2018    0        2
+Mésange noire             2018    0        1
+Mésange nonnette          2017    0        3
+Moineau friquet           2013    0        7
+Outarde canepetière       2009    0        1
+Paon bleu                 2017    0        1
+Phragmite des joncs       2018    0        1
+Pic épeichette            2014    0        1
+Pigeon biset domestique   2018    0        6
+Roitelet à triple bandeau 2013    0        3
+Roitelet huppé            2013    0        2
+Serin cini                2017    0        5
+Tarin des aulnes          2013    0        2
 

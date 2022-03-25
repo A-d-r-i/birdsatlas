@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Busard cendré
-0        Caille des blés
-0        Cigogne noire
-0        Courlis cendré
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Foulque macroule
-0        Grèbe huppé
-0        Grimpereau des bois
-0        Moineau friquet
-0        Oie cendrée
-0        Roitelet huppé
-0        Sterne pierregarin
-0        Tarier des prés
-0        Tichodrome échelette
-0        Traquet motteux
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Autour des palombes  2007    0        1
+Busard cendré        2011    0        2
+Caille des blés      2018    0        5
+Cigogne noire        2018    0        1
+Courlis cendré       2016    0        1
+Faucon émerillon     2016    0        2
+Fauvette des jardins 2018    0        3
+Foulque macroule     2011    0        2
+Grèbe huppé          2018    0        1
+Grimpereau des bois  2015    0        1
+Moineau friquet      2016    0        4
+Oie cendrée          2014    0        1
+Roitelet huppé       2014    0        7
+Sterne pierregarin   2007    0        1
+Tarier des prés      2011    0        1
+Tichodrome échelette 2018    0        1
+Traquet motteux      2011    0        1
 

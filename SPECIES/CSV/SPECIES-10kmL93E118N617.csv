@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Faucon hobereau"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Pipit des arbres"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rougequeue à front blanc"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,3
+Bec-croisé des sapins,2009,0,1
+Bergeronnette des ruisseaux,2016,0,1
+Faucon hobereau,2016,0,1
+Hibou moyen-duc,2016,0,2
+Hirondelle rustique,2016,0,2
+Huppe fasciée,2017,0,1
+Loriot d'Europe,2016,0,1
+Pipit des arbres,2016,0,1
+Pouillot à grands sourcils,2015,0,2
+Pouillot fitis,2016,0,1
+Pouillot siffleur,2017,0,1
+Roitelet à triple bandeau,2016,0,1
+Rougequeue à front blanc,2016,0,1

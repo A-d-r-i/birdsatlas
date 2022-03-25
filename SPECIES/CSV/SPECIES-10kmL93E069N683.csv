@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grive musicienne"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Milan noir"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Serin cini"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2017,0,6
+Bruant des roseaux,2013,0,13
+Bruant zizi,2013,0,1
+Busard cendré,2017,0,4
+Busard des roseaux,2017,0,5
+Caille des blés,2017,0,1
+Chevalier guignette,2013,0,2
+Chevêche d'Athéna,2017,0,3
+Cigogne blanche,2015,0,2
+Cochevis huppé,2018,0,3
+Coucou gris,2015,0,2
+Effraie des clochers,2017,0,4
+Épervier d'Europe,2013,0,6
+Faisan vénéré,2017,0,1
+Faucon émerillon,2018,0,4
+Faucon pèlerin,2013,0,1
+Fauvette babillarde,2012,0,3
+Foulque macroule,2013,0,7
+Gobemouche gris,2018,0,5
+Goéland brun,2015,0,3
+Grand Cormoran,2012,0,1
+Grande Aigrette,2012,0,3
+Grive draine,2015,0,5
+Grive mauvis,2013,0,2
+Grive musicienne,2013,0,10
+Hibou des marais,2015,0,1
+Hibou moyen-duc,2017,0,2
+Locustelle tachetée,2013,0,5
+Martinet noir,2017,0,9
+Milan noir,2014,0,1
+Mouette mélanocéphale,2016,0,5
+Perdrix grise,2015,0,26
+Pigeon colombin,2013,0,10
+Pinson du Nord,2013,0,1
+Pipit des arbres,2013,0,4
+Pipit farlouse,2013,0,18
+Pouillot fitis,2013,0,4
+Roitelet à triple bandeau,2013,0,1
+Serin cini,2015,0,8
+Tadorne de Belon,2016,0,1
+Tarier des prés,2013,0,3
+Traquet motteux,2013,0,12

@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard pâle
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Etourneau roselin
-0        Gobemouche gris
-0        Grand Gravelot
-0        Gravelot à collier interrompu
-0        Huîtrier pie
-0        Martinet à ventre blanc
-0        Moineau friquet
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Busard pâle                   2016    0        2
+Courlis cendré                2009    0        1
+Engoulevent d'Europe          2009    0        1
+Etourneau roselin             2018    0        1
+Gobemouche gris               2017    0        2
+Grand Gravelot                2009    0        1
+Gravelot à collier interrompu 2019    0        2
+Huîtrier pie                  2018    0        1
+Martinet à ventre blanc       2016    0        1
+Moineau friquet               2009    0        1
 

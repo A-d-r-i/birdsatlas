@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bernache du Canada
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard mandarin
-0        Canard pilet
-0        Canard souchet
-0        Chevalier culblanc
-0        Coucou gris
-0        Faisan doré
-0        Faucon hobereau
-0        Garrot à oeil d'or
-0        Goéland cendré
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Harle huppé
-0        Moineau friquet
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Pluvier doré
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2018    0        2
+Bécassine des marais 2016    0        3
+Bécassine sourde     2016    0        1
+Bernache du Canada   2009    0        1
+Busard Saint-Martin  2016    0        2
+Caille des blés      2009    0        1
+Canard mandarin      2011    0        1
+Canard pilet         2018    0        5
+Canard souchet       2016    0        1
+Chevalier culblanc   2018    0        1
+Coucou gris          2009    0        1
+Faisan doré          2009    0        1
+Faucon hobereau      2012    0        2
+Garrot à oeil d'or   2011    0        2
+Goéland cendré       2017    0        1
+Grand Gravelot       2018    0        1
+Grèbe à cou noir     2014    0        1
+Harle huppé          2016    0        1
+Moineau friquet      2016    0        1
+Pipit spioncelle     2018    0        1
+Plongeon catmarin    2018    0        8
+Pluvier doré         2009    0        1
 

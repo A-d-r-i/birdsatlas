@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Busard cendré"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Choucas des tours"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Grive mauvis"
-"0";"Harle bièvre"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Perdrix rouge"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,2
+Autour des palombes,2009,0,2
+Bécasse des bois,2010,0,2
+Bergeronnette printanière,2009,0,1
+Busard cendré,2018,0,1
+Canard chipeau,2009,0,1
+Canard mandarin,2017,0,2
+Canard pilet,2012,0,1
+Canard souchet,2016,0,2
+Choucas des tours,2016,0,3
+Cigogne noire,2015,0,1
+Circaète Jean-le-Blanc,2010,0,4
+Faucon hobereau,2016,0,2
+Foulque macroule,2017,0,25
+Fuligule milouin,2016,0,3
+Fuligule morillon,2018,0,7
+Fuligule nyroca,2017,0,3
+Grive mauvis,2017,0,2
+Harle bièvre,2017,0,1
+Héron garde-boeufs,2012,0,1
+Héron pourpré,2017,0,3
+Hirondelle de rivage,2017,0,3
+Huppe fasciée,2009,0,2
+Perdrix rouge,2016,0,1
+Pigeon colombin,2018,0,4
+Pouillot fitis,2017,0,10
+Râle d'eau,2009,0,2
+Sarcelle d'hiver,2017,0,26
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Tarier des prés,2016,0,2
+Torcol fourmilier,2009,0,3
+Vautour fauve,2018,0,1

@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Faucon hobereau"
-"0";"Goéland brun"
-"0";"Grive mauvis"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,1
+Autour des palombes,2015,0,3
+Bécasse des bois,2011,0,1
+Busard des roseaux,2011,0,1
+Chevalier culblanc,2013,0,1
+Cigogne noire,2016,0,4
+Faucon hobereau,2010,0,5
+Goéland brun,2009,0,1
+Grive mauvis,2014,0,4
+Hibou des marais,2015,0,1
+Locustelle tachetée,2016,0,1
+Martin-pêcheur d'Europe,2018,0,2
+Mésange huppée,2015,0,5
+Oie cendrée,2011,0,1
+Perdrix rouge,2017,0,13
+Pigeon colombin,2011,0,2
+Pipit spioncelle,2013,0,1
+Pouillot de Bonelli,2018,0,1
+Rougequeue à front blanc,2013,0,1
+Torcol fourmilier,2013,0,2
+Vautour moine,2015,0,18

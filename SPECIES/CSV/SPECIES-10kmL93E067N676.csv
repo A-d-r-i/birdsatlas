@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chouette hulotte"
-"0";"Effraie des clochers"
-"0";"Fuligule morillon"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Mésange boréale"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,1
+Bergeronnette des ruisseaux,2018,0,4
+Bruant zizi,2015,0,3
+Caille des blés,2009,0,1
+Canard souchet,2009,0,1
+Chevalier guignette,2018,0,1
+Chouette hulotte,2009,0,1
+Effraie des clochers,2018,0,2
+Fuligule morillon,2018,0,2
+Grive litorne,2009,0,1
+Grive mauvis,2009,0,1
+Mésange boréale,2009,0,1
+Oie à tête barrée,2018,0,1
+Perdrix grise,2009,0,2
+Perdrix rouge,2009,0,2
+Petit Gravelot,2018,0,1
+Pie-grièche écorcheur,2009,0,1
+Pigeon colombin,2018,0,2
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,1
+Pluvier doré,2009,0,1
+Pouillot fitis,2009,0,1
+Tourterelle des bois,2009,0,1

@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bihoreau gris
-0        Bruant fou
-0        Bruant proyer
-0        Caille des blés
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Grande Aigrette
-0        Hirondelle rousseline
-0        Martinet pâle
-0        Milan royal
-0        Monticole bleu
-0        Nette rousse
-0        Perdrix rouge
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2019    0        8
+Bécasse des bois      2011    0        1
+Bihoreau gris         2011    0        1
+Bruant fou            2016    0        1
+Bruant proyer         2015    0        4
+Caille des blés       2009    0        1
+Chevalier guignette   2015    0        2
+Chevêche d'Athéna     2009    0        2
+Cigogne blanche       2018    0        1
+Cisticole des joncs   2009    0        1
+Grande Aigrette       2019    0        2
+Hirondelle rousseline 2018    0        9
+Martinet pâle         2009    0        1
+Milan royal           2018    0        2
+Monticole bleu        2011    0        3
+Nette rousse          2017    0        1
+Perdrix rouge         2013    0        2
+Vautour fauve         2014    0        1
 

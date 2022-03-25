@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Canard chipeau
-0        Choucas des tours
-0        Corbeau freux
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Locustelle tachetée
-0        Moineau friquet
-0        Pigeon colombin
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasse des bois       2019    0        1
+Bruant des roseaux     2009    0        1
+Canard chipeau         2019    0        1
+Choucas des tours      2009    0        1
+Corbeau freux          2009    0        2
+Cygne tuberculé        2009    0        1
+Engoulevent d'Europe   2009    0        1
+Locustelle tachetée    2009    0        1
+Moineau friquet        2015    0        1
+Pigeon colombin        2009    0        1
+Rousserolle effarvatte 2009    0        1
+Rousserolle verderolle 2009    0        1
 

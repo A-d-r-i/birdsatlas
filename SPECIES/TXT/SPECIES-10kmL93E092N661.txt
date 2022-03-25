@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine sourde
-0        Busard des roseaux
-0        Caille des blés
-0        Chevalier culblanc
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Gélinotte des bois
-0        Goéland brun
-0        Grand-duc d'Europe
-0        Jaseur boréal
-0        Martinet à ventre blanc
-0        Mouette rieuse
-0        Ouette d'Egypte
-0        Rousserolle turdoïde
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigrette garzette       2013    0        1
+Bécassine sourde        2015    0        3
+Busard des roseaux      2014    0        2
+Caille des blés         2014    0        9
+Chevalier culblanc      2016    0        15
+Cygne tuberculé         2007    0        1
+Effraie des clochers    2013    0        1
+Gélinotte des bois      2018    0        8
+Goéland brun            2018    0        1
+Grand-duc d'Europe      2008    0        1
+Jaseur boréal           2009    0        1
+Martinet à ventre blanc 2018    0        1
+Mouette rieuse          2018    0        5
+Ouette d'Egypte         2016    0        4
+Rousserolle turdoïde    2013    0        1
+Venturon montagnard     2009    0        1
 

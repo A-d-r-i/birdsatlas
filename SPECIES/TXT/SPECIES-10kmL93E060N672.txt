@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache du Canada
-0        Bruant des roseaux
-0        Bruant jaune
-0        Canard chipeau
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Faisan vénéré
-0        Gobemouche gris
-0        Moineau friquet
-0        Ouette d'Egypte
-0        Perdrix rouge
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Torcol fourmilier
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bernache du Canada  2009    0        1
+Bruant des roseaux  2018    0        3
+Bruant jaune        2009    0        1
+Canard chipeau      2018    0        1
+Canard souchet      2009    0        1
+Chevêche d'Athéna   2009    0        1
+Choucas des tours   2009    0        1
+Chouette hulotte    2009    0        1
+Faisan vénéré       2018    0        2
+Gobemouche gris     2009    0        1
+Moineau friquet     2018    0        14
+Ouette d'Egypte     2009    0        1
+Perdrix rouge       2018    0        2
+Petit Gravelot      2009    0        1
+Phragmite des joncs 2009    0        1
+Pipit spioncelle    2009    0        1
+Torcol fourmilier   2009    0        1
 

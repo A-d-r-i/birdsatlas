@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Cassenoix moucheté"
-"0";"Chevêchette d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Fauvette mélanocéphale"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Linotte mélodieuse"
-"0";"Mésange boréale"
-"0";"Monticole bleu"
-"0";"Monticole de roche"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pluvier guignard"
-"0";"Tétras lyre"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,6
+Bergeronnette printanière,2018,0,2
+Bruant jaune,2018,0,9
+Bruant ortolan,2016,0,3
+Busard des roseaux,2018,0,1
+Caille des blés,2009,0,2
+Cassenoix moucheté,2012,0,1
+Chevêchette d'Europe,2015,0,1
+Faucon hobereau,2018,0,11
+Faucon pèlerin,2017,0,7
+Fauvette babillarde,2011,0,1
+Fauvette grisette,2018,0,15
+Fauvette mélanocéphale,2014,0,3
+Grimpereau des bois,2018,0,1
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2011,0,4
+Linotte mélodieuse,2018,0,9
+Mésange boréale,2009,0,2
+Monticole bleu,2012,0,1
+Monticole de roche,2018,0,1
+Pinson du Nord,2009,0,2
+Pipit farlouse,2016,0,5
+Pluvier guignard,2010,0,1
+Tétras lyre,2018,0,1

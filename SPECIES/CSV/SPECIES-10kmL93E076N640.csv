@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Bruant des neiges"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier arlequin"
-"0";"Chevalier stagnatile"
-"0";"Chevalier sylvain"
-"0";"Cisticole des joncs"
-"0";"Eider à duvet"
-"0";"Faucon émerillon"
-"0";"Fuligule nyroca"
-"0";"Gobemouche gris"
-"0";"Goéland marin"
-"0";"Goéland pontique"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Moineau soulcie"
-"0";"Mouette tridactyle"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Plongeon arctique"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tournepierre à collier"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,1
+Avocette élégante,2017,0,4
+Bécasseau cocorli,2016,0,2
+Bécasseau de Temminck,2016,0,3
+Bécasseau minute,2018,0,5
+Bécasse des bois,2009,0,2
+Bihoreau gris,2015,0,5
+Bruant des neiges,2010,0,2
+Busard des roseaux,2018,0,8
+Busard Saint-Martin,2016,0,5
+Chevalier arlequin,2016,0,1
+Chevalier stagnatile,2014,0,2
+Chevalier sylvain,2018,0,2
+Cisticole des joncs,2017,0,3
+Eider à duvet,2008,0,2
+Faucon émerillon,2008,0,1
+Fuligule nyroca,2018,0,1
+Gobemouche gris,2017,0,2
+Goéland marin,2009,0,2
+Goéland pontique,2015,0,1
+Grèbe à cou noir,2019,0,14
+Grèbe esclavon,2016,0,1
+Grèbe jougris,2014,0,2
+Harle piette,2009,0,1
+Héron pourpré,2015,0,1
+Locustelle tachetée,2014,0,4
+Loriot d'Europe,2018,0,2
+Moineau soulcie,2016,0,2
+Mouette tridactyle,2009,0,2
+Oedicnème criard,2018,0,1
+Perdrix grise,2009,0,1
+Phragmite des joncs,2016,0,1
+Plongeon arctique,2015,0,7
+Râle d'eau,2015,0,1
+Sizerin cabaret,2018,0,5
+Sizerin flammé,2018,0,7
+Tournepierre à collier,2016,0,4
+Vautour moine,2013,0,1

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Fuligule milouin"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Martinet pâle"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Ouette d'Egypte"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Râle d'eau"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tichodrome échelette"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,10
+Bécasse des bois,2015,0,8
+Bécassine sourde,2016,0,2
+Bruant jaune,2017,0,1
+Bruant ortolan,2011,0,4
+Busard Saint-Martin,2015,0,14
+Caille des blés,2016,0,8
+Canard siffleur,2018,0,2
+Chevalier arlequin,2018,0,1
+Chevalier sylvain,2017,0,3
+Chevêche d'Athéna,2013,0,2
+Cincle plongeur,2015,0,1
+Cisticole des joncs,2018,0,2
+Cochevis huppé,2010,0,1
+Corbeau freux,2016,0,1
+Cygne noir,2013,0,1
+Effraie des clochers,2018,0,4
+Faucon crécerellette,2010,0,2
+Fuligule milouin,2010,0,1
+Grive litorne,2013,0,4
+Grive mauvis,2017,0,4
+Grosbec casse-noyaux,2017,0,3
+Hibou des marais,2013,0,1
+Martinet pâle,2013,0,1
+Monticole de roche,2010,0,2
+Mouette rieuse,2015,0,2
+Ouette d'Egypte,2017,0,9
+Pie-grièche méridionale,2016,0,24
+Pigeon biset domestique,2018,0,11
+Pinson du Nord,2015,0,2
+Râle d'eau,2016,0,2
+Sarcelle d'été,2010,0,1
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tadorne de Belon,2016,0,1
+Tichodrome échelette,2016,0,7
+Venturon montagnard,2017,0,7

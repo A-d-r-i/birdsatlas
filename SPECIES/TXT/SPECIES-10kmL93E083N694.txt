@@ -1,50 +1,50 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bernache nonnette
-0        Bruant proyer
-0        Busard des roseaux
-0        Canard pilet
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Combattant varié
-0        Courlis corlieu
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Fuligule milouinan
-0        Gobemouche gris
-0        Grand Gravelot
-0        Hirondelle de rivage
-0        Huîtrier pie
-0        Hypolaïs ictérine
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Martinet noir
-0        Merle à plastron
-0        Mésange huppée
-0        Perdrix grise
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pie-grièche grise
-0        Pouillot siffleur
-0        Râle d'eau
-0        Râle des genêts
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Sarcelle d'été
-0        Sizerin flammé
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2017    0        2
+Barge à queue noire       2018    0        2
+Bécasseau variable        2018    0        3
+Bécasse des bois          2013    0        3
+Bergeronnette printanière 2018    0        18
+Bernache nonnette         2011    0        2
+Bruant proyer             2017    0        5
+Busard des roseaux        2018    0        3
+Canard pilet              2016    0        4
+Chevalier aboyeur         2015    0        2
+Chevalier arlequin        2012    0        2
+Chevalier gambette        2018    0        7
+Combattant varié          2015    0        7
+Courlis corlieu           2018    0        1
+Effraie des clochers      2017    0        15
+Faisan de Colchide        2012    0        7
+Faucon émerillon          2012    0        4
+Fuligule milouinan        2011    0        2
+Gobemouche gris           2012    0        9
+Grand Gravelot            2015    0        1
+Hirondelle de rivage      2014    0        2
+Huîtrier pie              2015    0        2
+Hypolaïs ictérine         2013    0        1
+Hypolaïs polyglotte       2017    0        7
+Locustelle tachetée       2011    0        6
+Martinet noir             2013    0        2
+Merle à plastron          2010    0        1
+Mésange huppée            2015    0        5
+Perdrix grise             2013    0        1
+Petit Gravelot            2010    0        2
+Phragmite des joncs       2011    0        2
+Pic épeichette            2016    0        4
+Pie-grièche grise         2017    0        18
+Pouillot siffleur         2015    0        5
+Râle d'eau                2016    0        1
+Râle des genêts           2013    0        5
+Rougequeue à front blanc  2017    0        9
+Rousserolle effarvatte    2013    0        10
+Sarcelle d'été            2015    0        4
+Sizerin flammé            2017    0        1
+Sterne pierregarin        2011    0        1
+Tadorne casarca           2018    0        1
+Tarier des prés           2017    0        7
+Torcol fourmilier         2017    0        1
+Traquet motteux           2018    0        6
+Vautour fauve             2018    0        1
 

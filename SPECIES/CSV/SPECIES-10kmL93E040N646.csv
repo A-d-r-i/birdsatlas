@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bernache du Canada"
-"0";"Chevêche d'Athéna"
-"0";"Fauvette des jardins"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Guillemot de Troïl"
-"0";"Hibou des marais"
-"0";"Loriot d'Europe"
-"0";"Milan royal"
-"0";"Pipit des arbres"
-"0";"Roitelet huppé"
-"0";"Sittelle torchepot"
-"0";"Sterne pierregarin"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,3
+Bergeronnette des ruisseaux,2018,0,8
+Bernache du Canada,2008,0,1
+Chevêche d'Athéna,2018,0,15
+Fauvette des jardins,2012,0,2
+Geai des chênes,2018,0,15
+Gobemouche gris,2018,0,4
+Grèbe huppé,2016,0,2
+Grive draine,2012,0,3
+Guillemot de Troïl,2014,0,1
+Hibou des marais,2019,0,6
+Loriot d'Europe,2015,0,9
+Milan royal,2014,0,2
+Pipit des arbres,2012,0,6
+Roitelet huppé,2015,0,1
+Sittelle torchepot,2017,0,3
+Sterne pierregarin,2008,0,2
+Tarin des aulnes,2018,0,2

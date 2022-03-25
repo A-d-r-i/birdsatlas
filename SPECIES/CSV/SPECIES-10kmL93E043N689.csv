@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Perdrix grise"
-"0";"Râle d'eau"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Grèbe castagneux,2009,0,1
+Perdrix grise,2009,0,1
+Râle d'eau,2009,0,1
+Serin cini,2015,0,2

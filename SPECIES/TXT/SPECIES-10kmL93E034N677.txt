@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine sourde
-0        Bruant des roseaux
-0        Bruant proyer
-0        Échasse blanche
-0        Faisan vénéré
-0        Fauvette pitchou
-0        Goéland cendré
-0        Goéland leucophée
-0        Goéland marin
-0        Hibou moyen-duc
-0        Milan noir
-0        Moineau friquet
-0        Oie cendrée
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Tadorne casarca
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bécassine sourde         2016    0        1
+Bruant des roseaux       2017    0        5
+Bruant proyer            2009    0        1
+Échasse blanche          2017    0        1
+Faisan vénéré            2016    0        1
+Fauvette pitchou         2007    0        1
+Goéland cendré           2009    0        1
+Goéland leucophée        2018    0        1
+Goéland marin            2019    0        2
+Hibou moyen-duc          2009    0        2
+Milan noir               2018    0        3
+Moineau friquet          2016    0        2
+Oie cendrée              2018    0        1
+Rougequeue à front blanc 2018    0        1
+Rousserolle effarvatte   2017    0        9
+Tadorne casarca          2015    0        2
 

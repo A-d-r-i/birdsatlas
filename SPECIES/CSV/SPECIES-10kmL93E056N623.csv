@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bruant fou"
-"0";"Corbeau freux"
-"0";"Foulque macroule"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Pic mar"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2009,0,1
+Bergeronnette grise,2017,0,2
+Bruant fou,2018,0,1
+Corbeau freux,2017,0,1
+Foulque macroule,2009,0,1
+Goéland leucophée,2018,0,1
+Grand-duc d'Europe,2009,0,1
+Moineau friquet,2019,0,1
+Petit-duc scops,2010,0,1
+Pic mar,2018,0,2
+Tarier des prés,2009,0,1

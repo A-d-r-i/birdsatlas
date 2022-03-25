@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Busard des roseaux
-0        Caille des blés
-0        Chevalier culblanc
-0        Choucas des tours
-0        Cigogne blanche
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Faucon hobereau
-0        Fauvette mélanocéphale
-0        Gobemouche gris
-0        Grand-duc d'Europe
-0        Hirondelle rousseline
-0        Hirondelle rustique
-0        Perdrix rouge
-0        Petit-duc scops
-0        Pigeon biset domestique
-0        Rollier d'Europe
-0        Tichodrome échelette
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2015    0        4
+Busard des roseaux        2012    0        3
+Caille des blés           2009    0        1
+Chevalier culblanc        2016    0        1
+Choucas des tours         2009    0        1
+Cigogne blanche           2015    0        1
+Cigogne noire             2012    0        1
+Engoulevent d'Europe      2018    0        6
+Étourneau sansonnet       2016    0        7
+Faucon hobereau           2018    0        2
+Fauvette mélanocéphale    2019    0        1
+Gobemouche gris           2018    0        3
+Grand-duc d'Europe        2012    0        3
+Hirondelle rousseline     2012    0        1
+Hirondelle rustique       2016    0        3
+Perdrix rouge             2009    0        2
+Petit-duc scops           2018    0        2
+Pigeon biset domestique   2014    0        4
+Rollier d'Europe          2008    0        1
+Tichodrome échelette      2017    0        8
 

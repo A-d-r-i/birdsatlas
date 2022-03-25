@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Chevalier arlequin"
-"0";"Chevalier guignette"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette babillarde"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Grand Gravelot"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Paon bleu"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pluvier guignard"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Serin du Mozambique"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,11
+Autour des palombes,2012,0,5
+Bécasse des bois,2017,0,5
+Bergeronnette flavéole (M.f.flavissima),2018,0,1
+Busard pâle,2015,0,3
+Buse pattue,2013,0,48
+Chevalier arlequin,2018,0,3
+Chevalier guignette,2012,0,3
+Cochevis huppé,2012,0,3
+Combattant varié,2018,0,2
+Courlis cendré,2013,0,2
+Courlis corlieu,2017,0,2
+Cygne noir,2007,0,1
+Engoulevent d'Europe,2012,0,1
+Fauvette babillarde,2013,0,3
+Gobemouche noir,2008,0,1
+Goéland argenté,2015,0,3
+Grand Gravelot,2018,0,2
+Grive mauvis,2018,0,105
+Guêpier d'Europe,2016,0,2
+Héron garde-boeufs,2015,0,1
+Hibou moyen-duc,2018,0,73
+Huppe fasciée,2016,0,5
+Locustelle tachetée,2015,0,4
+Martin-pêcheur d'Europe,2014,0,2
+Moineau friquet,2018,0,51
+Mouette mélanocéphale,2015,0,5
+Oedicnème criard,2013,0,3
+Oie cendrée,2013,0,6
+Paon bleu,2016,0,1
+Petit Gravelot,2018,0,3
+Pic noir,2018,0,14
+Pie-grièche écorcheur,2013,0,3
+Pluvier guignard,2014,0,4
+Pouillot de Bonelli,2015,0,2
+Pouillot siffleur,2012,0,3
+Roitelet à triple bandeau,2017,0,14
+Rougequeue à front blanc,2017,0,51
+Sarcelle d'hiver,2013,0,1
+Serin du Mozambique,2007,0,1
+Sizerin cabaret,2013,0,4
+Sizerin flammé,2013,0,4
+Sterne pierregarin,2009,0,1
+Torcol fourmilier,2013,0,1

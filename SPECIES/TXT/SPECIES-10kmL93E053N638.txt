@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bruant des roseaux
-0        Busard cendré
-0        Caille des blés
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Grande Aigrette
-0        Martin-pêcheur d'Europe
-0        Moineau friquet
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Tarin des aulnes
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2016    0        2
+Bruant des roseaux      2017    0        2
+Busard cendré           2016    0        1
+Caille des blés         2018    0        1
+Cigogne blanche         2011    0        1
+Circaète Jean-le-Blanc  2018    0        6
+Engoulevent d'Europe    2011    0        2
+Faucon hobereau         2015    0        2
+Fauvette des jardins    2009    0        1
+Grande Aigrette         2017    0        1
+Martin-pêcheur d'Europe 2013    0        2
+Moineau friquet         2015    0        2
+Pie-grièche écorcheur   2009    0        2
+Pipit des arbres        2017    0        5
+Pouillot fitis          2010    0        2
+Roitelet huppé          2016    0        3
+Rollier d'Europe        2017    0        1
+Tarin des aulnes        2018    0        19
+Vanneau huppé           2015    0        4
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Canard carolin"
-"0";"Chevalier stagnatile"
-"0";"Corneille mantelée"
-"0";"Cygne de Bewick"
-"0";"Dendrocygne des Antilles"
-"0";"Élanion blanc"
-"0";"Érismature rousse"
-"0";"Fuligule à tête noire"
-"0";"Goéland argenté"
-"0";"Goéland railleur"
-"0";"Grèbe esclavon"
-"0";"Hibou des marais"
-"0";"Hirondelle de rochers"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Labbe parasite"
-"0";"Marouette poussin"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette de Sabine"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Phalarope à bec étroit"
-"0";"Pipit à gorge rousse"
-"0";"Pluvier bronzé"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Sterne caspienne"
-"0";"Sterne naine"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Bécasseau maubèche,2015,0,1
+Bécasseau sanderling,2017,0,3
+Bécasseau tacheté,2008,0,1
+Bécasse des bois,2016,0,2
+Bergeronnette flavéole (M.f.flavissima),2011,0,1
+Bernache du Canada,2012,0,2
+Canard carolin,2018,0,4
+Chevalier stagnatile,2015,0,43
+Corneille mantelée,2015,0,1
+Cygne de Bewick,2013,0,34
+Dendrocygne des Antilles,2018,0,1
+Élanion blanc,2014,0,9
+Érismature rousse,2018,0,5
+Fuligule à tête noire,2015,0,9
+Goéland argenté,2018,0,1
+Goéland railleur,2016,0,7
+Grèbe esclavon,2017,0,10
+Hibou des marais,2012,0,2
+Hirondelle de rochers,2015,0,1
+Ibis falcinelle,2015,0,29
+Ibis sacré,2007,0,1
+Labbe parasite,2015,0,2
+Marouette poussin,2013,0,24
+Merle à plastron,2018,0,1
+Mésange boréale,2017,0,46
+Mouette de Sabine,2011,0,1
+Oie à tête barrée,2016,0,4
+Oie rieuse,2017,0,16
+Phalarope à bec étroit,2015,0,4
+Pipit à gorge rousse,2015,0,3
+Pluvier bronzé,2017,0,1
+Pouillot à grands sourcils,2014,0,1
+Pouillot siffleur,2015,0,2
+Rousserolle verderolle,2016,0,1
+Sterne caspienne,2018,0,6
+Sterne naine,2016,0,6
+Tournepierre à collier,2015,0,12

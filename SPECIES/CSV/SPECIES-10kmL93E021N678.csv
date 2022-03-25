@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bernache cravant"
-"0";"Bruant des roseaux"
-"0";"Corbeau freux"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Goéland brun"
-"0";"Grand Corbeau"
-"0";"Hirondelle de rivage"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
-"0";"Pouillot à grands sourcils"
-"0";"Serin cini"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,1
+Autour des palombes,2017,0,2
+Bécasse des bois,2014,0,1
+Bernache cravant,2017,0,1
+Bruant des roseaux,2009,0,1
+Corbeau freux,2013,0,1
+Faucon hobereau,2017,0,1
+Faucon pèlerin,2012,0,1
+Goéland brun,2015,0,3
+Grand Corbeau,2018,0,1
+Hirondelle de rivage,2015,0,2
+Mésange noire,2018,0,8
+Milan noir,2016,0,1
+Milan royal,2018,0,2
+Perdrix rouge,2017,0,1
+Pipit des arbres,2009,0,1
+Pouillot à grands sourcils,2017,0,1
+Serin cini,2018,0,6
+Vanneau huppé,2016,0,5

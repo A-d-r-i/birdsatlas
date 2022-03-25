@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Canard colvert"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon crécerelle"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Hirondelle de fenêtre"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Ouette d'Egypte"
-"0";"Pic épeichette"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,2
+Autour des palombes,2014,0,6
+Barge à queue noire,2017,0,1
+Bécasse des bois,2009,0,2
+Bécassine des marais,2010,0,2
+Bec-croisé des sapins,2010,0,2
+Bondrée apivore,2017,0,4
+Bouvreuil pivoine,2016,0,13
+Bruant des roseaux,2016,0,3
+Bruant zizi,2009,0,2
+Busard cendré,2017,0,1
+Busard des roseaux,2017,0,1
+Canard colvert,2018,0,9
+Chevalier culblanc,2017,0,1
+Chevêche d'Athéna,2017,0,4
+Choucas des tours,2017,0,4
+Cigogne blanche,2014,0,2
+Corbeau freux,2012,0,3
+Effraie des clochers,2009,0,2
+Engoulevent d'Europe,2009,0,4
+Faucon crécerelle,2017,0,15
+Faucon émerillon,2017,0,1
+Fauvette babillarde,2015,0,3
+Gallinule poule-d'eau,2009,0,2
+Gobemouche noir,2009,0,2
+Grand Cormoran,2017,0,6
+Grande Aigrette,2016,0,3
+Grive litorne,2017,0,9
+Grive mauvis,2010,0,2
+Hirondelle de fenêtre,2017,0,8
+Huppe fasciée,2014,0,1
+Locustelle tachetée,2009,0,5
+Martinet noir,2017,0,3
+Mésange boréale,2009,0,2
+Mésange huppée,2013,0,8
+Milan royal,2014,0,1
+Moineau friquet,2010,0,4
+Oedicnème criard,2013,0,1
+Ouette d'Egypte,2014,0,1
+Pic épeichette,2018,0,3
+Pie-grièche écorcheur,2014,0,4
+Pigeon biset domestique,2017,0,4
+Pinson du Nord,2013,0,3
+Pluvier doré,2017,0,11
+Pouillot siffleur,2017,0,6
+Roitelet à triple bandeau,2018,0,14
+Roitelet huppé,2017,0,8
+Serin cini,2015,0,3
+Tarin des aulnes,2010,0,3
+Torcol fourmilier,2016,0,1
+Traquet motteux,2013,0,2

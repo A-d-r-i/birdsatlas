@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécassine sourde"
-"0";"Bihoreau gris"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Locustelle tachetée"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Mouette mélanocéphale"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,2
+Autour des palombes,2009,0,1
+Bécassine sourde,2018,0,1
+Bihoreau gris,2018,0,1
+Busard des roseaux,2015,0,1
+Butor étoilé,2009,0,1
+Canard carolin,2015,0,1
+Chevalier aboyeur,2014,0,1
+Chevalier gambette,2016,0,1
+Courlis corlieu,2007,0,1
+Faucon émerillon,2009,0,1
+Faucon pèlerin,2018,0,2
+Grosbec casse-noyaux,2018,0,5
+Guifette noire,2016,0,1
+Harle bièvre,2014,0,1
+Locustelle tachetée,2017,0,4
+Milan noir,2016,0,1
+Milan royal,2016,0,1
+Mouette mélanocéphale,2017,0,1
+Pouillot siffleur,2015,0,2
+Serin cini,2009,0,2
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tarier des prés,2016,0,3

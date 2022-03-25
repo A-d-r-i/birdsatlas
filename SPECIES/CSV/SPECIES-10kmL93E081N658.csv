@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Faisan de Colchide"
-"0";"Fauvette des jardins"
-"0";"Martinet noir"
-"0";"Mésange huppée"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Alouette des champs,2009,0,1
+Alouette lulu,2009,0,1
+Bec-croisé des sapins,2009,0,1
+Bouvreuil pivoine,2013,0,2
+Chouette hulotte,2009,0,1
+Cigogne noire,2017,0,1
+Cincle plongeur,2009,0,1
+Corbeau freux,2009,0,1
+Faisan de Colchide,2009,0,1
+Fauvette des jardins,2009,0,1
+Martinet noir,2017,0,2
+Mésange huppée,2009,0,1
+Pouillot fitis,2009,0,1
+Rougequeue à front blanc,2009,0,1

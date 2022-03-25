@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bouscarle de Cetti
-0        Bruant jaune
-0        Bruant proyer
-0        Caille des blés
-0        Canard pilet
-0        Corbeau freux
-0        Cygne noir
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Grive draine
-0        Grive litorne
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Mésange huppée
-0        Mésange noire
-0        Oedicnème criard
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Plongeon imbrin
-0        Rousserolle effarvatte
-0        Tarier pâtre
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2018    0        3
+Autour des palombes       2019    0        2
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2009    0        1
+Bouscarle de Cetti        2017    0        1
+Bruant jaune              2018    0        6
+Bruant proyer             2009    0        1
+Caille des blés           2009    0        1
+Canard pilet              2009    0        1
+Corbeau freux             2009    0        1
+Cygne noir                2009    0        1
+Effraie des clochers      2009    0        1
+Faucon pèlerin            2016    0        1
+Fauvette des jardins      2009    0        1
+Grive draine              2018    0        2
+Grive litorne             2009    0        1
+Harle bièvre              2019    0        2
+Hibou moyen-duc           2019    0        2
+Hypolaïs polyglotte       2018    0        9
+Mésange huppée            2015    0        2
+Mésange noire             2009    0        1
+Oedicnème criard          2017    0        2
+Pie-grièche écorcheur     2009    0        1
+Pigeon colombin           2018    0        2
+Pinson du Nord            2018    0        1
+Pipit des arbres          2018    0        3
+Plongeon imbrin           2009    0        1
+Rousserolle effarvatte    2009    0        1
+Tarier pâtre              2018    0        4
+Torcol fourmilier         2009    0        1
 

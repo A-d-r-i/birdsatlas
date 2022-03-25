@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard à collier noir"
-"0";"Canard des Bahamas"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Cygne noir"
-"0";"Dendrocygne fauve"
-"0";"Faucon émerillon"
-"0";"Grèbe jougris"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Merle à plastron"
-"0";"Oie à tête barrée"
-"0";"Paon bleu"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot siffleur"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2016,0,4
+Bihoreau gris,2008,0,2
+Butor étoilé,2010,0,1
+Caille des blés,2015,0,6
+Canard à collier noir,2015,0,13
+Canard des Bahamas,2019,0,2
+Chevalier culblanc,2018,0,4
+Chevalier gambette,2018,0,2
+Cygne noir,2012,0,12
+Dendrocygne fauve,2012,0,1
+Faucon émerillon,2011,0,1
+Grèbe jougris,2013,0,4
+Hibou des marais,2015,0,2
+Hibou moyen-duc,2016,0,4
+Merle à plastron,2011,0,1
+Oie à tête barrée,2017,0,7
+Paon bleu,2017,0,1
+Perdrix grise,2016,0,40
+Perdrix rouge,2013,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pouillot siffleur,2016,0,12
+Tadorne casarca,2015,0,23
+Tadorne de Belon,2014,0,73
+Torcol fourmilier,2013,0,3
+Tourterelle des bois,2013,0,4

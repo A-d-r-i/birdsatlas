@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Épervier d'Europe
-0        Étourneau unicolore
-0        Guêpier d'Europe
-0        Petit-duc scops
-0        Pie-grièche écorcheur
-0        Pipit rousseline
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle royal           2018    0        1
+Épervier d'Europe     2018    0        1
+Étourneau unicolore   2018    0        2
+Guêpier d'Europe      2018    0        1
+Petit-duc scops       2017    0        1
+Pie-grièche écorcheur 2009    0        1
+Pipit rousseline      2017    0        1
 

@@ -1,42 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bernache nonnette
-0        Bruant fou
-0        Canard pilet
-0        Chevalier arlequin
-0        Cochevis huppé
-0        Combattant varié
-0        Cygne noir
-0        Échasse blanche
-0        Faucon émerillon
-0        Fuligule milouin
-0        Fuligule milouinan
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland cendré
-0        Grèbe à cou noir
-0        Guifette leucoptère
-0        Harle bièvre
-0        Inséparable de Fischer
-0        Labbe pomarin
-0        Moineau friquet
-0        Mouette de Sabine
-0        Oie rieuse
-0        Paon bleu
-0        Perdrix grise
-0        Perroquet jaco
-0        Perruche ondulée
-0        Pie-grièche grise
-0        Pouillot de Bonelli
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Spatule blanche
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Avocette élégante      2016    0        2
+Bécasseau maubèche     2008    0        1
+Bécasseau minute       2017    0        2
+Bécassine sourde       2012    0        1
+Bec-croisé des sapins  2018    0        1
+Bernache nonnette      2010    0        2
+Bruant fou             2017    0        1
+Canard pilet           2018    0        6
+Chevalier arlequin     2015    0        1
+Cochevis huppé         2016    0        1
+Combattant varié       2015    0        3
+Cygne noir             2011    0        1
+Échasse blanche        2008    0        3
+Faucon émerillon       2012    0        3
+Fuligule milouin       2018    0        30
+Fuligule milouinan     2010    0        2
+Garrot à oeil d'or     2012    0        11
+Goéland brun           2016    0        2
+Goéland cendré         2013    0        6
+Grèbe à cou noir       2008    0        1
+Guifette leucoptère    2018    0        15
+Harle bièvre           2015    0        3
+Inséparable de Fischer 2015    0        2
+Labbe pomarin          2018    0        15
+Moineau friquet        2017    0        5
+Mouette de Sabine      2017    0        2
+Oie rieuse             2010    0        3
+Paon bleu              2014    0        1
+Perdrix grise          2015    0        2
+Perroquet jaco         2018    0        1
+Perruche ondulée       2017    0        1
+Pie-grièche grise      2012    0        4
+Pouillot de Bonelli    2015    0        1
+Sarcelle d'été         2017    0        19
+Sizerin cabaret        2018    0        1
+Sizerin flammé         2018    0        1
+Spatule blanche        2018    0        3
+Torcol fourmilier      2017    0        4
 

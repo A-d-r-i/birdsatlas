@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette calandrelle"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Cassenoix moucheté"
-"0";"Chevalier sylvain"
-"0";"Coucou geai"
-"0";"Cygne noir"
-"0";"Cygne tuberculé"
-"0";"Faisan vénéré"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Flamant rose"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Inséparable de Fischer"
-"0";"Mésange nonnette"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tichodrome échelette"
-"0";"Tourterelle rieuse"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,29
+Alouette calandrelle,2007,0,1
+Bécasseau cocorli,2012,0,1
+Bécasseau de Temminck,2010,0,1
+Bécasseau minute,2014,0,1
+Bihoreau gris,2013,0,1
+Blongios nain,2011,0,1
+Bruant jaune,2017,0,2
+Busard cendré,2016,0,52
+Busard pâle,2013,0,2
+Canard chipeau,2018,0,5
+Canard mandarin,2015,0,2
+Canard siffleur,2013,0,2
+Cassenoix moucheté,2012,0,5
+Chevalier sylvain,2018,0,3
+Coucou geai,2015,0,4
+Cygne noir,2016,0,1
+Cygne tuberculé,2016,0,20
+Faisan vénéré,2017,0,1
+Faucon crécerellette,2016,0,1
+Faucon émerillon,2018,0,21
+Fauvette des jardins,2013,0,1
+Flamant rose,2016,0,2
+Foulque macroule,2013,0,6
+Fuligule milouin,2015,0,6
+Goéland brun,2015,0,5
+Grèbe castagneux,2016,0,17
+Héron pourpré,2018,0,19
+Hibou des marais,2015,0,2
+Ibis falcinelle,2017,0,1
+Inséparable de Fischer,2014,0,1
+Mésange nonnette,2018,0,2
+Oie cendrée,2012,0,1
+Perruche ondulée,2016,0,2
+Pipit spioncelle,2017,0,3
+Pouillot à grands sourcils,2018,0,3
+Pouillot siffleur,2017,0,11
+Râle d'eau,2014,0,1
+Sarcelle d'été,2015,0,2
+Sarcelle d'hiver,2016,0,6
+Tichodrome échelette,2019,0,12
+Tourterelle rieuse,2013,0,1
+Vanneau huppé,2018,0,9
+Venturon montagnard,2016,0,4

@@ -1,51 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant jaune
-0        Busard cendré
-0        Caille des blés
-0        Canard à collier noir
-0        Canard chipeau
-0        Canard souchet
-0        Choucas des tours
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Cygne chanteur
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Fauvette grisette
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Goéland leucophée
-0        Grand Corbeau
-0        Grèbe à cou noir
-0        Grive litorne
-0        Grive mauvis
-0        Harle piette
-0        Héron pourpré
-0        Ibis falcinelle
-0        Mésange huppée
-0        Moineau friquet
-0        Nette rousse
-0        Oie cendrée
-0        Perdrix rouge
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2018    0        2
+Bécasse des bois          2016    0        1
+Bergeronnette printanière 2017    0        9
+Bouvreuil pivoine         2017    0        1
+Bruant des roseaux        2018    0        17
+Bruant fou                2011    0        8
+Bruant jaune              2018    0        2
+Busard cendré             2012    0        1
+Caille des blés           2015    0        1
+Canard à collier noir     2017    0        6
+Canard chipeau            2013    0        3
+Canard souchet            2019    0        19
+Choucas des tours         2018    0        2
+Circaète Jean-le-Blanc    2015    0        2
+Courlis cendré            2014    0        10
+Cygne chanteur            2011    0        2
+Engoulevent d'Europe      2017    0        2
+Faisan de Colchide        2018    0        22
+Fauvette grisette         2018    0        3
+Fuligule milouinan        2011    0        9
+Fuligule nyroca           2014    0        4
+Goéland leucophée         2019    0        24
+Grand Corbeau             2015    0        3
+Grèbe à cou noir          2017    0        1
+Grive litorne             2011    0        8
+Grive mauvis              2018    0        15
+Harle piette              2013    0        10
+Héron pourpré             2014    0        1
+Ibis falcinelle           2016    0        3
+Mésange huppée            2018    0        1
+Moineau friquet           2013    0        4
+Nette rousse              2011    0        7
+Oie cendrée               2017    0        5
+Perdrix rouge             2009    0        2
+Pie-grièche écorcheur     2018    0        1
+Pigeon colombin           2015    0        2
+Pinson du Nord            2018    0        14
+Pipit spioncelle          2017    0        9
+Pluvier doré              2016    0        7
+Pouillot de Bonelli       2018    0        1
+Pouillot fitis            2009    0        1
+Pouillot siffleur         2012    0        2
+Tarier des prés           2018    0        11
+Tarin des aulnes          2018    0        23
+Torcol fourmilier         2015    0        1
+Traquet motteux           2016    0        4
+Vautour fauve             2018    0        4
 

@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bernache du Canada"
-"0";"Chevêche d'Athéna"
-"0";"Fauvette des jardins"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Pipit spioncelle"
-"0";"Sittelle torchepot"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2017,0,1
+Bernache du Canada,2018,0,1
+Chevêche d'Athéna,2009,0,1
+Fauvette des jardins,2018,0,1
+Locustelle tachetée,2018,0,3
+Moineau friquet,2015,0,1
+Oie cendrée,2015,0,1
+Pipit spioncelle,2018,0,1
+Sittelle torchepot,2018,0,2
+Tourterelle des bois,2009,0,1

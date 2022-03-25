@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Canard pilet"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette pitchou"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2019,0,5
+Bouscarle de Cetti,2014,0,2
+Bruant des roseaux,2017,0,3
+Canard pilet,2019,0,9
+Cigogne noire,2017,0,2
+Engoulevent d'Europe,2011,0,6
+Faucon émerillon,2017,0,1
+Fauvette pitchou,2009,0,1
+Héron pourpré,2015,0,1
+Hibou moyen-duc,2018,0,9
+Locustelle tachetée,2009,0,2
+Moineau friquet,2014,0,1
+Perdrix rouge,2007,0,1
+Pipit des arbres,2016,0,2
+Pluvier doré,2017,0,10
+Pouillot fitis,2016,0,3
+Rougequeue à front blanc,2018,0,2
+Tadorne de Belon,2009,0,2
+Tarier des prés,2016,0,3

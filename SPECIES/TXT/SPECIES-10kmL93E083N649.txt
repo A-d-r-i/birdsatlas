@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bouscarle de Cetti
-0        Bruant fou
-0        Cigogne noire
-0        Fauvette des jardins
-0        Grande Aigrette
-0        Hibou des marais
-0        Perdrix grise
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2018    0        70
+Bouscarle de Cetti        2018    0        1
+Bruant fou                2018    0        2
+Cigogne noire             2011    0        1
+Fauvette des jardins      2011    0        3
+Grande Aigrette           2019    0        9
+Hibou des marais          2013    0        1
+Perdrix grise             2017    0        2
+Petit-duc scops           2009    0        2
+Pie-grièche à tête rousse 2011    0        3
+Pipit rousseline          2012    0        3
+Pipit spioncelle          2015    0        1
+Torcol fourmilier         2016    0        3
+Vanneau huppé             2017    0        19
 

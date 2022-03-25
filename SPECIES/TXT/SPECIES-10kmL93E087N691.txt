@@ -1,52 +1,52 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Alouette lulu
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette des ruisseaux
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Corbeau freux
-0        Effraie des clochers
-0        Faucon hobereau
-0        Fuligule milouin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gobemouche à collier
-0        Gobemouche gris
-0        Grand-duc d'Europe
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Grimpereau des jardins
-0        Grive mauvis
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Huîtrier pie
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange huppée
-0        Mésange noire
-0        Mouette rieuse
-0        Oie rieuse
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic mar
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Sittelle torchepot
-0        Sterne pierregarin
-0        Torcol fourmilier
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette des champs         2014    0        2
+Alouette lulu               2017    0        2
+Bécasseau variable          2017    0        1
+Bécasse des bois            2015    0        3
+Bécassine des marais        2018    0        4
+Bécassine sourde            2019    0        1
+Bergeronnette des ruisseaux 2013    0        2
+Bergeronnette grise         2017    0        3
+Bergeronnette printanière   2018    0        4
+Bruant des roseaux          2017    0        4
+Chevalier culblanc          2017    0        2
+Chevalier guignette         2017    0        2
+Corbeau freux               2018    0        6
+Effraie des clochers        2016    0        2
+Faucon hobereau             2012    0        3
+Fuligule milouin            2018    0        4
+Fuligule morillon           2018    0        4
+Garrot à oeil d'or          2013    0        2
+Gobemouche à collier        2009    0        1
+Gobemouche gris             2018    0        2
+Grand-duc d'Europe          2017    0        1
+Grèbe castagneux            2018    0        2
+Grimpereau des bois         2009    0        1
+Grimpereau des jardins      2017    0        4
+Grive mauvis                2013    0        2
+Harle bièvre                2019    0        3
+Hibou moyen-duc             2009    0        1
+Hirondelle de rivage        2009    0        1
+Huîtrier pie                2017    0        1
+Hypolaïs polyglotte         2009    0        1
+Linotte mélodieuse          2018    0        6
+Locustelle tachetée         2009    0        1
+Loriot d'Europe             2009    0        1
+Mésange huppée              2013    0        2
+Mésange noire               2013    0        1
+Mouette rieuse              2017    0        2
+Oie rieuse                  2016    0        1
+Phragmite des joncs         2009    0        1
+Pic épeichette              2017    0        2
+Pic mar                     2009    0        1
+Pipit farlouse              2016    0        2
+Pipit spioncelle            2014    0        1
+Pouillot fitis              2017    0        5
+Roitelet huppé              2018    0        5
+Rossignol philomèle         2018    0        5
+Sittelle torchepot          2013    0        8
+Sterne pierregarin          2017    0        2
+Torcol fourmilier           2018    0        4
 

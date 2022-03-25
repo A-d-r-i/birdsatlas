@@ -1,71 +1,69 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigle royal"
-"0";"Alouette calandre"
-"0";"Alouette lulu"
-"0";"Ammomane élégante"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau minute"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Choucas des tours"
-"0";"Cormoran huppé"
-"0";"Corneille noire"
-"0";"Coucou geai"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Eider à duvet"
-"0";"Engoulevent d'Europe"
-"0";"Étourneau unicolore"
-"0";"Faisan de Colchide"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Goéland d'Audouin"
-"0";"Gorgebleue à miroir"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs ictérine"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Pélican gris"
-"0";"Petit-duc scops"
-"0";"Pic vert"
-"0";"Pinson du Nord"
-"0";"Pipit de Richard"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sterne caspienne"
-"0";"Talève sultane"
-"0";"Tarin des aulnes"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2019,0,1
+Aigle royal,2013,0,1
+Alouette calandre,2015,0,2
+Alouette lulu,2018,0,3
+Ammomane élégante,2016,0,4
+Autour des palombes,2018,0,1
+Avocette élégante,2016,0,4
+Barge à queue noire,2010,0,1
+Bécasseau minute,2018,0,1
+Bec-croisé des sapins,2017,0,1
+Bihoreau gris,2018,0,2
+Bruant proyer,2018,0,9
+Busard cendré,2017,0,2
+Busard Saint-Martin,2015,0,2
+Caille des blés,2017,0,1
+Canard souchet,2013,0,1
+Chevalier guignette,2018,0,8
+Chevalier sylvain,2018,0,3
+Choucas des tours,2018,0,3
+Cormoran huppé,2017,0,2
+Corneille noire,2014,0,1
+Coucou geai,2013,0,4
+Coucou gris,2009,0,1
+Courlis cendré,2017,0,4
+Courlis corlieu,2010,0,1
+Eider à duvet,2014,0,12
+Engoulevent d'Europe,2018,0,10
+Étourneau unicolore,2009,0,1
+Faisan de Colchide,2019,0,4
+Faucon crécerellette,2016,0,1
+Faucon émerillon,2018,0,4
+Faucon kobez,2017,0,2
+Faucon pèlerin,2013,0,1
+Fauvette babillarde,2015,0,2
+Goéland d'Audouin,2007,0,1
+Gorgebleue à miroir,2017,0,1
+Grand-duc d'Europe,2015,0,6
+Grèbe castagneux,2016,0,2
+Grimpereau des jardins,2018,0,16
+Guifette moustac,2016,0,2
+Guifette noire,2013,0,1
+Héron garde-boeufs,2013,0,1
+Hibou moyen-duc,2015,0,1
+Hirondelle rousseline,2018,0,7
+Hypolaïs ictérine,2014,0,2
+Labbe pomarin,2017,0,16
+Locustelle tachetée,2018,0,6
+Marouette ponctuée,2017,0,2
+Mésange noire,2018,0,4
+Moineau friquet,2018,0,6
+Monticole bleu,2016,0,3
+Oedicnème criard,2018,0,2
+Oie cendrée,2012,0,2
+Pélican gris,2018,0,1
+Petit-duc scops,2015,0,3
+Pic vert,2009,0,1
+Pinson du Nord,2012,0,1
+Pipit de Richard,2018,0,2
+Plongeon catmarin,2014,0,3
+Pluvier doré,2017,0,4
+Pouillot à grands sourcils,2018,0,1
+Pouillot siffleur,2015,0,4
+Râle d'eau,2009,0,1
+Rémiz penduline,2014,0,1
+Sterne caspienne,2018,0,11
+Talève sultane,2017,0,1
+Tarin des aulnes,2018,0,5
+Vautour fauve,2014,0,2

@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette grise"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Huppe fasciée"
-"0";"Pie-grièche écorcheur"
-"0";"Pouillot siffleur"
-"0";"Rougequeue noir"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bergeronnette grise,2017,0,6
+Bruant jaune,2018,0,3
+Busard des roseaux,2015,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2017,0,2
+Coucou gris,2016,0,1
+Effraie des clochers,2016,0,2
+Fauvette des jardins,2009,0,1
+Foulque macroule,2009,0,1
+Gallinule poule-d'eau,2018,0,2
+Gobemouche gris,2009,0,1
+Grive litorne,2018,0,3
+Grosbec casse-noyaux,2016,0,2
+Huppe fasciée,2018,0,1
+Pie-grièche écorcheur,2016,0,1
+Pouillot siffleur,2016,0,1
+Rougequeue noir,2018,0,2
+Traquet motteux,2014,0,1

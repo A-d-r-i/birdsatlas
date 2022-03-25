@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Corneille mantelée"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche à collier"
-"0";"Goéland brun"
-"0";"Goéland marin"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Labbe parasite"
-"0";"Mouette rieuse"
-"0";"Nette rousse"
-"0";"Perdrix grise"
-"0";"Perruche ondulée"
-"0";"Pie-grièche grise"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Plongeon catmarin"
-"0";"Rollier d'Europe"
-"0";"Vautour fauve"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,3
+Aigle royal,2014,0,2
+Aigrette garzette,2016,0,3
+Bruant proyer,2018,0,5
+Busard cendré,2017,0,31
+Caille des blés,2015,0,10
+Canard chipeau,2012,0,1
+Canard pilet,2013,0,3
+Canard souchet,2014,0,5
+Chevalier aboyeur,2014,0,1
+Corneille mantelée,2015,0,1
+Effraie des clochers,2018,0,22
+Faucon d'Eléonore,2017,0,4
+Faucon kobez,2014,0,4
+Fuligule milouin,2011,0,3
+Fuligule morillon,2014,0,1
+Gobemouche à collier,2014,0,2
+Goéland brun,2014,0,13
+Goéland marin,2011,0,1
+Héron garde-boeufs,2018,0,28
+Héron pourpré,2018,0,6
+Hibou des marais,2014,0,8
+Labbe parasite,2013,0,1
+Mouette rieuse,2018,0,87
+Nette rousse,2017,0,3
+Perdrix grise,2014,0,1
+Perruche ondulée,2007,0,3
+Pie-grièche grise,2013,0,3
+Pipit à gorge rousse,2011,0,1
+Pipit de Richard,2015,0,3
+Plongeon catmarin,2007,0,1
+Rollier d'Europe,2016,0,1
+Vautour fauve,2014,0,9
+Vautour moine,2012,0,1

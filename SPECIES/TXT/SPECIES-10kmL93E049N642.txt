@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bruant fou
-0        Bruant proyer
-0        Caille des blés
-0        Calopsitte élégante
-0        Canard chipeau
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Cincle plongeur
-0        Cochevis huppé
-0        Cygne noir
-0        Faisan vénéré
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule milouinan
-0        Fuligule morillon
-0        Guêpier d'Europe
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Moineau friquet
-0        Oie cendrée
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Sarcelle d'hiver
-0        Tadorne casarca
-0        Tarier des prés
-0        Torcol fourmilier
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigle botté          2014    0        1
+Bécassine des marais 2016    0        5
+Bécassine sourde     2014    0        1
+Bruant fou           2012    0        1
+Bruant proyer        2012    0        1
+Caille des blés      2011    0        2
+Calopsitte élégante  2012    0        1
+Canard chipeau       2012    0        5
+Canard siffleur      2012    0        4
+Canard souchet       2015    0        3
+Chevalier culblanc   2013    0        1
+Cincle plongeur      2014    0        3
+Cochevis huppé       2018    0        9
+Cygne noir           2016    0        1
+Faisan vénéré        2012    0        1
+Foulque macroule     2013    0        11
+Fuligule milouin     2013    0        3
+Fuligule milouinan   2009    0        2
+Fuligule morillon    2015    0        9
+Guêpier d'Europe     2016    0        1
+Héron pourpré        2017    0        4
+Hibou moyen-duc      2009    0        2
+Hirondelle de rivage 2017    0        6
+Moineau friquet      2018    0        38
+Oie cendrée          2016    0        5
+Perdrix grise        2011    0        2
+Perdrix rouge        2016    0        3
+Petit Gravelot       2013    0        15
+Pipit rousseline     2013    0        1
+Pluvier doré         2015    0        3
+Pouillot fitis       2015    0        14
+Pouillot siffleur    2012    0        1
+Sarcelle d'hiver     2016    0        19
+Tadorne casarca      2015    0        1
+Tarier des prés      2015    0        6
+Torcol fourmilier    2013    0        2
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau de Temminck"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des neiges"
-"0";"Bruant lapon"
-"0";"Bruant mélanocéphale"
-"0";"Butor étoilé"
-"0";"Capucin bec-de-plomb"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Faucon sacre"
-"0";"Fauvette babillarde"
-"0";"Flamant rose"
-"0";"Fuligule milouin"
-"0";"Glaréole à collier"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à cou noir"
-"0";"Grive draine"
-"0";"Guifette noire"
-"0";"Hypolaïs ictérine"
-"0";"Labbe à longue queue"
-"0";"Locustelle tachetée"
-"0";"Martinet pâle"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Traquet du désert"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2016,0,1
+Bécasseau de Temminck,2010,0,1
+Bergeronnette flavéole (M.f.flavissima),2013,0,3
+Bruant des neiges,2017,0,3
+Bruant lapon,2010,0,2
+Bruant mélanocéphale,2017,0,1
+Butor étoilé,2017,0,1
+Capucin bec-de-plomb,2007,0,3
+Combattant varié,2018,0,3
+Corneille mantelée,2012,0,2
+Courlis cendré,2018,0,21
+Élanion blanc,2016,0,9
+Faucon sacre,2016,0,1
+Fauvette babillarde,2017,0,1
+Flamant rose,2008,0,3
+Fuligule milouin,2013,0,1
+Glaréole à collier,2015,0,5
+Goéland brun,2017,0,8
+Goéland cendré,2012,0,10
+Grand Gravelot,2011,0,1
+Gravelot à collier interrompu,2016,0,1
+Grèbe à cou noir,2015,0,3
+Grive draine,2018,0,19
+Guifette noire,2014,0,1
+Hypolaïs ictérine,2014,0,2
+Labbe à longue queue,2015,0,2
+Locustelle tachetée,2014,0,1
+Martinet pâle,2018,0,3
+Merle à plastron,2008,0,2
+Perdrix grise,2016,0,3
+Phragmite des joncs,2016,0,3
+Pie-grièche grise,2009,0,2
+Pluvier argenté,2010,0,2
+Pouillot siffleur,2015,0,5
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Traquet du désert,2018,0,8

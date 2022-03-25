@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Coucou gris"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2013,0,2
+Autour des palombes,2015,0,1
+Bondrée apivore,2012,0,2
+Bruant jaune,2012,0,2
+Busard Saint-Martin,2016,0,1
+Chevêche d'Athéna,2009,0,1
+Coucou gris,2012,0,3
+Fauvette des jardins,2017,0,2
+Fauvette grisette,2009,0,1
+Hibou moyen-duc,2017,0,1
+Hypolaïs polyglotte,2009,0,2
+Linotte mélodieuse,2015,0,4
+Loriot d'Europe,2012,0,3
+Martinet noir,2012,0,4
+Tourterelle des bois,2012,0,2

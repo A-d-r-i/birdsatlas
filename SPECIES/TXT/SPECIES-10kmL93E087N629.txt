@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécassine sourde
-0        Blongios nain
-0        Bruant jaune
-0        Butor étoilé
-0        Caille des blés
-0        Canard pilet
-0        Corneille mantelée
-0        Coucou geai
-0        Crave à bec rouge
-0        Cygne noir
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon kobez
-0        Fauvette des jardins
-0        Flamant rose
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Goéland cendré
-0        Grand Gravelot
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Hibou des marais
-0        Ibis falcinelle
-0        Marouette ponctuée
-0        Oedicnème criard
-0        Outarde canepetière
-0        Pic noir
-0        Pipit des arbres
-0        Pipit rousseline
-0        Plongeon catmarin
-0        Traquet oreillard
-0        Vautour moine
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Avocette élégante    2009    0        2
+Bécasseau variable   2018    0        1
+Bécassine sourde     2016    0        1
+Blongios nain        2016    0        5
+Bruant jaune         2009    0        3
+Butor étoilé         2015    0        3
+Caille des blés      2011    0        1
+Canard pilet         2016    0        2
+Corneille mantelée   2009    0        2
+Coucou geai          2015    0        2
+Crave à bec rouge    2018    0        1
+Cygne noir           2012    0        2
+Effraie des clochers 2012    0        2
+Faucon émerillon     2017    0        1
+Faucon kobez         2018    0        4
+Fauvette des jardins 2009    0        1
+Flamant rose         2016    0        4
+Fuligule nyroca      2018    0        49
+Garrot à oeil d'or   2018    0        28
+Goéland cendré       2016    0        1
+Grand Gravelot       2016    0        2
+Guifette moustac     2011    0        4
+Guifette noire       2012    0        5
+Harle bièvre         2016    0        1
+Hibou des marais     2018    0        1
+Ibis falcinelle      2018    0        1
+Marouette ponctuée   2009    0        2
+Oedicnème criard     2011    0        2
+Outarde canepetière  2009    0        1
+Pic noir             2014    0        2
+Pipit des arbres     2017    0        20
+Pipit rousseline     2015    0        13
+Plongeon catmarin    2011    0        1
+Traquet oreillard    2009    0        1
+Vautour moine        2015    0        1
 

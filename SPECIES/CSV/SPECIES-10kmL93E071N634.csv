@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Gallinule poule-d'eau"
-"0";"Hirondelle rousseline"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Monticole de roche"
-"0";"Niverolle alpine"
-"0";"Oedicnème criard"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
-"0";"Vautour de Rüppell"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2011,0,1
+Chouette de Tengmalm,2012,0,1
+Cigogne blanche,2013,0,2
+Effraie des clochers,2009,0,2
+Faucon crécerellette,2015,0,1
+Gallinule poule-d'eau,2012,0,2
+Hirondelle rousseline,2011,0,1
+Locustelle tachetée,2007,0,1
+Merle à plastron,2014,0,2
+Moineau friquet,2017,0,6
+Moineau soulcie,2018,0,2
+Monticole de roche,2011,0,1
+Niverolle alpine,2009,0,2
+Oedicnème criard,2018,0,2
+Rousserolle turdoïde,2016,0,1
+Sarcelle d'hiver,2013,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Vanneau huppé,2012,0,2
+Vautour de Rüppell,2017,0,1

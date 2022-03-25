@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Cincle plongeur"
-"0";"Coucou gris"
-"0";"Cygne de Bewick"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Guifette moustac"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Macreuse brune"
-"0";"Mésange noire"
-"0";"Mouette mélanocéphale"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2012,0,4
+Bécasseau minute,2017,0,2
+Bécasse des bois,2012,0,1
+Butor étoilé,2013,0,1
+Caille des blés,2012,0,2
+Canard pilet,2016,0,1
+Cincle plongeur,2018,0,8
+Coucou gris,2012,0,2
+Cygne de Bewick,2017,0,2
+Faisan de Colchide,2019,0,2
+Faucon hobereau,2013,0,4
+Fauvette des jardins,2012,0,8
+Gobemouche gris,2016,0,3
+Guifette moustac,2012,0,1
+Hibou des marais,2015,0,1
+Hibou moyen-duc,2017,0,9
+Hirondelle de rivage,2012,0,1
+Hypolaïs polyglotte,2012,0,6
+Macreuse brune,2018,0,5
+Mésange noire,2014,0,3
+Mouette mélanocéphale,2013,0,1
+Petit Gravelot,2016,0,1
+Phragmite des joncs,2012,0,2
+Pic cendré,2013,0,1
+Pie-grièche à tête rousse,2010,0,2
+Pie-grièche grise,2015,0,4
+Pipit des arbres,2013,0,5
+Pouillot fitis,2015,0,15
+Pouillot siffleur,2017,0,1
+Râle d'eau,2017,0,1
+Tarier des prés,2014,0,1
+Tichodrome échelette,2011,0,3
+Torcol fourmilier,2012,0,5
+Tourterelle des bois,2013,0,5
+Traquet motteux,2014,0,1

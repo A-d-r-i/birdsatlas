@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine sourde"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Gorgebleue à miroir"
-"0";"Grand Corbeau"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Jaseur boréal"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Oie des moissons"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,1
+Bécassine sourde,2014,0,1
+Bergeronnette des ruisseaux,2018,0,8
+Bihoreau gris,2016,0,3
+Bondrée apivore,2015,0,5
+Bruant ortolan,2015,0,2
+Bruant zizi,2012,0,2
+Busard des roseaux,2013,0,2
+Canard chipeau,2012,0,1
+Canard pilet,2012,0,2
+Canard siffleur,2010,0,2
+Chevalier culblanc,2015,0,8
+Chevalier sylvain,2016,0,2
+Faucon émerillon,2010,0,2
+Faucon kobez,2012,0,1
+Foulque macroule,2017,0,13
+Garrot à oeil d'or,2010,0,2
+Gobemouche gris,2017,0,9
+Gorgebleue à miroir,2011,0,1
+Grand Corbeau,2013,0,1
+Grèbe castagneux,2018,0,18
+Grèbe huppé,2016,0,21
+Grimpereau des bois,2015,0,1
+Héron garde-boeufs,2018,0,3
+Hibou des marais,2013,0,2
+Jaseur boréal,2009,0,2
+Mésange boréale,2018,0,28
+Mésange noire,2018,0,5
+Mouette rieuse,2009,0,1
+Oedicnème criard,2009,0,1
+Oie des moissons,2013,0,4
+Perdrix grise,2017,0,2
+Perdrix rouge,2017,0,13
+Petit Gravelot,2016,0,1
+Pic cendré,2014,0,13
+Pipit des arbres,2018,0,12
+Pluvier doré,2012,0,2
+Pouillot siffleur,2017,0,5
+Rémiz penduline,2012,0,2
+Rousserolle verderolle,2015,0,1
+Sarcelle d'été,2018,0,4
+Sarcelle d'hiver,2016,0,2
+Tadorne de Belon,2011,0,2

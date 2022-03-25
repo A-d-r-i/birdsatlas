@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Chouette de Tengmalm"
-"0";"Corbeau freux"
-"0";"Courlis corlieu"
-"0";"Faisan de Colchide"
-"0";"Gallinule poule-d'eau"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Niverolle alpine"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pluvier guignard"
-"0";"Pouillot à grands sourcils"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,3
+Avocette élégante,2018,0,1
+Bécasse des bois,2018,0,10
+Bergeronnette flavéole (M.f.flavissima),2010,0,1
+Bruant fou,2014,0,7
+Bruant proyer,2011,0,2
+Busard cendré,2016,0,8
+Chevalier guignette,2014,0,3
+Chevêche d'Athéna,2011,0,2
+Chouette de Tengmalm,2009,0,1
+Corbeau freux,2014,0,2
+Courlis corlieu,2010,0,1
+Faisan de Colchide,2012,0,2
+Gallinule poule-d'eau,2012,0,4
+Héron pourpré,2013,0,2
+Hirondelle de rivage,2017,0,1
+Huppe fasciée,2017,0,5
+Niverolle alpine,2015,0,1
+Perdrix grise,2010,0,1
+Petit Gravelot,2017,0,1
+Pluvier guignard,2011,0,1
+Pouillot à grands sourcils,2016,0,1
+Sizerin flammé,2014,0,1
+Vanneau huppé,2016,0,7

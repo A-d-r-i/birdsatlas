@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécassine des marais"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Capucin bec-de-plomb"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Gobemouche à collier"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Inséparable de Fischer"
-"0";"Linotte mélodieuse"
-"0";"Marouette poussin"
-"0";"Martinet à ventre blanc"
-"0";"Martinet pâle"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Traquet oreillard"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2010,0,1
+Bécassine des marais,2018,0,2
+Bruant fou,2014,0,3
+Bruant ortolan,2017,0,3
+Bruant proyer,2014,0,3
+Calopsitte élégante,2012,0,1
+Canard chipeau,2013,0,1
+Canard pilet,2014,0,1
+Capucin bec-de-plomb,2018,0,1
+Chouette hulotte,2015,0,2
+Cigogne blanche,2013,0,1
+Effraie des clochers,2010,0,1
+Faucon kobez,2015,0,2
+Fauvette grisette,2016,0,1
+Gobemouche à collier,2013,0,1
+Grande Aigrette,2015,0,3
+Grive litorne,2012,0,3
+Grosbec casse-noyaux,2018,0,2
+Héron pourpré,2018,0,3
+Hirondelle de rivage,2010,0,1
+Inséparable de Fischer,2012,0,1
+Linotte mélodieuse,2017,0,3
+Marouette poussin,2010,0,1
+Martinet à ventre blanc,2015,0,10
+Martinet pâle,2014,0,1
+Ouette d'Egypte,2010,0,1
+Petit Gravelot,2013,0,1
+Pic noir,2015,0,4
+Pipit rousseline,2018,0,4
+Pouillot siffleur,2018,0,1
+Râle d'eau,2015,0,10
+Rousserolle turdoïde,2017,0,10
+Sarcelle d'hiver,2017,0,1
+Tarier des prés,2013,0,4
+Traquet oreillard,2009,0,2
+Vautour fauve,2016,0,1
+Venturon montagnard,2018,0,1

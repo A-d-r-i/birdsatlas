@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Grèbe jougris"
-"0";"Mouette pygmée"
-"0";"Plongeon arctique"
+frname,lastobs,newcount,oldcount
+Canard souchet,2014,0,1
+Chevalier gambette,2018,0,1
+Grèbe jougris,2019,0,1
+Mouette pygmée,2014,0,1
+Plongeon arctique,2019,0,1

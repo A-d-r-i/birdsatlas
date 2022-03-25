@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Canard pilet
-0        Canard souchet
-0        Chouette hulotte
-0        Oie à tête barrée
-0        Phragmite des joncs
-0        Pouillot fitis
-0        Rousserolle verderolle
-0        Sizerin boréal (C.f.flammea)
+frname                       lastobs newcount oldcount
+------                       ------- -------- --------
+Bruant des roseaux           2009    0        1
+Busard Saint-Martin          2009    0        1
+Canard chipeau               2009    0        1
+Canard pilet                 2018    0        3
+Canard souchet               2009    0        1
+Chouette hulotte             2017    0        4
+Oie à tête barrée            2018    0        1
+Phragmite des joncs          2018    0        1
+Pouillot fitis               2009    0        1
+Rousserolle verderolle       2009    0        1
+Sizerin boréal (C.f.flammea) 2017    0        1
 

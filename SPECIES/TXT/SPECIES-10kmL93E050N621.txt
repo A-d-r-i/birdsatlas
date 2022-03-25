@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bouscarle de Cetti
-0        Bruant fou
-0        Caille des blés
-0        Chevalier culblanc
-0        Cigogne noire
-0        Effraie des clochers
-0        Fauvette des jardins
-0        Foulque macroule
-0        Grèbe jougris
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Moineau soulcie
-0        Perdrix rouge
-0        Tourterelle des bois
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2009    0        1
+Autour des palombes  2018    0        3
+Bouscarle de Cetti   2009    0        1
+Bruant fou           2018    0        2
+Caille des blés      2009    0        1
+Chevalier culblanc   2018    0        1
+Cigogne noire        2013    0        1
+Effraie des clochers 2015    0        2
+Fauvette des jardins 2009    0        1
+Foulque macroule     2009    0        1
+Grèbe jougris        2018    0        1
+Hibou moyen-duc      2009    0        1
+Hirondelle de rivage 2017    0        2
+Merle à plastron     2018    0        2
+Moineau soulcie      2016    0        1
+Perdrix rouge        2009    0        1
+Tourterelle des bois 2013    0        2
 

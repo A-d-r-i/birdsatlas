@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant lapon"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Chevêche d'Athéna"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Goéland leucophée"
-"0";"Grosbec casse-noyaux"
-"0";"Harle bièvre"
-"0";"Ibis sacré"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Océanite culblanc"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'été"
-"0";"Sterne arctique"
-"0";"Sterne de Dougall"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,3
+Avocette élégante,2016,0,2
+Bécasseau cocorli,2007,0,1
+Bécasseau minute,2016,0,3
+Bergeronnette printanière,2015,0,3
+Bihoreau gris,2012,0,1
+Bruant lapon,2016,0,4
+Busard des roseaux,2016,0,1
+Busard Saint-Martin,2018,0,3
+Caille des blés,2010,0,3
+Calopsitte élégante,2019,0,1
+Canard chipeau,2018,0,64
+Chevêche d'Athéna,2008,0,1
+Cygne chanteur,2011,0,1
+Cygne noir,2015,0,1
+Goéland à ailes blanches,2018,0,3
+Goéland bourgmestre,2018,0,9
+Goéland leucophée,2015,0,1
+Grosbec casse-noyaux,2018,0,3
+Harle bièvre,2016,0,1
+Ibis sacré,2017,0,13
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2017,0,1
+Macareux moine,2010,0,2
+Océanite culblanc,2016,0,1
+Ouette d'Egypte,2009,0,1
+Perdrix grise,2017,0,1
+Pipit des arbres,2010,0,1
+Sarcelle d'été,2015,0,1
+Sterne arctique,2018,0,6
+Sterne de Dougall,2018,0,32

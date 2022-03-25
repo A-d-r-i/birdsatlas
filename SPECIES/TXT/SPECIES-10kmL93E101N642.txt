@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Chevêchette d'Europe
-0        Chouette de Tengmalm
-0        Gobemouche gris
-0        Gobemouche noir
-0        Huppe fasciée
-0        Mésange nonnette
-0        Pigeon ramier
-0        Pouillot fitis
-0        Tichodrome échelette
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Alouette des champs  2018    0        4
+Autour des palombes  2017    0        1
+Chevêchette d'Europe 2017    0        1
+Chouette de Tengmalm 2009    0        2
+Gobemouche gris      2014    0        1
+Gobemouche noir      2016    0        2
+Huppe fasciée        2012    0        1
+Mésange nonnette     2012    0        3
+Pigeon ramier        2018    0        1
+Pouillot fitis       2018    0        1
+Tichodrome échelette 2013    0        3
 

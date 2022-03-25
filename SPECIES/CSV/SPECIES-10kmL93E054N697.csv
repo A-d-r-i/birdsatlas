@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bouscarle de Cetti"
-"0";"Canard souchet"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Goéland à ailes blanches"
-"0";"Grèbe castagneux"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Barge rousse,2018,0,2
+Bernache du Canada,2018,0,1
+Bernache nonnette,2009,0,1
+Bouscarle de Cetti,2009,0,1
+Canard souchet,2009,0,1
+Fauvette babillarde,2009,0,1
+Foulque macroule,2009,0,1
+Goéland à ailes blanches,2018,0,1
+Grèbe castagneux,2018,0,3
+Huppe fasciée,2018,0,1
+Locustelle tachetée,2009,0,1
+Macreuse brune,2018,0,1
+Mésange à longue queue,2018,0,11
+Mésange huppée,2018,0,4
+Mésange nonnette,2018,0,4
+Perdrix grise,2009,0,2
+Phragmite des joncs,2009,0,1
+Pouillot siffleur,2009,0,1
+Roitelet à triple bandeau,2009,0,2
+Rossignol philomèle,2009,0,1
+Sizerin cabaret,2017,0,3
+Sizerin flammé,2017,0,3
+Tourterelle des bois,2009,0,1

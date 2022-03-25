@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Busard des roseaux"
-"0";"Chevalier guignette"
-"0";"Chevêchette d'Europe"
-"0";"Choucas des tours"
-"0";"Faisan de Colchide"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Milan royal"
-"0";"Moineau soulcie"
-"0";"Niverolle alpine"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,3
+Busard des roseaux,2016,0,1
+Chevalier guignette,2012,0,4
+Chevêchette d'Europe,2016,0,5
+Choucas des tours,2014,0,1
+Faisan de Colchide,2015,0,1
+Fauvette des jardins,2015,0,7
+Fauvette orphée,2014,0,1
+Grand-duc d'Europe,2017,0,6
+Grande Aigrette,2013,0,1
+Milan royal,2014,0,1
+Moineau soulcie,2015,0,1
+Niverolle alpine,2013,0,3
+Pouillot siffleur,2012,0,4
+Sizerin cabaret,2012,0,3
+Sizerin flammé,2012,0,3

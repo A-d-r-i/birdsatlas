@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bihoreau gris"
-"0";"Cassenoix moucheté"
-"0";"Chevalier culblanc"
-"0";"Crave à bec rouge"
-"0";"Faucon kobez"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Locustelle tachetée"
-"0";"Mouette tridactyle"
-"0";"Océanite tempête"
-"0";"Oie cendrée"
-"0";"Pouillot ibérique"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bihoreau gris,2013,0,2
+Cassenoix moucheté,2015,0,2
+Chevalier culblanc,2016,0,3
+Crave à bec rouge,2016,0,6
+Faucon kobez,2015,0,3
+Goéland brun,2015,0,1
+Gorgebleue à miroir,2011,0,1
+Locustelle tachetée,2012,0,3
+Mouette tridactyle,2009,0,1
+Océanite tempête,2009,0,1
+Oie cendrée,2007,0,1
+Pouillot ibérique,2009,0,1
+Rossignol philomèle,2016,0,3
+Rousserolle effarvatte,2018,0,1
+Sizerin flammé,2012,0,2
+Vanneau huppé,2015,0,2
+Venturon montagnard,2010,0,2

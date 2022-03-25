@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Échasse blanche"
-"0";"Fauvette à tête noire"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Pic épeichette"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
+frname,lastobs,newcount,oldcount
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2009,0,1
+Échasse blanche,2009,0,1
+Fauvette à tête noire,2017,0,2
+Hirondelle de fenêtre,2009,0,1
+Hirondelle rustique,2011,0,2
+Locustelle tachetée,2009,0,1
+Mésange noire,2018,0,1
+Pic épeichette,2009,0,1
+Pinson du Nord,2017,0,1
+Pouillot fitis,2009,0,1
+Râle d'eau,2009,0,1

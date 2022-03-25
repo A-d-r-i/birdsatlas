@@ -1,62 +1,62 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Bergeronnette printanière
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant proyer
-0        Busard des roseaux
-0        Buse variable
-0        Butor étoilé
-0        Caille des blés
-0        Canard colvert
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Corbeau freux
-0        Coucou gris
-0        Courlis cendré
-0        Effraie des clochers
-0        Épervier d'Europe
-0        Faisan de Colchide
-0        Faucon crécerelle
-0        Fauvette à tête noire
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Goéland argenté
-0        Goéland marin
-0        Gorgebleue à miroir
-0        Grand Cormoran
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive litorne
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hirondelle rustique
-0        Hypolaïs ictérine
-0        Linotte mélodieuse
-0        Martinet noir
-0        Moineau friquet
-0        Perdrix grise
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pigeon biset (origine naturelle)
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pouillot fitis
-0        Pouillot véloce
-0        Rougequeue noir
-0        Rousserolle effarvatte
-0        Sittelle torchepot
-0        Tarier pâtre
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Accenteur mouchet                2018    0        32
+Alouette des champs              2018    0        10
+Bécassine des marais             2009    0        1
+Bergeronnette des ruisseaux      2009    0        1
+Bergeronnette printanière        2018    0        5
+Bouscarle de Cetti               2009    0        1
+Bruant des roseaux               2009    0        1
+Bruant jaune                     2018    0        8
+Bruant proyer                    2009    0        1
+Busard des roseaux               2009    0        1
+Buse variable                    2017    0        2
+Butor étoilé                     2009    0        1
+Caille des blés                  2009    0        1
+Canard colvert                   2009    0        1
+Canard souchet                   2009    0        1
+Chevêche d'Athéna                2009    0        1
+Choucas des tours                2019    0        19
+Chouette hulotte                 2009    0        1
+Corbeau freux                    2018    0        10
+Coucou gris                      2018    0        6
+Courlis cendré                   2009    0        1
+Effraie des clochers             2009    0        2
+Épervier d'Europe                2014    0        7
+Faisan de Colchide               2009    0        1
+Faucon crécerelle                2017    0        2
+Fauvette à tête noire            2018    0        8
+Fauvette babillarde              2009    0        1
+Fauvette des jardins             2009    0        1
+Fauvette grisette                2018    0        3
+Goéland argenté                  2018    0        12
+Goéland marin                    2018    0        1
+Gorgebleue à miroir              2009    0        1
+Grand Cormoran                   2018    0        2
+Grimpereau des jardins           2015    0        2
+Grive draine                     2018    0        2
+Grive litorne                    2009    0        1
+Héron cendré                     2017    0        1
+Hibou moyen-duc                  2009    0        1
+Hirondelle rustique              2018    0        12
+Hypolaïs ictérine                2009    0        1
+Linotte mélodieuse               2009    0        1
+Martinet noir                    2018    0        1
+Moineau friquet                  2013    0        10
+Perdrix grise                    2018    0        7
+Phragmite des joncs              2009    0        1
+Pic épeichette                   2009    0        1
+Pigeon biset (origine naturelle) 2009    0        1
+Pigeon colombin                  2017    0        1
+Pipit farlouse                   2009    0        1
+Pouillot fitis                   2017    0        1
+Pouillot véloce                  2018    0        11
+Rougequeue noir                  2009    0        1
+Rousserolle effarvatte           2009    0        1
+Sittelle torchepot               2009    0        1
+Tarier pâtre                     2009    0        1
+Tourterelle des bois             2009    0        1
+Traquet motteux                  2017    0        1
+Vanneau huppé                    2018    0        2
 

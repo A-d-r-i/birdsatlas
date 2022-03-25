@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Butor étoilé"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Goéland cendré"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Labbe parasite"
-"0";"Martinet à ventre blanc"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Plongeon arctique"
-"0";"Pluvier doré"
-"0";"Sizerin cabaret"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Barge rousse,2016,0,1
+Bécasseau maubèche,2016,0,2
+Butor étoilé,2017,0,5
+Canard à collier noir,2015,0,1
+Canard carolin,2012,0,4
+Canard mandarin,2011,0,2
+Crabier chevelu,2013,0,11
+Cygne chanteur,2013,0,3
+Cygne noir,2011,0,2
+Goéland cendré,2019,0,17
+Hibou des marais,2017,0,2
+Ibis falcinelle,2016,0,1
+Labbe parasite,2015,0,1
+Martinet à ventre blanc,2014,0,2
+Perdrix grise,2014,0,3
+Phragmite des joncs,2016,0,3
+Pie-grièche à tête rousse,2009,0,1
+Plongeon arctique,2010,0,3
+Pluvier doré,2016,0,3
+Sizerin cabaret,2017,0,3
+Spatule blanche,2014,0,2

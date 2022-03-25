@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevêche d'Athéna"
-"0";"Engoulevent d'Europe"
-"0";"Milan royal"
-"0";"Pluvier doré"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Chevêche d'Athéna,2017,0,2
+Engoulevent d'Europe,2017,0,2
+Milan royal,2014,0,1
+Pluvier doré,2014,0,1
+Sarcelle d'hiver,2009,0,1
+Vanneau huppé,2014,0,1

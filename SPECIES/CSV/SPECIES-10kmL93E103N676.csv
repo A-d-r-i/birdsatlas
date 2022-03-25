@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bernache du Canada"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Eider à duvet"
-"0";"Faucon kobez"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Grèbe jougris"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Hypolaïs ictérine"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2008,0,3
+Bernache du Canada,2018,0,3
+Bruant ortolan,2010,0,2
+Busard cendré,2013,0,5
+Caille des blés,2016,0,6
+Canard carolin,2015,0,2
+Canard mandarin,2011,0,3
+Canard pilet,2017,0,4
+Canard siffleur,2013,0,2
+Chevêche d'Athéna,2010,0,4
+Chouette hulotte,2017,0,3
+Cochevis huppé,2009,0,1
+Combattant varié,2008,0,3
+Courlis cendré,2017,0,2
+Eider à duvet,2009,0,4
+Faucon kobez,2008,0,20
+Fuligule milouinan,2008,0,3
+Garrot à oeil d'or,2012,0,3
+Grèbe jougris,2008,0,1
+Grimpereau des bois,2018,0,8
+Héron pourpré,2011,0,1
+Hypolaïs ictérine,2016,0,6
+Mésange boréale,2017,0,2
+Mésange huppée,2017,0,8
+Nette rousse,2010,0,3
+Oie cendrée,2017,0,1
+Oie rieuse,2011,0,1
+Perdrix rouge,2018,0,5
+Pipit rousseline,2013,0,2
+Plongeon arctique,2010,0,1
+Pouillot siffleur,2017,0,3
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tadorne casarca,2009,0,1

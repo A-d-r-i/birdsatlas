@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache du Canada
-0        Busard pâle
-0        Buse pattue
-0        Calopsitte élégante
-0        Canard chipeau
-0        Canard pilet
-0        Coucou geai
-0        Crabier chevelu
-0        Cygne tuberculé
-0        Fauvette babillarde
-0        Fuligule morillon
-0        Goéland brun
-0        Grèbe huppé
-0        Harle bièvre
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Ibis falcinelle
-0        Locustelle luscinioïde
-0        Mouette rieuse
-0        Outarde canepetière
-0        Petit-duc scops
-0        Pipit rousseline
-0        Pouillot à grands sourcils
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour fauve
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Bernache du Canada         2010    0        2
+Busard pâle                2016    0        3
+Buse pattue                2013    0        7
+Calopsitte élégante        2018    0        1
+Canard chipeau             2011    0        13
+Canard pilet               2017    0        4
+Coucou geai                2016    0        2
+Crabier chevelu            2015    0        1
+Cygne tuberculé            2014    0        1
+Fauvette babillarde        2017    0        3
+Fuligule morillon          2010    0        1
+Goéland brun               2018    0        2
+Grèbe huppé                2009    0        1
+Harle bièvre               2018    0        4
+Hibou des marais           2007    0        1
+Hirondelle de rivage       2013    0        2
+Hirondelle de rochers      2017    0        1
+Ibis falcinelle            2017    0        3
+Locustelle luscinioïde     2008    0        1
+Mouette rieuse             2017    0        3
+Outarde canepetière        2016    0        1
+Petit-duc scops            2013    0        4
+Pipit rousseline           2017    0        1
+Pouillot à grands sourcils 2018    0        3
+Sizerin cabaret            2018    0        1
+Sizerin flammé             2018    0        1
+Vautour fauve              2014    0        1
 

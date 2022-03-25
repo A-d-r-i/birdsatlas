@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasse des bois"
-"0";"Busard cendré"
-"0";"Canard souchet"
-"0";"Chevêche d'Athéna"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Goéland leucophée"
-"0";"Héron pourpré"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,1
+Bécasse des bois,2015,0,5
+Busard cendré,2017,0,1
+Canard souchet,2009,0,1
+Chevêche d'Athéna,2018,0,3
+Faucon émerillon,2011,0,2
+Faucon kobez,2017,0,3
+Goéland leucophée,2017,0,3
+Héron pourpré,2018,0,1
+Martin-pêcheur d'Europe,2018,0,3
+Moineau friquet,2009,0,2
+Mouette rieuse,2012,0,1
+Petit Gravelot,2009,0,1
+Phragmite des joncs,2018,0,1
+Pie-grièche à tête rousse,2016,0,1
+Sarcelle d'hiver,2014,0,1
+Sizerin cabaret,2009,0,1

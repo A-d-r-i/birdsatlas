@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant proyer
-0        Bruant zizi
-0        Faisan de Colchide
-0        Fauvette babillarde
-0        Grimpereau des jardins
-0        Grive litorne
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange noire
-0        Milan royal
-0        Perdrix grise
-0        Pic épeichette
-0        Pipit des arbres
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Tarier pâtre
-0        Tourterelle des bois
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bondrée apivore          2009    0        1
+Bouvreuil pivoine        2015    0        3
+Bruant proyer            2009    0        1
+Bruant zizi              2009    0        1
+Faisan de Colchide       2018    0        3
+Fauvette babillarde      2009    0        1
+Grimpereau des jardins   2018    0        3
+Grive litorne            2009    0        1
+Hypolaïs polyglotte      2009    0        1
+Locustelle tachetée      2009    0        1
+Loriot d'Europe          2009    0        1
+Mésange noire            2015    0        1
+Milan royal              2018    0        1
+Perdrix grise            2009    0        2
+Pic épeichette           2009    0        1
+Pipit des arbres         2009    0        1
+Rougequeue à front blanc 2012    0        1
+Rousserolle effarvatte   2009    0        1
+Tarier pâtre             2009    0        1
+Tourterelle des bois     2009    0        1
 

@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau cocorli"
-"0";"Bec-croisé des sapins"
-"0";"Bruant proyer"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cygne noir"
-"0";"Dendrocygne veuf"
-"0";"Échasse blanche"
-"0";"Faucon kobez"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Lusciniole à moustaches"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette tridactyle"
-"0";"Perdrix grise"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Phalarope à bec large"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pouillot à grands sourcils"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Bécasseau cocorli,2014,0,1
+Bec-croisé des sapins,2017,0,12
+Bruant proyer,2018,0,6
+Canard pilet,2017,0,9
+Chevalier aboyeur,2018,0,6
+Chevalier sylvain,2015,0,4
+Cygne noir,2014,0,4
+Dendrocygne veuf,2018,0,1
+Échasse blanche,2014,0,2
+Faucon kobez,2014,0,2
+Fauvette passerinette,2010,0,1
+Fuligule milouinan,2013,0,11
+Fuligule nyroca,2017,0,47
+Gorgebleue à miroir,2012,0,1
+Grèbe à cou noir,2017,0,4
+Guifette noire,2015,0,4
+Harle huppé,2016,0,1
+Harle piette,2017,0,10
+Hibou des marais,2013,0,1
+Lusciniole à moustaches,2010,0,1
+Merle à plastron,2017,0,4
+Mésange boréale,2016,0,2
+Mouette tridactyle,2009,0,2
+Perdrix grise,2017,0,5
+Perruche ondulée,2016,0,3
+Petit-duc scops,2011,0,2
+Phalarope à bec large,2014,0,2
+Phragmite des joncs,2017,0,1
+Pie-grièche à tête rousse,2016,0,1
+Pipit rousseline,2017,0,1
+Pouillot à grands sourcils,2015,0,6
+Sizerin cabaret,2017,0,4
+Sizerin flammé,2017,0,4
+Tadorne casarca,2017,0,1
+Torcol fourmilier,2017,0,7

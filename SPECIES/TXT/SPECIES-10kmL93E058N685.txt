@@ -1,25 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Canard chipeau
-0        Choucas des tours
-0        Cygne tuberculé
-0        Foulque macroule
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Héron cendré
-0        Martin-pêcheur d'Europe
-0        Perdrix grise
-0        Perdrix rouge
-0        Pigeon colombin
-0        Pluvier doré
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Canard chipeau          2009    0        1
+Cygne tuberculé         2009    0        1
+Foulque macroule        2009    0        1
+Fuligule morillon       2009    0        1
+Gobemouche gris         2017    0        2
+Grand Cormoran          2009    0        1
+Grande Aigrette         2009    0        1
+Grèbe castagneux        2009    0        1
+Grèbe huppé             2009    0        1
+Grive draine            2013    0        3
+Grive litorne           2009    0        1
+Grive mauvis            2009    0        1
+Héron cendré            2009    0        1
+Martin-pêcheur d'Europe 2009    0        1
+Perdrix rouge           2013    0        1
+Pigeon colombin         2009    0        1
+Pluvier doré            2009    0        1
 

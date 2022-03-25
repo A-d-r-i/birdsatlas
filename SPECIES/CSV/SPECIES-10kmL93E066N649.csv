@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bruant fou"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard pilet"
-"0";"Chevalier culblanc"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2012,0,2
+Bruant fou,2012,0,1
+Bruant zizi,2018,0,5
+Busard Saint-Martin,2011,0,4
+Canard pilet,2012,0,3
+Chevalier culblanc,2013,0,8
+Fuligule milouin,2012,0,3
+Gobemouche gris,2016,0,5
+Grèbe castagneux,2016,0,5
+Grèbe huppé,2013,0,3
+Grive litorne,2014,0,19
+Pic cendré,2007,0,1
+Pie-grièche à tête rousse,2008,0,1
+Sizerin flammé,2012,0,1
+Tourterelle des bois,2010,0,1

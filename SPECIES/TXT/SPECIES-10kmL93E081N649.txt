@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle royal
-0        Aigrette garzette
-0        Bécassine des marais
-0        Canard carolin
-0        Chevalier culblanc
-0        Cincle plongeur
-0        Courlis cendré
-0        Faisan vénéré
-0        Faucon kobez
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Mouette rieuse
-0        Pipit de Richard
-0        Sizerin flammé
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Accenteur alpin      2011    0        1
+Aigle royal          2016    0        1
+Aigrette garzette    2016    0        1
+Bécassine des marais 2010    0        1
+Canard carolin       2018    0        1
+Chevalier culblanc   2007    0        1
+Cincle plongeur      2015    0        1
+Courlis cendré       2018    0        1
+Faisan vénéré        2017    0        1
+Faucon kobez         2008    0        3
+Grèbe castagneux     2017    0        1
+Grimpereau des bois  2010    0        1
+Hirondelle de rivage 2016    0        1
+Locustelle tachetée  2017    0        4
+Mouette rieuse       2015    0        15
+Pipit de Richard     2015    0        1
+Sizerin flammé       2018    0        1
 

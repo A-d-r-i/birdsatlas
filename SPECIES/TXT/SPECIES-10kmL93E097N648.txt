@@ -1,31 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bruant zizi
-0        Busard des roseaux
-0        Chevalier sylvain
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Gélinotte des bois
-0        Gobemouche noir
-0        Grand-duc d'Europe
-0        Héron cendré
-0        Hypolaïs polyglotte
-0        Lagopède alpin
-0        Martinet à ventre blanc
-0        Monticole de roche
-0        Pic épeichette
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle des genêts
-0        Tarier pâtre
-0        Tichodrome échelette
-0        Traquet motteux
-0        Vautour moine
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2014    0        5
+Autour des palombes     2016    0        10
+Bruant zizi             2013    0        1
+Busard des roseaux      2012    0        1
+Chevalier sylvain       2012    0        1
+Faisan de Colchide      2016    0        6
+Faucon pèlerin          2016    0        5
+Fauvette des jardins    2012    0        5
+Gélinotte des bois      2018    0        8
+Gobemouche noir         2018    0        3
+Grand-duc d'Europe      2017    0        1
+Héron cendré            2018    0        1
+Hypolaïs polyglotte     2015    0        1
+Lagopède alpin          2012    0        2
+Martinet à ventre blanc 2016    0        4
+Monticole de roche      2014    0        3
+Pie-grièche grise       2013    0        1
+Pigeon biset domestique 2013    0        1
+Pouillot fitis          2018    0        3
+Pouillot siffleur       2012    0        3
+Râle des genêts         2012    0        3
+Tarier pâtre            2018    0        1
+Tichodrome échelette    2012    0        3
+Traquet motteux         2018    0        12
+Vautour moine           2015    0        5
+Venturon montagnard     2012    0        3
 

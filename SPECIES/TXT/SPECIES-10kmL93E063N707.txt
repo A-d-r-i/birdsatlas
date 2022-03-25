@@ -1,12 +1,12 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant proyer
-0        Choucas des tours
-0        Fauvette babillarde
-0        Grive draine
-0        Mésange huppée
-0        Pipit farlouse
-0        Roitelet huppé
-0        Tarin des aulnes
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bruant proyer       2009    0        1
+Choucas des tours   2009    0        1
+Fauvette babillarde 2018    0        2
+Grive draine        2009    0        1
+Mésange huppée      2009    0        1
+Pipit farlouse      2017    0        2
+Roitelet huppé      2017    0        2
+Tarin des aulnes    2009    0        1
 

@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Corneille mantelée"
-"0";"Grimpereau des bois"
-"0";"Ouette d'Egypte"
-"0";"Perruche à collier"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Chevalier aboyeur,2016,0,1
+Chevalier guignette,2018,0,1
+Corneille mantelée,2014,0,1
+Grimpereau des bois,2015,0,1
+Ouette d'Egypte,2017,0,1
+Perruche à collier,2018,0,3
+Pipit rousseline,2018,0,2
+Pipit spioncelle,2016,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Vanneau huppé,2017,0,1

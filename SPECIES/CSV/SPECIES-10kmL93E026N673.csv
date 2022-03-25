@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bernache nonnette"
-"0";"Bruant proyer"
-"0";"Chevalier à pattes jaunes"
-"0";"Chevalier stagnatile"
-"0";"Cigogne noire"
-"0";"Goéland bourgmestre"
-"0";"Grand Corbeau"
-"0";"Grèbe jougris"
-"0";"Guifette leucoptère"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Macreuse noire"
-"0";"Mouette tridactyle"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Perruche ondulée"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit à gorge rousse"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Sarcelle à ailes vertes"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,3
+Bernache nonnette,2016,0,3
+Bruant proyer,2018,0,2
+Chevalier à pattes jaunes,2013,0,3
+Chevalier stagnatile,2017,0,1
+Cigogne noire,2012,0,2
+Goéland bourgmestre,2009,0,1
+Grand Corbeau,2018,0,1
+Grèbe jougris,2018,0,2
+Guifette leucoptère,2011,0,1
+Guifette noire,2014,0,1
+Hibou moyen-duc,2016,0,1
+Loriot d'Europe,2018,0,4
+Macreuse noire,2014,0,1
+Mouette tridactyle,2016,0,2
+Oie à tête barrée,2014,0,5
+Oie rieuse,2015,0,1
+Ouette d'Egypte,2014,0,4
+Perruche ondulée,2015,0,1
+Pie-grièche écorcheur,2017,0,1
+Pipit à gorge rousse,2015,0,1
+Pouillot à grands sourcils,2013,0,3
+Pouillot de Bonelli,2007,0,1
+Sarcelle à ailes vertes,2015,0,2

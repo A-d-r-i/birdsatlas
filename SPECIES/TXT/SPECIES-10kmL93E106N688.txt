@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bondrée apivore
-0        Busard cendré
-0        Busard des roseaux
-0        Canard carolin
-0        Canard souchet
-0        Chevalier sylvain
-0        Courlis cendré
-0        Courlis corlieu
-0        Goéland cendré
-0        Grive mauvis
-0        Héron pourpré
-0        Jaseur boréal
-0        Martinet à ventre blanc
-0        Mésange huppée
-0        Mouette rieuse
-0        Perdrix grise
-0        Pic mar
-0        Pipit des arbres
-0        Pluvier doré
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Tourterelle des bois
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bécasseau variable      2016    0        1
+Bécassine des marais    2009    0        2
+Bec-croisé des sapins   2016    0        3
+Bondrée apivore         2014    0        2
+Busard cendré           2007    0        1
+Busard des roseaux      2017    0        4
+Canard carolin          2018    0        1
+Canard souchet          2016    0        1
+Chevalier sylvain       2017    0        4
+Courlis cendré          2017    0        19
+Courlis corlieu         2017    0        1
+Goéland cendré          2018    0        1
+Grive mauvis            2018    0        3
+Héron pourpré           2017    0        3
+Jaseur boréal           2009    0        1
+Martinet à ventre blanc 2010    0        1
+Mésange huppée          2018    0        2
+Mouette rieuse          2018    0        1
+Perdrix grise           2016    0        6
+Pic mar                 2016    0        5
+Pipit des arbres        2018    0        3
+Pluvier doré            2017    0        1
+Rémiz penduline         2016    0        1
+Sarcelle d'été          2018    0        2
+Tourterelle des bois    2017    0        7
 

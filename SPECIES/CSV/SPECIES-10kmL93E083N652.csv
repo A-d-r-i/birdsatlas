@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette calandrelle"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Canard carolin"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Faucon kobez"
-"0";"Faucon sacre"
-"0";"Fauvette babillarde"
-"0";"Grand Corbeau"
-"0";"Grimpereau des bois"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Oie à tête barrée"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,1
+Alouette calandrelle,2016,0,1
+Bouscarle de Cetti,2018,0,1
+Bruant fou,2016,0,11
+Canard carolin,2015,0,2
+Canard souchet,2016,0,1
+Chevalier gambette,2012,0,1
+Courlis cendré,2012,0,2
+Cygne tuberculé,2018,0,1
+Faucon kobez,2018,0,2
+Faucon sacre,2011,0,1
+Fauvette babillarde,2014,0,6
+Grand Corbeau,2015,0,2
+Grimpereau des bois,2018,0,1
+Jaseur boréal,2010,0,1
+Locustelle tachetée,2018,0,3
+Merle à plastron,2018,0,2
+Oie à tête barrée,2015,0,1
+Petit-duc scops,2016,0,2
+Petit Gravelot,2013,0,2
+Pluvier doré,2016,0,4
+Pouillot à grands sourcils,2014,0,16
+Râle d'eau,2008,0,2
+Rollier d'Europe,2010,0,1
+Sarcelle d'été,2016,0,1
+Sarcelle d'hiver,2015,0,3
+Sizerin cabaret,2013,0,5
+Sizerin flammé,2018,0,6
+Vautour fauve,2014,0,2
+Venturon montagnard,2012,0,1

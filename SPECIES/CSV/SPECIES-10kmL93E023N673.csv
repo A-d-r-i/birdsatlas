@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Albatros à sourcils noirs"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bernache nonnette"
-"0";"Bruant lapon"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Macreuse à front blanc"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pipit à gorge rousse"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Albatros à sourcils noirs,2016,0,1
+Autour des palombes,2016,0,2
+Barge à queue noire,2013,0,3
+Bernache nonnette,2014,0,2
+Bruant lapon,2010,0,1
+Butor étoilé,2009,0,1
+Caille des blés,2016,0,1
+Cigogne noire,2015,0,1
+Échasse blanche,2014,0,1
+Faisan vénéré,2018,0,1
+Goéland à ailes blanches,2018,0,1
+Goéland bourgmestre,2018,0,5
+Goéland leucophée,2016,0,7
+Grande Aigrette,2015,0,1
+Guêpier d'Europe,2014,0,1
+Harle bièvre,2014,0,1
+Ibis sacré,2017,0,2
+Locustelle tachetée,2018,0,3
+Macreuse à front blanc,2016,0,26
+Perruche à collier,2018,0,1
+Petit Gravelot,2016,0,1
+Pipit à gorge rousse,2015,0,1
+Rossignol philomèle,2015,0,1

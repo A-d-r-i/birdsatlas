@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Troglodyte mignon"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,1
+Bergeronnette des ruisseaux,2009,0,2
+Bihoreau gris,2018,0,2
+Bruant jaune,2009,0,1
+Bruant proyer,2009,0,1
+Bruant zizi,2009,0,1
+Caille des blés,2015,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2009,0,2
+Chouette hulotte,2009,0,1
+Coucou gris,2009,0,1
+Épervier d'Europe,2009,0,2
+Faisan de Colchide,2018,0,2
+Faucon hobereau,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2018,0,3
+Fuligule milouin,2009,0,1
+Gobemouche gris,2009,0,1
+Grive musicienne,2009,0,1
+Grosbec casse-noyaux,2015,0,2
+Hibou moyen-duc,2009,0,1
+Hirondelle de fenêtre,2009,0,1
+Huppe fasciée,2016,0,2
+Loriot d'Europe,2009,0,1
+Mésange boréale,2009,0,1
+Mésange huppée,2009,0,1
+Moineau friquet,2014,0,2
+Pic cendré,2009,0,1
+Pic épeichette,2018,0,2
+Pic mar,2009,0,1
+Pinson du Nord,2009,0,1
+Pipit des arbres,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Rossignol philomèle,2018,0,2
+Rougequeue à front blanc,2018,0,2
+Serin cini,2009,0,1
+Tarin des aulnes,2009,0,1
+Torcol fourmilier,2009,0,1
+Tourterelle des bois,2009,0,1
+Troglodyte mignon,2018,0,4
+Vanneau huppé,2009,0,1

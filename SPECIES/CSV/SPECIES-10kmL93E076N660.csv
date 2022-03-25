@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Goéland cendré"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Locustelle tachetée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Pic noir"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,8
+Bec-croisé des sapins,2011,0,2
+Bondrée apivore,2015,0,33
+Busard cendré,2017,0,5
+Caille des blés,2016,0,4
+Canard siffleur,2011,0,6
+Chevalier gambette,2014,0,2
+Chevalier sylvain,2012,0,1
+Effraie des clochers,2017,0,15
+Faisan de Colchide,2018,0,10
+Faucon émerillon,2017,0,13
+Foulque macroule,2016,0,7
+Gobemouche gris,2016,0,5
+Goéland cendré,2013,0,3
+Guifette noire,2015,0,1
+Harle piette,2012,0,1
+Locustelle tachetée,2017,0,5
+Mésange huppée,2009,0,1
+Mésange noire,2017,0,24
+Mésange nonnette,2018,0,12
+Moineau friquet,2016,0,2
+Perdrix rouge,2014,0,13
+Perruche à collier,2011,0,3
+Perruche ondulée,2017,0,1
+Pic noir,2016,0,13
+Pie-grièche à tête rousse,2013,0,5
+Pigeon colombin,2018,0,8
+Pipit des arbres,2017,0,28
+Pouillot siffleur,2009,0,1
+Roitelet à triple bandeau,2018,0,9
+Rousserolle effarvatte,2016,0,3
+Sizerin flammé,2017,0,4
+Spatule blanche,2012,0,1
+Tarier des prés,2017,0,4
+Torcol fourmilier,2017,0,4
+Traquet motteux,2017,0,7
+Vautour fauve,2015,0,2

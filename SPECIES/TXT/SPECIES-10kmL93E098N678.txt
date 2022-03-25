@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bondrée apivore
-0        Canard chipeau
-0        Canard souchet
-0        Chevalier guignette
-0        Cigogne blanche
-0        Corbeau freux
-0        Cygne tuberculé
-0        Échasse blanche
-0        Fou de Bassan
-0        Fuligule milouin
-0        Garrot à oeil d'or
-0        Gélinotte des bois
-0        Goéland cendré
-0        Grand-duc d'Europe
-0        Grand Tétras
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Harelde boréale
-0        Harle huppé
-0        Merle à plastron
-0        Mouette mélanocéphale
-0        Pic épeichette
-0        Pie-grièche grise
-0        Plongeon arctique
-0        Pouillot siffleur
-0        Sarcelle d'été
-0        Tarier des prés
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2012    0        3
+Bondrée apivore       2018    0        1
+Canard chipeau        2013    0        5
+Canard souchet        2014    0        3
+Chevalier guignette   2018    0        5
+Cigogne blanche       2017    0        2
+Corbeau freux         2018    0        1
+Cygne tuberculé       2018    0        10
+Échasse blanche       2016    0        1
+Fou de Bassan         2013    0        1
+Fuligule milouin      2013    0        7
+Garrot à oeil d'or    2012    0        3
+Gélinotte des bois    2009    0        1
+Goéland cendré        2018    0        2
+Grand-duc d'Europe    2012    0        2
+Grand Tétras          2009    0        1
+Grèbe à cou noir      2018    0        2
+Grèbe castagneux      2011    0        3
+Grèbe huppé           2013    0        3
+Harelde boréale       2011    0        4
+Harle huppé           2012    0        2
+Merle à plastron      2011    0        2
+Mouette mélanocéphale 2013    0        2
+Pic épeichette        2019    0        2
+Pie-grièche grise     2012    0        1
+Plongeon arctique     2018    0        5
+Pouillot siffleur     2018    0        1
+Sarcelle d'été        2013    0        1
+Tarier des prés       2009    0        1
+Tichodrome échelette  2016    0        1
 

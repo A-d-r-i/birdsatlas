@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cygne de Bewick"
-"0";"Élanion blanc"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Marouette de Baillon"
-"0";"Merle à plastron"
-"0";"Oie rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pinson du Nord"
-"0";"Pluvier argenté"
-"0";"Rémiz penduline"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2016,0,1
+Bécasseau de Temminck,2016,0,3
+Bécassine sourde,2016,0,4
+Bondrée apivore,2018,0,12
+Busard cendré,2015,0,2
+Chevalier gambette,2016,0,6
+Chevalier sylvain,2016,0,3
+Chevêche d'Athéna,2015,0,1
+Cygne de Bewick,2014,0,1
+Élanion blanc,2009,0,1
+Faisan de Colchide,2015,0,1
+Faucon émerillon,2016,0,7
+Goéland brun,2018,0,1
+Goéland cendré,2013,0,4
+Gorgebleue à miroir,2015,0,2
+Marouette de Baillon,2009,0,1
+Merle à plastron,2014,0,1
+Oie rieuse,2012,0,1
+Pie-grièche à tête rousse,2015,0,1
+Pinson du Nord,2015,0,2
+Pluvier argenté,2014,0,2
+Rémiz penduline,2014,0,2
+Serin cini,2017,0,5

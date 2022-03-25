@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Cigogne blanche
-0        Cigogne noire
-0        Faucon émerillon
-0        Faucon hobereau
-0        Grand Cormoran
-0        Hirondelle de rochers
-0        Mésange boréale
-0        Moineau friquet
-0        Petit-duc scops
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Sizerin boréal (C.f.flammea)
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                       lastobs newcount oldcount
+------                       ------- -------- --------
+Aigle botté                  2018    0        7
+Bec-croisé des sapins        2017    0        35
+Bruant des roseaux           2018    0        10
+Busard des roseaux           2015    0        7
+Cigogne blanche              2016    0        2
+Cigogne noire                2017    0        15
+Faucon émerillon             2015    0        2
+Faucon hobereau              2016    0        12
+Grand Cormoran               2016    0        5
+Hirondelle de rochers        2009    0        1
+Mésange boréale              2010    0        2
+Moineau friquet              2015    0        1
+Petit-duc scops              2015    0        2
+Pipit rousseline             2009    0        1
+Pipit spioncelle             2012    0        2
+Sizerin boréal (C.f.flammea) 2017    0        1
+Sizerin cabaret              2017    0        2
+Sizerin flammé               2017    0        3
 

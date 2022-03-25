@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Choucas des tours"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Caille des blés,2009,0,1
+Choucas des tours,2009,0,1
+Hirondelle de rivage,2009,0,1
+Moineau friquet,2015,0,1
+Perdrix grise,2009,0,1
+Pic épeichette,2009,0,1
+Pic noir,2009,0,1
+Pouillot siffleur,2009,0,1
+Serin cini,2009,0,1
+Tarier des prés,2009,0,1

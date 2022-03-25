@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Cigogne noire
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Faucon pèlerin
-0        Gobemouche gris
-0        Moineau friquet
-0        Perdrix grise
-0        Pic épeichette
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tarier des prés
-0        Traquet motteux
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2014    0        1
+Busard des roseaux     2009    0        1
+Busard Saint-Martin    2018    0        2
+Chevalier guignette    2018    0        3
+Cigogne noire          2016    0        2
+Cincle plongeur        2017    0        3
+Circaète Jean-le-Blanc 2009    0        1
+Faucon pèlerin         2011    0        1
+Gobemouche gris        2018    0        1
+Moineau friquet        2013    0        7
+Perdrix grise          2014    0        1
+Pic épeichette         2010    0        3
+Pinson du Nord         2019    0        9
+Pipit spioncelle       2010    0        1
+Pouillot fitis         2012    0        1
+Sizerin cabaret        2018    0        3
+Sizerin flammé         2018    0        3
+Tarier des prés        2010    0        1
+Traquet motteux        2018    0        1
+Vautour fauve          2016    0        1
 

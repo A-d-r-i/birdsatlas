@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasse des bois
-0        Busard pâle
-0        Caille des blés
-0        Canard à collier noir
-0        Canard mandarin
-0        Chevalier gambette
-0        Cormoran pygmée
-0        Courlis cendré
-0        Faisan vénéré
-0        Fuligule milouin
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Grèbe huppé
-0        Guifette moustac
-0        Harle bièvre
-0        Hirondelle de rochers
-0        Ibis sacré
-0        Locustelle tachetée
-0        Moineau friquet
-0        Mouette tridactyle
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Perruche à collier
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pluvier doré
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2013    0        1
+Bécasse des bois          2018    0        5
+Busard pâle               2016    0        2
+Caille des blés           2016    0        1
+Canard à collier noir     2018    0        7
+Canard mandarin           2017    0        1
+Chevalier gambette        2015    0        1
+Cormoran pygmée           2007    0        7
+Courlis cendré            2011    0        2
+Faisan vénéré             2016    0        1
+Fuligule milouin          2008    0        1
+Goéland brun              2018    0        1
+Gorgebleue à miroir       2015    0        2
+Grèbe huppé               2016    0        2
+Guifette moustac          2017    0        2
+Harle bièvre              2016    0        2
+Hirondelle de rochers     2013    0        1
+Ibis sacré                2013    0        1
+Locustelle tachetée       2016    0        4
+Moineau friquet           2014    0        11
+Mouette tridactyle        2009    0        3
+Oie cendrée               2007    0        1
+Ouette d'Egypte           2017    0        12
+Perruche à collier        2018    0        1
+Phragmite des joncs       2015    0        2
+Pie-grièche à tête rousse 2018    0        3
+Pluvier doré              2011    0        3
+Pouillot siffleur         2014    0        4
+Rémiz penduline           2016    0        2
+Sarcelle d'été            2018    0        2
+Torcol fourmilier         2017    0        5
 

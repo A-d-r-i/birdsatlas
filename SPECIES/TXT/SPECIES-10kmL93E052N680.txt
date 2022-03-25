@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouvreuil pivoine
-0        Chevalier culblanc
-0        Choucas des tours
-0        Foulque macroule
-0        Huppe fasciée
-0        Perdrix rouge
-0        Vanneau huppé
+frname             lastobs newcount oldcount
+------             ------- -------- --------
+Bouvreuil pivoine  2009    0        1
+Chevalier culblanc 2019    0        1
+Choucas des tours  2019    0        2
+Foulque macroule   2009    0        1
+Huppe fasciée      2009    0        1
+Perdrix rouge      2009    0        1
+Vanneau huppé      2019    0        5
 

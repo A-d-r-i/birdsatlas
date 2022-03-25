@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Canard mandarin
-0        Coucou gris
-0        Faucon hobereau
-0        Jaseur boréal
-0        Loriot d'Europe
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Râle d'eau
-0        Tadorne de Belon
-0        Torcol fourmilier
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Canard mandarin     2015    0        1
+Coucou gris         2018    0        1
+Faucon hobereau     2017    0        2
+Jaseur boréal       2009    0        1
+Loriot d'Europe     2015    0        1
+Phragmite des joncs 2015    0        1
+Pipit spioncelle    2018    0        3
+Râle d'eau          2009    0        1
+Tadorne de Belon    2009    0        1
+Torcol fourmilier   2015    0        1
 

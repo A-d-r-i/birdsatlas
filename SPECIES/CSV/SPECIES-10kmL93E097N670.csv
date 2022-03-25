@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Circaète Jean-le-Blanc"
-"0";"Faisan de Colchide"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Mésange boréale"
-"0";"Pic cendré"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2016,0,10
+Autour des palombes,2013,0,7
+Bec-croisé des sapins,2018,0,3
+Bondrée apivore,2018,0,10
+Caille des blés,2014,0,4
+Chevalier culblanc,2011,0,1
+Chevalier guignette,2011,0,4
+Choucas des tours,2016,0,6
+Circaète Jean-le-Blanc,2016,0,1
+Faisan de Colchide,2019,0,5
+Grive mauvis,2019,0,6
+Guêpier d'Europe,2018,0,1
+Mésange boréale,2017,0,8
+Pic cendré,2012,0,3
+Pigeon colombin,2017,0,1
+Pouillot siffleur,2015,0,2
+Râle d'eau,2016,0,6
+Sarcelle d'hiver,2017,0,2
+Sterne pierregarin,2012,0,1
+Tarier des prés,2012,0,3
+Tourterelle des bois,2018,0,6
+Traquet motteux,2017,0,3
+Vautour fauve,2016,0,1

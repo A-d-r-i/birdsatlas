@@ -1,74 +1,72 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Buse variable"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Cisticole des joncs"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Étourneau sansonnet"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette à tête noire"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle rustique"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Petit-duc scops"
-"0";"Pic épeiche"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pic vert"
-"0";"Pie bavarde"
-"0";"Pigeon ramier"
-"0";"Pinson du Nord"
-"0";"Pipit de Richard"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,10
+Aigle botté,2011,0,3
+Alouette des champs,2013,0,7
+Alouette lulu,2013,0,6
+Bécasse des bois,2010,0,3
+Bergeronnette des ruisseaux,2011,0,2
+Bergeronnette grise,2016,0,16
+Bergeronnette printanière,2012,0,2
+Bondrée apivore,2018,0,6
+Bouvreuil pivoine,2017,0,11
+Bruant des roseaux,2016,0,4
+Bruant jaune,2017,0,5
+Bruant zizi,2016,0,15
+Busard cendré,2016,0,1
+Busard Saint-Martin,2012,0,2
+Buse variable,2016,0,17
+Caille des blés,2011,0,3
+Canard colvert,2013,0,3
+Cisticole des joncs,2017,0,1
+Coucou gris,2017,0,7
+Courlis cendré,2012,0,2
+Effraie des clochers,2015,0,1
+Élanion blanc,2016,0,1
+Engoulevent d'Europe,2017,0,7
+Épervier d'Europe,2016,0,3
+Étourneau sansonnet,2017,0,13
+Faisan de Colchide,2016,0,5
+Faucon hobereau,2016,0,3
+Fauvette à tête noire,2017,0,17
+Fauvette grisette,2017,0,3
+Gallinule poule-d'eau,2017,0,1
+Gobemouche noir,2016,0,1
+Grèbe castagneux,2017,0,1
+Grimpereau des jardins,2017,0,18
+Grive draine,2016,0,20
+Grive litorne,2011,0,1
+Grive mauvis,2014,0,8
+Grosbec casse-noyaux,2015,0,14
+Héron cendré,2016,0,4
+Hirondelle rustique,2016,0,10
+Hypolaïs polyglotte,2018,0,7
+Linotte mélodieuse,2016,0,3
+Loriot d'Europe,2017,0,7
+Martinet noir,2013,0,2
+Martin-pêcheur d'Europe,2016,0,2
+Mésange huppée,2017,0,12
+Mésange nonnette,2017,0,19
+Petit-duc scops,2013,0,1
+Pic épeiche,2018,0,27
+Pic épeichette,2017,0,9
+Pic noir,2017,0,17
+Pic vert,2017,0,20
+Pie bavarde,2016,0,15
+Pigeon ramier,2018,0,33
+Pinson du Nord,2011,0,4
+Pipit de Richard,2009,0,1
+Pipit des arbres,2017,0,11
+Pipit farlouse,2016,0,9
+Pipit rousseline,2012,0,1
+Pipit spioncelle,2011,0,3
+Pouillot de Bonelli,2016,0,3
+Pouillot véloce,2018,0,22
+Roitelet à triple bandeau,2017,0,15
+Rossignol philomèle,2017,0,2
+Rougequeue à front blanc,2016,0,2
+Rougequeue noir,2016,0,9
+Serin cini,2018,0,5
+Tarin des aulnes,2017,0,9
+Tourterelle des bois,2018,0,15
+Tourterelle turque,2016,0,13
+Vanneau huppé,2012,0,3

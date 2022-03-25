@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Calopsitte élégante"
-"0";"Canard pilet"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Fauvette babillarde"
-"0";"Goéland leucophée"
-"0";"Guêpier d'Europe"
-"0";"Hypolaïs ictérine"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Perruche ondulée"
-"0";"Pie-grièche grise"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2013,0,1
+Calopsitte élégante,2013,0,1
+Canard pilet,2013,0,1
+Chevalier sylvain,2013,0,2
+Cincle plongeur,2014,0,3
+Fauvette babillarde,2016,0,5
+Goéland leucophée,2012,0,2
+Guêpier d'Europe,2018,0,1
+Hypolaïs ictérine,2016,0,4
+Locustelle tachetée,2016,0,3
+Martinet à ventre blanc,2009,0,1
+Merle à plastron,2015,0,1
+Mésange boréale,2016,0,5
+Mouette rieuse,2018,0,2
+Perdrix grise,2010,0,2
+Perruche ondulée,2012,0,1
+Pie-grièche grise,2018,0,66
+Râle des genêts,2010,0,5
+Rémiz penduline,2008,0,1
+Tadorne casarca,2010,0,1
+Tadorne de Belon,2010,0,1

@@ -1,42 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau minuscule
-0        Bernache cravant
-0        Bernache nonnette
-0        Bruant ortolan
-0        Busard cendré
-0        Calopsitte élégante
-0        Canard mandarin
-0        Chevalier stagnatile
-0        Circaète Jean-le-Blanc
-0        Crabier chevelu
-0        Faisan vénéré
-0        Fauvette pitchou
-0        Garrot à oeil d'or
-0        Goéland bourgmestre
-0        Grèbe esclavon
-0        Guifette leucoptère
-0        Harle huppé
-0        Harle piette
-0        Huîtrier pie
-0        Ibis sacré
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Merle à plastron
-0        Moineau friquet
-0        Mouette de Bonaparte
-0        Nette rousse
-0        Oie rieuse
-0        Pie-grièche à tête rousse
-0        Pipit de Richard
-0        Plongeon arctique
-0        Plongeon catmarin
-0        Plongeon imbrin
-0        Pouillot à grands sourcils
-0        Râle des genêts
-0        Sterne arctique
-0        Sterne caspienne
-0        Sterne caugek
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Autour des palombes        2018    0        4
+Bécasseau minuscule        2016    0        8
+Bernache cravant           2017    0        10
+Bernache nonnette          2012    0        39
+Bruant ortolan             2016    0        2
+Busard cendré              2017    0        8
+Calopsitte élégante        2010    0        1
+Canard mandarin            2012    0        1
+Chevalier stagnatile       2011    0        2
+Circaète Jean-le-Blanc     2017    0        5
+Crabier chevelu            2012    0        2
+Faisan vénéré              2013    0        1
+Fauvette pitchou           2018    0        3
+Garrot à oeil d'or         2018    0        29
+Goéland bourgmestre        2018    0        31
+Grèbe esclavon             2017    0        7
+Guifette leucoptère        2015    0        4
+Harle huppé                2015    0        12
+Harle piette               2017    0        13
+Huîtrier pie               2010    0        1
+Ibis sacré                 2014    0        7
+Locustelle tachetée        2014    0        4
+Marouette ponctuée         2018    0        28
+Merle à plastron           2018    0        1
+Moineau friquet            2016    0        25
+Mouette de Bonaparte       2017    0        34
+Nette rousse               2018    0        3
+Oie rieuse                 2018    0        17
+Pie-grièche à tête rousse  2016    0        41
+Pipit de Richard           2018    0        1
+Plongeon arctique          2014    0        3
+Plongeon catmarin          2016    0        23
+Plongeon imbrin            2014    0        1
+Pouillot à grands sourcils 2017    0        2
+Râle des genêts            2016    0        47
+Sterne arctique            2015    0        1
+Sterne caspienne           2016    0        6
+Sterne caugek              2017    0        4
 

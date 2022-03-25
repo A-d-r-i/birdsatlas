@@ -1,14 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard Saint-Martin"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Grand Cormoran"
-"0";"Locustelle tachetée"
-"0";"Pouillot fitis"
-"0";"Rossignol philomèle"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Busard Saint-Martin,2018,0,1
+Cincle plongeur,2018,0,6
+Engoulevent d'Europe,2012,0,1
+Faucon pèlerin,2018,0,1
+Locustelle tachetée,2007,0,1
+Pouillot fitis,2017,0,3
+Rossignol philomèle,2012,0,3
+Traquet motteux,2015,0,2
+Vanneau huppé,2013,0,1
+Vautour fauve,2018,0,1

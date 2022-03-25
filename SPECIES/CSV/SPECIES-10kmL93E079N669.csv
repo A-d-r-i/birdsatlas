@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Busard des roseaux"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Grand Gravelot"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot fitis"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,1
+Busard des roseaux,2017,0,1
+Chevalier sylvain,2018,0,2
+Cincle plongeur,2015,0,7
+Grand Gravelot,2018,0,1
+Ibis falcinelle,2009,0,1
+Locustelle tachetée,2014,0,4
+Moineau friquet,2012,0,2
+Petit Gravelot,2018,0,1
+Pie-grièche à tête rousse,2018,0,6
+Pouillot fitis,2018,0,10
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Traquet motteux,2008,0,1

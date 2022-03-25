@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Canard siffleur
-0        Cochevis huppé
-0        Grand Corbeau
-0        Grèbe à cou noir
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Milan royal
-0        Pic mar
-0        Pic noir
-0        Pipit des arbres
-0        Roitelet à triple bandeau
-0        Rousserolle effarvatte
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2009    0        1
+Canard siffleur           2009    0        1
+Cochevis huppé            2009    0        1
+Grand Corbeau             2014    0        1
+Grèbe à cou noir          2014    0        1
+Harle bièvre              2009    0        1
+Hibou moyen-duc           2009    0        2
+Milan royal               2009    0        1
+Pic mar                   2009    0        1
+Pic noir                  2009    0        1
+Pipit des arbres          2009    0        1
+Roitelet à triple bandeau 2009    0        2
+Rousserolle effarvatte    2009    0        1
 

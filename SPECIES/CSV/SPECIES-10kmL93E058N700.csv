@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Chevalier culblanc"
-"0";"Fuligule milouinan"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grèbe esclavon"
-"0";"Milan royal"
-"0";"Pinson du Nord"
-"0";"Pipit maritime"
-"0";"Plongeon imbrin"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2018,0,1
+Barge à queue noire,2018,0,2
+Bécasseau de Temminck,2018,0,2
+Bernache cravant,2018,0,1
+Bernache nonnette,2015,0,1
+Chevalier culblanc,2018,0,3
+Fuligule milouinan,2018,0,1
+Gobemouche gris,2018,0,1
+Grèbe castagneux,2018,0,1
+Grèbe esclavon,2018,0,1
+Milan royal,2017,0,1
+Pinson du Nord,2017,0,1
+Pipit maritime,2017,0,1
+Plongeon imbrin,2018,0,2
+Tarin des aulnes,2017,0,1

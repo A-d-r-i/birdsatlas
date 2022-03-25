@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Cormoran pygmée"
-"0";"Corneille mantelée"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Harle piette"
-"0";"Hirondelle rousseline"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Macreuse brune"
-"0";"Oie à tête barrée"
-"0";"Perdrix rouge"
-"0";"Pipit rousseline"
-"0";"Rollier d'Europe"
-"0";"Serin du Mozambique"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Sterne hansel"
-"0";"Tichodrome échelette"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2009,0,2
+Avocette élégante,2017,0,7
+Barge rousse,2011,0,2
+Bécasseau cocorli,2016,0,2
+Bécasse des bois,2017,0,3
+Bernache du Canada,2012,0,25
+Canard mandarin,2018,0,207
+Chevalier arlequin,2012,0,10
+Cormoran pygmée,2009,0,2
+Corneille mantelée,2013,0,3
+Cygne noir,2013,0,6
+Effraie des clochers,2017,0,9
+Engoulevent d'Europe,2014,0,1
+Faucon émerillon,2017,0,5
+Fauvette passerinette,2016,0,19
+Fuligule milouinan,2013,0,9
+Garrot à oeil d'or,2009,0,2
+Goéland cendré,2018,0,57
+Harle piette,2012,0,11
+Hirondelle rousseline,2015,0,1
+Jaseur boréal,2009,0,1
+Locustelle luscinioïde,2016,0,13
+Macreuse brune,2015,0,12
+Oie à tête barrée,2016,0,2
+Perdrix rouge,2014,0,1
+Pipit rousseline,2018,0,9
+Rollier d'Europe,2014,0,7
+Serin du Mozambique,2007,0,1
+Sizerin cabaret,2019,0,1
+Sizerin flammé,2019,0,1
+Spatule blanche,2012,0,9
+Sterne caspienne,2012,0,4
+Sterne hansel,2016,0,1
+Tichodrome échelette,2017,0,1
+Vautour fauve,2017,0,3

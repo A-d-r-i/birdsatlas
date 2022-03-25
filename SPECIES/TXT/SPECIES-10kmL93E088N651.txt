@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Bruant ortolan
-0        Busard cendré
-0        Butor étoilé
-0        Canard mandarin
-0        Cigogne noire
-0        Courlis cendré
-0        Faucon émerillon
-0        Faucon kobez
-0        Fauvette babillarde
-0        Fuligule à bec cerclé
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland cendré
-0        Grand Gravelot
-0        Guifette moustac
-0        Hypolaïs ictérine
-0        Marouette ponctuée
-0        Mésange boréale
-0        Ouette d'Egypte
-0        Pouillot siffleur
-0        Spatule blanche
-0        Tadorne de Belon
-0        Talève sultane
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Barge à queue noire   2012    0        3
+Bécasseau de Temminck 2012    0        2
+Bécasseau minute      2012    0        1
+Bec-croisé des sapins 2018    0        16
+Bihoreau gris         2018    0        15
+Bruant ortolan        2015    0        2
+Busard cendré         2016    0        2
+Butor étoilé          2018    0        13
+Canard mandarin       2013    0        3
+Cigogne noire         2018    0        5
+Courlis cendré        2013    0        2
+Faucon émerillon      2018    0        1
+Faucon kobez          2015    0        2
+Fauvette babillarde   2017    0        4
+Fuligule à bec cerclé 2014    0        2
+Garrot à oeil d'or    2013    0        2
+Goéland brun          2012    0        1
+Goéland cendré        2016    0        1
+Grand Gravelot        2012    0        1
+Guifette moustac      2017    0        17
+Hypolaïs ictérine     2016    0        1
+Marouette ponctuée    2017    0        2
+Mésange boréale       2010    0        1
+Ouette d'Egypte       2010    0        3
+Pouillot siffleur     2018    0        2
+Spatule blanche       2009    0        3
+Tadorne de Belon      2012    0        1
+Talève sultane        2016    0        1
+Tichodrome échelette  2014    0        1
 

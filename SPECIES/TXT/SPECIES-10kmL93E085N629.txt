@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant ortolan
-0        Chevalier aboyeur
-0        Cincle plongeur
-0        Cisticole des joncs
-0        Cochevis huppé
-0        Courlis cendré
-0        Crabier chevelu
-0        Échasse blanche
-0        Fauvette à lunettes
-0        Gobemouche gris
-0        Grande Aigrette
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Niverolle alpine
-0        Pic épeichette
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Rousserolle turdoïde
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bihoreau gris        2014    0        2
+Bruant des roseaux   2016    0        2
+Bruant jaune         2015    0        3
+Bruant ortolan       2016    0        30
+Chevalier aboyeur    2014    0        1
+Cincle plongeur      2015    0        1
+Cisticole des joncs  2016    0        2
+Cochevis huppé       2015    0        6
+Courlis cendré       2014    0        1
+Crabier chevelu      2013    0        1
+Échasse blanche      2014    0        1
+Fauvette à lunettes  2011    0        2
+Gobemouche gris      2017    0        6
+Grande Aigrette      2015    0        1
+Hibou moyen-duc      2017    0        7
+Locustelle tachetée  2018    0        2
+Niverolle alpine     2016    0        3
+Pic épeichette       2018    0        5
+Pouillot siffleur    2017    0        2
+Rémiz penduline      2017    0        1
+Rousserolle turdoïde 2015    0        1
 

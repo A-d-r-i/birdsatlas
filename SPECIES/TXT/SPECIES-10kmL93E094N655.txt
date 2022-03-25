@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bihoreau gris
-0        Blongios nain
-0        Bruant fou
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard cendré
-0        Buse pattue
-0        Canard chipeau
-0        Canard mandarin
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Cigogne blanche
-0        Crabier chevelu
-0        Faucon kobez
-0        Fuligule milouin
-0        Fuligule morillon
-0        Grande Aigrette
-0        Grèbe huppé
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Mouette rieuse
-0        Perdrix grise
-0        Perdrix rouge
-0        Perruche à collier
-0        Petit-duc scops
-0        Phragmite des joncs
-0        Pigeon biset domestique
-0        Pipit rousseline
-0        Sarcelle d'été
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2018    0        1
+Bihoreau gris           2017    0        1
+Blongios nain           2017    0        7
+Bruant fou              2017    0        6
+Bruant ortolan          2010    0        1
+Bruant proyer           2015    0        4
+Busard cendré           2018    0        6
+Buse pattue             2013    0        1
+Canard chipeau          2015    0        1
+Canard mandarin         2008    0        22
+Chevalier culblanc      2017    0        6
+Chevalier guignette     2011    0        3
+Chevalier sylvain       2011    0        2
+Cigogne blanche         2018    0        13
+Crabier chevelu         2017    0        1
+Faucon kobez            2018    0        3
+Fuligule milouin        2015    0        3
+Fuligule morillon       2015    0        2
+Grande Aigrette         2019    0        6
+Grèbe huppé             2016    0        9
+Héron pourpré           2013    0        1
+Hirondelle de rivage    2015    0        1
+Locustelle tachetée     2016    0        2
+Marouette ponctuée      2016    0        1
+Mouette rieuse          2018    0        4
+Perdrix grise           2018    0        4
+Perdrix rouge           2015    0        2
+Perruche à collier      2012    0        1
+Petit-duc scops         2011    0        8
+Phragmite des joncs     2015    0        1
+Pigeon biset domestique 2018    0        5
+Pipit rousseline        2018    0        3
+Sarcelle d'été          2012    0        3
+Venturon montagnard     2018    0        6
 

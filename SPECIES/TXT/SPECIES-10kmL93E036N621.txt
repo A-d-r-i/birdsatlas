@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Buse variable
-0        Crave à bec rouge
-0        Fauvette à tête noire
-0        Geai des chênes
-0        Gobemouche noir
-0        Grand Corbeau
-0        Grimpereau des jardins
-0        Mésange bleue
-0        Mésange charbonnière
-0        Mésange nonnette
-0        Pic à dos blanc
-0        Pouillot véloce
-0        Roitelet huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Buse variable          2018    0        1
+Crave à bec rouge      2017    0        1
+Fauvette à tête noire  2010    0        4
+Geai des chênes        2018    0        1
+Gobemouche noir        2010    0        4
+Grand Corbeau          2015    0        2
+Grimpereau des jardins 2010    0        3
+Mésange bleue          2015    0        6
+Mésange charbonnière   2015    0        6
+Mésange nonnette       2016    0        7
+Pic à dos blanc        2010    0        2
+Pouillot véloce        2015    0        6
+Roitelet huppé         2018    0        6
 

@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Cincle plongeur
-0        Crave à bec rouge
-0        Engoulevent d'Europe
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Guêpier d'Europe
-0        Pic épeichette
-0        Pic mar
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Busard Saint-Martin  2015    0        1
+Chevalier guignette  2014    0        1
+Cincle plongeur      2017    0        2
+Crave à bec rouge    2015    0        1
+Engoulevent d'Europe 2010    0        2
+Gobemouche gris      2014    0        1
+Gobemouche noir      2012    0        1
+Grand-duc d'Europe   2013    0        1
+Grive mauvis         2007    0        1
+Guêpier d'Europe     2016    0        1
+Pic épeichette       2011    0        1
+Pic mar              2012    0        2
 

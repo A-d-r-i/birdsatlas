@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bihoreau gris
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier arlequin
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chouette hulotte
-0        Combattant varié
-0        Cygne de Bewick
-0        Cygne noir
-0        Fuligule nyroca
-0        Gobemouche à collier
-0        Gobemouche noir
-0        Goéland cendré
-0        Goéland leucophée
-0        Grimpereau des bois
-0        Huppe fasciée
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Mouette pygmée
-0        Petit Gravelot
-0        Pic cendré
-0        Pic noir
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pluvier doré
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Roitelet huppé
-0        Sarcelle d'été
-0        Serin cini
-0        Sterne pierregarin
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bécasseau de Temminck       2012    0        4
+Bécasseau variable          2018    0        1
+Bécassine des marais        2018    0        21
+Bec-croisé des sapins       2012    0        1
+Bergeronnette des ruisseaux 2012    0        4
+Bihoreau gris               2015    0        1
+Canard pilet                2014    0        7
+Canard siffleur             2012    0        2
+Canard souchet              2013    0        10
+Chevalier arlequin          2018    0        4
+Chevalier culblanc          2018    0        22
+Chevalier gambette          2016    0        5
+Chevalier sylvain           2012    0        13
+Chouette hulotte            2014    0        4
+Combattant varié            2015    0        3
+Cygne de Bewick             2016    0        4
+Cygne noir                  2014    0        2
+Fuligule nyroca             2014    0        1
+Gobemouche à collier        2012    0        6
+Gobemouche noir             2014    0        2
+Goéland cendré              2014    0        6
+Goéland leucophée           2018    0        1
+Grimpereau des bois         2012    0        3
+Huppe fasciée               2015    0        1
+Merle à plastron            2013    0        2
+Mésange huppée              2012    0        2
+Mésange noire               2013    0        5
+Mouette pygmée              2012    0        2
+Petit Gravelot              2012    0        5
+Pic cendré                  2009    0        1
+Pic noir                    2018    0        8
+Pinson du Nord              2018    0        5
+Pipit des arbres            2012    0        8
+Pipit farlouse              2013    0        3
+Pluvier doré                2013    0        2
+Pouillot siffleur           2009    0        1
+Rémiz penduline             2015    0        1
+Roitelet huppé              2012    0        4
+Sarcelle d'été              2015    0        21
+Serin cini                  2015    0        2
+Sterne pierregarin          2014    0        1
+Torcol fourmilier           2009    0        1
+Tourterelle des bois        2009    0        1
 

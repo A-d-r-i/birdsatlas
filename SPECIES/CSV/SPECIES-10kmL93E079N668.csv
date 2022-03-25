@@ -1,51 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Blongios nain"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Plongeon imbrin"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,4
+Autour des palombes,2014,0,5
+Bergeronnette printanière,2018,0,15
+Blongios nain,2009,0,1
+Bondrée apivore,2017,0,6
+Bruant des roseaux,2009,0,10
+Busard Saint-Martin,2017,0,12
+Caille des blés,2015,0,6
+Canard chipeau,2015,0,6
+Canard mandarin,2012,0,1
+Canard siffleur,2010,0,1
+Canard souchet,2015,0,2
+Chevalier aboyeur,2011,0,3
+Chevalier sylvain,2013,0,5
+Chevêche d'Athéna,2011,0,23
+Cigogne blanche,2014,0,3
+Cincle plongeur,2009,0,3
+Circaète Jean-le-Blanc,2018,0,1
+Faisan de Colchide,2018,0,3
+Faucon émerillon,2013,0,2
+Faucon pèlerin,2009,0,2
+Fuligule milouin,2016,0,9
+Gobemouche noir,2009,0,3
+Goéland brun,2017,0,1
+Grèbe à cou noir,2012,0,2
+Grèbe castagneux,2017,0,3
+Guêpier d'Europe,2017,0,1
+Guifette noire,2011,0,1
+Héron pourpré,2011,0,2
+Hibou moyen-duc,2010,0,6
+Linotte mélodieuse,2017,0,39
+Locustelle tachetée,2011,0,5
+Macreuse brune,2009,0,2
+Merle à plastron,2011,0,1
+Moineau friquet,2009,0,4
+Oie cendrée,2012,0,2
+Petit Gravelot,2016,0,6
+Pie-grièche à tête rousse,2008,0,1
+Pie-grièche grise,2009,0,4
+Pipit des arbres,2016,0,28
+Plongeon imbrin,2007,0,1
+Sizerin cabaret,2010,0,4
+Sizerin flammé,2010,0,4
+Tadorne de Belon,2015,0,5
+Tarier des prés,2007,0,1
+Tichodrome échelette,2015,0,4
+Torcol fourmilier,2015,0,12
+Vautour fauve,2017,0,1

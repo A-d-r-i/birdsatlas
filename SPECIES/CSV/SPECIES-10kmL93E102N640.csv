@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle royal"
-"0";"Alouette des champs"
-"0";"Bergeronnette grise"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Coucou gris"
-"0";"Fauvette babillarde"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rochers"
-"0";"Lagopède alpin"
-"0";"Martinet noir"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Pipit des arbres"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,6
+Aigle royal,2018,0,6
+Alouette des champs,2009,0,2
+Bergeronnette grise,2013,0,3
+Bondrée apivore,2010,0,2
+Bruant jaune,2016,0,3
+Canard colvert,2011,0,1
+Choucas des tours,2016,0,1
+Coucou gris,2013,0,1
+Fauvette babillarde,2012,0,2
+Hirondelle de fenêtre,2011,0,1
+Hirondelle de rochers,2016,0,1
+Lagopède alpin,2012,0,4
+Martinet noir,2011,0,1
+Merle à plastron,2016,0,1
+Mouette mélanocéphale,2011,0,1
+Pipit des arbres,2014,0,1
+Sizerin cabaret,2016,0,1
+Sizerin flammé,2016,0,1
+Tarier des prés,2013,0,3

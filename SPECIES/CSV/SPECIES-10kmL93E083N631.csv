@@ -1,33 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Canard chipeau"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette grisette"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Lusciniole à moustaches"
-"0";"Martinet pâle"
-"0";"Martin triste"
-"0";"Milan royal"
-"0";"Pic épeichette"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Sittelle torchepot"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,1
+Bécasse des bois,2015,0,3
+Bécassine des marais,2019,0,2
+Bergeronnette printanière,2015,0,3
+Bruant fou,2018,0,3
+Bruant jaune,2018,0,3
+Canard chipeau,2012,0,1
+Chevalier culblanc,2017,0,4
+Chevalier guignette,2017,0,1
+Faucon d'Eléonore,2009,0,1
+Faucon émerillon,2017,0,1
+Faucon kobez,2007,0,1
+Faucon pèlerin,2018,0,1
+Fauvette grisette,2017,0,2
+Gorgebleue à miroir,2012,0,2
+Grèbe huppé,2012,0,3
+Héron garde-boeufs,2015,0,3
+Héron pourpré,2012,0,4
+Lusciniole à moustaches,2012,0,3
+Martinet pâle,2012,0,1
+Martin triste,2007,0,2
+Milan royal,2017,0,1
+Pic épeichette,2018,0,6
+Pipit spioncelle,2017,0,2
+Pouillot fitis,2018,0,10
+Rousserolle effarvatte,2007,0,1
+Sarcelle d'hiver,2012,0,1
+Sittelle torchepot,2016,0,2
+Vautour fauve,2007,0,1

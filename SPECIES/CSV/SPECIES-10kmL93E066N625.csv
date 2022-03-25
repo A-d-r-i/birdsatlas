@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bergeronnette printanière"
-"0";"Bernache nonnette"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Grand Cormoran"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Niverolle alpine"
-"0";"Pie bavarde"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pluvier guignard"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2008,0,1
+Bergeronnette printanière,2014,0,2
+Bernache nonnette,2009,0,1
+Bruant jaune,2018,0,7
+Busard des roseaux,2018,0,3
+Busard Saint-Martin,2015,0,7
+Caille des blés,2010,0,1
+Chevêche d'Athéna,2009,0,1
+Cigogne noire,2015,0,1
+Cisticole des joncs,2016,0,1
+Effraie des clochers,2009,0,1
+Faucon d'Eléonore,2016,0,3
+Fauvette orphée,2018,0,1
+Fauvette passerinette,2018,0,15
+Fauvette pitchou,2014,0,2
+Grand Cormoran,2015,0,3
+Grosbec casse-noyaux,2015,0,1
+Hibou moyen-duc,2018,0,2
+Hirondelle rousseline,2014,0,2
+Hypolaïs polyglotte,2014,0,3
+Linotte mélodieuse,2017,0,3
+Martinet à ventre blanc,2015,0,4
+Merle à plastron,2007,0,1
+Niverolle alpine,2010,0,1
+Pie bavarde,2014,0,8
+Pie-grièche écorcheur,2018,0,1
+Pigeon biset domestique,2012,0,2
+Pigeon colombin,2009,0,1
+Pinson du Nord,2012,0,4
+Pipit farlouse,2017,0,5
+Pluvier guignard,2015,0,1
+Tarier des prés,2011,0,2
+Torcol fourmilier,2014,0,3
+Tourterelle turque,2018,0,5
+Traquet motteux,2015,0,12

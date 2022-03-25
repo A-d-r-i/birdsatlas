@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Busard pâle"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Grand Corbeau"
-"0";"Guifette noire"
-"0";"Inséparable masqué"
-"0";"Martinet noir"
-"0";"Ouette d'Egypte"
-"0";"Paon bleu"
-"0";"Perdrix grise"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2008,0,1
+Bécasseau minute,2007,0,1
+Bécasse des bois,2017,0,2
+Bouscarle de Cetti,2018,0,5
+Bruant fou,2016,0,1
+Busard pâle,2016,0,1
+Canard pilet,2017,0,21
+Canard siffleur,2018,0,33
+Chevalier arlequin,2017,0,3
+Cigogne noire,2016,0,4
+Combattant varié,2017,0,11
+Cygne tuberculé,2016,0,2
+Échasse blanche,2007,0,1
+Fuligule milouin,2019,0,10
+Fuligule morillon,2016,0,1
+Grand Corbeau,2014,0,1
+Guifette noire,2016,0,3
+Inséparable masqué,2016,0,1
+Martinet noir,2018,0,5
+Ouette d'Egypte,2017,0,1
+Paon bleu,2018,0,1
+Perdrix grise,2015,0,3
+Pipit rousseline,2018,0,7
+Pluvier doré,2017,0,5
+Pouillot fitis,2018,0,7
+Pouillot siffleur,2017,0,1
+Râle d'eau,2007,0,1
+Rougequeue à front blanc,2016,0,3
+Sarcelle d'été,2018,0,11
+Sterne pierregarin,2014,0,1
+Tadorne casarca,2011,0,1
+Tadorne de Belon,2016,0,8
+Tarin des aulnes,2018,0,7
+Torcol fourmilier,2015,0,3

@@ -1,36 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bruant fou"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Échasse blanche"
-"0";"Faucon émerillon"
-"0";"Fuligule morillon"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Plongeon imbrin"
-"0";"Râle d'eau"
-"0";"Sarcelle d'été"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2012,0,1
+Bécassine sourde,2009,0,1
+Bergeronnette flavéole (M.f.flavissima),2013,0,2
+Bergeronnette printanière,2015,0,14
+Bernache cravant,2009,0,1
+Bruant fou,2013,0,2
+Butor étoilé,2017,0,3
+Canard carolin,2007,0,1
+Canard chipeau,2018,0,28
+Canard mandarin,2018,0,2
+Canard pilet,2010,0,2
+Chevalier aboyeur,2015,0,1
+Combattant varié,2015,0,1
+Corbeau freux,2019,0,4
+Faucon émerillon,2018,0,1
+Fuligule morillon,2017,0,5
+Grèbe castagneux,2017,0,7
+Guêpier d'Europe,2017,0,1
+Harle piette,2008,0,1
+Hibou moyen-duc,2018,0,3
+Nette rousse,2010,0,1
+Oie cendrée,2011,0,3
+Pie-grièche à tête rousse,2016,0,2
+Pigeon biset (origine naturelle),2009,0,1
+Plongeon imbrin,2007,0,1
+Râle d'eau,2018,0,13
+Sarcelle d'été,2010,0,5
+Sterne pierregarin,2017,0,1
+Tadorne casarca,2012,0,2
+Tadorne de Belon,2014,0,1
+Torcol fourmilier,2018,0,13
+Vautour fauve,2018,0,2

@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard pâle
-0        Choucas des tours
-0        Coucou gris
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Hypolaïs ictérine
-0        Loriot d'Europe
-0        Oie cendrée
-0        Pic épeichette
-0        Pipit des arbres
-0        Pouillot siffleur
-0        Rossignol philomèle
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Busard pâle           2017    0        2
+Choucas des tours     2018    0        1
+Coucou gris           2018    0        9
+Cygne tuberculé       2013    0        14
+Effraie des clochers  2013    0        4
+Faisan de Colchide    2018    0        2
+Fuligule morillon     2012    0        3
+Gallinule poule-d'eau 2019    0        6
+Hypolaïs ictérine     2008    0        1
+Loriot d'Europe       2010    0        2
+Oie cendrée           2012    0        1
+Pic épeichette        2015    0        1
+Pipit des arbres      2015    0        5
+Pouillot siffleur     2018    0        5
+Rossignol philomèle   2015    0        4
 

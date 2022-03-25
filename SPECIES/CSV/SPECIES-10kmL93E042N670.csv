@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau tacheté"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Cochevis huppé"
-"0";"Faisan doré"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe esclavon"
-"0";"Guifette leucoptère"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Labbe à longue queue"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Marouette ponctuée"
-"0";"Mouette de Bonaparte"
-"0";"Nette demi-deuil"
-"0";"Oie des neiges"
-"0";"Pipit maritime"
-"0";"Plongeon catmarin"
-"0";"Pouillot siffleur"
-"0";"Sterne arctique"
+frname,lastobs,newcount,oldcount
+Aigle botté,2008,0,1
+Bécasseau tacheté,2012,0,2
+Bernache cravant,2017,0,12
+Bernache nonnette,2016,0,13
+Busard cendré,2014,0,3
+Butor étoilé,2018,0,150
+Canard mandarin,2010,0,14
+Chevalier stagnatile,2017,0,31
+Cochevis huppé,2016,0,11
+Faisan doré,2010,0,1
+Fauvette pitchou,2010,0,1
+Fuligule à bec cerclé,2018,0,23
+Fuligule milouinan,2018,0,26
+Gravelot à collier interrompu,2017,0,21
+Grèbe esclavon,2010,0,2
+Guifette leucoptère,2013,0,1
+Harle huppé,2009,0,1
+Harle piette,2017,0,14
+Labbe à longue queue,2007,0,1
+Labbe parasite,2012,0,2
+Locustelle tachetée,2018,0,47
+Macreuse brune,2018,0,17
+Marouette ponctuée,2015,0,3
+Mouette de Bonaparte,2017,0,43
+Nette demi-deuil,2012,0,26
+Oie des neiges,2018,0,3
+Pipit maritime,2009,0,3
+Plongeon catmarin,2014,0,116
+Pouillot siffleur,2010,0,1
+Sterne arctique,2015,0,2

@@ -1,10 +1,10 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Faucon pèlerin
-0        Gobemouche gris
-0        Hirondelle de fenêtre
-0        Puffin yelkouan
-0        Rougegorge familier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2017    0        1
+Faucon pèlerin        2017    0        1
+Gobemouche gris       2009    0        1
+Hirondelle de fenêtre 2017    0        1
+Puffin yelkouan       2018    0        2
+Rougegorge familier   2009    0        1
 

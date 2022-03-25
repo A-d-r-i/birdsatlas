@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Bruant proyer
-0        Corbeau freux
-0        Fauvette babillarde
-0        Fuligule morillon
-0        Fulmar boréal
-0        Héron pourpré
-0        Locustelle luscinioïde
-0        Panure à moustaches
-0        Pic épeichette
-0        Rousserolle verderolle
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau de Temminck  2010    0        2
+Bruant proyer          2009    0        1
+Corbeau freux          2009    0        1
+Fauvette babillarde    2009    0        1
+Fuligule morillon      2009    0        1
+Fulmar boréal          2019    0        1
+Héron pourpré          2018    0        1
+Locustelle luscinioïde 2009    0        1
+Panure à moustaches    2009    0        1
+Pic épeichette         2009    0        1
+Rousserolle verderolle 2009    0        1
 

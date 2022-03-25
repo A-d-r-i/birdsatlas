@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Goéland cendré"
-"0";"Héron pourpré"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pic noir"
-"0";"Pipit spioncelle"
-"0";"Pluvier argenté"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2013,0,2
+Bécasse des bois,2017,0,6
+Canard chipeau,2011,0,2
+Canard pilet,2013,0,2
+Canard siffleur,2012,0,2
+Cigogne noire,2011,0,1
+Courlis cendré,2012,0,1
+Faucon émerillon,2017,0,6
+Faucon pèlerin,2014,0,1
+Goéland cendré,2018,0,1
+Héron pourpré,2016,0,1
+Ibis sacré,2010,0,1
+Locustelle tachetée,2009,0,2
+Mésange noire,2018,0,6
+Nette rousse,2018,0,1
+Oie cendrée,2013,0,2
+Pic noir,2018,0,4
+Pipit spioncelle,2018,0,10
+Pluvier argenté,2011,0,1
+Râle d'eau,2018,0,8
+Rougequeue à front blanc,2016,0,6
+Sarcelle d'hiver,2018,0,11
+Sterne pierregarin,2012,0,2
+Tadorne de Belon,2013,0,1
+Torcol fourmilier,2016,0,3

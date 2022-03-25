@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Goéland marin"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin flammé"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,1
+Barge à queue noire,2015,0,1
+Bergeronnette printanière,2015,0,1
+Busard des roseaux,2009,0,2
+Butor étoilé,2010,0,1
+Canard pilet,2009,0,1
+Canard siffleur,2017,0,10
+Canard souchet,2012,0,1
+Chevalier gambette,2013,0,2
+Cigogne noire,2018,0,1
+Courlis cendré,2012,0,4
+Engoulevent d'Europe,2015,0,1
+Faucon émerillon,2010,0,2
+Goéland marin,2017,0,5
+Grèbe huppé,2018,0,8
+Héron pourpré,2012,0,1
+Oedicnème criard,2015,0,3
+Oie cendrée,2018,0,9
+Petit Gravelot,2011,0,6
+Pigeon biset (origine naturelle),2018,0,1
+Pigeon colombin,2017,0,1
+Pipit des arbres,2018,0,7
+Rousserolle effarvatte,2016,0,1
+Sizerin flammé,2017,0,1
+Tourterelle rieuse,2010,0,1

@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Bernache nonnette"
-"0";"Bruant ortolan"
-"0";"Canard mandarin"
-"0";"Chevalier gambette"
-"0";"Chouette de Tengmalm"
-"0";"Courlis corlieu"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Guifette noire"
-"0";"Hypolaïs ictérine"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,1
+Bec-croisé des sapins,2019,0,4
+Bernache nonnette,2009,0,1
+Bruant ortolan,2018,0,2
+Canard mandarin,2012,0,2
+Chevalier gambette,2012,0,2
+Chouette de Tengmalm,2017,0,1
+Courlis corlieu,2017,0,1
+Cygne chanteur,2016,0,21
+Cygne de Bewick,2011,0,3
+Cygne noir,2016,0,19
+Engoulevent d'Europe,2008,0,1
+Fuligule milouinan,2007,0,2
+Fuligule nyroca,2014,0,1
+Garrot à oeil d'or,2019,0,6
+Goéland cendré,2016,0,7
+Guifette noire,2015,0,4
+Hypolaïs ictérine,2016,0,4
+Macreuse brune,2013,0,2
+Merle à plastron,2011,0,2
+Mouette mélanocéphale,2018,0,2
+Mouette pygmée,2019,0,2
+Pipit à gorge rousse,2018,0,1
+Pipit rousseline,2010,0,1
+Plongeon catmarin,2013,0,1
+Pluvier doré,2017,0,2
+Pouillot de Bonelli,2017,0,2

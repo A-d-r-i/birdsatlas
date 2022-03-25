@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécassine des marais
-0        Busard pâle
-0        Cigogne blanche
-0        Cochevis huppé
-0        Courlis corlieu
-0        Faisan vénéré
-0        Huppe fasciée
-0        Jaseur boréal
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Oie cendrée
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sterne pierregarin
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2011    0        2
+Bécassine des marais   2017    0        5
+Busard pâle            2016    0        1
+Cigogne blanche        2013    0        2
+Cochevis huppé         2016    0        1
+Courlis corlieu        2013    0        1
+Faisan vénéré          2018    0        3
+Huppe fasciée          2015    0        1
+Jaseur boréal          2009    0        1
+Mésange noire          2011    0        3
+Mouette mélanocéphale  2012    0        1
+Oie cendrée            2015    0        3
+Pipit spioncelle       2018    0        3
+Pouillot fitis         2012    0        3
+Rousserolle effarvatte 2010    0        2
+Rousserolle verderolle 2011    0        2
+Sterne pierregarin     2012    0        1
+Torcol fourmilier      2012    0        1
 

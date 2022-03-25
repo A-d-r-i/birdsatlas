@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Caille des blés
-0        Canard siffleur
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Corneille mantelée
-0        Échasse blanche
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Grèbe huppé
-0        Monticole bleu
-0        Paon bleu
-0        Perruche à collier
-0        Pie-grièche méridionale
-0        Pouillot siffleur
-0        Râle d'eau
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Vanneau huppé
-0        Vautour moine
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bécasseau variable      2014    0        1
+Caille des blés         2012    0        4
+Canard siffleur         2015    0        1
+Chevalier sylvain       2009    0        1
+Chevêche d'Athéna       2010    0        4
+Corneille mantelée      2017    0        2
+Échasse blanche         2009    0        1
+Faucon émerillon        2018    0        5
+Fauvette babillarde     2012    0        1
+Grèbe huppé             2016    0        1
+Monticole bleu          2018    0        4
+Paon bleu               2011    0        1
+Perruche à collier      2018    0        1
+Pie-grièche méridionale 2013    0        2
+Pouillot siffleur       2013    0        1
+Râle d'eau              2012    0        1
+Sarcelle d'été          2017    0        1
+Sarcelle d'hiver        2017    0        7
+Tichodrome échelette    2018    0        7
+Torcol fourmilier       2018    0        13
+Vanneau huppé           2018    0        3
+Vautour moine           2012    0        2
+Venturon montagnard     2017    0        3
 

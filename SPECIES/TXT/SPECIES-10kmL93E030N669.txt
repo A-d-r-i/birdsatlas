@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette haussecol
-0        Autour des palombes
-0        Bécasseau tacheté
-0        Bernache nonnette
-0        Bruant des neiges
-0        Butor étoilé
-0        Canard carolin
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Combattant varié
-0        Effraie des clochers
-0        Eider à duvet
-0        Fuligule milouinan
-0        Fulmar boréal
-0        Goéland à ailes blanches
-0        Goéland à bec cerclé
-0        Goéland bourgmestre
-0        Guêpier d'Europe
-0        Guillemot de Troïl
-0        Hibou moyen-duc
-0        Ibis falcinelle
-0        Labbe parasite
-0        Macareux moine
-0        Macreuse brune
-0        Marouette ponctuée
-0        Moineau friquet
-0        Perdrix grise
-0        Perdrix rouge
-0        Phalarope à bec large
-0        Pingouin torda
-0        Pluvier guignard
-0        Puffin des Baléares
-0        Sterne caspienne
-0        Sterne de Dougall
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette haussecol       2018    0        5
+Autour des palombes      2018    0        2
+Bécasseau tacheté        2012    0        1
+Bernache nonnette        2018    0        7
+Bruant des neiges        2014    0        1
+Butor étoilé             2014    0        1
+Canard carolin           2017    0        23
+Chevalier sylvain        2015    0        1
+Chevêche d'Athéna        2014    0        1
+Cigogne blanche          2013    0        4
+Combattant varié         2013    0        1
+Effraie des clochers     2009    0        6
+Eider à duvet            2013    0        9
+Fuligule milouinan       2013    0        6
+Fulmar boréal            2018    0        3
+Goéland à ailes blanches 2015    0        9
+Goéland à bec cerclé     2013    0        1
+Goéland bourgmestre      2009    0        4
+Guêpier d'Europe         2016    0        1
+Guillemot de Troïl       2017    0        49
+Hibou moyen-duc          2015    0        2
+Ibis falcinelle          2016    0        1
+Labbe parasite           2016    0        5
+Macareux moine           2014    0        39
+Macreuse brune           2018    0        2
+Marouette ponctuée       2016    0        1
+Moineau friquet          2018    0        1
+Perdrix grise            2008    0        1
+Perdrix rouge            2012    0        1
+Phalarope à bec large    2015    0        2
+Pingouin torda           2016    0        11
+Pluvier guignard         2017    0        3
+Puffin des Baléares      2016    0        5
+Sterne caspienne         2017    0        2
+Sterne de Dougall        2016    0        1
 

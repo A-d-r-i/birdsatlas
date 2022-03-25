@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau violet
-0        Bruant proyer
-0        Chevêche d'Athéna
-0        Effraie des clochers
-0        Faucon émerillon
-0        Hibou moyen-duc
-0        Moineau friquet
-0        Perdrix grise
-0        Pouillot siffleur
-0        Sizerin boréal (C.f.flammea)
-0        Tourterelle des bois
+frname                       lastobs newcount oldcount
+------                       ------- -------- --------
+Bécasseau violet             2009    0        1
+Bruant proyer                2009    0        1
+Chevêche d'Athéna            2009    0        1
+Effraie des clochers         2009    0        1
+Faucon émerillon             2019    0        1
+Hibou moyen-duc              2009    0        1
+Moineau friquet              2015    0        6
+Perdrix grise                2009    0        1
+Pouillot siffleur            2009    0        1
+Sizerin boréal (C.f.flammea) 2018    0        1
+Tourterelle des bois         2009    0        1
 

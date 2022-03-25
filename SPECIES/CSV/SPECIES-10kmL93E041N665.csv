@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau variable"
-"0";"Busard cendré"
-"0";"Courlis corlieu"
-"0";"Goéland cendré"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Perdrix grise"
-"0";"Râle des genêts"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2016,0,1
+Bécasseau variable,2009,0,1
+Busard cendré,2012,0,2
+Courlis corlieu,2018,0,2
+Goéland cendré,2009,0,1
+Merle à plastron,2014,0,1
+Mésange huppée,2016,0,8
+Perdrix grise,2017,0,2
+Râle des genêts,2009,0,1

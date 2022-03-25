@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Bruant des roseaux"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Étourneau unicolore"
-"0";"Faucon crécerellette"
-"0";"Gorgebleue à miroir"
-"0";"Grand-duc d'Europe"
-"0";"Hirondelle rousseline"
-"0";"Labbe parasite"
-"0";"Oie cendrée"
-"0";"Pipit à gorge rousse"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne caspienne"
-"0";"Tadorne de Belon"
-"0";"Tourterelle des bois"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2009,0,2
+Bruant des roseaux,2016,0,21
+Corbeau freux,2017,0,1
+Courlis cendré,2015,0,2
+Échasse blanche,2008,0,1
+Étourneau unicolore,2011,0,1
+Faucon crécerellette,2017,0,229
+Gorgebleue à miroir,2014,0,1
+Grand-duc d'Europe,2018,0,3
+Hirondelle rousseline,2017,0,6
+Labbe parasite,2012,0,1
+Oie cendrée,2011,0,1
+Pipit à gorge rousse,2015,0,1
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'hiver,2016,0,2
+Sizerin cabaret,2016,0,1
+Sizerin flammé,2016,0,1
+Sterne caspienne,2018,0,1
+Tadorne de Belon,2012,0,3
+Tourterelle des bois,2016,0,2
+Traquet oreillard,2016,0,3

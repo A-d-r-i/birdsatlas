@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Calopsitte élégante"
-"0";"Chevalier culblanc"
-"0";"Courlis cendré"
-"0";"Fuligule morillon"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Harle bièvre"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Busard cendré,2013,0,2
+Busard pâle,2018,0,5
+Calopsitte élégante,2014,0,1
+Chevalier culblanc,2016,0,3
+Courlis cendré,2018,0,1
+Fuligule morillon,2011,0,2
+Goéland brun,2017,0,2
+Grèbe castagneux,2016,0,1
+Grèbe huppé,2018,0,4
+Harle bièvre,2016,0,1
+Pigeon colombin,2013,0,2
+Pluvier doré,2014,0,2
+Râle d'eau,2017,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1

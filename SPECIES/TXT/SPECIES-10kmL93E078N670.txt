@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécassine sourde
-0        Busard des roseaux
-0        Canard souchet
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Faucon pèlerin
-0        Gobemouche noir
-0        Guifette noire
-0        Locustelle tachetée
-0        Moineau friquet
-0        Oie cendrée
-0        Tarier des prés
-0        Traquet motteux
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigle botté         2008    0        1
+Bécassine sourde    2012    0        1
+Busard des roseaux  2015    0        1
+Canard souchet      2012    0        1
+Chevalier guignette 2016    0        7
+Chevalier sylvain   2012    0        2
+Faucon pèlerin      2013    0        4
+Gobemouche noir     2014    0        5
+Guifette noire      2012    0        1
+Locustelle tachetée 2013    0        1
+Moineau friquet     2012    0        1
+Oie cendrée         2009    0        2
+Tarier des prés     2017    0        4
+Traquet motteux     2016    0        1
 

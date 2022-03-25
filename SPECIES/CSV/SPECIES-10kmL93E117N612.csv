@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandre"
-"0";"Bécasseau sanderling"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Chevalier sylvain"
-"0";"Cisticole des joncs"
-"0";"Crabier chevelu"
-"0";"Fauvette orphée"
-"0";"Grand Gravelot"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Moineau soulcie"
-"0";"Pipit à gorge rousse"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Tarier des prés"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Alouette calandre,2016,0,1
+Bécasseau sanderling,2016,0,1
+Bihoreau gris,2016,0,2
+Busard cendré,2015,0,1
+Chevalier sylvain,2015,0,1
+Cisticole des joncs,2016,0,16
+Crabier chevelu,2015,0,1
+Fauvette orphée,2015,0,1
+Grand Gravelot,2015,0,1
+Grosbec casse-noyaux,2017,0,1
+Héron pourpré,2016,0,1
+Hirondelle de rivage,2015,0,1
+Loriot d'Europe,2009,0,1
+Martinet à ventre blanc,2015,0,1
+Moineau soulcie,2009,0,1
+Pipit à gorge rousse,2015,0,1
+Roitelet huppé,2015,0,2
+Rousserolle effarvatte,2015,0,2
+Rousserolle turdoïde,2009,0,1
+Tarier des prés,2015,0,3
+Troglodyte mignon,2015,0,1

@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Faisan de Colchide"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Harle bièvre"
-"0";"Héron garde-boeufs"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2016,0,137
+Bruant ortolan,2016,0,5
+Bruant proyer,2018,0,33
+Busard cendré,2015,0,4
+Caille des blés,2018,0,13
+Canard mandarin,2012,0,8
+Chevalier culblanc,2016,0,5
+Chevalier guignette,2007,0,2
+Courlis cendré,2014,0,3
+Élanion blanc,2015,0,1
+Faisan de Colchide,2011,0,4
+Faucon kobez,2008,0,1
+Fauvette babillarde,2017,0,6
+Fauvette grisette,2016,0,11
+Foulque macroule,2007,0,2
+Gallinule poule-d'eau,2009,0,3
+Goéland brun,2013,0,3
+Goéland cendré,2010,0,4
+Goéland leucophée,2008,0,10
+Harle bièvre,2014,0,5
+Héron garde-boeufs,2016,0,1
+Huppe fasciée,2017,0,3
+Hypolaïs polyglotte,2014,0,2
+Jaseur boréal,2013,0,1
+Locustelle tachetée,2013,0,7
+Martinet à ventre blanc,2010,0,7
+Martin-pêcheur d'Europe,2016,0,17
+Merle à plastron,2015,0,3
+Mésange boréale,2016,0,3
+Mouette rieuse,2018,0,7
+Perdrix grise,2009,0,2
+Pie-grièche grise,2016,0,37
+Pipit rousseline,2017,0,7
+Pluvier doré,2013,0,4
+Pouillot de Bonelli,2009,0,1
+Pouillot siffleur,2018,0,11
+Râle d'eau,2009,0,1
+Rossignol philomèle,2017,0,18
+Rousserolle verderolle,2016,0,7
+Sarcelle d'hiver,2011,0,6
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2009,0,1
+Tarier des prés,2017,0,61

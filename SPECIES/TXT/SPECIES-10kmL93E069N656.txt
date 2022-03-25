@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau sanderling
-0        Bec-croisé des sapins
-0        Bernache nonnette
-0        Bruant fou
-0        Bruant proyer
-0        Caille des blés
-0        Canard chipeau
-0        Cassenoix moucheté
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Cigogne blanche
-0        Cincle plongeur
-0        Combattant varié
-0        Effraie des clochers
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Gobemouche gris
-0        Goéland cendré
-0        Grand Gravelot
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive mauvis
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Merle à plastron
-0        Moineau friquet
-0        Mouette rieuse
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Pouillot fitis
-0        Rollier d'Europe
-0        Tadorne casarca
-0        Tarier des prés
-0        Vautour fauve
-0        Vautour moine
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bécasseau sanderling  2014    0        1
+Bec-croisé des sapins 2014    0        6
+Bernache nonnette     2013    0        8
+Bruant fou            2010    0        2
+Bruant proyer         2011    0        5
+Caille des blés       2012    0        7
+Canard chipeau        2018    0        4
+Cassenoix moucheté    2014    0        1
+Chevalier aboyeur     2011    0        1
+Chevalier culblanc    2014    0        3
+Chevalier gambette    2017    0        3
+Chevêche d'Athéna     2010    0        2
+Choucas des tours     2016    0        6
+Cigogne blanche       2016    0        3
+Cincle plongeur       2013    0        3
+Combattant varié      2017    0        4
+Effraie des clochers  2011    0        3
+Fauvette des jardins  2017    0        1
+Fuligule morillon     2016    0        1
+Gobemouche gris       2011    0        2
+Goéland cendré        2009    0        2
+Grand Gravelot        2014    0        1
+Grimpereau des bois   2017    0        1
+Grive litorne         2012    0        9
+Grive mauvis          2010    0        2
+Guifette moustac      2011    0        1
+Guifette noire        2014    0        2
+Harle bièvre          2013    0        2
+Héron pourpré         2017    0        1
+Hibou moyen-duc       2015    0        6
+Merle à plastron      2009    0        1
+Moineau friquet       2018    0        1
+Mouette rieuse        2016    0        4
+Pie-grièche grise     2010    0        1
+Pipit farlouse        2017    0        2
+Pouillot fitis        2014    0        10
+Rollier d'Europe      2015    0        7
+Tadorne casarca       2014    0        2
+Tarier des prés       2014    0        1
+Vautour fauve         2017    0        2
+Vautour moine         2014    0        1
 

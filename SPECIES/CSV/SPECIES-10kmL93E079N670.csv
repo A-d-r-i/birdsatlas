@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pigeon biset domestique"
-"0";"Pluvier doré"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,7
+Bernache nonnette,2010,0,2
+Bondrée apivore,2018,0,8
+Bruant des roseaux,2017,0,3
+Busard des roseaux,2014,0,1
+Canard siffleur,2017,0,1
+Chevalier guignette,2014,0,1
+Cigogne blanche,2017,0,2
+Cincle plongeur,2012,0,5
+Faucon pèlerin,2018,0,2
+Fuligule milouin,2012,0,1
+Grèbe huppé,2015,0,4
+Hibou moyen-duc,2018,0,16
+Locustelle tachetée,2018,0,3
+Mésange boréale,2016,0,2
+Mésange huppée,2017,0,10
+Moineau friquet,2013,0,3
+Perdrix rouge,2015,0,2
+Petit-duc scops,2015,0,5
+Pigeon biset domestique,2012,0,1
+Pluvier doré,2012,0,5

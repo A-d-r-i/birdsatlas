@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Barge rousse
-0        Bergeronnette des ruisseaux
-0        Bernache nonnette
-0        Chevalier gambette
-0        Cisticole des joncs
-0        Cygne noir
-0        Épervier d'Europe
-0        Étourneau sansonnet
-0        Fou à pieds rouges
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Goéland cendré
-0        Grimpereau des jardins
-0        Grive musicienne
-0        Harle huppé
-0        Hirondelle de fenêtre
-0        Mésange huppée
-0        Moineau domestique
-0        Océanite culblanc
-0        Phalarope à bec large
-0        Pic épeiche
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pluvier argenté
-0        Roitelet huppé
-0        Sterne de Dougall
-0        Tarier pâtre
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette des champs         2018    0        1
+Barge rousse                2018    0        1
+Bergeronnette des ruisseaux 2014    0        1
+Bernache nonnette           2014    0        1
+Chevalier gambette          2016    0        2
+Cisticole des joncs         2009    0        1
+Cygne noir                  2009    0        1
+Épervier d'Europe           2015    0        1
+Étourneau sansonnet         2016    0        3
+Fou à pieds rouges          2017    0        1
+Gallinule poule-d'eau       2009    0        1
+Geai des chênes             2009    0        1
+Goéland cendré              2018    0        2
+Grimpereau des jardins      2009    0        1
+Grive musicienne            2009    0        1
+Harle huppé                 2014    0        1
+Hirondelle de fenêtre       2018    0        6
+Mésange huppée              2009    0        1
+Moineau domestique          2014    0        2
+Océanite culblanc           2018    0        4
+Phalarope à bec large       2014    0        2
+Pic épeiche                 2009    0        1
+Pigeon biset domestique     2017    0        3
+Pigeon colombin             2009    0        1
+Pluvier argenté             2019    0        1
+Roitelet huppé              2014    0        1
+Sterne de Dougall           2009    0        1
+Tarier pâtre                2015    0        2
+Tourterelle des bois        2018    0        1
+Tourterelle turque          2017    0        1
+Vanneau huppé               2019    0        1
 

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Chocard à bec jaune"
-"0";"Etourneau roselin"
-"0";"Étourneau sansonnet"
-"0";"Faisan de Colchide"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Grande Aigrette"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Jaseur boréal"
-"0";"Martinet à ventre blanc"
-"0";"Milan noir"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Niverolle alpine"
-"0";"Pic épeichette"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,1
+Bécassine des marais,2016,0,1
+Chocard à bec jaune,2018,0,9
+Etourneau roselin,2017,0,1
+Étourneau sansonnet,2018,0,20
+Faisan de Colchide,2018,0,5
+Faucon kobez,2011,0,1
+Fauvette grisette,2017,0,7
+Grande Aigrette,2018,0,3
+Grive mauvis,2018,0,2
+Guêpier d'Europe,2015,0,3
+Jaseur boréal,2009,0,1
+Martinet à ventre blanc,2016,0,2
+Milan noir,2017,0,5
+Monticole de roche,2017,0,3
+Mouette rieuse,2013,0,1
+Niverolle alpine,2013,0,3
+Pic épeichette,2018,0,3
+Pouillot siffleur,2017,0,1
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Tourterelle des bois,2017,0,4

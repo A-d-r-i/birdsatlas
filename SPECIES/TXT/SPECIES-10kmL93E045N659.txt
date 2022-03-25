@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau variable
-0        Canard à collier noir
-0        Chevalier aboyeur
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis corlieu
-0        Élanion blanc
-0        Foulque macroule
-0        Goéland argenté
-0        Goéland brun
-0        Goéland leucophée
-0        Mouette rieuse
-0        Oie cendrée
-0        Outarde canepetière
-0        Petit-duc scops
-0        Petit Gravelot
-0        Pic mar
-0        Pigeon colombin
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2013    0        4
+Bécasseau variable    2016    0        1
+Canard à collier noir 2018    0        1
+Chevalier aboyeur     2016    0        1
+Cochevis huppé        2013    0        1
+Combattant varié      2017    0        2
+Courlis corlieu       2016    0        1
+Élanion blanc         2014    0        1
+Foulque macroule      2018    0        5
+Goéland argenté       2018    0        1
+Goéland brun          2016    0        1
+Goéland leucophée     2018    0        4
+Mouette rieuse        2016    0        2
+Oie cendrée           2018    0        12
+Outarde canepetière   2017    0        2
+Petit-duc scops       2012    0        2
+Petit Gravelot        2016    0        1
+Pic mar               2009    0        1
+Pigeon colombin       2012    0        3
+Sarcelle d'hiver      2015    0        2
+Tarier des prés       2017    0        6
+Tichodrome échelette  2018    0        6
 

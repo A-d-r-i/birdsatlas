@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bruant fou
-0        Busard cendré
-0        Cygne tuberculé
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Hibou moyen-duc
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Sarcelle d'hiver
-0        Tadorne de Belon
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2018    0        1
+Bécassine des marais  2017    0        2
+Bruant fou            2012    0        2
+Busard cendré         2018    0        1
+Cygne tuberculé       2014    0        1
+Fauvette pitchou      2018    0        1
+Gallinule poule-d'eau 2018    0        1
+Hibou moyen-duc       2018    0        4
+Merle à plastron      2012    0        2
+Mésange huppée        2012    0        2
+Mésange noire         2019    0        11
+Sarcelle d'hiver      2012    0        1
+Tadorne de Belon      2010    0        2
 

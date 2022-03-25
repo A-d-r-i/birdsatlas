@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Canard mandarin
-0        Chevalier aboyeur
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Corbeau freux
-0        Dendrocygne fauve
-0        Faisan vénéré
-0        Faucon pèlerin
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Fuligule morillon
-0        Guifette noire
-0        Mésange noire
-0        Pie-grièche écorcheur
-0        Pluvier doré
-0        Râle d'eau
-0        Tarier des prés
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bec-croisé des sapins 2017    0        1
+Bruant des roseaux    2018    0        5
+Canard mandarin       2013    0        1
+Chevalier aboyeur     2016    0        2
+Chevalier sylvain     2018    0        1
+Chevêche d'Athéna     2011    0        1
+Corbeau freux         2013    0        1
+Dendrocygne fauve     2016    0        1
+Faisan vénéré         2016    0        3
+Faucon pèlerin        2017    0        5
+Fauvette pitchou      2017    0        4
+Fuligule milouin      2015    0        2
+Fuligule morillon     2015    0        2
+Guifette noire        2018    0        2
+Mésange noire         2018    0        1
+Pie-grièche écorcheur 2009    0        1
+Pluvier doré          2018    0        12
+Râle d'eau            2014    0        1
+Tarier des prés       2016    0        1
 

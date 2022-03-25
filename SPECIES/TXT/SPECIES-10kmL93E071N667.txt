@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Courlis cendré
-0        Fauvette babillarde
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Mésange boréale
-0        Mouette rieuse
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Sterne pierregarin
-0        Tarier des prés
-0        Tarin des aulnes
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigle botté         2010    0        6
+Bécasse des bois    2010    0        2
+Bruant des roseaux  2015    0        1
+Busard Saint-Martin 2015    0        5
+Chevalier guignette 2017    0        2
+Courlis cendré      2015    0        1
+Fauvette babillarde 2012    0        3
+Hibou moyen-duc     2017    0        1
+Locustelle tachetée 2012    0        2
+Mésange boréale     2018    0        2
+Mouette rieuse      2016    0        1
+Pinson du Nord      2018    0        9
+Pipit spioncelle    2015    0        4
+Sterne pierregarin  2016    0        2
+Tarier des prés     2017    0        2
+Tarin des aulnes    2018    0        4
 

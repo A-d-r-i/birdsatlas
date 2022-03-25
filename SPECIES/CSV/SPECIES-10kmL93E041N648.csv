@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland marin"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Ibis sacré"
-"0";"Locustelle luscinioïde"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,3
+Bécasseau variable,2018,0,1
+Bec-croisé des sapins,2018,0,2
+Bergeronnette flavéole (M.f.flavissima),2016,0,1
+Butor étoilé,2016,0,4
+Canard pilet,2011,0,2
+Chevalier guignette,2013,0,1
+Courlis cendré,2011,0,2
+Engoulevent d'Europe,2018,0,12
+Faucon pèlerin,2010,0,2
+Fauvette des jardins,2014,0,1
+Fauvette pitchou,2009,0,1
+Foulque macroule,2017,0,18
+Gobemouche noir,2018,0,15
+Goéland argenté,2016,0,8
+Goéland brun,2018,0,6
+Goéland marin,2012,0,1
+Gorgebleue à miroir,2009,0,1
+Grèbe castagneux,2017,0,2
+Hibou moyen-duc,2018,0,9
+Ibis sacré,2010,0,7
+Locustelle luscinioïde,2009,0,1
+Merle à plastron,2015,0,1
+Mésange huppée,2018,0,5
+Moineau friquet,2013,0,13
+Perdrix grise,2015,0,4
+Phragmite des joncs,2014,0,2
+Pie-grièche à tête rousse,2011,0,2
+Pigeon colombin,2017,0,7
+Pipit spioncelle,2015,0,1
+Pluvier doré,2016,0,12
+Pouillot de Bonelli,2018,0,4
+Pouillot fitis,2018,0,13
+Roitelet huppé,2018,0,7
+Rousserolle turdoïde,2009,0,1
+Sarcelle d'hiver,2015,0,4
+Tadorne de Belon,2014,0,2
+Tarin des aulnes,2018,0,25

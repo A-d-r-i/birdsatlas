@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigrette garzette
-0        Alouette des champs
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Cigogne blanche
-0        Corneille mantelée
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grand-duc d'Europe
-0        Grimpereau des bois
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange nonnette
-0        Moineau soulcie
-0        Monticole bleu
-0        Perdrix grise
-0        Petit Gravelot
-0        Pie-grièche méridionale
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2018    0        2
+Aigrette garzette         2013    0        4
+Alouette des champs       2016    0        6
+Bécasse des bois          2016    0        2
+Bergeronnette printanière 2009    0        1
+Bruant ortolan            2009    0        1
+Bruant proyer             2009    0        2
+Busard Saint-Martin       2016    0        5
+Chevalier guignette       2012    0        2
+Cigogne blanche           2015    0        3
+Corneille mantelée        2014    0        3
+Faucon d'Eléonore         2009    0        1
+Faucon kobez              2018    0        1
+Gobemouche gris           2014    0        3
+Goéland leucophée         2009    0        1
+Grand-duc d'Europe        2010    0        3
+Grimpereau des bois       2018    0        2
+Hirondelle de rivage      2014    0        1
+Locustelle tachetée       2011    0        1
+Merle à plastron          2010    0        1
+Mésange nonnette          2017    0        8
+Moineau soulcie           2011    0        2
+Monticole bleu            2013    0        9
+Perdrix grise             2010    0        1
+Petit Gravelot            2011    0        1
+Pie-grièche méridionale   2010    0        1
+Pouillot fitis            2016    0        7
+Pouillot siffleur         2018    0        1
+Roitelet huppé            2017    0        8
+Rollier d'Europe          2014    0        2
+Tarier des prés           2018    0        2
 

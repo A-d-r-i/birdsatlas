@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bernache nonnette
-0        Faucon émerillon
-0        Fuligule milouin
-0        Fuligule milouinan
-0        Fuligule morillon
-0        Fulmar boréal
-0        Goéland bourgmestre
-0        Goéland pontique
-0        Guifette noire
-0        Harle bièvre
-0        Locustelle tachetée
-0        Macareux moine
-0        Mergule nain
-0        Merle à plastron
-0        Mésange noire
-0        Milan royal
-0        Mouette de Sabine
-0        Mouette pygmée
-0        Océanite culblanc
-0        Océanite tempête
-0        Perdrix grise
-0        Phalarope à bec étroit
-0        Phalarope à bec large
-0        Phragmite aquatique
-0        Pigeon colombin
-0        Pipit de Richard
-0        Pipit des arbres
-0        Pluvier guignard
-0        Puffin cendré
-0        Sterne arctique
-0        Tadorne casarca
-0        Torcol fourmilier
-0        Traquet pie
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur alpin        2007    0        1
+Autour des palombes    2012    0        1
+Bernache nonnette      2010    0        1
+Faucon émerillon       2014    0        3
+Fuligule milouin       2012    0        1
+Fuligule milouinan     2016    0        2
+Fuligule morillon      2009    0        1
+Fulmar boréal          2018    0        1
+Goéland bourgmestre    2011    0        2
+Goéland pontique       2017    0        1
+Guifette noire         2015    0        3
+Harle bièvre           2010    0        2
+Locustelle tachetée    2016    0        16
+Macareux moine         2014    0        64
+Mergule nain           2018    0        1
+Merle à plastron       2012    0        1
+Mésange noire          2017    0        6
+Milan royal            2017    0        2
+Mouette de Sabine      2018    0        11
+Mouette pygmée         2018    0        28
+Océanite culblanc      2010    0        6
+Océanite tempête       2017    0        17
+Perdrix grise          2008    0        1
+Phalarope à bec étroit 2016    0        6
+Phalarope à bec large  2018    0        3
+Phragmite aquatique    2010    0        1
+Pigeon colombin        2015    0        1
+Pipit de Richard       2018    0        1
+Pipit des arbres       2014    0        5
+Pluvier guignard       2010    0        1
+Puffin cendré          2016    0        4
+Sterne arctique        2010    0        12
+Tadorne casarca        2011    0        2
+Torcol fourmilier      2015    0        1
+Traquet pie            2013    0        1
 

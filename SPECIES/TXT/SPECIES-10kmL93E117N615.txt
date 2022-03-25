@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette grise
-0        Corneille mantelée
-0        Corneille noire
-0        Coucou gris
-0        Gobemouche noir
-0        Loriot d'Europe
-0        Monticole bleu
-0        Oedicnème criard
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Pouillot véloce
-0        Serin cini
-0        Tarier des prés
-0        Torcol fourmilier
-0        Verdier d'Europe
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bergeronnette grise 2016    0        1
+Corneille mantelée  2016    0        1
+Corneille noire     2016    0        1
+Coucou gris         2016    0        2
+Gobemouche noir     2016    0        1
+Loriot d'Europe     2016    0        2
+Monticole bleu      2016    0        1
+Oedicnème criard    2016    0        1
+Pipit farlouse      2016    0        1
+Pouillot siffleur   2016    0        1
+Pouillot véloce     2019    0        1
+Serin cini          2017    0        2
+Tarier des prés     2016    0        2
+Torcol fourmilier   2016    0        6
+Verdier d'Europe    2016    0        1
 

@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Busard cendré
-0        Chevalier guignette
-0        Cigogne blanche
-0        Courlis cendré
-0        Faucon hobereau
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Mésange boréale
-0        Moineau friquet
-0        Oie à tête barrée
-0        Perdrix rouge
-0        Pipit spioncelle
-0        Sarcelle d'hiver
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasse des bois     2014    0        4
+Busard cendré        2016    0        1
+Chevalier guignette  2017    0        2
+Cigogne blanche      2016    0        4
+Courlis cendré       2017    0        1
+Faucon hobereau      2011    0        1
+Hibou moyen-duc      2011    0        4
+Hirondelle de rivage 2018    0        1
+Mésange boréale      2009    0        1
+Moineau friquet      2014    0        1
+Oie à tête barrée    2014    0        1
+Perdrix rouge        2014    0        1
+Pipit spioncelle     2013    0        3
+Sarcelle d'hiver     2013    0        5
 

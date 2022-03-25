@@ -1,56 +1,56 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Bruant zizi
-0        Caille des blés
-0        Chevalier guignette
-0        Choucas des tours
-0        Chouette hulotte
-0        Cincle plongeur
-0        Corbeau freux
-0        Coucou gris
-0        Courlis cendré
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hibou moyen-duc
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Mésange boréale
-0        Moineau friquet
-0        Oedicnème criard
-0        Pic cendré
-0        Pic épeichette
-0        Pic mar
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2018    0        4
+Autour des palombes       2012    0        4
+Bécasse des bois          2012    0        2
+Bécassine des marais      2009    0        2
+Bécassine sourde          2012    0        3
+Bergeronnette printanière 2013    0        5
+Bondrée apivore           2008    0        1
+Bouvreuil pivoine         2012    0        8
+Bruant des roseaux        2012    0        2
+Bruant proyer             2013    0        10
+Bruant zizi               2012    0        3
+Caille des blés           2012    0        2
+Chevalier guignette       2015    0        2
+Choucas des tours         2013    0        4
+Chouette hulotte          2017    0        22
+Cincle plongeur           2018    0        8
+Corbeau freux             2012    0        3
+Coucou gris               2018    0        7
+Courlis cendré            2010    0        1
+Effraie des clochers      2014    0        2
+Engoulevent d'Europe      2017    0        1
+Épervier d'Europe         2015    0        5
+Faucon hobereau           2008    0        1
+Fauvette babillarde       2015    0        6
+Gallinule poule-d'eau     2015    0        8
+Gobemouche noir           2015    0        1
+Grand Cormoran            2015    0        5
+Grèbe castagneux          2012    0        3
+Grosbec casse-noyaux      2017    0        13
+Héron cendré              2018    0        16
+Hibou moyen-duc           2012    0        2
+Linotte mélodieuse        2015    0        15
+Locustelle tachetée       2013    0        3
+Mésange boréale           2013    0        5
+Moineau friquet           2012    0        2
+Oedicnème criard          2007    0        4
+Pic cendré                2012    0        2
+Pic épeichette            2013    0        1
+Pic mar                   2012    0        4
+Pic noir                  2018    0        14
+Pie-grièche écorcheur     2013    0        11
+Pipit des arbres          2013    0        5
+Pouillot fitis            2018    0        11
+Roitelet huppé            2012    0        4
+Rossignol philomèle       2016    0        17
+Rougequeue à front blanc  2013    0        4
+Rousserolle effarvatte    2013    0        4
+Serin cini                2013    0        4
+Tarier des prés           2013    0        2
+Tarin des aulnes          2018    0        3
+Torcol fourmilier         2015    0        2
+Traquet motteux           2012    0        1
 

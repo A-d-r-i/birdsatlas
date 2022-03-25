@@ -1,72 +1,72 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette lulu
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bergeronnette printanière
-0        Blongios nain
-0        Bondrée apivore
-0        Bruant zizi
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Canard carolin
-0        Canard mandarin
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Cigogne blanche
-0        Cigogne noire
-0        Crabier chevelu
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fuligule milouin
-0        Gallinule poule-d'eau
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grimpereau des bois
-0        Harle huppé
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Hypolaïs ictérine
-0        Hypolaïs polyglotte
-0        Jaseur boréal
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Mouette rieuse
-0        Ouette d'Egypte
-0        Phragmite des joncs
-0        Pic mar
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rougequeue à front blanc
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Tourterelle turque
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2015    0        7
+Alouette lulu               2015    0        5
+Bécasse des bois            2012    0        1
+Bec-croisé des sapins       2013    0        2
+Bergeronnette des ruisseaux 2015    0        12
+Bergeronnette printanière   2015    0        5
+Blongios nain               2013    0        10
+Bondrée apivore             2012    0        7
+Bruant zizi                 2015    0        3
+Busard des roseaux          2012    0        1
+Busard Saint-Martin         2019    0        5
+Butor étoilé                2012    0        1
+Canard carolin              2014    0        2
+Canard mandarin             2014    0        5
+Canard pilet                2013    0        3
+Canard siffleur             2015    0        5
+Canard souchet              2016    0        2
+Chevalier culblanc          2017    0        10
+Chevalier guignette         2015    0        2
+Chevêche d'Athéna           2012    0        1
+Choucas des tours           2016    0        1
+Chouette hulotte            2013    0        1
+Cigogne blanche             2013    0        1
+Cigogne noire               2013    0        2
+Crabier chevelu             2009    0        1
+Faisan de Colchide          2017    0        3
+Faucon hobereau             2015    0        2
+Faucon pèlerin              2007    0        1
+Fauvette babillarde         2013    0        1
+Fauvette des jardins        2017    0        28
+Fuligule milouin            2012    0        2
+Gallinule poule-d'eau       2015    0        47
+Goéland leucophée           2019    0        18
+Grèbe castagneux            2017    0        5
+Grèbe huppé                 2015    0        2
+Grimpereau des bois         2012    0        1
+Harle huppé                 2017    0        1
+Héron pourpré               2016    0        5
+Hibou moyen-duc             2016    0        2
+Huppe fasciée               2012    0        3
+Hypolaïs ictérine           2014    0        1
+Hypolaïs polyglotte         2015    0        1
+Jaseur boréal               2013    0        1
+Locustelle luscinioïde      2014    0        1
+Locustelle tachetée         2015    0        3
+Marouette ponctuée          2009    0        1
+Mésange boréale             2010    0        2
+Mésange huppée              2014    0        4
+Mésange noire               2014    0        9
+Mouette rieuse              2014    0        1
+Ouette d'Egypte             2019    0        1
+Phragmite des joncs         2012    0        1
+Pic mar                     2015    0        14
+Pigeon biset domestique     2019    0        1
+Pigeon colombin             2012    0        4
+Pinson du Nord              2018    0        4
+Pipit des arbres            2013    0        6
+Pipit farlouse              2016    0        12
+Pouillot de Bonelli         2014    0        1
+Pouillot siffleur           2008    0        1
+Roitelet huppé              2015    0        9
+Rougequeue à front blanc    2018    0        8
+Rousserolle turdoïde        2011    0        2
+Sarcelle d'été              2014    0        5
+Sarcelle d'hiver            2018    0        15
+Torcol fourmilier           2014    0        4
+Tourterelle des bois        2015    0        29
+Tourterelle turque          2012    0        2
 

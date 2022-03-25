@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau minute"
-"0";"Bec-croisé des sapins"
-"0";"Bernache nonnette"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Combattant varié"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Eider à duvet"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland pontique"
-"0";"Inséparable masqué"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Marouette ponctuée"
-"0";"Mésange noire"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Rémiz penduline"
-"0";"Sterne caspienne"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2013,0,8
+Bécasseau minute,2011,0,1
+Bec-croisé des sapins,2017,0,1
+Bernache nonnette,2011,0,1
+Bruant proyer,2009,0,1
+Caille des blés,2017,0,1
+Chevêche d'Athéna,2018,0,2
+Cincle plongeur,2012,0,2
+Combattant varié,2018,0,3
+Cygne chanteur,2019,0,49
+Cygne de Bewick,2011,0,9
+Eider à duvet,2018,0,1
+Goéland argenté,2018,0,1
+Goéland brun,2018,0,3
+Goéland pontique,2017,0,2
+Inséparable masqué,2017,0,1
+Jaseur boréal,2013,0,2
+Locustelle tachetée,2011,0,4
+Macreuse brune,2010,0,2
+Marouette ponctuée,2009,0,1
+Mésange noire,2018,0,4
+Oie à tête barrée,2012,0,1
+Perdrix grise,2017,0,1
+Perdrix rouge,2012,0,2
+Plongeon imbrin,2018,0,53
+Pluvier doré,2013,0,2
+Rémiz penduline,2012,0,1
+Sterne caspienne,2010,0,1
+Tadorne de Belon,2016,0,1

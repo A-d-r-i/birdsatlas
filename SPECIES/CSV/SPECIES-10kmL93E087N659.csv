@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grive draine"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2019,0,1
+Alouette des champs,2015,0,1
+Alouette lulu,2015,0,2
+Autour des palombes,2012,0,2
+Bécasse des bois,2016,0,1
+Bergeronnette des ruisseaux,2015,0,5
+Bergeronnette printanière,2009,0,1
+Bihoreau gris,2011,0,2
+Bondrée apivore,2015,0,3
+Bruant des roseaux,2012,0,2
+Bruant jaune,2017,0,8
+Busard des roseaux,2015,0,1
+Busard Saint-Martin,2012,0,2
+Caille des blés,2009,0,1
+Canard souchet,2015,0,3
+Cygne tuberculé,2015,0,2
+Échasse blanche,2013,0,1
+Faucon hobereau,2015,0,2
+Faucon kobez,2013,0,2
+Fauvette grisette,2015,0,6
+Gobemouche gris,2009,0,1
+Gobemouche noir,2018,0,2
+Grèbe castagneux,2013,0,5
+Grive draine,2016,0,20
+Hirondelle de fenêtre,2017,0,10
+Hypolaïs polyglotte,2012,0,4
+Linotte mélodieuse,2015,0,3
+Mésange noire,2018,0,6
+Moineau friquet,2019,0,13
+Mouette rieuse,2011,0,1
+Perdrix rouge,2012,0,4
+Pic épeichette,2018,0,3
+Pic mar,2017,0,2
+Pic noir,2014,0,4
+Pie-grièche écorcheur,2018,0,9
+Pigeon colombin,2015,0,1
+Pipit des arbres,2014,0,2
+Pipit spioncelle,2012,0,2
+Pouillot fitis,2018,0,4
+Roitelet huppé,2009,0,1
+Rossignol philomèle,2015,0,9
+Sarcelle d'été,2015,0,1
+Sarcelle d'hiver,2015,0,2
+Serin cini,2016,0,4
+Tarier des prés,2014,0,1
+Tourterelle des bois,2015,0,8
+Vanneau huppé,2012,0,2

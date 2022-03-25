@@ -1,23 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécassine double"
-"0";"Bruant mélanocéphale"
-"0";"Combattant varié"
-"0";"Faisan vénéré"
-"0";"Fauvette à lunettes"
-"0";"Goéland leucophée"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Niverolle alpine"
-"0";"Petit Gravelot"
-"0";"Pipit de Richard"
-"0";"Pouillot à grands sourcils"
-"0";"Râle des genêts"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Bécassine double,2015,0,2
+Bruant mélanocéphale,2009,0,1
+Chocard à bec jaune,2018,0,2
+Combattant varié,2013,0,1
+Faisan vénéré,2015,0,1
+Fauvette à lunettes,2016,0,6
+Goéland leucophée,2016,0,1
+Grimpereau des bois,2014,0,1
+Héron pourpré,2013,0,1
+Hibou des marais,2017,0,1
+Hirondelle de rivage,2015,0,2
+Martin-pêcheur d'Europe,2015,0,1
+Mésange boréale,2014,0,1
+Moineau friquet,2010,0,2
+Niverolle alpine,2018,0,6
+Petit Gravelot,2016,0,3
+Pipit de Richard,2016,0,1
+Pouillot à grands sourcils,2017,0,2
+Râle des genêts,2018,0,1
+Rousserolle effarvatte,2018,0,1

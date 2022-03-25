@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Coucou geai"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette babillarde"
-"0";"Héron pourpré"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2014,0,3
+Bouscarle de Cetti,2018,0,1
+Bruant fou,2012,0,2
+Bruant ortolan,2015,0,1
+Chevalier aboyeur,2017,0,2
+Chevalier sylvain,2018,0,1
+Cigogne noire,2017,0,1
+Combattant varié,2018,0,2
+Corneille mantelée,2011,0,1
+Coucou geai,2011,0,1
+Engoulevent d'Europe,2015,0,2
+Fauvette babillarde,2018,0,3
+Héron pourpré,2018,0,4
+Nette rousse,2011,0,1
+Oie cendrée,2018,0,3
+Pie-grièche à tête rousse,2017,0,1
+Pipit à gorge rousse,2016,0,1
+Pipit rousseline,2017,0,6
+Pluvier doré,2012,0,3
+Sterne pierregarin,2017,0,1

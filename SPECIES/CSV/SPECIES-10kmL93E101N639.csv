@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bergeronnette grise"
-"0";"Bruant jaune"
-"0";"Chardonneret élégant"
-"0";"Crave à bec rouge"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Faucon hobereau"
-"0";"Martinet noir"
-"0";"Merle à plastron"
-"0";"Monticole de roche"
-"0";"Niverolle alpine"
-"0";"Pic épeiche"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2016,0,2
+Bergeronnette grise,2014,0,3
+Bruant jaune,2017,0,1
+Chardonneret élégant,2014,0,1
+Crave à bec rouge,2015,0,10
+Épervier d'Europe,2017,0,1
+Faucon crécerelle,2015,0,8
+Faucon hobereau,2017,0,1
+Martinet noir,2017,0,2
+Merle à plastron,2017,0,1
+Monticole de roche,2011,0,2
+Niverolle alpine,2017,0,19
+Pic épeiche,2013,0,1
+Tarier des prés,2017,0,2
+Tichodrome échelette,2017,0,3

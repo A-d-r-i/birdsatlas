@@ -1,48 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bruant fou
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chouette hulotte
-0        Échasse blanche
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon kobez
-0        Fauvette orphée
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grand Cormoran
-0        Grive litorne
-0        Grive mauvis
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Mésange nonnette
-0        Milan noir
-0        Moineau domestique
-0        Monticole de roche
-0        Petit-duc scops
-0        Pic épeiche
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pouillot véloce
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Traquet motteux
-0        Troglodyte mignon
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2016    0        23
+Alouette lulu             2017    0        38
+Autour des palombes       2017    0        6
+Bécasse des bois          2013    0        1
+Bec-croisé des sapins     2013    0        5
+Bergeronnette printanière 2014    0        1
+Bruant fou                2014    0        9
+Busard des roseaux        2014    0        3
+Busard Saint-Martin       2014    0        1
+Caille des blés           2009    0        2
+Chouette hulotte          2017    0        19
+Échasse blanche           2014    0        1
+Faisan de Colchide        2014    0        3
+Faucon hobereau           2016    0        5
+Faucon kobez              2015    0        1
+Fauvette orphée           2013    0        2
+Gallinule poule-d'eau     2014    0        1
+Gobemouche noir           2013    0        1
+Grand Cormoran            2017    0        2
+Grive litorne             2018    0        9
+Grive mauvis              2017    0        3
+Grive musicienne          2013    0        4
+Grosbec casse-noyaux      2010    0        1
+Héron cendré              2017    0        2
+Hibou moyen-duc           2009    0        1
+Hypolaïs polyglotte       2009    0        1
+Mésange nonnette          2017    0        5
+Milan noir                2016    0        4
+Moineau domestique        2018    0        1
+Monticole de roche        2009    0        1
+Petit-duc scops           2016    0        6
+Pic épeiche               2017    0        10
+Pie-grièche à tête rousse 2014    0        2
+Pie-grièche méridionale   2014    0        2
+Pinson du Nord            2010    0        1
+Pipit des arbres          2015    0        1
+Pipit rousseline          2009    0        1
+Pouillot véloce           2016    0        18
+Roitelet huppé            2009    0        1
+Rollier d'Europe          2014    0        8
+Traquet motteux           2014    0        5
+Troglodyte mignon         2016    0        21
+Venturon montagnard       2015    0        2
 

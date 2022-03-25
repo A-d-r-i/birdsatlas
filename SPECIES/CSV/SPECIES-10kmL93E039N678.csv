@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécassine sourde"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bruant des roseaux"
-"0";"Chevalier sylvain"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Érismature rousse"
-"0";"Faisan vénéré"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Macreuse brune"
-"0";"Oie rieuse"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2016,0,3
+Barge à queue noire,2018,0,4
+Barge rousse,2010,0,1
+Bécassine sourde,2009,0,1
+Bernache cravant,2017,0,2
+Bernache du Canada,2018,0,3
+Bruant des roseaux,2009,0,3
+Chevalier sylvain,2009,0,3
+Courlis cendré,2010,0,3
+Courlis corlieu,2010,0,1
+Érismature rousse,2018,0,65
+Faisan vénéré,2009,0,1
+Fuligule milouinan,2012,0,2
+Fuligule nyroca,2012,0,6
+Guifette leucoptère,2018,0,2
+Harle bièvre,2009,0,2
+Hibou moyen-duc,2018,0,6
+Macreuse brune,2007,0,1
+Oie rieuse,2018,0,2
+Râle d'eau,2015,0,1
+Rousserolle effarvatte,2009,0,3
+Serin cini,2009,0,1
+Tadorne casarca,2009,0,6

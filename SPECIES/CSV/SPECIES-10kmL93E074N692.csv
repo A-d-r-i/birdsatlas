@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette des champs"
-"0";"Bergeronnette printanière"
-"0";"Blongios nain"
-"0";"Bouscarle de Cetti"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Chouette hulotte"
-"0";"Faucon hobereau"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand Corbeau"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rustique"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Moineau domestique"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2019,0,5
+Alouette des champs,2013,0,4
+Bergeronnette printanière,2014,0,5
+Blongios nain,2009,0,1
+Bouscarle de Cetti,2018,0,3
+Bruant jaune,2009,0,2
+Bruant zizi,2009,0,1
+Chevalier aboyeur,2013,0,1
+Chevalier guignette,2014,0,4
+Chouette hulotte,2009,0,2
+Faucon hobereau,2018,0,5
+Gobemouche gris,2009,0,1
+Goéland brun,2016,0,2
+Goéland cendré,2009,0,1
+Goéland leucophée,2009,0,1
+Grand Corbeau,2008,0,1
+Grèbe à cou noir,2018,0,4
+Grive litorne,2017,0,2
+Grosbec casse-noyaux,2009,0,1
+Harle piette,2019,0,1
+Hibou des marais,2018,0,2
+Hirondelle de fenêtre,2015,0,4
+Hirondelle de rivage,2013,0,4
+Hirondelle rustique,2016,0,9
+Martinet noir,2016,0,2
+Mésange boréale,2009,0,1
+Mésange noire,2017,0,1
+Moineau domestique,2019,0,7
+Moineau friquet,2009,0,2
+Oie cendrée,2019,0,2
+Phragmite des joncs,2015,0,2
+Pie-grièche grise,2017,0,2
+Pipit des arbres,2009,0,1
+Pouillot fitis,2015,0,2
+Rousserolle turdoïde,2016,0,1
+Rousserolle verderolle,2009,0,1
+Tourterelle turque,2017,0,4

@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Grand Corbeau"
-"0";"Héron cendré"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Monticole bleu"
-"0";"Pic noir"
-"0";"Pouillot ibérique"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle royal,2010,0,2
+Épervier d'Europe,2010,0,1
+Faucon hobereau,2010,0,1
+Grand Corbeau,2010,0,2
+Héron cendré,2010,0,1
+Milan noir,2010,0,2
+Milan royal,2015,0,3
+Monticole bleu,2016,0,1
+Pic noir,2009,0,2
+Pouillot ibérique,2011,0,1
+Vautour fauve,2015,0,2

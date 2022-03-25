@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bondrée apivore
-0        Canard souchet
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Chevêchette d'Europe
-0        Chouette hulotte
-0        Cigogne noire
-0        Corbeau freux
-0        Cygne tuberculé
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Garrot à oeil d'or
-0        Gélinotte des bois
-0        Gobemouche noir
-0        Goéland cendré
-0        Grand Tétras
-0        Hibou moyen-duc
-0        Mouette rieuse
-0        Pic mar
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot fitis
-0        Sarcelle d'hiver
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Tarier des prés
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette des champs   2012    0        1
+Bécasse des bois      2017    0        13
+Bécassine sourde      2018    0        1
+Bondrée apivore       2014    0        3
+Canard souchet        2011    0        4
+Chevalier guignette   2012    0        3
+Chevêche d'Athéna     2013    0        1
+Chevêchette d'Europe  2017    0        23
+Chouette hulotte      2018    0        16
+Cigogne noire         2014    0        1
+Corbeau freux         2016    0        4
+Cygne tuberculé       2017    0        24
+Faucon pèlerin        2017    0        5
+Gallinule poule-d'eau 2019    0        2
+Garrot à oeil d'or    2013    0        2
+Gélinotte des bois    2009    0        1
+Gobemouche noir       2012    0        1
+Goéland cendré        2012    0        2
+Grand Tétras          2012    0        6
+Hibou moyen-duc       2012    0        2
+Mouette rieuse        2018    0        6
+Pic mar               2013    0        6
+Pie-grièche grise     2012    0        1
+Pipit des arbres      2012    0        4
+Pipit farlouse        2012    0        1
+Pouillot fitis        2018    0        5
+Sarcelle d'hiver      2017    0        9
+Sizerin cabaret       2009    0        1
+Sizerin flammé        2011    0        3
+Tadorne de Belon      2013    0        1
+Tarier des prés       2007    0        1
+Torcol fourmilier     2011    0        1
 

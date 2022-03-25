@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Chevêchette d'Europe"
-"0";"Choucas des tours"
-"0";"Chouette de Tengmalm"
-"0";"Cisticole des joncs"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Moineau soulcie"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pipit farlouse"
-"0";"Pluvier guignard"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,4
+Bécasse des bois,2018,0,1
+Bruant des neiges,2014,0,2
+Bruant des roseaux,2015,0,2
+Busard des roseaux,2018,0,2
+Busard Saint-Martin,2016,0,6
+Chevalier culblanc,2016,0,1
+Chevêchette d'Europe,2016,0,8
+Choucas des tours,2008,0,2
+Chouette de Tengmalm,2017,0,2
+Cisticole des joncs,2017,0,2
+Engoulevent d'Europe,2013,0,2
+Faucon kobez,2008,0,1
+Grand Cormoran,2016,0,1
+Grand-duc d'Europe,2009,0,1
+Hibou moyen-duc,2015,0,9
+Hirondelle de rivage,2010,0,1
+Huppe fasciée,2016,0,5
+Loriot d'Europe,2012,0,1
+Moineau soulcie,2014,0,1
+Perdrix grise,2014,0,3
+Petit-duc scops,2013,0,1
+Pic épeichette,2013,0,4
+Pipit farlouse,2018,0,5
+Pluvier guignard,2018,0,1
+Pouillot fitis,2013,0,2
+Pouillot siffleur,2012,0,3
+Râle des genêts,2015,0,1
+Rollier d'Europe,2015,0,1
+Rousserolle effarvatte,2011,0,1

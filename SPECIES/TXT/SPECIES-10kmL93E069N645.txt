@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bernache nonnette
-0        Busard cendré
-0        Canard chipeau
-0        Canard siffleur
-0        Cassenoix moucheté
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Combattant varié
-0        Corbeau freux
-0        Courlis cendré
-0        Crabier chevelu
-0        Échasse blanche
-0        Faucon kobez
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Guifette leucoptère
-0        Hibou des marais
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Marouette ponctuée
-0        Nette rousse
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Pipit rousseline
-0        Pluvier argenté
-0        Rémiz penduline
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Sterne pierregarin
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau minute       2007    0        2
+Bécasseau variable     2011    0        2
+Bernache nonnette      2012    0        2
+Busard cendré          2015    0        3
+Canard chipeau         2018    0        14
+Canard siffleur        2018    0        30
+Cassenoix moucheté     2012    0        1
+Chevalier sylvain      2018    0        3
+Chevêche d'Athéna      2015    0        5
+Cigogne blanche        2011    0        2
+Cisticole des joncs    2018    0        6
+Combattant varié       2009    0        1
+Corbeau freux          2012    0        2
+Courlis cendré         2015    0        1
+Crabier chevelu        2013    0        1
+Échasse blanche        2018    0        1
+Faucon kobez           2017    0        1
+Fuligule morillon      2016    0        11
+Garrot à oeil d'or     2011    0        3
+Gorgebleue à miroir    2010    0        1
+Grand Gravelot         2012    0        1
+Guifette leucoptère    2011    0        1
+Hibou des marais       2016    0        1
+Locustelle tachetée    2011    0        4
+Loriot d'Europe        2013    0        1
+Marouette ponctuée     2009    0        3
+Nette rousse           2017    0        18
+Phragmite des joncs    2013    0        1
+Pigeon colombin        2014    0        5
+Pipit rousseline       2010    0        1
+Pluvier argenté        2013    0        1
+Rémiz penduline        2015    0        1
+Rousserolle effarvatte 2018    0        3
+Rousserolle turdoïde   2017    0        1
+Sterne pierregarin     2010    0        1
+Vanneau huppé          2018    0        7
 

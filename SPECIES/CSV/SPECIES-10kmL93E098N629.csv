@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Accenteur mouchet"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Hirondelle de fenêtre"
-"0";"Martinet à ventre blanc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Monticole de roche"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Accenteur mouchet,2017,0,4
+Bécasse des bois,2017,0,3
+Bec-croisé des sapins,2017,0,30
+Bergeronnette printanière,2007,0,1
+Bihoreau gris,2011,0,3
+Busard cendré,2014,0,3
+Busard des roseaux,2016,0,5
+Busard Saint-Martin,2012,0,3
+Canard colvert,2013,0,2
+Chevêche d'Athéna,2014,0,4
+Cincle plongeur,2017,0,10
+Faucon pèlerin,2018,0,7
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2013,0,2
+Grand Cormoran,2013,0,3
+Grèbe castagneux,2013,0,2
+Hirondelle de fenêtre,2017,0,13
+Martinet à ventre blanc,2014,0,16
+Martin-pêcheur d'Europe,2015,0,4
+Moineau friquet,2018,0,2
+Monticole de roche,2007,0,1
+Oedicnème criard,2012,0,2
+Pic épeichette,2013,0,4
+Pie-grièche à tête rousse,2014,0,2
+Pie-grièche méridionale,2016,0,2
+Pigeon biset domestique,2017,0,1
+Pinson du Nord,2017,0,1
+Pipit des arbres,2007,0,1
+Tichodrome échelette,2016,0,5
+Torcol fourmilier,2018,0,6

@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Cygne chanteur"
-"0";"Flamant des Caraïbes"
-"0";"Fuligule milouinan"
-"0";"Guifette noire"
-"0";"Huppe fasciée"
-"0";"Linotte à bec jaune"
-"0";"Macreuse noire"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Pipit de Richard"
-"0";"Pouillot à grands sourcils"
-"0";"Râle des genêts"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Sterne naine"
-"0";"Talève sultane"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2017,0,2
+Bernache du Canada,2018,0,3
+Bernache nonnette,2018,0,4
+Cygne chanteur,2018,0,1
+Flamant des Caraïbes,2017,0,1
+Fuligule milouinan,2017,0,3
+Guifette noire,2017,0,3
+Huppe fasciée,2018,0,1
+Linotte à bec jaune,2009,0,1
+Macreuse noire,2008,0,1
+Mésange huppée,2018,0,2
+Milan royal,2018,0,1
+Mouette tridactyle,2018,0,1
+Nette rousse,2009,0,1
+Pipit de Richard,2018,0,1
+Pouillot à grands sourcils,2017,0,1
+Râle des genêts,2009,0,1
+Roitelet huppé,2017,0,2
+Rousserolle turdoïde,2009,0,1
+Sterne naine,2018,0,2
+Talève sultane,2017,0,5

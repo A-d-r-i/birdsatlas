@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bernache du Canada"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe castagneux"
-"0";"Hibou des marais"
-"0";"Mésange boréale"
-"0";"Mouette tridactyle"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot ibérique"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,3
+Bernache du Canada,2011,0,4
+Chevalier culblanc,2013,0,1
+Cigogne blanche,2018,0,7
+Cincle plongeur,2018,0,6
+Courlis cendré,2016,0,8
+Gorgebleue à miroir,2009,0,1
+Grèbe castagneux,2011,0,2
+Hibou des marais,2017,0,2
+Mésange boréale,2011,0,2
+Mouette tridactyle,2009,0,1
+Petit-duc scops,2015,0,2
+Petit Gravelot,2009,0,1
+Pie-grièche à tête rousse,2015,0,2
+Pipit spioncelle,2017,0,6
+Pluvier doré,2016,0,5
+Pouillot ibérique,2018,0,1
+Tichodrome échelette,2016,0,1

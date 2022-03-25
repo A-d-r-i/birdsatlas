@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette haussecol"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Bruant lapon"
-"0";"Busard cendré"
-"0";"Chevalier arlequin"
-"0";"Eider à duvet"
-"0";"Fuligule milouin"
-"0";"Fulmar boréal"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange nonnette"
-"0";"Mouette pygmée"
-"0";"Oedicnème criard"
-"0";"Oie des moissons"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Alouette haussecol,2014,0,1
+Bécasseau de Temminck,2015,0,1
+Bécassine sourde,2016,0,13
+Bernache du Canada,2018,0,1
+Bruant lapon,2016,0,2
+Busard cendré,2016,0,1
+Chevalier arlequin,2018,0,3
+Eider à duvet,2013,0,1
+Fuligule milouin,2015,0,1
+Fulmar boréal,2015,0,1
+Guifette noire,2016,0,4
+Hibou moyen-duc,2012,0,1
+Hirondelle de rivage,2018,0,2
+Mésange nonnette,2015,0,1
+Mouette pygmée,2014,0,1
+Oedicnème criard,2016,0,1
+Oie des moissons,2011,0,1
+Pic épeichette,2018,0,3
+Pipit des arbres,2011,0,7
+Pouillot fitis,2016,0,2
+Râle d'eau,2014,0,2
+Râle des genêts,2017,0,2
+Sarcelle d'hiver,2018,0,4

@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Cochevis huppé"
-"0";"Étourneau unicolore"
-"0";"Faucon émerillon"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Oedicnème criard"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,5
+Bruant jaune,2017,0,3
+Busard cendré,2009,0,1
+Caille des blés,2017,0,2
+Chevalier guignette,2015,0,1
+Cincle plongeur,2016,0,1
+Cochevis huppé,2009,0,1
+Étourneau unicolore,2018,0,1
+Faucon émerillon,2018,0,2
+Fauvette passerinette,2015,0,1
+Fauvette pitchou,2015,0,1
+Foulque macroule,2015,0,1
+Grand Cormoran,2018,0,3
+Grèbe castagneux,2016,0,2
+Hirondelle de rivage,2009,0,1
+Hirondelle de rochers,2018,0,6
+Oedicnème criard,2018,0,1
+Pipit des arbres,2018,0,4
+Pouillot de Bonelli,2018,0,1
+Pouillot fitis,2015,0,1
+Rousserolle effarvatte,2017,0,2
+Sizerin cabaret,2015,0,1
+Sizerin flammé,2015,0,1
+Tarier des prés,2009,0,1
+Torcol fourmilier,2017,0,1
+Vanneau huppé,2014,0,2

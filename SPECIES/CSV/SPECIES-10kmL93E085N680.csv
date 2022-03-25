@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Busard cendré"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cygne tuberculé"
-"0";"Faisan de Colchide"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,5
+Bécassine des marais,2010,0,2
+Busard cendré,2018,0,27
+Buse pattue,2014,0,1
+Canard carolin,2016,0,1
+Chevalier guignette,2014,0,1
+Chevêche d'Athéna,2018,0,3
+Cygne tuberculé,2017,0,3
+Faisan de Colchide,2017,0,1
+Gobemouche gris,2018,0,2
+Gobemouche noir,2016,0,1
+Grèbe castagneux,2017,0,1
+Grèbe huppé,2017,0,1
+Hibou des marais,2018,0,1
+Hibou moyen-duc,2015,0,3
+Hirondelle de rivage,2013,0,6
+Mésange noire,2018,0,12
+Mouette rieuse,2013,0,4
+Oie cendrée,2017,0,1
+Pie-grièche grise,2014,0,1
+Pipit spioncelle,2014,0,1
+Pouillot de Bonelli,2016,0,1
+Rousserolle effarvatte,2014,0,3

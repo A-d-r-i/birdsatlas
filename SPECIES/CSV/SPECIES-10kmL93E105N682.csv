@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Bruant des neiges"
-"0";"Bruant ortolan"
-"0";"Butor étoilé"
-"0";"Chevalier arlequin"
-"0";"Choucas des tours"
-"0";"Cygne de Bewick"
-"0";"Eider à duvet"
-"0";"Érismature rousse"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Goéland marin"
-"0";"Harelde boréale"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Labbe à longue queue"
-"0";"Labbe parasite"
-"0";"Moineau friquet"
-"0";"Morillon à tête rouge"
-"0";"Mouette de Sabine"
-"0";"Mouette tridactyle"
-"0";"Phragmite des joncs"
-"0";"Pipit des arbres"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Serin cini"
-"0";"Sterne naine"
-"0";"Tarier des prés"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Barge rousse,2013,0,6
+Bécasseau cocorli,2014,0,18
+Bécasseau de Temminck,2008,0,1
+Bécasseau maubèche,2017,0,6
+Bécasseau minute,2017,0,4
+Bécasseau sanderling,2017,0,2
+Bécassine sourde,2007,0,1
+Bec-croisé des sapins,2010,0,1
+Bernache cravant,2010,0,2
+Bernache nonnette,2016,0,4
+Bruant des neiges,2014,0,10
+Bruant ortolan,2015,0,1
+Butor étoilé,2013,0,3
+Chevalier arlequin,2018,0,11
+Choucas des tours,2017,0,2
+Cygne de Bewick,2015,0,12
+Eider à duvet,2018,0,2
+Érismature rousse,2008,0,3
+Faisan vénéré,2019,0,2
+Fauvette babillarde,2017,0,1
+Goéland marin,2010,0,5
+Harelde boréale,2017,0,70
+Hibou moyen-duc,2018,0,4
+Hypolaïs ictérine,2013,0,19
+Jaseur boréal,2010,0,2
+Labbe à longue queue,2012,0,5
+Labbe parasite,2018,0,48
+Moineau friquet,2009,0,2
+Morillon à tête rouge,2017,0,12
+Mouette de Sabine,2007,0,5
+Mouette tridactyle,2009,0,2
+Phragmite des joncs,2013,0,1
+Pipit des arbres,2015,0,6
+Pluvier argenté,2008,0,2
+Pouillot siffleur,2015,0,3
+Rémiz penduline,2008,0,3
+Serin cini,2017,0,6
+Sterne naine,2014,0,6
+Tarier des prés,2017,0,4
+Tournepierre à collier,2015,0,4

@@ -1,36 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasse des bois
-0        Bruant fou
-0        Canard à collier noir
-0        Canard carolin
-0        Canard chipeau
-0        Canard mandarin
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier sylvain
-0        Cochevis huppé
-0        Corbeau freux
-0        Coucou geai
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Fauvette passerinette
-0        Grive mauvis
-0        Héron pourpré
-0        Hirondelle de rochers
-0        Ibis falcinelle
-0        Locustelle tachetée
-0        Mésange nonnette
-0        Moineau friquet
-0        Oie à tête barrée
-0        Oie des moissons
-0        Pic mar
-0        Roitelet huppé
-0        Sarcelle d'été
-0        Tadorne casarca
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Barge à queue noire   2012    0        1
+Bécasse des bois      2017    0        14
+Bruant fou            2017    0        9
+Canard à collier noir 2017    0        1
+Canard carolin        2015    0        1
+Canard chipeau        2018    0        4
+Canard mandarin       2015    0        2
+Canard pilet          2018    0        2
+Canard siffleur       2018    0        6
+Chevalier sylvain     2018    0        2
+Cochevis huppé        2011    0        1
+Corbeau freux         2012    0        2
+Coucou geai           2011    0        1
+Courlis cendré        2018    0        1
+Engoulevent d'Europe  2018    0        14
+Faucon émerillon      2019    0        2
+Fauvette des jardins  2017    0        1
+Fauvette passerinette 2017    0        2
+Grive mauvis          2015    0        7
+Héron pourpré         2017    0        2
+Hirondelle de rochers 2017    0        1
+Ibis falcinelle       2018    0        1
+Locustelle tachetée   2015    0        1
+Mésange nonnette      2016    0        2
+Moineau friquet       2012    0        2
+Oie à tête barrée     2015    0        1
+Oie des moissons      2017    0        7
+Roitelet huppé        2015    0        3
+Sarcelle d'été        2017    0        1
+Tadorne casarca       2011    0        1
+Torcol fourmilier     2017    0        1
 

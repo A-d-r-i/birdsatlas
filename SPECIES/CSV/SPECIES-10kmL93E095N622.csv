@@ -1,60 +1,58 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette monticole"
-"0";"Bécasseau à cou roux"
-"0";"Bécasseau de Baird"
-"0";"Bécasseau rousset"
-"0";"Bécasse des bois"
-"0";"Bergeronnette citrine"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Bruant lapon"
-"0";"Bulbul orphée"
-"0";"Busard pâle"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Chevêche d'Athéna"
-"0";"Cygne de Bewick"
-"0";"Dendrocygne à ventre noir"
-"0";"Dendrocygne fauve"
-"0";"Eider à duvet"
-"0";"Élanion blanc"
-"0";"Fauvette orphée"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Gobemouche nain"
-"0";"Goéland cendré"
-"0";"Grand Labbe"
-"0";"Grèbe jougris"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Inséparable de Fischer"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Locustelle luscinioïde"
-"0";"Macreuse brune"
-"0";"Macreuse noire"
-"0";"Mouette de Franklin"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Outarde canepetière"
-"0";"Panure à moustaches"
-"0";"Perdrix rouge"
-"0";"Perroquet jaco"
-"0";"Phalarope à bec large"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche isabelle"
-"0";"Pie-grièche méridionale"
-"0";"Pingouin torda"
-"0";"Pluvier fauve"
-"0";"Puffin cendré"
-"0";"Puffin de Scopoli"
-"0";"Râle des genêts"
-"0";"Roselin cramoisi"
-"0";"Rousserolle isabelle"
-"0";"Sittelle torchepot"
-"0";"Sterne voyageuse"
-"0";"Traquet du désert"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,16
+Alouette monticole,2015,0,2
+Bécasseau à cou roux,2018,0,32
+Bécasseau de Baird,2016,0,2
+Bécasseau rousset,2015,0,1
+Bécasse des bois,2018,0,2
+Bergeronnette citrine,2015,0,2
+Bouvreuil pivoine,2017,0,8
+Bruant jaune,2012,0,4
+Bruant lapon,2012,0,7
+Bulbul orphée,2011,0,1
+Busard pâle,2018,0,3
+Canard carolin,2015,0,17
+Canard des Bahamas,2011,0,6
+Chevêche d'Athéna,2015,0,4
+Cygne de Bewick,2018,0,7
+Dendrocygne à ventre noir,2016,0,1
+Dendrocygne fauve,2014,0,1
+Eider à duvet,2012,0,4
+Élanion blanc,2015,0,1
+Fauvette orphée,2009,0,1
+Fuligule milouinan,2018,0,8
+Fuligule morillon,2019,0,7
+Fuligule nyroca,2018,0,17
+Gobemouche nain,2017,0,2
+Goéland cendré,2018,0,4
+Grand Labbe,2016,0,2
+Grèbe jougris,2015,0,14
+Harle bièvre,2013,0,27
+Harle piette,2012,0,27
+Inséparable de Fischer,2016,0,1
+Labbe parasite,2013,0,7
+Labbe pomarin,2014,0,1
+Locustelle luscinioïde,2018,0,11
+Macreuse brune,2010,0,8
+Macreuse noire,2011,0,1
+Mouette de Franklin,2014,0,3
+Oie rieuse,2010,0,2
+Ouette d'Egypte,2013,0,6
+Outarde canepetière,2018,0,16
+Panure à moustaches,2017,0,8
+Perdrix rouge,2018,0,2
+Perroquet jaco,2018,0,1
+Phalarope à bec large,2015,0,4
+Pie-grièche grise,2010,0,1
+Pie-grièche isabelle,2015,0,1
+Pie-grièche méridionale,2010,0,2
+Pingouin torda,2016,0,24
+Pluvier fauve,2014,0,1
+Puffin cendré,2009,0,1
+Puffin de Scopoli,2017,0,18
+Râle des genêts,2014,0,1
+Roselin cramoisi,2018,0,2
+Rousserolle isabelle,2014,0,1
+Sittelle torchepot,2017,0,3
+Sterne voyageuse,2016,0,2
+Traquet du désert,2015,0,1

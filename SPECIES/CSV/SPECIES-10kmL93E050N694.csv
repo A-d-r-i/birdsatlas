@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Busard des roseaux"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Grèbe castagneux"
-"0";"Héron garde-boeufs"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Roitelet huppé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bergeronnette des ruisseaux,2009,0,1
+Busard des roseaux,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2009,0,1
+Grèbe castagneux,2009,0,1
+Héron garde-boeufs,2018,0,1
+Mésange huppée,2009,0,1
+Mésange noire,2019,0,1
+Milan royal,2019,0,1
+Moineau friquet,2015,0,1
+Roitelet huppé,2009,0,2
+Tourterelle des bois,2009,0,1

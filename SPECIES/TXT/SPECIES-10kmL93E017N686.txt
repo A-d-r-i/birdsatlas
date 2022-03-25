@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasseau tacheté
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bernache du Canada
-0        Busard Saint-Martin
-0        Cygne noir
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Fuligule morillon
-0        Fulmar boréal
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Grèbe à cou noir
-0        Grèbe esclavon
-0        Grosbec casse-noyaux
-0        Guifette noire
-0        Harle bièvre
-0        Héron pourpré
-0        Labbe parasite
-0        Labbe pomarin
-0        Marouette ponctuée
-0        Merle à plastron
-0        Mésange noire
-0        Moineau friquet
-0        Oie à tête barrée
-0        Oie des moissons
-0        Perdrix grise
-0        Phragmite aquatique
-0        Rémiz penduline
-0        Rougequeue à front blanc
-0        Sterne arctique
-0        Tadorne casarca
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bécasseau cocorli        2018    0        10
+Bécasseau tacheté        2011    0        3
+Bécasse des bois         2018    0        7
+Bécassine sourde         2018    0        4
+Bernache du Canada       2007    0        1
+Busard Saint-Martin      2019    0        2
+Cygne noir               2007    0        1
+Fauvette pitchou         2016    0        6
+Fuligule milouin         2013    0        2
+Fuligule morillon        2018    0        3
+Fulmar boréal            2014    0        1
+Goéland à ailes blanches 2018    0        1
+Goéland bourgmestre      2018    0        3
+Grèbe à cou noir         2015    0        5
+Grèbe esclavon           2019    0        1
+Grosbec casse-noyaux     2018    0        2
+Guifette noire           2017    0        1
+Harle bièvre             2018    0        1
+Héron pourpré            2016    0        4
+Labbe parasite           2015    0        7
+Labbe pomarin            2014    0        2
+Marouette ponctuée       2018    0        13
+Merle à plastron         2014    0        2
+Mésange noire            2018    0        1
+Moineau friquet          2014    0        1
+Oie à tête barrée        2009    0        1
+Oie des moissons         2015    0        1
+Perdrix grise            2018    0        4
+Phragmite aquatique      2016    0        1
+Rémiz penduline          2017    0        14
+Rougequeue à front blanc 2017    0        1
+Sterne arctique          2015    0        2
+Tadorne casarca          2017    0        7
 

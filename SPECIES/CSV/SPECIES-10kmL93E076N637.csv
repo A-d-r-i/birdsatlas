@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bruant des neiges"
-"0";"Busard des roseaux"
-"0";"Chevalier sylvain"
-"0";"Cigogne blanche"
-"0";"Élanion blanc"
-"0";"Faisan de Colchide"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette passerinette"
-"0";"Gobemouche noir"
-"0";"Grande Aigrette"
-"0";"Grand Tétras"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,1
+Bruant des neiges,2012,0,3
+Busard des roseaux,2018,0,1
+Chevalier sylvain,2017,0,1
+Cigogne blanche,2018,0,1
+Élanion blanc,2017,0,1
+Faisan de Colchide,2016,0,3
+Faucon d'Eléonore,2012,0,1
+Fauvette passerinette,2015,0,2
+Gobemouche noir,2017,0,7
+Grande Aigrette,2018,0,1
+Grand Tétras,2015,0,95
+Héron pourpré,2014,0,1
+Locustelle tachetée,2013,0,1
+Pipit rousseline,2018,0,3
+Pouillot de Bonelli,2018,0,3
+Pouillot fitis,2018,0,2
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Tichodrome échelette,2015,0,2

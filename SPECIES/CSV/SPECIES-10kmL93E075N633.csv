@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier guignette"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Étourneau sansonnet"
-"0";"Faisan de Colchide"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Fauvette mélanocéphale"
-"0";"Grand Cormoran"
-"0";"Grive mauvis"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Monticole de roche"
-"0";"Nette rousse"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,7
+Aigle botté,2015,0,3
+Autour des palombes,2016,0,9
+Bécasse des bois,2018,0,7
+Bécassine sourde,2008,0,1
+Bruant des roseaux,2012,0,1
+Bruant jaune,2013,0,1
+Bruant ortolan,2009,0,3
+Busard cendré,2012,0,2
+Busard des roseaux,2016,0,20
+Busard Saint-Martin,2015,0,9
+Chevalier guignette,2013,0,1
+Chouette de Tengmalm,2013,0,5
+Cigogne noire,2012,0,1
+Engoulevent d'Europe,2016,0,3
+Étourneau sansonnet,2015,0,10
+Faisan de Colchide,2015,0,1
+Faucon d'Eléonore,2016,0,8
+Faucon émerillon,2015,0,2
+Fauvette mélanocéphale,2017,0,6
+Grand Cormoran,2015,0,12
+Grive mauvis,2018,0,13
+Huppe fasciée,2013,0,2
+Loriot d'Europe,2014,0,3
+Martinet à ventre blanc,2017,0,7
+Merle à plastron,2016,0,4
+Monticole de roche,2018,0,17
+Nette rousse,2012,0,1
+Pigeon biset domestique,2016,0,3
+Pigeon colombin,2012,0,1
+Pipit rousseline,2007,0,1
+Pouillot fitis,2017,0,3
+Tichodrome échelette,2016,0,1
+Torcol fourmilier,2015,0,2
+Tourterelle des bois,2014,0,1
+Vautour moine,2014,0,1

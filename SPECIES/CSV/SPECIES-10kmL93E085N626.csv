@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bruant fou"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Etourneau roselin"
-"0";"Faucon émerillon"
-"0";"Fauvette à lunettes"
-"0";"Fauvette des jardins"
-"0";"Fuligule morillon"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Hirondelle de rochers"
-"0";"Macreuse brune"
-"0";"Marouette poussin"
-"0";"Merle à plastron"
-"0";"Panure à moustaches"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Pingouin torda"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Pluvier argenté"
-"0";"Sterne caspienne"
-"0";"Sterne hansel"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2011,0,9
+Barge rousse,2016,0,4
+Bécasseau maubèche,2018,0,4
+Bécasseau sanderling,2008,0,1
+Bécassine sourde,2015,0,3
+Bruant fou,2017,0,1
+Bruant zizi,2018,0,4
+Caille des blés,2013,0,2
+Cigogne noire,2016,0,3
+Combattant varié,2011,0,1
+Courlis cendré,2016,0,8
+Cygne noir,2010,0,1
+Effraie des clochers,2019,0,7
+Eider à duvet,2008,0,2
+Etourneau roselin,2013,0,1
+Faucon émerillon,2018,0,23
+Fauvette à lunettes,2009,0,2
+Fauvette des jardins,2013,0,1
+Fuligule morillon,2015,0,7
+Goéland brun,2016,0,1
+Goéland cendré,2017,0,1
+Grèbe esclavon,2016,0,1
+Grèbe jougris,2016,0,44
+Grive draine,2014,0,1
+Grosbec casse-noyaux,2018,0,3
+Guifette moustac,2008,0,1
+Harle bièvre,2013,0,6
+Hirondelle de rochers,2010,0,1
+Macreuse brune,2017,0,4
+Marouette poussin,2015,0,1
+Merle à plastron,2017,0,1
+Panure à moustaches,2015,0,4
+Phalarope à bec étroit,2013,0,1
+Phalarope à bec large,2009,0,1
+Pingouin torda,2007,0,1
+Pipit spioncelle,2018,0,7
+Plongeon arctique,2010,0,2
+Pluvier argenté,2018,0,11
+Sterne caspienne,2018,0,1
+Sterne hansel,2018,0,4
+Traquet oreillard,2018,0,2

@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Busard cendré"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Crabier chevelu"
-"0";"Cygne tuberculé"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2011,0,1
+Aigle botté,2018,0,1
+Aigrette garzette,2008,0,1
+Autour des palombes,2009,0,2
+Bécassine sourde,2017,0,1
+Bec-croisé des sapins,2010,0,2
+Bergeronnette printanière,2011,0,1
+Busard cendré,2018,0,1
+Cigogne blanche,2010,0,1
+Cigogne noire,2013,0,1
+Crabier chevelu,2008,0,1
+Cygne tuberculé,2016,0,6
+Faucon d'Eléonore,2015,0,16
+Faucon kobez,2008,0,2
+Gallinule poule-d'eau,2018,0,9
+Grèbe castagneux,2017,0,3
+Grosbec casse-noyaux,2018,0,8
+Hirondelle de rivage,2018,0,1
+Moineau friquet,2016,0,2
+Torcol fourmilier,2011,0,1

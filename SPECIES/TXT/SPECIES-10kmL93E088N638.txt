@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Busard cendré
-0        Choucas des tours
-0        Étourneau sansonnet
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Grimpereau des bois
-0        Huppe fasciée
-0        Merle à plastron
-0        Mésange boréale
-0        Monticole bleu
-0        Perdrix grise
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pouillot fitis
-0        Rollier d'Europe
-0        Tichodrome échelette
-0        Tourterelle turque
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2018    0        5
+Bec-croisé des sapins     2017    0        14
+Bruant des roseaux        2016    0        1
+Busard cendré             2014    0        1
+Choucas des tours         2015    0        1
+Étourneau sansonnet       2018    0        3
+Faucon émerillon          2016    0        1
+Faucon pèlerin            2017    0        8
+Fauvette babillarde       2016    0        2
+Fauvette des jardins      2016    0        1
+Grimpereau des bois       2015    0        1
+Huppe fasciée             2018    0        17
+Merle à plastron          2018    0        4
+Mésange boréale           2015    0        1
+Monticole bleu            2013    0        1
+Perdrix grise             2011    0        1
+Pie-grièche à tête rousse 2010    0        1
+Pie-grièche méridionale   2011    0        2
+Pouillot fitis            2011    0        1
+Rollier d'Europe          2012    0        1
+Tichodrome échelette      2019    0        8
+Tourterelle turque        2018    0        15
+Vanneau huppé             2014    0        1
 

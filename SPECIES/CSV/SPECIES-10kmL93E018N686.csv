@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant lapon"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Crave à bec rouge"
-"0";"Engoulevent d'Europe"
-"0";"Fuligule milouinan"
-"0";"Fulmar boréal"
-"0";"Goéland à ailes blanches"
-"0";"Gravelot à collier interrompu"
-"0";"Harelde boréale"
-"0";"Harle bièvre"
-"0";"Ibis sacré"
-"0";"Jaseur boréal"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Macreuse à front blanc"
-"0";"Moineau friquet"
-"0";"Oie à bec court"
-"0";"Oie à tête barrée"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin des Baléares"
-"0";"Rousserolle verderolle"
-"0";"Sterne arctique"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,1
+Bec-croisé des sapins,2017,0,2
+Bergeronnette flavéole (M.f.flavissima),2014,0,1
+Bruant lapon,2016,0,2
+Canard mandarin,2015,0,2
+Chevalier stagnatile,2017,0,1
+Crave à bec rouge,2017,0,1
+Engoulevent d'Europe,2009,0,1
+Fuligule milouinan,2017,0,1
+Fulmar boréal,2014,0,1
+Goéland à ailes blanches,2018,0,21
+Gravelot à collier interrompu,2010,0,4
+Harelde boréale,2017,0,2
+Harle bièvre,2007,0,1
+Ibis sacré,2018,0,15
+Jaseur boréal,2009,0,3
+Labbe parasite,2018,0,4
+Locustelle tachetée,2018,0,1
+Macreuse à front blanc,2018,0,49
+Moineau friquet,2016,0,4
+Oie à bec court,2016,0,5
+Oie à tête barrée,2011,0,1
+Pouillot à grands sourcils,2018,0,4
+Puffin des Baléares,2018,0,5
+Rousserolle verderolle,2009,0,3
+Sterne arctique,2018,0,1
+Tadorne casarca,2012,0,1

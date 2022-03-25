@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Circaète Jean-le-Blanc"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand Corbeau"
-"0";"Grèbe huppé"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Moineau soulcie"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Perdrix rouge"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Autour des palombes,2014,0,1
+Bécasse des bois,2009,0,1
+Bécassine des marais,2012,0,3
+Bondrée apivore,2017,0,13
+Bruant jaune,2016,0,3
+Bruant ortolan,2013,0,1
+Busard cendré,2014,0,3
+Busard des roseaux,2016,0,6
+Canard chipeau,2012,0,1
+Canard souchet,2012,0,2
+Chevalier aboyeur,2013,0,1
+Chevalier culblanc,2018,0,4
+Chevalier gambette,2013,0,1
+Circaète Jean-le-Blanc,2018,0,12
+Coucou gris,2017,0,17
+Courlis cendré,2012,0,1
+Cygne noir,2015,0,2
+Faisan de Colchide,2018,0,5
+Faucon pèlerin,2017,0,2
+Fuligule milouin,2011,0,4
+Goéland cendré,2012,0,2
+Goéland leucophée,2017,0,9
+Grand Corbeau,2018,0,1
+Grèbe huppé,2012,0,4
+Hibou des marais,2013,0,1
+Ibis falcinelle,2018,0,1
+Locustelle tachetée,2015,0,3
+Moineau soulcie,2012,0,2
+Mouette mélanocéphale,2009,0,1
+Mouette pygmée,2009,0,2
+Perdrix rouge,2018,0,10
+Pie-grièche à tête rousse,2013,0,1
+Pipit rousseline,2016,0,2
+Pipit spioncelle,2015,0,1
+Pluvier doré,2017,0,2
+Pouillot de Bonelli,2016,0,9
+Sterne pierregarin,2016,0,2
+Torcol fourmilier,2015,0,8

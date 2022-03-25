@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bernache du Canada
-0        Bondrée apivore
-0        Bruant proyer
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Grive litorne
-0        Linotte mélodieuse
-0        Mésange huppée
-0        Perdrix rouge
-0        Petit-duc scops
-0        Pipit farlouse
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Tadorne de Belon
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur alpin        2010    0        1
+Bécassine sourde       2015    0        1
+Bec-croisé des sapins  2010    0        1
+Bernache du Canada     2014    0        1
+Bondrée apivore        2010    0        3
+Bruant proyer          2010    0        2
+Chevalier guignette    2017    0        3
+Cigogne blanche        2016    0        2
+Cincle plongeur        2016    0        5
+Circaète Jean-le-Blanc 2012    0        2
+Engoulevent d'Europe   2009    0        1
+Faucon pèlerin         2009    0        1
+Fauvette des jardins   2014    0        3
+Grive litorne          2018    0        4
+Linotte mélodieuse     2016    0        2
+Mésange huppée         2018    0        2
+Perdrix rouge          2010    0        2
+Petit-duc scops        2011    0        1
+Pipit farlouse         2019    0        2
+Pouillot de Bonelli    2018    0        2
+Pouillot fitis         2017    0        2
+Pouillot siffleur      2014    0        3
+Rossignol philomèle    2014    0        3
+Tadorne de Belon       2010    0        1
+Tarier des prés        2008    0        1
+Torcol fourmilier      2016    0        1
+Traquet motteux        2007    0        1
+Vanneau huppé          2008    0        1
 

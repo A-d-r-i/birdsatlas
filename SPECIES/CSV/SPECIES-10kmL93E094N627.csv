@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Corneille mantelée"
-"0";"Faucon kobez"
-"0";"Fauvette orphée"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grive mauvis"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Inséparable de Fischer"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2013,0,3
+Alouette des champs,2017,0,2
+Bécasse des bois,2018,0,5
+Bergeronnette printanière,2016,0,1
+Bouvreuil pivoine,2017,0,1
+Bruant fou,2012,0,5
+Bruant jaune,2012,0,4
+Caille des blés,2018,0,2
+Chevalier culblanc,2016,0,1
+Cigogne blanche,2010,0,2
+Corbeau freux,2016,0,1
+Corneille mantelée,2014,0,3
+Faucon kobez,2017,0,2
+Fauvette orphée,2009,0,2
+Foulque macroule,2017,0,1
+Gobemouche gris,2016,0,2
+Gobemouche noir,2018,0,2
+Grive mauvis,2017,0,3
+Héron garde-boeufs,2018,0,1
+Hirondelle de rivage,2011,0,1
+Hypolaïs polyglotte,2018,0,2
+Inséparable de Fischer,2016,0,1
+Pouillot fitis,2016,0,1
+Tarier des prés,2016,0,3
+Traquet motteux,2018,0,4
+Venturon montagnard,2016,0,9

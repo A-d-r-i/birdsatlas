@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de fenêtre"
-"0";"Loriot d'Europe"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Avocette élégante,2015,0,1
+Bécasse des bois,2009,0,1
+Bergeronnette printanière,2009,0,1
+Bondrée apivore,2009,0,1
+Bouvreuil pivoine,2018,0,9
+Bruant des roseaux,2009,0,1
+Cochevis huppé,2015,0,2
+Engoulevent d'Europe,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2018,0,2
+Goéland brun,2009,0,1
+Goéland cendré,2009,0,1
+Grèbe castagneux,2018,0,1
+Guêpier d'Europe,2018,0,1
+Hirondelle de fenêtre,2015,0,2
+Loriot d'Europe,2015,0,3
+Oedicnème criard,2009,0,1
+Perdrix grise,2009,0,2
+Pic épeichette,2009,0,2
+Pipit farlouse,2009,0,1
+Pouillot de Bonelli,2018,0,9
+Pouillot siffleur,2018,0,4
+Roitelet à triple bandeau,2018,0,5
+Roitelet huppé,2018,0,3
+Sizerin flammé,2018,0,7
+Tourterelle des bois,2009,0,1

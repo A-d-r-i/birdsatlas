@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Étourneau sansonnet"
-"0";"Faucon émerillon"
-"0";"Gélinotte des bois"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Marouette ponctuée"
-"0";"Martinet noir"
-"0";"Mouette rieuse"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2011,0,1
+Alouette des champs,2017,0,24
+Bruant des roseaux,2017,0,20
+Bruant fou,2018,0,1
+Busard cendré,2016,0,3
+Busard Saint-Martin,2013,0,3
+Buse pattue,2011,0,1
+Caille des blés,2009,0,1
+Chevalier aboyeur,2016,0,1
+Chouette de Tengmalm,2014,0,4
+Cigogne blanche,2013,0,3
+Combattant varié,2011,0,1
+Courlis cendré,2011,0,1
+Étourneau sansonnet,2018,0,39
+Faucon émerillon,2017,0,8
+Gélinotte des bois,2015,0,8
+Gobemouche gris,2018,0,11
+Goéland brun,2011,0,1
+Grand Cormoran,2017,0,21
+Grande Aigrette,2014,0,4
+Grèbe castagneux,2009,0,1
+Hirondelle de rivage,2011,0,1
+Locustelle tachetée,2017,0,3
+Loriot d'Europe,2017,0,3
+Marouette ponctuée,2011,0,1
+Martinet noir,2018,0,11
+Mouette rieuse,2014,0,1
+Pie-grièche grise,2011,0,1
+Pigeon biset domestique,2012,0,1
+Rousserolle verderolle,2016,0,2
+Sarcelle d'été,2017,0,2
+Tadorne casarca,2014,0,1
+Tourterelle des bois,2009,0,1
+Tourterelle turque,2013,0,2
+Vanneau huppé,2012,0,4
+Venturon montagnard,2009,0,1

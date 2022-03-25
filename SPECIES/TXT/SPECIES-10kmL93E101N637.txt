@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Bruant fou
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Corneille mantelée
-0        Faucon pèlerin
-0        Geai des chênes
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Grive musicienne
-0        Hirondelle rustique
-0        Merle à plastron
-0        Merle noir
-0        Mésange boréale
-0        Mésange charbonnière
-0        Mésange noire
-0        Milan noir
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Pic épeiche
-0        Pic noir
-0        Pic vert
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Rougequeue à front blanc
-0        Tarier des prés
-0        Tichodrome échelette
-0        Troglodyte mignon
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Accenteur mouchet        2009    0        1
+Bruant fou               2009    0        1
+Cincle plongeur          2018    0        2
+Circaète Jean-le-Blanc   2015    0        3
+Corneille mantelée       2018    0        1
+Faucon pèlerin           2011    0        1
+Geai des chênes          2009    0        1
+Grèbe huppé              2016    0        1
+Grive draine             2017    0        3
+Grive litorne            2011    0        2
+Grive musicienne         2017    0        1
+Hirondelle rustique      2012    0        2
+Merle à plastron         2011    0        2
+Merle noir               2013    0        1
+Mésange boréale          2009    0        1
+Mésange charbonnière     2016    0        2
+Mésange noire            2016    0        4
+Milan noir               2015    0        3
+Niverolle alpine         2017    0        6
+Perdrix bartavelle       2009    0        2
+Pic épeiche              2009    0        1
+Pic noir                 2013    0        1
+Pic vert                 2009    0        1
+Pipit des arbres         2014    0        4
+Pouillot de Bonelli      2013    0        1
+Rougequeue à front blanc 2013    0        1
+Tarier des prés          2018    0        4
+Tichodrome échelette     2014    0        1
+Troglodyte mignon        2009    0        1
 

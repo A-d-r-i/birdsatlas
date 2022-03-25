@@ -1,22 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Cigogne blanche"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Huppe fasciée"
-"0";"Hypolaïs ictérine"
-"0";"Hypolaïs polyglotte"
-"0";"Marouette ponctuée"
-"0";"Pigeon colombin"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2009,0,1
+Bécassine sourde,2018,0,2
+Bernache du Canada,2019,0,1
+Bruant jaune,2018,0,6
+Bruant proyer,2018,0,3
+Busard Saint-Martin,2018,0,1
+Canard pilet,2009,0,1
+Cigogne blanche,2019,0,3
+Fuligule milouin,2009,0,2
+Garrot à oeil d'or,2019,0,2
+Huppe fasciée,2015,0,2
+Hypolaïs ictérine,2012,0,1
+Hypolaïs polyglotte,2018,0,1
+Marouette ponctuée,2018,0,2
+Pigeon colombin,2009,0,1
+Serin cini,2015,0,1

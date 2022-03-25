@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Autour des palombes"
-"0";"Bécasseau tacheté"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Bruant des neiges"
-"0";"Busard pâle"
-"0";"Butor étoilé"
-"0";"Canard à collier noir"
-"0";"Chevalier à pattes jaunes"
-"0";"Coucou geai"
-"0";"Dendrocygne à ventre noir"
-"0";"Etourneau roselin"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Fulmar boréal"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Grèbe esclavon"
-"0";"Grosbec casse-noyaux"
-"0";"Harelde boréale"
-"0";"Harle bièvre"
-"0";"Macareux moine"
-"0";"Macreuse brune"
-"0";"Mergule nain"
-"0";"Mouette de Sabine"
-"0";"Océanite culblanc"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche isabelle"
-"0";"Pipit de Richard"
-"0";"Plongeon arctique"
-"0";"Pluvier guignard"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Tourterelle rieuse"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2008,0,1
+Autour des palombes,2017,0,3
+Bécasseau tacheté,2014,0,31
+Bernache du Canada,2012,0,6
+Blongios nain,2011,0,1
+Bruant des neiges,2017,0,53
+Busard pâle,2014,0,1
+Butor étoilé,2013,0,3
+Canard à collier noir,2015,0,2
+Chevalier à pattes jaunes,2016,0,2
+Coucou geai,2018,0,10
+Dendrocygne à ventre noir,2009,0,1
+Etourneau roselin,2017,0,6
+Faucon kobez,2014,0,4
+Fauvette pitchou,2017,0,3
+Fuligule à bec cerclé,2011,0,15
+Fulmar boréal,2018,0,23
+Goéland à ailes blanches,2018,0,16
+Goéland bourgmestre,2018,0,36
+Grèbe esclavon,2016,0,41
+Grosbec casse-noyaux,2018,0,61
+Harelde boréale,2013,0,3
+Harle bièvre,2015,0,6
+Macareux moine,2014,0,32
+Macreuse brune,2017,0,4
+Mergule nain,2014,0,3
+Mouette de Sabine,2012,0,12
+Océanite culblanc,2018,0,25
+Perruche ondulée,2018,0,3
+Petit-duc scops,2016,0,5
+Phragmite aquatique,2018,0,1
+Pie-grièche à tête rousse,2016,0,2
+Pie-grièche grise,2015,0,1
+Pie-grièche isabelle,2017,0,55
+Pipit de Richard,2014,0,4
+Plongeon arctique,2018,0,21
+Pluvier guignard,2007,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,2
+Tadorne casarca,2016,0,4
+Tourterelle rieuse,2012,0,1
+Traquet oreillard,2014,0,1

@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Blongios nain"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Courlis corlieu"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Mésange noire"
-"0";"Oie cendrée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2007,0,1
+Autour des palombes,2015,0,2
+Bécasseau minute,2018,0,4
+Bécasseau variable,2018,0,5
+Blongios nain,2014,0,3
+Bondrée apivore,2018,0,3
+Bruant zizi,2011,0,4
+Busard cendré,2013,0,2
+Caille des blés,2012,0,10
+Canard chipeau,2016,0,3
+Canard pilet,2018,0,1
+Chevalier aboyeur,2018,0,22
+Chevalier arlequin,2018,0,15
+Chevalier gambette,2017,0,13
+Chevêche d'Athéna,2007,0,2
+Courlis corlieu,2016,0,1
+Échasse blanche,2016,0,4
+Effraie des clochers,2018,0,5
+Faucon kobez,2018,0,1
+Fuligule milouin,2018,0,2
+Fuligule morillon,2016,0,1
+Garrot à oeil d'or,2012,0,4
+Gobemouche gris,2017,0,4
+Gobemouche noir,2018,0,8
+Goéland brun,2018,0,3
+Goéland cendré,2014,0,1
+Guifette moustac,2011,0,1
+Guifette noire,2016,0,2
+Hirondelle de rivage,2018,0,17
+Locustelle tachetée,2017,0,10
+Marouette ponctuée,2018,0,1
+Mésange noire,2018,0,3
+Oie cendrée,2019,0,8
+Pie-grièche à tête rousse,2009,0,3
+Pie-grièche grise,2017,0,6
+Pipit farlouse,2018,0,15
+Pipit spioncelle,2019,0,7
+Pouillot siffleur,2012,0,2
+Roitelet huppé,2019,0,11
+Rousserolle turdoïde,2018,0,6
+Rousserolle verderolle,2008,0,2
+Sarcelle d'été,2018,0,6
+Spatule blanche,2015,0,3
+Sterne caspienne,2016,0,4
+Tadorne casarca,2015,0,1
+Tadorne de Belon,2016,0,2

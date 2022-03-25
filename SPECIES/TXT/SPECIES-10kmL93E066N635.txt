@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Bécasseau variable
-0        Bruant jaune
-0        Bruant ortolan
-0        Busard cendré
-0        Butor étoilé
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Cigogne noire
-0        Corbeau freux
-0        Crabier chevelu
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Gobemouche gris
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Hibou des marais
-0        Marouette ponctuée
-0        Mésange huppée
-0        Moineau soulcie
-0        Outarde canepetière
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Rousserolle effarvatte
-0        Sterne pierregarin
-0        Tadorne de Belon
-0        Tarier des prés
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        4
+Autour des palombes       2018    0        1
+Bécasseau variable        2018    0        3
+Bruant jaune              2018    0        6
+Bruant ortolan            2015    0        1
+Busard cendré             2016    0        6
+Butor étoilé              2012    0        1
+Chevalier aboyeur         2018    0        3
+Chevalier gambette        2017    0        7
+Chevalier sylvain         2017    0        2
+Cigogne noire             2012    0        2
+Corbeau freux             2010    0        1
+Crabier chevelu           2016    0        4
+Échasse blanche           2017    0        2
+Engoulevent d'Europe      2009    0        2
+Faucon pèlerin            2016    0        35
+Fauvette des jardins      2017    0        8
+Fauvette pitchou          2018    0        1
+Fuligule milouin          2016    0        1
+Gobemouche gris           2012    0        1
+Goéland brun              2009    0        1
+Gorgebleue à miroir       2018    0        1
+Hibou des marais          2015    0        5
+Marouette ponctuée        2014    0        1
+Mésange huppée            2019    0        1
+Moineau soulcie           2011    0        2
+Outarde canepetière       2016    0        3
+Petit Gravelot            2015    0        4
+Phragmite des joncs       2018    0        1
+Pie-grièche à tête rousse 2011    0        20
+Pie-grièche grise         2015    0        2
+Rousserolle effarvatte    2018    0        1
+Sterne pierregarin        2016    0        1
+Tadorne de Belon          2017    0        3
+Tarier des prés           2017    0        14
+Vautour moine             2017    0        1
 

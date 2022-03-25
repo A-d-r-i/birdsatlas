@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Bruant des neiges"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Dendrocygne fauve"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faisan doré"
-"0";"Faisan vénéré"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland marin"
-"0";"Goéland pontique"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Nette demi-deuil"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pouillot siffleur"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2017,0,4
+Barge rousse,2017,0,9
+Bécasseau sanderling,2017,0,4
+Bécassine sourde,2015,0,12
+Bec-croisé des sapins,2013,0,1
+Bergeronnette flavéole (M.f.flavissima),2010,0,1
+Bernache cravant,2014,0,3
+Bernache nonnette,2011,0,13
+Bruant des neiges,2010,0,2
+Butor étoilé,2015,0,43
+Canard carolin,2010,0,1
+Canard mandarin,2016,0,3
+Chevalier arlequin,2017,0,15
+Cigogne blanche,2018,0,12
+Courlis cendré,2017,0,16
+Cygne noir,2017,0,16
+Dendrocygne fauve,2016,0,1
+Échasse blanche,2017,0,2
+Engoulevent d'Europe,2015,0,1
+Érismature rousse,2018,0,212
+Faisan doré,2014,0,1
+Faisan vénéré,2017,0,3
+Fuligule à bec cerclé,2013,0,22
+Fuligule milouinan,2012,0,18
+Fuligule nyroca,2011,0,6
+Garrot à oeil d'or,2011,0,48
+Goéland marin,2011,0,2
+Goéland pontique,2009,0,14
+Guifette moustac,2016,0,5
+Harle bièvre,2016,0,20
+Hibou des marais,2016,0,3
+Locustelle tachetée,2017,0,13
+Macreuse noire,2018,0,1
+Nette demi-deuil,2017,0,1
+Oie rieuse,2009,0,5
+Ouette d'Egypte,2017,0,6
+Perdrix grise,2018,0,3
+Phragmite des joncs,2018,0,7
+Pie-grièche grise,2016,0,11
+Pouillot siffleur,2012,0,6
+Torcol fourmilier,2016,0,1

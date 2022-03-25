@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Milan royal"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,5
+Bondrée apivore,2016,0,1
+Bruant des roseaux,2013,0,1
+Bruant proyer,2016,0,1
+Busard Saint-Martin,2016,0,1
+Chevêche d'Athéna,2016,0,5
+Chouette hulotte,2018,0,11
+Cigogne noire,2015,0,2
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2014,0,1
+Hypolaïs polyglotte,2016,0,5
+Locustelle tachetée,2016,0,1
+Milan royal,2016,0,3
+Oedicnème criard,2014,0,1
+Perdrix grise,2009,0,1
+Pie-grièche à tête rousse,2017,0,4
+Pie-grièche écorcheur,2018,0,14
+Pipit des arbres,2009,0,1
+Sarcelle d'hiver,2013,0,2
+Serin cini,2017,0,2
+Torcol fourmilier,2014,0,1

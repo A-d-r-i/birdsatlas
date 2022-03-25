@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Bruant fou
-0        Busard cendré
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Cygne tuberculé
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule morillon
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grimpereau des bois
-0        Héron pourpré
-0        Locustelle tachetée
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Mouette tridactyle
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit rousseline
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2015    0        1
+Bergeronnette printanière 2018    0        43
+Bihoreau gris             2013    0        2
+Bruant des roseaux        2014    0        12
+Bruant fou                2014    0        4
+Busard cendré             2018    0        10
+Canard siffleur           2013    0        4
+Canard souchet            2018    0        1
+Chevalier culblanc        2013    0        2
+Cigogne blanche           2018    0        8
+Circaète Jean-le-Blanc    2017    0        2
+Courlis cendré            2018    0        15
+Cygne tuberculé           2016    0        1
+Faucon émerillon          2014    0        5
+Faucon pèlerin            2014    0        2
+Fauvette des jardins      2015    0        10
+Foulque macroule          2017    0        2
+Fuligule milouin          2010    0        1
+Fuligule morillon         2018    0        2
+Grèbe castagneux          2018    0        3
+Grèbe huppé               2018    0        31
+Grimpereau des bois       2016    0        9
+Héron pourpré             2012    0        1
+Locustelle tachetée       2013    0        3
+Mouette mélanocéphale     2017    0        2
+Mouette rieuse            2013    0        1
+Mouette tridactyle        2009    0        1
+Petit Gravelot            2009    0        2
+Pie-grièche à tête rousse 2016    0        5
+Pie-grièche grise         2017    0        8
+Pigeon colombin           2018    0        25
+Pipit des arbres          2014    0        28
+Pipit rousseline          2017    0        2
+Vanneau huppé             2018    0        54
 

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Pipit rousseline"
-"0";"Rossignol philomèle"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,8
+Aigle royal,2011,0,4
+Autour des palombes,2009,0,1
+Bécasse des bois,2009,0,1
+Busard des roseaux,2015,0,1
+Busard Saint-Martin,2017,0,3
+Cigogne noire,2014,0,1
+Effraie des clochers,2016,0,1
+Engoulevent d'Europe,2009,0,1
+Gobemouche gris,2016,0,3
+Grande Aigrette,2009,0,1
+Grive litorne,2017,0,8
+Grive mauvis,2014,0,2
+Grosbec casse-noyaux,2017,0,2
+Merle à plastron,2015,0,1
+Moineau friquet,2014,0,1
+Pipit rousseline,2009,0,2
+Rossignol philomèle,2014,0,2
+Sizerin flammé,2014,0,1
+Tarier des prés,2017,0,5
+Vanneau huppé,2013,0,1
+Venturon montagnard,2009,0,1

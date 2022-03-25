@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouvreuil pivoine
-0        Caille des blés
-0        Chevalier guignette
-0        Choucas des tours
-0        Cochevis huppé
-0        Corbeau freux
-0        Courlis cendré
-0        Faucon kobez
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grive draine
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange noire
-0        Milan royal
-0        Moineau soulcie
-0        Mouette rieuse
-0        Pie-grièche à tête rousse
-0        Roitelet huppé
-0        Sarcelle d'hiver
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bouvreuil pivoine         2011    0        2
+Caille des blés           2018    0        6
+Chevalier guignette       2010    0        1
+Choucas des tours         2009    0        1
+Cochevis huppé            2012    0        3
+Corbeau freux             2018    0        7
+Courlis cendré            2012    0        5
+Faucon kobez              2008    0        1
+Grèbe castagneux          2018    0        5
+Grèbe huppé               2018    0        2
+Grive draine              2019    0        16
+Locustelle tachetée       2009    0        3
+Merle à plastron          2008    0        1
+Mésange noire             2016    0        1
+Milan royal               2015    0        2
+Moineau soulcie           2015    0        1
+Mouette rieuse            2011    0        1
+Pie-grièche à tête rousse 2012    0        2
+Roitelet huppé            2012    0        3
+Sarcelle d'hiver          2018    0        2
+Sizerin cabaret           2009    0        1
+Sizerin flammé            2011    0        2
+Tadorne de Belon          2014    0        1
+Tarier des prés           2015    0        1
+Tarin des aulnes          2012    0        3
 

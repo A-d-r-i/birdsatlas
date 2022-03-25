@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Bergeronnette des ruisseaux
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant zizi
-0        Chardonneret élégant
-0        Coucou gris
-0        Faucon hobereau
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grimpereau des jardins
-0        Grive mauvis
-0        Grive musicienne
-0        Guêpier d'Europe
-0        Hirondelle de fenêtre
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Mésange à longue queue
-0        Mésange bleue
-0        Mésange nonnette
-0        Pic épeichette
-0        Pic mar
-0        Pic vert
-0        Pinson du Nord
-0        Roitelet à triple bandeau
-0        Sittelle torchepot
-0        Tarin des aulnes
-0        Tourterelle des bois
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigle botté                 2016    0        3
+Alouette des champs         2016    0        1
+Alouette lulu               2016    0        2
+Autour des palombes         2009    0        1
+Bergeronnette des ruisseaux 2018    0        5
+Bihoreau gris               2018    0        1
+Bondrée apivore             2014    0        1
+Bruant zizi                 2018    0        4
+Chardonneret élégant        2017    0        4
+Coucou gris                 2018    0        4
+Faucon hobereau             2009    0        1
+Gallinule poule-d'eau       2018    0        1
+Gobemouche noir             2018    0        1
+Grimpereau des jardins      2009    0        1
+Grive mauvis                2016    0        1
+Grive musicienne            2009    0        1
+Guêpier d'Europe            2009    0        1
+Hirondelle de fenêtre       2016    0        2
+Hypolaïs polyglotte         2009    0        1
+Linotte mélodieuse          2016    0        3
+Mésange à longue queue      2013    0        2
+Mésange bleue               2018    0        4
+Mésange nonnette            2016    0        2
+Pic épeichette              2009    0        1
+Pic mar                     2009    0        7
+Pic vert                    2016    0        4
+Pinson du Nord              2016    0        1
+Roitelet à triple bandeau   2019    0        3
+Sittelle torchepot          2012    0        3
+Tarin des aulnes            2018    0        1
+Tourterelle des bois        2017    0        1
 

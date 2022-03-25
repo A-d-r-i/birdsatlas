@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Labbe à longue queue"
-"0";"Martin-pêcheur d'Europe"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Alouette lulu,2012,0,6
+Chevalier guignette,2013,0,1
+Cigogne blanche,2018,0,1
+Circaète Jean-le-Blanc,2018,0,2
+Cygne tuberculé,2010,0,1
+Engoulevent d'Europe,2013,0,6
+Fauvette babillarde,2016,0,3
+Foulque macroule,2011,0,2
+Gallinule poule-d'eau,2010,0,2
+Goéland brun,2007,0,2
+Labbe à longue queue,2013,0,1
+Martin-pêcheur d'Europe,2017,0,5
+Petit Gravelot,2009,0,1
+Pic épeichette,2010,0,3
+Pic mar,2011,0,2
+Pinson du Nord,2013,0,2
+Pipit rousseline,2012,0,4

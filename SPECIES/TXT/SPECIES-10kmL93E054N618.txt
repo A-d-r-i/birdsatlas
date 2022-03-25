@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bécasse des bois
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Grand-duc d'Europe
-0        Grimpereau des bois
-0        Héron cendré
-0        Hibou moyen-duc
-0        Lagopède alpin
-0        Moineau domestique
-0        Perdrix grise
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Verdier d'Europe
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Alouette des champs  2009    0        1
+Bécasse des bois     2009    0        1
+Effraie des clochers 2009    0        1
+Faucon pèlerin       2009    0        1
+Grand-duc d'Europe   2009    0        1
+Grimpereau des bois  2018    0        2
+Héron cendré         2018    0        1
+Hibou moyen-duc      2009    0        1
+Lagopède alpin       2016    0        2
+Moineau domestique   2009    0        1
+Perdrix grise        2017    0        2
+Tichodrome échelette 2009    0        1
+Torcol fourmilier    2009    0        1
+Tourterelle des bois 2009    0        1
+Verdier d'Europe     2009    0        1
 

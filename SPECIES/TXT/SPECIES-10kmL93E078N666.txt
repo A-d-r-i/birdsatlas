@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Cassenoix moucheté
-0        Chevêche d'Athéna
-0        Chevêchette d'Europe
-0        Foulque macroule
-0        Grèbe castagneux
-0        Hibou moyen-duc
-0        Pie-grièche grise
-0        Pipit farlouse
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Autour des palombes  2009    0        1
+Bécasse des bois     2009    0        2
+Bécassine des marais 2009    0        1
+Bondrée apivore      2015    0        2
+Bruant des roseaux   2009    0        1
+Cassenoix moucheté   2009    0        1
+Chevêche d'Athéna    2009    0        1
+Chevêchette d'Europe 2017    0        1
+Foulque macroule     2009    0        1
+Grèbe castagneux     2009    0        1
+Hibou moyen-duc      2017    0        3
+Pie-grièche grise    2012    0        2
+Pipit farlouse       2015    0        3
 

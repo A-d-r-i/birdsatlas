@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bruant fou"
-"0";"Bruant mélanocéphale"
-"0";"Bruant ortolan"
-"0";"Busard pâle"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Goéland leucophée"
-"0";"Grand Gravelot"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Mouette rieuse"
-"0";"Ouette d'Egypte"
-"0";"Pie-grièche grise"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,4
+Bruant fou,2014,0,2
+Bruant mélanocéphale,2018,0,6
+Bruant ortolan,2018,0,5
+Busard pâle,2016,0,6
+Canard pilet,2014,0,1
+Chevalier gambette,2009,0,1
+Chevalier sylvain,2009,0,1
+Cincle plongeur,2017,0,3
+Courlis cendré,2015,0,7
+Échasse blanche,2009,0,2
+Faisan vénéré,2016,0,1
+Faucon kobez,2015,0,5
+Fauvette des jardins,2009,0,6
+Goéland leucophée,2015,0,1
+Grand Gravelot,2015,0,2
+Grèbe huppé,2016,0,1
+Locustelle tachetée,2009,0,2
+Martinet à ventre blanc,2008,0,1
+Mouette rieuse,2016,0,18
+Ouette d'Egypte,2013,0,2
+Pie-grièche grise,2011,0,3
+Râle d'eau,2018,0,2
+Rousserolle effarvatte,2016,0,1
+Sarcelle d'été,2007,0,2
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Torcol fourmilier,2012,0,5
+Vautour fauve,2013,0,3

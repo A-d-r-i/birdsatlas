@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Foulque macroule"
-"0";"Grive mauvis"
-"0";"Hirondelle de fenêtre"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Chevalier guignette,2016,0,1
+Corbeau freux,2018,0,2
+Foulque macroule,2009,0,1
+Grive mauvis,2019,0,2
+Hirondelle de fenêtre,2016,0,2
+Mésange noire,2018,0,2
+Moineau friquet,2009,0,1
+Pouillot fitis,2016,0,1
+Rousserolle effarvatte,2009,0,1

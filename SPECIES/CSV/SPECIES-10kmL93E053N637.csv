@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Échasse blanche"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Guifette moustac"
-"0";"Hibou des marais"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Alouette des champs,2017,0,15
+Bécasse des bois,2012,0,1
+Bécassine sourde,2013,0,1
+Bergeronnette printanière,2013,0,2
+Bihoreau gris,2017,0,6
+Bruant proyer,2018,0,5
+Caille des blés,2018,0,6
+Cigogne blanche,2012,0,2
+Coucou gris,2011,0,3
+Échasse blanche,2015,0,1
+Faisan de Colchide,2013,0,4
+Faucon hobereau,2018,0,3
+Foulque macroule,2017,0,3
+Gallinule poule-d'eau,2017,0,5
+Guifette moustac,2013,0,1
+Hibou des marais,2015,0,1
+Hypolaïs polyglotte,2016,0,7
+Linotte mélodieuse,2018,0,1
+Perdrix grise,2015,0,1
+Pic épeichette,2010,0,3
+Pic noir,2018,0,1
+Pipit des arbres,2011,0,2
+Pipit farlouse,2017,0,2
+Pipit spioncelle,2017,0,2
+Pouillot de Bonelli,2018,0,9
+Pouillot fitis,2013,0,2
+Sarcelle d'hiver,2017,0,1
+Vanneau huppé,2016,0,1
+Vautour fauve,2013,0,1

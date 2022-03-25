@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasseau de Temminck
-0        Bécasseau tacheté
-0        Butor étoilé
-0        Canard carolin
-0        Crabier chevelu
-0        Cygne noir
-0        Échasse blanche
-0        Élanion blanc
-0        Faisan doré
-0        Faisan vénéré
-0        Goéland railleur
-0        Grand-duc d'Europe
-0        Ibis falcinelle
-0        Labbe à longue queue
-0        Locustelle luscinioïde
-0        Moineau friquet
-0        Phalarope à bec large
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Râle des genêts
-0        Sterne caugek
-0        Sterne naine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        3
+Bécasseau de Temminck     2018    0        21
+Bécasseau tacheté         2017    0        13
+Butor étoilé              2017    0        4
+Canard carolin            2016    0        2
+Crabier chevelu           2014    0        2
+Cygne noir                2011    0        13
+Échasse blanche           2011    0        4
+Élanion blanc             2018    0        1
+Faisan doré               2011    0        1
+Faisan vénéré             2016    0        2
+Goéland railleur          2018    0        2
+Grand-duc d'Europe        2018    0        2
+Ibis falcinelle           2015    0        14
+Labbe à longue queue      2010    0        2
+Locustelle luscinioïde    2017    0        1
+Moineau friquet           2014    0        14
+Phalarope à bec large     2014    0        1
+Pie-grièche à tête rousse 2013    0        1
+Pipit rousseline          2008    0        1
+Râle des genêts           2012    0        4
+Sterne caugek             2007    0        2
+Sterne naine              2014    0        1
 

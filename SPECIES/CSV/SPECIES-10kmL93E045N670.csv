@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau rousset"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Crabier chevelu"
-"0";"Dendrocygne veuf"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland à ailes blanches"
-"0";"Goéland pontique"
-"0";"Grèbe à cou noir"
-"0";"Guêpier d'Europe"
-"0";"Guifette leucoptère"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Ibis sacré"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Nette rousse"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Plongeon catmarin"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Sterne caugek"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vanneau sociable"
+frname,lastobs,newcount,oldcount
+Bécasseau rousset,2008,0,2
+Bécasse des bois,2019,0,6
+Bécassine sourde,2011,0,1
+Bec-croisé des sapins,2009,0,2
+Bernache cravant,2015,0,2
+Bernache du Canada,2009,0,13
+Bernache nonnette,2016,0,19
+Busard cendré,2017,0,3
+Caille des blés,2018,0,18
+Calopsitte élégante,2010,0,2
+Canard mandarin,2011,0,2
+Chevalier stagnatile,2010,0,6
+Crabier chevelu,2016,0,2
+Dendrocygne veuf,2018,0,5
+Fauvette pitchou,2018,0,5
+Fuligule morillon,2012,0,5
+Garrot à oeil d'or,2012,0,1
+Goéland à ailes blanches,2012,0,1
+Goéland pontique,2017,0,2
+Grèbe à cou noir,2018,0,5
+Guêpier d'Europe,2016,0,16
+Guifette leucoptère,2011,0,8
+Harle piette,2012,0,5
+Hibou des marais,2016,0,2
+Ibis sacré,2016,0,2
+Labbe pomarin,2008,0,1
+Locustelle tachetée,2015,0,3
+Macreuse noire,2009,0,2
+Merle à plastron,2015,0,1
+Nette rousse,2017,0,1
+Oie à tête barrée,2009,0,2
+Oie rieuse,2009,0,3
+Phragmite des joncs,2017,0,3
+Pic mar,2017,0,1
+Plongeon catmarin,2016,0,4
+Pouillot de Bonelli,2018,0,2
+Râle d'eau,2019,0,4
+Sterne caugek,2018,0,2
+Tarier des prés,2017,0,3
+Torcol fourmilier,2017,0,6
+Vanneau sociable,2017,0,117

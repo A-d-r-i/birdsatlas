@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Albatros à sourcils noirs"
-"0";"Alouette calandrelle"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Bruant lapon"
-"0";"Bruant proyer"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Cigogne noire"
-"0";"Crabier chevelu"
-"0";"Eider à duvet"
-"0";"Faucon d'Eléonore"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Goéland à bec cerclé"
-"0";"Goéland d'Amérique"
-"0";"Goéland d'Audouin"
-"0";"Grèbe esclavon"
-"0";"Harelde boréale"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Locustelle luscinioïde"
-"0";"Martinet pâle"
-"0";"Mergule nain"
-"0";"Océanite de Wilson"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Perruche ondulée"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit de Richard"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Puffin de Scopoli"
-"0";"Rollier d'Europe"
-"0";"Sizerin flammé"
-"0";"Sterne hansel"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Albatros à sourcils noirs,2017,0,1
+Alouette calandrelle,2009,0,1
+Autour des palombes,2016,0,15
+Bécasse des bois,2017,0,32
+Bec-croisé des sapins,2017,0,9
+Bernache du Canada,2016,0,2
+Blongios nain,2017,0,33
+Bruant fou,2017,0,2
+Bruant lapon,2010,0,2
+Bruant proyer,2012,0,4
+Canard carolin,2012,0,4
+Canard mandarin,2013,0,1
+Cigogne noire,2017,0,5
+Crabier chevelu,2014,0,1
+Eider à duvet,2011,0,3
+Faucon d'Eléonore,2012,0,5
+Fuligule milouin,2019,0,10
+Fuligule milouinan,2015,0,10
+Fuligule morillon,2018,0,4
+Goéland à bec cerclé,2017,0,1
+Goéland d'Amérique,2016,0,20
+Goéland d'Audouin,2015,0,6
+Grèbe esclavon,2019,0,18
+Harelde boréale,2012,0,7
+Harle bièvre,2014,0,12
+Harle huppé,2018,0,62
+Hibou des marais,2012,0,1
+Ibis falcinelle,2014,0,2
+Locustelle luscinioïde,2010,0,5
+Martinet pâle,2015,0,2
+Mergule nain,2013,0,10
+Océanite de Wilson,2017,0,2
+Oie à tête barrée,2010,0,2
+Oie rieuse,2011,0,4
+Perruche ondulée,2017,0,1
+Phragmite aquatique,2017,0,4
+Pie-grièche à tête rousse,2012,0,1
+Pipit de Richard,2010,0,1
+Plongeon arctique,2018,0,32
+Pouillot à grands sourcils,2014,0,3
+Pouillot siffleur,2014,0,3
+Puffin de Scopoli,2016,0,2
+Rollier d'Europe,2015,0,6
+Sizerin flammé,2012,0,1
+Sterne hansel,2014,0,2
+Tourterelle des bois,2017,0,5

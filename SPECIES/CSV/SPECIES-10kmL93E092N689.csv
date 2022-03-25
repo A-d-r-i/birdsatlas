@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Cincle plongeur"
-"0";"Goéland cendré"
-"0";"Grand-duc d'Europe"
-"0";"Harle bièvre"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic cendré"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Autour des palombes,2018,0,10
+Bécassine des marais,2012,0,2
+Bec-croisé des sapins,2016,0,3
+Bruant des roseaux,2015,0,14
+Bruant proyer,2015,0,17
+Bruant zizi,2012,0,3
+Busard Saint-Martin,2011,0,1
+Canard mandarin,2012,0,2
+Canard souchet,2012,0,1
+Cincle plongeur,2011,0,4
+Goéland cendré,2017,0,1
+Grand-duc d'Europe,2015,0,2
+Harle bièvre,2014,0,1
+Huppe fasciée,2012,0,1
+Locustelle tachetée,2015,0,19
+Merle à plastron,2012,0,1
+Oie cendrée,2013,0,4
+Perdrix grise,2016,0,5
+Pic cendré,2010,0,3
+Plongeon imbrin,2016,0,1
+Pluvier doré,2017,0,1
+Râle d'eau,2015,0,8
+Rousserolle turdoïde,2016,0,1
+Sarcelle d'hiver,2010,0,2
+Tourterelle des bois,2015,0,8
+Traquet motteux,2018,0,6
+Vanneau huppé,2017,0,3
+Vautour fauve,2015,0,1

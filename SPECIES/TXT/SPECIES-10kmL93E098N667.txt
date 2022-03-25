@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bernache nonnette
-0        Bruant zizi
-0        Caille des blés
-0        Chevalier guignette
-0        Chouette de Tengmalm
-0        Cigogne noire
-0        Corbeau freux
-0        Coucou gris
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fuligule milouin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Goéland cendré
-0        Grande Aigrette
-0        Grèbe huppé
-0        Grive mauvis
-0        Jaseur boréal
-0        Mésange à longue queue
-0        Mouette rieuse
-0        Pic mar
-0        Pigeon colombin
-0        Pouillot fitis
-0        Pouillot siffleur
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasse des bois       2015    0        1
+Bécassine des marais   2018    0        1
+Bernache nonnette      2017    0        2
+Bruant zizi            2011    0        3
+Caille des blés        2012    0        3
+Chevalier guignette    2009    0        1
+Chouette de Tengmalm   2017    0        10
+Cigogne noire          2017    0        3
+Corbeau freux          2012    0        1
+Coucou gris            2014    0        2
+Faisan de Colchide     2017    0        1
+Faucon hobereau        2018    0        2
+Fuligule milouin       2018    0        1
+Fuligule morillon      2018    0        1
+Garrot à oeil d'or     2018    0        1
+Gobemouche gris        2012    0        3
+Goéland cendré         2014    0        2
+Grande Aigrette        2017    0        1
+Grèbe huppé            2018    0        1
+Grive mauvis           2018    0        3
+Jaseur boréal          2009    0        1
+Mésange à longue queue 2018    0        18
+Mouette rieuse         2012    0        1
+Pic mar                2018    0        4
+Pigeon colombin        2012    0        2
+Pouillot fitis         2012    0        4
+Pouillot siffleur      2014    0        4
 

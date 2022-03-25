@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cisticole des joncs"
-"0";"Martin-pêcheur d'Europe"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Cisticole des joncs,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Tarier pâtre,2009,0,1

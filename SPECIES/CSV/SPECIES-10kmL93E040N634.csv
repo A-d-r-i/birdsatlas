@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faucon émerillon"
-"0";"Gobemouche gris"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2010,0,1
+Bécassine des marais,2011,0,1
+Bergeronnette des ruisseaux,2016,0,1
+Bruant des roseaux,2016,0,5
+Bruant zizi,2015,0,6
+Caille des blés,2016,0,3
+Cigogne blanche,2010,0,2
+Cigogne noire,2012,0,1
+Engoulevent d'Europe,2012,0,4
+Épervier d'Europe,2017,0,13
+Faucon émerillon,2017,0,4
+Gobemouche gris,2015,0,7
+Grive mauvis,2016,0,2
+Grosbec casse-noyaux,2016,0,4
+Héron cendré,2016,0,1
+Hirondelle de fenêtre,2017,0,1
+Loriot d'Europe,2012,0,2
+Martin-pêcheur d'Europe,2015,0,2
+Mésange noire,2013,0,9
+Moineau friquet,2011,0,1
+Perdrix rouge,2014,0,3
+Pic épeichette,2018,0,1
+Pie-grièche à tête rousse,2014,0,1
+Pigeon colombin,2016,0,5
+Pipit rousseline,2018,0,20
+Pouillot fitis,2016,0,2
+Sarcelle d'hiver,2011,0,1
+Serin cini,2016,0,6
+Tarier des prés,2016,0,4
+Tarin des aulnes,2016,0,5
+Vanneau huppé,2012,0,9

@@ -1,52 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bihoreau gris
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier arlequin
-0        Chevalier sylvain
-0        Cincle plongeur
-0        Cochevis huppé
-0        Combattant varié
-0        Cygne chanteur
-0        Échasse blanche
-0        Effraie des clochers
-0        Faisan vénéré
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Fuligule nyroca
-0        Goéland brun
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Grèbe jougris
-0        Guifette moustac
-0        Guifette noire
-0        Harle huppé
-0        Harle piette
-0        Héron pourpré
-0        Huîtrier pie
-0        Ibis sacré
-0        Marouette ponctuée
-0        Mésange boréale
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pic cendré
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Spatule blanche
-0        Tarier des prés
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle botté           2017    0        4
+Barge à queue noire   2015    0        3
+Barge rousse          2017    0        2
+Bécasseau de Temminck 2018    0        3
+Bécasseau minute      2017    0        1
+Bécasseau sanderling  2017    0        1
+Bihoreau gris         2017    0        4
+Busard Saint-Martin   2017    0        7
+Caille des blés       2010    0        4
+Chevalier arlequin    2017    0        8
+Chevalier sylvain     2017    0        4
+Cincle plongeur       2014    0        2
+Cochevis huppé        2011    0        1
+Combattant varié      2017    0        6
+Cygne chanteur        2009    0        1
+Échasse blanche       2014    0        1
+Effraie des clochers  2016    0        1
+Faisan vénéré         2017    0        3
+Faucon émerillon      2016    0        4
+Fauvette babillarde   2016    0        1
+Fuligule nyroca       2018    0        2
+Goéland brun          2017    0        1
+Grand Gravelot        2018    0        6
+Grèbe à cou noir      2017    0        11
+Grèbe jougris         2011    0        2
+Guifette moustac      2015    0        3
+Guifette noire        2017    0        11
+Harle huppé           2009    0        3
+Harle piette          2019    0        11
+Héron pourpré         2015    0        1
+Huîtrier pie          2015    0        2
+Ibis sacré            2017    0        1
+Marouette ponctuée    2012    0        1
+Mésange boréale       2013    0        7
+Mésange noire         2014    0        3
+Mouette mélanocéphale 2016    0        6
+Ouette d'Egypte       2014    0        2
+Perdrix grise         2018    0        3
+Perdrix rouge         2015    0        1
+Phragmite des joncs   2012    0        1
+Pigeon colombin       2016    0        1
+Pinson du Nord        2012    0        2
+Pipit des arbres      2017    0        9
+Pouillot fitis        2017    0        17
+Spatule blanche       2017    0        1
+Tarier des prés       2018    0        6
+Torcol fourmilier     2013    0        1
 

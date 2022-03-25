@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle des steppes"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Bihoreau gris"
-"0";"Bruant jaune"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Cochevis huppé"
-"0";"Faucon crécerellette"
-"0";"Faucon kobez"
-"0";"Fauvette orphée"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Rougequeue à front blanc"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle des steppes,2017,0,1
+Aigle royal,2012,0,1
+Autour des palombes,2009,0,1
+Bihoreau gris,2013,0,2
+Bruant jaune,2015,0,1
+Cigogne blanche,2014,0,1
+Cigogne noire,2013,0,1
+Cincle plongeur,2009,0,1
+Cochevis huppé,2013,0,2
+Faucon crécerellette,2012,0,1
+Faucon kobez,2012,0,1
+Fauvette orphée,2009,0,1
+Fauvette pitchou,2009,0,1
+Foulque macroule,2012,0,2
+Gallinule poule-d'eau,2013,0,3
+Grive draine,2017,0,4
+Grive mauvis,2013,0,1
+Grosbec casse-noyaux,2015,0,4
+Hibou moyen-duc,2009,0,1
+Martin-pêcheur d'Europe,2013,0,4
+Moineau friquet,2016,0,3
+Mouette rieuse,2013,0,1
+Petit-duc scops,2009,0,1
+Petit Gravelot,2009,0,1
+Pic épeichette,2013,0,2
+Pie-grièche à tête rousse,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2013,0,1
+Rougequeue à front blanc,2013,0,2
+Tarier des prés,2012,0,1
+Torcol fourmilier,2013,0,2

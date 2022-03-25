@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bruant ortolan
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Circaète Jean-le-Blanc
-0        Faucon hobereau
-0        Foulque macroule
-0        Goéland argenté
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Milan royal
-0        Mouette rieuse
-0        Petit-duc scops
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Tarier des prés
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2016    0        2
+Bruant ortolan         2009    0        1
+Chevalier aboyeur      2008    0        1
+Chevalier guignette    2015    0        4
+Circaète Jean-le-Blanc 2017    0        5
+Faucon hobereau        2017    0        6
+Foulque macroule       2017    0        3
+Goéland argenté        2015    0        3
+Hibou des marais       2009    0        1
+Hirondelle de rivage   2016    0        1
+Milan royal            2017    0        2
+Mouette rieuse         2009    0        1
+Petit-duc scops        2015    0        1
+Phragmite des joncs    2009    0        1
+Pigeon colombin        2016    0        6
+Pipit rousseline       2015    0        6
+Pluvier doré           2017    0        7
+Pouillot de Bonelli    2009    0        1
+Pouillot fitis         2016    0        2
+Tarier des prés        2015    0        1
 

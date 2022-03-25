@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Milan royal"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,4
+Bécasseau variable,2012,0,2
+Bergeronnette des ruisseaux,2011,0,4
+Bondrée apivore,2012,0,5
+Bruant des roseaux,2012,0,2
+Bruant jaune,2015,0,6
+Busard des roseaux,2012,0,1
+Chevalier aboyeur,2011,0,2
+Chevalier culblanc,2016,0,5
+Chevalier gambette,2012,0,1
+Chevêche d'Athéna,2015,0,1
+Cigogne noire,2016,0,1
+Cochevis huppé,2014,0,1
+Combattant varié,2012,0,2
+Cygne noir,2013,0,4
+Engoulevent d'Europe,2014,0,5
+Faisan vénéré,2014,0,1
+Faucon hobereau,2016,0,3
+Fauvette des jardins,2011,0,5
+Fauvette grisette,2011,0,4
+Gobemouche gris,2017,0,7
+Goéland brun,2013,0,1
+Héron pourpré,2007,0,1
+Hirondelle de rivage,2013,0,1
+Martin-pêcheur d'Europe,2018,0,5
+Milan royal,2018,0,1
+Mouette mélanocéphale,2014,0,1
+Perdrix grise,2018,0,4
+Petit Gravelot,2016,0,8
+Pic mar,2018,0,6
+Pie-grièche écorcheur,2013,0,5
+Pipit des arbres,2011,0,5
+Pipit farlouse,2019,0,5
+Pouillot de Bonelli,2012,0,2
+Pouillot fitis,2017,0,6
+Râle d'eau,2012,0,1
+Rougequeue à front blanc,2016,0,4
+Rousserolle effarvatte,2012,0,3
+Tarier pâtre,2014,0,9

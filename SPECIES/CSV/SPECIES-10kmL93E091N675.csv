@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Chouette hulotte"
-"0";"Combattant varié"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Mésange huppée"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2018,0,10
+Busard des roseaux,2013,0,1
+Chevalier aboyeur,2014,0,2
+Chevalier culblanc,2017,0,2
+Chevalier sylvain,2017,0,3
+Chouette hulotte,2016,0,5
+Combattant varié,2007,0,2
+Fauvette des jardins,2018,0,13
+Foulque macroule,2012,0,4
+Gobemouche gris,2017,0,10
+Gobemouche noir,2017,0,3
+Grèbe castagneux,2012,0,1
+Grèbe huppé,2012,0,1
+Grimpereau des bois,2018,0,2
+Ibis falcinelle,2014,0,1
+Locustelle tachetée,2018,0,6
+Macreuse noire,2012,0,2
+Mésange huppée,2012,0,4
+Mouette rieuse,2013,0,5
+Oie cendrée,2012,0,1
+Perdrix rouge,2016,0,1
+Petit Gravelot,2007,0,1
+Pic cendré,2013,0,2
+Pluvier doré,2011,0,2
+Pouillot siffleur,2014,0,3
+Roitelet huppé,2015,0,7
+Rousserolle turdoïde,2016,0,3
+Rousserolle verderolle,2007,0,1
+Sarcelle d'été,2012,0,1
+Sarcelle d'hiver,2016,0,2
+Tadorne de Belon,2011,0,2

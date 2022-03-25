@@ -1,57 +1,57 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard cendré
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cigogne noire
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Grand-duc d'Europe
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive mauvis
-0        Hirondelle de rochers
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Martin-pêcheur d'Europe
-0        Mésange huppée
-0        Moineau friquet
-0        Oie cendrée
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Sarcelle d'été
-0        Tadorne de Belon
-0        Tichodrome échelette
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2010    0        1
+Alouette des champs       2016    0        22
+Alouette lulu             2014    0        4
+Autour des palombes       2017    0        7
+Bécasse des bois          2017    0        6
+Bécassine des marais      2014    0        6
+Bergeronnette printanière 2013    0        9
+Bouvreuil pivoine         2014    0        27
+Bruant des roseaux        2013    0        6
+Bruant proyer             2014    0        6
+Busard cendré             2013    0        1
+Busard Saint-Martin       2016    0        2
+Chevalier culblanc        2016    0        6
+Cigogne blanche           2014    0        1
+Cigogne noire             2015    0        7
+Cincle plongeur           2014    0        14
+Circaète Jean-le-Blanc    2015    0        3
+Effraie des clochers      2009    0        7
+Engoulevent d'Europe      2011    0        1
+Faisan de Colchide        2014    0        2
+Fauvette des jardins      2014    0        8
+Fauvette grisette         2013    0        3
+Grand-duc d'Europe        2011    0        2
+Grimpereau des bois       2015    0        5
+Grive litorne             2017    0        80
+Grive mauvis              2010    0        4
+Hirondelle de rochers     2017    0        4
+Hypolaïs polyglotte       2013    0        9
+Linotte mélodieuse        2014    0        6
+Martin-pêcheur d'Europe   2013    0        7
+Mésange huppée            2014    0        7
+Moineau friquet           2016    0        11
+Oie cendrée               2012    0        1
+Phragmite des joncs       2009    0        1
+Pic épeichette            2014    0        4
+Pic mar                   2015    0        18
+Pie-grièche grise         2013    0        25
+Pigeon biset domestique   2017    0        4
+Pipit des arbres          2013    0        4
+Pipit farlouse            2011    0        2
+Pipit spioncelle          2011    0        3
+Pouillot de Bonelli       2013    0        1
+Pouillot fitis            2015    0        7
+Roitelet à triple bandeau 2018    0        12
+Roitelet huppé            2015    0        10
+Rossignol philomèle       2013    0        8
+Sarcelle d'été            2011    0        1
+Tadorne de Belon          2009    0        1
+Tichodrome échelette      2016    0        1
+Tourterelle des bois      2013    0        1
+Traquet motteux           2014    0        7
+Vanneau huppé             2015    0        14
+Vautour fauve             2009    0        2
 

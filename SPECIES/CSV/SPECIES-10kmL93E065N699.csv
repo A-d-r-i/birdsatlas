@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Gallinule poule-d'eau"
-"0";"Grive draine"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pie bavarde"
-"0";"Pipit farlouse"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2009,0,1
+Bernache nonnette,2009,0,1
+Bruant jaune,2009,0,2
+Busard Saint-Martin,2009,0,1
+Canard colvert,2009,0,2
+Chevêche d'Athéna,2009,0,2
+Gallinule poule-d'eau,2009,0,1
+Grive draine,2009,0,1
+Mouette rieuse,2009,0,1
+Oedicnème criard,2009,0,1
+Pic épeichette,2013,0,1
+Pie bavarde,2009,0,2
+Pipit farlouse,2009,0,1
+Tourterelle des bois,2009,0,1

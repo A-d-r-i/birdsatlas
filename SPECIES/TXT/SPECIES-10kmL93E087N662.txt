@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bondrée apivore
-0        Bruant zizi
-0        Canard mandarin
-0        Choucas des tours
-0        Courlis corlieu
-0        Fauvette des jardins
-0        Gobemouche gris
-0        Grimpereau des bois
-0        Hirondelle de fenêtre
-0        Mésange boréale
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic cendré
-0        Pigeon biset domestique
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Autour des palombes     2009    0        1
+Bondrée apivore         2009    0        1
+Bruant zizi             2009    0        1
+Canard mandarin         2009    0        1
+Choucas des tours       2019    0        3
+Courlis corlieu         2017    0        1
+Fauvette des jardins    2018    0        1
+Gobemouche gris         2009    0        1
+Grimpereau des bois     2018    0        1
+Hirondelle de fenêtre   2012    0        2
+Mésange boréale         2018    0        2
+Perdrix grise           2009    0        1
+Perdrix rouge           2009    0        1
+Pic cendré              2017    0        1
+Pigeon biset domestique 2009    0        1
 

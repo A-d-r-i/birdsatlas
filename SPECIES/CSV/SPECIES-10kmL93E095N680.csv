@@ -1,18 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Chevalier gambette"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Gobemouche à collier"
-"0";"Locustelle tachetée"
-"0";"Pipit rousseline"
-"0";"Rousserolle turdoïde"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2010,0,2
+Bihoreau gris,2016,0,1
+Bruant proyer,2010,0,2
+Busard cendré,2018,0,2
+Chevalier gambette,2015,0,1
+Cincle plongeur,2015,0,1
+Courlis cendré,2010,0,3
+Faucon émerillon,2010,0,1
+Faucon hobereau,2016,0,3
+Faucon kobez,2016,0,1
+Gobemouche à collier,2013,0,3
+Locustelle tachetée,2010,0,2
+Pipit rousseline,2010,0,1
+Rousserolle turdoïde,2018,0,1

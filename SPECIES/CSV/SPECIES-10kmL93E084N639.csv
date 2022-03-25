@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Guifette noire"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Avocette élégante,2016,0,1
+Bec-croisé des sapins,2017,0,1
+Bihoreau gris,2016,0,9
+Bruant ortolan,2016,0,2
+Canard chipeau,2014,0,2
+Chevalier aboyeur,2016,0,1
+Chevalier sylvain,2018,0,2
+Cigogne noire,2017,0,2
+Cincle plongeur,2010,0,1
+Courlis cendré,2016,0,1
+Effraie des clochers,2015,0,1
+Faucon émerillon,2016,0,1
+Faucon kobez,2017,0,2
+Fauvette des jardins,2014,0,2
+Fuligule milouin,2019,0,1
+Fuligule morillon,2011,0,2
+Guifette noire,2014,0,1
+Hirondelle de rivage,2017,0,2
+Locustelle tachetée,2017,0,2
+Pipit rousseline,2017,0,1
+Pipit spioncelle,2017,0,5
+Pluvier doré,2016,0,4
+Pouillot siffleur,2016,0,1
+Rousserolle turdoïde,2010,0,2
+Tadorne de Belon,2011,0,2
+Torcol fourmilier,2015,0,1

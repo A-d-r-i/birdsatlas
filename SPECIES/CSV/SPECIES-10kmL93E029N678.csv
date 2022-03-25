@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland argenté"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pluvier doré"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2009,0,2
+Caille des blés,2009,0,1
+Canard souchet,2018,0,1
+Fuligule milouin,2009,0,1
+Fuligule morillon,2009,0,1
+Goéland argenté,2009,0,1
+Héron pourpré,2012,0,1
+Hibou moyen-duc,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange noire,2009,0,1
+Mésange nonnette,2013,0,2
+Perdrix grise,2013,0,3
+Perdrix rouge,2016,0,2
+Pluvier doré,2013,0,3
+Serin cini,2013,0,2

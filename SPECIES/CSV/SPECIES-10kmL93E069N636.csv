@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Combattant varié"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perruche ondulée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche méridionale"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Pouillot ibérique"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2013,0,1
+Bécasse des bois,2018,0,2
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bihoreau gris,2016,0,1
+Bruant des roseaux,2016,0,9
+Canard chipeau,2018,0,1
+Canard souchet,2016,0,1
+Chevalier gambette,2013,0,2
+Combattant varié,2013,0,1
+Hibou des marais,2015,0,5
+Hirondelle de rivage,2017,0,1
+Locustelle tachetée,2015,0,1
+Merle à plastron,2011,0,1
+Moineau friquet,2016,0,2
+Mouette rieuse,2016,0,3
+Perruche ondulée,2010,0,1
+Pie-grièche à tête rousse,2018,0,4
+Pie-grièche méridionale,2014,0,1
+Pipit rousseline,2017,0,3
+Pluvier doré,2015,0,3
+Pouillot ibérique,2017,0,8
+Rémiz penduline,2008,0,2
+Sarcelle d'hiver,2018,0,4

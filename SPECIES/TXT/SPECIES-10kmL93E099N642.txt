@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bruant zizi
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Choucas des tours
-0        Chouette de Tengmalm
-0        Engoulevent d'Europe
-0        Faucon d'Eléonore
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fauvette passerinette
-0        Grand-duc d'Europe
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Grimpereau des jardins
-0        Guêpier d'Europe
-0        Locustelle tachetée
-0        Milan noir
-0        Milan royal
-0        Roitelet à triple bandeau
-0        Rossignol philomèle
-0        Sarcelle d'hiver
-0        Tarier pâtre
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2016    0        2
+Bruant zizi               2011    0        1
+Busard des roseaux        2018    0        2
+Busard Saint-Martin       2011    0        1
+Chevalier aboyeur         2012    0        2
+Chevalier culblanc        2018    0        25
+Chevalier guignette       2018    0        13
+Chevalier sylvain         2010    0        2
+Choucas des tours         2015    0        2
+Chouette de Tengmalm      2010    0        1
+Engoulevent d'Europe      2009    0        2
+Faucon d'Eléonore         2011    0        1
+Faucon pèlerin            2018    0        6
+Fauvette grisette         2015    0        5
+Fauvette passerinette     2017    0        1
+Grand-duc d'Europe        2017    0        12
+Grèbe à cou noir          2017    0        2
+Grèbe castagneux          2018    0        1
+Grimpereau des jardins    2017    0        1
+Guêpier d'Europe          2017    0        1
+Locustelle tachetée       2016    0        1
+Milan noir                2009    0        1
+Milan royal               2012    0        2
+Roitelet à triple bandeau 2016    0        1
+Rossignol philomèle       2011    0        2
+Sarcelle d'hiver          2015    0        2
+Tarier pâtre              2018    0        2
 

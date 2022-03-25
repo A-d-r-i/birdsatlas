@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bruant des roseaux"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,2
+Bruant des roseaux,2010,0,2
+Cigogne noire,2017,0,2
+Corbeau freux,2016,0,1
+Engoulevent d'Europe,2015,0,1
+Faucon hobereau,2016,0,1
+Fauvette des jardins,2009,0,2
+Foulque macroule,2016,0,1
+Gobemouche gris,2009,0,1
+Grèbe castagneux,2012,0,3
+Harle bièvre,2010,0,2
+Hibou moyen-duc,2016,0,2
+Linotte mélodieuse,2016,0,3
+Merle à plastron,2015,0,1
+Oie cendrée,2014,0,2
+Petit Gravelot,2009,0,1
+Pigeon colombin,2013,0,1
+Pipit des arbres,2009,0,4
+Pouillot siffleur,2009,0,2
+Roitelet huppé,2016,0,11
+Sarcelle d'hiver,2013,0,3

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,7
+Autour des palombes,2013,0,1
+Bergeronnette printanière,2014,0,2
+Bondrée apivore,2009,0,2
+Bruant des roseaux,2015,0,2
+Bruant proyer,2016,0,3
+Busard des roseaux,2013,0,2
+Caille des blés,2009,0,1
+Canard colvert,2015,0,5
+Cigogne noire,2009,0,1
+Circaète Jean-le-Blanc,2009,0,3
+Cochevis huppé,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon émerillon,2015,0,3
+Faucon pèlerin,2007,0,1
+Fauvette des jardins,2016,0,4
+Foulque macroule,2011,0,3
+Gobemouche gris,2009,0,1
+Grand Cormoran,2015,0,2
+Héron pourpré,2014,0,1
+Hibou moyen-duc,2012,0,4
+Mésange noire,2010,0,2
+Mésange nonnette,2012,0,4
+Milan royal,2010,0,1
+Moineau friquet,2009,0,1
+Oedicnème criard,2011,0,5
+Oie cendrée,2013,0,2
+Pic épeichette,2018,0,6
+Pie-grièche à tête rousse,2014,0,3
+Pipit farlouse,2019,0,9
+Pluvier doré,2015,0,4
+Pouillot de Bonelli,2009,0,1
+Pouillot siffleur,2009,0,1
+Râle d'eau,2011,0,2
+Râle des genêts,2016,0,2
+Rémiz penduline,2009,0,1
+Traquet motteux,2013,0,2

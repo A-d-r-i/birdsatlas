@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Chardonneret élégant"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Gobemouche gris"
-"0";"Grive mauvis"
-"0";"Héron cendré"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Pic épeichette"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Troglodyte mignon"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,1
+Bondrée apivore,2014,0,4
+Bouvreuil pivoine,2015,0,1
+Bruant des roseaux,2015,0,1
+Chardonneret élégant,2015,0,5
+Cigogne blanche,2012,0,1
+Coucou gris,2014,0,36
+Engoulevent d'Europe,2012,0,10
+Épervier d'Europe,2015,0,4
+Faisan de Colchide,2016,0,11
+Faucon hobereau,2013,0,3
+Gobemouche gris,2013,0,4
+Grive mauvis,2012,0,3
+Héron cendré,2012,0,1
+Héron garde-boeufs,2016,0,1
+Hirondelle de fenêtre,2013,0,1
+Hypolaïs polyglotte,2013,0,11
+Loriot d'Europe,2011,0,2
+Martinet noir,2013,0,6
+Martin-pêcheur d'Europe,2011,0,3
+Mésange huppée,2012,0,10
+Pic épeichette,2012,0,4
+Pigeon biset domestique,2016,0,4
+Pigeon colombin,2015,0,1
+Pouillot de Bonelli,2013,0,1
+Roitelet huppé,2015,0,1
+Rougequeue à front blanc,2017,0,13
+Serin cini,2014,0,9
+Tarier pâtre,2016,0,24
+Torcol fourmilier,2011,0,2
+Tourterelle des bois,2014,0,6
+Troglodyte mignon,2017,0,37
+Vanneau huppé,2010,0,1

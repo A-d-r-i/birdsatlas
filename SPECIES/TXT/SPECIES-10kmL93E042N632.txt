@@ -1,55 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bernache du Canada
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant jaune
-0        Bruant zizi
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Coucou gris
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Fauvette à tête noire
-0        Fauvette grisette
-0        Foulque macroule
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Martinet noir
-0        Mouette rieuse
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2017    0        5
+Autour des palombes       2011    0        2
+Bécasse des bois          2012    0        7
+Bergeronnette printanière 2012    0        1
+Bernache du Canada        2012    0        5
+Bihoreau gris             2017    0        10
+Bondrée apivore           2014    0        7
+Bruant jaune              2018    0        6
+Bruant zizi               2014    0        8
+Busard Saint-Martin       2010    0        1
+Caille des blés           2010    0        1
+Chevalier aboyeur         2011    0        1
+Chevalier culblanc        2017    0        2
+Chevalier sylvain         2017    0        1
+Chevêche d'Athéna         2009    0        1
+Chouette hulotte          2018    0        19
+Effraie des clochers      2015    0        8
+Engoulevent d'Europe      2014    0        11
+Fauvette grisette         2013    0        9
+Foulque macroule          2018    0        5
+Grèbe huppé               2010    0        2
+Grive litorne             2010    0        2
+Héron pourpré             2012    0        1
+Hibou moyen-duc           2011    0        2
+Hirondelle de fenêtre     2017    0        6
+Hirondelle de rivage      2017    0        2
+Hypolaïs polyglotte       2013    0        13
+Linotte mélodieuse        2018    0        2
+Martinet noir             2016    0        8
+Mouette rieuse            2012    0        1
+Perdrix rouge             2017    0        6
+Phragmite des joncs       2014    0        1
+Pie-grièche à tête rousse 2016    0        1
+Pie-grièche grise         2011    0        1
+Pigeon biset domestique   2017    0        2
+Pipit des arbres          2017    0        23
+Pipit rousseline          2009    0        1
+Pipit spioncelle          2015    0        1
+Pouillot de Bonelli       2014    0        5
+Pouillot fitis            2017    0        1
+Rossignol philomèle       2013    0        15
+Rougequeue à front blanc  2017    0        15
+Sarcelle d'été            2012    0        1
+Sarcelle d'hiver          2010    0        2
+Torcol fourmilier         2011    0        2
+Tourterelle des bois      2012    0        11
+Vanneau huppé             2017    0        8
 

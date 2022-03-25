@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Cigogne blanche"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Grèbe à cou noir"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Roitelet huppé"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2016,0,1
+Cigogne blanche,2014,0,1
+Faucon hobereau,2013,0,1
+Foulque macroule,2014,0,2
+Grèbe à cou noir,2009,0,1
+Moineau friquet,2017,0,1
+Pic épeichette,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2016,0,5
+Roitelet huppé,2016,0,1
+Traquet motteux,2010,0,1

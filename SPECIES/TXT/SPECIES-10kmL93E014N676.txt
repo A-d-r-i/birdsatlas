@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Busard des roseaux
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevalier sylvain
-0        Échasse blanche
-0        Eider à duvet
-0        Faucon émerillon
-0        Goéland à ailes blanches
-0        Goéland leucophée
-0        Grive draine
-0        Guifette noire
-0        Harle huppé
-0        Hibou des marais
-0        Hirondelle de fenêtre
-0        Macareux moine
-0        Macreuse brune
-0        Mouette de Franklin
-0        Océanite de Wilson
-0        Oedicnème criard
-0        Oie cendrée
-0        Pic épeiche
-0        Traquet isabelle
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Barge à queue noire      2018    0        3
+Bécasseau cocorli        2017    0        2
+Bécasseau minute         2017    0        2
+Busard des roseaux       2014    0        1
+Canard pilet             2009    0        1
+Canard siffleur          2019    0        2
+Chevalier culblanc       2014    0        1
+Chevalier sylvain        2014    0        1
+Échasse blanche          2014    0        1
+Eider à duvet            2017    0        4
+Faucon émerillon         2018    0        4
+Goéland à ailes blanches 2018    0        5
+Goéland leucophée        2018    0        2
+Grive draine             2016    0        1
+Guifette noire           2011    0        1
+Harle huppé              2011    0        2
+Hibou des marais         2017    0        1
+Hirondelle de fenêtre    2014    0        2
+Macareux moine           2018    0        2
+Macreuse brune           2018    0        1
+Mouette de Franklin      2018    0        1
+Océanite de Wilson       2017    0        1
+Oedicnème criard         2015    0        1
+Oie cendrée              2015    0        1
+Pic épeiche              2009    0        1
+Traquet isabelle         2017    0        2
 

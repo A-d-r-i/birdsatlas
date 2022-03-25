@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Grive draine"
-"0";"Héron cendré"
-"0";"Héron pourpré"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Troglodyte mignon"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Aigle royal,2009,0,1
+Aigrette garzette,2017,0,2
+Bondrée apivore,2009,0,1
+Chevalier culblanc,2017,0,2
+Chevalier sylvain,2009,0,1
+Fauvette passerinette,2009,0,1
+Fauvette pitchou,2009,0,1
+Grive draine,2009,0,2
+Héron cendré,2017,0,1
+Héron pourpré,2009,0,1
+Linotte mélodieuse,2009,0,1
+Moineau friquet,2009,0,1
+Troglodyte mignon,2009,0,1
+Venturon corse,2009,0,2

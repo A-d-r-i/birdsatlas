@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Fauvette passerinette"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pigeon colombin"
-"0";"Rollier d'Europe"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Canard colvert,2016,0,10
+Chevêche d'Athéna,2016,0,1
+Effraie des clochers,2017,0,1
+Fauvette passerinette,2016,0,4
+Grand-duc d'Europe,2017,0,5
+Grèbe castagneux,2012,0,2
+Monticole de roche,2012,0,1
+Mouette rieuse,2017,0,1
+Perdrix rouge,2018,0,2
+Pic épeichette,2014,0,4
+Pigeon colombin,2017,0,2
+Rollier d'Europe,2017,0,1
+Tarier des prés,2016,0,2

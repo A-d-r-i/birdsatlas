@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Caille des blés"
-"0";"Foulque macroule"
-"0";"Goéland argenté"
-"0";"Grosbec casse-noyaux"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,1
+Caille des blés,2009,0,1
+Foulque macroule,2018,0,1
+Goéland argenté,2018,0,1
+Grosbec casse-noyaux,2018,0,1
+Moineau friquet,2014,0,1
+Perdrix grise,2018,0,1
+Pic épeichette,2019,0,2
+Vanneau huppé,2018,0,2

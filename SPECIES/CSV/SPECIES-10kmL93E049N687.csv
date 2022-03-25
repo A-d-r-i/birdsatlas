@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Caille des blés"
-"0";"Loriot d'Europe"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Caille des blés,2009,0,1
+Loriot d'Europe,2009,0,1
+Serin cini,2009,0,1

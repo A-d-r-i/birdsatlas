@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Busard cendré
-0        Busard pâle
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Corbeau freux
-0        Faucon émerillon
-0        Grand Cormoran
-0        Moineau friquet
-0        Pouillot à grands sourcils
-0        Rossignol philomèle
-0        Sizerin flammé
-0        Vanneau huppé
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigle royal                2015    0        1
+Bruant des roseaux         2011    0        1
+Bruant ortolan             2012    0        1
+Busard cendré              2017    0        3
+Busard pâle                2011    0        1
+Chevalier guignette        2011    0        1
+Chevêche d'Athéna          2013    0        4
+Choucas des tours          2012    0        2
+Corbeau freux              2018    0        1
+Faucon émerillon           2017    0        1
+Grand Cormoran             2012    0        5
+Moineau friquet            2015    0        1
+Pouillot à grands sourcils 2016    0        1
+Rossignol philomèle        2010    0        2
+Sizerin flammé             2008    0        2
+Vanneau huppé              2016    0        6
 

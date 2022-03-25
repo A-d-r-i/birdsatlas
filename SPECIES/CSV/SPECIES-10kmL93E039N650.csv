@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Choucas des tours"
-"0";"Coucou geai"
-"0";"Engoulevent d'Europe"
-"0";"Flamant rose"
-"0";"Fou de Bassan"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Grand Labbe"
-"0";"Grèbe huppé"
-"0";"Guifette moustac"
-"0";"Guillemot de Troïl"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mouette pygmée"
-"0";"Océanite culblanc"
-"0";"Outarde canepetière"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Phalarope à bec large"
-"0";"Pipit rousseline"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,2
+Autour des palombes,2011,0,1
+Bécasseau de Temminck,2015,0,1
+Bécassine sourde,2018,0,1
+Bernache du Canada,2017,0,1
+Butor étoilé,2013,0,2
+Canard mandarin,2014,0,1
+Choucas des tours,2016,0,4
+Coucou geai,2011,0,1
+Engoulevent d'Europe,2015,0,3
+Flamant rose,2018,0,7
+Fou de Bassan,2016,0,1
+Fuligule milouinan,2017,0,1
+Fuligule morillon,2012,0,1
+Grand Labbe,2016,0,1
+Grèbe huppé,2015,0,3
+Guifette moustac,2013,0,1
+Guillemot de Troïl,2014,0,8
+Ibis falcinelle,2012,0,1
+Ibis sacré,2010,0,5
+Locustelle luscinioïde,2013,0,1
+Locustelle tachetée,2009,0,1
+Macareux moine,2014,0,3
+Mouette pygmée,2016,0,2
+Océanite culblanc,2009,0,1
+Outarde canepetière,2010,0,5
+Perdrix grise,2018,0,6
+Petit-duc scops,2017,0,3
+Phalarope à bec large,2016,0,1
+Pipit rousseline,2014,0,1
+Râle des genêts,2010,0,1
+Rémiz penduline,2018,0,1

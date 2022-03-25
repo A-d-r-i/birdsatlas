@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette grise"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Linotte mélodieuse"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2013,0,5
+Bec-croisé des sapins,2011,0,2
+Bergeronnette grise,2018,0,34
+Bernache du Canada,2011,0,4
+Bernache nonnette,2010,0,2
+Bondrée apivore,2014,0,6
+Bruant des roseaux,2015,0,2
+Busard des roseaux,2013,0,2
+Caille des blés,2012,0,3
+Chevalier culblanc,2013,0,1
+Chevalier guignette,2016,0,3
+Chevêche d'Athéna,2014,0,3
+Cochevis huppé,2017,0,10
+Cygne tuberculé,2012,0,3
+Engoulevent d'Europe,2012,0,3
+Épervier d'Europe,2018,0,14
+Faisan vénéré,2012,0,1
+Faucon pèlerin,2011,0,1
+Fauvette des jardins,2015,0,4
+Fuligule milouin,2012,0,1
+Gobemouche gris,2012,0,3
+Goéland brun,2016,0,1
+Grèbe huppé,2016,0,7
+Grive litorne,2015,0,1
+Harle bièvre,2011,0,7
+Hirondelle de rivage,2011,0,1
+Hypolaïs polyglotte,2017,0,4
+Jaseur boréal,2011,0,3
+Linotte mélodieuse,2018,0,17
+Mésange noire,2018,0,18
+Milan royal,2011,0,2
+Oie cendrée,2010,0,1
+Ouette d'Egypte,2015,0,1
+Perdrix grise,2016,0,3
+Perdrix rouge,2018,0,8
+Petit Gravelot,2015,0,1
+Pic noir,2018,0,11
+Pie-grièche écorcheur,2015,0,10
+Pigeon biset domestique,2014,0,4
+Pigeon colombin,2018,0,6
+Pinson du Nord,2014,0,6
+Pouillot fitis,2014,0,3
+Pouillot siffleur,2015,0,3
+Roitelet huppé,2015,0,5
+Rossignol philomèle,2015,0,2
+Tarier des prés,2014,0,1
+Tarin des aulnes,2015,0,11
+Tourterelle des bois,2016,0,7
+Traquet motteux,2015,0,1
+Vanneau huppé,2016,0,9

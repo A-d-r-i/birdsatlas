@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Barge à queue noire
-0        Bruant ortolan
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Chouette hulotte
-0        Échasse blanche
-0        Étourneau sansonnet
-0        Fauvette grisette
-0        Foulque macroule
-0        Gobemouche gris
-0        Milan noir
-0        Pluvier guignard
-0        Pouillot fitis
-0        Tourterelle turque
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Aigrette garzette   2009    0        1
+Autour des palombes 2018    0        2
+Barge à queue noire 2010    0        1
+Bruant ortolan      2016    0        5
+Busard Saint-Martin 2009    0        1
+Chevalier guignette 2016    0        3
+Chouette hulotte    2012    0        3
+Échasse blanche     2015    0        2
+Étourneau sansonnet 2013    0        1
+Fauvette grisette   2009    0        2
+Foulque macroule    2012    0        2
+Gobemouche gris     2009    0        1
+Milan noir          2009    0        2
+Pluvier guignard    2017    0        1
+Pouillot fitis      2016    0        1
+Tourterelle turque  2009    0        1
 

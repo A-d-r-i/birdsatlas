@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache cravant"
-"0";"Bihoreau gris"
-"0";"Busard pâle"
-"0";"Canard souchet"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Foulque macroule"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Hibou moyen-duc"
-"0";"Merle à plastron"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche méridionale"
-"0";"Plongeon imbrin"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Sterne caugek"
-"0";"Tichodrome échelette"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2009,0,1
+Bécasse des bois,2017,0,5
+Bécassine sourde,2009,0,1
+Bergeronnette flavéole (M.f.flavissima),2017,0,3
+Bernache cravant,2017,0,4
+Bihoreau gris,2010,0,1
+Busard pâle,2018,0,1
+Canard souchet,2018,0,1
+Courlis cendré,2009,0,1
+Engoulevent d'Europe,2017,0,4
+Foulque macroule,2017,0,7
+Goéland cendré,2010,0,3
+Gorgebleue à miroir,2016,0,2
+Grand Gravelot,2009,0,1
+Hibou moyen-duc,2018,0,15
+Merle à plastron,2018,0,3
+Ouette d'Egypte,2018,0,1
+Petit Gravelot,2018,0,1
+Phragmite des joncs,2017,0,4
+Pie-grièche méridionale,2010,0,2
+Plongeon imbrin,2010,0,1
+Pluvier argenté,2009,0,1
+Pouillot à grands sourcils,2017,0,3
+Pouillot de Bonelli,2018,0,7
+Sterne caugek,2018,0,1
+Tichodrome échelette,2016,0,2
+Vautour fauve,2015,0,1

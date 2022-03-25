@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Bruant ortolan
-0        Bruant proyer
-0        Canard chipeau
-0        Chevêche d'Athéna
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis cendré
-0        Cygne noir
-0        Fauvette des jardins
-0        Guifette moustac
-0        Hibou moyen-duc
-0        Loriot d'Europe
-0        Mouette rieuse
-0        Oie à tête barrée
-0        Perdrix rouge
-0        Perruche à collier
-0        Pigeon colombin
-0        Plongeon imbrin
-0        Roitelet huppé
-0        Sterne pierregarin
-0        Tarier des prés
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        9
+Autour des palombes       2016    0        2
+Bécassine des marais      2016    0        2
+Bergeronnette printanière 2012    0        2
+Bihoreau gris             2017    0        41
+Bouvreuil pivoine         2010    0        1
+Bruant jaune              2016    0        1
+Bruant ortolan            2012    0        1
+Bruant proyer             2011    0        2
+Canard chipeau            2011    0        2
+Chevêche d'Athéna         2014    0        2
+Cochevis huppé            2013    0        1
+Combattant varié          2016    0        1
+Courlis cendré            2011    0        1
+Cygne noir                2010    0        2
+Fauvette des jardins      2014    0        1
+Guifette moustac          2017    0        1
+Hibou moyen-duc           2010    0        4
+Loriot d'Europe           2018    0        20
+Mouette rieuse            2011    0        1
+Oie à tête barrée         2011    0        1
+Perdrix rouge             2012    0        6
+Perruche à collier        2011    0        1
+Pigeon colombin           2016    0        1
+Plongeon imbrin           2012    0        2
+Roitelet huppé            2009    0        1
+Sterne pierregarin        2011    0        1
+Tarier des prés           2017    0        1
+Traquet motteux           2011    0        3
 

@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle criard
-0        Autour des palombes
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Cigogne noire
-0        Faucon d'Eléonore
-0        Faucon hobereau
-0        Fauvette orphée
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grimpereau des bois
-0        Grive litorne
-0        Hirondelle de rivage
-0        Moineau soulcie
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Tarier des prés
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle criard          2018    0        1
+Autour des palombes   2016    0        5
+Busard des roseaux    2015    0        1
+Busard Saint-Martin   2017    0        1
+Chevalier guignette   2014    0        1
+Cigogne noire         2018    0        4
+Faucon d'Eléonore     2014    0        2
+Faucon hobereau       2017    0        1
+Fauvette orphée       2009    0        1
+Gallinule poule-d'eau 2014    0        1
+Gobemouche gris       2018    0        6
+Grimpereau des bois   2012    0        2
+Grive litorne         2016    0        4
+Hirondelle de rivage  2014    0        1
+Moineau soulcie       2012    0        3
+Pic vert              2009    0        2
+Pie-grièche écorcheur 2009    0        1
+Tarier des prés       2015    0        2
 

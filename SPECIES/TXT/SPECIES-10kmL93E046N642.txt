@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bernache du Canada
-0        Bruant jaune
-0        Canard mandarin
-0        Chevalier stagnatile
-0        Chevalier sylvain
-0        Cigogne noire
-0        Cochevis huppé
-0        Cygne noir
-0        Effraie des clochers
-0        Fauvette pitchou
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Grèbe à cou noir
-0        Harle piette
-0        Merle à plastron
-0        Moineau friquet
-0        Mouette pygmée
-0        Oie cendrée
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Pouillot de Bonelli
-0        Rémiz penduline
-0        Sterne naine
-0        Sterne pierregarin
-0        Tadorne de Belon
-0        Tarier des prés
-0        Torcol fourmilier
-0        Vautour fauve
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Bécasse des bois                        2012    0        2
+Bergeronnette flavéole (M.f.flavissima) 2012    0        1
+Bernache du Canada                      2016    0        1
+Bruant jaune                            2018    0        1
+Canard mandarin                         2013    0        1
+Chevalier stagnatile                    2012    0        1
+Chevalier sylvain                       2016    0        1
+Cigogne noire                           2011    0        1
+Cochevis huppé                          2011    0        1
+Cygne noir                              2013    0        14
+Effraie des clochers                    2016    0        30
+Fauvette pitchou                        2016    0        1
+Fuligule nyroca                         2018    0        4
+Garrot à oeil d'or                      2015    0        20
+Grèbe à cou noir                        2017    0        16
+Harle piette                            2011    0        4
+Merle à plastron                        2015    0        1
+Moineau friquet                         2018    0        13
+Mouette pygmée                          2016    0        1
+Oie cendrée                             2017    0        1
+Pipit spioncelle                        2018    0        4
+Plongeon catmarin                       2018    0        1
+Pouillot de Bonelli                     2009    0        2
+Rémiz penduline                         2016    0        1
+Sterne naine                            2016    0        1
+Sterne pierregarin                      2017    0        2
+Tadorne de Belon                        2016    0        7
+Tarier des prés                         2017    0        2
+Torcol fourmilier                       2018    0        1
+Vautour fauve                           2007    0        1
 

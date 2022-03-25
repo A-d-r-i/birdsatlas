@@ -1,55 +1,53 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant lapon"
-"0";"Calopsitte élégante"
-"0";"Cigogne noire"
-"0";"Cormoran huppé"
-"0";"Coucou geai"
-"0";"Engoulevent d'Europe"
-"0";"Étourneau unicolore"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Fulmar boréal"
-"0";"Goéland à ailes blanches"
-"0";"Goéland pontique"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Martinet à ventre blanc"
-"0";"Mergule nain"
-"0";"Mouette de Sabine"
-"0";"Nette demi-deuil"
-"0";"Océanite culblanc"
-"0";"Océanite tempête"
-"0";"Oie à bec court"
-"0";"Oie rieuse"
-"0";"Panure à moustaches"
-"0";"Perruche ondulée"
-"0";"Phalarope à bec large"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot de Bonelli"
-"0";"Puffin cendré"
-"0";"Puffin des Baléares"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne de Dougall"
-"0";"Sterne hansel"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,2
+Bergeronnette flavéole (M.f.flavissima),2013,0,13
+Bernache du Canada,2015,0,3
+Bernache nonnette,2016,0,3
+Blongios nain,2013,0,12
+Bouvreuil pivoine,2018,0,7
+Bruant lapon,2010,0,3
+Calopsitte élégante,2015,0,8
+Cigogne noire,2010,0,10
+Cormoran huppé,2013,0,5
+Coucou geai,2010,0,1
+Engoulevent d'Europe,2015,0,2
+Étourneau unicolore,2013,0,7
+Fauvette pitchou,2018,0,13
+Fuligule morillon,2012,0,8
+Fulmar boréal,2014,0,3
+Goéland à ailes blanches,2017,0,5
+Goéland pontique,2016,0,3
+Grèbe esclavon,2017,0,19
+Grèbe jougris,2016,0,8
+Grosbec casse-noyaux,2018,0,136
+Guêpier d'Europe,2016,0,14
+Harle bièvre,2012,0,5
+Harle piette,2010,0,1
+Labbe parasite,2015,0,44
+Labbe pomarin,2014,0,8
+Locustelle luscinioïde,2012,0,8
+Macareux moine,2014,0,7
+Martinet à ventre blanc,2012,0,1
+Mergule nain,2013,0,2
+Mouette de Sabine,2015,0,9
+Nette demi-deuil,2014,0,1
+Océanite culblanc,2016,0,25
+Océanite tempête,2013,0,4
+Oie à bec court,2017,0,4
+Oie rieuse,2015,0,5
+Panure à moustaches,2016,0,18
+Perruche ondulée,2015,0,3
+Phalarope à bec large,2016,0,5
+Phragmite aquatique,2014,0,17
+Pie-grièche à tête rousse,2016,0,3
+Pouillot de Bonelli,2014,0,9
+Puffin cendré,2010,0,1
+Puffin des Baléares,2010,0,1
+Râle des genêts,2015,0,1
+Rémiz penduline,2018,0,79
+Sizerin cabaret,2017,0,2
+Sizerin flammé,2017,0,23
+Sterne arctique,2011,0,1
+Sterne de Dougall,2013,0,2
+Sterne hansel,2013,0,1
+Tichodrome échelette,2018,0,1

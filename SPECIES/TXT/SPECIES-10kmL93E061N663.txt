@@ -1,57 +1,57 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant proyer
-0        Busard cendré
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard colvert
-0        Chouette hulotte
-0        Circaète Jean-le-Blanc
-0        Corbeau freux
-0        Coucou gris
-0        Effraie des clochers
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grèbe castagneux
-0        Grive draine
-0        Grive mauvis
-0        Grive musicienne
-0        Guêpier d'Europe
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange à longue queue
-0        Mésange noire
-0        Mésange nonnette
-0        Oedicnème criard
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic cendré
-0        Pic mar
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Serin cini
-0        Tarier pâtre
-0        Tourterelle des bois
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        2
+Autour des palombes       2009    0        1
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2009    0        1
+Bondrée apivore           2009    0        1
+Bouvreuil pivoine         2009    0        1
+Bruant proyer             2009    0        1
+Busard cendré             2009    0        1
+Busard Saint-Martin       2017    0        3
+Caille des blés           2009    0        1
+Canard colvert            2009    0        1
+Chouette hulotte          2009    0        1
+Circaète Jean-le-Blanc    2009    0        1
+Corbeau freux             2009    0        1
+Coucou gris               2009    0        1
+Effraie des clochers      2009    0        1
+Fauvette des jardins      2009    0        1
+Fauvette grisette         2009    0        1
+Gallinule poule-d'eau     2009    0        1
+Gobemouche gris           2009    0        1
+Grèbe castagneux          2009    0        1
+Grive draine              2009    0        2
+Grive mauvis              2017    0        1
+Grive musicienne          2009    0        1
+Guêpier d'Europe          2009    0        1
+Héron garde-boeufs        2009    0        1
+Hibou moyen-duc           2009    0        1
+Huppe fasciée             2009    0        1
+Hypolaïs polyglotte       2009    0        1
+Locustelle tachetée       2009    0        1
+Loriot d'Europe           2009    0        1
+Mésange à longue queue    2009    0        2
+Mésange noire             2009    0        1
+Mésange nonnette          2009    0        2
+Oedicnème criard          2009    0        1
+Perdrix grise             2009    0        1
+Perdrix rouge             2009    0        1
+Pic cendré                2009    0        1
+Pic mar                   2009    0        1
+Pic noir                  2009    0        1
+Pie-grièche écorcheur     2009    0        1
+Pigeon colombin           2009    0        1
+Pipit des arbres          2009    0        1
+Pouillot de Bonelli       2009    0        1
+Pouillot fitis            2009    0        1
+Pouillot siffleur         2009    0        1
+Rossignol philomèle       2009    0        1
+Rougequeue à front blanc  2009    0        1
+Rousserolle effarvatte    2009    0        1
+Serin cini                2009    0        1
+Tarier pâtre              2009    0        1
+Tourterelle des bois      2009    0        1
+Vanneau huppé             2009    0        2
 

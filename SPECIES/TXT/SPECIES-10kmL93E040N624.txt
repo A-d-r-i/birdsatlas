@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau minute
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bruant jaune
-0        Bruant proyer
-0        Canard mandarin
-0        Chevêche d'Athéna
-0        Circaète Jean-le-Blanc
-0        Cygne tuberculé
-0        Fauvette des jardins
-0        Guêpier d'Europe
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Moineau soulcie
-0        Oie cendrée
-0        Pipit des arbres
-0        Pouillot fitis
-0        Rousserolle effarvatte
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2009    0        1
+Bécasseau minute          2008    0        3
+Bécassine des marais      2017    0        1
+Bergeronnette printanière 2017    0        1
+Bruant jaune              2016    0        2
+Bruant proyer             2013    0        2
+Canard mandarin           2018    0        1
+Chevêche d'Athéna         2009    0        1
+Circaète Jean-le-Blanc    2012    0        2
+Cygne tuberculé           2016    0        1
+Fauvette des jardins      2018    0        2
+Guêpier d'Europe          2013    0        2
+Hibou moyen-duc           2009    0        1
+Hirondelle de rivage      2009    0        2
+Moineau soulcie           2009    0        1
+Oie cendrée               2013    0        2
+Pipit des arbres          2009    0        1
+Pouillot fitis            2018    0        1
+Rousserolle effarvatte    2018    0        1
+Torcol fourmilier         2009    0        1
+Tourterelle des bois      2009    0        1
 

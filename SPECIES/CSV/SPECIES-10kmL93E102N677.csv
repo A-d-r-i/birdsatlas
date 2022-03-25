@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Combattant varié"
-"0";"Cygne chanteur"
-"0";"Faucon kobez"
-"0";"Faucon sacre"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Nette rousse"
-"0";"Oie à tête barrée"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2007,0,1
+Bécasse des bois,2018,0,2
+Bécassine des marais,2015,0,10
+Bihoreau gris,2018,0,3
+Bruant ortolan,2015,0,7
+Busard cendré,2013,0,8
+Buse pattue,2013,0,7
+Caille des blés,2018,0,12
+Canard chipeau,2018,0,6
+Canard pilet,2015,0,7
+Canard siffleur,2008,0,1
+Canard souchet,2008,0,2
+Chevalier aboyeur,2012,0,5
+Chevalier sylvain,2008,0,2
+Cincle plongeur,2017,0,2
+Combattant varié,2010,0,3
+Cygne chanteur,2011,0,2
+Faucon kobez,2008,0,3
+Faucon sacre,2019,0,1
+Fuligule milouin,2018,0,5
+Fuligule morillon,2007,0,1
+Fuligule nyroca,2007,0,1
+Garrot à oeil d'or,2013,0,1
+Grèbe à cou noir,2008,0,1
+Grèbe castagneux,2010,0,2
+Héron pourpré,2007,0,5
+Hibou des marais,2015,0,2
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2009,0,2
+Merle à plastron,2009,0,1
+Mésange huppée,2016,0,2
+Nette rousse,2013,0,3
+Oie à tête barrée,2009,0,3
+Oie des moissons,2010,0,6
+Oie rieuse,2011,0,4
+Perdrix rouge,2013,0,4
+Petit-duc scops,2016,0,2
+Petit Gravelot,2013,0,11
+Pic épeichette,2009,0,2
+Pipit rousseline,2011,0,6
+Plongeon arctique,2010,0,4
+Pouillot siffleur,2017,0,3
+Sarcelle d'été,2008,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2009,0,1
+Tadorne casarca,2007,0,1

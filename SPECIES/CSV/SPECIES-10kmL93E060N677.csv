@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette calandrelle"
-"0";"Alouette des champs"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Corneille noire"
-"0";"Coucou gris"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Geai des chênes"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Martinet noir"
-"0";"Mésange bleue"
-"0";"Moineau friquet"
-"0";"Petit Gravelot"
-"0";"Pic épeiche"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot véloce"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,2
+Alouette calandrelle,2009,0,1
+Alouette des champs,2018,0,4
+Bruant jaune,2009,0,2
+Bruant zizi,2009,0,2
+Busard cendré,2009,0,1
+Busard des roseaux,2012,0,2
+Caille des blés,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2009,0,1
+Cochevis huppé,2009,0,2
+Corbeau freux,2009,0,1
+Corneille noire,2018,0,4
+Coucou gris,2009,0,1
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2009,0,1
+Geai des chênes,2009,0,2
+Grive litorne,2009,0,1
+Grosbec casse-noyaux,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Martinet noir,2009,0,1
+Mésange bleue,2017,0,3
+Moineau friquet,2009,0,2
+Petit Gravelot,2009,0,1
+Pic épeiche,2009,0,1
+Pipit farlouse,2009,0,2
+Pouillot fitis,2009,0,1
+Pouillot véloce,2009,0,1
+Roitelet huppé,2009,0,1
+Rossignol philomèle,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Serin cini,2009,0,1
+Tarin des aulnes,2009,0,1
+Tourterelle des bois,2009,0,1
+Vanneau huppé,2009,0,1

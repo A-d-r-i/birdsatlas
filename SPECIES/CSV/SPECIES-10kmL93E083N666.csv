@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Chevêchette d'Europe"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Oie à tête barrée"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,3
+Bruant des roseaux,2008,0,1
+Busard cendré,2018,0,3
+Chevalier culblanc,2014,0,1
+Chevêche d'Athéna,2016,0,9
+Chevêchette d'Europe,2017,0,2
+Guêpier d'Europe,2015,0,1
+Hibou moyen-duc,2017,0,5
+Locustelle tachetée,2012,0,2
+Martinet à ventre blanc,2015,0,1
+Oie à tête barrée,2017,0,5
+Petit-duc scops,2016,0,9
+Petit Gravelot,2011,0,2
+Pie-grièche grise,2010,0,1
+Pipit spioncelle,2017,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Tarier des prés,2018,0,4
+Vautour fauve,2013,0,4

@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Canard mandarin
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier guignette
-0        Cygne chanteur
-0        Faucon émerillon
-0        Fuligule milouin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland cendré
-0        Goéland leucophée
-0        Gorgebleue à miroir
-0        Grand-duc d'Europe
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Guêpier d'Europe
-0        Hirondelle de rivage
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Nette rousse
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pluvier doré
-0        Râle d'eau
-0        Rémiz penduline
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne casarca
-0        Tadorne de Belon
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau de Temminck  2010    0        3
+Bécasseau minute       2010    0        1
+Bécasseau variable     2010    0        1
+Bruant proyer          2012    0        9
+Busard Saint-Martin    2018    0        6
+Canard chipeau         2016    0        51
+Canard mandarin        2012    0        2
+Canard pilet           2011    0        4
+Canard siffleur        2015    0        28
+Canard souchet         2016    0        3
+Chevalier aboyeur      2010    0        6
+Chevalier gambette     2010    0        1
+Chevalier guignette    2016    0        15
+Cygne chanteur         2011    0        3
+Faucon émerillon       2017    0        2
+Fuligule milouin       2016    0        95
+Fuligule morillon      2016    0        107
+Garrot à oeil d'or     2013    0        6
+Goéland brun           2018    0        7
+Goéland cendré         2012    0        4
+Goéland leucophée      2018    0        5
+Gorgebleue à miroir    2012    0        1
+Grand-duc d'Europe     2016    0        1
+Grand Gravelot         2014    0        1
+Grèbe castagneux       2014    0        12
+Guêpier d'Europe       2015    0        1
+Hirondelle de rivage   2012    0        2
+Jaseur boréal          2013    0        18
+Locustelle tachetée    2017    0        45
+Marouette ponctuée     2018    0        1
+Nette rousse           2011    0        9
+Pipit rousseline       2017    0        3
+Pipit spioncelle       2018    0        50
+Pluvier doré           2013    0        3
+Râle d'eau             2018    0        19
+Rémiz penduline        2018    0        30
+Rousserolle effarvatte 2014    0        2
+Sarcelle d'hiver       2018    0        32
+Sizerin cabaret        2015    0        9
+Sizerin flammé         2018    0        13
+Tadorne casarca        2018    0        4
+Tadorne de Belon       2016    0        2
 

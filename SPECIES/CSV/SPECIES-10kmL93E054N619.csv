@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Busard des roseaux"
-"0";"Choucas des tours"
-"0";"Gobemouche noir"
-"0";"Gorgebleue à miroir"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Monticole de roche"
-"0";"Pic mar"
-"0";"Pie bavarde"
-"0";"Pluvier guignard"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Busard des roseaux,2018,0,1
+Choucas des tours,2017,0,1
+Gobemouche noir,2018,0,3
+Gorgebleue à miroir,2018,0,1
+Hibou moyen-duc,2017,0,1
+Huppe fasciée,2015,0,2
+Locustelle tachetée,2015,0,1
+Monticole de roche,2018,0,4
+Pic mar,2009,0,1
+Pie bavarde,2009,0,2
+Pluvier guignard,2017,0,1
+Pouillot de Bonelli,2017,0,1
+Pouillot fitis,2018,0,1
+Rougequeue à front blanc,2009,0,1
+Verdier d'Europe,2009,0,1

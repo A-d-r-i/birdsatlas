@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bernache du Canada"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Grive draine"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,3
+Bécasse des bois,2014,0,3
+Bécassine des marais,2012,0,3
+Bergeronnette des ruisseaux,2019,0,12
+Bernache du Canada,2016,0,1
+Bouvreuil pivoine,2018,0,3
+Bruant des roseaux,2013,0,12
+Bruant proyer,2014,0,6
+Busard Saint-Martin,2016,0,7
+Canard chipeau,2019,0,27
+Canard pilet,2015,0,3
+Canard siffleur,2017,0,11
+Canard souchet,2018,0,11
+Chevalier aboyeur,2013,0,1
+Chevalier culblanc,2018,0,1
+Cigogne noire,2017,0,1
+Engoulevent d'Europe,2015,0,1
+Fauvette des jardins,2013,0,1
+Fuligule milouin,2011,0,14
+Fuligule morillon,2011,0,16
+Garrot à oeil d'or,2010,0,2
+Goéland cendré,2014,0,3
+Goéland leucophée,2018,0,24
+Grèbe à cou noir,2010,0,2
+Grive draine,2018,0,14
+Guifette noire,2015,0,3
+Harle bièvre,2010,0,3
+Héron pourpré,2018,0,3
+Moineau friquet,2019,0,2
+Mouette pygmée,2013,0,1
+Nette rousse,2016,0,1
+Oie cendrée,2013,0,2
+Perdrix rouge,2016,0,7
+Pie-grièche à tête rousse,2011,0,3
+Pie-grièche écorcheur,2011,0,3
+Pigeon biset domestique,2019,0,13
+Pouillot fitis,2016,0,4
+Râle d'eau,2010,0,3
+Râle des genêts,2013,0,1
+Rollier d'Europe,2012,0,1
+Sarcelle d'été,2018,0,1
+Sarcelle d'hiver,2012,0,5
+Tadorne de Belon,2012,0,2
+Vanneau huppé,2019,0,15

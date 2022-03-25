@@ -1,61 +1,61 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Aigle botté
-0        Aigrette garzette
-0        Alouette lulu
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bernache du Canada
-0        Bondrée apivore
-0        Bruant zizi
-0        Busard des roseaux
-0        Canard carolin
-0        Canard mandarin
-0        Cassenoix moucheté
-0        Chevêche d'Athéna
-0        Chocard à bec jaune
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette passerinette
-0        Fauvette pitchou
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Grosbec casse-noyaux
-0        Guêpier d'Europe
-0        Héron garde-boeufs
-0        Hirondelle de rivage
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Martinet à ventre blanc
-0        Martinet pâle
-0        Martin-pêcheur d'Europe
-0        Mésange nonnette
-0        Milan noir
-0        Monticole bleu
-0        Monticole de roche
-0        Perdrix bartavelle
-0        Perdrix grise
-0        Perdrix rouge
-0        Perruche à collier
-0        Petit-duc scops
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Tarier pâtre
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Traquet motteux
-0        Vautour fauve
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2018    0        7
+Aigle botté               2018    0        1
+Aigrette garzette         2015    0        3
+Alouette lulu             2016    0        6
+Bec-croisé des sapins     2015    0        4
+Bergeronnette printanière 2018    0        1
+Bernache du Canada        2014    0        11
+Bondrée apivore           2018    0        7
+Bruant zizi               2016    0        9
+Busard des roseaux        2018    0        1
+Canard carolin            2018    0        5
+Canard mandarin           2017    0        3
+Cassenoix moucheté        2012    0        5
+Chevêche d'Athéna         2009    0        3
+Chocard à bec jaune       2012    0        2
+Engoulevent d'Europe      2018    0        5
+Faisan de Colchide        2010    0        1
+Faucon émerillon          2018    0        1
+Faucon hobereau           2018    0        2
+Fauvette passerinette     2014    0        8
+Fauvette pitchou          2012    0        4
+Foulque macroule          2010    0        4
+Gallinule poule-d'eau     2018    0        11
+Gobemouche noir           2018    0        1
+Grèbe castagneux          2012    0        1
+Grosbec casse-noyaux      2018    0        10
+Guêpier d'Europe          2012    0        5
+Héron garde-boeufs        2010    0        2
+Hirondelle de rivage      2015    0        1
+Hypolaïs polyglotte       2011    0        6
+Linotte mélodieuse        2016    0        1
+Martinet à ventre blanc   2017    0        6
+Martinet pâle             2017    0        1
+Martin-pêcheur d'Europe   2010    0        2
+Mésange nonnette          2014    0        4
+Milan noir                2007    0        1
+Monticole bleu            2018    0        8
+Monticole de roche        2007    0        3
+Perdrix bartavelle        2009    0        2
+Perdrix grise             2012    0        1
+Perdrix rouge             2011    0        3
+Perruche à collier        2016    0        1
+Petit-duc scops           2017    0        8
+Pic épeichette            2009    0        2
+Pie-grièche écorcheur     2017    0        2
+Pinson du Nord            2015    0        1
+Pipit des arbres          2016    0        4
+Pouillot fitis            2017    0        1
+Rossignol philomèle       2018    0        7
+Rougequeue à front blanc  2016    0        3
+Tarier pâtre              2017    0        5
+Torcol fourmilier         2011    0        6
+Tourterelle des bois      2009    0        2
+Tourterelle turque        2018    0        6
+Traquet motteux           2012    0        3
+Vautour fauve             2011    0        1
+Venturon montagnard       2016    0        1
 

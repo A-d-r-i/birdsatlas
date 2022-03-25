@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Alouette haussecol
-0        Bécasseau maubèche
-0        Bécasseau tacheté
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Butor étoilé
-0        Caille des blés
-0        Canard souchet
-0        Chevalier grivelé
-0        Échasse blanche
-0        Etourneau roselin
-0        Fuligule milouinan
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Goéland leucophée
-0        Guêpier d'Europe
-0        Guifette noire
-0        Guillemot à miroir
-0        Héron pourpré
-0        Hibou des marais
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Labbe pomarin
-0        Macareux moine
-0        Mésange noire
-0        Milan noir
-0        Mouette pygmée
-0        Océanite culblanc
-0        Oie cendrée
-0        Perruche ondulée
-0        Phalarope à bec large
-0        Phragmite des joncs
-0        Pic mar
-0        Pipit de Richard
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Pouillot de Pallas
-0        Puffin cendré
-0        Rossignol philomèle
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette calandrelle      2018    0        1
+Alouette haussecol        2008    0        1
+Bécasseau maubèche        2015    0        3
+Bécasseau tacheté         2011    0        2
+Bécasse des bois          2017    0        6
+Bergeronnette printanière 2017    0        13
+Bruant proyer             2009    0        1
+Butor étoilé              2009    0        1
+Caille des blés           2014    0        1
+Canard souchet            2009    0        1
+Chevalier grivelé         2009    0        1
+Échasse blanche           2018    0        2
+Etourneau roselin         2012    0        1
+Fuligule milouinan        2017    0        9
+Gobemouche gris           2018    0        10
+Gobemouche noir           2013    0        4
+Goéland à ailes blanches  2018    0        13
+Goéland bourgmestre       2014    0        5
+Goéland leucophée         2016    0        3
+Guêpier d'Europe          2015    0        1
+Guifette noire            2015    0        1
+Guillemot à miroir        2017    0        18
+Héron pourpré             2017    0        1
+Hibou des marais          2016    0        3
+Huppe fasciée             2016    0        3
+Hypolaïs polyglotte       2017    0        1
+Labbe pomarin             2014    0        1
+Macareux moine            2014    0        11
+Mésange noire             2016    0        4
+Milan noir                2016    0        2
+Mouette pygmée            2018    0        9
+Océanite culblanc         2017    0        3
+Oie cendrée               2015    0        1
+Perruche ondulée          2015    0        1
+Phalarope à bec large     2018    0        2
+Phragmite des joncs       2017    0        8
+Pic mar                   2018    0        1
+Pipit de Richard          2009    0        1
+Pipit des arbres          2017    0        4
+Pipit spioncelle          2017    0        9
+Plongeon catmarin         2017    0        1
+Pouillot de Pallas        2009    0        1
+Puffin cendré             2017    0        5
+Rossignol philomèle       2014    0        1
+Tarier des prés           2015    0        3
 

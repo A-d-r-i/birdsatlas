@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Bruant jaune"
-"0";"Cygne chanteur"
-"0";"Fauvette des jardins"
-"0";"Goéland à ailes blanches"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grimpereau des jardins"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Macreuse brune"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Ouette d'Egypte"
-"0";"Pigeon colombin"
-"0";"Pipit de Richard"
-"0";"Pluvier guignard"
-"0";"Puffin cendré"
-"0";"Puffin des Anglais"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sittelle torchepot"
-"0";"Sterne hansel"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2018,0,1
+Bruant jaune,2009,0,1
+Cygne chanteur,2016,0,1
+Fauvette des jardins,2009,0,1
+Goéland à ailes blanches,2018,0,2
+Grèbe esclavon,2019,0,4
+Grèbe jougris,2018,0,1
+Grimpereau des jardins,2009,0,1
+Grive litorne,2017,0,3
+Grosbec casse-noyaux,2018,0,1
+Harelde boréale,2018,0,3
+Harle huppé,2019,0,1
+Macreuse brune,2019,0,1
+Mésange huppée,2009,0,1
+Mésange nonnette,2009,0,1
+Ouette d'Egypte,2018,0,2
+Pigeon colombin,2009,0,1
+Pipit de Richard,2018,0,1
+Pluvier guignard,2010,0,2
+Puffin cendré,2017,0,1
+Puffin des Anglais,2017,0,1
+Roitelet à triple bandeau,2009,0,1
+Roitelet huppé,2018,0,3
+Sittelle torchepot,2009,0,1
+Sterne hansel,2017,0,1

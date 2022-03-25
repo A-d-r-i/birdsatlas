@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Avocette élégante
-0        Bécasse des bois
-0        Butor étoilé
-0        Canard siffleur
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Cochevis huppé
-0        Cormoran huppé
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fuligule milouin
-0        Gobemouche gris
-0        Goéland argenté
-0        Goéland brun
-0        Goéland cendré
-0        Goéland marin
-0        Goéland pontique
-0        Milan royal
-0        Moineau friquet
-0        Mouette pygmée
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pouillot siffleur
-0        Sarcelle d'hiver
-0        Tadorne de Belon
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2009    0        1
+Avocette élégante     2009    0        1
+Bécasse des bois      2009    0        2
+Butor étoilé          2009    0        1
+Canard siffleur       2009    0        1
+Canard souchet        2015    0        2
+Chevêche d'Athéna     2009    0        1
+Cochevis huppé        2009    0        2
+Cormoran huppé        2017    0        1
+Engoulevent d'Europe  2009    0        1
+Faucon émerillon      2009    0        1
+Fuligule milouin      2009    0        1
+Gobemouche gris       2017    0        2
+Goéland argenté       2018    0        2
+Goéland brun          2018    0        5
+Goéland cendré        2009    0        1
+Goéland marin         2018    0        1
+Goéland pontique      2018    0        2
+Milan royal           2016    0        1
+Moineau friquet       2017    0        2
+Mouette pygmée        2009    0        1
+Pie-grièche écorcheur 2009    0        1
+Pipit des arbres      2017    0        2
+Pouillot siffleur     2009    0        1
+Sarcelle d'hiver      2009    0        1
+Tadorne de Belon      2009    0        1
 

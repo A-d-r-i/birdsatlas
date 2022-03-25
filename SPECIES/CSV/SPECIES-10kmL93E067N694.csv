@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Mésange à longue queue"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Serin cini"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,4
+Bondrée apivore,2013,0,1
+Bouvreuil pivoine,2009,0,1
+Bruant des roseaux,2009,0,1
+Bruant proyer,2017,0,5
+Busard cendré,2009,0,1
+Busard des roseaux,2009,0,1
+Caille des blés,2017,0,2
+Canard colvert,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Cigogne blanche,2009,0,1
+Coucou gris,2009,0,1
+Épervier d'Europe,2009,0,2
+Faisan de Colchide,2010,0,1
+Faucon hobereau,2009,0,1
+Fauvette grisette,2017,0,3
+Foulque macroule,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2013,0,31
+Grande Aigrette,2009,0,1
+Grive litorne,2009,0,1
+Hirondelle de fenêtre,2017,0,5
+Hypolaïs polyglotte,2009,0,1
+Linotte mélodieuse,2017,0,10
+Martinet noir,2017,0,1
+Mésange à longue queue,2009,0,2
+Milan noir,2009,0,1
+Moineau friquet,2009,0,1
+Oedicnème criard,2009,0,1
+Pic mar,2018,0,1
+Pic noir,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Rossignol philomèle,2009,0,1
+Serin cini,2009,0,1
+Tarier pâtre,2009,0,1

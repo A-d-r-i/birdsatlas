@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grive mauvis"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Mésange noire"
-"0";"Monticole de roche"
-"0";"Petit Gravelot"
-"0";"Pic vert"
-"0";"Pie-grièche méridionale"
-"0";"Pipit spioncelle"
-"0";"Pluvier guignard"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Sittelle torchepot"
+frname,lastobs,newcount,oldcount
+Bouvreuil pivoine,2009,0,1
+Bruant fou,2011,0,2
+Bruant jaune,2018,0,1
+Bruant ortolan,2015,0,3
+Canard souchet,2015,0,1
+Chevalier culblanc,2012,0,1
+Chevalier guignette,2015,0,1
+Chevêche d'Athéna,2010,0,1
+Cigogne blanche,2017,0,2
+Effraie des clochers,2014,0,6
+Faucon crécerellette,2017,0,1
+Faucon kobez,2012,0,1
+Fauvette grisette,2016,0,2
+Gobemouche gris,2016,0,5
+Grande Aigrette,2012,0,2
+Grive mauvis,2007,0,1
+Héron garde-boeufs,2016,0,1
+Hibou moyen-duc,2018,0,7
+Hirondelle de rivage,2017,0,2
+Locustelle tachetée,2013,0,1
+Martinet à ventre blanc,2015,0,1
+Mésange noire,2017,0,1
+Monticole de roche,2015,0,5
+Petit Gravelot,2015,0,2
+Pic vert,2009,0,1
+Pie-grièche méridionale,2015,0,1
+Pipit spioncelle,2015,0,1
+Pluvier guignard,2016,0,1
+Roitelet huppé,2016,0,1
+Rousserolle turdoïde,2009,0,1
+Sittelle torchepot,2017,0,6

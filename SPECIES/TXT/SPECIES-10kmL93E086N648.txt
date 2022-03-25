@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Blongios nain
-0        Bruant fou
-0        Bruant ortolan
-0        Canard chipeau
-0        Canard souchet
-0        Corbeau freux
-0        Cygne tuberculé
-0        Fuligule morillon
-0        Fuligule nyroca
-0        Goéland cendré
-0        Grimpereau des bois
-0        Guifette noire
-0        Héron garde-boeufs
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Nette rousse
-0        Oie cendrée
-0        Pipit rousseline
-0        Rémiz penduline
-0        Roitelet huppé
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bihoreau gris        2015    0        6
+Blongios nain        2017    0        9
+Bruant fou           2018    0        7
+Bruant ortolan       2017    0        1
+Canard chipeau       2018    0        1
+Canard souchet       2011    0        1
+Corbeau freux        2017    0        16
+Cygne tuberculé      2018    0        2
+Fuligule morillon    2013    0        2
+Fuligule nyroca      2017    0        2
+Goéland cendré       2012    0        2
+Grimpereau des bois  2015    0        1
+Guifette noire       2018    0        1
+Héron garde-boeufs   2018    0        5
+Hibou des marais     2017    0        2
+Hirondelle de rivage 2011    0        1
+Merle à plastron     2013    0        1
+Nette rousse         2018    0        2
+Oie cendrée          2011    0        1
+Pipit rousseline     2015    0        4
+Rémiz penduline      2018    0        1
+Roitelet huppé       2018    0        36
 

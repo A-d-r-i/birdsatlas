@@ -1,8 +1,8 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Effraie des clochers
-0        Fauvette mélanocéphale
-0        Hirondelle de rochers
-0        Martinet noir
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Effraie des clochers   2016    0        1
+Fauvette mélanocéphale 2016    0        2
+Hirondelle de rochers  2017    0        1
+Martinet noir          2017    0        1
 

@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Pipit farlouse"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Pipit farlouse,2009,0,1
+Pouillot siffleur,2009,0,1
+Serin cini,2009,0,1

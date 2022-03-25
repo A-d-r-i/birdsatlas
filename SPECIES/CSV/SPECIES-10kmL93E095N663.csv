@@ -1,51 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Bruant des neiges"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Fuligule milouinan"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grand Tétras"
-"0";"Grèbe jougris"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Monticole de roche"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Phragmite des joncs"
-"0";"Pic tridactyle"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Plongeon imbrin"
-"0";"Rossignol philomèle"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Sterne caspienne"
-"0";"Sterne pierregarin"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2009,0,1
+Bernache nonnette,2011,0,9
+Bihoreau gris,2018,0,2
+Blongios nain,2016,0,1
+Bruant des neiges,2011,0,6
+Bruant fou,2007,0,1
+Bruant ortolan,2013,0,2
+Bruant zizi,2017,0,4
+Busard Saint-Martin,2016,0,7
+Caille des blés,2015,0,1
+Canard souchet,2018,0,38
+Chevalier culblanc,2018,0,16
+Combattant varié,2013,0,1
+Corbeau freux,2012,0,2
+Effraie des clochers,2018,0,2
+Eider à duvet,2013,0,43
+Faisan de Colchide,2017,0,14
+Faucon émerillon,2013,0,4
+Fauvette babillarde,2011,0,4
+Fauvette grisette,2017,0,7
+Fuligule milouinan,2015,0,27
+Goéland argenté,2018,0,27
+Goéland brun,2018,0,11
+Gorgebleue à miroir,2018,0,8
+Grand Gravelot,2011,0,5
+Grand Tétras,2013,0,6
+Grèbe jougris,2017,0,8
+Guifette noire,2016,0,6
+Harle huppé,2018,0,20
+Harle piette,2011,0,9
+Jaseur boréal,2009,0,5
+Locustelle luscinioïde,2017,0,6
+Locustelle tachetée,2017,0,16
+Martinet à ventre blanc,2017,0,3
+Monticole de roche,2016,0,1
+Mouette mélanocéphale,2016,0,10
+Oie cendrée,2018,0,25
+Perruche ondulée,2014,0,1
+Phragmite des joncs,2015,0,2
+Pic tridactyle,2014,0,1
+Pigeon biset domestique,2015,0,5
+Pipit rousseline,2014,0,1
+Plongeon imbrin,2010,0,11
+Rossignol philomèle,2017,0,1
+Sizerin boréal (C.f.flammea),2013,0,1
+Sterne caspienne,2017,0,2
+Sterne pierregarin,2018,0,4
+Venturon montagnard,2017,0,12

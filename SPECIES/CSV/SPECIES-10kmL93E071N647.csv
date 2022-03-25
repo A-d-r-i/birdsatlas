@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigrette garzette"
-"0";"Bécassine sourde"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Faucon kobez"
-"0";"Marouette ponctuée"
-"0";"Moineau soulcie"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,3
+Aigrette garzette,2017,0,1
+Bécassine sourde,2017,0,1
+Canard pilet,2009,0,1
+Chevalier aboyeur,2018,0,1
+Faucon kobez,2016,0,2
+Marouette ponctuée,2017,0,2
+Moineau soulcie,2013,0,1
+Perdrix grise,2012,0,4
+Petit Gravelot,2015,0,4
+Râle d'eau,2018,0,1
+Sarcelle d'hiver,2018,0,2
+Tichodrome échelette,2012,0,10

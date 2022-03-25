@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Pigeon colombin"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Bruant jaune,2009,0,1
+Pigeon colombin,2009,0,1

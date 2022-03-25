@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Caille des blés
-0        Canard pilet
-0        Faucon hobereau
-0        Goéland argenté
-0        Mésange huppée
-0        Pic noir
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Serin cini
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Caille des blés          2009    0        1
+Canard pilet             2009    0        1
+Faucon hobereau          2009    0        1
+Goéland argenté          2009    0        1
+Mésange huppée           2009    0        1
+Pic noir                 2018    0        4
+Rougequeue à front blanc 2018    0        1
+Rousserolle effarvatte   2009    0        1
+Rousserolle verderolle   2009    0        1
+Serin cini               2009    0        1
 

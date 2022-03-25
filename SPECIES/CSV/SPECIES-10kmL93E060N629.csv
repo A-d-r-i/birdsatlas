@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant ortolan"
-"0";"Canard musqué"
-"0";"Chevalier aboyeur"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Faucon pèlerin"
-"0";"Grand Corbeau"
-"0";"Guifette noire"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bruant ortolan,2016,0,1
+Canard musqué,2017,0,1
+Chevalier aboyeur,2015,0,1
+Courlis cendré,2007,0,1
+Crabier chevelu,2015,0,5
+Faucon pèlerin,2017,0,3
+Grand Corbeau,2010,0,1
+Guifette noire,2014,0,1
+Ouette d'Egypte,2018,0,1
+Perdrix grise,2012,0,1
+Rollier d'Europe,2017,0,5
+Sarcelle d'été,2007,0,1
+Traquet motteux,2018,0,1
+Vautour fauve,2013,0,1

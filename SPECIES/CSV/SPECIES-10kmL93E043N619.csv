@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant fou"
-"0";"Chevalier guignette"
-"0";"Coucou gris"
-"0";"Geai des chênes"
-"0";"Grand Tétras"
-"0";"Lagopède alpin"
-"0";"Mésange charbonnière"
-"0";"Monticole de roche"
-"0";"Perdrix grise"
-"0";"Serin cini"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Bruant fou,2009,0,1
+Chevalier guignette,2018,0,1
+Coucou gris,2009,0,1
+Geai des chênes,2009,0,1
+Grand Tétras,2009,0,1
+Lagopède alpin,2017,0,3
+Mésange charbonnière,2009,0,1
+Monticole de roche,2009,0,2
+Perdrix grise,2009,0,1
+Serin cini,2009,0,1
+Troglodyte mignon,2009,0,1

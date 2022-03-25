@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Perdrix grise"
-"0";"Pie-grièche écorcheur"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Fauvette pitchou,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Grèbe castagneux,2018,0,2
+Grèbe huppé,2009,0,1
+Grive litorne,2009,0,1
+Perdrix grise,2009,0,2
+Pie-grièche écorcheur,2009,0,1
+Sizerin flammé,2018,0,2

@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Grand Gravelot"
-"0";"Guifette noire"
-"0";"Harelde boréale"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Spatule blanche"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,20
+Autour des palombes,2015,0,8
+Bouvreuil pivoine,2016,0,2
+Bruant des roseaux,2015,0,4
+Busard des roseaux,2015,0,3
+Caille des blés,2015,0,14
+Canard chipeau,2015,0,2
+Canard siffleur,2016,0,3
+Canard souchet,2016,0,10
+Chevalier guignette,2017,0,6
+Courlis cendré,2017,0,3
+Fauvette pitchou,2018,0,8
+Fuligule morillon,2012,0,7
+Garrot à oeil d'or,2009,0,6
+Gobemouche gris,2016,0,5
+Grand Gravelot,2010,0,1
+Guifette noire,2008,0,1
+Harelde boréale,2009,0,5
+Hirondelle de fenêtre,2017,0,11
+Hirondelle de rivage,2011,0,2
+Macreuse brune,2008,0,1
+Merle à plastron,2015,0,1
+Oie cendrée,2014,0,3
+Petit Gravelot,2015,0,1
+Pigeon biset domestique,2019,0,14
+Pipit rousseline,2009,0,2
+Pouillot fitis,2017,0,13
+Rougequeue à front blanc,2016,0,1
+Sarcelle d'hiver,2019,0,19
+Serin cini,2015,0,4
+Spatule blanche,2008,0,1
+Tarier des prés,2015,0,12
+Traquet motteux,2016,0,22

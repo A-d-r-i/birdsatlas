@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Cigogne blanche"
-"0";"Courlis corlieu"
-"0";"Faucon kobez"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rousseline"
-"0";"Ibis falcinelle"
-"0";"Martinet à ventre blanc"
-"0";"Martinet pâle"
-"0";"Monticole bleu"
-"0";"Niverolle alpine"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Traquet oreillard"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle royal,2017,0,7
+Bec-croisé des sapins,2016,0,1
+Bihoreau gris,2018,0,1
+Bruant des roseaux,2014,0,2
+Bruant ortolan,2016,0,1
+Cigogne blanche,2017,0,3
+Courlis corlieu,2012,0,1
+Faucon kobez,2013,0,2
+Grande Aigrette,2019,0,5
+Grèbe castagneux,2009,0,1
+Grosbec casse-noyaux,2018,0,7
+Héron garde-boeufs,2017,0,3
+Hirondelle de rivage,2009,0,1
+Hirondelle rousseline,2015,0,3
+Ibis falcinelle,2018,0,1
+Martinet à ventre blanc,2018,0,2
+Martinet pâle,2016,0,1
+Monticole bleu,2018,0,5
+Niverolle alpine,2016,0,2
+Pie-grièche écorcheur,2016,0,3
+Pipit spioncelle,2012,0,3
+Râle d'eau,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'hiver,2018,0,1
+Traquet oreillard,2016,0,1
+Vautour moine,2017,0,2

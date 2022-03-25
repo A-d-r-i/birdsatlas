@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier arlequin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Paon bleu"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Aigle botté,2008,0,1
+Aigrette garzette,2017,0,1
+Bondrée apivore,2018,0,6
+Bouvreuil pivoine,2012,0,2
+Busard cendré,2016,0,1
+Busard des roseaux,2013,0,2
+Busard Saint-Martin,2019,0,5
+Canard siffleur,2017,0,3
+Canard souchet,2018,0,3
+Chevalier arlequin,2015,0,1
+Chevalier culblanc,2015,0,3
+Chevalier guignette,2015,0,4
+Chevêche d'Athéna,2016,0,13
+Faisan de Colchide,2018,0,4
+Faucon pèlerin,2016,0,1
+Fuligule milouin,2016,0,1
+Gobemouche gris,2013,0,4
+Gobemouche noir,2016,0,1
+Grive litorne,2013,0,4
+Grosbec casse-noyaux,2013,0,10
+Mésange noire,2018,0,1
+Moineau friquet,2010,0,5
+Oedicnème criard,2017,0,7
+Paon bleu,2017,0,1
+Perdrix rouge,2018,0,2
+Petit Gravelot,2013,0,1
+Pie-grièche à tête rousse,2017,0,18
+Pipit des arbres,2017,0,5
+Sarcelle d'hiver,2015,0,1
+Tadorne de Belon,2018,0,3

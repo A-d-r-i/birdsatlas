@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bec-croisé des sapins
-0        Blongios nain
-0        Bruant jaune
-0        Calopsitte élégante
-0        Courlis cendré
-0        Étourneau unicolore
-0        Faucon d'Eléonore
-0        Fauvette des jardins
-0        Fuligule nyroca
-0        Goéland cendré
-0        Grand Corbeau
-0        Harle huppé
-0        Héron pourpré
-0        Lusciniole à moustaches
-0        Macreuse brune
-0        Mésange huppée
-0        Panure à moustaches
-0        Paon bleu
-0        Perruche ondulée
-0        Phragmite des joncs
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pipit de Richard
-0        Plongeon arctique
-0        Rémiz penduline
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sterne pierregarin
-0        Torcol fourmilier
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Barge rousse            2016    0        1
+Bécasseau cocorli       2017    0        2
+Bécasseau maubèche      2016    0        1
+Bécasseau minute        2016    0        4
+Bécasseau sanderling    2017    0        1
+Bec-croisé des sapins   2013    0        2
+Blongios nain           2014    0        4
+Bruant jaune            2012    0        3
+Calopsitte élégante     2014    0        2
+Courlis cendré          2013    0        1
+Étourneau unicolore     2014    0        8
+Faucon d'Eléonore       2018    0        2
+Fauvette des jardins    2018    0        4
+Fuligule nyroca         2017    0        3
+Goéland cendré          2018    0        1
+Grand Corbeau           2015    0        6
+Harle huppé             2018    0        2
+Héron pourpré           2017    0        30
+Lusciniole à moustaches 2017    0        1
+Macreuse brune          2013    0        5
+Mésange huppée          2016    0        1
+Panure à moustaches     2016    0        1
+Paon bleu               2017    0        3
+Perruche ondulée        2012    0        2
+Phragmite des joncs     2014    0        3
+Pic vert                2009    0        2
+Pie-grièche écorcheur   2016    0        5
+Pipit de Richard        2018    0        5
+Plongeon arctique       2018    0        1
+Rémiz penduline         2018    0        8
+Rousserolle turdoïde    2018    0        3
+Sarcelle d'été          2018    0        3
+Sterne pierregarin      2016    0        1
+Torcol fourmilier       2014    0        1
 

@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Bruant proyer
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Cigogne blanche
-0        Cincle plongeur
-0        Corbeau freux
-0        Coucou gris
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Grèbe castagneux
-0        Grive litorne
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Mésange noire
-0        Perdrix grise
-0        Petit Gravelot
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle verderolle
-0        Serin cini
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarier pâtre
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Bondrée apivore          2017    0        10
+Bruant des roseaux       2017    0        2
+Bruant ortolan           2017    0        1
+Bruant proyer            2018    0        32
+Caille des blés          2011    0        7
+Chevalier culblanc       2011    0        6
+Chevêche d'Athéna        2015    0        1
+Choucas des tours        2011    0        5
+Chouette hulotte         2017    0        9
+Cigogne blanche          2017    0        4
+Cincle plongeur          2018    0        5
+Corbeau freux            2018    0        12
+Coucou gris              2017    0        10
+Effraie des clochers     2012    0        6
+Faucon émerillon         2016    0        3
+Faucon hobereau          2014    0        4
+Fauvette des jardins     2018    0        12
+Fauvette grisette        2018    0        15
+Gallinule poule-d'eau    2015    0        6
+Gobemouche gris          2011    0        3
+Grand Cormoran           2013    0        5
+Grand-duc d'Europe       2017    0        5
+Grèbe castagneux         2015    0        1
+Grive litorne            2019    0        8
+Hibou moyen-duc          2012    0        3
+Hirondelle de rivage     2014    0        4
+Huppe fasciée            2018    0        3
+Hypolaïs polyglotte      2015    0        8
+Locustelle tachetée      2011    0        7
+Loriot d'Europe          2017    0        12
+Martinet noir            2016    0        7
+Mésange noire            2012    0        11
+Perdrix grise            2011    0        2
+Petit Gravelot           2018    0        3
+Pie-grièche écorcheur    2018    0        12
+Pipit des arbres         2016    0        23
+Pipit farlouse           2011    0        2
+Pipit rousseline         2016    0        1
+Pluvier doré             2017    0        1
+Pouillot fitis           2018    0        31
+Pouillot siffleur        2016    0        10
+Rossignol philomèle      2018    0        35
+Rougequeue à front blanc 2014    0        7
+Rousserolle verderolle   2011    0        1
+Serin cini               2016    0        9
+Tadorne de Belon         2010    0        1
+Tarier des prés          2018    0        2
+Tarier pâtre             2018    0        14
+Torcol fourmilier        2014    0        3
+Tourterelle des bois     2018    0        22
 

@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bécasseau tacheté
-0        Bernache cravant
-0        Bihoreau gris
-0        Cisticole des joncs
-0        Courlis corlieu
-0        Cygne de Bewick
-0        Élanion blanc
-0        Faisan vénéré
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Goéland argenté
-0        Goéland brun
-0        Goéland cendré
-0        Goéland leucophée
-0        Gorgebleue à miroir
-0        Gravelot à collier interrompu
-0        Grive litorne
-0        Guifette leucoptère
-0        Guifette moustac
-0        Locustelle tachetée
-0        Macreuse noire
-0        Marouette ponctuée
-0        Mouette tridactyle
-0        Perdrix grise
-0        Phalarope à bec étroit
-0        Phalarope à bec large
-0        Râle d'eau
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Tadorne casarca
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Aigle botté                   2008    0        1
+Barge à queue noire           2017    0        21
+Bécasseau cocorli             2016    0        4
+Bécasseau minute              2017    0        8
+Bécasseau tacheté             2008    0        1
+Bernache cravant              2009    0        1
+Bihoreau gris                 2016    0        2
+Cisticole des joncs           2013    0        35
+Courlis corlieu               2016    0        2
+Cygne de Bewick               2007    0        3
+Élanion blanc                 2016    0        1
+Faisan vénéré                 2016    0        1
+Fuligule milouinan            2008    0        2
+Fuligule nyroca               2012    0        9
+Goéland argenté               2016    0        2
+Goéland brun                  2018    0        36
+Goéland cendré                2018    0        5
+Goéland leucophée             2016    0        12
+Gorgebleue à miroir           2011    0        1
+Gravelot à collier interrompu 2012    0        2
+Grive litorne                 2018    0        52
+Guifette leucoptère           2016    0        6
+Guifette moustac              2016    0        9
+Locustelle tachetée           2018    0        13
+Macreuse noire                2008    0        1
+Marouette ponctuée            2017    0        5
+Mouette tridactyle            2007    0        1
+Perdrix grise                 2012    0        2
+Phalarope à bec étroit        2017    0        2
+Phalarope à bec large         2018    0        3
+Râle d'eau                    2018    0        35
+Rougequeue à front blanc      2014    0        9
+Rousserolle effarvatte        2018    0        41
+Rousserolle verderolle        2007    0        2
+Tadorne casarca               2013    0        1
 

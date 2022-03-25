@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bondrée apivore"
-"0";"Bouscarle de Cetti"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chouette hulotte"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pipit des arbres"
-"0";"Rougequeue noir"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bondrée apivore,2009,0,1
+Bouscarle de Cetti,2009,0,1
+Bruant proyer,2009,0,1
+Busard cendré,2009,0,1
+Chouette hulotte,2018,0,3
+Faucon hobereau,2009,0,1
+Foulque macroule,2009,0,1
+Grosbec casse-noyaux,2017,0,1
+Hibou moyen-duc,2009,0,1
+Perdrix rouge,2009,0,1
+Pic mar,2009,0,1
+Pipit des arbres,2009,0,1
+Rougequeue noir,2009,0,1
+Rousserolle verderolle,2009,0,1

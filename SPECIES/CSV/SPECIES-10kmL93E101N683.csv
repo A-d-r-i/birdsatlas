@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gélinotte des bois"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Milan noir"
-"0";"Perruche ondulée"
-"0";"Pigeon biset domestique"
-"0";"Pipit farlouse"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2016,0,1
+Bergeronnette printanière,2016,0,1
+Bruant proyer,2009,0,1
+Bruant zizi,2016,0,1
+Busard Saint-Martin,2017,0,1
+Fauvette babillarde,2017,0,8
+Fauvette grisette,2016,0,8
+Gallinule poule-d'eau,2014,0,1
+Gélinotte des bois,2009,0,1
+Gobemouche gris,2018,0,10
+Grande Aigrette,2011,0,4
+Grèbe castagneux,2014,0,1
+Guêpier d'Europe,2017,0,1
+Jaseur boréal,2013,0,1
+Locustelle tachetée,2014,0,3
+Loriot d'Europe,2016,0,2
+Mésange boréale,2016,0,8
+Milan noir,2014,0,2
+Perruche ondulée,2009,0,1
+Pigeon biset domestique,2014,0,2
+Pipit farlouse,2014,0,1
+Rossignol philomèle,2016,0,2
+Rousserolle effarvatte,2014,0,4
+Rousserolle verderolle,2014,0,5
+Tarier des prés,2014,0,1
+Tarier pâtre,2015,0,15
+Torcol fourmilier,2017,0,4
+Tourterelle des bois,2015,0,5

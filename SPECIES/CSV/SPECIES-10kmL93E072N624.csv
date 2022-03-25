@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Busard pâle"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Corbeau freux"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette à lunettes"
-"0";"Fuligule nyroca"
-"0";"Grand Corbeau"
-"0";"Locustelle luscinioïde"
-"0";"Martinet des maisons"
-"0";"Merle à plastron"
-"0";"Monticole de roche"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Pie-grièche méridionale"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot ibérique"
-"0";"Sittelle torchepot"
-"0";"Tadorne casarca"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Aigle criard,2016,0,1
+Bécasse des bois,2011,0,1
+Bécassine sourde,2014,0,1
+Bernache nonnette,2016,0,9
+Busard pâle,2013,0,1
+Canard mandarin,2017,0,1
+Chevalier stagnatile,2017,0,3
+Corbeau freux,2017,0,16
+Faucon d'Eléonore,2015,0,5
+Fauvette à lunettes,2016,0,8
+Fuligule nyroca,2014,0,2
+Grand Corbeau,2018,0,2
+Locustelle luscinioïde,2017,0,1
+Martinet des maisons,2016,0,1
+Merle à plastron,2016,0,1
+Monticole de roche,2016,0,1
+Ouette d'Egypte,2013,0,4
+Perdrix grise,2012,0,2
+Pie-grièche méridionale,2016,0,2
+Pouillot à grands sourcils,2017,0,1
+Pouillot ibérique,2018,0,1
+Sittelle torchepot,2009,0,1
+Tadorne casarca,2016,0,1
+Traquet oreillard,2017,0,7

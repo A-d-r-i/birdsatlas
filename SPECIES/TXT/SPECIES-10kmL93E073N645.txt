@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bihoreau gris
-0        Canard souchet
-0        Chevalier gambette
-0        Cisticole des joncs
-0        Corbeau freux
-0        Corneille mantelée
-0        Faucon émerillon
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Grimpereau des bois
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Paon bleu
-0        Perdrix grise
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot fitis
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2013    0        1
+Aigrette garzette         2012    0        2
+Bécasse des bois          2015    0        1
+Bécassine sourde          2013    0        1
+Bihoreau gris             2016    0        1
+Canard souchet            2017    0        1
+Chevalier gambette        2018    0        2
+Cisticole des joncs       2014    0        1
+Corbeau freux             2016    0        2
+Corneille mantelée        2010    0        5
+Faucon émerillon          2018    0        7
+Fauvette orphée           2015    0        1
+Fauvette passerinette     2010    0        1
+Grimpereau des bois       2017    0        1
+Mouette mélanocéphale     2014    0        1
+Mouette rieuse            2014    0        1
+Paon bleu                 2017    0        1
+Perdrix grise             2017    0        10
+Petit Gravelot            2009    0        1
+Pie-grièche à tête rousse 2017    0        30
+Pipit rousseline          2011    0        1
+Pluvier doré              2018    0        1
+Pouillot fitis            2018    0        11
+Rémiz penduline           2018    0        1
+Sarcelle d'été            2017    0        3
+Vautour moine             2014    0        1
 

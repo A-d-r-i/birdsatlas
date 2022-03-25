@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Autour des palombes
-0        Bergeronnette des ruisseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard mandarin
-0        Canard siffleur
-0        Cigogne blanche
-0        Cigogne noire
-0        Cochevis huppé
-0        Coucou gris
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland leucophée
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Guêpier d'Europe
-0        Hirondelle rustique
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Martinet noir
-0        Milan noir
-0        Petit-duc scops
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Sarcelle d'hiver
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour fauve
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigle botté                 2017    0        2
+Aigrette garzette           2017    0        1
+Autour des palombes         2009    0        1
+Bergeronnette des ruisseaux 2018    0        1
+Busard Saint-Martin         2016    0        1
+Caille des blés             2017    0        6
+Canard mandarin             2017    0        1
+Canard siffleur             2017    0        1
+Cigogne blanche             2013    0        1
+Cigogne noire               2017    0        2
+Cochevis huppé              2012    0        3
+Coucou gris                 2014    0        8
+Effraie des clochers        2017    0        3
+Engoulevent d'Europe        2017    0        3
+Faisan de Colchide          2017    0        3
+Faucon hobereau             2014    0        4
+Fauvette grisette           2018    0        20
+Gallinule poule-d'eau       2015    0        3
+Gobemouche gris             2009    0        1
+Gobemouche noir             2018    0        1
+Goéland leucophée           2017    0        1
+Grande Aigrette             2018    0        3
+Grèbe castagneux            2014    0        2
+Guêpier d'Europe            2018    0        14
+Hirondelle rustique         2018    0        26
+Hypolaïs polyglotte         2014    0        21
+Linotte mélodieuse          2012    0        3
+Martinet noir               2018    0        12
+Milan noir                  2018    0        26
+Petit-duc scops             2018    0        7
+Pic noir                    2017    0        1
+Pie-grièche écorcheur       2015    0        4
+Pipit des arbres            2018    0        7
+Pipit farlouse              2017    0        5
+Pouillot de Bonelli         2018    0        16
+Pouillot fitis              2011    0        2
+Roitelet huppé              2009    0        1
+Rossignol philomèle         2017    0        22
+Sarcelle d'hiver            2017    0        1
+Serin cini                  2014    0        3
+Tarier des prés             2014    0        5
+Tarin des aulnes            2017    0        2
+Traquet motteux             2014    0        3
+Vanneau huppé               2015    0        2
+Vautour fauve               2018    0        1
 

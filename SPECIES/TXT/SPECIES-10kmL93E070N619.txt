@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasse des bois
-0        Bécassine des marais
-0        Blongios nain
-0        Bruant jaune
-0        Bruant mélanocéphale
-0        Bruant ortolan
-0        Busard pâle
-0        Butor étoilé
-0        Chevalier arlequin
-0        Coucou gris
-0        Cygne noir
-0        Eider à duvet
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Glaréole à collier
-0        Goéland cendré
-0        Hibou moyen-duc
-0        Hypolaïs ictérine
-0        Ibis sacré
-0        Lusciniole à moustaches
-0        Moineau soulcie
-0        Oie cendrée
-0        Outarde canepetière
-0        Perruche ondulée
-0        Pic épeiche
-0        Pic vert
-0        Rémiz penduline
-0        Roitelet huppé
-0        Roselin githagine
-0        Rousserolle turdoïde
-0        Sarcelle d'hiver
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2016    0        4
+Barge à queue noire     2017    0        1
+Bécasseau cocorli       2012    0        2
+Bécasse des bois        2008    0        1
+Bécassine des marais    2016    0        3
+Blongios nain           2009    0        1
+Bruant jaune            2018    0        1
+Bruant mélanocéphale    2017    0        1
+Bruant ortolan          2018    0        2
+Busard pâle             2017    0        1
+Butor étoilé            2009    0        1
+Chevalier arlequin      2012    0        1
+Coucou gris             2016    0        2
+Cygne noir              2017    0        2
+Eider à duvet           2018    0        3
+Fuligule morillon       2009    0        1
+Garrot à oeil d'or      2012    0        2
+Glaréole à collier      2007    0        1
+Goéland cendré          2018    0        2
+Hibou moyen-duc         2015    0        5
+Hypolaïs ictérine       2017    0        2
+Ibis sacré              2009    0        1
+Lusciniole à moustaches 2013    0        1
+Moineau soulcie         2016    0        1
+Oie cendrée             2016    0        2
+Outarde canepetière     2015    0        1
+Perruche ondulée        2014    0        1
+Pic épeiche             2014    0        1
+Pic vert                2014    0        2
+Rémiz penduline         2015    0        1
+Roitelet huppé          2016    0        13
+Roselin githagine       2018    0        5
+Rousserolle turdoïde    2015    0        1
+Sarcelle d'hiver        2018    0        5
 

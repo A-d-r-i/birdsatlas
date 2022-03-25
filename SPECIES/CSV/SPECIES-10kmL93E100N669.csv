@@ -1,52 +1,50 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Corneille noire"
-"0";"Étourneau sansonnet"
-"0";"Faucon crécerelle"
-"0";"Fauvette à tête noire"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive musicienne"
-"0";"Héron cendré"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Martinet noir"
-"0";"Mésange à longue queue"
-"0";"Mésange bleue"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Moineau domestique"
-"0";"Pic épeiche"
-"0";"Pie bavarde"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pinson des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougegorge familier"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Tarin des aulnes"
-"0";"Troglodyte mignon"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2010,0,2
+Bergeronnette des ruisseaux,2016,0,15
+Bergeronnette grise,2017,0,10
+Bondrée apivore,2014,0,1
+Bouvreuil pivoine,2010,0,4
+Bruant jaune,2010,0,5
+Canard colvert,2016,0,6
+Chardonneret élégant,2017,0,4
+Chouette hulotte,2018,0,2
+Cincle plongeur,2016,0,6
+Corneille noire,2012,0,9
+Étourneau sansonnet,2010,0,2
+Faucon crécerelle,2009,0,2
+Fauvette à tête noire,2017,0,12
+Geai des chênes,2015,0,6
+Gobemouche gris,2016,0,1
+Grand Cormoran,2014,0,1
+Grèbe castagneux,2016,0,8
+Grimpereau des bois,2010,0,2
+Grive draine,2017,0,7
+Grive litorne,2011,0,4
+Grive musicienne,2017,0,10
+Héron cendré,2017,0,9
+Hirondelle de fenêtre,2011,0,4
+Hirondelle rustique,2012,0,7
+Martinet noir,2009,0,1
+Mésange à longue queue,2017,0,11
+Mésange bleue,2016,0,6
+Mésange charbonnière,2015,0,10
+Mésange huppée,2010,0,3
+Mésange noire,2013,0,8
+Mésange nonnette,2010,0,5
+Milan royal,2017,0,16
+Moineau domestique,2011,0,9
+Pic épeiche,2017,0,7
+Pie bavarde,2011,0,9
+Pie-grièche écorcheur,2010,0,3
+Pigeon colombin,2013,0,1
+Pinson des arbres,2017,0,18
+Roitelet à triple bandeau,2014,0,8
+Roitelet huppé,2017,0,7
+Rougegorge familier,2012,0,5
+Rougequeue à front blanc,2017,0,6
+Rougequeue noir,2012,0,6
+Serin cini,2010,0,4
+Sittelle torchepot,2016,0,9
+Tarin des aulnes,2010,0,2
+Troglodyte mignon,2013,0,7
+Verdier d'Europe,2010,0,2

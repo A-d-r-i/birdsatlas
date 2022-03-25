@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Busard Saint-Martin"
-"0";"Canard musqué"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Combattant varié"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland à ailes blanches"
-"0";"Guifette noire"
-"0";"Harelde boréale"
-"0";"Hibou moyen-duc"
-"0";"Ibis falcinelle"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pipit maritime"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,1
+Bécasseau cocorli,2015,0,1
+Bécasseau sanderling,2015,0,3
+Bécassine sourde,2015,0,2
+Bergeronnette printanière,2016,0,2
+Bernache cravant,2018,0,4
+Bernache du Canada,2007,0,1
+Busard Saint-Martin,2009,0,1
+Canard musqué,2018,0,1
+Chevalier culblanc,2017,0,7
+Cigogne blanche,2017,0,1
+Combattant varié,2012,0,2
+Cygne chanteur,2009,0,1
+Cygne noir,2009,0,1
+Faucon hobereau,2015,0,2
+Fauvette grisette,2009,0,1
+Fauvette pitchou,2009,0,1
+Fuligule à bec cerclé,2012,0,20
+Fuligule milouinan,2013,0,4
+Fuligule nyroca,2012,0,16
+Garrot à oeil d'or,2018,0,5
+Goéland à ailes blanches,2018,0,1
+Guifette noire,2013,0,1
+Harelde boréale,2011,0,4
+Hibou moyen-duc,2009,0,1
+Ibis falcinelle,2012,0,1
+Milan noir,2018,0,1
+Milan royal,2018,0,12
+Oie cendrée,2010,0,2
+Perdrix grise,2016,0,1
+Phragmite des joncs,2017,0,1
+Pipit maritime,2015,0,3
+Pipit spioncelle,2017,0,10
+Pouillot fitis,2015,0,2
+Sterne pierregarin,2016,0,1

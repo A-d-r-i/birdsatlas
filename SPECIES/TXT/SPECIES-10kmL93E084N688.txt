@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Blongios nain
-0        Bruant des roseaux
-0        Caille des blés
-0        Canard souchet
-0        Choucas des tours
-0        Cincle plongeur
-0        Cygne chanteur
-0        Cygne de Bewick
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Garrot à oeil d'or
-0        Gélinotte des bois
-0        Goéland brun
-0        Harle piette
-0        Hypolaïs ictérine
-0        Marouette ponctuée
-0        Mouette mélanocéphale
-0        Oie cendrée
-0        Perdrix grise
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pluvier doré
-0        Râle d'eau
-0        Rossignol philomèle
-0        Sarcelle d'été
-0        Tarier des prés
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasseau variable        2016    0        1
+Bécassine sourde          2017    0        1
+Bec-croisé des sapins     2016    0        10
+Bergeronnette printanière 2017    0        13
+Blongios nain             2009    0        2
+Bruant des roseaux        2018    0        9
+Caille des blés           2010    0        3
+Canard souchet            2019    0        1
+Choucas des tours         2018    0        12
+Cincle plongeur           2009    0        1
+Cygne chanteur            2010    0        2
+Cygne de Bewick           2010    0        2
+Effraie des clochers      2018    0        10
+Faisan de Colchide        2010    0        12
+Faucon émerillon          2010    0        1
+Garrot à oeil d'or        2016    0        2
+Gélinotte des bois        2016    0        3
+Goéland brun              2016    0        1
+Harle piette              2013    0        1
+Hypolaïs ictérine         2009    0        1
+Marouette ponctuée        2010    0        2
+Mouette mélanocéphale     2010    0        1
+Oie cendrée               2014    0        4
+Perdrix grise             2010    0        2
+Petit Gravelot            2010    0        2
+Pie-grièche à tête rousse 2012    0        2
+Pie-grièche grise         2018    0        14
+Pluvier doré              2017    0        2
+Râle d'eau                2013    0        4
+Rossignol philomèle       2018    0        15
+Sarcelle d'été            2012    0        2
+Tarier des prés           2011    0        6
+Traquet motteux           2016    0        14
 

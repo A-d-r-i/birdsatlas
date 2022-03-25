@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bernache nonnette
-0        Bruant ortolan
-0        Busard cendré
-0        Busard pâle
-0        Caille des blés
-0        Canard siffleur
-0        Chevalier guignette
-0        Cincle plongeur
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule morillon
-0        Guêpier d'Europe
-0        Merle à plastron
-0        Mésange boréale
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2013    0        3
+Bec-croisé des sapins     2018    0        11
+Bernache nonnette         2012    0        1
+Bruant ortolan            2017    0        2
+Busard cendré             2018    0        2
+Busard pâle               2010    0        1
+Caille des blés           2015    0        1
+Canard siffleur           2013    0        1
+Chevalier guignette       2014    0        3
+Cincle plongeur           2018    0        19
+Effraie des clochers      2014    0        1
+Engoulevent d'Europe      2012    0        2
+Foulque macroule          2011    0        1
+Fuligule milouin          2015    0        1
+Fuligule morillon         2018    0        2
+Guêpier d'Europe          2017    0        4
+Merle à plastron          2015    0        2
+Mésange boréale           2014    0        2
+Mouette mélanocéphale     2013    0        1
+Mouette rieuse            2013    0        1
+Pie-grièche à tête rousse 2018    0        1
+Pipit rousseline          2010    0        1
+Rousserolle effarvatte    2014    0        1
+Sizerin cabaret           2009    0        1
+Sizerin flammé            2011    0        2
+Tadorne de Belon          2011    0        1
+Torcol fourmilier         2013    0        1
+Tourterelle des bois      2017    0        2
+Traquet motteux           2018    0        9
+Vautour moine             2015    0        1
 

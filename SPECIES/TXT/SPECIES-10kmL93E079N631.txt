@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant ortolan
-0        Busard des roseaux
-0        Caille des blés
-0        Chevêche d'Athéna
-0        Corbeau freux
-0        Coucou geai
-0        Engoulevent d'Europe
-0        Faucon crécerellette
-0        Fauvette pitchou
-0        Fuligule morillon
-0        Grèbe huppé
-0        Héron pourpré
-0        Hirondelle de rochers
-0        Martinet à ventre blanc
-0        Moineau soulcie
-0        Mouette rieuse
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2015    0        3
+Bécasse des bois          2015    0        4
+Bergeronnette printanière 2012    0        1
+Bihoreau gris             2015    0        1
+Bruant des roseaux        2016    0        6
+Bruant fou                2018    0        1
+Bruant ortolan            2018    0        2
+Busard des roseaux        2016    0        6
+Caille des blés           2018    0        6
+Chevêche d'Athéna         2016    0        4
+Corbeau freux             2009    0        1
+Coucou geai               2017    0        4
+Engoulevent d'Europe      2016    0        25
+Faucon crécerellette      2013    0        1
+Fauvette pitchou          2017    0        44
+Fuligule morillon         2007    0        1
+Grèbe huppé               2015    0        5
+Héron pourpré             2018    0        3
+Hirondelle de rochers     2018    0        11
+Martinet à ventre blanc   2016    0        1
+Moineau soulcie           2018    0        30
+Mouette rieuse            2018    0        8
+Pouillot fitis            2017    0        4
+Roitelet huppé            2015    0        2
+Rousserolle turdoïde      2015    0        1
+Sarcelle d'été            2007    0        1
+Vautour fauve             2018    0        1
 

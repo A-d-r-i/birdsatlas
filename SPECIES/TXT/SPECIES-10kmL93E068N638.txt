@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bécassine sourde
-0        Busard cendré
-0        Cigogne noire
-0        Cisticole des joncs
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Foulque macroule
-0        Guifette noire
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Martinet à ventre blanc
-0        Merle à plastron
-0        Moineau friquet
-0        Moineau soulcie
-0        Mouette rieuse
-0        Oedicnème criard
-0        Pouillot à grands sourcils
-0        Pouillot siffleur
-0        Râle d'eau
-0        Rollier d'Europe
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tourterelle des bois
-0        Venturon montagnard
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigrette garzette          2017    0        6
+Bécasse des bois           2018    0        1
+Bécassine sourde           2018    0        1
+Busard cendré              2010    0        2
+Cigogne noire              2018    0        3
+Cisticole des joncs        2016    0        1
+Engoulevent d'Europe       2018    0        1
+Faucon émerillon           2017    0        2
+Foulque macroule           2018    0        3
+Guifette noire             2017    0        1
+Hibou moyen-duc            2015    0        1
+Locustelle tachetée        2013    0        1
+Martinet à ventre blanc    2011    0        1
+Merle à plastron           2017    0        1
+Moineau friquet            2017    0        4
+Moineau soulcie            2009    0        2
+Mouette rieuse             2013    0        4
+Oedicnème criard           2010    0        1
+Pouillot à grands sourcils 2018    0        1
+Pouillot siffleur          2017    0        5
+Râle d'eau                 2018    0        7
+Rollier d'Europe           2014    0        1
+Sizerin cabaret            2018    0        1
+Sizerin flammé             2018    0        1
+Tourterelle des bois       2016    0        1
+Venturon montagnard        2017    0        1
 

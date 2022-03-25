@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Bruant zizi
-0        Busard des roseaux
-0        Caille des blés
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cigogne noire
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Grèbe huppé
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Martinet noir
-0        Mésange huppée
-0        Mouette rieuse
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic cendré
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rousserolle turdoïde
-0        Sarcelle d'hiver
-0        Serin cini
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2018    0        7
+Bécasse des bois      2014    0        10
+Bécassine des marais  2016    0        8
+Bécassine sourde      2009    0        1
+Bec-croisé des sapins 2015    0        2
+Bihoreau gris         2013    0        1
+Bruant zizi           2012    0        2
+Busard des roseaux    2017    0        5
+Caille des blés       2015    0        6
+Canard chipeau        2010    0        2
+Canard siffleur       2011    0        2
+Chevalier culblanc    2016    0        4
+Chevalier guignette   2017    0        3
+Chevêche d'Athéna     2014    0        15
+Chouette hulotte      2018    0        15
+Cigogne noire         2013    0        1
+Effraie des clochers  2018    0        14
+Faisan de Colchide    2017    0        13
+Faucon hobereau       2007    0        1
+Faucon pèlerin        2016    0        2
+Fauvette des jardins  2017    0        15
+Foulque macroule      2014    0        8
+Grèbe huppé           2014    0        4
+Harle bièvre          2015    0        2
+Hibou moyen-duc       2013    0        9
+Hirondelle de rivage  2010    0        2
+Hypolaïs polyglotte   2017    0        6
+Locustelle tachetée   2014    0        10
+Martinet noir         2017    0        10
+Mésange huppée        2015    0        6
+Mouette rieuse        2014    0        3
+Ouette d'Egypte       2014    0        3
+Perdrix grise         2012    0        4
+Perdrix rouge         2013    0        5
+Pic cendré            2008    0        1
+Pie-grièche grise     2015    0        5
+Pigeon colombin       2014    0        3
+Pipit des arbres      2014    0        8
+Pipit rousseline      2015    0        1
+Pouillot fitis        2014    0        9
+Pouillot siffleur     2012    0        4
+Rossignol philomèle   2018    0        36
+Rousserolle turdoïde  2011    0        3
+Sarcelle d'hiver      2016    0        4
+Serin cini            2017    0        26
 

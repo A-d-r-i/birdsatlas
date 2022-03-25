@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chouette hulotte
-0        Épervier d'Europe
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Grèbe castagneux
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Guifette moustac
-0        Hibou moyen-duc
-0        Linotte mélodieuse
-0        Milan royal
-0        Mouette rieuse
-0        Pic épeichette
-0        Pic noir
-0        Pie-grièche grise
-0        Pinson du Nord
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Tarin des aulnes
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Busard Saint-Martin    2016    0        2
+Caille des blés        2009    0        1
+Chouette hulotte       2015    0        12
+Épervier d'Europe      2017    0        6
+Fauvette des jardins   2013    0        7
+Fuligule morillon      2016    0        1
+Grèbe castagneux       2019    0        1
+Grive litorne          2012    0        3
+Grosbec casse-noyaux   2012    0        5
+Guifette moustac       2010    0        1
+Hibou moyen-duc        2015    0        1
+Linotte mélodieuse     2018    0        8
+Milan royal            2010    0        2
+Mouette rieuse         2012    0        2
+Pic épeichette         2009    0        3
+Pic noir               2009    0        2
+Pie-grièche grise      2018    0        1
+Pinson du Nord         2009    0        1
+Pouillot fitis         2009    0        3
+Pouillot siffleur      2014    0        6
+Rousserolle effarvatte 2009    0        3
+Sarcelle d'hiver       2012    0        3
+Tarin des aulnes       2012    0        3
+Vanneau huppé          2015    0        5
 

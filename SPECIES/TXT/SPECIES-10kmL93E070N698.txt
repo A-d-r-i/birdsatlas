@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Busard cendré
-0        Caille des blés
-0        Canard colvert
-0        Choucas des tours
-0        Corneille noire
-0        Coucou gris
-0        Cygne tuberculé
-0        Épervier d'Europe
-0        Faucon crécerelle
-0        Fauvette à tête noire
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Goéland brun
-0        Grèbe castagneux
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive musicienne
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hirondelle rustique
-0        Linotte mélodieuse
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange boréale
-0        Mésange nonnette
-0        Mouette rieuse
-0        Oedicnème criard
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot fitis
-0        Pouillot véloce
-0        Râle d'eau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Serin cini
-0        Tarin des aulnes
-0        Troglodyte mignon
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        2
+Bergeronnette grise       2009    0        1
+Bergeronnette printanière 2009    0        1
+Bouvreuil pivoine         2009    0        2
+Bruant jaune              2009    0        2
+Busard cendré             2009    0        1
+Caille des blés           2009    0        1
+Canard colvert            2009    0        2
+Choucas des tours         2009    0        2
+Corneille noire           2018    0        3
+Coucou gris               2009    0        1
+Cygne tuberculé           2009    0        1
+Épervier d'Europe         2009    0        2
+Faucon crécerelle         2018    0        3
+Fauvette à tête noire     2009    0        1
+Fauvette babillarde       2009    0        1
+Fauvette des jardins      2009    0        1
+Foulque macroule          2009    0        2
+Fuligule morillon         2009    0        1
+Gallinule poule-d'eau     2009    0        2
+Geai des chênes           2009    0        2
+Goéland brun              2009    0        1
+Grèbe castagneux          2009    0        2
+Grimpereau des jardins    2009    0        2
+Grive draine              2009    0        1
+Grive musicienne          2018    0        12
+Héron cendré              2009    0        1
+Hibou moyen-duc           2009    0        1
+Hirondelle rustique       2014    0        7
+Linotte mélodieuse        2009    0        2
+Martinet noir             2009    0        1
+Martin-pêcheur d'Europe   2009    0        1
+Mésange boréale           2009    0        1
+Mésange nonnette          2009    0        1
+Mouette rieuse            2009    0        1
+Oedicnème criard          2009    0        1
+Petit Gravelot            2009    0        1
+Pigeon colombin           2009    0        1
+Pinson du Nord            2015    0        9
+Pipit des arbres          2009    0        1
+Pipit farlouse            2009    0        2
+Pouillot fitis            2009    0        1
+Pouillot véloce           2018    0        2
+Râle d'eau                2009    0        1
+Roitelet huppé            2009    0        1
+Rossignol philomèle       2009    0        1
+Rousserolle verderolle    2009    0        1
+Serin cini                2013    0        1
+Tarin des aulnes          2018    0        2
+Troglodyte mignon         2019    0        20
 

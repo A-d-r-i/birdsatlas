@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Busard cendré
-0        Busard des roseaux
-0        Caille des blés
-0        Calopsitte élégante
-0        Canard carolin
-0        Canard chipeau
-0        Canard mandarin
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Coucou geai
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Faucon crécerellette
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fauvette à lunettes
-0        Foulque macroule
-0        Fuligule milouin
-0        Harle bièvre
-0        Hirondelle de rivage
-0        Pic vert
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Rousserolle effarvatte
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Spatule blanche
-0        Sterne caugek
-0        Traquet oreillard
-0        Vanneau huppé
-0        Vautour moine
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette calandrelle   2009    0        1
+Busard cendré          2018    0        35
+Busard des roseaux     2018    0        4
+Caille des blés        2017    0        6
+Calopsitte élégante    2011    0        1
+Canard carolin         2012    0        4
+Canard chipeau         2012    0        1
+Canard mandarin        2016    0        4
+Canard siffleur        2015    0        2
+Canard souchet         2012    0        1
+Chevalier sylvain      2012    0        5
+Chevêche d'Athéna      2016    0        5
+Cigogne noire          2016    0        7
+Coucou geai            2015    0        3
+Cygne tuberculé        2018    0        1
+Effraie des clochers   2014    0        2
+Faucon crécerellette   2017    0        2
+Faucon d'Eléonore      2013    0        1
+Faucon kobez           2015    0        1
+Fauvette à lunettes    2018    0        1
+Foulque macroule       2015    0        2
+Fuligule milouin       2009    0        2
+Harle bièvre           2009    0        1
+Hirondelle de rivage   2017    0        2
+Pic vert               2009    0        2
+Pouillot siffleur      2015    0        2
+Râle d'eau             2017    0        1
+Roitelet huppé         2017    0        5
+Rollier d'Europe       2015    0        1
+Rousserolle effarvatte 2017    0        1
+Sarcelle d'été         2013    0        1
+Sarcelle d'hiver       2013    0        1
+Spatule blanche        2012    0        12
+Sterne caugek          2011    0        1
+Traquet oreillard      2016    0        9
+Vanneau huppé          2018    0        8
+Vautour moine          2012    0        2
 

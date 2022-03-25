@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Cincle plongeur"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Faucon kobez"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Guifette moustac"
-"0";"Harle piette"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Nette rousse"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2016,0,6
+Bécasse des bois,2017,0,7
+Bec-croisé des sapins,2015,0,1
+Bernache du Canada,2017,0,2
+Caille des blés,2009,0,2
+Canard pilet,2018,0,3
+Chevalier gambette,2016,0,1
+Cincle plongeur,2011,0,2
+Combattant varié,2018,0,2
+Courlis cendré,2017,0,4
+Courlis corlieu,2016,0,1
+Faucon kobez,2009,0,1
+Garrot à oeil d'or,2010,0,1
+Goéland brun,2018,0,1
+Goéland cendré,2018,0,3
+Guifette moustac,2018,0,4
+Harle piette,2012,0,2
+Huppe fasciée,2016,0,5
+Locustelle tachetée,2017,0,9
+Martinet à ventre blanc,2016,0,3
+Nette rousse,2018,0,9
+Perdrix rouge,2017,0,4
+Petit-duc scops,2010,0,2
+Phragmite des joncs,2007,0,2
+Pouillot de Bonelli,2015,0,1
+Rousserolle verderolle,2009,0,4

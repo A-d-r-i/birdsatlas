@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Blongios nain
-0        Busard cendré
-0        Chevalier sylvain
-0        Chevêchette d'Europe
-0        Cigogne noire
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Cygne tuberculé
-0        Échasse blanche
-0        Effraie des clochers
-0        Faucon kobez
-0        Fauvette des jardins
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Grive mauvis
-0        Lagopède alpin
-0        Monticole de roche
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Perdrix grise
-0        Perdrix rouge
-0        Pigeon colombin
-0        Rémiz penduline
-0        Tadorne de Belon
-0        Vautour moine
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Blongios nain        2017    0        3
+Busard cendré        2018    0        2
+Chevalier sylvain    2015    0        2
+Chevêchette d'Europe 2012    0        2
+Cigogne noire        2014    0        1
+Cisticole des joncs  2016    0        2
+Corneille mantelée   2018    0        5
+Cygne tuberculé      2013    0        1
+Échasse blanche      2015    0        5
+Effraie des clochers 2014    0        1
+Faucon kobez         2016    0        4
+Fauvette des jardins 2018    0        9
+Gorgebleue à miroir  2018    0        2
+Grand Gravelot       2015    0        1
+Grèbe à cou noir     2014    0        2
+Grive mauvis         2018    0        5
+Lagopède alpin       2012    0        2
+Monticole de roche   2016    0        4
+Niverolle alpine     2014    0        3
+Perdrix bartavelle   2012    0        2
+Perdrix grise        2017    0        2
+Perdrix rouge        2016    0        2
+Pigeon colombin      2015    0        6
+Rémiz penduline      2014    0        1
+Tadorne de Belon     2016    0        1
+Vautour moine        2016    0        2
 

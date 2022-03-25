@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Blongios nain"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Goéland leucophée"
-"0";"Grèbe esclavon"
-"0";"Hypolaïs ictérine"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Tadorne de Belon"
-"0";"Tarier pâtre"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2014,0,1
+Alouette lulu,2018,0,1
+Blongios nain,2009,0,1
+Bruant des roseaux,2018,0,2
+Canard chipeau,2018,0,3
+Canard pilet,2009,0,1
+Chevêche d'Athéna,2018,0,1
+Cigogne blanche,2018,0,1
+Corbeau freux,2009,0,1
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Goéland leucophée,2018,0,1
+Grèbe esclavon,2009,0,1
+Hypolaïs ictérine,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange boréale,2009,0,2
+Moineau friquet,2017,0,2
+Oie cendrée,2014,0,2
+Oie rieuse,2009,0,1
+Pie-grièche grise,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2018,0,2
+Pipit farlouse,2018,0,4
+Pipit spioncelle,2018,0,1
+Pouillot fitis,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'été,2009,0,1
+Tadorne de Belon,2018,0,1
+Tarier pâtre,2009,0,1
+Tourterelle des bois,2009,0,2
+Traquet motteux,2018,0,1

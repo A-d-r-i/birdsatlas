@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard Saint-Martin"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic noir"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Busard Saint-Martin,2013,0,2
+Hirondelle de rivage,2018,0,2
+Locustelle tachetée,2009,0,1
+Perdrix grise,2018,0,1
+Perdrix rouge,2014,0,2
+Pic noir,2009,0,1
+Tarier des prés,2013,0,2

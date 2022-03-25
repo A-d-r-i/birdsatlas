@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Corbeau freux"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive musicienne"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Mésange à longue queue"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2009,0,2
+Bergeronnette printanière,2017,0,3
+Bihoreau gris,2009,0,1
+Bruant des roseaux,2009,0,1
+Bruant jaune,2017,0,2
+Busard Saint-Martin,2009,0,1
+Corbeau freux,2018,0,9
+Épervier d'Europe,2009,0,2
+Faisan de Colchide,2018,0,6
+Faucon hobereau,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2016,0,2
+Foulque macroule,2017,0,1
+Grèbe castagneux,2017,0,1
+Grimpereau des jardins,2018,0,10
+Grive draine,2017,0,5
+Grive litorne,2017,0,3
+Grive musicienne,2017,0,3
+Linotte mélodieuse,2017,0,2
+Locustelle tachetée,2016,0,1
+Loriot d'Europe,2018,0,7
+Martinet noir,2009,0,1
+Mésange à longue queue,2017,0,3
+Mouette rieuse,2009,0,1
+Oedicnème criard,2009,0,1
+Pic épeichette,2018,0,3
+Pinson du Nord,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2018,0,1
+Pouillot fitis,2016,0,2
+Rougequeue à front blanc,2018,0,3
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'hiver,2017,0,2
+Serin cini,2017,0,2
+Tarin des aulnes,2018,0,2
+Troglodyte mignon,2018,0,8

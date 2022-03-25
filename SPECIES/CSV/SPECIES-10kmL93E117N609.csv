@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette de Moltoni"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grand Gravelot"
-"0";"Mésange à longue queue"
-"0";"Mésange charbonnière"
-"0";"Milan royal"
-"0";"Pic épeiche"
-"0";"Puffin cendré"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Coucou gris,2017,0,1
+Épervier d'Europe,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette de Moltoni,2016,0,2
+Geai des chênes,2018,0,2
+Gobemouche gris,2018,0,2
+Grand Gravelot,2009,0,1
+Mésange à longue queue,2009,0,1
+Mésange charbonnière,2009,0,1
+Milan royal,2017,0,1
+Pic épeiche,2018,0,1
+Puffin cendré,2016,0,1
+Serin cini,2017,0,2
+Torcol fourmilier,2017,0,1
+Verdier d'Europe,2017,0,1

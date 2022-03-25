@@ -1,57 +1,54 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Autour des palombes,2016,0,2
+Bécassine des marais,2019,0,1
+Bergeronnette des ruisseaux,2018,0,3
+Bondrée apivore,2018,0,8
+Bruant des roseaux,2016,0,3
+Bruant jaune,2011,0,2
+Canard souchet,2010,0,3
+Chevalier aboyeur,2012,0,1
+Chevalier culblanc,2019,0,5
+Chevalier gambette,2015,0,1
+Chevalier guignette,2015,0,2
+Choucas des tours,2016,0,1
+Corbeau freux,2016,0,5
+Coucou gris,2016,0,9
+Engoulevent d'Europe,2016,0,1
+Faisan de Colchide,2018,0,18
+Faucon émerillon,2009,0,1
+Faucon pèlerin,2012,0,1
+Fuligule milouin,2010,0,3
+Gobemouche gris,2009,0,1
+Goéland leucophée,2016,0,1
+Grand-duc d'Europe,2016,0,1
+Grèbe huppé,2019,0,14
+Grosbec casse-noyaux,2018,0,12
+Guêpier d'Europe,2013,0,1
+Héron cendré,2019,0,53
+Hibou moyen-duc,2016,0,1
+Martin-pêcheur d'Europe,2015,0,2
+Mésange huppée,2017,0,1
+Mésange noire,2018,0,3
+Mésange nonnette,2016,0,4
+Moineau soulcie,2015,0,4
+Mouette rieuse,2016,0,1
+Petit-duc scops,2012,0,3
+Petit Gravelot,2010,0,1
+Pic noir,2016,0,2
+Pie-grièche à tête rousse,2018,0,1
+Pigeon biset domestique,2013,0,4
+Pigeon colombin,2016,0,2
+Pinson du Nord,2018,0,5
+Pouillot de Bonelli,2016,0,2
+Pouillot fitis,2017,0,10
+Pouillot siffleur,2015,0,1
+Roitelet à triple bandeau,2016,0,8
+Roitelet huppé,2015,0,1
+Rougequeue à front blanc,2017,0,3
+Serin cini,2011,0,2
+Sittelle torchepot,2016,0,21
+Tarin des aulnes,2015,0,1
+Tourterelle des bois,2018,0,38
+Traquet motteux,2015,0,5
+Troglodyte mignon,2017,0,40

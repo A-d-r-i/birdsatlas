@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Grive mauvis"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Niverolle alpine"
-"0";"Outarde canepetière"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot ibérique"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
-"0";"Vautour moine"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,2
+Bécassine des marais,2016,0,2
+Bihoreau gris,2009,0,1
+Bruant proyer,2018,0,2
+Bruant zizi,2015,0,3
+Busard cendré,2017,0,10
+Canard souchet,2010,0,1
+Chevalier gambette,2012,0,2
+Chevalier guignette,2018,0,22
+Échasse blanche,2014,0,1
+Effraie des clochers,2018,0,1
+Faucon émerillon,2009,0,1
+Faucon kobez,2008,0,1
+Fauvette des jardins,2018,0,4
+Grive mauvis,2015,0,1
+Héron garde-boeufs,2018,0,4
+Héron pourpré,2007,0,1
+Locustelle tachetée,2013,0,1
+Niverolle alpine,2011,0,2
+Outarde canepetière,2009,0,1
+Pie bavarde,2009,0,2
+Pigeon biset domestique,2018,0,1
+Pigeon colombin,2012,0,3
+Pluvier doré,2017,0,1
+Pouillot ibérique,2015,0,14
+Pouillot siffleur,2017,0,3
+Rollier d'Europe,2011,0,1
+Tichodrome échelette,2015,0,2
+Torcol fourmilier,2018,0,7
+Tourterelle turque,2010,0,6
+Vautour moine,2017,0,2
+Verdier d'Europe,2018,0,7

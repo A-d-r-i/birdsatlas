@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Canard souchet"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Etourneau roselin"
-"0";"Fauvette grisette"
-"0";"Fauvette passerinette"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,2
+Autour des palombes,2017,0,1
+Bécasse des bois,2017,0,7
+Bécassine des marais,2012,0,1
+Bergeronnette printanière,2017,0,3
+Canard souchet,2015,0,1
+Chevalier sylvain,2011,0,1
+Cigogne noire,2011,0,1
+Coucou geai,2012,0,2
+Etourneau roselin,2018,0,2
+Fauvette grisette,2016,0,2
+Fauvette passerinette,2017,0,5
+Foulque macroule,2014,0,1
+Fuligule morillon,2014,0,1
+Grèbe castagneux,2016,0,16
+Grèbe huppé,2014,0,2
+Héron pourpré,2016,0,3
+Hibou moyen-duc,2018,0,3
+Mésange huppée,2017,0,2
+Mésange noire,2013,0,1
+Pigeon colombin,2010,0,1
+Pipit spioncelle,2012,0,1
+Pouillot fitis,2015,0,10
+Roitelet huppé,2017,0,1
+Sarcelle d'hiver,2016,0,3
+Torcol fourmilier,2008,0,1
+Traquet oreillard,2017,0,1

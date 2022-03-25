@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouscarle de Cetti"
-"0";"Bruant proyer"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette mélanocéphale"
-"0";"Monticole bleu"
-"0";"Rougequeue noir"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Bouscarle de Cetti,2009,0,1
+Bruant proyer,2018,0,3
+Cincle plongeur,2018,0,1
+Engoulevent d'Europe,2018,0,2
+Faucon pèlerin,2017,0,1
+Fauvette mélanocéphale,2009,0,1
+Monticole bleu,2009,0,1
+Rougequeue noir,2018,0,1
+Venturon corse,2017,0,1

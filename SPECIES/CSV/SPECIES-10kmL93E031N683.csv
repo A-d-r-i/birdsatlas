@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bernache du Canada"
-"0";"Bruant jaune"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Faucon émerillon"
-"0";"Goéland cendré"
-"0";"Goéland marin"
-"0";"Mésange nonnette"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2009,0,1
+Bernache du Canada,2015,0,2
+Bruant jaune,2009,0,1
+Chevalier culblanc,2017,0,1
+Cigogne blanche,2018,0,2
+Faucon émerillon,2018,0,1
+Goéland cendré,2018,0,1
+Goéland marin,2014,0,1
+Mésange nonnette,2009,0,1
+Sizerin cabaret,2017,0,3
+Sizerin flammé,2017,0,3
+Vanneau huppé,2018,0,2

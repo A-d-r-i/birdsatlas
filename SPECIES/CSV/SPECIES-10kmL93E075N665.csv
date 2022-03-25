@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Courlis cendré"
-"0";"Faucon hobereau"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Oedicnème criard"
-"0";"Paon bleu"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,2
+Bécassine des marais,2017,0,1
+Bergeronnette printanière,2012,0,5
+Bernache du Canada,2014,0,4
+Bruant des roseaux,2017,0,1
+Bruant fou,2017,0,1
+Courlis cendré,2012,0,4
+Faucon hobereau,2016,0,6
+Fuligule milouin,2013,0,3
+Fuligule morillon,2013,0,3
+Gobemouche noir,2012,0,1
+Grèbe castagneux,2015,0,1
+Grive litorne,2018,0,21
+Hibou moyen-duc,2012,0,2
+Oedicnème criard,2018,0,2
+Paon bleu,2012,0,1
+Perdrix rouge,2012,0,5
+Petit Gravelot,2014,0,2
+Pic cendré,2010,0,2
+Pie-grièche à tête rousse,2014,0,5
+Pinson du Nord,2015,0,3
+Pipit farlouse,2014,0,4
+Pouillot fitis,2017,0,3
+Pouillot siffleur,2018,0,22
+Roitelet huppé,2016,0,7
+Rougequeue à front blanc,2016,0,6
+Sarcelle d'hiver,2017,0,9
+Sterne pierregarin,2012,0,1

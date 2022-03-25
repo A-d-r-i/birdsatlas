@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gélinotte des bois"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
-"0";"Tarier pâtre"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,2
+Bécasse des bois,2012,0,2
+Bondrée apivore,2015,0,5
+Cigogne blanche,2013,0,1
+Cigogne noire,2017,0,2
+Foulque macroule,2012,0,4
+Gallinule poule-d'eau,2014,0,9
+Gélinotte des bois,2011,0,2
+Grand Cormoran,2018,0,1
+Grande Aigrette,2014,0,2
+Hypolaïs polyglotte,2015,0,1
+Linotte mélodieuse,2017,0,2
+Merle à plastron,2016,0,1
+Oie cendrée,2015,0,1
+Pigeon biset domestique,2012,0,1
+Pigeon colombin,2012,0,3
+Pinson du Nord,2019,0,5
+Pipit spioncelle,2017,0,1
+Pouillot fitis,2011,0,2
+Rémiz penduline,2012,0,1
+Rousserolle verderolle,2015,0,8
+Tarier pâtre,2018,0,5
+Vanneau huppé,2015,0,1

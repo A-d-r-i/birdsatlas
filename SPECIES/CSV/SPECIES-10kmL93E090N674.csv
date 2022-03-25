@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle criard"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche à collier"
-"0";"Grand Corbeau"
-"0";"Grimpereau des bois"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,13
+Aigle criard,2018,0,1
+Bécasse des bois,2016,0,3
+Bec-croisé des sapins,2016,0,1
+Bruant des roseaux,2012,0,1
+Busard des roseaux,2018,0,4
+Busard Saint-Martin,2018,0,17
+Chevalier culblanc,2017,0,1
+Chouette hulotte,2016,0,7
+Cincle plongeur,2011,0,1
+Courlis cendré,2016,0,3
+Fauvette des jardins,2016,0,6
+Foulque macroule,2011,0,2
+Gallinule poule-d'eau,2015,0,5
+Gobemouche à collier,2012,0,2
+Grand Corbeau,2017,0,2
+Grimpereau des bois,2014,0,6
+Guêpier d'Europe,2013,0,1
+Hirondelle de rivage,2011,0,2
+Locustelle tachetée,2012,0,3
+Mésange boréale,2017,0,10
+Mésange huppée,2014,0,6
+Mésange noire,2012,0,8
+Pic cendré,2015,0,6
+Pie-grièche à tête rousse,2010,0,2
+Pigeon colombin,2012,0,2
+Pinson du Nord,2008,0,1
+Pipit spioncelle,2015,0,1
+Pouillot fitis,2010,0,2
+Râle d'eau,2013,0,2
+Rémiz penduline,2017,0,1
+Rousserolle effarvatte,2011,0,3
+Serin cini,2017,0,9
+Tarier des prés,2015,0,5
+Traquet motteux,2018,0,3

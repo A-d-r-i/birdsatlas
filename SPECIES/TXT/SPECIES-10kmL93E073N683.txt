@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bergeronnette des ruisseaux
-0        Bouvreuil pivoine
-0        Bruant zizi
-0        Busard cendré
-0        Canard colvert
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Corbeau freux
-0        Coucou gris
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grosbec casse-noyaux
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau friquet
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Oedicnème criard
-0        Petit Gravelot
-0        Pic mar
-0        Pie bavarde
-0        Pie-grièche écorcheur
-0        Pigeon biset domestique
-0        Pinson du Nord
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Serin cini
-0        Tourterelle turque
-0        Verdier d'Europe
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette lulu               2009    0        2
+Bergeronnette des ruisseaux 2018    0        1
+Bouvreuil pivoine           2017    0        8
+Bruant zizi                 2009    0        2
+Busard cendré               2017    0        2
+Canard colvert              2017    0        3
+Canard souchet              2018    0        1
+Chevêche d'Athéna           2017    0        6
+Choucas des tours           2017    0        7
+Corbeau freux               2017    0        6
+Coucou gris                 2017    0        4
+Épervier d'Europe           2012    0        3
+Faucon hobereau             2017    0        3
+Fauvette babillarde         2012    0        2
+Fauvette des jardins        2017    0        23
+Gallinule poule-d'eau       2010    0        2
+Gobemouche gris             2012    0        2
+Grand Cormoran              2017    0        2
+Grosbec casse-noyaux        2018    0        8
+Jaseur boréal               2010    0        2
+Locustelle tachetée         2017    0        1
+Mésange huppée              2009    0        2
+Mésange noire               2017    0        2
+Mésange nonnette            2017    0        10
+Moineau friquet             2011    0        2
+Mouette mélanocéphale       2017    0        5
+Mouette rieuse              2017    0        2
+Oedicnème criard            2017    0        4
+Petit Gravelot              2011    0        1
+Pic mar                     2017    0        4
+Pie bavarde                 2018    0        10
+Pie-grièche écorcheur       2009    0        1
+Pigeon biset domestique     2017    0        3
+Pinson du Nord              2018    0        9
+Pouillot de Bonelli         2009    0        2
+Pouillot fitis              2017    0        6
+Roitelet à triple bandeau   2017    0        3
+Rougequeue à front blanc    2012    0        4
+Rougequeue noir             2017    0        11
+Serin cini                  2017    0        4
+Tourterelle turque          2017    0        13
+Verdier d'Europe            2017    0        16
 

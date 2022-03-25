@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Chevalier guignette"
-"0";"Faisan vénéré"
-"0";"Grèbe castagneux"
-"0";"Jaseur boréal"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Phragmite des joncs"
-"0";"Rousserolle effarvatte"
-"0";"Sittelle torchepot"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2018,0,5
+Chevalier guignette,2018,0,1
+Faisan vénéré,2012,0,1
+Grèbe castagneux,2009,0,1
+Jaseur boréal,2016,0,1
+Merle à plastron,2018,0,1
+Moineau friquet,2015,0,2
+Phragmite des joncs,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sittelle torchepot,2014,0,1

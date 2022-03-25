@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Grand-duc d'Europe"
-"0";"Grand Tétras"
-"0";"Grive mauvis"
-"0";"Huppe fasciée"
-"0";"Monticole de roche"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Râle des genêts"
-"0";"Rollier d'Europe"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2015,0,1
+Chevalier guignette,2015,0,3
+Cigogne noire,2011,0,1
+Courlis cendré,2009,0,2
+Fauvette babillarde,2013,0,1
+Fauvette des jardins,2018,0,5
+Foulque macroule,2013,0,1
+Grand-duc d'Europe,2015,0,3
+Grand Tétras,2010,0,1
+Grive mauvis,2014,0,4
+Huppe fasciée,2016,0,2
+Monticole de roche,2013,0,1
+Pic mar,2014,0,1
+Pie-grièche grise,2018,0,1
+Pigeon colombin,2011,0,1
+Râle des genêts,2009,0,1
+Rollier d'Europe,2016,0,4

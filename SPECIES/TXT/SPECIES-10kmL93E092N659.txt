@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant zizi
-0        Courlis cendré
-0        Faisan de Colchide
-0        Fauvette babillarde
-0        Grand-duc d'Europe
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Huppe fasciée
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Pic épeichette
-0        Pic mar
-0        Pigeon colombin
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Tichodrome échelette
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigle botté            2013    0        2
+Bruant des roseaux     2011    0        2
+Bruant fou             2015    0        4
+Bruant zizi            2016    0        4
+Courlis cendré         2015    0        1
+Faisan de Colchide     2017    0        1
+Fauvette babillarde    2016    0        1
+Grand-duc d'Europe     2015    0        2
+Grèbe castagneux       2015    0        1
+Grèbe huppé            2014    0        4
+Huppe fasciée          2007    0        1
+Jaseur boréal          2013    0        3
+Locustelle tachetée    2018    0        3
+Loriot d'Europe        2015    0        1
+Pic épeichette         2012    0        2
+Pic mar                2018    0        3
+Pigeon colombin        2015    0        1
+Rossignol philomèle    2016    0        1
+Rousserolle effarvatte 2011    0        2
+Tarier des prés        2016    0        15
+Tichodrome échelette   2016    0        5
 

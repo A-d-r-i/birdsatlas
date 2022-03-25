@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandre
-0        Courlis cendré
-0        Fauvette des jardins
-0        Fauvette passerinette
-0        Fauvette sarde
-0        Gobemouche noir
-0        Goéland railleur
-0        Grand Gravelot
-0        Milan noir
-0        Monticole bleu
-0        Nette rousse
-0        Puffin cendré
-0        Venturon corse
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette calandre     2016    0        1
+Courlis cendré        2018    0        1
+Fauvette des jardins  2017    0        1
+Fauvette passerinette 2009    0        1
+Fauvette sarde        2018    0        2
+Gobemouche noir       2009    0        1
+Goéland railleur      2018    0        2
+Grand Gravelot        2018    0        1
+Milan noir            2018    0        1
+Monticole bleu        2018    0        1
+Nette rousse          2018    0        1
+Puffin cendré         2016    0        1
+Venturon corse        2017    0        4
 

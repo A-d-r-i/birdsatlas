@@ -1,48 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau variable"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bouvreuil pivoine"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Chouette hulotte"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Échasse blanche"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Nette rousse"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2018,0,2
+Bécasseau variable,2016,0,9
+Bécassine des marais,2017,0,16
+Bec-croisé des sapins,2013,0,1
+Bergeronnette flavéole (M.f.flavissima),2016,0,9
+Bouvreuil pivoine,2017,0,9
+Busard des roseaux,2014,0,2
+Canard mandarin,2017,0,3
+Canard siffleur,2017,0,10
+Canard souchet,2017,0,21
+Chevalier aboyeur,2016,0,27
+Chevalier arlequin,2013,0,1
+Chevalier culblanc,2017,0,33
+Chevalier gambette,2017,0,34
+Chevalier sylvain,2016,0,4
+Cisticole des joncs,2009,0,2
+Combattant varié,2014,0,5
+Échasse blanche,2015,0,1
+Fuligule milouin,2017,0,7
+Fuligule morillon,2017,0,5
+Gobemouche gris,2018,0,14
+Goéland argenté,2018,0,1
+Gorgebleue à miroir,2013,0,2
+Grand Gravelot,2016,0,8
+Harle bièvre,2017,0,19
+Héron pourpré,2015,0,2
+Hibou des marais,2016,0,2
+Locustelle tachetée,2016,0,3
+Moineau friquet,2017,0,3
+Mouette mélanocéphale,2007,0,1
+Nette rousse,2017,0,5
+Petit-duc scops,2017,0,6
+Phragmite des joncs,2012,0,1
+Pie-grièche à tête rousse,2017,0,3
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2016,0,9
+Pouillot fitis,2017,0,3
+Pouillot siffleur,2015,0,4
+Râle d'eau,2016,0,1
+Sarcelle d'été,2018,0,5
+Sarcelle d'hiver,2018,0,27
+Sizerin cabaret,2011,0,1
+Sizerin flammé,2011,0,1
+Tadorne de Belon,2008,0,1

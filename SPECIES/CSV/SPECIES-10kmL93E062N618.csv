@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Chocard à bec jaune"
-"0";"Coucou geai"
-"0";"Faucon crécerellette"
-"0";"Faucon hobereau"
-"0";"Fauvette pitchou"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Grand Tétras"
-"0";"Grive mauvis"
-"0";"Huppe fasciée"
-"0";"Merle à plastron"
-"0";"Monticole bleu"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pinson du Nord"
-"0";"Pipit spioncelle"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Traquet motteux"
-"0";"Vautour moine"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2009,0,1
+Bécasse des bois,2018,0,5
+Bec-croisé des sapins,2018,0,5
+Bergeronnette printanière,2011,0,1
+Bruant fou,2011,0,4
+Bruant ortolan,2009,0,1
+Busard cendré,2012,0,2
+Chocard à bec jaune,2018,0,4
+Coucou geai,2011,0,1
+Faucon crécerellette,2014,0,20
+Faucon hobereau,2017,0,3
+Fauvette pitchou,2009,0,1
+Gobemouche gris,2009,0,1
+Gobemouche noir,2018,0,2
+Grand-duc d'Europe,2015,0,5
+Grand Tétras,2009,0,2
+Grive mauvis,2018,0,3
+Huppe fasciée,2011,0,5
+Merle à plastron,2009,0,1
+Monticole bleu,2009,0,2
+Perdrix grise,2009,0,2
+Perdrix rouge,2009,0,3
+Pic épeichette,2009,0,1
+Pinson du Nord,2014,0,3
+Pipit spioncelle,2018,0,9
+Tarin des aulnes,2009,0,1
+Tourterelle turque,2015,0,4
+Traquet motteux,2018,0,4
+Vautour moine,2018,0,5
+Venturon montagnard,2014,0,2

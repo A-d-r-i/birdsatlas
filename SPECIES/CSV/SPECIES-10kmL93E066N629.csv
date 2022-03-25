@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Canard colvert"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rollier d'Europe"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2014,0,2
+Bécassine des marais,2008,0,1
+Bécassine sourde,2012,0,1
+Canard colvert,2014,0,24
+Canard mandarin,2018,0,3
+Chevalier culblanc,2012,0,1
+Chevalier guignette,2013,0,3
+Chevêche d'Athéna,2008,0,1
+Cigogne noire,2011,0,3
+Engoulevent d'Europe,2012,0,8
+Gallinule poule-d'eau,2014,0,4
+Goéland leucophée,2010,0,1
+Grand Cormoran,2014,0,4
+Grand-duc d'Europe,2012,0,4
+Grèbe castagneux,2013,0,2
+Grive litorne,2015,0,10
+Grive mauvis,2014,0,9
+Grosbec casse-noyaux,2017,0,20
+Locustelle tachetée,2011,0,1
+Martin-pêcheur d'Europe,2018,0,7
+Pic mar,2018,0,6
+Pigeon colombin,2012,0,1
+Pinson du Nord,2016,0,4
+Pipit rousseline,2011,0,1
+Pipit spioncelle,2013,0,4
+Pouillot fitis,2018,0,28
+Rollier d'Europe,2012,0,9
+Rossignol philomèle,2018,0,2
+Rougequeue à front blanc,2018,0,23
+Torcol fourmilier,2017,0,3
+Venturon montagnard,2011,0,1

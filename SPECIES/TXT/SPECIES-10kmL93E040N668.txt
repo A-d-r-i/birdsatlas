@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Canard pilet
-0        Cigogne noire
-0        Courlis cendré
-0        Faucon émerillon
-0        Fauvette pitchou
-0        Fuligule morillon
-0        Goéland cendré
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Ibis sacré
-0        Petit Gravelot
-0        Pipit des arbres
-0        Pouillot siffleur
-0        Râle d'eau
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne casarca
+frname            lastobs newcount oldcount
+------            ------- -------- --------
+Canard pilet      2019    0        4
+Cigogne noire     2017    0        2
+Courlis cendré    2016    0        2
+Faucon émerillon  2018    0        1
+Fauvette pitchou  2009    0        2
+Fuligule morillon 2018    0        5
+Goéland cendré    2013    0        3
+Guifette moustac  2018    0        3
+Guifette noire    2018    0        2
+Harle bièvre      2009    0        2
+Ibis sacré        2015    0        1
+Petit Gravelot    2011    0        3
+Pipit des arbres  2018    0        3
+Pouillot siffleur 2012    0        1
+Râle d'eau        2011    0        2
+Sizerin cabaret   2018    0        1
+Sizerin flammé    2018    0        1
+Tadorne casarca   2016    0        1
 

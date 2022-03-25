@@ -1,55 +1,53 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant jaune"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland pontique"
-"0";"Grand Gravelot"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Huîtrier pie"
-"0";"Hypolaïs polyglotte"
-"0";"Martinet pâle"
-"0";"Petit Gravelot"
-"0";"Pinson du Nord"
-"0";"Pipit de Richard"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Plongeon imbrin"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sterne naine"
-"0";"Torcol fourmilier"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2010,0,1
+Aigle botté,2018,0,4
+Aigle royal,2015,0,2
+Autour des palombes,2018,0,3
+Barge à queue noire,2012,0,1
+Bécasse des bois,2012,0,1
+Bécassine des marais,2015,0,12
+Bec-croisé des sapins,2012,0,1
+Bergeronnette flavéole (M.f.flavissima),2012,0,1
+Bruant jaune,2013,0,12
+Butor étoilé,2012,0,1
+Caille des blés,2011,0,3
+Canard siffleur,2012,0,1
+Chevalier arlequin,2012,0,3
+Chevalier sylvain,2015,0,11
+Cigogne noire,2012,0,1
+Courlis cendré,2013,0,2
+Effraie des clochers,2017,0,3
+Faucon crécerellette,2016,0,8
+Faucon d'Eléonore,2018,0,2
+Faucon kobez,2015,0,11
+Faucon pèlerin,2010,0,1
+Fauvette des jardins,2012,0,2
+Fauvette grisette,2018,0,2
+Gobemouche gris,2015,0,5
+Gobemouche noir,2018,0,13
+Goéland brun,2017,0,10
+Goéland pontique,2013,0,2
+Grand Gravelot,2012,0,3
+Grive draine,2018,0,13
+Grive mauvis,2009,0,1
+Grosbec casse-noyaux,2014,0,5
+Harle bièvre,2011,0,2
+Héron pourpré,2015,0,16
+Hibou moyen-duc,2018,0,10
+Huîtrier pie,2016,0,11
+Hypolaïs polyglotte,2016,0,33
+Martinet pâle,2011,0,2
+Petit Gravelot,2012,0,3
+Pinson du Nord,2016,0,4
+Pipit de Richard,2012,0,4
+Pipit spioncelle,2016,0,23
+Plongeon arctique,2015,0,5
+Plongeon imbrin,2008,0,1
+Rémiz penduline,2015,0,4
+Rousserolle effarvatte,2017,0,44
+Rousserolle turdoïde,2015,0,45
+Sarcelle d'été,2015,0,5
+Sarcelle d'hiver,2012,0,1
+Sterne naine,2012,0,5
+Torcol fourmilier,2011,0,2
+Venturon montagnard,2012,0,1

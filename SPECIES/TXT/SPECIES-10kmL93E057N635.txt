@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant fou
-0        Bruant jaune
-0        Bruant ortolan
-0        Busard cendré
-0        Chevalier guignette
-0        Grand-duc d'Europe
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Mésange noire
-0        Moineau friquet
-0        Moineau soulcie
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Sarcelle d'hiver
-0        Torcol fourmilier
-0        Traquet motteux
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Bruant fou          2018    0        1
+Bruant jaune        2015    0        1
+Bruant ortolan      2009    0        1
+Busard cendré       2017    0        1
+Chevalier guignette 2017    0        1
+Grand-duc d'Europe  2016    0        2
+Héron pourpré       2016    0        1
+Hibou moyen-duc     2015    0        4
+Mésange noire       2018    0        1
+Moineau friquet     2018    0        1
+Moineau soulcie     2009    0        1
+Pipit farlouse      2018    0        2
+Pipit spioncelle    2017    0        1
+Sarcelle d'hiver    2016    0        1
+Torcol fourmilier   2009    0        1
+Traquet motteux     2016    0        1
 

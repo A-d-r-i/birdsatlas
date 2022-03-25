@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chardonneret élégant"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cisticole des joncs"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette grisette"
-"0";"Gobemouche noir"
-"0";"Grive draine"
-"0";"Grive musicienne"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Merle à plastron"
-"0";"Mésange à longue queue"
-"0";"Mésange bleue"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Moineau domestique"
-"0";"Moineau friquet"
-"0";"Pic épeiche"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougequeue noir"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,2
+Bécasse des bois,2011,0,2
+Bouvreuil pivoine,2012,0,2
+Bruant fou,2011,0,1
+Bruant proyer,2017,0,2
+Busard cendré,2017,0,6
+Busard des roseaux,2013,0,1
+Caille des blés,2017,0,2
+Chardonneret élégant,2017,0,6
+Chevalier culblanc,2017,0,1
+Cigogne blanche,2010,0,1
+Cisticole des joncs,2008,0,1
+Coucou gris,2017,0,72
+Effraie des clochers,2014,0,7
+Engoulevent d'Europe,2018,0,15
+Faucon émerillon,2017,0,5
+Faucon pèlerin,2010,0,2
+Fauvette grisette,2017,0,3
+Gobemouche noir,2017,0,6
+Grive draine,2017,0,28
+Grive musicienne,2017,0,41
+Héron cendré,2016,0,6
+Hibou moyen-duc,2012,0,3
+Loriot d'Europe,2013,0,2
+Martinet noir,2017,0,8
+Merle à plastron,2015,0,2
+Mésange à longue queue,2017,0,24
+Mésange bleue,2017,0,38
+Mésange huppée,2018,0,46
+Mésange noire,2017,0,6
+Milan noir,2011,0,2
+Moineau domestique,2017,0,37
+Moineau friquet,2011,0,2
+Pic épeiche,2017,0,58
+Pigeon biset domestique,2015,0,7
+Pigeon colombin,2015,0,2
+Pinson du Nord,2013,0,3
+Pouillot de Bonelli,2017,0,4
+Roitelet à triple bandeau,2017,0,38
+Roitelet huppé,2015,0,2
+Rossignol philomèle,2017,0,27
+Rougequeue noir,2017,0,27
+Tarin des aulnes,2015,0,6
+Tourterelle turque,2017,0,55
+Vanneau huppé,2015,0,8
+Verdier d'Europe,2017,0,19

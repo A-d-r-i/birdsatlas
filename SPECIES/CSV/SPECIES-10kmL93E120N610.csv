@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Gobemouche noir"
-"0";"Mésange noire"
-"0";"Pic épeiche"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2018,0,1
+Gobemouche noir,2018,0,1
+Mésange noire,2018,0,1
+Pic épeiche,2019,0,1
+Venturon corse,2018,0,1

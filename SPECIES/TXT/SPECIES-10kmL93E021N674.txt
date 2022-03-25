@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécassine sourde
-0        Bruant jaune
-0        Bruant proyer
-0        Canard pilet
-0        Chouette hulotte
-0        Combattant varié
-0        Faucon hobereau
-0        Gobemouche noir
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Guifette noire
-0        Héron pourpré
-0        Labbe parasite
-0        Mésange nonnette
-0        Milan royal
-0        Océanite tempête
-0        Pie bavarde
-0        Pie-grièche à tête rousse
-0        Pigeon biset (origine naturelle)
-0        Pipit de Richard
-0        Pipit des arbres
-0        Pluvier guignard
-0        Rougequeue à front blanc
-0        Spatule blanche
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Bécasseau minute                 2016    0        1
+Bécassine sourde                 2010    0        1
+Bruant jaune                     2017    0        3
+Bruant proyer                    2016    0        1
+Canard pilet                     2017    0        2
+Chouette hulotte                 2018    0        1
+Combattant varié                 2016    0        4
+Faucon hobereau                  2017    0        2
+Gobemouche noir                  2018    0        10
+Goéland à ailes blanches         2015    0        1
+Goéland bourgmestre              2016    0        1
+Guifette noire                   2016    0        5
+Héron pourpré                    2015    0        1
+Labbe parasite                   2016    0        3
+Mésange nonnette                 2009    0        1
+Milan royal                      2010    0        1
+Océanite tempête                 2017    0        34
+Pie bavarde                      2018    0        2
+Pie-grièche à tête rousse        2016    0        3
+Pigeon biset (origine naturelle) 2009    0        1
+Pipit de Richard                 2010    0        2
+Pipit des arbres                 2016    0        7
+Pluvier guignard                 2018    0        1
+Rougequeue à front blanc         2018    0        6
+Spatule blanche                  2017    0        1
 

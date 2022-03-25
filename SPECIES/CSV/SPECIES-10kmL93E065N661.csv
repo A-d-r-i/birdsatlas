@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange nonnette"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Fauvette des jardins,2009,0,1
+Fuligule milouin,2016,0,1
+Hibou moyen-duc,2015,0,2
+Hirondelle de rivage,2009,0,1
+Locustelle tachetée,2008,0,1
+Mésange nonnette,2013,0,3
+Rougequeue à front blanc,2017,0,3
+Serin cini,2008,0,1

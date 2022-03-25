@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Goéland leucophée"
-"0";"Linotte mélodieuse"
-"0";"Nette rousse"
-"0";"Sterne caugek"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2009,0,1
+Bergeronnette printanière,2017,0,2
+Bruant des roseaux,2018,0,1
+Caille des blés,2009,0,1
+Chevalier aboyeur,2018,0,2
+Chevalier culblanc,2018,0,2
+Cigogne blanche,2018,0,1
+Effraie des clochers,2016,0,7
+Faisan de Colchide,2017,0,1
+Goéland leucophée,2017,0,1
+Linotte mélodieuse,2009,0,1
+Nette rousse,2017,0,1
+Sterne caugek,2018,0,1
+Tadorne de Belon,2010,0,1

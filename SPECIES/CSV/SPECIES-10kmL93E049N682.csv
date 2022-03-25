@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Martinet noir"
+frname,lastobs,newcount,oldcount
+Canard pilet,2013,0,1
+Canard souchet,2013,0,1
+Martinet noir,2009,0,1

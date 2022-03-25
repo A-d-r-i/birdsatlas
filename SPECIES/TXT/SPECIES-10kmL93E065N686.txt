@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Astrild ondulé
-0        Autour des palombes
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécassine des marais
-0        Bengali rouge
-0        Bihoreau gris
-0        Bruant proyer
-0        Canard à collier noir
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Cochevis huppé
-0        Faucon kobez
-0        Fuligule milouin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gorgebleue à miroir
-0        Grèbe esclavon
-0        Harle bièvre
-0        Héron garde-boeufs
-0        Inséparable de Fischer
-0        Inséparable masqué
-0        Labbe parasite
-0        Locustelle tachetée
-0        Mouette pygmée
-0        Nette demi-deuil
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Perroquet jaco
-0        Phragmite des joncs
-0        Pie-grièche écorcheur
-0        Pouillot brun
-0        Pouillot de Bonelli
-0        Sarcelle d'été
-0        Spatule blanche
-0        Sterne caugek
-0        Tadorne de Belon
-0        Tichodrome échelette
-0        Tourterelle rieuse
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Astrild ondulé         2016    0        3
+Autour des palombes    2017    0        2
+Avocette élégante      2015    0        6
+Barge à queue noire    2017    0        3
+Bécassine des marais   2018    0        11
+Bengali rouge          2010    0        2
+Bihoreau gris          2012    0        3
+Bruant proyer          2018    0        3
+Canard à collier noir  2011    0        2
+Canard souchet         2009    0        2
+Chevêche d'Athéna      2013    0        1
+Cochevis huppé         2010    0        2
+Faucon kobez           2016    0        2
+Fuligule milouin       2018    0        5
+Fuligule morillon      2010    0        3
+Garrot à oeil d'or     2011    0        13
+Gorgebleue à miroir    2015    0        9
+Grèbe esclavon         2014    0        8
+Harle bièvre           2012    0        1
+Héron garde-boeufs     2016    0        1
+Inséparable de Fischer 2018    0        2
+Inséparable masqué     2017    0        1
+Labbe parasite         2017    0        1
+Locustelle tachetée    2018    0        17
+Mouette pygmée         2017    0        2
+Nette demi-deuil       2013    0        2
+Ouette d'Egypte        2016    0        4
+Perdrix grise          2015    0        1
+Perdrix rouge          2012    0        1
+Perroquet jaco         2011    0        1
+Phragmite des joncs    2017    0        16
+Pie-grièche écorcheur  2016    0        27
+Pouillot brun          2013    0        25
+Pouillot de Bonelli    2018    0        14
+Sarcelle d'été         2017    0        1
+Spatule blanche        2012    0        1
+Sterne caugek          2007    0        1
+Tadorne de Belon       2016    0        12
+Tichodrome échelette   2015    0        1
+Tourterelle rieuse     2011    0        1
+Vautour fauve          2014    0        1
 

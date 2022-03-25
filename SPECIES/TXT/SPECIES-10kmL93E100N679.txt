@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécassine des marais
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Busard cendré
-0        Busard pâle
-0        Busard Saint-Martin
-0        Buse pattue
-0        Butor étoilé
-0        Chevalier culblanc
-0        Courlis cendré
-0        Effraie des clochers
-0        Gallinule poule-d'eau
-0        Gélinotte des bois
-0        Grand-duc d'Europe
-0        Grand Tétras
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Moineau friquet
-0        Oie cendrée
-0        Perruche à collier
-0        Pluvier doré
-0        Pouillot à grands sourcils
-0        Rémiz penduline
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Vautour fauve
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigle botté                2018    0        1
+Bécassine des marais       2013    0        4
+Bruant des roseaux         2016    0        3
+Bruant ortolan             2016    0        3
+Busard cendré              2016    0        2
+Busard pâle                2017    0        1
+Busard Saint-Martin        2017    0        10
+Buse pattue                2009    0        1
+Butor étoilé               2018    0        2
+Chevalier culblanc         2018    0        1
+Courlis cendré             2017    0        1
+Effraie des clochers       2015    0        1
+Gallinule poule-d'eau      2013    0        6
+Gélinotte des bois         2017    0        8
+Grand-duc d'Europe         2012    0        2
+Grand Tétras               2015    0        10
+Hibou des marais           2015    0        1
+Hibou moyen-duc            2012    0        2
+Hirondelle de rivage       2016    0        3
+Jaseur boréal              2013    0        2
+Locustelle tachetée        2018    0        8
+Moineau friquet            2013    0        4
+Oie cendrée                2013    0        1
+Perruche à collier         2018    0        3
+Pluvier doré               2013    0        1
+Pouillot à grands sourcils 2016    0        1
+Rémiz penduline            2012    0        1
+Rossignol philomèle        2016    0        3
+Rousserolle verderolle     2016    0        2
+Sizerin cabaret            2017    0        12
+Vautour fauve              2018    0        4
 

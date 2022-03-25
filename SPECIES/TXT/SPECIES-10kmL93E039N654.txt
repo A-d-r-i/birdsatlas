@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Ara bleu
-0        Bécasseau falcinelle
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Bernache nonnette
-0        Bruant ortolan
-0        Buse pattue
-0        Canard à collier noir
-0        Chevalier stagnatile
-0        Coucou geai
-0        Crabier chevelu
-0        Cygne noir
-0        Dendrocygne fauve
-0        Érismature à tête blanche
-0        Etourneau roselin
-0        Fauvette pitchou
-0        Fuligule à bec cerclé
-0        Fuligule nyroca
-0        Goéland pontique
-0        Grand Labbe
-0        Guillemot de Troïl
-0        Harle piette
-0        Labbe pomarin
-0        Macareux moine
-0        Mésange nonnette
-0        Mouette tridactyle
-0        Oie rieuse
-0        Pic noir
-0        Pipit maritime
-0        Plongeon imbrin
-0        Pluvier fauve
-0        Pouillot brun
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne arctique
-0        Sterne de Forster
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette calandrelle      2011    0        1
+Ara bleu                  2016    0        1
+Bécasseau falcinelle      2010    0        4
+Bécasseau sanderling      2017    0        5
+Bécasseau tacheté         2013    0        6
+Bernache nonnette         2013    0        11
+Bruant ortolan            2018    0        1
+Buse pattue               2008    0        1
+Canard à collier noir     2017    0        1
+Chevalier stagnatile      2018    0        21
+Coucou geai               2012    0        1
+Crabier chevelu           2016    0        31
+Cygne noir                2017    0        35
+Dendrocygne fauve         2007    0        1
+Érismature à tête blanche 2017    0        165
+Etourneau roselin         2014    0        1
+Fauvette pitchou          2016    0        3
+Fuligule à bec cerclé     2013    0        6
+Fuligule nyroca           2018    0        15
+Goéland pontique          2015    0        2
+Grand Labbe               2018    0        1
+Guillemot de Troïl        2014    0        1
+Harle piette              2015    0        3
+Labbe pomarin             2015    0        2
+Macareux moine            2014    0        1
+Mésange nonnette          2017    0        4
+Mouette tridactyle        2016    0        4
+Oie rieuse                2011    0        4
+Pic noir                  2018    0        1
+Pipit maritime            2012    0        2
+Plongeon imbrin           2012    0        6
+Pluvier fauve             2015    0        2
+Pouillot brun             2016    0        11
+Sizerin cabaret           2017    0        1
+Sizerin flammé            2017    0        1
+Sterne arctique           2017    0        20
+Sterne de Forster         2015    0        2
 

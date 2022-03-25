@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant des roseaux
-0        Bruant jaune
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Faucon émerillon
-0        Faucon kobez
-0        Goéland leucophée
-0        Grand Cormoran
-0        Merle à plastron
-0        Oie cendrée
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pluvier guignard
-0        Sarcelle d'été
-0        Traquet oreillard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bruant des roseaux        2013    0        3
+Bruant jaune              2016    0        3
+Busard cendré             2014    0        2
+Busard Saint-Martin       2017    0        10
+Canard colvert            2015    0        4
+Chevalier culblanc        2010    0        3
+Chevalier guignette       2010    0        2
+Faucon émerillon          2017    0        3
+Faucon kobez              2016    0        2
+Goéland leucophée         2012    0        1
+Grand Cormoran            2015    0        5
+Merle à plastron          2011    0        1
+Oie cendrée               2019    0        1
+Pie-grièche à tête rousse 2018    0        2
+Pie-grièche grise         2018    0        12
+Pigeon colombin           2013    0        1
+Pinson du Nord            2017    0        10
+Pluvier guignard          2017    0        1
+Sarcelle d'été            2014    0        1
+Traquet oreillard         2015    0        1
 

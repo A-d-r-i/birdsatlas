@@ -1,12 +1,12 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant jaune
-0        Gobemouche gris
-0        Huppe fasciée
-0        Mésange huppée
-0        Mésange noire
-0        Perdrix rouge
-0        Pipit des arbres
-0        Roitelet huppé
+frname           lastobs newcount oldcount
+------           ------- -------- --------
+Bruant jaune     2011    0        2
+Gobemouche gris  2015    0        2
+Huppe fasciée    2018    0        1
+Mésange huppée   2012    0        3
+Mésange noire    2015    0        1
+Perdrix rouge    2018    0        1
+Pipit des arbres 2012    0        5
+Roitelet huppé   2015    0        1
 

@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasseau variable"
-"0";"Chevalier guignette"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette passerinette"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Sterne pierregarin"
-"0";"Tichodrome échelette"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,3
+Bécasseau variable,2017,0,1
+Chevalier guignette,2018,0,1
+Courlis cendré,2016,0,8
+Faucon émerillon,2016,0,3
+Faucon kobez,2012,0,1
+Fauvette passerinette,2013,0,1
+Foulque macroule,2012,0,2
+Fuligule milouin,2016,0,1
+Grèbe castagneux,2018,0,4
+Grèbe huppé,2016,0,6
+Héron pourpré,2016,0,6
+Locustelle tachetée,2010,0,1
+Moineau friquet,2012,0,1
+Mouette mélanocéphale,2018,0,1
+Perdrix grise,2015,0,7
+Perruche à collier,2012,0,1
+Petit Gravelot,2011,0,2
+Pie-grièche à tête rousse,2013,0,1
+Pie-grièche grise,2016,0,8
+Pipit rousseline,2016,0,2
+Sterne pierregarin,2014,0,2
+Tichodrome échelette,2017,0,4
+Vautour fauve,2018,0,3

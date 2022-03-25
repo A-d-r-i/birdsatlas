@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette des champs
-0        Bécasseau sanderling
-0        Bergeronnette des ruisseaux
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Buse variable
-0        Canard pilet
-0        Canard souchet
-0        Choucas des tours
-0        Cochevis huppé
-0        Coucou geai
-0        Cygne noir
-0        Cygne tuberculé
-0        Échasse blanche
-0        Faucon crécerelle
-0        Goéland railleur
-0        Grande Aigrette
-0        Grand Labbe
-0        Grèbe à cou noir
-0        Grive musicienne
-0        Hibou des marais
-0        Labbe pomarin
-0        Martinet noir
-0        Mésange bleue
-0        Moineau domestique
-0        Océanite tempête
-0        Oedicnème criard
-0        Oie cendrée
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pingouin torda
-0        Pipit rousseline
-0        Pouillot fitis
-0        Puffin cendré
-0        Puffin des Baléares
-0        Roitelet huppé
-0        Sterne pierregarin
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarier pâtre
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigrette garzette           2017    0        2
+Alouette des champs         2013    0        2
+Bécasseau sanderling        2010    0        1
+Bergeronnette des ruisseaux 2016    0        1
+Bergeronnette printanière   2016    0        1
+Bihoreau gris               2014    0        2
+Buse variable               2011    0        1
+Canard pilet                2018    0        1
+Canard souchet              2016    0        1
+Choucas des tours           2013    0        1
+Cochevis huppé              2016    0        2
+Coucou geai                 2011    0        3
+Cygne noir                  2017    0        1
+Cygne tuberculé             2017    0        1
+Échasse blanche             2013    0        1
+Faucon crécerelle           2012    0        1
+Goéland railleur            2010    0        1
+Grande Aigrette             2017    0        3
+Grand Labbe                 2017    0        1
+Grèbe à cou noir            2017    0        2
+Grive musicienne            2011    0        1
+Hibou des marais            2009    0        1
+Labbe pomarin               2010    0        1
+Martinet noir               2017    0        6
+Mésange bleue               2013    0        3
+Moineau domestique          2018    0        5
+Océanite tempête            2018    0        3
+Oedicnème criard            2014    0        3
+Oie cendrée                 2009    0        1
+Petit-duc scops             2018    0        2
+Pie-grièche à tête rousse   2014    0        2
+Pingouin torda              2018    0        1
+Pipit rousseline            2015    0        2
+Pouillot fitis              2014    0        2
+Puffin cendré               2014    0        1
+Puffin des Baléares         2017    0        1
+Roitelet huppé              2010    0        1
+Sterne pierregarin          2017    0        3
+Tadorne de Belon            2017    0        4
+Tarier des prés             2015    0        3
+Tarier pâtre                2014    0        4
 

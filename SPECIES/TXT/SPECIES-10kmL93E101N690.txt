@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chouette hulotte
-0        Cigogne blanche
-0        Cincle plongeur
-0        Corbeau freux
-0        Faisan doré
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Foulque macroule
-0        Gobemouche à collier
-0        Grive mauvis
-0        Huppe fasciée
-0        Mésange huppée
-0        Perdrix grise
-0        Pic cendré
-0        Pipit rousseline
-0        Roitelet huppé
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Traquet motteux
-0        Vanneau huppé
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2016    0        2
+Bec-croisé des sapins 2016    0        1
+Busard cendré         2016    0        2
+Busard des roseaux    2016    0        6
+Busard Saint-Martin   2017    0        22
+Chouette hulotte      2018    0        2
+Cigogne blanche       2017    0        1
+Cincle plongeur       2018    0        5
+Corbeau freux         2016    0        8
+Faisan doré           2017    0        1
+Faucon émerillon      2016    0        1
+Faucon hobereau       2018    0        5
+Faucon pèlerin        2016    0        9
+Foulque macroule      2015    0        1
+Gobemouche à collier  2011    0        2
+Grive mauvis          2016    0        2
+Huppe fasciée         2016    0        1
+Mésange huppée        2018    0        1
+Perdrix grise         2015    0        2
+Pic cendré            2018    0        2
+Pipit rousseline      2018    0        5
+Roitelet huppé        2018    0        2
+Serin cini            2016    0        5
+Tarier des prés       2018    0        3
+Tarin des aulnes      2018    0        7
+Traquet motteux       2016    0        8
+Vanneau huppé         2016    0        8
 

@@ -1,57 +1,55 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Cygne chanteur"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des bois"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sterne pierregarin"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,1
+Bécasse des bois,2018,0,2
+Bondrée apivore,2017,0,5
+Bruant des roseaux,2014,0,2
+Bruant jaune,2017,0,25
+Busard cendré,2017,0,6
+Busard Saint-Martin,2017,0,5
+Caille des blés,2018,0,2
+Canard carolin,2018,0,16
+Canard siffleur,2017,0,20
+Canard souchet,2018,0,2
+Chevalier culblanc,2015,0,3
+Chevêche d'Athéna,2015,0,2
+Cigogne blanche,2017,0,2
+Coucou gris,2017,0,6
+Cygne chanteur,2016,0,1
+Effraie des clochers,2009,0,1
+Faucon pèlerin,2017,0,7
+Fauvette babillarde,2016,0,6
+Fauvette des jardins,2016,0,6
+Fauvette grisette,2017,0,11
+Fuligule milouin,2018,0,2
+Fuligule morillon,2015,0,4
+Gobemouche gris,2016,0,4
+Grand-duc d'Europe,2018,0,2
+Grimpereau des bois,2018,0,3
+Grive draine,2013,0,4
+Grive litorne,2019,0,4
+Huppe fasciée,2016,0,2
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2017,0,5
+Mésange huppée,2017,0,1
+Mésange noire,2018,0,3
+Moineau friquet,2015,0,7
+Nette rousse,2014,0,7
+Oie cendrée,2017,0,1
+Perdrix grise,2017,0,3
+Pic noir,2015,0,2
+Pie-grièche écorcheur,2017,0,5
+Pinson du Nord,2017,0,2
+Pipit des arbres,2013,0,4
+Pipit farlouse,2013,0,2
+Pouillot fitis,2017,0,14
+Pouillot siffleur,2016,0,1
+Râle d'eau,2016,0,1
+Rossignol philomèle,2017,0,14
+Rougequeue à front blanc,2018,0,5
+Rousserolle effarvatte,2012,0,2
+Sterne pierregarin,2016,0,1
+Tarier pâtre,2017,0,8
+Torcol fourmilier,2009,0,2
+Tourterelle des bois,2018,0,11
+Traquet motteux,2016,0,1
+Vanneau huppé,2009,0,1

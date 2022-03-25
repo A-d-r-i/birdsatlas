@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Blongios nain"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Élanion blanc"
-"0";"Faucon pèlerin"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grive draine"
-"0";"Hirondelle de rivage"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Mésange huppée"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2010,0,1
+Blongios nain,2017,0,10
+Bruant ortolan,2008,0,2
+Bruant zizi,2012,0,8
+Busard cendré,2016,0,3
+Canard pilet,2016,0,2
+Chevalier gambette,2013,0,2
+Chevalier sylvain,2015,0,12
+Chevêche d'Athéna,2014,0,4
+Cincle plongeur,2016,0,1
+Élanion blanc,2011,0,1
+Faucon pèlerin,2015,0,5
+Fuligule à bec cerclé,2010,0,8
+Fuligule nyroca,2016,0,4
+Garrot à oeil d'or,2010,0,1
+Gobemouche noir,2017,0,2
+Goéland leucophée,2016,0,1
+Gorgebleue à miroir,2014,0,2
+Grèbe à cou noir,2010,0,1
+Grive draine,2019,0,16
+Hirondelle de rivage,2017,0,4
+Jaseur boréal,2008,0,2
+Locustelle tachetée,2016,0,12
+Marouette ponctuée,2007,0,1
+Mésange huppée,2015,0,4
+Ouette d'Egypte,2014,0,3
+Perdrix grise,2012,0,5
+Perdrix rouge,2016,0,2
+Pipit des arbres,2015,0,9
+Pouillot fitis,2016,0,9
+Pouillot siffleur,2016,0,7
+Râle des genêts,2013,0,3
+Rémiz penduline,2008,0,1
+Roitelet huppé,2015,0,3

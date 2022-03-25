@@ -1,48 +1,46 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Canard souchet"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Crave à bec rouge"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette rieuse"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sterne pierregarin"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2017,0,3
+Bécasse des bois,2017,0,4
+Bec-croisé des sapins,2016,0,1
+Bergeronnette flavéole (M.f.flavissima),2016,0,1
+Bergeronnette printanière,2017,0,13
+Bihoreau gris,2015,0,1
+Bouvreuil pivoine,2018,0,5
+Bruant des roseaux,2017,0,4
+Bruant ortolan,2016,0,3
+Canard souchet,2013,0,1
+Chouette hulotte,2017,0,15
+Cigogne noire,2017,0,2
+Cincle plongeur,2015,0,9
+Crave à bec rouge,2008,0,1
+Faucon d'Eléonore,2016,0,1
+Faucon émerillon,2016,0,3
+Faucon hobereau,2017,0,17
+Faucon kobez,2016,0,1
+Fauvette pitchou,2017,0,3
+Gallinule poule-d'eau,2012,0,1
+Goéland brun,2016,0,1
+Grèbe castagneux,2016,0,2
+Grive litorne,2017,0,5
+Grive mauvis,2017,0,5
+Guifette noire,2017,0,1
+Hibou moyen-duc,2016,0,2
+Hirondelle de rivage,2014,0,1
+Jaseur boréal,2010,0,2
+Locustelle tachetée,2010,0,1
+Martinet à ventre blanc,2016,0,1
+Mésange huppée,2014,0,3
+Mésange noire,2014,0,1
+Moineau friquet,2016,0,1
+Mouette mélanocéphale,2016,0,1
+Mouette rieuse,2017,0,1
+Petit-duc scops,2016,0,1
+Pic épeichette,2016,0,15
+Pipit rousseline,2016,0,3
+Pipit spioncelle,2017,0,8
+Pouillot fitis,2017,0,9
+Pouillot siffleur,2014,0,1
+Roitelet huppé,2008,0,2
+Sterne pierregarin,2018,0,1
+Tichodrome échelette,2017,0,3
+Torcol fourmilier,2016,0,12

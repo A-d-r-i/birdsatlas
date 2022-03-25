@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant ortolan
-0        Bruant proyer
-0        Caille des blés
-0        Effraie des clochers
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule milouin
-0        Gallinule poule-d'eau
-0        Grèbe huppé
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Mésange noire
-0        Milan noir
-0        Pigeon colombin
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle turdoïde
-0        Tarier des prés
-0        Tourterelle des bois
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bruant ortolan        2014    0        1
+Bruant proyer         2014    0        2
+Caille des blés       2014    0        2
+Effraie des clochers  2018    0        5
+Fauvette babillarde   2009    0        1
+Fauvette des jardins  2009    0        1
+Foulque macroule      2018    0        1
+Fuligule milouin      2018    0        1
+Gallinule poule-d'eau 2017    0        5
+Grèbe huppé           2018    0        1
+Hibou moyen-duc       2009    0        1
+Huppe fasciée         2016    0        3
+Locustelle tachetée   2014    0        1
+Mésange noire         2017    0        1
+Milan noir            2018    0        2
+Pigeon colombin       2016    0        1
+Pouillot fitis        2016    0        1
+Pouillot siffleur     2018    0        2
+Rousserolle turdoïde  2016    0        2
+Tarier des prés       2014    0        2
+Tourterelle des bois  2017    0        4
 

@@ -1,52 +1,52 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Chevêche d'Athéna
-0        Corbeau freux
-0        Coucou gris
-0        Effraie des clochers
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive mauvis
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Mésange huppée
-0        Mésange nonnette
-0        Moineau domestique
-0        Moineau friquet
-0        Ouette d'Egypte
-0        Pic mar
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pigeon ramier
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sittelle torchepot
-0        Tourterelle turque
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2009    0        1
+Autour des palombes       2018    0        1
+Bécassine des marais      2013    0        1
+Bergeronnette grise       2018    0        5
+Bergeronnette printanière 2016    0        2
+Bondrée apivore           2009    0        1
+Bruant des roseaux        2018    0        2
+Busard Saint-Martin       2017    0        2
+Chevêche d'Athéna         2018    0        14
+Corbeau freux             2018    0        2
+Coucou gris               2009    0        1
+Effraie des clochers      2015    0        3
+Étourneau sansonnet       2015    0        2
+Faisan de Colchide        2009    0        1
+Faucon hobereau           2017    0        2
+Fauvette babillarde       2018    0        3
+Foulque macroule          2009    0        1
+Gallinule poule-d'eau     2013    0        2
+Grande Aigrette           2017    0        14
+Grèbe castagneux          2013    0        4
+Grive mauvis              2017    0        1
+Héron cendré              2017    0        6
+Hibou moyen-duc           2017    0        5
+Hypolaïs polyglotte       2014    0        2
+Locustelle tachetée       2016    0        1
+Loriot d'Europe           2018    0        5
+Martinet noir             2016    0        2
+Mésange huppée            2017    0        1
+Mésange nonnette          2009    0        1
+Moineau domestique        2018    0        7
+Moineau friquet           2018    0        2
+Ouette d'Egypte           2013    0        4
+Pic mar                   2016    0        2
+Pie-grièche grise         2018    0        1
+Pigeon biset domestique   2009    0        1
+Pigeon colombin           2016    0        2
+Pigeon ramier             2018    0        5
+Pinson du Nord            2015    0        1
+Pipit des arbres          2016    0        4
+Pipit farlouse            2016    0        1
+Pipit rousseline          2017    0        1
+Pouillot fitis            2017    0        2
+Pouillot siffleur         2009    0        1
+Rousserolle effarvatte    2009    0        1
+Rousserolle verderolle    2018    0        4
+Sittelle torchepot        2012    0        2
+Tourterelle turque        2015    0        5
+Vanneau huppé             2018    0        4
 

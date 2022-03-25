@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier sylvain"
-"0";"Grive musicienne"
-"0";"Loriot d'Europe"
+frname,lastobs,newcount,oldcount
+Chevalier sylvain,2015,0,1
+Grive musicienne,2015,0,2
+Loriot d'Europe,2015,0,2

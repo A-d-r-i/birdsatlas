@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Barge à queue noire"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Chevalier sylvain"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,2
+Barge à queue noire,2018,0,1
+Bondrée apivore,2017,0,4
+Busard cendré,2017,0,1
+Chevalier sylvain,2018,0,2
+Goéland brun,2015,0,1
+Goéland cendré,2009,0,1
+Grive draine,2018,0,15
+Grive litorne,2017,0,6
+Grive mauvis,2019,0,1
+Guifette moustac,2013,0,2
+Guifette noire,2016,0,2
+Hibou moyen-duc,2015,0,1
+Moineau friquet,2016,0,3
+Râle d'eau,2015,0,1
+Roitelet à triple bandeau,2018,0,4
+Tarier des prés,2009,0,1

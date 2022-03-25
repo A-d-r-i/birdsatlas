@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Faucon hobereau"
-"0";"Goéland bourgmestre"
-"0";"Guifette noire"
-"0";"Mésange noire"
-"0";"Sarcelle d'hiver"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2016,0,1
+Faucon hobereau,2018,0,2
+Goéland bourgmestre,2015,0,1
+Guifette noire,2016,0,1
+Mésange noire,2018,0,3
+Sarcelle d'hiver,2016,0,1
+Sterne naine,2017,0,1

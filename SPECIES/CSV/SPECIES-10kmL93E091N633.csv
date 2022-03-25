@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Choucas des tours"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette mélanocéphale"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Héron cendré"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Monticole de roche"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Tétras lyre"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2015,0,1
+Autour des palombes,2014,0,1
+Bécasse des bois,2014,0,3
+Bergeronnette printanière,2018,0,10
+Bruant des roseaux,2013,0,4
+Busard cendré,2015,0,5
+Choucas des tours,2015,0,2
+Faisan de Colchide,2015,0,1
+Faucon émerillon,2014,0,2
+Faucon hobereau,2018,0,12
+Faucon pèlerin,2018,0,4
+Fauvette mélanocéphale,2017,0,7
+Gallinule poule-d'eau,2016,0,1
+Gobemouche gris,2011,0,1
+Gobemouche noir,2015,0,6
+Héron cendré,2013,0,2
+Martinet à ventre blanc,2016,0,1
+Merle à plastron,2013,0,1
+Moineau friquet,2018,0,19
+Monticole de roche,2018,0,1
+Pic épeichette,2015,0,3
+Pie-grièche à tête rousse,2018,0,23
+Pipit spioncelle,2015,0,4
+Pouillot fitis,2011,0,1
+Rousserolle effarvatte,2011,0,1
+Tarier des prés,2018,0,19
+Tétras lyre,2016,0,1
+Torcol fourmilier,2018,0,61
+Vanneau huppé,2015,0,1

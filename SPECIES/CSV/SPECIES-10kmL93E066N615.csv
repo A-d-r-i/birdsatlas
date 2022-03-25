@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette orphée"
-"0";"Gobemouche noir"
-"0";"Hirondelle de rivage"
-"0";"Martinet pâle"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pic vert"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,1
+Bouscarle de Cetti,2012,0,2
+Bruant ortolan,2014,0,5
+Busard Saint-Martin,2012,0,1
+Cigogne noire,2014,0,1
+Effraie des clochers,2009,0,1
+Engoulevent d'Europe,2014,0,2
+Fauvette orphée,2017,0,5
+Gobemouche noir,2014,0,3
+Hirondelle de rivage,2012,0,1
+Martinet pâle,2016,0,1
+Martin-pêcheur d'Europe,2018,0,5
+Pic vert,2012,0,3
+Pouillot fitis,2014,0,2
+Pouillot siffleur,2017,0,1
+Tichodrome échelette,2017,0,2
+Torcol fourmilier,2018,0,4
+Tourterelle des bois,2012,0,2

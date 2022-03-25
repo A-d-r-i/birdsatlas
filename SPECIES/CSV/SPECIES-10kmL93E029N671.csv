@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bruant lapon"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Coucou geai"
-"0";"Etourneau roselin"
-"0";"Fuligule nyroca"
-"0";"Gravelot à collier interrompu"
-"0";"Guifette noire"
-"0";"Guillemot de Troïl"
-"0";"Harelde boréale"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs ictérine"
-"0";"Ibis blanc"
-"0";"Macareux moine"
-"0";"Marouette ponctuée"
-"0";"Mouette tridactyle"
-"0";"Oie à tête barrée"
-"0";"Panure à moustaches"
-"0";"Pigeon colombin"
-"0";"Pingouin torda"
-"0";"Pipit de Richard"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Tadorne casarca"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2016,0,8
+Bruant lapon,2016,0,1
+Bruant proyer,2017,0,4
+Butor étoilé,2017,0,10
+Calopsitte élégante,2010,0,1
+Coucou geai,2010,0,4
+Etourneau roselin,2017,0,2
+Fuligule nyroca,2018,0,2
+Gravelot à collier interrompu,2011,0,2
+Guifette noire,2018,0,8
+Guillemot de Troïl,2014,0,8
+Harelde boréale,2014,0,36
+Hirondelle rousseline,2017,0,1
+Hypolaïs ictérine,2013,0,2
+Ibis blanc,2014,0,1
+Macareux moine,2014,0,4
+Marouette ponctuée,2018,0,6
+Mouette tridactyle,2013,0,2
+Oie à tête barrée,2015,0,1
+Panure à moustaches,2017,0,81
+Pigeon colombin,2010,0,3
+Pingouin torda,2014,0,3
+Pipit de Richard,2017,0,15
+Pouillot siffleur,2011,0,5
+Rémiz penduline,2014,0,3
+Rousserolle turdoïde,2015,0,3
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Sterne arctique,2009,0,2
+Tadorne casarca,2018,0,5
+Vautour fauve,2018,0,1

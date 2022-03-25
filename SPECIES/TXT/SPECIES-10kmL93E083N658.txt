@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard cendré
-0        Cincle plongeur
-0        Crave à bec rouge
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Grèbe castagneux
-0        Hibou moyen-duc
-0        Petit-duc scops
-0        Pipit des arbres
-0        Sizerin flammé
-0        Torcol fourmilier
-0        Traquet motteux
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Busard cendré        2009    0        1
+Cincle plongeur      2018    0        4
+Crave à bec rouge    2019    0        1
+Faucon pèlerin       2009    0        1
+Fauvette des jardins 2009    0        1
+Grèbe castagneux     2009    0        1
+Hibou moyen-duc      2016    0        4
+Petit-duc scops      2009    0        1
+Pipit des arbres     2009    0        1
+Sizerin flammé       2018    0        1
+Torcol fourmilier    2009    0        1
+Traquet motteux      2018    0        1
 

@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Buse variable"
-"0";"Cassenoix moucheté"
-"0";"Chardonneret élégant"
-"0";"Chouette hulotte"
-"0";"Corneille noire"
-"0";"Fauvette à tête noire"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Grive draine"
-"0";"Grive musicienne"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Merle noir"
-"0";"Mésange bleue"
-"0";"Mésange charbonnière"
-"0";"Mésange noire"
-"0";"Pic épeiche"
-"0";"Pic vert"
-"0";"Pie bavarde"
-"0";"Pigeon ramier"
-"0";"Pinson des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Rougegorge familier"
-"0";"Rougequeue noir"
-"0";"Sittelle torchepot"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2011,0,1
+Bergeronnette des ruisseaux,2007,0,1
+Bergeronnette grise,2012,0,2
+Buse variable,2017,0,2
+Cassenoix moucheté,2007,0,1
+Chardonneret élégant,2012,0,3
+Chouette hulotte,2007,0,1
+Corneille noire,2012,0,2
+Fauvette à tête noire,2012,0,3
+Geai des chênes,2017,0,3
+Gobemouche gris,2017,0,1
+Grand Corbeau,2017,0,4
+Grive draine,2017,0,1
+Grive musicienne,2012,0,2
+Hirondelle de fenêtre,2012,0,3
+Hirondelle rustique,2012,0,3
+Merle noir,2012,0,2
+Mésange bleue,2012,0,2
+Mésange charbonnière,2012,0,2
+Mésange noire,2012,0,3
+Pic épeiche,2012,0,2
+Pic vert,2017,0,1
+Pie bavarde,2017,0,1
+Pigeon ramier,2017,0,6
+Pinson des arbres,2012,0,2
+Roitelet à triple bandeau,2012,0,2
+Rougegorge familier,2012,0,3
+Rougequeue noir,2012,0,2
+Sittelle torchepot,2011,0,1

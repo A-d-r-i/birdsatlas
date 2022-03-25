@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Fuligule morillon"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Merle à plastron"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2016,0,2
+Bécasseau variable,2017,0,1
+Bec-croisé des sapins,2018,0,1
+Bergeronnette flavéole (M.f.flavissima),2017,0,2
+Butor étoilé,2016,0,1
+Canard chipeau,2018,0,6
+Chevalier sylvain,2017,0,1
+Combattant varié,2013,0,2
+Fuligule morillon,2007,0,1
+Guifette moustac,2012,0,2
+Harle bièvre,2017,0,1
+Hibou des marais,2015,0,6
+Merle à plastron,2012,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pouillot de Bonelli,2012,0,2
+Pouillot siffleur,2009,0,1
+Sizerin cabaret,2017,0,3
+Sizerin flammé,2017,0,3
+Sterne naine,2017,0,5
+Torcol fourmilier,2017,0,3

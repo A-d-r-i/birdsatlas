@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bruant ortolan
-0        Busard cendré
-0        Canard colvert
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Corbeau freux
-0        Faucon hobereau
-0        Fauvette orphée
-0        Gélinotte des bois
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Hirondelle de rivage
-0        Lagopède alpin
-0        Moineau friquet
-0        Niverolle alpine
-0        Perdrix grise
-0        Pipit farlouse
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tichodrome échelette
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2013    0        1
+Bruant ortolan       2014    0        2
+Busard cendré        2015    0        2
+Canard colvert       2014    0        1
+Chevalier culblanc   2014    0        1
+Chevêche d'Athéna    2008    0        2
+Choucas des tours    2015    0        1
+Corbeau freux        2017    0        1
+Faucon hobereau      2017    0        4
+Fauvette orphée      2017    0        1
+Gélinotte des bois   2016    0        25
+Grand Cormoran       2015    0        4
+Grand-duc d'Europe   2016    0        5
+Hirondelle de rivage 2011    0        1
+Lagopède alpin       2015    0        10
+Moineau friquet      2017    0        6
+Niverolle alpine     2017    0        16
+Perdrix grise        2015    0        1
+Pipit farlouse       2016    0        2
+Pouillot fitis       2017    0        2
+Rossignol philomèle  2016    0        5
+Sizerin cabaret      2017    0        3
+Sizerin flammé       2017    0        3
+Tichodrome échelette 2016    0        11
 

@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Canard pilet"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,1
+Alouette des champs,2017,0,13
+Autour des palombes,2018,0,1
+Bergeronnette printanière,2016,0,5
+Bruant fou,2012,0,2
+Bruant jaune,2019,0,3
+Canard pilet,2018,0,1
+Chevalier culblanc,2017,0,1
+Cigogne noire,2017,0,1
+Engoulevent d'Europe,2018,0,7
+Faucon pèlerin,2017,0,1
+Fauvette des jardins,2016,0,3
+Gobemouche gris,2017,0,5
+Grèbe huppé,2018,0,6
+Grive litorne,2016,0,3
+Grive mauvis,2017,0,9
+Guêpier d'Europe,2017,0,1
+Héron garde-boeufs,2018,0,3
+Héron pourpré,2018,0,1
+Hirondelle de rivage,2017,0,1
+Hirondelle de rochers,2018,0,1
+Mésange noire,2017,0,1
+Moineau friquet,2015,0,2
+Perdrix rouge,2017,0,1
+Pigeon colombin,2012,0,1
+Pouillot fitis,2018,0,3
+Tarier des prés,2017,0,3
+Torcol fourmilier,2011,0,2

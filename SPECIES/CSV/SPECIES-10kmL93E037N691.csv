@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Courlis cendré"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Caille des blés,2009,0,1
+Courlis cendré,2009,0,1
+Grive mauvis,2009,0,1
+Hibou moyen-duc,2009,0,1
+Rossignol philomèle,2018,0,1
+Rousserolle verderolle,2009,0,1

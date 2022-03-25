@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Barge à queue noire"
-"0";"Bihoreau gris"
-"0";"Bruant fou"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Coucou geai"
-"0";"Engoulevent d'Europe"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grand Tétras"
-"0";"Grive litorne"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Torcol fourmilier"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2007,0,1
+Alouette lulu,2018,0,7
+Barge à queue noire,2011,0,1
+Bihoreau gris,2014,0,1
+Bruant fou,2018,0,3
+Chevalier aboyeur,2007,0,1
+Chevalier culblanc,2017,0,1
+Chevalier gambette,2007,0,1
+Chevalier guignette,2018,0,3
+Chevalier sylvain,2014,0,1
+Coucou geai,2015,0,2
+Engoulevent d'Europe,2017,0,20
+Gobemouche gris,2018,0,16
+Goéland leucophée,2017,0,3
+Grand Tétras,2009,0,1
+Grive litorne,2018,0,31
+Locustelle tachetée,2017,0,2
+Loriot d'Europe,2012,0,1
+Martinet à ventre blanc,2018,0,6
+Moineau friquet,2011,0,2
+Oie cendrée,2011,0,1
+Perdrix grise,2009,0,1
+Pic épeichette,2017,0,4
+Pie-grièche grise,2009,0,1
+Torcol fourmilier,2018,0,8
+Vautour moine,2018,0,2

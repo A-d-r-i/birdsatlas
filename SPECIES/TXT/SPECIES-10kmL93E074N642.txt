@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Busard Saint-Martin
-0        Chevêche d'Athéna
-0        Gobemouche gris
-0        Grosbec casse-noyaux
-0        Loriot d'Europe
-0        Moineau friquet
-0        Moineau soulcie
-0        Perdrix grise
-0        Pic cendré
-0        Pic épeichette
-0        Pigeon colombin
-0        Pipit farlouse
-0        Torcol fourmilier
-0        Vautour moine
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécassine des marais 2013    0        1
+Busard Saint-Martin  2015    0        3
+Chevêche d'Athéna    2011    0        3
+Gobemouche gris      2016    0        7
+Grosbec casse-noyaux 2016    0        3
+Loriot d'Europe      2012    0        1
+Moineau friquet      2018    0        4
+Moineau soulcie      2009    0        2
+Perdrix grise        2014    0        1
+Pic cendré           2010    0        2
+Pic épeichette       2018    0        1
+Pigeon colombin      2016    0        1
+Pipit farlouse       2017    0        4
+Torcol fourmilier    2018    0        2
+Vautour moine        2018    0        1
 

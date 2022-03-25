@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Cigogne blanche
-0        Effraie des clochers
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Loriot d'Europe
-0        Marouette ponctuée
-0        Pigeon colombin
-0        Rousserolle verderolle
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Cigogne blanche        2014    0        2
+Effraie des clochers   2016    0        2
+Fauvette babillarde    2010    0        2
+Fauvette des jardins   2017    0        7
+Fauvette orphée        2013    0        7
+Fauvette passerinette  2008    0        1
+Loriot d'Europe        2013    0        1
+Marouette ponctuée     2015    0        1
+Pigeon colombin        2012    0        1
+Rousserolle verderolle 2015    0        3
 

@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des neiges
-0        Bruant des roseaux
-0        Buse variable
-0        Caille des blés
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Choucas des tours
-0        Chouette hulotte
-0        Corbeau freux
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faisan vénéré
-0        Faucon hobereau
-0        Geai des chênes
-0        Grand Corbeau
-0        Grive draine
-0        Grosbec casse-noyaux
-0        Hirondelle de rivage
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange à longue queue
-0        Mésange nonnette
-0        Moineau friquet
-0        Perdrix grise
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic mar
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pluvier guignard
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rousserolle verderolle
-0        Serin cini
-0        Sittelle torchepot
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bondrée apivore           2014    0        2
+Bouvreuil pivoine         2013    0        5
+Bruant des neiges         2012    0        1
+Bruant des roseaux        2017    0        10
+Buse variable             2018    0        28
+Caille des blés           2017    0        14
+Chevalier aboyeur         2018    0        1
+Chevalier culblanc        2018    0        2
+Choucas des tours         2016    0        6
+Chouette hulotte          2009    0        1
+Corbeau freux             2018    0        8
+Effraie des clochers      2018    0        5
+Faisan de Colchide        2013    0        4
+Faisan vénéré             2013    0        2
+Faucon hobereau           2018    0        7
+Geai des chênes           2013    0        7
+Grand Corbeau             2013    0        1
+Grive draine              2017    0        4
+Grosbec casse-noyaux      2013    0        4
+Hirondelle de rivage      2016    0        1
+Hypolaïs polyglotte       2014    0        3
+Locustelle tachetée       2017    0        3
+Loriot d'Europe           2014    0        3
+Mésange à longue queue    2018    0        6
+Mésange nonnette          2014    0        2
+Moineau friquet           2016    0        5
+Perdrix grise             2016    0        5
+Phragmite des joncs       2015    0        2
+Pic épeichette            2019    0        5
+Pic mar                   2013    0        3
+Pinson du Nord            2017    0        3
+Pipit des arbres          2014    0        5
+Pipit farlouse            2015    0        2
+Pluvier guignard          2014    0        1
+Râle d'eau                2018    0        10
+Roitelet à triple bandeau 2018    0        1
+Roitelet huppé            2009    0        1
+Rousserolle verderolle    2016    0        3
+Serin cini                2009    0        1
+Sittelle torchepot        2013    0        13
+Tarier des prés           2013    0        3
+Tarin des aulnes          2017    0        1
+Torcol fourmilier         2009    0        1
+Traquet motteux           2018    0        2
 

@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Astrild ondulé"
-"0";"Avocette élégante"
-"0";"Busard Saint-Martin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faisan vénéré"
-"0";"Faucon crécerelle"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Grive litorne"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Plongeon imbrin"
-"0";"Pouillot siffleur"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Astrild ondulé,2018,0,1
+Avocette élégante,2018,0,1
+Busard Saint-Martin,2009,0,1
+Chevalier aboyeur,2018,0,1
+Chevalier guignette,2018,0,5
+Cigogne blanche,2009,0,1
+Cochevis huppé,2009,0,1
+Cygne noir,2009,0,1
+Effraie des clochers,2009,0,2
+Faisan de Colchide,2009,0,1
+Faisan vénéré,2009,0,2
+Faucon crécerelle,2009,0,2
+Goéland brun,2018,0,4
+Goéland leucophée,2018,0,11
+Grèbe à cou noir,2018,0,1
+Grèbe jougris,2018,0,5
+Grive litorne,2018,0,6
+Guifette noire,2018,0,1
+Harle huppé,2009,0,1
+Hibou moyen-duc,2009,0,1
+Hypolaïs ictérine,2009,0,1
+Jaseur boréal,2009,0,1
+Locustelle luscinioïde,2009,0,1
+Locustelle tachetée,2018,0,2
+Mésange boréale,2018,0,4
+Moineau friquet,2018,0,20
+Perdrix grise,2018,0,2
+Perdrix rouge,2009,0,1
+Pie-grièche grise,2009,0,1
+Pigeon colombin,2009,0,1
+Plongeon imbrin,2016,0,2
+Pouillot siffleur,2009,0,1
+Rossignol philomèle,2009,0,1
+Rougequeue à front blanc,2018,0,2
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1
+Tourterelle des bois,2009,0,1
+Vanneau huppé,2017,0,3

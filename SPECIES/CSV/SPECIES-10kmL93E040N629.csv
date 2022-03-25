@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Bouscarle de Cetti"
-"0";"Bruant ortolan"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cisticole des joncs"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Pie-grièche écorcheur"
-"0";"Pouillot de Bonelli"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,1
+Alouette lulu,2016,0,1
+Bouscarle de Cetti,2012,0,3
+Bruant ortolan,2011,0,1
+Caille des blés,2018,0,5
+Canard souchet,2016,0,1
+Chevalier guignette,2016,0,1
+Chevêche d'Athéna,2013,0,1
+Cisticole des joncs,2016,0,6
+Faucon émerillon,2011,0,2
+Faucon hobereau,2012,0,3
+Faucon pèlerin,2015,0,2
+Fauvette des jardins,2012,0,2
+Fauvette grisette,2015,0,1
+Foulque macroule,2012,0,2
+Gallinule poule-d'eau,2016,0,13
+Gobemouche noir,2016,0,3
+Goéland brun,2013,0,1
+Grande Aigrette,2018,0,5
+Grèbe castagneux,2012,0,2
+Grive mauvis,2016,0,2
+Grosbec casse-noyaux,2017,0,2
+Hypolaïs polyglotte,2012,0,5
+Linotte mélodieuse,2009,0,2
+Moineau friquet,2012,0,5
+Pie-grièche écorcheur,2009,0,2
+Pouillot de Bonelli,2018,0,1
+Rossignol philomèle,2012,0,2
+Rougequeue à front blanc,2011,0,1
+Sarcelle d'hiver,2016,0,1

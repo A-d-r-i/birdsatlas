@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Bruant zizi
-0        Busard Saint-Martin
-0        Canard souchet
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cincle plongeur
-0        Faisan vénéré
-0        Faucon kobez
-0        Fauvette babillarde
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grive mauvis
-0        Hirondelle de fenêtre
-0        Locustelle tachetée
-0        Mésange boréale
-0        Mésange noire
-0        Mouette rieuse
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Traquet motteux
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Autour des palombes     2014    0        6
+Bec-croisé des sapins   2015    0        4
+Bouvreuil pivoine       2016    0        24
+Bruant des roseaux      2014    0        4
+Bruant proyer           2012    0        3
+Bruant zizi             2011    0        2
+Busard Saint-Martin     2018    0        15
+Canard souchet          2016    0        1
+Chevalier culblanc      2010    0        1
+Cigogne blanche         2016    0        4
+Cincle plongeur         2012    0        5
+Faisan vénéré           2013    0        4
+Faucon kobez            2012    0        1
+Fauvette babillarde     2015    0        7
+Foulque macroule        2011    0        5
+Gallinule poule-d'eau   2014    0        3
+Gobemouche noir         2012    0        1
+Grive mauvis            2015    0        6
+Hirondelle de fenêtre   2016    0        15
+Locustelle tachetée     2011    0        4
+Mésange boréale         2016    0        16
+Mésange noire           2014    0        9
+Mouette rieuse          2013    0        1
+Pigeon biset domestique 2011    0        4
+Pigeon colombin         2011    0        2
+Pipit spioncelle        2009    0        3
+Pouillot siffleur       2016    0        3
+Roitelet huppé          2014    0        17
+Rousserolle effarvatte  2010    0        2
+Traquet motteux         2014    0        1
+Vanneau huppé           2010    0        2
 

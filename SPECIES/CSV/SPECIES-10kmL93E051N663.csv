@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bihoreau gris,2017,0,10
+Blongios nain,2015,0,1
+Canard chipeau,2017,0,10
+Canard siffleur,2019,0,1
+Canard souchet,2012,0,4
+Chevalier aboyeur,2010,0,1
+Cochevis huppé,2013,0,11
+Courlis cendré,2010,0,1
+Faucon émerillon,2011,0,2
+Faucon pèlerin,2015,0,1
+Goéland argenté,2018,0,3
+Goéland brun,2013,0,1
+Goéland cendré,2017,0,2
+Grèbe à cou noir,2016,0,1
+Guifette noire,2015,0,2
+Harle piette,2012,0,1
+Héron pourpré,2017,0,5
+Hibou moyen-duc,2014,0,6
+Locustelle tachetée,2017,0,6
+Moineau friquet,2016,0,24
+Mouette pygmée,2018,0,1
+Oedicnème criard,2014,0,8
+Oie cendrée,2017,0,4
+Perruche ondulée,2014,0,2
+Petit Gravelot,2013,0,9
+Phragmite des joncs,2012,0,2
+Pluvier doré,2018,0,3
+Pouillot siffleur,2010,0,2
+Râle d'eau,2015,0,7
+Rémiz penduline,2015,0,13
+Sarcelle d'hiver,2018,0,4
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Sterne naine,2010,0,2
+Tarier des prés,2015,0,9
+Torcol fourmilier,2015,0,3

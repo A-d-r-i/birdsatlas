@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Crabier chevelu"
-"0";"Faucon d'Eléonore"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Oedicnème criard"
-"0";"Pipit spioncelle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2017,0,13
+Chevalier guignette,2017,0,5
+Chevêche d'Athéna,2013,0,2
+Cochevis huppé,2013,0,4
+Crabier chevelu,2015,0,1
+Faucon d'Eléonore,2016,0,12
+Grande Aigrette,2019,0,1
+Grimpereau des bois,2012,0,1
+Héron pourpré,2012,0,1
+Hibou moyen-duc,2014,0,4
+Hirondelle de rivage,2014,0,1
+Locustelle tachetée,2017,0,2
+Moineau friquet,2014,0,5
+Moineau soulcie,2007,0,1
+Oedicnème criard,2013,0,1
+Pipit spioncelle,2017,0,6
+Rousserolle effarvatte,2013,0,2
+Sarcelle d'été,2015,0,1
+Sarcelle d'hiver,2014,0,3
+Venturon montagnard,2012,0,3

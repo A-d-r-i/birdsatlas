@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécasseau violet
-0        Bécasse des bois
-0        Bernache cravant
-0        Bernache nonnette
-0        Bruant proyer
-0        Chevalier stagnatile
-0        Cochevis huppé
-0        Coucou geai
-0        Courlis cendré
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Faucon émerillon
-0        Garrot à oeil d'or
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Goéland pontique
-0        Gorgebleue à miroir
-0        Grand Labbe
-0        Harle bièvre
-0        Huîtrier pie
-0        Ibis sacré
-0        Macreuse brune
-0        Martinet à ventre blanc
-0        Moineau friquet
-0        Mouette de Sabine
-0        Nette demi-deuil
-0        Nette rousse
-0        Océanite culblanc
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Pie-grièche à tête rousse
-0        Plongeon imbrin
-0        Râle des genêts
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne casarca
-0        Tournepierre à collier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2015    0        2
+Autour des palombes       2014    0        3
+Barge rousse              2012    0        19
+Bécasseau cocorli         2017    0        18
+Bécasseau de Temminck     2011    0        7
+Bécasseau maubèche        2017    0        14
+Bécasseau minute          2017    0        49
+Bécasseau violet          2010    0        1
+Bécasse des bois          2015    0        10
+Bernache cravant          2015    0        27
+Bernache nonnette         2017    0        68
+Bruant proyer             2018    0        7
+Chevalier stagnatile      2012    0        1
+Cochevis huppé            2011    0        1
+Coucou geai               2015    0        1
+Courlis cendré            2018    0        143
+Cygne noir                2018    0        37
+Engoulevent d'Europe      2013    0        6
+Érismature rousse         2013    0        5
+Faucon émerillon          2018    0        7
+Garrot à oeil d'or        2013    0        25
+Goéland à ailes blanches  2018    0        10
+Goéland bourgmestre       2018    0        8
+Goéland pontique          2019    0        2
+Gorgebleue à miroir       2015    0        1
+Grand Labbe               2018    0        11
+Harle bièvre              2014    0        34
+Huîtrier pie              2011    0        1
+Ibis sacré                2011    0        2
+Macreuse brune            2017    0        13
+Martinet à ventre blanc   2013    0        1
+Moineau friquet           2018    0        178
+Mouette de Sabine         2007    0        4
+Nette demi-deuil          2018    0        4
+Nette rousse              2016    0        8
+Océanite culblanc         2009    0        1
+Oie rieuse                2012    0        2
+Ouette d'Egypte           2014    0        3
+Pie-grièche à tête rousse 2008    0        19
+Plongeon imbrin           2016    0        3
+Râle des genêts           2009    0        1
+Sizerin cabaret           2018    0        7
+Sizerin flammé            2018    0        7
+Tadorne casarca           2014    0        1
+Tournepierre à collier    2017    0        16
 

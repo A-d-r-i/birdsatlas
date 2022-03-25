@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bondrée apivore
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Canard chipeau
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Cigogne noire
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Fuligule nyroca
-0        Gobemouche gris
-0        Goéland brun
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grive litorne
-0        Guêpier d'Europe
-0        Harle bièvre
-0        Harle piette
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Râle d'eau
-0        Tadorne de Belon
-0        Torcol fourmilier
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2017    0        4
+Bécassine des marais      2013    0        3
+Bergeronnette printanière 2009    0        1
+Bihoreau gris             2010    0        1
+Bondrée apivore           2016    0        4
+Busard des roseaux        2017    0        1
+Busard Saint-Martin       2017    0        7
+Butor étoilé              2012    0        3
+Canard chipeau            2015    0        5
+Canard siffleur           2007    0        1
+Canard souchet            2009    0        1
+Chevalier aboyeur         2011    0        1
+Chevalier guignette       2015    0        12
+Cigogne noire             2016    0        1
+Échasse blanche           2011    0        1
+Engoulevent d'Europe      2013    0        4
+Faisan de Colchide        2017    0        7
+Fauvette des jardins      2012    0        4
+Fuligule morillon         2007    0        1
+Fuligule nyroca           2007    0        2
+Gobemouche gris           2016    0        10
+Goéland brun              2017    0        6
+Goéland leucophée         2019    0        18
+Grèbe castagneux          2017    0        4
+Grive litorne             2018    0        6
+Guêpier d'Europe          2014    0        2
+Harle bièvre              2008    0        1
+Harle piette              2010    0        2
+Héron pourpré             2010    0        3
+Hirondelle de rivage      2012    0        2
+Linotte mélodieuse        2015    0        6
+Locustelle tachetée       2013    0        3
+Mésange huppée            2016    0        5
+Mésange noire             2019    0        3
+Pigeon colombin           2016    0        1
+Pipit des arbres          2015    0        4
+Pluvier doré              2017    0        1
+Pouillot de Bonelli       2018    0        4
+Râle d'eau                2016    0        8
+Tadorne de Belon          2007    0        1
+Torcol fourmilier         2012    0        5
+Vautour fauve             2011    0        1
 

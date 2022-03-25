@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouin"
-"0";"Grimpereau des bois"
-"0";"Guêpier d'Europe"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Petit Gravelot"
-"0";"Pipit des arbres"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2014,0,11
+Barge à queue noire,2017,0,5
+Bécasse des bois,2018,0,3
+Bécassine des marais,2014,0,2
+Bergeronnette flavéole (M.f.flavissima),2018,0,4
+Bernache cravant,2016,0,1
+Bernache nonnette,2018,0,2
+Bihoreau gris,2015,0,3
+Bruant jaune,2018,0,5
+Busard Saint-Martin,2018,0,2
+Butor étoilé,2017,0,8
+Calopsitte élégante,2015,0,1
+Canard chipeau,2016,0,11
+Canard mandarin,2012,0,1
+Chevalier culblanc,2016,0,5
+Cigogne blanche,2017,0,5
+Cochevis huppé,2011,0,1
+Effraie des clochers,2016,0,2
+Faisan de Colchide,2016,0,6
+Faucon pèlerin,2014,0,7
+Fauvette babillarde,2015,0,4
+Fuligule milouin,2013,0,2
+Grimpereau des bois,2009,0,1
+Guêpier d'Europe,2015,0,1
+Harle huppé,2009,0,1
+Harle piette,2011,0,2
+Hibou moyen-duc,2012,0,2
+Locustelle tachetée,2015,0,1
+Petit Gravelot,2015,0,1
+Pipit des arbres,2013,0,1
+Plongeon catmarin,2016,0,3
+Pluvier doré,2018,0,2
+Pouillot de Bonelli,2018,0,1
+Rousserolle verderolle,2015,0,1
+Sarcelle d'été,2017,0,4
+Tadorne casarca,2013,0,1
+Tadorne de Belon,2014,0,2

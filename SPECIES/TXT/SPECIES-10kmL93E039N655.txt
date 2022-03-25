@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle criard
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Bec-croisé des sapins
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bruant des neiges
-0        Bruant lapon
-0        Calopsitte élégante
-0        Chevalier stagnatile
-0        Cygne de Bewick
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Faucon kobez
-0        Fauvette pitchou
-0        Garrot à oeil d'or
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Guifette leucoptère
-0        Huîtrier pie
-0        Marouette ponctuée
-0        Mouette tridactyle
-0        Océanite culblanc
-0        Oie à bec court
-0        Oie des moissons
-0        Petit-duc scops
-0        Phalarope à bec large
-0        Pie-grièche à tête rousse
-0        Pouillot à grands sourcils
-0        Pouillot de Bonelli
-0        Râle des genêts
-0        Rousserolle turdoïde
-0        Sittelle torchepot
-0        Sterne caspienne
-0        Sterne hansel
-0        Tadorne casarca
-0        Traquet oreillard
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Aigle criard                            2016    0        5
+Bécasseau sanderling                    2017    0        2
+Bécasseau tacheté                       2014    0        1
+Bec-croisé des sapins                   2013    0        2
+Bergeronnette flavéole (M.f.flavissima) 2014    0        2
+Bruant des neiges                       2016    0        1
+Bruant lapon                            2010    0        2
+Calopsitte élégante                     2010    0        1
+Chevalier stagnatile                    2017    0        2
+Cygne de Bewick                         2016    0        1
+Cygne noir                              2014    0        5
+Engoulevent d'Europe                    2012    0        2
+Faucon kobez                            2014    0        2
+Fauvette pitchou                        2011    0        2
+Garrot à oeil d'or                      2013    0        1
+Goéland à ailes blanches                2014    0        4
+Goéland bourgmestre                     2014    0        2
+Guifette leucoptère                     2017    0        1
+Huîtrier pie                            2008    0        2
+Marouette ponctuée                      2009    0        1
+Mouette tridactyle                      2014    0        1
+Océanite culblanc                       2009    0        1
+Oie à bec court                         2009    0        1
+Oie des moissons                        2012    0        22
+Petit-duc scops                         2018    0        8
+Phalarope à bec large                   2013    0        1
+Pie-grièche à tête rousse               2018    0        9
+Pouillot à grands sourcils              2011    0        1
+Pouillot de Bonelli                     2012    0        1
+Râle des genêts                         2010    0        2
+Rousserolle turdoïde                    2018    0        7
+Sittelle torchepot                      2018    0        2
+Sterne caspienne                        2018    0        3
+Sterne hansel                           2012    0        2
+Tadorne casarca                         2018    0        1
+Traquet oreillard                       2015    0        1
 

@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Fuligule milouin"
-"0";"Goéland leucophée"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pouillot de Bonelli"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,1
+Bécasse des bois,2014,0,2
+Bécassine des marais,2019,0,6
+Bihoreau gris,2018,0,3
+Bouvreuil pivoine,2017,0,1
+Canard chipeau,2017,0,1
+Canard siffleur,2018,0,2
+Chevalier aboyeur,2019,0,1
+Combattant varié,2007,0,3
+Courlis corlieu,2018,0,1
+Fuligule milouin,2019,0,5
+Goéland leucophée,2018,0,1
+Guêpier d'Europe,2015,0,1
+Guifette moustac,2010,0,1
+Harle bièvre,2011,0,2
+Mésange huppée,2015,0,1
+Moineau friquet,2009,0,1
+Oie cendrée,2009,0,1
+Petit-duc scops,2016,0,2
+Phragmite des joncs,2016,0,1
+Pouillot de Bonelli,2009,0,2

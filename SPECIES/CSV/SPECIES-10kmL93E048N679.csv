@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Fuligule milouin"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Grèbe huppé"
-"0";"Hirondelle de rivage"
-"0";"Mésange nonnette"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Pic noir"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,4
+Autour des palombes,2012,0,2
+Barge à queue noire,2015,0,1
+Bergeronnette printanière,2010,0,3
+Bondrée apivore,2011,0,2
+Busard Saint-Martin,2019,0,11
+Canard chipeau,2013,0,4
+Canard siffleur,2013,0,1
+Chevalier culblanc,2013,0,3
+Chevalier guignette,2013,0,4
+Cigogne blanche,2017,0,3
+Courlis cendré,2013,0,3
+Fuligule milouin,2013,0,2
+Gobemouche noir,2011,0,2
+Goéland brun,2014,0,1
+Grèbe huppé,2014,0,5
+Hirondelle de rivage,2013,0,2
+Mésange nonnette,2013,0,5
+Milan noir,2014,0,1
+Moineau friquet,2014,0,1
+Oedicnème criard,2013,0,1
+Perdrix grise,2015,0,3
+Pic noir,2013,0,2
+Pinson du Nord,2016,0,3
+Pipit farlouse,2018,0,10
+Pouillot fitis,2012,0,2
+Roitelet à triple bandeau,2013,0,3
+Sarcelle d'été,2014,0,1
+Serin cini,2014,0,1
+Tarier des prés,2017,0,1
+Traquet motteux,2014,0,3

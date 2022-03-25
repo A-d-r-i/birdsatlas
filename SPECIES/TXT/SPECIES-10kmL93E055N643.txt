@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant proyer
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Cigogne noire
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Faucon hobereau
-0        Fauvette grisette
-0        Gobemouche noir
-0        Grive litorne
-0        Grive mauvis
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Hypolaïs polyglotte
-0        Perdrix rouge
-0        Pic mar
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2017    0        2
+Bergeronnette printanière 2016    0        2
+Bondrée apivore           2018    0        12
+Bruant proyer             2015    0        1
+Canard souchet            2015    0        1
+Chevalier culblanc        2018    0        1
+Chevalier guignette       2017    0        6
+Cigogne noire             2015    0        2
+Cincle plongeur           2011    0        3
+Circaète Jean-le-Blanc    2018    0        4
+Faucon hobereau           2017    0        14
+Fauvette grisette         2018    0        5
+Gobemouche noir           2015    0        1
+Grive litorne             2017    0        4
+Grive mauvis              2016    0        2
+Héron pourpré             2017    0        3
+Hibou moyen-duc           2013    0        2
+Hirondelle de rivage      2013    0        2
+Hirondelle de rochers     2018    0        2
+Hypolaïs polyglotte       2017    0        16
+Perdrix rouge             2015    0        2
+Pic mar                   2018    0        4
+Pipit spioncelle          2017    0        3
+Pouillot fitis            2017    0        9
+Pouillot siffleur         2016    0        3
+Tarin des aulnes          2014    0        4
+Tourterelle des bois      2017    0        23
+Traquet motteux           2014    0        1
+Vanneau huppé             2012    0        1
+Vautour fauve             2013    0        1
 

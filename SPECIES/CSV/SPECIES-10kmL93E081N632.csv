@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant fou"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand Corbeau"
-"0";"Grive mauvis"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle de rochers"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Outarde canepetière"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sittelle torchepot"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Aigrette garzette,2008,0,1
+Autour des palombes,2015,0,1
+Bécasse des bois,2017,0,7
+Bec-croisé des sapins,2010,0,1
+Bihoreau gris,2012,0,2
+Bruant fou,2018,0,2
+Chevalier culblanc,2013,0,1
+Cincle plongeur,2007,0,1
+Corbeau freux,2016,0,2
+Courlis cendré,2016,0,1
+Cygne noir,2012,0,1
+Effraie des clochers,2014,0,8
+Fauvette des jardins,2012,0,5
+Goéland cendré,2013,0,2
+Goéland leucophée,2012,0,5
+Grand Corbeau,2018,0,12
+Grive mauvis,2017,0,4
+Héron pourpré,2015,0,1
+Hibou moyen-duc,2012,0,2
+Hirondelle de rivage,2012,0,2
+Hirondelle de rochers,2011,0,1
+Locustelle tachetée,2013,0,3
+Mouette rieuse,2013,0,13
+Oedicnème criard,2013,0,5
+Oie cendrée,2013,0,1
+Ouette d'Egypte,2017,0,3
+Outarde canepetière,2013,0,1
+Pigeon colombin,2012,0,1
+Pouillot siffleur,2017,0,2
+Roitelet huppé,2017,0,11
+Sittelle torchepot,2009,0,1
+Vanneau huppé,2010,0,1

@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Cincle plongeur"
-"0";"Échasse blanche"
-"0";"Faucon pèlerin"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Huîtrier pie"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Rémiz penduline"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,6
+Avocette élégante,2018,0,2
+Barge à queue noire,2018,0,4
+Bécasseau sanderling,2014,0,1
+Bécasse des bois,2016,0,1
+Bécassine sourde,2018,0,2
+Bernache nonnette,2015,0,2
+Bruant proyer,2015,0,1
+Busard cendré,2018,0,2
+Busard des roseaux,2012,0,1
+Butor étoilé,2015,0,1
+Canard chipeau,2018,0,15
+Canard pilet,2015,0,1
+Canard siffleur,2015,0,12
+Chevalier gambette,2017,0,9
+Cincle plongeur,2017,0,5
+Échasse blanche,2017,0,1
+Faucon pèlerin,2013,0,1
+Fuligule morillon,2018,0,3
+Goéland cendré,2018,0,1
+Grèbe à cou noir,2014,0,1
+Guifette leucoptère,2013,0,1
+Guifette moustac,2013,0,1
+Guifette noire,2013,0,2
+Harle bièvre,2017,0,1
+Huîtrier pie,2015,0,2
+Merle à plastron,2014,0,1
+Mésange boréale,2015,0,4
+Moineau friquet,2018,0,9
+Nette rousse,2008,0,1
+Oedicnème criard,2011,0,1
+Oie cendrée,2012,0,1
+Phragmite des joncs,2016,0,2
+Pie-grièche grise,2018,0,7
+Rémiz penduline,2013,0,1
+Torcol fourmilier,2013,0,1

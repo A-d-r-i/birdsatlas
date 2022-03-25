@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Coucou gris"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Ouette d'Egypte"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2011,0,2
+Autour des palombes,2018,0,3
+Bec-croisé des sapins,2010,0,3
+Bergeronnette des ruisseaux,2014,0,4
+Bihoreau gris,2008,0,1
+Bondrée apivore,2012,0,2
+Bouvreuil pivoine,2013,0,6
+Bruant ortolan,2018,0,2
+Bruant proyer,2018,0,6
+Busard des roseaux,2018,0,2
+Caille des blés,2016,0,4
+Chevalier culblanc,2017,0,1
+Coucou gris,2014,0,11
+Faucon pèlerin,2011,0,2
+Fauvette à tête noire,2018,0,34
+Fauvette babillarde,2014,0,5
+Gallinule poule-d'eau,2014,0,10
+Grèbe castagneux,2011,0,3
+Héron garde-boeufs,2016,0,1
+Héron pourpré,2011,0,2
+Locustelle tachetée,2014,0,4
+Loriot d'Europe,2014,0,11
+Martinet noir,2017,0,5
+Mésange boréale,2014,0,8
+Mésange noire,2014,0,8
+Ouette d'Egypte,2012,0,2
+Perdrix rouge,2010,0,2
+Pic cendré,2018,0,6
+Pic épeichette,2018,0,5
+Pigeon biset domestique,2011,0,2
+Pipit des arbres,2018,0,10
+Pluvier doré,2018,0,1
+Pouillot siffleur,2011,0,2
+Roitelet à triple bandeau,2013,0,7
+Roitelet huppé,2011,0,9
+Rougequeue à front blanc,2013,0,4
+Rousserolle effarvatte,2013,0,5
+Rousserolle turdoïde,2011,0,2
+Serin cini,2017,0,5
+Tourterelle des bois,2014,0,14

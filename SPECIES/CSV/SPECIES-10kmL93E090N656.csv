@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Canard siffleur"
-"0";"Corbeau freux"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Guêpier d'Europe"
-"0";"Harle huppé"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Mouette pygmée"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,1
+Bécassine des marais,2014,0,1
+Bruant des roseaux,2018,0,6
+Canard siffleur,2017,0,7
+Corbeau freux,2013,0,3
+Grand-duc d'Europe,2012,0,1
+Grande Aigrette,2015,0,1
+Guêpier d'Europe,2018,0,4
+Harle huppé,2018,0,2
+Jaseur boréal,2013,0,3
+Locustelle luscinioïde,2014,0,1
+Mouette pygmée,2018,0,2
+Râle d'eau,2010,0,1
+Rollier d'Europe,2015,0,1
+Rousserolle verderolle,2015,0,4
+Sarcelle d'hiver,2017,0,2
+Vautour fauve,2016,0,1
+Venturon montagnard,2017,0,1

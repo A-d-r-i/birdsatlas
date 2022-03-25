@@ -1,45 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Canard colvert
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Cigogne noire
-0        Corbeau freux
-0        Coucou gris
-0        Épervier d'Europe
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Gallinule poule-d'eau
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau friquet
-0        Pic noir
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rougequeue à front blanc
-0        Serin cini
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2012    0        2
+Bec-croisé des sapins     2015    0        1
+Canard colvert            2012    0        5
+Chevalier culblanc        2013    0        1
+Chouette hulotte          2017    0        1
+Cigogne noire             2018    0        2
+Corbeau freux             2018    0        13
+Coucou gris               2012    0        4
+Épervier d'Europe         2016    0        11
+Faucon émerillon          2007    0        1
+Faucon pèlerin            2012    0        2
+Fauvette babillarde       2012    0        3
+Gallinule poule-d'eau     2012    0        5
+Grand Cormoran            2011    0        3
+Grande Aigrette           2018    0        10
+Grèbe castagneux          2012    0        2
+Grimpereau des bois       2015    0        10
+Grive mauvis              2011    0        3
+Grosbec casse-noyaux      2018    0        16
+Héron cendré              2017    0        6
+Hibou moyen-duc           2018    0        3
+Huppe fasciée             2012    0        3
+Hypolaïs polyglotte       2012    0        4
+Locustelle tachetée       2012    0        3
+Mésange à longue queue    2013    0        9
+Mésange boréale           2012    0        3
+Mésange noire             2015    0        7
+Mésange nonnette          2016    0        14
+Moineau friquet           2012    0        9
+Pic noir                  2017    0        8
+Pie-grièche grise         2012    0        2
+Pigeon biset domestique   2012    0        3
+Pipit des arbres          2016    0        5
+Pipit farlouse            2012    0        4
+Pouillot siffleur         2016    0        3
+Roitelet à triple bandeau 2012    0        5
+Roitelet huppé            2017    0        12
+Rougequeue à front blanc  2012    0        3
+Serin cini                2013    0        4
+Vanneau huppé             2014    0        2
 

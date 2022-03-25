@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bécassine des marais
-0        Canard colvert
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Cigogne blanche
-0        Cigogne noire
-0        Corneille noire
-0        Courlis cendré
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Fauvette à tête noire
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Gobemouche gris
-0        Goéland brun
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grimpereau des jardins
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Mésange à longue queue
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Pic épeiche
-0        Pic épeichette
-0        Pic mar
-0        Pie bavarde
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Pouillot véloce
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Sarcelle d'hiver
-0        Sittelle torchepot
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2016    0        1
+Alouette lulu             2009    0        1
+Bécassine des marais      2009    0        1
+Canard colvert            2013    0        3
+Chevêche d'Athéna         2017    0        5
+Choucas des tours         2015    0        3
+Cigogne blanche           2014    0        2
+Cigogne noire             2016    0        1
+Corneille noire           2018    0        12
+Courlis cendré            2018    0        1
+Effraie des clochers      2016    0        1
+Engoulevent d'Europe      2012    0        1
+Étourneau sansonnet       2018    0        16
+Fauvette à tête noire     2011    0        3
+Foulque macroule          2009    0        1
+Gallinule poule-d'eau     2013    0        5
+Geai des chênes           2016    0        4
+Gobemouche gris           2011    0        3
+Goéland brun              2012    0        1
+Goéland leucophée         2012    0        2
+Grèbe castagneux          2015    0        2
+Grimpereau des jardins    2013    0        3
+Grive litorne             2009    0        1
+Grosbec casse-noyaux      2011    0        2
+Hibou des marais          2018    0        4
+Hibou moyen-duc           2011    0        2
+Hirondelle de fenêtre     2015    0        3
+Hirondelle de rivage      2011    0        2
+Huppe fasciée             2017    0        3
+Hypolaïs polyglotte       2018    0        4
+Loriot d'Europe           2011    0        2
+Mésange à longue queue    2015    0        4
+Mésange huppée            2013    0        5
+Mésange noire             2013    0        2
+Mésange nonnette          2016    0        1
+Pic épeiche               2015    0        9
+Pic épeichette            2011    0        3
+Pic mar                   2017    0        1
+Pie bavarde               2009    0        1
+Pigeon colombin           2012    0        4
+Pinson du Nord            2013    0        3
+Pipit des arbres          2011    0        3
+Pipit spioncelle          2009    0        1
+Pouillot fitis            2012    0        1
+Pouillot véloce           2018    0        5
+Roitelet à triple bandeau 2013    0        1
+Roitelet huppé            2016    0        5
+Sarcelle d'hiver          2012    0        2
+Sittelle torchepot        2011    0        2
+Tourterelle des bois      2011    0        2
 

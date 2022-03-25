@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Alouette des champs
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Canard chipeau
-0        Chevalier guignette
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand Corbeau
-0        Guifette moustac
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Mésange noire
-0        Mouette rieuse
-0        Petit Gravelot
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2018    0        3
+Alouette des champs       2010    0        3
+Bécasse des bois          2010    0        1
+Bécassine sourde          2010    0        1
+Bergeronnette printanière 2018    0        1
+Canard chipeau            2008    0        1
+Chevalier guignette       2018    0        2
+Épervier d'Europe         2018    0        8
+Faucon hobereau           2011    0        2
+Gobemouche gris           2017    0        4
+Gobemouche noir           2017    0        3
+Grand Corbeau             2018    0        2
+Guifette moustac          2015    0        1
+Hibou des marais          2012    0        1
+Hibou moyen-duc           2015    0        1
+Hirondelle de rivage      2009    0        1
+Mésange noire             2011    0        1
+Mouette rieuse            2018    0        3
+Petit Gravelot            2018    0        1
+Pouillot de Bonelli       2009    0        3
+Pouillot fitis            2009    0        2
+Pouillot siffleur         2011    0        3
+Râle d'eau                2010    0        1
+Roitelet huppé            2009    0        3
+Rousserolle effarvatte    2013    0        1
+Vanneau huppé             2009    0        2
 

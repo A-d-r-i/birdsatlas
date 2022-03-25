@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Busard cendré
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Courlis cendré
-0        Courlis corlieu
-0        Échasse blanche
-0        Faisan de Colchide
-0        Faisan vénéré
-0        Faucon émerillon
-0        Goéland cendré
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Guifette noire
-0        Moineau friquet
-0        Mouette rieuse
-0        Nette rousse
-0        Oie cendrée
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Pie-grièche à tête rousse
-0        Pipit spioncelle
-0        Pluvier doré
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne naine
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Avocette élégante         2010    0        1
+Bécasseau maubèche        2010    0        3
+Bécasseau minute          2011    0        1
+Bécasseau sanderling      2008    0        1
+Bécasseau variable        2013    0        2
+Bécassine des marais      2012    0        6
+Bec-croisé des sapins     2013    0        7
+Busard cendré             2014    0        6
+Canard chipeau            2019    0        3
+Canard siffleur           2017    0        19
+Chevalier aboyeur         2012    0        9
+Chevalier gambette        2013    0        3
+Courlis cendré            2013    0        13
+Courlis corlieu           2017    0        2
+Échasse blanche           2011    0        2
+Faisan de Colchide        2014    0        7
+Faisan vénéré             2015    0        3
+Faucon émerillon          2008    0        1
+Goéland cendré            2009    0        2
+Gorgebleue à miroir       2017    0        1
+Grand Gravelot            2013    0        1
+Grèbe à cou noir          2013    0        2
+Guifette moustac          2013    0        4
+Guifette noire            2012    0        4
+Moineau friquet           2009    0        1
+Mouette rieuse            2015    0        8
+Nette rousse              2012    0        13
+Oie cendrée               2016    0        2
+Oie rieuse                2008    0        4
+Ouette d'Egypte           2015    0        1
+Pie-grièche à tête rousse 2017    0        13
+Pipit spioncelle          2009    0        2
+Pluvier doré              2010    0        2
+Rousserolle turdoïde      2007    0        1
+Sarcelle d'été            2018    0        3
+Sizerin cabaret           2009    0        1
+Sizerin flammé            2013    0        5
+Sterne naine              2009    0        2
+Sterne pierregarin        2011    0        2
+Tadorne casarca           2017    0        1
+Vautour fauve             2012    0        4
 

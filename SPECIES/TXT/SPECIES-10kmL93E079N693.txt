@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Bruant zizi
-0        Busard des roseaux
-0        Busard pâle
-0        Cochevis huppé
-0        Courlis cendré
-0        Courlis corlieu
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Harle bièvre
-0        Hibou des marais
-0        Mésange huppée
-0        Moineau friquet
-0        Nette rousse
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic mar
-0        Pluvier argenté
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécassine des marais   2013    0        3
+Bécassine sourde       2012    0        1
+Bihoreau gris          2011    0        1
+Bruant des roseaux     2017    0        11
+Bruant zizi            2018    0        2
+Busard des roseaux     2018    0        17
+Busard pâle            2011    0        1
+Cochevis huppé         2017    0        36
+Courlis cendré         2012    0        1
+Courlis corlieu        2013    0        1
+Gorgebleue à miroir    2013    0        1
+Grand Gravelot         2018    0        4
+Harle bièvre           2012    0        2
+Hibou des marais       2017    0        2
+Mésange huppée         2017    0        11
+Moineau friquet        2016    0        51
+Nette rousse           2013    0        1
+Petit Gravelot         2018    0        3
+Phragmite des joncs    2018    0        5
+Pic mar                2019    0        6
+Pluvier argenté        2018    0        1
+Pluvier guignard       2018    0        1
+Pouillot siffleur      2015    0        1
+Rousserolle verderolle 2012    0        3
+Torcol fourmilier      2016    0        3
 

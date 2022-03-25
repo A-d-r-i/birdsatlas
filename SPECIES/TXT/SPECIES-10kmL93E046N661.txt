@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bondrée apivore
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grive litorne
-0        Hibou des marais
-0        Merle à plastron
-0        Mouette rieuse
-0        Oie cendrée
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic mar
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet huppé
-0        Rougequeue à front blanc
-0        Sarcelle d'hiver
-0        Torcol fourmilier
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Autour des palombes      2014    0        3
+Bécasse des bois         2016    0        7
+Bécassine des marais     2019    0        4
+Bondrée apivore          2012    0        2
+Chevalier culblanc       2013    0        3
+Chevalier guignette      2013    0        1
+Cigogne noire            2018    0        9
+Engoulevent d'Europe     2012    0        3
+Épervier d'Europe        2018    0        27
+Faucon hobereau          2018    0        4
+Gobemouche gris          2014    0        3
+Grand Cormoran           2014    0        9
+Grèbe castagneux         2016    0        4
+Grèbe huppé              2016    0        7
+Grive litorne            2019    0        15
+Hibou des marais         2013    0        1
+Merle à plastron         2012    0        1
+Mouette rieuse           2017    0        1
+Oie cendrée              2015    0        2
+Perdrix grise            2009    0        1
+Perdrix rouge            2014    0        4
+Pic mar                  2015    0        7
+Pouillot de Bonelli      2012    0        3
+Pouillot fitis           2012    0        1
+Pouillot siffleur        2012    0        2
+Râle d'eau               2013    0        2
+Roitelet huppé           2018    0        8
+Rougequeue à front blanc 2017    0        1
+Sarcelle d'hiver         2014    0        4
+Torcol fourmilier        2016    0        1
 

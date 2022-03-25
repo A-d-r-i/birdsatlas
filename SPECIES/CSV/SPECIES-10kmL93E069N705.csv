@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Mésange boréale"
-"0";"Phragmite des joncs"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2009,0,1
+Bondrée apivore,2009,0,1
+Bruant proyer,2009,0,1
+Busard Saint-Martin,2009,0,1
+Butor étoilé,2009,0,1
+Caille des blés,2009,0,1
+Canard chipeau,2009,0,1
+Chevalier aboyeur,2009,0,1
+Effraie des clochers,2009,0,1
+Faucon émerillon,2009,0,1
+Fuligule milouin,2009,0,1
+Gorgebleue à miroir,2009,0,1
+Grèbe à cou noir,2018,0,1
+Grosbec casse-noyaux,2009,0,1
+Guêpier d'Europe,2018,0,1
+Hibou des marais,2009,0,1
+Hirondelle de rivage,2009,0,1
+Hypolaïs ictérine,2009,0,1
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Mésange boréale,2009,0,1
+Phragmite des joncs,2009,0,1
+Roitelet à triple bandeau,2018,0,1
+Rossignol philomèle,2009,0,1
+Rousserolle effarvatte,2018,0,2
+Tarier pâtre,2009,0,1

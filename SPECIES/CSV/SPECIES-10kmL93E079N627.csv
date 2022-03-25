@@ -1,58 +1,56 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette calandrelle"
-"0";"Autour des palombes"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau rousset"
-"0";"Bécasseau violet"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Bruant des neiges"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier stagnatile"
-"0";"Cormoran pygmée"
-"0";"Corneille mantelée"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland d'Audouin"
-"0";"Grèbe esclavon"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Mouette tridactyle"
-"0";"Océanite tempête"
-"0";"Oie des moissons"
-"0";"Ouette d'Egypte"
-"0";"Perruche ondulée"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche méridionale"
-"0";"Pingouin torda"
-"0";"Pipit à gorge rousse"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin des Baléares"
-"0";"Rousserolle isabelle"
-"0";"Traquet oreillard"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,2
+Alouette calandrelle,2015,0,2
+Autour des palombes,2010,0,3
+Barge rousse,2016,0,2
+Bécasseau maubèche,2015,0,3
+Bécasseau minute,2017,0,32
+Bécasseau rousset,2016,0,2
+Bécasseau violet,2013,0,1
+Bécasse des bois,2009,0,1
+Bécassine sourde,2016,0,1
+Bernache du Canada,2011,0,1
+Bruant des neiges,2012,0,4
+Butor étoilé,2018,0,88
+Caille des blés,2017,0,8
+Canard pilet,2017,0,13
+Canard siffleur,2013,0,7
+Chevalier stagnatile,2018,0,23
+Cormoran pygmée,2016,0,4
+Corneille mantelée,2013,0,3
+Cygne noir,2017,0,36
+Engoulevent d'Europe,2017,0,1
+Fauvette orphée,2016,0,1
+Fauvette passerinette,2016,0,15
+Fuligule milouinan,2010,0,2
+Fuligule nyroca,2010,0,3
+Garrot à oeil d'or,2018,0,8
+Goéland d'Audouin,2017,0,2
+Grèbe esclavon,2013,0,2
+Grive litorne,2017,0,8
+Grosbec casse-noyaux,2014,0,4
+Harle bièvre,2012,0,2
+Harle huppé,2017,0,7
+Harle piette,2012,0,1
+Hibou moyen-duc,2014,0,8
+Hirondelle rousseline,2018,0,5
+Labbe parasite,2011,0,2
+Locustelle tachetée,2013,0,3
+Macreuse noire,2010,0,1
+Merle à plastron,2017,0,1
+Mouette tridactyle,2010,0,1
+Océanite tempête,2008,0,1
+Oie des moissons,2018,0,1
+Ouette d'Egypte,2012,0,2
+Perruche ondulée,2017,0,1
+Phragmite aquatique,2012,0,2
+Pie-grièche à tête rousse,2015,0,4
+Pie-grièche méridionale,2012,0,1
+Pingouin torda,2010,0,3
+Pipit à gorge rousse,2016,0,1
+Plongeon arctique,2011,0,18
+Pouillot à grands sourcils,2015,0,1
+Puffin des Baléares,2016,0,2
+Rousserolle isabelle,2013,0,1
+Traquet oreillard,2016,0,1
+Vautour fauve,2015,0,1

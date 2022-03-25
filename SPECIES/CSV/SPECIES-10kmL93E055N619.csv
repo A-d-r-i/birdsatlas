@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant jaune"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Grand-duc d'Europe"
-"0";"Grand Tétras"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Pic mar"
-"0";"Roitelet huppé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bruant jaune,2009,0,1
+Effraie des clochers,2009,0,1
+Fauvette des jardins,2009,0,1
+Grand-duc d'Europe,2009,0,1
+Grand Tétras,2009,0,1
+Hibou moyen-duc,2016,0,2
+Huppe fasciée,2009,0,1
+Loriot d'Europe,2009,0,1
+Martinet à ventre blanc,2017,0,1
+Pic mar,2009,0,1
+Roitelet huppé,2018,0,2
+Torcol fourmilier,2009,0,1

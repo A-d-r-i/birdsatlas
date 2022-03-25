@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Crave à bec rouge"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland brun"
-"0";"Grand-duc d'Europe"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Héron pourpré"
-"0";"Hypolaïs polyglotte"
-"0";"Martinet à ventre blanc"
-"0";"Nette rousse"
-"0";"Perdrix rouge"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Plongeon arctique"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,1
+Bécasse des bois,2009,0,1
+Bergeronnette printanière,2014,0,5
+Bouscarle de Cetti,2012,0,2
+Canard pilet,2018,0,2
+Canard souchet,2018,0,3
+Chevêche d'Athéna,2018,0,2
+Cigogne blanche,2017,0,1
+Courlis cendré,2009,0,1
+Crave à bec rouge,2018,0,2
+Effraie des clochers,2012,0,8
+Faucon d'Eléonore,2011,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2018,0,3
+Fauvette passerinette,2017,0,2
+Fuligule milouin,2009,0,1
+Fuligule morillon,2009,0,1
+Goéland brun,2017,0,3
+Grand-duc d'Europe,2015,0,2
+Grive litorne,2011,0,3
+Grive mauvis,2015,0,4
+Héron pourpré,2018,0,2
+Hypolaïs polyglotte,2009,0,3
+Martinet à ventre blanc,2017,0,2
+Nette rousse,2009,0,1
+Perdrix rouge,2009,0,2
+Pie-grièche à tête rousse,2013,0,1
+Pigeon biset domestique,2015,0,2
+Pigeon colombin,2009,0,2
+Pipit des arbres,2018,0,12
+Plongeon arctique,2014,0,1
+Pouillot de Bonelli,2014,0,2
+Pouillot fitis,2017,0,2
+Rousserolle effarvatte,2017,0,1
+Tarier des prés,2018,0,3
+Tichodrome échelette,2009,0,1
+Torcol fourmilier,2017,0,3

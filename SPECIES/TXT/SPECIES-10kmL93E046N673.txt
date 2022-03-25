@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Bernache nonnette
-0        Blongios nain
-0        Bouvreuil pivoine
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Circaète Jean-le-Blanc
-0        Cochevis huppé
-0        Conure veuve
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Goéland brun
-0        Grèbe esclavon
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Harle piette
-0        Locustelle tachetée
-0        Mésange noire
-0        Mésange nonnette
-0        Milan royal
-0        Ouette d'Egypte
-0        Perdrix rouge
-0        Pic épeichette
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Rémiz penduline
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Sterne naine
-0        Tadorne casarca
-0        Tarier des prés
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2012    0        1
+Barge à queue noire       2011    0        1
+Bécasse des bois          2018    0        3
+Bécassine sourde          2013    0        3
+Bergeronnette printanière 2012    0        2
+Bernache nonnette         2015    0        1
+Blongios nain             2011    0        2
+Bouvreuil pivoine         2015    0        1
+Canard siffleur           2014    0        25
+Chevalier aboyeur         2012    0        2
+Chevalier arlequin        2010    0        1
+Chevalier gambette        2013    0        3
+Chevalier sylvain         2010    0        1
+Circaète Jean-le-Blanc    2011    0        2
+Cochevis huppé            2015    0        15
+Conure veuve              2014    0        1
+Courlis cendré            2018    0        7
+Engoulevent d'Europe      2018    0        1
+Faisan vénéré             2011    0        1
+Goéland brun              2015    0        4
+Grèbe esclavon            2016    0        3
+Grive litorne             2019    0        5
+Grive mauvis              2019    0        20
+Grosbec casse-noyaux      2018    0        23
+Harle piette              2012    0        2
+Locustelle tachetée       2011    0        3
+Mésange noire             2017    0        10
+Mésange nonnette          2012    0        2
+Milan royal               2018    0        2
+Ouette d'Egypte           2014    0        2
+Perdrix rouge             2017    0        7
+Pic épeichette            2018    0        8
+Pluvier doré              2015    0        4
+Pouillot de Bonelli       2012    0        1
+Pouillot fitis            2016    0        7
+Rémiz penduline           2015    0        1
+Rougequeue à front blanc  2016    0        2
+Sarcelle d'été            2017    0        14
+Sterne naine              2013    0        1
+Tadorne casarca           2011    0        2
+Tarier des prés           2014    0        1
+Traquet motteux           2017    0        5
 

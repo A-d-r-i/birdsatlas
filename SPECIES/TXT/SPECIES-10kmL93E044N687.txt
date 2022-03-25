@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Cochevis huppé
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Perdrix grise
-0        Pic épeichette
-0        Pigeon colombin
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Traquet motteux
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Bergeronnette flavéole (M.f.flavissima) 2009    0        1
+Cochevis huppé                          2010    0        1
+Faucon hobereau                         2009    0        1
+Fauvette babillarde                     2009    0        1
+Perdrix grise                           2009    0        1
+Pic épeichette                          2018    0        2
+Pigeon colombin                         2009    0        1
+Pouillot fitis                          2009    0        1
+Rossignol philomèle                     2009    0        1
+Traquet motteux                         2018    0        2
 

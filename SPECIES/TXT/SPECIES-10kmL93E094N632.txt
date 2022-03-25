@@ -1,52 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Aigle botté
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Bruant jaune
-0        Busard des roseaux
-0        Busard pâle
-0        Busard Saint-Martin
-0        Canard colvert
-0        Choucas des tours
-0        Chouette hulotte
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon kobez
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hirondelle de rochers
-0        Loriot d'Europe
-0        Moineau friquet
-0        Outarde canepetière
-0        Petit-duc scops
-0        Pic épeichette
-0        Pic noir
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet oreillard
-0        Vautour moine
-0        Verdier d'Europe
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2019    0        29
+Aigle botté                 2018    0        2
+Autour des palombes         2018    0        8
+Bec-croisé des sapins       2016    0        1
+Bergeronnette des ruisseaux 2014    0        1
+Bergeronnette printanière   2013    0        2
+Bruant des roseaux          2010    0        2
+Bruant jaune                2018    0        14
+Busard des roseaux          2018    0        4
+Busard pâle                 2014    0        1
+Busard Saint-Martin         2011    0        1
+Canard colvert              2013    0        1
+Choucas des tours           2018    0        1
+Chouette hulotte            2018    0        5
+Cochevis huppé              2016    0        3
+Engoulevent d'Europe        2018    0        9
+Faisan de Colchide          2012    0        4
+Faucon émerillon            2017    0        3
+Faucon hobereau             2018    0        6
+Faucon kobez                2018    0        6
+Faucon pèlerin              2018    0        2
+Gallinule poule-d'eau       2013    0        2
+Gobemouche gris             2016    0        2
+Gobemouche noir             2018    0        1
+Grèbe castagneux            2013    0        1
+Grive mauvis                2013    0        2
+Grosbec casse-noyaux        2018    0        7
+Héron cendré                2018    0        7
+Hibou moyen-duc             2012    0        3
+Hirondelle de rochers       2017    0        3
+Loriot d'Europe             2014    0        3
+Moineau friquet             2012    0        2
+Outarde canepetière         2009    0        1
+Petit-duc scops             2015    0        7
+Pic épeichette              2010    0        3
+Pic noir                    2009    0        1
+Pie-grièche à tête rousse   2018    0        5
+Pie-grièche grise           2011    0        1
+Pigeon colombin             2010    0        2
+Pinson du Nord              2018    0        5
+Pipit des arbres            2018    0        8
+Pouillot fitis              2018    0        1
+Tarier des prés             2015    0        9
+Tarin des aulnes            2016    0        6
+Torcol fourmilier           2017    0        3
+Traquet oreillard           2015    0        1
+Vautour moine               2011    0        2
 

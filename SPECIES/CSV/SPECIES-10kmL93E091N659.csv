@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Chevalier sylvain"
-"0";"Cigogne blanche"
-"0";"Faucon hobereau"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grèbe huppé"
-"0";"Jaseur boréal"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,1
+Bihoreau gris,2013,0,1
+Bruant des roseaux,2018,0,1
+Bruant proyer,2007,0,1
+Chevalier sylvain,2017,0,1
+Cigogne blanche,2014,0,5
+Faucon hobereau,2016,0,1
+Gallinule poule-d'eau,2013,0,3
+Goéland leucophée,2017,0,1
+Grande Aigrette,2016,0,2
+Grèbe huppé,2015,0,5
+Jaseur boréal,2009,0,1
+Râle d'eau,2014,0,3
+Sarcelle d'hiver,2013,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2012,0,2
+Tourterelle des bois,2015,0,1

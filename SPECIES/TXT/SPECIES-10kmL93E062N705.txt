@@ -1,8 +1,8 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bergeronnette printanière
-0        Corbeau freux
-0        Héron cendré
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2017    0        1
+Bergeronnette printanière 2009    0        1
+Corbeau freux             2009    0        1
+Héron cendré              2017    0        1
 

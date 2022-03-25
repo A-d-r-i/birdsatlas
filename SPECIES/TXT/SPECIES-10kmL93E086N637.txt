@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Busard cendré
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Chocard à bec jaune
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Grèbe castagneux
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Sarcelle d'été
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2018    0        1
+Bergeronnette printanière 2015    0        1
+Bruant des roseaux        2017    0        3
+Bruant ortolan            2016    0        2
+Busard cendré             2015    0        1
+Busard des roseaux        2018    0        2
+Chevalier culblanc        2014    0        1
+Chocard à bec jaune       2016    0        1
+Faisan de Colchide        2014    0        3
+Faucon hobereau           2018    0        2
+Fauvette pitchou          2014    0        1
+Gallinule poule-d'eau     2016    0        5
+Grèbe castagneux          2012    0        5
+Grive mauvis              2014    0        2
+Grosbec casse-noyaux      2016    0        4
+Hirondelle de rivage      2014    0        1
+Merle à plastron          2011    0        1
+Pigeon colombin           2018    0        1
+Pinson du Nord            2015    0        1
+Pipit spioncelle          2014    0        1
+Sarcelle d'été            2011    0        1
+Torcol fourmilier         2016    0        2
 

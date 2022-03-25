@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Busard Saint-Martin
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Corbeau freux
-0        Faisan de Colchide
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Grande Aigrette
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Hirondelle de fenêtre
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Sittelle torchepot
-0        Tadorne de Belon
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette des champs     2018    0        2
+Busard Saint-Martin     2009    0        1
+Chevêche d'Athéna       2009    0        1
+Cigogne noire           2017    0        1
+Corbeau freux           2018    0        2
+Faisan de Colchide      2018    0        1
+Fauvette babillarde     2018    0        1
+Fauvette des jardins    2018    0        1
+Grande Aigrette         2018    0        2
+Grosbec casse-noyaux    2018    0        2
+Héron cendré            2018    0        1
+Hirondelle de fenêtre   2018    0        2
+Martin-pêcheur d'Europe 2009    0        1
+Mésange noire           2013    0        1
+Sittelle torchepot      2013    0        1
+Tadorne de Belon        2018    0        1
 

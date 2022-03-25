@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Étourneau sansonnet"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Martinet noir"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic vert"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot ibérique"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2016,0,3
+Bondrée apivore,2015,0,7
+Bruant zizi,2009,0,1
+Busard cendré,2015,0,2
+Chevalier guignette,2011,0,2
+Cigogne blanche,2015,0,2
+Cigogne noire,2015,0,4
+Coucou gris,2009,0,1
+Effraie des clochers,2010,0,1
+Étourneau sansonnet,2010,0,2
+Faucon hobereau,2015,0,2
+Fauvette des jardins,2009,0,1
+Grimpereau des bois,2009,0,1
+Grive litorne,2012,0,1
+Martinet noir,2015,0,3
+Perdrix grise,2011,0,7
+Pic épeichette,2010,0,2
+Pic mar,2011,0,2
+Pic vert,2016,0,15
+Pipit farlouse,2017,0,2
+Pouillot de Bonelli,2011,0,1
+Pouillot fitis,2011,0,2
+Pouillot ibérique,2016,0,1
+Pouillot siffleur,2011,0,1
+Roitelet huppé,2011,0,2
+Tarier des prés,2011,0,2
+Tarin des aulnes,2017,0,1
+Tourterelle turque,2011,0,2
+Verdier d'Europe,2010,0,2

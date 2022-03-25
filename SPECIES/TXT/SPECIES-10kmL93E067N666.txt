@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bondrée apivore
-0        Bruant jaune
-0        Chevalier aboyeur
-0        Courlis corlieu
-0        Grèbe castagneux
-0        Héron pourpré
-0        Mésange huppée
-0        Petit Gravelot
-0        Pipit rousseline
-0        Pluvier guignard
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Autour des palombes 2014    0        2
+Bondrée apivore     2016    0        3
+Bruant jaune        2009    0        1
+Chevalier aboyeur   2018    0        2
+Courlis corlieu     2007    0        1
+Grèbe castagneux    2018    0        2
+Héron pourpré       2016    0        1
+Mésange huppée      2009    0        1
+Petit Gravelot      2018    0        2
+Pipit rousseline    2018    0        2
+Pluvier guignard    2018    0        4
 

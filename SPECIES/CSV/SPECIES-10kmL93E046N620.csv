@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Grimpereau des jardins"
-"0";"Huppe fasciée"
-"0";"Martinet à ventre blanc"
-"0";"Mésange à longue queue"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Rollier d'Europe"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,1
+Caille des blés,2009,0,1
+Chevalier culblanc,2018,0,1
+Choucas des tours,2018,0,1
+Chouette hulotte,2009,0,1
+Cigogne blanche,2015,0,1
+Élanion blanc,2018,0,1
+Engoulevent d'Europe,2009,0,1
+Fauvette des jardins,2009,0,1
+Grimpereau des jardins,2009,0,1
+Huppe fasciée,2017,0,3
+Martinet à ventre blanc,2016,0,1
+Mésange à longue queue,2016,0,4
+Pie-grièche grise,2017,0,2
+Pipit des arbres,2017,0,2
+Roitelet à triple bandeau,2016,0,4
+Rollier d'Europe,2014,0,1
+Vautour moine,2016,0,1

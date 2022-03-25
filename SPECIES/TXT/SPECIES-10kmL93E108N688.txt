@@ -1,39 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Chevalier arlequin
-0        Chouette hulotte
-0        Cigogne noire
-0        Corbeau freux
-0        Cygne chanteur
-0        Effraie des clochers
-0        Eider à duvet
-0        Fuligule milouinan
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grand Gravelot
-0        Harelde boréale
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Oie à tête barrée
-0        Oie rieuse
-0        Pie-grièche grise
-0        Pipit farlouse
-0        Plongeon arctique
-0        Râle d'eau
-0        Rémiz penduline
-0        Rougequeue à front blanc
-0        Sarcelle d'été
-0        Serin cini
-0        Tadorne de Belon
-0        Tarier pâtre
-0        Tourterelle turque
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Aigrette garzette        2017    0        3
+Bécasseau sanderling     2017    0        1
+Bécasseau variable       2017    0        1
+Busard des roseaux       2018    0        1
+Busard Saint-Martin      2018    0        2
+Butor étoilé             2016    0        2
+Chevalier arlequin       2017    0        1
+Chouette hulotte         2017    0        6
+Cigogne noire            2014    0        1
+Corbeau freux            2019    0        2
+Cygne chanteur           2017    0        1
+Effraie des clochers     2012    0        1
+Eider à duvet            2018    0        5
+Fuligule milouinan       2017    0        2
+Gallinule poule-d'eau    2012    0        6
+Gobemouche gris          2017    0        4
+Grand Gravelot           2017    0        1
+Harelde boréale          2017    0        7
+Hypolaïs polyglotte      2018    0        2
+Locustelle tachetée      2017    0        11
+Mésange noire            2017    0        1
+Mouette mélanocéphale    2017    0        1
+Oie à tête barrée        2008    0        1
+Oie rieuse               2017    0        1
+Pie-grièche grise        2017    0        1
+Pipit farlouse           2018    0        1
+Plongeon arctique        2014    0        4
+Râle d'eau               2014    0        2
+Rémiz penduline          2009    0        1
+Rougequeue à front blanc 2018    0        2
+Serin cini               2017    0        1
+Tadorne de Belon         2017    0        2
+Tarier pâtre             2018    0        3
+Tourterelle turque       2017    0        4
 

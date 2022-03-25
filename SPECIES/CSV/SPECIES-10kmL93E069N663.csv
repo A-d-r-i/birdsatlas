@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Cygne noir"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Grive litorne"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Mouette pygmée"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2010,0,2
+Bondrée apivore,2015,0,3
+Butor étoilé,2010,0,3
+Canard mandarin,2016,0,1
+Cygne noir,2018,0,2
+Faucon émerillon,2016,0,2
+Faucon hobereau,2016,0,2
+Fauvette des jardins,2014,0,3
+Goéland cendré,2015,0,1
+Goéland leucophée,2017,0,1
+Grèbe esclavon,2015,0,2
+Grèbe jougris,2015,0,1
+Grive litorne,2017,0,2
+Guifette leucoptère,2007,0,3
+Harle bièvre,2019,0,4
+Locustelle tachetée,2013,0,1
+Macreuse brune,2017,0,1
+Mésange huppée,2012,0,1
+Mésange nonnette,2019,0,12
+Mouette pygmée,2016,0,1
+Phragmite des joncs,2018,0,1
+Pic cendré,2010,0,2
+Pipit spioncelle,2017,0,2
+Pouillot siffleur,2017,0,1
+Rémiz penduline,2009,0,1
+Sarcelle d'été,2016,0,1
+Sterne naine,2012,0,1

@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Corbeau freux"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Mésange noire"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Busard cendré,2009,0,1
+Busard pâle,2016,0,1
+Corbeau freux,2009,0,1
+Gobemouche gris,2017,0,1
+Goéland brun,2008,0,1
+Mésange noire,2016,0,6
+Tarin des aulnes,2015,0,1

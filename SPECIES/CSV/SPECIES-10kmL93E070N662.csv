@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Chevalier gambette"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2013,0,13
+Barge rousse,2016,0,2
+Busard cendré,2017,0,1
+Butor étoilé,2011,0,2
+Chevalier gambette,2018,0,24
+Combattant varié,2017,0,17
+Courlis corlieu,2013,0,1
+Crabier chevelu,2018,0,3
+Échasse blanche,2015,0,2
+Engoulevent d'Europe,2011,0,2
+Faucon émerillon,2015,0,1
+Faucon pèlerin,2019,0,4
+Goéland brun,2017,0,1
+Goéland cendré,2013,0,3
+Grand Gravelot,2012,0,1
+Guifette moustac,2018,0,7
+Guifette noire,2012,0,1
+Harle bièvre,2018,0,3
+Ibis falcinelle,2016,0,3
+Ibis sacré,2014,0,2
+Locustelle tachetée,2011,0,2
+Merle à plastron,2013,0,1
+Mésange noire,2012,0,3
+Moineau friquet,2010,0,2
+Mouette mélanocéphale,2016,0,6
+Mouette pygmée,2014,0,3
+Perdrix grise,2017,0,3
+Perdrix rouge,2018,0,5
+Pic cendré,2016,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2013,0,3
+Pouillot de Bonelli,2018,0,3
+Râle d'eau,2014,0,1
+Torcol fourmilier,2018,0,14
+Vautour fauve,2016,0,5

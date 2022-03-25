@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau maubèche
-0        Bécasseau tacheté
-0        Bec-croisé des sapins
-0        Bruant ortolan
-0        Canard à collier noir
-0        Chevalier stagnatile
-0        Cincle plongeur
-0        Courlis corlieu
-0        Cygne chanteur
-0        Cygne noir
-0        Etourneau roselin
-0        Faucon émerillon
-0        Flamant rose
-0        Fuligule milouinan
-0        Garrot à oeil d'or
-0        Grèbe jougris
-0        Guifette moustac
-0        Hibou des marais
-0        Hypolaïs ictérine
-0        Locustelle luscinioïde
-0        Marouette ponctuée
-0        Mouette tridactyle
-0        Oie des moissons
-0        Pélican frisé
-0        Pluvier argenté
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Tournepierre à collier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Barge à queue noire    2011    0        3
+Barge rousse           2015    0        2
+Bécasseau maubèche     2014    0        1
+Bécasseau tacheté      2017    0        7
+Bec-croisé des sapins  2016    0        1
+Bruant ortolan         2018    0        1
+Canard à collier noir  2016    0        9
+Chevalier stagnatile   2018    0        1
+Cincle plongeur        2018    0        2
+Courlis corlieu        2017    0        3
+Cygne chanteur         2009    0        1
+Cygne noir             2012    0        15
+Etourneau roselin      2018    0        4
+Faucon émerillon       2011    0        2
+Flamant rose           2017    0        23
+Fuligule milouinan     2012    0        2
+Garrot à oeil d'or     2016    0        21
+Grèbe jougris          2015    0        10
+Guifette moustac       2014    0        1
+Hibou des marais       2015    0        5
+Hypolaïs ictérine      2016    0        1
+Locustelle luscinioïde 2018    0        4
+Marouette ponctuée     2016    0        7
+Mouette tridactyle     2012    0        1
+Oie des moissons       2010    0        2
+Pélican frisé          2017    0        9
+Pluvier argenté        2016    0        2
+Pouillot siffleur      2016    0        5
+Rémiz penduline        2018    0        14
+Tournepierre à collier 2016    0        3
 

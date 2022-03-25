@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Canard colvert"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pipit farlouse"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,2
+Bécasse des bois,2015,0,2
+Bécassine des marais,2013,0,1
+Bruant des roseaux,2018,0,2
+Bruant ortolan,2013,0,1
+Bruant proyer,2013,0,1
+Bruant zizi,2017,0,1
+Canard colvert,2018,0,7
+Canard souchet,2014,0,1
+Chevalier culblanc,2018,0,4
+Chevalier guignette,2018,0,6
+Chevalier sylvain,2015,0,1
+Corbeau freux,2017,0,1
+Coucou gris,2015,0,2
+Faisan de Colchide,2015,0,4
+Fauvette grisette,2018,0,6
+Foulque macroule,2018,0,15
+Fuligule milouin,2018,0,6
+Gallinule poule-d'eau,2014,0,3
+Gobemouche gris,2013,0,2
+Grand Cormoran,2018,0,9
+Grand-duc d'Europe,2016,0,2
+Grèbe castagneux,2016,0,4
+Grèbe huppé,2016,0,5
+Grive mauvis,2018,0,2
+Guêpier d'Europe,2017,0,1
+Hibou des marais,2018,0,2
+Hibou moyen-duc,2009,0,1
+Locustelle tachetée,2015,0,2
+Loriot d'Europe,2017,0,4
+Merle à plastron,2015,0,1
+Mésange boréale,2018,0,6
+Ouette d'Egypte,2016,0,3
+Petit Gravelot,2017,0,4
+Phragmite des joncs,2013,0,1
+Pipit farlouse,2015,0,2
+Rousserolle effarvatte,2015,0,5
+Rousserolle turdoïde,2017,0,4
+Serin cini,2016,0,1
+Sterne pierregarin,2017,0,1
+Tadorne casarca,2017,0,2

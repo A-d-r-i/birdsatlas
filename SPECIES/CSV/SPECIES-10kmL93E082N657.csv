@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette passerinette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pouillot siffleur"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle royal,2015,0,1
+Bécasse des bois,2014,0,3
+Bécassine sourde,2018,0,1
+Bergeronnette printanière,2018,0,7
+Bruant des roseaux,2016,0,3
+Bruant fou,2017,0,5
+Busard cendré,2018,0,6
+Busard des roseaux,2018,0,4
+Effraie des clochers,2018,0,3
+Faisan de Colchide,2018,0,14
+Faucon pèlerin,2015,0,1
+Fauvette babillarde,2012,0,2
+Fauvette passerinette,2009,0,2
+Gobemouche gris,2015,0,3
+Gobemouche noir,2017,0,6
+Moineau friquet,2018,0,5
+Oedicnème criard,2014,0,2
+Perdrix rouge,2014,0,1
+Petit-duc scops,2009,0,1
+Pouillot siffleur,2017,0,4
+Tarier des prés,2016,0,3
+Vautour fauve,2014,0,2

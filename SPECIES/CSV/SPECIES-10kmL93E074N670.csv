@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Locustelle tachetée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,8
+Aigle botté,2016,0,1
+Bécasse des bois,2012,0,1
+Bergeronnette printanière,2010,0,2
+Bruant fou,2015,0,1
+Chevêche d'Athéna,2017,0,3
+Cigogne blanche,2014,0,1
+Faisan de Colchide,2016,0,12
+Faucon hobereau,2012,0,2
+Fauvette babillarde,2012,0,2
+Fauvette des jardins,2012,0,2
+Gallinule poule-d'eau,2018,0,7
+Grand Cormoran,2019,0,5
+Grèbe castagneux,2018,0,1
+Grosbec casse-noyaux,2018,0,14
+Locustelle tachetée,2011,0,3
+Mésange huppée,2012,0,2
+Mésange noire,2019,0,3
+Perdrix rouge,2012,0,2
+Pic mar,2012,0,3
+Pouillot fitis,2015,0,3
+Roitelet huppé,2018,0,5
+Serin cini,2017,0,16
+Tarier des prés,2016,0,2
+Torcol fourmilier,2013,0,3

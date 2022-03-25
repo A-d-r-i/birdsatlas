@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Canard colvert"
-"0";"Corbeau freux"
-"0";"Pigeon biset domestique"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,1
+Canard colvert,2009,0,1
+Corbeau freux,2009,0,1
+Pigeon biset domestique,2017,0,1
+Tarin des aulnes,2018,0,1

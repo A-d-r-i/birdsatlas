@@ -1,50 +1,50 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigrette garzette
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Choucas des tours
-0        Cigogne blanche
-0        Cigogne noire
-0        Courlis corlieu
-0        Élanion blanc
-0        Étourneau unicolore
-0        Faucon crécerellette
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fauvette passerinette
-0        Foulque macroule
-0        Fuligule morillon
-0        Grande Aigrette
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hypolaïs polyglotte
-0        Martinet à ventre blanc
-0        Moineau soulcie
-0        Niverolle alpine
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pic vert
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit à gorge rousse
-0        Rollier d'Europe
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2013    0        1
+Aigrette garzette         2009    0        1
+Avocette élégante         2012    0        1
+Bécasseau variable        2009    0        1
+Bécasse des bois          2009    0        1
+Bruant des roseaux        2010    0        1
+Bruant ortolan            2013    0        1
+Busard des roseaux        2018    0        4
+Busard Saint-Martin       2017    0        8
+Canard chipeau            2010    0        6
+Canard siffleur           2016    0        5
+Chevalier aboyeur         2014    0        7
+Chevalier gambette        2014    0        3
+Chevalier sylvain         2010    0        3
+Choucas des tours         2018    0        1
+Cigogne blanche           2017    0        4
+Cigogne noire             2013    0        5
+Courlis corlieu           2009    0        1
+Élanion blanc             2012    0        12
+Étourneau unicolore       2017    0        1
+Faucon crécerellette      2016    0        6
+Faucon d'Eléonore         2016    0        1
+Faucon kobez              2016    0        3
+Fauvette passerinette     2009    0        1
+Foulque macroule          2018    0        1
+Fuligule morillon         2016    0        1
+Grande Aigrette           2016    0        4
+Grèbe à cou noir          2015    0        1
+Grèbe castagneux          2017    0        3
+Héron garde-boeufs        2014    0        3
+Héron pourpré             2013    0        1
+Hypolaïs polyglotte       2013    0        1
+Martinet à ventre blanc   2014    0        2
+Moineau soulcie           2012    0        3
+Niverolle alpine          2016    0        1
+Petit Gravelot            2014    0        9
+Phragmite des joncs       2017    0        3
+Pic épeichette            2016    0        1
+Pic vert                  2016    0        13
+Pie-grièche à tête rousse 2012    0        3
+Pigeon biset domestique   2012    0        3
+Pigeon colombin           2013    0        1
+Pipit à gorge rousse      2011    0        2
+Rollier d'Europe          2016    0        11
+Rougequeue à front blanc  2017    0        5
+Rousserolle effarvatte    2017    0        3
 

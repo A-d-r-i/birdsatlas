@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Cigogne noire"
-"0";"Corneille mantelée"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Roselin cramoisi"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,3
+Autour des palombes,2018,0,2
+Bergeronnette printanière,2012,0,1
+Bruant zizi,2016,0,1
+Busard des roseaux,2014,0,1
+Caille des blés,2012,0,2
+Cigogne noire,2016,0,1
+Corneille mantelée,2018,0,1
+Grosbec casse-noyaux,2014,0,1
+Hibou moyen-duc,2012,0,2
+Hirondelle de rivage,2007,0,1
+Hirondelle rustique,2017,0,1
+Huppe fasciée,2016,0,1
+Roselin cramoisi,2009,0,1
+Rossignol philomèle,2012,0,2
+Rougequeue à front blanc,2016,0,5
+Torcol fourmilier,2018,0,1
+Tourterelle des bois,2014,0,1
+Vanneau huppé,2016,0,2

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau minute"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Garrot à oeil d'or"
-"0";"Goéland marin"
-"0";"Grèbe esclavon"
-"0";"Guifette leucoptère"
-"0";"Hirondelle rousseline"
-"0";"Locustelle luscinioïde"
-"0";"Oedicnème criard"
-"0";"Ouette d'Egypte"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Rollier d'Europe"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Sterne naine"
-"0";"Tadorne casarca"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2015,0,1
+Bécasseau minute,2017,0,3
+Bernache du Canada,2016,0,1
+Bernache nonnette,2017,0,37
+Cochevis huppé,2017,0,1
+Combattant varié,2017,0,4
+Courlis cendré,2015,0,2
+Cygne noir,2018,0,1
+Garrot à oeil d'or,2018,0,13
+Goéland marin,2015,0,11
+Grèbe esclavon,2015,0,3
+Guifette leucoptère,2017,0,5
+Hirondelle rousseline,2013,0,1
+Locustelle luscinioïde,2012,0,1
+Oedicnème criard,2016,0,1
+Ouette d'Egypte,2018,0,1
+Perruche ondulée,2017,0,1
+Petit-duc scops,2017,0,1
+Rollier d'Europe,2012,0,10
+Sizerin boréal (C.f.flammea),2018,0,10
+Sterne naine,2015,0,4
+Tadorne casarca,2018,0,1
+Vanneau huppé,2015,0,2
+Vautour moine,2017,0,1
+Venturon montagnard,2017,0,1

@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Bécasseau variable"
-"0";"Bernache nonnette"
-"0";"Bruant nain"
-"0";"Busard pâle"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouinan"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grand Tétras"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Loriot d'Europe"
-"0";"Macreuse brune"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pouillot de Bonelli"
-"0";"Sterne caugek"
-"0";"Sterne pierregarin"
-"0";"Tourterelle des bois"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,1
+Bécasseau variable,2018,0,2
+Bernache nonnette,2011,0,1
+Bruant nain,2013,0,2
+Busard pâle,2009,0,2
+Canard souchet,2016,0,14
+Chevalier aboyeur,2018,0,18
+Chevalier arlequin,2018,0,1
+Chevalier gambette,2018,0,9
+Chevalier guignette,2018,0,26
+Chevalier sylvain,2018,0,2
+Effraie des clochers,2016,0,3
+Faisan de Colchide,2018,0,13
+Faucon kobez,2008,0,4
+Faucon pèlerin,2018,0,11
+Fuligule milouinan,2015,0,4
+Goéland argenté,2018,0,7
+Goéland brun,2013,0,5
+Goéland cendré,2018,0,16
+Gorgebleue à miroir,2018,0,2
+Grand Gravelot,2018,0,2
+Grand Tétras,2016,0,15
+Guifette moustac,2008,0,1
+Guifette noire,2018,0,3
+Harle huppé,2016,0,3
+Harle piette,2011,0,4
+Huppe fasciée,2016,0,6
+Jaseur boréal,2009,0,1
+Loriot d'Europe,2014,0,2
+Macreuse brune,2018,0,3
+Mouette mélanocéphale,2017,0,3
+Mouette pygmée,2018,0,11
+Oie cendrée,2018,0,20
+Petit Gravelot,2018,0,16
+Pic épeichette,2018,0,5
+Pouillot de Bonelli,2012,0,1
+Sterne caugek,2017,0,1
+Sterne pierregarin,2010,0,1
+Tourterelle des bois,2012,0,3
+Vautour fauve,2011,0,1

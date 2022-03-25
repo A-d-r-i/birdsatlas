@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Caille des blés
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Circaète Jean-le-Blanc
-0        Coucou gris
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Grèbe huppé
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Locustelle tachetée
-0        Mésange nonnette
-0        Milan noir
-0        Milan royal
-0        Moineau friquet
-0        Pic mar
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Pigeon biset (origine naturelle)
-0        Pipit rousseline
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Sizerin flammé
-0        Tarin des aulnes
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Aigrette garzette                2016    0        1
+Bécasse des bois                 2009    0        1
+Bécassine des marais             2017    0        2
+Bihoreau gris                    2016    0        2
+Bondrée apivore                  2009    0        1
+Bouvreuil pivoine                2009    0        1
+Caille des blés                  2018    0        3
+Chevêche d'Athéna                2015    0        5
+Chouette hulotte                 2015    0        2
+Circaète Jean-le-Blanc           2018    0        3
+Coucou gris                      2018    0        6
+Faucon hobereau                  2015    0        4
+Fauvette des jardins             2009    0        1
+Grèbe huppé                      2014    0        3
+Grive musicienne                 2016    0        4
+Grosbec casse-noyaux             2009    0        2
+Hibou des marais                 2018    0        1
+Locustelle tachetée              2014    0        1
+Mésange nonnette                 2009    0        1
+Milan noir                       2016    0        1
+Milan royal                      2018    0        2
+Moineau friquet                  2017    0        1
+Pic mar                          2009    0        1
+Pic noir                         2015    0        1
+Pie-grièche écorcheur            2009    0        1
+Pie-grièche grise                2013    0        2
+Pigeon biset (origine naturelle) 2009    0        1
+Pipit rousseline                 2014    0        1
+Pouillot siffleur                2009    0        1
+Râle d'eau                       2017    0        1
+Roitelet à triple bandeau        2015    0        2
+Roitelet huppé                   2009    0        1
+Sizerin flammé                   2013    0        1
+Tarin des aulnes                 2016    0        1
 

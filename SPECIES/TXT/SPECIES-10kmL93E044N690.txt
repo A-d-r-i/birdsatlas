@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bondrée apivore
-0        Faucon hobereau
-0        Grèbe castagneux
-0        Grosbec casse-noyaux
-0        Locustelle tachetée
-0        Moineau friquet
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Pipit des arbres
-0        Rousserolle verderolle
-0        Sterne caugek
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Bergeronnette flavéole (M.f.flavissima) 2009    0        1
+Bondrée apivore                         2009    0        1
+Faucon hobereau                         2009    0        1
+Grèbe castagneux                        2009    0        1
+Grosbec casse-noyaux                    2018    0        1
+Locustelle tachetée                     2009    0        1
+Moineau friquet                         2012    0        1
+Phragmite des joncs                     2009    0        1
+Pigeon colombin                         2009    0        1
+Pipit des arbres                        2009    0        1
+Rousserolle verderolle                  2009    0        1
+Sterne caugek                           2009    0        1
 

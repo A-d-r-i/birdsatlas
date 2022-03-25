@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Canard carolin"
-"0";"Canard musqué"
-"0";"Chevêche d'Athéna"
-"0";"Coucou gris"
-"0";"Fauvette mélanocéphale"
-"0";"Foulque macroule"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Perruche ondulée"
-"0";"Pouillot à grands sourcils"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,1
+Bécasseau variable,2017,0,3
+Bec-croisé des sapins,2015,0,4
+Canard carolin,2015,0,1
+Canard musqué,2017,0,2
+Chevêche d'Athéna,2009,0,1
+Coucou gris,2016,0,4
+Fauvette mélanocéphale,2013,0,1
+Foulque macroule,2018,0,1
+Hirondelle de rivage,2018,0,2
+Loriot d'Europe,2018,0,1
+Milan noir,2017,0,1
+Moineau friquet,2019,0,1
+Perruche ondulée,2016,0,1
+Pouillot à grands sourcils,2018,0,1
+Sterne caugek,2018,0,3
+Tadorne casarca,2015,0,1

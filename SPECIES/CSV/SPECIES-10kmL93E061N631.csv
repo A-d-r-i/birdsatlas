@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Crabier chevelu"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Guifette noire"
-"0";"Ibis falcinelle"
-"0";"Moineau soulcie"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Tarier des prés"
-"0";"Tourterelle rieuse"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bruant fou,2017,0,3
+Bruant jaune,2016,0,3
+Butor étoilé,2015,0,1
+Canard chipeau,2013,0,6
+Canard siffleur,2018,0,1
+Chevalier gambette,2016,0,1
+Cigogne noire,2012,0,1
+Corbeau freux,2018,0,8
+Crabier chevelu,2013,0,1
+Faucon kobez,2017,0,1
+Fauvette des jardins,2009,0,1
+Fuligule milouin,2012,0,10
+Fuligule morillon,2012,0,11
+Guifette noire,2017,0,1
+Ibis falcinelle,2010,0,1
+Moineau soulcie,2018,0,6
+Mouette pygmée,2016,0,1
+Mouette tridactyle,2016,0,10
+Petit-duc scops,2018,0,12
+Petit Gravelot,2018,0,5
+Pipit rousseline,2017,0,4
+Pipit spioncelle,2017,0,1
+Rémiz penduline,2018,0,4
+Rollier d'Europe,2014,0,1
+Rousserolle turdoïde,2012,0,1
+Tarier des prés,2018,0,7
+Tourterelle rieuse,2015,0,1
+Traquet motteux,2017,0,6

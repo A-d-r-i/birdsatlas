@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Caille des blés
-0        Cigogne noire
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Hirondelle de rivage
-0        Mésange boréale
-0        Moineau friquet
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Tarier des prés
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Autour des palombes  2009    0        1
+Bécasse des bois     2009    0        1
+Caille des blés      2009    0        1
+Cigogne noire        2009    0        1
+Effraie des clochers 2009    0        2
+Faucon pèlerin       2009    0        1
+Hirondelle de rivage 2009    0        1
+Mésange boréale      2009    0        1
+Moineau friquet      2009    0        1
+Pouillot de Bonelli  2009    0        1
+Pouillot siffleur    2018    0        3
+Tarier des prés      2018    0        1
 

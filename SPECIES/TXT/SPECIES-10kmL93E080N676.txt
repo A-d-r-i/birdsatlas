@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bec-croisé des sapins
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cygne chanteur
-0        Gobemouche gris
-0        Goéland brun
-0        Goéland leucophée
-0        Grèbe à cou noir
-0        Grèbe huppé
-0        Grimpereau des bois
-0        Huppe fasciée
-0        Mésange noire
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix grise
-0        Pic mar
-0        Pipit spioncelle
-0        Râle d'eau
-0        Tichodrome échelette
-0        Vanneau huppé
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle botté           2012    0        1
+Bec-croisé des sapins 2018    0        8
+Chevalier guignette   2018    0        1
+Cigogne blanche       2017    0        3
+Cygne chanteur        2010    0        2
+Gobemouche gris       2014    0        2
+Goéland brun          2014    0        1
+Goéland leucophée     2012    0        1
+Grèbe à cou noir      2017    0        1
+Grèbe huppé           2016    0        1
+Grimpereau des bois   2017    0        1
+Huppe fasciée         2009    0        2
+Mésange noire         2013    0        15
+Moineau friquet       2016    0        1
+Mouette rieuse        2010    0        1
+Perdrix grise         2013    0        1
+Pic mar               2011    0        6
+Pipit spioncelle      2014    0        1
+Râle d'eau            2014    0        1
+Tichodrome échelette  2009    0        7
+Vanneau huppé         2016    0        2
 

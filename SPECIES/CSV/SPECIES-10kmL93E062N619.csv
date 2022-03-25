@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bruant fou"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Chouette de Tengmalm"
-"0";"Coucou geai"
-"0";"Faisan vénéré"
-"0";"Fauvette mélanocéphale"
-"0";"Fauvette passerinette"
-"0";"Goéland brun"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Grand Tétras"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Léiothrix jaune"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Sarcelle d'hiver"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2014,0,1
+Bruant fou,2018,0,11
+Butor étoilé,2007,0,1
+Canard pilet,2015,0,2
+Chevalier aboyeur,2015,0,3
+Chevalier guignette,2014,0,1
+Chevalier sylvain,2013,0,2
+Chevêche d'Athéna,2016,0,5
+Chouette de Tengmalm,2015,0,1
+Coucou geai,2007,0,1
+Faisan vénéré,2012,0,1
+Fauvette mélanocéphale,2009,0,1
+Fauvette passerinette,2009,0,1
+Goéland brun,2017,0,2
+Grand Cormoran,2014,0,3
+Grande Aigrette,2016,0,12
+Grand Tétras,2009,0,1
+Hibou des marais,2017,0,3
+Ibis falcinelle,2015,0,1
+Léiothrix jaune,2018,0,1
+Locustelle tachetée,2012,0,2
+Loriot d'Europe,2017,0,3
+Moineau friquet,2019,0,2
+Monticole bleu,2009,0,2
+Mouette mélanocéphale,2007,0,1
+Perdrix grise,2017,0,3
+Perdrix rouge,2011,0,2
+Pipit rousseline,2018,0,3
+Pluvier argenté,2015,0,1
+Sarcelle d'hiver,2018,0,8
+Venturon montagnard,2018,0,1

@@ -1,9 +1,9 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bouscarle de Cetti
-0        Moineau friquet
-0        Perdrix rouge
-0        Pic épeichette
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Alouette des champs 2009    0        1
+Bouscarle de Cetti  2018    0        3
+Moineau friquet     2016    0        2
+Perdrix rouge       2017    0        4
+Pic épeichette      2018    0        2
 

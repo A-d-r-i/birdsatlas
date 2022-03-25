@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Faisan de Colchide"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Goéland argenté"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,1
+Alouette lulu,2018,0,3
+Bécasse des bois,2018,0,5
+Bécassine des marais,2018,0,4
+Bécassine sourde,2012,0,1
+Bec-croisé des sapins,2013,0,1
+Bergeronnette printanière,2018,0,1
+Bondrée apivore,2018,0,3
+Bouscarle de Cetti,2013,0,1
+Bruant des roseaux,2016,0,2
+Bruant jaune,2018,0,12
+Busard Saint-Martin,2017,0,4
+Chevalier culblanc,2016,0,1
+Corbeau freux,2016,0,6
+Courlis cendré,2012,0,1
+Faisan de Colchide,2016,0,6
+Fauvette des jardins,2013,0,7
+Fauvette grisette,2013,0,1
+Fuligule milouin,2012,0,1
+Goéland argenté,2015,0,4
+Goéland leucophée,2013,0,1
+Grèbe castagneux,2016,0,1
+Grive mauvis,2016,0,13
+Grosbec casse-noyaux,2018,0,11
+Hypolaïs polyglotte,2018,0,2
+Loriot d'Europe,2016,0,4
+Milan noir,2015,0,2
+Milan royal,2018,0,1
+Oie cendrée,2013,0,5
+Phragmite des joncs,2013,0,1
+Pic mar,2014,0,24
+Pigeon biset domestique,2018,0,4
+Pigeon colombin,2018,0,5
+Pinson du Nord,2012,0,2
+Pluvier doré,2013,0,1
+Pouillot de Bonelli,2011,0,2
+Pouillot fitis,2013,0,8
+Tourterelle des bois,2018,0,7
+Traquet motteux,2018,0,2

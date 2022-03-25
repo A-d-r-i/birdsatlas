@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigrette garzette"
-"0";"Avocette élégante"
-"0";"Bécassine sourde"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grand Gravelot"
-"0";"Grimpereau des bois"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Phragmite des joncs"
-"0";"Pipit rousseline"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,7
+Aigrette garzette,2013,0,1
+Avocette élégante,2013,0,2
+Bécassine sourde,2017,0,4
+Canard siffleur,2016,0,1
+Canard souchet,2014,0,1
+Chevalier guignette,2016,0,4
+Cigogne blanche,2018,0,5
+Corbeau freux,2014,0,2
+Engoulevent d'Europe,2017,0,4
+Faucon émerillon,2015,0,1
+Fauvette des jardins,2014,0,11
+Fuligule milouin,2012,0,1
+Gobemouche gris,2017,0,4
+Goéland leucophée,2018,0,2
+Grand-duc d'Europe,2018,0,8
+Grand Gravelot,2017,0,1
+Grimpereau des bois,2017,0,1
+Hibou des marais,2017,0,1
+Hirondelle de rivage,2013,0,1
+Marouette ponctuée,2012,0,2
+Merle à plastron,2014,0,2
+Moineau friquet,2012,0,2
+Mouette rieuse,2018,0,3
+Phragmite des joncs,2017,0,4
+Pipit rousseline,2014,0,1
+Rémiz penduline,2013,0,1
+Rousserolle effarvatte,2018,0,7
+Tichodrome échelette,2016,0,10

@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs ictérine"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Pouillot ibérique"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2014,0,6
+Aigrette garzette,2013,0,1
+Alouette des champs,2010,0,3
+Autour des palombes,2010,0,2
+Bergeronnette printanière,2012,0,6
+Bruant des roseaux,2010,0,1
+Bruant proyer,2009,0,2
+Busard cendré,2012,0,2
+Busard des roseaux,2012,0,5
+Busard Saint-Martin,2012,0,4
+Caille des blés,2009,0,1
+Choucas des tours,2011,0,1
+Cigogne blanche,2012,0,4
+Faucon d'Eléonore,2012,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2017,0,4
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2016,0,5
+Gobemouche noir,2017,0,13
+Goéland leucophée,2018,0,1
+Grand Cormoran,2017,0,8
+Grand-duc d'Europe,2009,0,1
+Grande Aigrette,2014,0,5
+Grimpereau des bois,2018,0,3
+Grive litorne,2018,0,2
+Guêpier d'Europe,2010,0,2
+Hirondelle de rivage,2007,0,1
+Hypolaïs ictérine,2007,0,1
+Linotte mélodieuse,2012,0,6
+Locustelle tachetée,2011,0,2
+Martinet à ventre blanc,2012,0,2
+Merle à plastron,2012,0,1
+Pie-grièche à tête rousse,2010,0,1
+Pipit des arbres,2018,0,11
+Pipit spioncelle,2011,0,1
+Pouillot fitis,2018,0,7
+Pouillot ibérique,2013,0,1
+Rousserolle effarvatte,2009,0,1
+Tarier des prés,2012,0,4
+Tourterelle des bois,2009,0,1
+Traquet motteux,2012,0,4
+Vanneau huppé,2016,0,4

@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant proyer"
-"0";"Cigogne noire"
-"0";"Faucon kobez"
-"0";"Goéland leucophée"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Huppe fasciée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Monticole de roche"
-"0";"Perdrix rouge"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Tarier des prés"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bruant proyer,2010,0,2
+Cigogne noire,2012,0,1
+Faucon kobez,2017,0,1
+Goéland leucophée,2013,0,1
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2017,0,3
+Huppe fasciée,2017,0,4
+Martin-pêcheur d'Europe,2012,0,1
+Moineau friquet,2011,0,2
+Monticole bleu,2018,0,1
+Monticole de roche,2017,0,3
+Perdrix rouge,2009,0,1
+Pouillot fitis,2015,0,2
+Rougequeue à front blanc,2015,0,3
+Tarier des prés,2018,0,2
+Vautour moine,2014,0,4

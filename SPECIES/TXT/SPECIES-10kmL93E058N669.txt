@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Colin de Virginie
-0        Érismature rousse
-0        Fauvette des jardins
-0        Goéland cendré
-0        Harle bièvre
-0        Ibis falcinelle
-0        Moineau friquet
-0        Outarde canepetière
-0        Pouillot de Bonelli
-0        Torcol fourmilier
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Colin de Virginie    2018    0        1
+Érismature rousse    2014    0        1
+Fauvette des jardins 2017    0        3
+Goéland cendré       2018    0        1
+Harle bièvre         2009    0        1
+Ibis falcinelle      2018    0        3
+Moineau friquet      2009    0        1
+Outarde canepetière  2009    0        1
+Pouillot de Bonelli  2009    0        1
+Torcol fourmilier    2016    0        3
 

@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bergeronnette printanière
-0        Busard cendré
-0        Busard des roseaux
-0        Canard colvert
-0        Chevalier culblanc
-0        Choucas des tours
-0        Cigogne blanche
-0        Cigogne noire
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Étourneau sansonnet
-0        Faucon hobereau
-0        Faucon kobez
-0        Fauvette orphée
-0        Gélinotte des bois
-0        Gobemouche gris
-0        Grande Aigrette
-0        Guêpier d'Europe
-0        Hypolaïs polyglotte
-0        Jaseur boréal
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Moineau cisalpin
-0        Moineau soulcie
-0        Petit-duc scops
-0        Pigeon biset domestique
-0        Pluvier guignard
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2015    0        1
+Bergeronnette printanière 2013    0        3
+Busard cendré             2018    0        1
+Busard des roseaux        2007    0        2
+Canard colvert            2016    0        20
+Chevalier culblanc        2007    0        1
+Choucas des tours         2014    0        2
+Cigogne blanche           2012    0        1
+Cigogne noire             2011    0        1
+Cisticole des joncs       2016    0        1
+Corneille mantelée        2011    0        1
+Étourneau sansonnet       2018    0        9
+Faucon hobereau           2013    0        5
+Faucon kobez              2009    0        2
+Fauvette orphée           2014    0        3
+Gélinotte des bois        2015    0        3
+Gobemouche gris           2014    0        6
+Grande Aigrette           2013    0        8
+Guêpier d'Europe          2016    0        2
+Hypolaïs polyglotte       2015    0        2
+Jaseur boréal             2009    0        2
+Loriot d'Europe           2018    0        1
+Martin-pêcheur d'Europe   2017    0        9
+Moineau cisalpin          2011    0        5
+Moineau soulcie           2017    0        3
+Petit-duc scops           2009    0        1
+Pigeon biset domestique   2014    0        3
+Pluvier guignard          2018    0        1
+Sizerin cabaret           2016    0        6
+Sizerin flammé            2016    0        7
+Tourterelle des bois      2009    0        1
 

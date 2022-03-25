@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Fauvette des jardins"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Héron pourpré"
-"0";"Moineau soulcie"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2013,0,1
+Aigle royal,2017,0,1
+Autour des palombes,2019,0,17
+Bécasse des bois,2016,0,1
+Bec-croisé des sapins,2016,0,3
+Bernache du Canada,2011,0,2
+Bihoreau gris,2018,0,3
+Bruant ortolan,2011,0,1
+Busard Saint-Martin,2019,0,12
+Caille des blés,2015,0,7
+Canard souchet,2014,0,2
+Chevalier culblanc,2014,0,3
+Fauvette des jardins,2011,0,3
+Grèbe castagneux,2018,0,2
+Grimpereau des bois,2015,0,1
+Grive mauvis,2019,0,7
+Héron pourpré,2008,0,1
+Moineau soulcie,2011,0,1
+Oedicnème criard,2014,0,4
+Perdrix grise,2011,0,2
+Perruche à collier,2012,0,2
+Petit-duc scops,2017,0,1
+Pie-grièche grise,2018,0,3
+Râle d'eau,2019,0,1
+Sarcelle d'hiver,2009,0,1
+Sizerin flammé,2016,0,1
+Tarier des prés,2017,0,1

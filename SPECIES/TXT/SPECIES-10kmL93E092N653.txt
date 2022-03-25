@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Blongios nain
-0        Bruant ortolan
-0        Canard siffleur
-0        Cassenoix moucheté
-0        Chevalier gambette
-0        Cigogne noire
-0        Cisticole des joncs
-0        Cygne tuberculé
-0        Faucon kobez
-0        Fauvette mélanocéphale
-0        Fauvette passerinette
-0        Fuligule morillon
-0        Gélinotte des bois
-0        Gorgebleue à miroir
-0        Grand-duc d'Europe
-0        Héron garde-boeufs
-0        Hirondelle de rochers
-0        Jaseur boréal
-0        Merle à plastron
-0        Mésange boréale
-0        Perdrix rouge
-0        Petit-duc scops
-0        Petit Gravelot
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Râle d'eau
-0        Rollier d'Europe
-0        Tadorne casarca
-0        Tichodrome échelette
-0        Vanneau huppé
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur alpin        2017    0        1
+Bécasse des bois       2016    0        9
+Bécassine des marais   2018    0        5
+Bec-croisé des sapins  2018    0        7
+Blongios nain          2018    0        1
+Bruant ortolan         2015    0        1
+Canard siffleur        2008    0        1
+Cassenoix moucheté     2015    0        17
+Chevalier gambette     2009    0        1
+Cigogne noire          2011    0        2
+Cisticole des joncs    2018    0        1
+Cygne tuberculé        2011    0        1
+Faucon kobez           2018    0        3
+Fauvette mélanocéphale 2018    0        1
+Fauvette passerinette  2008    0        1
+Fuligule morillon      2008    0        1
+Gélinotte des bois     2010    0        4
+Gorgebleue à miroir    2015    0        1
+Grand-duc d'Europe     2018    0        1
+Héron garde-boeufs     2016    0        1
+Hirondelle de rochers  2015    0        9
+Jaseur boréal          2009    0        5
+Merle à plastron       2008    0        2
+Mésange boréale        2017    0        1
+Perdrix rouge          2015    0        2
+Petit-duc scops        2014    0        4
+Petit Gravelot         2015    0        6
+Pipit spioncelle       2016    0        12
+Pouillot siffleur      2018    0        4
+Râle d'eau             2007    0        4
+Rollier d'Europe       2010    0        1
+Tadorne casarca        2012    0        24
+Tichodrome échelette   2016    0        2
+Vanneau huppé          2014    0        8
+Vautour fauve          2014    0        1
 

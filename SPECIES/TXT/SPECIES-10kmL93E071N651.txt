@@ -1,55 +1,55 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Blongios nain
-0        Bruant fou
-0        Bruant ortolan
-0        Butor étoilé
-0        Canard mandarin
-0        Chevalier stagnatile
-0        Cochevis huppé
-0        Corneille mantelée
-0        Courlis cendré
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Faucon d'Eléonore
-0        Fauvette orphée
-0        Flamant rose
-0        Garrot à oeil d'or
-0        Goéland argenté
-0        Goéland d'Audouin
-0        Goéland marin
-0        Grèbe jougris
-0        Guifette leucoptère
-0        Harle huppé
-0        Harle piette
-0        Hibou des marais
-0        Hirondelle rousseline
-0        Labbe parasite
-0        Macreuse noire
-0        Merle à plastron
-0        Mésange boréale
-0        Mouette de Sabine
-0        Mouette tridactyle
-0        Perruche à collier
-0        Pie-grièche grise
-0        Plongeon arctique
-0        Plongeon catmarin
-0        Pluvier argenté
-0        Pluvier doré
-0        Pouillot à grands sourcils
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Sterne caspienne
-0        Sterne caugek
-0        Sterne hansel
-0        Tadorne casarca
-0        Tichodrome échelette
-0        Tournepierre à collier
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Barge rousse               2015    0        10
+Bécasseau cocorli          2016    0        9
+Bécasseau de Temminck      2015    0        9
+Bécasseau minute           2015    0        1
+Bécasseau sanderling       2015    0        3
+Bécasseau tacheté          2015    0        1
+Blongios nain              2018    0        3
+Bruant fou                 2018    0        9
+Bruant ortolan             2014    0        12
+Butor étoilé               2018    0        1
+Canard mandarin            2017    0        48
+Chevalier stagnatile       2015    0        1
+Cochevis huppé             2008    0        1
+Corneille mantelée         2008    0        12
+Courlis cendré             2018    0        17
+Cygne noir                 2017    0        3
+Engoulevent d'Europe       2013    0        7
+Faucon d'Eléonore          2013    0        2
+Fauvette orphée            2010    0        5
+Flamant rose               2015    0        29
+Garrot à oeil d'or         2018    0        32
+Goéland argenté            2014    0        2
+Goéland d'Audouin          2018    0        1
+Goéland marin              2008    0        1
+Grèbe jougris              2010    0        3
+Guifette leucoptère        2018    0        6
+Harle huppé                2018    0        16
+Harle piette               2009    0        2
+Hibou des marais           2011    0        1
+Hirondelle rousseline      2013    0        1
+Labbe parasite             2017    0        1
+Macreuse noire             2008    0        1
+Merle à plastron           2013    0        5
+Mésange boréale            2016    0        2
+Mouette de Sabine          2008    0        1
+Mouette tridactyle         2009    0        7
+Perruche à collier         2016    0        4
+Pie-grièche grise          2008    0        1
+Plongeon arctique          2012    0        16
+Plongeon catmarin          2018    0        11
+Pluvier argenté            2016    0        1
+Pluvier doré               2013    0        2
+Pouillot à grands sourcils 2015    0        1
+Rousserolle verderolle     2013    0        4
+Sizerin cabaret            2018    0        1
+Sterne caspienne           2014    0        2
+Sterne caugek              2016    0        3
+Sterne hansel              2015    0        2
+Tadorne casarca            2016    0        41
+Tichodrome échelette       2017    0        5
+Tournepierre à collier     2015    0        2
 

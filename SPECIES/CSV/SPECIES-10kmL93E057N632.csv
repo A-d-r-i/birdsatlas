@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Cigogne noire"
-"0";"Grive litorne"
-"0";"Pouillot fitis"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2016,0,3
+Cigogne noire,2018,0,1
+Grive litorne,2015,0,1
+Pouillot fitis,2018,0,2
+Vanneau huppé,2018,0,1

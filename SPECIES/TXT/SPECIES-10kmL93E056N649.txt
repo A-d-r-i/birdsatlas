@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bruant fou
-0        Butor étoilé
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Cigogne noire
-0        Cincle plongeur
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Foulque macroule
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grèbe huppé
-0        Héron pourpré
-0        Martinet noir
-0        Pic épeichette
-0        Pic mar
-0        Pipit des arbres
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Traquet motteux
-0        Vanneau huppé
-0        Vautour fauve
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Autour des palombes      2017    0        4
+Bruant fou               2008    0        1
+Butor étoilé             2015    0        1
+Caille des blés          2017    0        2
+Chevalier culblanc       2016    0        1
+Chevalier guignette      2017    0        4
+Cigogne noire            2017    0        1
+Cincle plongeur          2018    0        8
+Faisan de Colchide       2009    0        2
+Faucon émerillon         2009    0        1
+Faucon hobereau          2009    0        1
+Fauvette des jardins     2010    0        3
+Fauvette grisette        2017    0        6
+Foulque macroule         2009    0        1
+Gobemouche gris          2017    0        2
+Gobemouche noir          2013    0        1
+Grèbe huppé              2016    0        12
+Héron pourpré            2017    0        2
+Martinet noir            2016    0        6
+Pic épeichette           2015    0        1
+Pic mar                  2018    0        4
+Pipit des arbres         2017    0        7
+Pluvier doré             2015    0        1
+Pouillot fitis           2018    0        6
+Pouillot siffleur        2015    0        2
+Rossignol philomèle      2016    0        7
+Rougequeue à front blanc 2016    0        4
+Sarcelle d'hiver         2019    0        10
+Tarier des prés          2016    0        2
+Traquet motteux          2017    0        5
+Vanneau huppé            2010    0        8
+Vautour fauve            2018    0        1
 

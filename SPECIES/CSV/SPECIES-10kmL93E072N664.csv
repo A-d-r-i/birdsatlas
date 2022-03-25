@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Chevalier sylvain"
-"0";"Circaète Jean-le-Blanc"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Garrot à oeil d'or"
-"0";"Gorgebleue à miroir"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Perruche ondulée"
-"0";"Pie-grièche à tête rousse"
-"0";"Sarcelle d'été"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,18
+Bihoreau gris,2017,0,11
+Busard cendré,2011,0,3
+Butor étoilé,2013,0,2
+Chevalier sylvain,2013,0,1
+Circaète Jean-le-Blanc,2018,0,1
+Courlis cendré,2015,0,2
+Échasse blanche,2017,0,1
+Engoulevent d'Europe,2013,0,7
+Garrot à oeil d'or,2018,0,1
+Gorgebleue à miroir,2016,0,2
+Locustelle tachetée,2015,0,8
+Mésange boréale,2013,0,1
+Perruche ondulée,2017,0,1
+Pie-grièche à tête rousse,2012,0,3
+Sarcelle d'été,2018,0,2
+Tadorne de Belon,2017,0,1
+Torcol fourmilier,2017,0,7
+Vautour fauve,2017,0,1

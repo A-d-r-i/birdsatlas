@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Busard cendré"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Fauvette babillarde"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs ictérine"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Oie des moissons"
-"0";"Panure à moustaches"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,5
+Bécassine sourde,2007,0,2
+Bec-croisé des sapins,2015,0,4
+Busard cendré,2013,0,4
+Courlis cendré,2016,0,9
+Cygne noir,2013,0,1
+Échasse blanche,2016,0,14
+Fauvette babillarde,2018,0,4
+Hibou des marais,2016,0,1
+Hirondelle de rivage,2013,0,2
+Hypolaïs ictérine,2013,0,1
+Hypolaïs polyglotte,2018,0,7
+Locustelle tachetée,2016,0,5
+Mouette rieuse,2017,0,10
+Oie des moissons,2010,0,2
+Panure à moustaches,2008,0,1
+Petit-duc scops,2016,0,3
+Phragmite des joncs,2011,0,2
+Pluvier doré,2012,0,3
+Râle d'eau,2009,0,1
+Rémiz penduline,2017,0,3
+Rousserolle turdoïde,2009,0,1
+Sarcelle d'été,2015,0,3

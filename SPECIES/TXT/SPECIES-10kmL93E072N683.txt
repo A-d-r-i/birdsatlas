@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bruant jaune
-0        Busard cendré
-0        Busard des roseaux
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Coucou gris
-0        Effraie des clochers
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Grive draine
-0        Grive mauvis
-0        Hirondelle de fenêtre
-0        Hirondelle rustique
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Mésange noire
-0        Perdrix grise
-0        Pic noir
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pluvier doré
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette grise       2015    0        11
+Bergeronnette printanière 2012    0        9
+Bruant jaune              2013    0        15
+Busard cendré             2012    0        2
+Busard des roseaux        2013    0        1
+Chevalier guignette       2013    0        1
+Chevêche d'Athéna         2015    0        2
+Coucou gris               2012    0        3
+Effraie des clochers      2015    0        2
+Étourneau sansonnet       2017    0        22
+Faisan de Colchide        2017    0        6
+Faucon hobereau           2014    0        1
+Fauvette des jardins      2012    0        3
+Fauvette grisette         2013    0        15
+Grive draine              2013    0        5
+Grive mauvis              2012    0        2
+Hirondelle de fenêtre     2013    0        8
+Hirondelle rustique       2015    0        17
+Hypolaïs polyglotte       2013    0        4
+Loriot d'Europe           2013    0        5
+Mésange noire             2015    0        1
+Perdrix grise             2013    0        12
+Pic noir                  2009    0        1
+Pigeon colombin           2012    0        3
+Pipit des arbres          2013    0        9
+Pluvier doré              2012    0        3
+Roitelet huppé            2019    0        10
+Rossignol philomèle       2013    0        4
+Tourterelle des bois      2012    0        6
 

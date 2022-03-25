@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasseau variable"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Conure veuve"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Garrot à oeil d'or"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grimpereau des bois"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pigeon colombin"
-"0";"Rémiz penduline"
-"0";"Sterne caspienne"
-"0";"Tadorne casarca"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle royal,2017,0,9
+Bécasseau variable,2018,0,2
+Bécassine sourde,2018,0,3
+Bec-croisé des sapins,2018,0,4
+Busard cendré,2013,0,1
+Busard des roseaux,2018,0,40
+Caille des blés,2014,0,5
+Canard souchet,2018,0,10
+Cassenoix moucheté,2017,0,1
+Chevalier aboyeur,2016,0,5
+Chevalier sylvain,2014,0,5
+Conure veuve,2008,0,1
+Corneille mantelée,2009,0,1
+Courlis cendré,2009,0,2
+Échasse blanche,2017,0,2
+Faucon émerillon,2016,0,8
+Fauvette des jardins,2017,0,2
+Fauvette grisette,2013,0,3
+Garrot à oeil d'or,2015,0,2
+Gorgebleue à miroir,2015,0,1
+Grèbe à cou noir,2018,0,4
+Grimpereau des bois,2018,0,1
+Guifette noire,2009,0,1
+Hibou moyen-duc,2013,0,1
+Linotte mélodieuse,2018,0,15
+Locustelle tachetée,2012,0,1
+Marouette ponctuée,2015,0,1
+Merle à plastron,2018,0,2
+Mésange boréale,2017,0,7
+Oie cendrée,2018,0,7
+Perdrix grise,2018,0,3
+Petit-duc scops,2018,0,1
+Pigeon colombin,2015,0,8
+Rémiz penduline,2015,0,2
+Sterne caspienne,2017,0,1
+Tadorne casarca,2017,0,1
+Traquet motteux,2013,0,4

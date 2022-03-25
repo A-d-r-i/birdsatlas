@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Avocette élégante
-0        Bécasseau variable
-0        Bec-croisé des sapins
-0        Canard pilet
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Goéland argenté
-0        Gorgebleue à miroir
-0        Grèbe à cou noir
-0        Merle à plastron
-0        Moineau friquet
-0        Nette rousse
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Petit-duc scops
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pluvier doré
-0        Pouillot siffleur
-0        Râle d'eau
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle botté           2009    0        2
+Avocette élégante     2011    0        2
+Bécasseau variable    2012    0        3
+Bec-croisé des sapins 2017    0        10
+Canard pilet          2011    0        2
+Canard souchet        2016    0        2
+Chevalier aboyeur     2018    0        6
+Chevalier arlequin    2012    0        1
+Cochevis huppé        2012    0        2
+Engoulevent d'Europe  2017    0        5
+Faucon émerillon      2018    0        5
+Fauvette des jardins  2018    0        10
+Fuligule morillon     2009    0        1
+Goéland argenté       2012    0        1
+Gorgebleue à miroir   2018    0        2
+Grèbe à cou noir      2018    0        2
+Merle à plastron      2012    0        1
+Moineau friquet       2015    0        4
+Nette rousse          2015    0        2
+Oie cendrée           2016    0        6
+Ouette d'Egypte       2012    0        6
+Petit-duc scops       2017    0        2
+Petit Gravelot        2014    0        7
+Phragmite des joncs   2009    0        1
+Pluvier doré          2018    0        13
+Pouillot siffleur     2009    0        1
+Râle d'eau            2009    0        1
+Sarcelle d'été        2009    0        1
+Sizerin cabaret       2018    0        5
+Sizerin flammé        2018    0        6
+Tadorne de Belon      2012    0        3
+Tarier des prés       2017    0        3
+Tichodrome échelette  2007    0        1
 

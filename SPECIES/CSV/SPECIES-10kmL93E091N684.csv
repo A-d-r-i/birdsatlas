@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne de Bewick"
-"0";"Cygne noir"
-"0";"Eider à duvet"
-"0";"Faucon émerillon"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Harle piette"
-"0";"Héron garde-boeufs"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Nette rousse"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Râle des genêts"
-"0";"Rousserolle verderolle"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2014,0,3
+Bécasseau variable,2014,0,5
+Bécasse des bois,2015,0,3
+Blongios nain,2014,0,2
+Butor étoilé,2012,0,3
+Canard pilet,2013,0,5
+Canard souchet,2015,0,11
+Chevalier gambette,2014,0,7
+Combattant varié,2013,0,2
+Courlis cendré,2012,0,1
+Cygne de Bewick,2017,0,12
+Cygne noir,2014,0,2
+Eider à duvet,2007,0,1
+Faucon émerillon,2011,0,2
+Fuligule nyroca,2012,0,4
+Garrot à oeil d'or,2015,0,6
+Goéland brun,2017,0,1
+Goéland leucophée,2009,0,1
+Grand Gravelot,2014,0,1
+Grèbe à cou noir,2013,0,1
+Harle piette,2017,0,9
+Héron garde-boeufs,2013,0,1
+Huîtrier pie,2013,0,1
+Locustelle tachetée,2013,0,3
+Macreuse brune,2009,0,1
+Merle à plastron,2013,0,1
+Nette rousse,2010,0,2
+Petit-duc scops,2011,0,3
+Pie-grièche grise,2015,0,20
+Pigeon colombin,2014,0,3
+Pinson du Nord,2018,0,1
+Pluvier doré,2014,0,1
+Râle des genêts,2013,0,1
+Rousserolle verderolle,2018,0,1
+Traquet motteux,2018,0,3

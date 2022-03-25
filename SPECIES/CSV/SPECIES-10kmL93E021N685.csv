@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pluvier doré"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2015,0,2
+Busard des roseaux,2014,0,3
+Caille des blés,2009,0,1
+Canard souchet,2009,0,1
+Chevalier culblanc,2012,0,2
+Chevalier guignette,2014,0,1
+Courlis corlieu,2012,0,1
+Faucon émerillon,2011,0,3
+Faucon hobereau,2016,0,18
+Fauvette pitchou,2009,0,4
+Foulque macroule,2009,0,2
+Fuligule morillon,2009,0,1
+Huppe fasciée,2014,0,1
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2009,0,3
+Perdrix grise,2014,0,3
+Perdrix rouge,2016,0,15
+Pluvier doré,2016,0,16
+Tadorne de Belon,2009,0,1
+Tarier des prés,2015,0,1

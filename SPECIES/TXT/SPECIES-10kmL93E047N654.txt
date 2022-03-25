@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chouette hulotte
-0        Courlis cendré
-0        Cygne tuberculé
-0        Héron pourpré
-0        Hibou des marais
-0        Petit Gravelot
-0        Pluvier doré
-0        Sarcelle d'hiver
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Barge rousse                            2015    0        1
+Bécasse des bois                        2016    0        1
+Bécassine des marais                    2018    0        2
+Bergeronnette flavéole (M.f.flavissima) 2015    0        2
+Chevalier culblanc                      2016    0        1
+Chevalier guignette                     2016    0        3
+Chouette hulotte                        2017    0        28
+Courlis cendré                          2015    0        2
+Cygne tuberculé                         2009    0        1
+Héron pourpré                           2015    0        1
+Hibou des marais                        2016    0        6
+Petit Gravelot                          2018    0        1
+Pluvier doré                            2017    0        10
+Sarcelle d'hiver                        2015    0        1
 

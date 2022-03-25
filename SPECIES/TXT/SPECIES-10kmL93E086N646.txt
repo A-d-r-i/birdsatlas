@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bernache nonnette
-0        Bouvreuil pivoine
-0        Busard pâle
-0        Butor étoilé
-0        Canard chipeau
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier gambette
-0        Cygne tuberculé
-0        Échasse blanche
-0        Faucon émerillon
-0        Faucon kobez
-0        Fuligule morillon
-0        Grand Gravelot
-0        Guifette moustac
-0        Harle bièvre
-0        Hirondelle de rochers
-0        Oedicnème criard
-0        Oie cendrée
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pluvier doré
-0        Pluvier guignard
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Spatule blanche
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigrette garzette      2018    0        14
+Bécasse des bois       2016    0        4
+Bernache nonnette      2012    0        1
+Bouvreuil pivoine      2017    0        2
+Busard pâle            2013    0        1
+Butor étoilé           2016    0        4
+Canard chipeau         2018    0        6
+Canard pilet           2018    0        2
+Canard siffleur        2017    0        1
+Chevalier gambette     2017    0        1
+Cygne tuberculé        2013    0        4
+Échasse blanche        2018    0        1
+Faucon émerillon       2015    0        7
+Faucon kobez           2016    0        2
+Fuligule morillon      2018    0        1
+Grand Gravelot         2017    0        1
+Guifette moustac       2016    0        1
+Harle bièvre           2013    0        2
+Hirondelle de rochers  2015    0        1
+Oedicnème criard       2015    0        1
+Oie cendrée            2015    0        3
+Petit Gravelot         2017    0        6
+Pigeon colombin        2018    0        5
+Pluvier doré           2015    0        1
+Pluvier guignard       2014    0        2
+Pouillot de Bonelli    2018    0        1
+Pouillot siffleur      2018    0        4
+Rousserolle verderolle 2007    0        1
+Spatule blanche        2018    0        1
 

@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Cincle plongeur"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Serin cini"
-"0";"Tadorne de Belon"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2010,0,2
+Bergeronnette printanière,2016,0,2
+Bruant jaune,2018,0,17
+Busard cendré,2010,0,1
+Busard Saint-Martin,2015,0,5
+Cincle plongeur,2017,0,1
+Épervier d'Europe,2012,0,3
+Faisan de Colchide,2016,0,2
+Gallinule poule-d'eau,2010,0,3
+Gobemouche gris,2017,0,1
+Grand Cormoran,2018,0,1
+Grèbe castagneux,2010,0,2
+Grive litorne,2016,0,2
+Grosbec casse-noyaux,2017,0,4
+Hibou moyen-duc,2014,0,1
+Martinet noir,2010,0,5
+Martin-pêcheur d'Europe,2018,0,5
+Mésange nonnette,2018,0,10
+Milan royal,2010,0,3
+Oedicnème criard,2010,0,1
+Perdrix grise,2018,0,2
+Pic épeichette,2016,0,3
+Pouillot fitis,2010,0,2
+Pouillot siffleur,2010,0,2
+Serin cini,2010,0,3
+Tadorne de Belon,2016,0,1
+Tarin des aulnes,2018,0,3
+Vanneau huppé,2010,0,1
+Verdier d'Europe,2017,0,9

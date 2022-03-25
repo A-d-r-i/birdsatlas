@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Bécasse des bois
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Busard des roseaux
-0        Cigogne noire
-0        Faisan de Colchide
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Grive litorne
-0        Locustelle tachetée
-0        Merle à plastron
-0        Pigeon colombin
-0        Pouillot de Bonelli
-0        Rousserolle effarvatte
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur mouchet      2018    0        2
+Alouette des champs    2017    0        4
+Bécasse des bois       2008    0        2
+Bouvreuil pivoine      2018    0        3
+Bruant fou             2017    0        3
+Busard des roseaux     2017    0        1
+Cigogne noire          2013    0        1
+Faisan de Colchide     2014    0        4
+Fauvette des jardins   2018    0        6
+Gallinule poule-d'eau  2009    0        1
+Grive litorne          2017    0        2
+Locustelle tachetée    2009    0        1
+Merle à plastron       2017    0        1
+Pigeon colombin        2013    0        1
+Pouillot de Bonelli    2018    0        7
+Rousserolle effarvatte 2009    0        1
+Tarin des aulnes       2018    0        3
+Torcol fourmilier      2016    0        3
+Traquet motteux        2017    0        6
 

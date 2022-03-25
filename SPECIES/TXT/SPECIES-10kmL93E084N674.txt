@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Busard des roseaux
-0        Chardonneret élégant
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cincle plongeur
-0        Corbeau freux
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Grand Corbeau
-0        Grand Cormoran
-0        Grive mauvis
-0        Héron cendré
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Linotte mélodieuse
-0        Martinet noir
-0        Mésange boréale
-0        Nette rousse
-0        Pic cendré
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pie-grièche grise
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Serin cini
-0        Tarier pâtre
-0        Vanneau huppé
-0        Verdier d'Europe
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Accenteur mouchet        2012    0        10
+Busard des roseaux       2013    0        2
+Chardonneret élégant     2012    0        7
+Chevalier culblanc       2012    0        4
+Chevalier guignette      2018    0        3
+Chevêche d'Athéna        2017    0        16
+Cigogne blanche          2014    0        1
+Cincle plongeur          2013    0        6
+Corbeau freux            2013    0        3
+Cygne tuberculé          2010    0        2
+Effraie des clochers     2017    0        5
+Étourneau sansonnet      2018    0        11
+Faisan de Colchide       2012    0        2
+Fauvette babillarde      2018    0        4
+Fauvette des jardins     2012    0        6
+Fauvette grisette        2012    0        5
+Gallinule poule-d'eau    2013    0        6
+Grand Corbeau            2017    0        1
+Grand Cormoran           2012    0        2
+Grive mauvis             2013    0        2
+Héron cendré             2014    0        11
+Héron garde-boeufs       2012    0        1
+Hibou moyen-duc          2017    0        10
+Hirondelle de fenêtre    2011    0        2
+Hirondelle de rivage     2013    0        5
+Linotte mélodieuse       2011    0        6
+Martinet noir            2012    0        4
+Mésange boréale          2017    0        1
+Nette rousse             2012    0        1
+Pic cendré               2011    0        2
+Pic épeichette           2011    0        3
+Pie-grièche écorcheur    2018    0        7
+Pie-grièche grise        2011    0        1
+Rossignol philomèle      2012    0        2
+Rougequeue à front blanc 2011    0        3
+Rougequeue noir          2012    0        3
+Rousserolle effarvatte   2013    0        3
+Sarcelle d'hiver         2012    0        1
+Serin cini               2012    0        3
+Tarier pâtre             2012    0        6
+Vanneau huppé            2016    0        4
+Verdier d'Europe         2018    0        8
 

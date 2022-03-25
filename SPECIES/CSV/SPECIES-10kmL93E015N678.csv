@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau rousset"
-"0";"Bécasseau semipalmé"
-"0";"Bécasseau tacheté"
-"0";"Bécasseau violet"
-"0";"Blongios nain"
-"0";"Bruant nain"
-"0";"Busard cendré"
-"0";"Crabier chevelu"
-"0";"Crave à bec rouge"
-"0";"Érismature rousse"
-"0";"Fauvette passerinette"
-"0";"Fuligule à tête noire"
-"0";"Fuligule milouinan"
-"0";"Goéland à ailes blanches"
-"0";"Harle piette"
-"0";"Locustelle de Pallas"
-"0";"Marouette de Baillon"
-"0";"Martinet à ventre blanc"
-"0";"Mouette de Sabine"
-"0";"Oedicnème criard"
-"0";"Oie des moissons"
-"0";"Phalarope à bec large"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot brun"
-"0";"Puffin des Anglais"
-"0";"Rousserolle isabelle"
-"0";"Sterne de Dougall"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,2
+Bécasseau rousset,2016,0,7
+Bécasseau semipalmé,2017,0,6
+Bécasseau tacheté,2017,0,18
+Bécasseau violet,2017,0,1
+Blongios nain,2017,0,2
+Bruant nain,2009,0,1
+Busard cendré,2014,0,7
+Crabier chevelu,2010,0,1
+Crave à bec rouge,2017,0,5
+Érismature rousse,2008,0,1
+Fauvette passerinette,2016,0,1
+Fuligule à tête noire,2017,0,5
+Fuligule milouinan,2017,0,13
+Goéland à ailes blanches,2015,0,2
+Harle piette,2010,0,3
+Locustelle de Pallas,2018,0,3
+Marouette de Baillon,2017,0,2
+Martinet à ventre blanc,2015,0,2
+Mouette de Sabine,2011,0,1
+Oedicnème criard,2017,0,1
+Oie des moissons,2018,0,4
+Phalarope à bec large,2018,0,6
+Pie-grièche à tête rousse,2011,0,2
+Pouillot brun,2018,0,1
+Puffin des Anglais,2014,0,1
+Rousserolle isabelle,2017,0,2
+Sterne de Dougall,2018,0,2

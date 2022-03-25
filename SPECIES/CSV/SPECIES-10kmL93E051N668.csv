@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Faucon émerillon"
-"0";"Fuligule morillon"
-"0";"Gobemouche noir"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,1
+Bécassine des marais,2018,0,3
+Bruant des roseaux,2019,0,8
+Busard des roseaux,2013,0,1
+Canard souchet,2016,0,2
+Chevalier aboyeur,2017,0,2
+Chevalier culblanc,2014,0,2
+Chevalier guignette,2015,0,3
+Cigogne noire,2018,0,1
+Courlis cendré,2008,0,1
+Cygne tuberculé,2018,0,1
+Faucon émerillon,2014,0,3
+Fuligule morillon,2012,0,2
+Gobemouche noir,2017,0,3
+Grèbe huppé,2013,0,3
+Locustelle tachetée,2017,0,10
+Merle à plastron,2012,0,1
+Mouette rieuse,2013,0,1
+Oie cendrée,2013,0,1
+Perdrix rouge,2018,0,4
+Pouillot siffleur,2016,0,3
+Rousserolle effarvatte,2016,0,2
+Torcol fourmilier,2013,0,1

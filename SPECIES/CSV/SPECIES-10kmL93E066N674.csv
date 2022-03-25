@@ -1,31 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bruant jaune"
-"0";"Chevalier aboyeur"
-"0";"Corbeau freux"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grive litorne"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,2
+Autour des palombes,2018,0,2
+Bec-croisé des sapins,2009,0,2
+Bruant jaune,2009,0,2
+Chevalier aboyeur,2015,0,1
+Corbeau freux,2009,0,2
+Cygne noir,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Fauvette grisette,2017,0,2
+Fauvette pitchou,2009,0,2
+Gallinule poule-d'eau,2009,0,2
+Gobemouche gris,2017,0,2
+Grive litorne,2009,0,1
+Héron pourpré,2016,0,1
+Hibou moyen-duc,2009,0,1
+Linotte mélodieuse,2009,0,1
+Locustelle tachetée,2016,0,2
+Mésange boréale,2018,0,2
+Moineau friquet,2019,0,1
+Pigeon colombin,2016,0,2
+Pipit des arbres,2016,0,3
+Pouillot siffleur,2016,0,3
+Râle d'eau,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Torcol fourmilier,2018,0,8

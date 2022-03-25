@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Faucon pèlerin"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Pigeon colombin"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,4
+Autour des palombes,2011,0,5
+Bécasse des bois,2018,0,1
+Bruant fou,2012,0,3
+Bruant jaune,2016,0,1
+Chevalier gambette,2018,0,2
+Chevalier sylvain,2018,0,3
+Cigogne blanche,2017,0,3
+Cigogne noire,2012,0,1
+Corbeau freux,2015,0,4
+Crabier chevelu,2018,0,1
+Échasse blanche,2018,0,1
+Faucon pèlerin,2010,0,4
+Grive draine,2012,0,1
+Grive litorne,2011,0,2
+Hibou moyen-duc,2011,0,2
+Oedicnème criard,2016,0,3
+Perdrix rouge,2017,0,2
+Perruche à collier,2014,0,3
+Pigeon colombin,2017,0,1
+Pipit à gorge rousse,2018,0,2
+Pipit de Richard,2015,0,6
+Pouillot à grands sourcils,2018,0,1
+Pouillot fitis,2018,0,1
+Pouillot siffleur,2011,0,1
+Rousserolle effarvatte,2017,0,3

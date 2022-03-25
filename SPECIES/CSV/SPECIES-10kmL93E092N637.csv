@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Chocard à bec jaune"
-"0";"Chouette de Tengmalm"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Monticole de roche"
-"0";"Niverolle alpine"
-"0";"Oedicnème criard"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Tarin des aulnes"
-"0";"Tétras lyre"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2014,0,1
+Autour des palombes,2017,0,5
+Chocard à bec jaune,2016,0,5
+Chouette de Tengmalm,2016,0,1
+Cincle plongeur,2016,0,2
+Effraie des clochers,2014,0,1
+Faucon émerillon,2018,0,1
+Fauvette babillarde,2010,0,2
+Fauvette des jardins,2013,0,3
+Foulque macroule,2014,0,3
+Gobemouche gris,2017,0,1
+Grande Aigrette,2018,0,8
+Grimpereau des bois,2013,0,2
+Merle à plastron,2014,0,2
+Mésange boréale,2013,0,3
+Monticole de roche,2017,0,4
+Niverolle alpine,2016,0,1
+Oedicnème criard,2017,0,2
+Petit Gravelot,2018,0,1
+Pie-grièche grise,2013,0,10
+Pigeon biset domestique,2014,0,1
+Pipit rousseline,2018,0,1
+Pouillot siffleur,2007,0,1
+Rousserolle effarvatte,2017,0,2
+Tarin des aulnes,2016,0,6
+Tétras lyre,2014,0,6
+Tichodrome échelette,2009,0,2

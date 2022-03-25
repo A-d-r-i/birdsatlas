@@ -1,62 +1,62 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Aigle botté
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette des ruisseaux
-0        Bouscarle de Cetti
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant ortolan
-0        Bruant zizi
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis cendré
-0        Échasse blanche
-0        Effraie des clochers
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Gobemouche noir
-0        Grand Gravelot
-0        Grive litorne
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Moineau friquet
-0        Oie cendrée
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pie-grièche méridionale
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Roitelet huppé
-0        Rougequeue à front blanc
-0        Serin cini
-0        Tournepierre à collier
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2017    0        7
+Aigle botté                 2010    0        2
+Autour des palombes         2015    0        3
+Barge à queue noire         2012    0        2
+Bécasseau cocorli           2012    0        3
+Bécasseau de Temminck       2012    0        1
+Bécasseau sanderling        2012    0        2
+Bécasseau variable          2012    0        3
+Bécassine des marais        2019    0        2
+Bécassine sourde            2019    0        1
+Bergeronnette des ruisseaux 2015    0        6
+Bouscarle de Cetti          2015    0        1
+Bouvreuil pivoine           2012    0        3
+Bruant des roseaux          2019    0        12
+Bruant jaune                2012    0        3
+Bruant ortolan              2010    0        4
+Bruant zizi                 2019    0        10
+Chevalier aboyeur           2018    0        6
+Chevalier arlequin          2012    0        2
+Chevalier culblanc          2013    0        1
+Chevalier gambette          2012    0        3
+Chevalier guignette         2012    0        2
+Chevalier sylvain           2012    0        4
+Chevêche d'Athéna           2015    0        1
+Cochevis huppé              2010    0        1
+Combattant varié            2012    0        1
+Courlis cendré              2010    0        2
+Échasse blanche             2012    0        3
+Effraie des clochers        2016    0        12
+Faucon hobereau             2017    0        5
+Faucon pèlerin              2010    0        2
+Gallinule poule-d'eau       2010    0        2
+Gobemouche noir             2013    0        7
+Grand Gravelot              2012    0        5
+Grive litorne               2010    0        4
+Grive musicienne            2017    0        50
+Grosbec casse-noyaux        2010    0        1
+Hirondelle de fenêtre       2012    0        3
+Hirondelle de rivage        2018    0        6
+Locustelle tachetée         2017    0        2
+Martinet noir               2017    0        4
+Martin-pêcheur d'Europe     2009    0        1
+Mésange noire               2012    0        6
+Moineau friquet             2016    0        9
+Oie cendrée                 2008    0        1
+Perdrix rouge               2013    0        1
+Petit Gravelot              2013    0        8
+Pic épeichette              2017    0        7
+Pie-grièche écorcheur       2018    0        8
+Pie-grièche méridionale     2013    0        4
+Pigeon colombin             2010    0        1
+Pipit spioncelle            2014    0        3
+Pluvier doré                2011    0        9
+Pouillot de Bonelli         2015    0        6
+Roitelet huppé              2013    0        1
+Rougequeue à front blanc    2018    0        17
+Serin cini                  2012    0        3
+Tournepierre à collier      2012    0        3
 

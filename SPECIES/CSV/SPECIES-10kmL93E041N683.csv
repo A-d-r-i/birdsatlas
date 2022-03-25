@@ -1,5 +1,2 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard siffleur"
-"0";"Hibou moyen-duc"
+frname,lastobs,newcount,oldcount
+Hibou moyen-duc,2009,0,1

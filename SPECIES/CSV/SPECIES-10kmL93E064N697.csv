@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Blongios nain"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Pipit farlouse"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Autour des palombes,2009,0,1
+Bécasseau variable,2013,0,1
+Bécassine des marais,2013,0,1
+Bergeronnette printanière,2018,0,8
+Blongios nain,2009,0,1
+Bruant des roseaux,2013,0,2
+Bruant proyer,2015,0,21
+Busard Saint-Martin,2014,0,11
+Chevêche d'Athéna,2015,0,12
+Faucon hobereau,2014,0,4
+Fauvette babillarde,2015,0,2
+Goéland leucophée,2009,0,1
+Grande Aigrette,2013,0,1
+Grimpereau des bois,2009,0,1
+Grive litorne,2013,0,6
+Grosbec casse-noyaux,2018,0,8
+Hibou moyen-duc,2009,0,2
+Hirondelle de rivage,2014,0,1
+Huppe fasciée,2011,0,1
+Hypolaïs polyglotte,2013,0,2
+Locustelle tachetée,2009,0,1
+Merle à plastron,2015,0,1
+Mouette mélanocéphale,2014,0,1
+Oie à tête barrée,2013,0,1
+Oie cendrée,2013,0,1
+Perdrix grise,2015,0,64
+Perruche à collier,2015,0,1
+Petit Gravelot,2013,0,16
+Phragmite des joncs,2009,0,1
+Pic épeichette,2013,0,3
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2009,0,2
+Pipit farlouse,2014,0,1
+Râle d'eau,2009,0,1
+Rousserolle effarvatte,2014,0,2
+Sarcelle d'hiver,2013,0,1
+Tarier pâtre,2014,0,7
+Tarin des aulnes,2017,0,56
+Tourterelle des bois,2014,0,4
+Traquet motteux,2014,0,3

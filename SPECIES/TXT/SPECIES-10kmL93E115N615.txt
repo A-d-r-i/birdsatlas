@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Crabier chevelu
-0        Goéland d'Audouin
-0        Goéland leucophée
-0        Grand Corbeau
-0        Hirondelle de fenêtre
-0        Martinet pâle
-0        Puffin cendré
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Crabier chevelu       2007    0        1
+Goéland d'Audouin     2018    0        1
+Goéland leucophée     2018    0        2
+Grand Corbeau         2017    0        2
+Hirondelle de fenêtre 2017    0        1
+Martinet pâle         2018    0        2
+Puffin cendré         2015    0        1
 

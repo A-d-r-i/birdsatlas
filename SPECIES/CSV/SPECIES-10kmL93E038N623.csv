@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Courlis cendré"
-"0";"Crave à bec rouge"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Gallinule poule-d'eau"
-"0";"Grive litorne"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Linotte mélodieuse"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Perdrix grise"
-"0";"Pipit des arbres"
-"0";"Rollier d'Europe"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2016,0,6
+Bécasse des bois,2015,0,1
+Bruant proyer,2016,0,5
+Caille des blés,2010,0,2
+Chevêche d'Athéna,2011,0,2
+Cigogne noire,2011,0,3
+Cisticole des joncs,2009,0,1
+Courlis cendré,2016,0,1
+Crave à bec rouge,2008,0,1
+Engoulevent d'Europe,2015,0,1
+Faisan de Colchide,2017,0,1
+Gallinule poule-d'eau,2012,0,1
+Grive litorne,2012,0,2
+Héron pourpré,2013,0,1
+Hirondelle de rivage,2016,0,2
+Linotte mélodieuse,2012,0,4
+Mésange huppée,2017,0,1
+Mésange noire,2017,0,1
+Perdrix grise,2009,0,1
+Pipit des arbres,2010,0,6
+Rollier d'Europe,2011,0,1
+Tarier des prés,2017,0,1
+Torcol fourmilier,2017,0,4

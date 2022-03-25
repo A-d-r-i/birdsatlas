@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pipit spioncelle"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,7
+Bécasse des bois,2014,0,7
+Bécassine des marais,2016,0,1
+Bec-croisé des sapins,2014,0,1
+Bouvreuil pivoine,2012,0,7
+Caille des blés,2017,0,5
+Chevalier culblanc,2013,0,1
+Cincle plongeur,2015,0,8
+Fauvette babillarde,2017,0,5
+Fauvette des jardins,2018,0,9
+Fauvette grisette,2017,0,8
+Gobemouche gris,2018,0,4
+Gobemouche noir,2008,0,1
+Grèbe castagneux,2009,0,2
+Grimpereau des bois,2018,0,3
+Grosbec casse-noyaux,2018,0,17
+Hibou moyen-duc,2012,0,3
+Huppe fasciée,2015,0,1
+Hypolaïs polyglotte,2017,0,5
+Martin-pêcheur d'Europe,2018,0,9
+Mésange noire,2014,0,2
+Moineau friquet,2013,0,7
+Pic cendré,2012,0,2
+Pie-grièche grise,2012,0,6
+Pigeon biset domestique,2018,0,8
+Pipit spioncelle,2012,0,4
+Roitelet à triple bandeau,2018,0,6
+Roitelet huppé,2018,0,4
+Sarcelle d'hiver,2012,0,2
+Tadorne de Belon,2013,0,1
+Tarier des prés,2010,0,1
+Torcol fourmilier,2013,0,1

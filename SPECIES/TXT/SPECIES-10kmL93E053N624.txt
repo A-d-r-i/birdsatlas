@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Autour des palombes
-0        Bergeronnette printanière
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Hibou moyen-duc
-0        Linotte mélodieuse
-0        Mésange noire
-0        Mésange nonnette
-0        Pigeon biset domestique
-0        Pipit des arbres
-0        Pipit rousseline
-0        Roitelet huppé
-0        Sarcelle d'hiver
-0        Serin cini
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2018    0        2
+Autour des palombes       2016    0        1
+Bergeronnette printanière 2014    0        1
+Cigogne blanche           2019    0        1
+Circaète Jean-le-Blanc    2009    0        1
+Hibou moyen-duc           2016    0        2
+Linotte mélodieuse        2014    0        2
+Mésange noire             2017    0        1
+Mésange nonnette          2009    0        1
+Pigeon biset domestique   2018    0        1
+Pipit des arbres          2014    0        3
+Pipit rousseline          2009    0        1
+Roitelet huppé            2009    0        1
+Sarcelle d'hiver          2017    0        2
+Serin cini                2018    0        3
+Vanneau huppé             2016    0        1
 

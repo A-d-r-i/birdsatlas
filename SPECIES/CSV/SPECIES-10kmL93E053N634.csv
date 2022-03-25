@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Canard colvert"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Hirondelle de fenêtre"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Moineau domestique"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,1
+Bergeronnette des ruisseaux,2009,0,1
+Bruant des roseaux,2017,0,1
+Bruant proyer,2018,0,2
+Busard cendré,2015,0,1
+Canard colvert,2014,0,2
+Coucou gris,2014,0,3
+Engoulevent d'Europe,2009,0,1
+Faisan de Colchide,2017,0,2
+Faucon hobereau,2015,0,2
+Fauvette grisette,2015,0,3
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2014,0,2
+Goéland leucophée,2017,0,1
+Grive draine,2015,0,4
+Grive litorne,2017,0,1
+Grive mauvis,2017,0,4
+Hirondelle de fenêtre,2014,0,4
+Huppe fasciée,2017,0,2
+Linotte mélodieuse,2017,0,3
+Martinet noir,2014,0,3
+Moineau domestique,2018,0,12
+Petit-duc scops,2017,0,1
+Pie-grièche à tête rousse,2014,0,2
+Pie-grièche écorcheur,2014,0,1
+Pipit des arbres,2009,0,1
+Roitelet huppé,2015,0,1
+Rossignol philomèle,2014,0,3
+Serin cini,2009,0,1
+Tarier des prés,2014,0,2
+Tarier pâtre,2017,0,3
+Tarin des aulnes,2017,0,1
+Tourterelle des bois,2015,0,6
+Tourterelle turque,2017,0,16

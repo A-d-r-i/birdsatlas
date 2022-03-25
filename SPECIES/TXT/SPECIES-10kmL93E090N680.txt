@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bécassine des marais
-0        Busard des roseaux
-0        Canard colvert
-0        Chevalier guignette
-0        Choucas des tours
-0        Cygne tuberculé
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Foulque macroule
-0        Gobemouche gris
-0        Grand Corbeau
-0        Grèbe castagneux
-0        Grive mauvis
-0        Jaseur boréal
-0        Martinet noir
-0        Ouette d'Egypte
-0        Pie-grièche à tête rousse
-0        Rousserolle turdoïde
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2018    0        11
+Bécassine des marais      2015    0        4
+Busard des roseaux        2018    0        4
+Canard colvert            2018    0        36
+Chevalier guignette       2018    0        2
+Choucas des tours         2017    0        13
+Cygne tuberculé           2017    0        11
+Faisan de Colchide        2017    0        4
+Faucon émerillon          2014    0        3
+Faucon pèlerin            2014    0        1
+Foulque macroule          2016    0        9
+Gobemouche gris           2018    0        4
+Grand Corbeau             2016    0        1
+Grèbe castagneux          2018    0        22
+Grive mauvis              2017    0        4
+Jaseur boréal             2013    0        1
+Martinet noir             2018    0        3
+Ouette d'Egypte           2017    0        1
+Pie-grièche à tête rousse 2018    0        4
+Rousserolle turdoïde      2016    0        1
+Tarin des aulnes          2018    0        7
 

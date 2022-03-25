@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cochevis huppé"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2018,0,3
+Bergeronnette printanière,2018,0,2
+Bondrée apivore,2014,0,2
+Bruant des roseaux,2009,0,2
+Bruant zizi,2009,0,1
+Caille des blés,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2012,0,3
+Chouette hulotte,2014,0,3
+Cochevis huppé,2009,0,1
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2009,0,1
+Fuligule milouin,2009,0,1
+Grive litorne,2009,0,1
+Grive mauvis,2009,0,1
+Grosbec casse-noyaux,2018,0,3
+Martinet noir,2012,0,2
+Mésange noire,2009,0,1
+Pic mar,2015,0,4
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,1
+Pouillot fitis,2018,0,2
+Serin cini,2009,0,2
+Tarin des aulnes,2018,0,2

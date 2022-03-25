@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau variable"
-"0";"Bernache cravant"
-"0";"Bouvreuil pivoine"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Chevalier gambette"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Goéland cendré"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Rousserolle effarvatte"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,5
+Avocette élégante,2014,0,3
+Barge rousse,2013,0,1
+Bécasseau cocorli,2009,0,2
+Bécasseau variable,2017,0,12
+Bernache cravant,2007,0,1
+Bouvreuil pivoine,2017,0,6
+Busard des roseaux,2018,0,12
+Canard chipeau,2016,0,9
+Chevalier gambette,2012,0,3
+Courlis cendré,2013,0,4
+Engoulevent d'Europe,2016,0,7
+Faisan vénéré,2014,0,1
+Goéland cendré,2013,0,4
+Guifette moustac,2017,0,3
+Guifette noire,2016,0,8
+Héron pourpré,2016,0,5
+Hibou des marais,2018,0,14
+Locustelle tachetée,2010,0,2
+Moineau friquet,2010,0,3
+Mouette pygmée,2013,0,3
+Petit Gravelot,2016,0,17
+Phragmite des joncs,2014,0,2
+Pie-grièche à tête rousse,2016,0,1
+Rousserolle effarvatte,2015,0,3
+Sterne naine,2015,0,2

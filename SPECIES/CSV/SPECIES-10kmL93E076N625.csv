@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau sanderling"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Canard colvert"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Cormoran huppé"
-"0";"Coucou geai"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe jougris"
-"0";"Grive musicienne"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Huîtrier pie"
-"0";"Huppe fasciée"
-"0";"Labbe parasite"
-"0";"Linotte mélodieuse"
-"0";"Macareux moine"
-"0";"Mésange bleue"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Plongeon catmarin"
-"0";"Pouillot véloce"
-"0";"Puffin de Scopoli"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Sterne hansel"
-"0";"Tarier pâtre"
-"0";"Troglodyte mignon"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bécasseau sanderling,2013,0,1
+Bergeronnette printanière,2013,0,1
+Bouscarle de Cetti,2014,0,1
+Bruant des roseaux,2017,0,1
+Bruant proyer,2013,0,1
+Canard colvert,2017,0,4
+Chevalier guignette,2016,0,3
+Choucas des tours,2017,0,2
+Corbeau freux,2017,0,2
+Cormoran huppé,2018,0,3
+Coucou geai,2015,0,2
+Fauvette pitchou,2009,0,1
+Foulque macroule,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2015,0,1
+Goéland brun,2018,0,3
+Gravelot à collier interrompu,2009,0,1
+Grèbe jougris,2013,0,3
+Grive musicienne,2016,0,3
+Guêpier d'Europe,2016,0,2
+Guifette noire,2016,0,1
+Huîtrier pie,2018,0,3
+Huppe fasciée,2013,0,2
+Labbe parasite,2017,0,1
+Linotte mélodieuse,2017,0,3
+Macareux moine,2010,0,1
+Mésange bleue,2017,0,4
+Pie-grièche à tête rousse,2018,0,1
+Pipit des arbres,2013,0,1
+Pipit spioncelle,2013,0,1
+Plongeon catmarin,2017,0,8
+Pouillot véloce,2016,0,3
+Puffin de Scopoli,2014,0,1
+Râle d'eau,2009,0,1
+Rollier d'Europe,2011,0,1
+Rossignol philomèle,2013,0,2
+Rousserolle effarvatte,2018,0,2
+Sterne hansel,2014,0,1
+Tarier pâtre,2018,0,2
+Troglodyte mignon,2015,0,3
+Vanneau huppé,2016,0,1
+Vautour fauve,2016,0,1
+Verdier d'Europe,2009,0,1

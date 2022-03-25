@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier aboyeur"
-"0";"Engoulevent d'Europe"
-"0";"Outarde canepetière"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Chevalier aboyeur,2017,0,1
+Engoulevent d'Europe,2009,0,1
+Outarde canepetière,2017,0,1
+Pouillot siffleur,2009,0,1
+Sarcelle d'été,2009,0,1
+Serin cini,2009,0,1

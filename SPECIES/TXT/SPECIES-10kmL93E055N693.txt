@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Engoulevent d'Europe
-0        Foulque macroule
-0        Goéland cendré
-0        Grèbe castagneux
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Oie cendrée
-0        Perdrix grise
-0        Petit Gravelot
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tarier des prés
-0        Tourterelle des bois
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Busard Saint-Martin    2009    0        1
+Engoulevent d'Europe   2009    0        1
+Foulque macroule       2018    0        2
+Goéland cendré         2009    0        1
+Grèbe castagneux       2009    0        1
+Locustelle tachetée    2009    0        1
+Loriot d'Europe        2009    0        1
+Oie cendrée            2009    0        1
+Perdrix grise          2018    0        3
+Petit Gravelot         2015    0        2
+Pouillot siffleur      2009    0        1
+Rossignol philomèle    2009    0        1
+Rousserolle effarvatte 2009    0        1
+Sizerin cabaret        2018    0        1
+Sizerin flammé         2018    0        2
+Tarier des prés        2009    0        1
+Tourterelle des bois   2009    0        1
 

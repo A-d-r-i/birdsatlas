@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bruant jaune"
-"0";"Buse variable"
-"0";"Coucou gris"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Geai des chênes"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Hirondelle de fenêtre"
-"0";"Linotte mélodieuse"
-"0";"Merle à plastron"
-"0";"Niverolle alpine"
-"0";"Pic de Sharpe"
-"0";"Pic noir"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,1
+Bruant jaune,2018,0,1
+Buse variable,2017,0,1
+Coucou gris,2012,0,2
+Faucon pèlerin,2009,0,1
+Fauvette à tête noire,2009,0,1
+Geai des chênes,2009,0,1
+Grand Cormoran,2016,0,1
+Grand-duc d'Europe,2009,0,1
+Hirondelle de fenêtre,2017,0,2
+Linotte mélodieuse,2009,0,1
+Merle à plastron,2018,0,3
+Niverolle alpine,2012,0,1
+Pic de Sharpe,2009,0,1
+Pic noir,2009,0,1
+Serin cini,2009,0,1
+Tarier des prés,2016,0,1
+Tichodrome échelette,2009,0,1
+Troglodyte mignon,2009,0,1

@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Chocard à bec jaune"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Grand Corbeau"
-"0";"Lagopède alpin"
-"0";"Linotte mélodieuse"
-"0";"Niverolle alpine"
-"0";"Pipit spioncelle"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2015,0,1
+Aigle royal,2011,0,1
+Chocard à bec jaune,2013,0,4
+Épervier d'Europe,2015,0,1
+Faucon crécerelle,2015,0,1
+Grand Corbeau,2015,0,4
+Lagopède alpin,2013,0,1
+Linotte mélodieuse,2015,0,1
+Niverolle alpine,2015,0,5
+Pipit spioncelle,2011,0,3

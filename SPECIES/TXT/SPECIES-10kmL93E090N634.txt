@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Bruant proyer
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Calopsitte élégante
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Cincle plongeur
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Gobemouche gris
-0        Grimpereau des bois
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Martinet noir
-0        Perdrix grise
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2009    0        2
+Bouvreuil pivoine         2017    0        1
+Bruant jaune              2015    0        4
+Bruant proyer             2011    0        8
+Busard cendré             2018    0        22
+Busard des roseaux        2014    0        1
+Busard Saint-Martin       2013    0        2
+Calopsitte élégante       2011    0        1
+Chevalier guignette       2018    0        1
+Chevêche d'Athéna         2013    0        1
+Choucas des tours         2015    0        1
+Cincle plongeur           2015    0        1
+Faucon pèlerin            2018    0        1
+Fauvette des jardins      2010    0        5
+Foulque macroule          2015    0        1
+Gobemouche gris           2013    0        2
+Grimpereau des bois       2018    0        1
+Grive litorne             2016    0        22
+Grosbec casse-noyaux      2017    0        8
+Martinet noir             2018    0        9
+Perdrix grise             2013    0        1
+Pie-grièche à tête rousse 2010    0        3
+Pigeon biset domestique   2018    0        17
+Pouillot siffleur         2014    0        1
+Roitelet huppé            2017    0        2
+Traquet motteux           2015    0        21
 

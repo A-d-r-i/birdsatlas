@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Linotte mélodieuse"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau soulcie"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2013,0,4
+Bécasse des bois,2013,0,1
+Bergeronnette printanière,2016,0,2
+Bouscarle de Cetti,2009,0,1
+Bruant fou,2012,0,2
+Bruant ortolan,2009,0,1
+Busard Saint-Martin,2015,0,4
+Chevêche d'Athéna,2009,0,1
+Cochevis huppé,2009,0,1
+Engoulevent d'Europe,2018,0,3
+Fauvette des jardins,2009,0,3
+Gallinule poule-d'eau,2009,0,1
+Goéland leucophée,2015,0,1
+Grive litorne,2013,0,1
+Grosbec casse-noyaux,2018,0,5
+Linotte mélodieuse,2009,0,1
+Martinet à ventre blanc,2008,0,2
+Merle à plastron,2017,0,1
+Moineau soulcie,2009,0,1
+Petit-duc scops,2009,0,1
+Pie-grièche à tête rousse,2009,0,1
+Tourterelle des bois,2018,0,5
+Traquet motteux,2013,0,2

@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécassine des marais
-0        Bihoreau gris
-0        Canard souchet
-0        Engoulevent d'Europe
-0        Faucon kobez
-0        Goéland cendré
-0        Grande Aigrette
-0        Guêpier d'Europe
-0        Mésange nonnette
-0        Milan royal
-0        Pipit spioncelle
-0        Vautour fauve
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Autour des palombes  2017    0        3
+Bécassine des marais 2017    0        3
+Bihoreau gris        2017    0        1
+Canard souchet       2013    0        1
+Engoulevent d'Europe 2012    0        2
+Faucon kobez         2016    0        1
+Goéland cendré       2012    0        3
+Grande Aigrette      2017    0        2
+Guêpier d'Europe     2008    0        1
+Mésange nonnette     2013    0        2
+Milan royal          2018    0        4
+Pipit spioncelle     2016    0        1
+Vautour fauve        2018    0        1
 

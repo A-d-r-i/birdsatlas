@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécassine sourde
-0        Bruant ortolan
-0        Canard carolin
-0        Canard mandarin
-0        Chevalier sylvain
-0        Échasse blanche
-0        Fauvette babillarde
-0        Fuligule milouinan
-0        Goéland argenté
-0        Grèbe à cou noir
-0        Grèbe jougris
-0        Guifette moustac
-0        Guifette noire
-0        Huîtrier pie
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mouette pygmée
-0        Nette rousse
-0        Oie rieuse
-0        Perdrix rouge
-0        Plongeon arctique
-0        Plongeon imbrin
-0        Rémiz penduline
-0        Sterne caspienne
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau minute       2008    0        2
+Bécasseau sanderling   2008    0        2
+Bécassine sourde       2016    0        1
+Bruant ortolan         2009    0        1
+Canard carolin         2017    0        2
+Canard mandarin        2014    0        3
+Chevalier sylvain      2017    0        3
+Échasse blanche        2007    0        1
+Fauvette babillarde    2015    0        3
+Fuligule milouinan     2014    0        5
+Goéland argenté        2019    0        3
+Grèbe à cou noir       2015    0        4
+Grèbe jougris          2016    0        57
+Guifette moustac       2012    0        1
+Guifette noire         2018    0        8
+Huîtrier pie           2010    0        1
+Locustelle luscinioïde 2016    0        2
+Locustelle tachetée    2015    0        2
+Mésange huppée         2018    0        1
+Mouette pygmée         2016    0        2
+Nette rousse           2018    0        13
+Oie rieuse             2014    0        5
+Perdrix rouge          2007    0        1
+Plongeon arctique      2010    0        1
+Plongeon imbrin        2010    0        3
+Rémiz penduline        2012    0        4
+Sterne caspienne       2015    0        1
 

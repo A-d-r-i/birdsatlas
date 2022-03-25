@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Cigogne noire
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Moineau friquet
-0        Oie cendrée
-0        Outarde canepetière
-0        Petit-duc scops
-0        Phragmite des joncs
-0        Pipit rousseline
-0        Pouillot siffleur
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigrette garzette      2017    0        3
+Bécasse des bois       2017    0        1
+Cigogne noire          2011    0        2
+Cochevis huppé         2018    0        2
+Engoulevent d'Europe   2018    0        7
+Goéland brun           2017    0        1
+Gorgebleue à miroir    2017    0        1
+Héron pourpré          2018    0        1
+Hirondelle de rivage   2009    0        1
+Merle à plastron       2016    0        1
+Moineau friquet        2016    0        1
+Oie cendrée            2009    0        2
+Outarde canepetière    2009    0        1
+Petit-duc scops        2016    0        2
+Phragmite des joncs    2009    0        1
+Pipit rousseline       2014    0        1
+Pouillot siffleur      2009    0        1
+Râle d'eau             2009    0        1
+Rousserolle effarvatte 2017    0        3
+Torcol fourmilier      2017    0        6
 

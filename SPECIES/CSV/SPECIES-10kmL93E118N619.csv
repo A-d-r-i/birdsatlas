@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Goéland d'Audouin"
-"0";"Puffin cendré"
+frname,lastobs,newcount,oldcount
+Goéland d'Audouin,2009,0,1
+Puffin cendré,2016,0,1

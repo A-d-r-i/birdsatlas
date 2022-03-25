@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bruant zizi
-0        Cigogne noire
-0        Courlis corlieu
-0        Fauvette babillarde
-0        Gélinotte des bois
-0        Gobemouche gris
-0        Grimpereau des jardins
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Huppe fasciée
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange bleue
-0        Mésange nonnette
-0        Milan noir
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Perdrix grise
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pinson du Nord
-0        Pipit farlouse
-0        Pouillot fitis
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Verdier d'Europe
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Autour des palombes     2010    0        3
+Bécasse des bois        2012    0        1
+Bruant zizi             2012    0        3
+Cigogne noire           2012    0        1
+Courlis corlieu         2015    0        1
+Fauvette babillarde     2018    0        15
+Gélinotte des bois      2015    0        4
+Gobemouche gris         2016    0        4
+Grimpereau des jardins  2018    0        4
+Grive litorne           2016    0        8
+Grive mauvis            2014    0        1
+Grosbec casse-noyaux    2015    0        7
+Héron cendré            2012    0        3
+Huppe fasciée           2008    0        2
+Martinet noir           2017    0        1
+Martin-pêcheur d'Europe 2014    0        1
+Mésange bleue           2018    0        68
+Mésange nonnette        2016    0        42
+Milan noir              2012    0        1
+Niverolle alpine        2016    0        16
+Perdrix bartavelle      2018    0        50
+Perdrix grise           2013    0        1
+Pic épeichette          2008    0        1
+Pie-grièche écorcheur   2018    0        19
+Pinson du Nord          2018    0        2
+Pipit farlouse          2015    0        2
+Pouillot fitis          2008    0        3
+Rossignol philomèle     2011    0        3
+Rousserolle verderolle  2014    0        6
+Tarier des prés         2018    0        18
+Tarin des aulnes        2017    0        9
+Torcol fourmilier       2013    0        5
+Verdier d'Europe        2018    0        2
 

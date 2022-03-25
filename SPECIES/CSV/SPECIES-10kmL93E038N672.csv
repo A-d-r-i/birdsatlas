@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot ibérique"
-"0";"Pouillot siffleur"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2016,0,2
+Bec-croisé des sapins,2012,0,3
+Bergeronnette des ruisseaux,2017,0,23
+Bergeronnette printanière,2008,0,1
+Bouvreuil pivoine,2017,0,7
+Bruant des roseaux,2017,0,1
+Bruant proyer,2012,0,3
+Caille des blés,2012,0,6
+Canard pilet,2014,0,1
+Canard siffleur,2015,0,3
+Chevalier guignette,2015,0,2
+Cygne tuberculé,2012,0,10
+Effraie des clochers,2018,0,16
+Faucon hobereau,2014,0,8
+Fauvette des jardins,2014,0,14
+Fauvette pitchou,2015,0,2
+Gobemouche gris,2017,0,15
+Gobemouche noir,2010,0,1
+Goéland leucophée,2014,0,4
+Grosbec casse-noyaux,2017,0,13
+Hibou des marais,2008,0,1
+Hibou moyen-duc,2013,0,3
+Martinet noir,2017,0,14
+Mésange noire,2017,0,3
+Moineau friquet,2013,0,1
+Mouette mélanocéphale,2012,0,1
+Mouette pygmée,2009,0,3
+Oie cendrée,2016,0,1
+Petit Gravelot,2016,0,5
+Pic mar,2018,0,6
+Pipit spioncelle,2014,0,2
+Pluvier doré,2013,0,4
+Pouillot fitis,2014,0,4
+Pouillot ibérique,2010,0,8
+Pouillot siffleur,2014,0,1
+Rougequeue noir,2013,0,15
+Serin cini,2015,0,1
+Sterne pierregarin,2015,0,3
+Tarier des prés,2012,0,2

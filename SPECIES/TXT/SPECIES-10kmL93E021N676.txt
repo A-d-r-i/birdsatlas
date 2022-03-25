@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau maubèche
-0        Bécassine sourde
-0        Bruant lapon
-0        Butor étoilé
-0        Canard pilet
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Combattant varié
-0        Corbeau freux
-0        Cygne de Bewick
-0        Faisan doré
-0        Fuligule morillon
-0        Grèbe à cou noir
-0        Guêpier d'Europe
-0        Guifette moustac
-0        Harelde boréale
-0        Harle huppé
-0        Ibis sacré
-0        Locustelle tachetée
-0        Macareux moine
-0        Macreuse noire
-0        Merle à plastron
-0        Oie à bec court
-0        Oie rieuse
-0        Petit Gravelot
-0        Phalarope à bec large
-0        Phragmite aquatique
-0        Pouillot à grands sourcils
-0        Pouillot siffleur
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Autour des palombes        2016    0        2
+Bécasseau maubèche         2017    0        1
+Bécassine sourde           2016    0        2
+Bruant lapon               2018    0        1
+Butor étoilé               2018    0        2
+Canard pilet               2016    0        3
+Chevalier arlequin         2018    0        1
+Chevalier gambette         2018    0        3
+Chevalier sylvain          2018    0        7
+Chevêche d'Athéna          2016    0        10
+Cigogne noire              2017    0        2
+Combattant varié           2018    0        15
+Corbeau freux              2009    0        1
+Cygne de Bewick            2009    0        1
+Faisan doré                2013    0        1
+Fuligule morillon          2016    0        1
+Grèbe à cou noir           2018    0        3
+Guêpier d'Europe           2009    0        1
+Guifette moustac           2015    0        1
+Harelde boréale            2018    0        11
+Harle huppé                2016    0        3
+Ibis sacré                 2017    0        3
+Locustelle tachetée        2015    0        3
+Macareux moine             2014    0        5
+Macreuse noire             2018    0        5
+Merle à plastron           2014    0        1
+Oie à bec court            2017    0        38
+Oie rieuse                 2018    0        6
+Petit Gravelot             2015    0        1
+Phalarope à bec large      2017    0        2
+Phragmite aquatique        2018    0        2
+Pouillot à grands sourcils 2019    0        7
+Pouillot siffleur          2014    0        1
 

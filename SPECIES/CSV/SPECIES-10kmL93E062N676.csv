@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Cochevis huppé"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Grande Aigrette"
-"0";"Grèbe huppé"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pipit spioncelle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,1
+Canard chipeau,2018,0,2
+Canard siffleur,2009,0,1
+Chevalier culblanc,2009,0,1
+Choucas des tours,2009,0,2
+Cochevis huppé,2009,0,1
+Effraie des clochers,2009,0,2
+Engoulevent d'Europe,2009,0,1
+Goéland argenté,2018,0,2
+Goéland brun,2018,0,3
+Goéland cendré,2009,0,1
+Goéland pontique,2019,0,1
+Grande Aigrette,2018,0,1
+Grèbe huppé,2018,0,3
+Mésange noire,2018,0,4
+Moineau friquet,2013,0,2
+Perdrix grise,2009,0,2
+Petit Gravelot,2009,0,1
+Pipit spioncelle,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'hiver,2018,0,2
+Serin cini,2009,0,1
+Tourterelle des bois,2009,0,1

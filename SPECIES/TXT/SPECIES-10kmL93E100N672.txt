@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bernache du Canada
-0        Bruant fou
-0        Bruant proyer
-0        Busard cendré
-0        Busard pâle
-0        Butor étoilé
-0        Chevalier gambette
-0        Courlis corlieu
-0        Cygne chanteur
-0        Cygne noir
-0        Échasse blanche
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Grèbe à cou noir
-0        Guifette leucoptère
-0        Guifette noire
-0        Hibou des marais
-0        Ibis falcinelle
-0        Martinet à ventre blanc
-0        Mouette pygmée
-0        Panure à moustaches
-0        Phragmite aquatique
-0        Pipit rousseline
-0        Plongeon catmarin
-0        Pluvier argenté
-0        Pouillot à grands sourcils
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rousserolle turdoïde
-0        Sterne naine
-0        Tadorne de Belon
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Alouette lulu              2017    0        8
+Avocette élégante          2017    0        5
+Barge à queue noire        2017    0        7
+Bécasseau de Temminck      2018    0        9
+Bécasseau minute           2017    0        30
+Bernache du Canada         2018    0        5
+Bruant fou                 2011    0        1
+Bruant proyer              2016    0        8
+Busard cendré              2017    0        10
+Busard pâle                2017    0        1
+Butor étoilé               2016    0        2
+Chevalier gambette         2018    0        36
+Courlis corlieu            2011    0        3
+Cygne chanteur             2010    0        14
+Cygne noir                 2014    0        9
+Échasse blanche            2011    0        28
+Fuligule nyroca            2017    0        25
+Garrot à oeil d'or         2012    0        2
+Grèbe à cou noir           2012    0        2
+Guifette leucoptère        2011    0        2
+Guifette noire             2018    0        23
+Hibou des marais           2018    0        1
+Ibis falcinelle            2007    0        1
+Martinet à ventre blanc    2018    0        1
+Mouette pygmée             2017    0        5
+Panure à moustaches        2008    0        1
+Phragmite aquatique        2010    0        1
+Pipit rousseline           2018    0        1
+Plongeon catmarin          2008    0        1
+Pluvier argenté            2007    0        10
+Pouillot à grands sourcils 2015    0        3
+Pouillot de Bonelli        2016    0        1
+Pouillot siffleur          2011    0        3
+Rousserolle turdoïde       2012    0        14
+Sterne naine               2012    0        2
+Tadorne de Belon           2018    0        13
 

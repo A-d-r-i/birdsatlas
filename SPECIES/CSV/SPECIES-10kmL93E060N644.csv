@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Échasse blanche"
-"0";"Fuligule milouin"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Martinet à ventre blanc"
-"0";"Mouette mélanocéphale"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,4
+Échasse blanche,2012,0,1
+Fuligule milouin,2018,0,4
+Grèbe à cou noir,2015,0,2
+Grèbe huppé,2015,0,2
+Guifette noire,2016,0,1
+Hibou moyen-duc,2018,0,1
+Hirondelle de rochers,2018,0,3
+Martinet à ventre blanc,2017,0,1
+Mouette mélanocéphale,2016,0,1
+Rousserolle effarvatte,2018,0,2
+Sizerin cabaret,2017,0,2
+Sizerin flammé,2018,0,5
+Torcol fourmilier,2017,0,4

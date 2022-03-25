@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pinson du Nord"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2017,0,25
+Bec-croisé des sapins,2017,0,3
+Buse pattue,2010,0,2
+Canard carolin,2007,0,2
+Canard chipeau,2014,0,11
+Canard pilet,2017,0,2
+Canard siffleur,2014,0,7
+Canard souchet,2014,0,2
+Chevalier aboyeur,2018,0,3
+Chevalier gambette,2012,0,1
+Chevêche d'Athéna,2016,0,4
+Cincle plongeur,2014,0,10
+Faucon émerillon,2018,0,16
+Faucon pèlerin,2015,0,7
+Fuligule morillon,2015,0,9
+Garrot à oeil d'or,2015,0,7
+Harle bièvre,2013,0,1
+Harle piette,2012,0,2
+Héron garde-boeufs,2015,0,9
+Héron pourpré,2016,0,3
+Hirondelle de rivage,2017,0,4
+Huppe fasciée,2017,0,17
+Merle à plastron,2013,0,5
+Mésange noire,2019,0,19
+Perdrix rouge,2009,0,1
+Pic cendré,2010,0,1
+Pinson du Nord,2015,0,21
+Râle d'eau,2013,0,4
+Roitelet huppé,2019,0,48
+Rousserolle turdoïde,2018,0,8
+Rousserolle verderolle,2014,0,5
+Sarcelle d'hiver,2019,0,30
+Sizerin cabaret,2012,0,3
+Sizerin flammé,2012,0,3

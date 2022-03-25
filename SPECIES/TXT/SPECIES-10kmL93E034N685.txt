@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Avocette élégante
-0        Barge rousse
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bondrée apivore
-0        Bruant proyer
-0        Canard chipeau
-0        Canard siffleur
-0        Engoulevent d'Europe
-0        Gobemouche noir
-0        Goéland leucophée
-0        Gravelot à collier interrompu
-0        Grèbe jougris
-0        Héron pourpré
-0        Hibou des marais
-0        Ibis sacré
-0        Labbe à longue queue
-0        Loriot d'Europe
-0        Macareux moine
-0        Marouette ponctuée
-0        Océanite culblanc
-0        Océanite tempête
-0        Oie à tête barrée
-0        Perdrix rouge
-0        Phalarope à bec large
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pluvier doré
-0        Rougequeue à front blanc
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Spatule blanche
-0        Sterne de Dougall
-0        Sterne naine
-0        Tarier des prés
-0        Vanneau huppé
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Alouette lulu                           2015    0        3
+Avocette élégante                       2016    0        3
+Barge rousse                            2016    0        1
+Bergeronnette flavéole (M.f.flavissima) 2018    0        2
+Bondrée apivore                         2018    0        2
+Bruant proyer                           2010    0        2
+Canard chipeau                          2014    0        1
+Canard siffleur                         2016    0        11
+Engoulevent d'Europe                    2018    0        1
+Gobemouche noir                         2014    0        1
+Goéland leucophée                       2016    0        2
+Gravelot à collier interrompu           2012    0        1
+Grèbe jougris                           2015    0        2
+Héron pourpré                           2014    0        1
+Hibou des marais                        2017    0        3
+Ibis sacré                              2013    0        1
+Labbe à longue queue                    2012    0        1
+Loriot d'Europe                         2015    0        2
+Macareux moine                          2012    0        1
+Marouette ponctuée                      2017    0        1
+Océanite culblanc                       2017    0        2
+Océanite tempête                        2017    0        3
+Oie à tête barrée                       2012    0        1
+Perdrix rouge                           2018    0        1
+Phalarope à bec large                   2009    0        1
+Pie-grièche écorcheur                   2009    0        1
+Pigeon colombin                         2009    0        1
+Pipit des arbres                        2014    0        1
+Pluvier doré                            2009    0        1
+Rougequeue à front blanc                2014    0        1
+Rousserolle verderolle                  2018    0        4
+Sarcelle d'été                          2015    0        2
+Spatule blanche                         2017    0        2
+Sterne de Dougall                       2012    0        1
+Sterne naine                            2012    0        3
+Tarier des prés                         2014    0        11
+Vanneau huppé                           2016    0        2
 

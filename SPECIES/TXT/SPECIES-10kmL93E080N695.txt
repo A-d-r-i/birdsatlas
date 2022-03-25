@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécassine des marais
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Foulque macroule
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Ouette d'Egypte
-0        Pie-grièche grise
-0        Pouillot siffleur
-0        Rousserolle effarvatte
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2013    0        1
+Bécassine des marais   2012    0        1
+Busard des roseaux     2013    0        1
+Chevalier culblanc     2015    0        1
+Cygne tuberculé        2017    0        1
+Effraie des clochers   2018    0        14
+Faucon émerillon       2013    0        3
+Faucon pèlerin         2013    0        1
+Foulque macroule       2013    0        1
+Huppe fasciée          2012    0        2
+Locustelle tachetée    2018    0        1
+Ouette d'Egypte        2018    0        1
+Pie-grièche grise      2011    0        4
+Pouillot siffleur      2009    0        2
+Rousserolle effarvatte 2012    0        2
 

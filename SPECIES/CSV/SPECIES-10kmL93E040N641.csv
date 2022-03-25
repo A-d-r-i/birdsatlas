@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Conure veuve"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Faisan vénéré"
-"0";"Fuligule milouin"
-"0";"Fuligule nyroca"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grive litorne"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Inséparable de Fischer"
-"0";"Marouette poussin"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie à tête barrée"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,2
+Autour des palombes,2016,0,5
+Bergeronnette flavéole (M.f.flavissima),2016,0,5
+Bernache du Canada,2012,0,2
+Busard cendré,2017,0,9
+Caille des blés,2014,0,1
+Calopsitte élégante,2012,0,1
+Canard mandarin,2018,0,8
+Chevalier culblanc,2017,0,12
+Cigogne noire,2011,0,3
+Cochevis huppé,2013,0,1
+Conure veuve,2008,0,1
+Courlis cendré,2012,0,2
+Cygne tuberculé,2011,0,2
+Faisan vénéré,2019,0,3
+Fuligule milouin,2010,0,5
+Fuligule nyroca,2009,0,4
+Goéland argenté,2019,0,2
+Gorgebleue à miroir,2014,0,1
+Grand Gravelot,2008,0,1
+Grive litorne,2018,0,25
+Héron pourpré,2014,0,1
+Hibou moyen-duc,2018,0,9
+Hirondelle de rivage,2013,0,3
+Inséparable de Fischer,2009,0,1
+Marouette poussin,2008,0,1
+Mouette pygmée,2009,0,2
+Nette rousse,2008,0,1
+Oedicnème criard,2008,0,1
+Oie à tête barrée,2014,0,1
+Perdrix rouge,2017,0,9
+Perruche à collier,2018,0,1
+Perruche ondulée,2009,0,1
+Petit Gravelot,2014,0,12
+Pie-grièche à tête rousse,2015,0,17
+Pie-grièche écorcheur,2016,0,8
+Pipit rousseline,2016,0,7
+Pluvier doré,2012,0,9
+Pouillot à grands sourcils,2015,0,3
+Pouillot siffleur,2016,0,4
+Vautour fauve,2014,0,1

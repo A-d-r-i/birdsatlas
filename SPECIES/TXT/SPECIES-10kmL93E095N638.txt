@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle botté
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bouscarle de Cetti
-0        Busard Saint-Martin
-0        Canard siffleur
-0        Cassenoix moucheté
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Cisticole des joncs
-0        Crave à bec rouge
-0        Faucon émerillon
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Gélinotte des bois
-0        Goéland cendré
-0        Locustelle tachetée
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Pie-grièche grise
-0        Rousserolle verderolle
-0        Torcol fourmilier
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2018    0        2
+Aigle botté             2016    0        1
+Bécassine des marais    2016    0        7
+Bécassine sourde        2016    0        1
+Bouscarle de Cetti      2010    0        7
+Busard Saint-Martin     2014    0        3
+Canard siffleur         2008    0        1
+Cassenoix moucheté      2014    0        2
+Chevalier culblanc      2016    0        3
+Chevêche d'Athéna       2015    0        1
+Cigogne noire           2012    0        1
+Cisticole des joncs     2017    0        7
+Crave à bec rouge       2018    0        13
+Faucon émerillon        2013    0        1
+Foulque macroule        2009    0        2
+Gallinule poule-d'eau   2018    0        3
+Gélinotte des bois      2016    0        3
+Goéland cendré          2015    0        1
+Locustelle tachetée     2014    0        1
+Martin-pêcheur d'Europe 2013    0        1
+Merle à plastron        2018    0        1
+Pie-grièche grise       2012    0        3
+Rousserolle verderolle  2017    0        2
+Torcol fourmilier       2018    0        6
 

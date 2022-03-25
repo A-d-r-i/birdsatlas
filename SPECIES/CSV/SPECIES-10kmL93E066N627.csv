@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Cincle plongeur"
-"0";"Échasse blanche"
-"0";"Faucon d'Eléonore"
-"0";"Faucon hobereau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Loriot d'Europe"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Rossignol philomèle"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Aigrette garzette,2016,0,1
+Bécasse des bois,2009,0,1
+Bruant proyer,2017,0,5
+Bruant zizi,2015,0,2
+Busard Saint-Martin,2016,0,4
+Canard mandarin,2012,0,1
+Canard souchet,2011,0,1
+Chevalier culblanc,2007,0,1
+Cincle plongeur,2017,0,5
+Échasse blanche,2018,0,1
+Faucon d'Eléonore,2017,0,1
+Faucon hobereau,2017,0,3
+Gobemouche gris,2013,0,1
+Gobemouche noir,2012,0,1
+Grive litorne,2015,0,4
+Grosbec casse-noyaux,2016,0,1
+Loriot d'Europe,2011,0,2
+Mouette rieuse,2016,0,1
+Perdrix rouge,2009,0,1
+Pic épeichette,2015,0,4
+Pie-grièche à tête rousse,2015,0,1
+Rossignol philomèle,2015,0,1
+Sarcelle d'hiver,2015,0,1
+Tarier des prés,2011,0,3
+Tichodrome échelette,2013,0,3
+Traquet motteux,2017,0,2

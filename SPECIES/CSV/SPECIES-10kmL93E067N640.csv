@@ -1,41 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Flamant rose"
-"0";"Foulque macroule"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,5
+Bécasse des bois,2009,0,1
+Bec-croisé des sapins,2014,0,6
+Bruant ortolan,2008,0,1
+Busard cendré,2017,0,6
+Chevalier sylvain,2015,0,1
+Chevêche d'Athéna,2011,0,3
+Combattant varié,2017,0,2
+Courlis cendré,2010,0,1
+Engoulevent d'Europe,2016,0,5
+Faucon émerillon,2018,0,1
+Faucon kobez,2015,0,1
+Flamant rose,2017,0,1
+Foulque macroule,2012,0,1
+Garrot à oeil d'or,2011,0,2
+Goéland brun,2018,0,4
+Goéland cendré,2011,0,8
+Grèbe castagneux,2015,0,9
+Guêpier d'Europe,2017,0,6
+Guifette moustac,2014,0,3
+Harle bièvre,2017,0,6
+Harle huppé,2009,0,1
+Héron pourpré,2011,0,1
+Hibou des marais,2008,0,3
+Hibou moyen-duc,2009,0,4
+Merle à plastron,2015,0,1
+Mouette pygmée,2009,0,1
+Nette rousse,2018,0,2
+Perdrix grise,2011,0,4
+Petit Gravelot,2015,0,25
+Pie-grièche à tête rousse,2012,0,15
+Pouillot fitis,2017,0,7
+Pouillot siffleur,2017,0,9
+Tichodrome échelette,2012,0,3
+Torcol fourmilier,2018,0,11
+Tourterelle des bois,2015,0,8
+Vautour moine,2017,0,1

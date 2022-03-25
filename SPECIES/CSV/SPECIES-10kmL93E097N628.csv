@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cisticole des joncs"
-"0";"Coucou geai"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Faucon kobez"
-"0";"Fauvette orphée"
-"0";"Grive litorne"
-"0";"Hirondelle de rivage"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau cisalpin"
-"0";"Moineau soulcie"
-"0";"Niverolle alpine"
-"0";"Pipit des arbres"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,4
+Chevalier culblanc,2017,0,3
+Chevalier guignette,2015,0,1
+Cigogne blanche,2007,0,1
+Cisticole des joncs,2017,0,2
+Coucou geai,2011,0,1
+Effraie des clochers,2009,0,1
+Etourneau roselin,2018,0,1
+Faucon kobez,2010,0,2
+Fauvette orphée,2017,0,1
+Grive litorne,2018,0,4
+Hirondelle de rivage,2011,0,1
+Martin-pêcheur d'Europe,2016,0,7
+Moineau cisalpin,2009,0,1
+Moineau soulcie,2010,0,3
+Niverolle alpine,2017,0,1
+Pipit des arbres,2016,0,1
+Rousserolle effarvatte,2016,0,1
+Rousserolle turdoïde,2016,0,2
+Venturon montagnard,2018,0,3

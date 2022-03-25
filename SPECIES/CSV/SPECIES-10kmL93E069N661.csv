@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Busard des roseaux"
-"0";"Busard pâle"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2011,0,1
+Busard des roseaux,2018,0,4
+Busard pâle,2011,0,2
+Busard Saint-Martin,2018,0,6
+Caille des blés,2011,0,2
+Canard siffleur,2013,0,2
+Effraie des clochers,2017,0,10
+Faucon pèlerin,2018,0,1
+Fauvette babillarde,2016,0,2
+Grèbe huppé,2012,0,5
+Hibou moyen-duc,2013,0,1
+Perdrix grise,2013,0,1
+Perdrix rouge,2018,0,2
+Roitelet huppé,2019,0,15
+Sarcelle d'hiver,2012,0,1
+Tarier des prés,2015,0,1
+Traquet motteux,2016,0,2
+Vautour fauve,2013,0,1

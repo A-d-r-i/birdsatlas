@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Canard chipeau
-0        Canard mandarin
-0        Canard siffleur
-0        Canard souchet
-0        Combattant varié
-0        Corneille mantelée
-0        Courlis cendré
-0        Cygne noir
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Foulque macroule
-0        Fuligule morillon
-0        Goéland cendré
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Guifette moustac
-0        Harelde boréale
-0        Hirondelle de rochers
-0        Locustelle tachetée
-0        Nette rousse
-0        Pie-grièche grise
-0        Plongeon catmarin
-0        Pluvier doré
-0        Pouillot siffleur
-0        Tadorne de Belon
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Canard chipeau        2017    0        11
+Canard mandarin       2017    0        2
+Canard siffleur       2017    0        7
+Canard souchet        2017    0        2
+Combattant varié      2016    0        1
+Corneille mantelée    2018    0        3
+Courlis cendré        2016    0        1
+Cygne noir            2017    0        2
+Échasse blanche       2011    0        1
+Engoulevent d'Europe  2013    0        12
+Foulque macroule      2017    0        10
+Fuligule morillon     2017    0        18
+Goéland cendré        2015    0        2
+Grèbe à cou noir      2017    0        4
+Grèbe castagneux      2017    0        11
+Guifette moustac      2011    0        1
+Harelde boréale       2009    0        1
+Hirondelle de rochers 2014    0        1
+Locustelle tachetée   2014    0        1
+Nette rousse          2013    0        2
+Pie-grièche grise     2017    0        13
+Plongeon catmarin     2018    0        2
+Pluvier doré          2017    0        8
+Pouillot siffleur     2015    0        2
+Tadorne de Belon      2016    0        2
 

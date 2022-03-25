@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Grand-duc d'Europe"
-"0";"Grand Tétras"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Lagopède alpin"
-"0";"Loriot d'Europe"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pic à dos blanc"
-"0";"Pic de Sharpe"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pluvier guignard"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,11
+Bécasse des bois,2011,0,2
+Bruant proyer,2012,0,3
+Bruant zizi,2017,0,22
+Busard cendré,2015,0,1
+Choucas des tours,2017,0,1
+Cigogne blanche,2015,0,2
+Cigogne noire,2017,0,3
+Effraie des clochers,2017,0,2
+Grand-duc d'Europe,2012,0,2
+Grand Tétras,2016,0,8
+Grèbe castagneux,2015,0,1
+Grive mauvis,2013,0,4
+Grosbec casse-noyaux,2009,0,4
+Héron garde-boeufs,2009,0,3
+Hibou moyen-duc,2016,0,1
+Hypolaïs polyglotte,2018,0,7
+Lagopède alpin,2012,0,2
+Loriot d'Europe,2013,0,1
+Oie cendrée,2010,0,1
+Petit Gravelot,2011,0,1
+Pic à dos blanc,2014,0,8
+Pic de Sharpe,2018,0,3
+Pic épeichette,2017,0,3
+Pic mar,2012,0,4
+Pigeon biset domestique,2014,0,2
+Pigeon colombin,2015,0,2
+Pluvier guignard,2018,0,1
+Pouillot siffleur,2018,0,1
+Rougequeue à front blanc,2017,0,12
+Torcol fourmilier,2010,0,2
+Venturon montagnard,2018,0,16

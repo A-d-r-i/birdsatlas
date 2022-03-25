@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Chouette de Tengmalm"
-"0";"Foulque macroule"
-"0";"Gélinotte des bois"
-"0";"Gobemouche à collier"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2011,0,2
+Chevêche d'Athéna,2018,0,4
+Chouette de Tengmalm,2015,0,1
+Foulque macroule,2012,0,3
+Gélinotte des bois,2011,0,2
+Gobemouche à collier,2011,0,2
+Gobemouche gris,2016,0,3
+Gobemouche noir,2015,0,1
+Grèbe castagneux,2012,0,3
+Hypolaïs polyglotte,2012,0,4
+Locustelle tachetée,2016,0,3
+Pic mar,2018,0,10
+Pigeon colombin,2011,0,2
+Pipit spioncelle,2011,0,2
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2011,0,3
+Tarier des prés,2009,0,2
+Tourterelle des bois,2015,0,7

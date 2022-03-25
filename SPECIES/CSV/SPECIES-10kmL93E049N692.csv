@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Choucas des tours"
-"0";"Grand Labbe"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Huppe fasciée"
-"0";"Macreuse noire"
-"0";"Mouette tridactyle"
-"0";"Pingouin torda"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,1
+Bec-croisé des sapins,2009,0,1
+Choucas des tours,2009,0,1
+Grand Labbe,2019,0,1
+Harelde boréale,2017,0,1
+Harle huppé,2019,0,1
+Huppe fasciée,2009,0,1
+Macreuse noire,2019,0,1
+Mouette tridactyle,2018,0,1
+Pingouin torda,2019,0,1
+Rossignol philomèle,2018,0,3

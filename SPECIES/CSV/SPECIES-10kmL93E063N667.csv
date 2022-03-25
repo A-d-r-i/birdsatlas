@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cochevis huppé"
-"0";"Cygne noir"
-"0";"Faucon pèlerin"
-"0";"Fuligule nyroca"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Jaseur boréal"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Petit Gravelot"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2007,0,1
+Busard cendré,2018,0,1
+Busard pâle,2016,0,1
+Butor étoilé,2015,0,2
+Canard pilet,2018,0,3
+Canard siffleur,2017,0,7
+Chevalier aboyeur,2009,0,1
+Chevalier gambette,2007,0,2
+Cochevis huppé,2009,0,1
+Cygne noir,2015,0,3
+Faucon pèlerin,2016,0,1
+Fuligule nyroca,2010,0,2
+Goéland brun,2007,0,1
+Goéland cendré,2009,0,1
+Grèbe à cou noir,2015,0,3
+Guifette noire,2007,0,1
+Harle piette,2009,0,13
+Héron pourpré,2009,0,1
+Jaseur boréal,2013,0,2
+Mouette pygmée,2015,0,1
+Mouette tridactyle,2009,0,1
+Nette rousse,2018,0,14
+Petit Gravelot,2009,0,9
+Râle d'eau,2016,0,12
+Rémiz penduline,2009,0,3
+Sarcelle d'été,2015,0,3
+Sarcelle d'hiver,2017,0,38
+Sizerin flammé,2008,0,1
+Spatule blanche,2009,0,1
+Sterne pierregarin,2009,0,4
+Tadorne de Belon,2009,0,1
+Torcol fourmilier,2009,0,1

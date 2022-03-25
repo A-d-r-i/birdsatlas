@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Fauvette des jardins"
-"0";"Goéland marin"
-"0";"Pigeon ramier"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2015,0,2
+Fauvette des jardins,2013,0,1
+Goéland marin,2013,0,1
+Pigeon ramier,2009,0,1

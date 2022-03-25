@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Albatros à sourcils noirs"
-"0";"Avocette élégante"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Eider à duvet"
-"0";"Grèbe castagneux"
-"0";"Guifette moustac"
-"0";"Harelde boréale"
-"0";"Oie rieuse"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Albatros à sourcils noirs,2016,0,2
+Avocette élégante,2012,0,1
+Bruant des roseaux,2018,0,2
+Bruant jaune,2018,0,1
+Canard chipeau,2017,0,4
+Canard siffleur,2016,0,4
+Eider à duvet,2018,0,4
+Grèbe castagneux,2009,0,1
+Guifette moustac,2015,0,1
+Harelde boréale,2014,0,1
+Oie rieuse,2018,0,2
+Pipit rousseline,2015,0,1
+Pluvier guignard,2016,0,4
+Sarcelle d'hiver,2016,0,1
+Vanneau huppé,2013,0,1

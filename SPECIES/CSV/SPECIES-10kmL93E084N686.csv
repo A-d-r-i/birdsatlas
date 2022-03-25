@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant zizi"
-"0";"Busard pâle"
-"0";"Canard des Bahamas"
-"0";"Chevalier arlequin"
-"0";"Chevalier stagnatile"
-"0";"Chevêche d'Athéna"
-"0";"Combattant varié"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Faisan vénéré"
-"0";"Faucon kobez"
-"0";"Fuligule milouinan"
-"0";"Gobemouche à collier"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe esclavon"
-"0";"Grimpereau des bois"
-"0";"Guifette noire"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette pygmée"
-"0";"Perdrix rouge"
-"0";"Phalarope à bec étroit"
-"0";"Pic cendré"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Tadorne casarca"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,8
+Bécasseau minute,2013,0,1
+Bécasseau sanderling,2017,0,2
+Bécasseau tacheté,2017,0,1
+Bécassine sourde,2018,0,3
+Bec-croisé des sapins,2018,0,4
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bruant zizi,2018,0,2
+Busard pâle,2012,0,1
+Canard des Bahamas,2013,0,2
+Chevalier arlequin,2017,0,16
+Chevalier stagnatile,2017,0,7
+Chevêche d'Athéna,2012,0,3
+Combattant varié,2017,0,32
+Crabier chevelu,2017,0,1
+Cygne chanteur,2018,0,9
+Faisan vénéré,2014,0,1
+Faucon kobez,2012,0,1
+Fuligule milouinan,2014,0,4
+Gobemouche à collier,2014,0,4
+Goéland brun,2019,0,5
+Goéland cendré,2018,0,3
+Goéland pontique,2018,0,1
+Gorgebleue à miroir,2017,0,3
+Grand Gravelot,2017,0,10
+Grèbe esclavon,2011,0,2
+Grimpereau des bois,2016,0,4
+Guifette noire,2015,0,14
+Locustelle tachetée,2018,0,8
+Macreuse noire,2016,0,1
+Marouette ponctuée,2017,0,3
+Merle à plastron,2016,0,2
+Mésange huppée,2018,0,8
+Mésange noire,2018,0,6
+Mouette pygmée,2010,0,1
+Perdrix rouge,2018,0,3
+Phalarope à bec étroit,2017,0,8
+Pic cendré,2009,0,1
+Pouillot siffleur,2016,0,6
+Rémiz penduline,2007,0,2
+Roitelet huppé,2018,0,11
+Tadorne casarca,2015,0,7
+Vautour fauve,2012,0,1

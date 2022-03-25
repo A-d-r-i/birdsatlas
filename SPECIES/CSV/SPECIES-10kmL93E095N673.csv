@@ -1,78 +1,76 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche à collier"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Grive musicienne"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Hypolaïs ictérine"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne casarca"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,16
+Alouette des champs,2017,0,73
+Alouette lulu,2018,0,7
+Autour des palombes,2015,0,7
+Bécasse des bois,2014,0,5
+Bécassine des marais,2017,0,9
+Bec-croisé des sapins,2014,0,1
+Bouvreuil pivoine,2016,0,20
+Bruant proyer,2018,0,1
+Busard des roseaux,2013,0,2
+Busard Saint-Martin,2019,0,39
+Buse pattue,2011,0,2
+Caille des blés,2017,0,9
+Canard chipeau,2013,0,5
+Canard pilet,2011,0,1
+Canard souchet,2014,0,1
+Chevalier culblanc,2013,0,5
+Chevalier guignette,2015,0,1
+Chevalier sylvain,2010,0,1
+Chevêche d'Athéna,2014,0,18
+Choucas des tours,2014,0,13
+Chouette hulotte,2014,0,5
+Cigogne noire,2011,0,2
+Cincle plongeur,2017,0,4
+Courlis cendré,2009,0,2
+Faucon hobereau,2014,0,6
+Faucon pèlerin,2016,0,6
+Fauvette babillarde,2016,0,9
+Fauvette des jardins,2016,0,12
+Foulque macroule,2018,0,47
+Fuligule milouin,2012,0,2
+Gobemouche à collier,2014,0,4
+Gobemouche gris,2011,0,8
+Grand Corbeau,2017,0,21
+Grèbe huppé,2012,0,5
+Grimpereau des bois,2010,0,2
+Grive musicienne,2018,0,33
+Grosbec casse-noyaux,2016,0,30
+Guêpier d'Europe,2018,0,1
+Hibou des marais,2011,0,1
+Hirondelle de rivage,2013,0,2
+Huppe fasciée,2017,0,3
+Hypolaïs ictérine,2010,0,6
+Hypolaïs polyglotte,2015,0,5
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2011,0,4
+Martin-pêcheur d'Europe,2017,0,9
+Merle à plastron,2013,0,2
+Mésange boréale,2018,0,30
+Mésange huppée,2015,0,8
+Mésange noire,2017,0,8
+Mésange nonnette,2018,0,14
+Moineau friquet,2018,0,45
+Mouette rieuse,2013,0,1
+Oie cendrée,2014,0,1
+Perdrix rouge,2012,0,3
+Pic cendré,2013,0,3
+Pic mar,2017,0,11
+Pic noir,2013,0,11
+Pigeon colombin,2011,0,3
+Pipit des arbres,2017,0,10
+Pipit spioncelle,2018,0,9
+Pluvier doré,2010,0,6
+Pouillot fitis,2011,0,14
+Pouillot siffleur,2010,0,2
+Roitelet à triple bandeau,2014,0,8
+Rougequeue à front blanc,2015,0,4
+Rousserolle effarvatte,2016,0,17
+Rousserolle verderolle,2010,0,6
+Sarcelle d'été,2015,0,2
+Sarcelle d'hiver,2014,0,10
+Tadorne casarca,2018,0,2
+Tarin des aulnes,2015,0,9
+Torcol fourmilier,2010,0,4
+Tourterelle des bois,2011,0,5

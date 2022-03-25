@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pigeon biset domestique"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,16
+Aigrette garzette,2014,0,1
+Bécassine des marais,2013,0,4
+Bec-croisé des sapins,2015,0,6
+Bergeronnette printanière,2013,0,1
+Bihoreau gris,2010,0,2
+Bondrée apivore,2017,0,3
+Bruant des roseaux,2012,0,1
+Canard chipeau,2019,0,4
+Canard souchet,2016,0,1
+Chevalier guignette,2015,0,1
+Chevalier sylvain,2010,0,1
+Effraie des clochers,2017,0,11
+Faisan de Colchide,2015,0,1
+Faucon émerillon,2011,0,1
+Faucon hobereau,2017,0,6
+Faucon kobez,2016,0,1
+Fauvette babillarde,2011,0,5
+Fauvette des jardins,2016,0,12
+Foulque macroule,2019,0,26
+Fuligule milouin,2017,0,1
+Fuligule morillon,2010,0,2
+Gobemouche gris,2016,0,2
+Gobemouche noir,2015,0,5
+Goéland cendré,2016,0,1
+Goéland leucophée,2012,0,1
+Héron garde-boeufs,2016,0,1
+Hibou moyen-duc,2015,0,2
+Hirondelle de rochers,2015,0,2
+Mésange boréale,2015,0,13
+Mouette rieuse,2012,0,3
+Oie cendrée,2017,0,2
+Pic cendré,2016,0,3
+Pic épeichette,2017,0,3
+Pigeon biset domestique,2014,0,5
+Pipit farlouse,2011,0,1
+Pipit spioncelle,2013,0,2
+Pouillot de Bonelli,2017,0,8
+Pouillot fitis,2017,0,11
+Pouillot siffleur,2016,0,2
+Rémiz penduline,2011,0,1
+Sarcelle d'hiver,2010,0,1
+Serin cini,2017,0,11
+Tarier des prés,2016,0,7
+Traquet motteux,2016,0,4
+Vautour moine,2017,0,9

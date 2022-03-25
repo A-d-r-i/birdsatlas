@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Crabier chevelu"
-"0";"Engoulevent d'Europe"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Fou de Bassan"
-"0";"Fuligule milouin"
-"0";"Fuligule nyroca"
-"0";"Goéland bourgmestre"
-"0";"Hibou moyen-duc"
-"0";"Huîtrier pie"
-"0";"Ibis sacré"
-"0";"Marouette ponctuée"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Nette rousse"
-"0";"Océanite culblanc"
-"0";"Perdrix rouge"
-"0";"Pouillot à grands sourcils"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2012,0,6
+Bergeronnette printanière,2017,0,1
+Bernache cravant,2017,0,9
+Bondrée apivore,2018,0,12
+Bruant proyer,2014,0,1
+Busard Saint-Martin,2012,0,2
+Butor étoilé,2009,0,2
+Canard carolin,2013,0,1
+Canard chipeau,2010,0,3
+Cassenoix moucheté,2008,0,1
+Chevalier aboyeur,2018,0,1
+Chevalier sylvain,2007,0,1
+Cigogne noire,2016,0,2
+Courlis cendré,2016,0,6
+Courlis corlieu,2009,0,1
+Crabier chevelu,2010,0,1
+Engoulevent d'Europe,2018,0,1
+Faucon d'Eléonore,2014,0,1
+Faucon émerillon,2011,0,1
+Fou de Bassan,2017,0,1
+Fuligule milouin,2018,0,5
+Fuligule nyroca,2008,0,1
+Goéland bourgmestre,2018,0,2
+Hibou moyen-duc,2011,0,6
+Huîtrier pie,2010,0,1
+Ibis sacré,2010,0,3
+Marouette ponctuée,2013,0,1
+Moineau friquet,2018,0,5
+Mouette pygmée,2019,0,1
+Nette rousse,2012,0,1
+Océanite culblanc,2009,0,1
+Perdrix rouge,2015,0,4
+Pouillot à grands sourcils,2016,0,18
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Sterne naine,2017,0,1
+Tourterelle rieuse,2018,0,29

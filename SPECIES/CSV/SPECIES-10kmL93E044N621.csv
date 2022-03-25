@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouscarle de Cetti"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Chevalier aboyeur"
-"0";"Chouette de Tengmalm"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Fauvette mélanocéphale"
-"0";"Fauvette passerinette"
-"0";"Fuligule milouin"
-"0";"Grand-duc d'Europe"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Pic à dos blanc"
-"0";"Rollier d'Europe"
-"0";"Tadorne de Belon"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bouscarle de Cetti,2009,0,1
+Bruant ortolan,2017,0,1
+Bruant proyer,2016,0,7
+Chevalier aboyeur,2017,0,1
+Chouette de Tengmalm,2009,0,1
+Crabier chevelu,2009,0,1
+Échasse blanche,2017,0,2
+Faucon crécerellette,2017,0,4
+Faucon émerillon,2018,0,1
+Fauvette mélanocéphale,2009,0,1
+Fauvette passerinette,2017,0,2
+Fuligule milouin,2012,0,1
+Grand-duc d'Europe,2018,0,4
+Linotte mélodieuse,2015,0,4
+Moineau friquet,2018,0,2
+Moineau soulcie,2014,0,1
+Mouette rieuse,2018,0,8
+Perdrix grise,2009,0,1
+Pic à dos blanc,2009,0,1
+Rollier d'Europe,2017,0,1
+Tadorne de Belon,2016,0,1
+Tichodrome échelette,2009,0,1
+Torcol fourmilier,2009,0,1
+Vanneau huppé,2016,0,3
+Venturon montagnard,2014,0,1

@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bruant zizi
-0        Busard cendré
-0        Caille des blés
-0        Chocard à bec jaune
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Guêpier d'Europe
-0        Héron cendré
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Hirondelle rustique
-0        Martinet noir
-0        Merle à plastron
-0        Mésange à longue queue
-0        Monticole de roche
-0        Pic à dos blanc
-0        Pic de Sharpe
-0        Pic mar
-0        Pie bavarde
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pluvier guignard
-0        Pouillot fitis
-0        Roitelet huppé
-0        Torcol fourmilier
-0        Tourterelle turque
-0        Vanneau huppé
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2015    0        2
+Autour des palombes       2010    0        3
+Bergeronnette grise       2018    0        34
+Bergeronnette printanière 2009    0        1
+Bruant zizi               2015    0        2
+Busard cendré             2011    0        4
+Caille des blés           2015    0        1
+Chocard à bec jaune       2018    0        6
+Étourneau sansonnet       2018    0        8
+Faisan de Colchide        2010    0        2
+Faucon hobereau           2011    0        14
+Fauvette des jardins      2009    0        1
+Grand-duc d'Europe        2016    0        1
+Grive mauvis              2013    0        5
+Guêpier d'Europe          2010    0        3
+Héron cendré              2015    0        7
+Héron garde-boeufs        2012    0        3
+Hibou moyen-duc           2011    0        4
+Hirondelle rustique       2018    0        35
+Martinet noir             2012    0        21
+Merle à plastron          2015    0        1
+Mésange à longue queue    2018    0        18
+Monticole de roche        2010    0        3
+Pic à dos blanc           2009    0        1
+Pic de Sharpe             2010    0        1
+Pic mar                   2018    0        1
+Pie bavarde               2015    0        8
+Pigeon biset domestique   2015    0        1
+Pigeon colombin           2015    0        3
+Pipit spioncelle          2015    0        13
+Pluvier guignard          2011    0        1
+Pouillot fitis            2018    0        2
+Roitelet huppé            2011    0        1
+Torcol fourmilier         2011    0        5
+Tourterelle turque        2018    0        12
+Vanneau huppé             2012    0        2
+Verdier d'Europe          2018    0        7
 

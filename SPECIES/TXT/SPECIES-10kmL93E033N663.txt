@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bruant des roseaux
-0        Bruant jaune
-0        Busard des roseaux
-0        Canard pilet
-0        Canard siffleur
-0        Cochevis huppé
-0        Courlis cendré
-0        Cygne tuberculé
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fuligule milouin
-0        Guifette noire
-0        Harle bièvre
-0        Hibou des marais
-0        Ibis sacré
-0        Mésange huppée
-0        Mésange nonnette
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie cendrée
-0        Perdrix grise
-0        Pigeon colombin
-0        Pluvier doré
-0        Sarcelle d'hiver
-0        Spatule blanche
-0        Sterne caspienne
-0        Tourterelle rieuse
-0        Traquet motteux
-0        Vautour fauve
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Barge rousse         2010    0        1
+Bécasse des bois     2013    0        2
+Bécassine des marais 2018    0        8
+Bruant des roseaux   2019    0        3
+Bruant jaune         2017    0        17
+Busard des roseaux   2017    0        1
+Canard pilet         2018    0        1
+Canard siffleur      2017    0        2
+Cochevis huppé       2017    0        1
+Courlis cendré       2017    0        5
+Cygne tuberculé      2016    0        3
+Échasse blanche      2011    0        1
+Engoulevent d'Europe 2016    0        1
+Faucon émerillon     2018    0        4
+Fuligule milouin     2012    0        2
+Guifette noire       2016    0        1
+Harle bièvre         2012    0        4
+Hibou des marais     2013    0        1
+Ibis sacré           2018    0        1
+Mésange huppée       2010    0        3
+Mésange nonnette     2018    0        5
+Moineau friquet      2016    0        1
+Oedicnème criard     2017    0        1
+Oie cendrée          2019    0        1
+Perdrix grise        2018    0        3
+Pigeon colombin      2018    0        1
+Pluvier doré         2018    0        1
+Sarcelle d'hiver     2018    0        6
+Spatule blanche      2018    0        2
+Sterne caspienne     2007    0        1
+Tourterelle rieuse   2017    0        1
+Traquet motteux      2018    0        5
+Vautour fauve        2018    0        1
 

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Bécasseau variable"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Goéland argenté"
-"0";"Grand Tétras"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Aigle botté,2018,0,7
+Bécasseau variable,2016,0,1
+Canard mandarin,2013,0,3
+Chevalier culblanc,2018,0,2
+Chevalier guignette,2012,0,2
+Chevêche d'Athéna,2014,0,1
+Cigogne blanche,2016,0,4
+Effraie des clochers,2015,0,1
+Goéland argenté,2013,0,1
+Grand Tétras,2009,0,1
+Hibou moyen-duc,2013,0,1
+Huppe fasciée,2018,0,10
+Hypolaïs polyglotte,2018,0,13
+Locustelle tachetée,2009,0,2
+Perdrix grise,2016,0,1
+Petit-duc scops,2017,0,6
+Pic mar,2012,0,2
+Pie-grièche grise,2013,0,3
+Rousserolle effarvatte,2013,0,1
+Tarier des prés,2018,0,2
+Torcol fourmilier,2016,0,1

@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Mésange huppée"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bergeronnette des ruisseaux,2009,0,1
+Bergeronnette printanière,2010,0,3
+Bouvreuil pivoine,2009,0,1
+Bruant des roseaux,2009,0,1
+Busard Saint-Martin,2018,0,4
+Chevêche d'Athéna,2016,0,1
+Choucas des tours,2009,0,1
+Chouette hulotte,2016,0,3
+Corbeau freux,2009,0,1
+Coucou gris,2010,0,2
+Épervier d'Europe,2011,0,2
+Faucon hobereau,2011,0,3
+Fauvette des jardins,2009,0,1
+Fuligule milouin,2010,0,2
+Gobemouche gris,2009,0,1
+Grèbe castagneux,2009,0,1
+Grimpereau des jardins,2010,0,3
+Grive mauvis,2009,0,1
+Grosbec casse-noyaux,2009,0,2
+Hibou moyen-duc,2016,0,2
+Linotte mélodieuse,2009,0,2
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2011,0,3
+Martinet noir,2009,0,1
+Mésange huppée,2019,0,3
+Pic épeichette,2019,0,5
+Pic mar,2009,0,1
+Pic noir,2010,0,2
+Pie-grièche écorcheur,2011,0,3
+Pinson du Nord,2009,0,1
+Pipit farlouse,2009,0,1
+Roitelet huppé,2009,0,2
+Rossignol philomèle,2010,0,2
+Rougequeue à front blanc,2017,0,2
+Rousserolle effarvatte,2010,0,2
+Sarcelle d'hiver,2009,0,1
+Serin cini,2009,0,1
+Sterne pierregarin,2009,0,1
+Tarier pâtre,2009,0,1

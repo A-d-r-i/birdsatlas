@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant zizi"
-"0";"Chevalier guignette"
-"0";"Chevêchette d'Europe"
-"0";"Chouette hulotte"
-"0";"Corneille mantelée"
-"0";"Corneille noire"
-"0";"Épervier d'Europe"
-"0";"Fauvette des jardins"
-"0";"Gélinotte des bois"
-"0";"Grand Cormoran"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle rustique"
-"0";"Martinet à ventre blanc"
-"0";"Milan royal"
-"0";"Monticole de roche"
-"0";"Petit-duc scops"
-"0";"Pigeon biset domestique"
-"0";"Pluvier guignard"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bruant zizi,2017,0,8
+Chevalier guignette,2018,0,1
+Chevêchette d'Europe,2017,0,25
+Chouette hulotte,2014,0,7
+Corneille mantelée,2018,0,1
+Corneille noire,2018,0,11
+Épervier d'Europe,2018,0,8
+Fauvette des jardins,2018,0,4
+Gélinotte des bois,2018,0,1
+Grand Cormoran,2017,0,1
+Grosbec casse-noyaux,2012,0,2
+Hirondelle rustique,2009,0,2
+Martinet à ventre blanc,2017,0,1
+Milan royal,2015,0,1
+Monticole de roche,2017,0,6
+Petit-duc scops,2017,0,3
+Pigeon biset domestique,2017,0,4
+Pluvier guignard,2016,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2012,0,4
+Tarier des prés,2018,0,10
+Tourterelle turque,2018,0,3
+Vanneau huppé,2014,0,1
+Verdier d'Europe,2017,0,7

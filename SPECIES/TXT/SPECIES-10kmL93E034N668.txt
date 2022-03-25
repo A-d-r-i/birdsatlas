@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau sanderling
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bernache cravant
-0        Bernache nonnette
-0        Blongios nain
-0        Bruant ortolan
-0        Bruant proyer
-0        Canard à collier noir
-0        Canard carolin
-0        Canard mandarin
-0        Chevalier aboyeur
-0        Chevalier sylvain
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Crabier chevelu
-0        Cygne noir
-0        Élanion blanc
-0        Faucon émerillon
-0        Grèbe à cou noir
-0        Guêpier d'Europe
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Macreuse noire
-0        Marouette de Baillon
-0        Merle à plastron
-0        Milan royal
-0        Oie à bec court
-0        Oie à tête barrée
-0        Perruche à collier
-0        Petit Gravelot
-0        Pie-grièche écorcheur
-0        Pipit maritime
-0        Plongeon catmarin
-0        Pluvier argenté
-0        Pluvier doré
-0        Pouillot brun
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Rousserolle verderolle
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Avocette élégante      2018    0        3
+Barge à queue noire    2018    0        17
+Bécasseau cocorli      2014    0        1
+Bécasseau sanderling   2016    0        3
+Bécasse des bois       2015    0        14
+Bécassine sourde       2016    0        3
+Bernache cravant       2011    0        2
+Bernache nonnette      2014    0        2
+Blongios nain          2011    0        1
+Bruant ortolan         2012    0        2
+Bruant proyer          2018    0        1
+Canard à collier noir  2014    0        5
+Canard carolin         2013    0        3
+Canard mandarin        2016    0        13
+Chevalier aboyeur      2014    0        6
+Chevalier sylvain      2018    0        7
+Circaète Jean-le-Blanc 2015    0        1
+Courlis cendré         2016    0        5
+Crabier chevelu        2018    0        1
+Cygne noir             2017    0        9
+Élanion blanc          2018    0        1
+Faucon émerillon       2014    0        2
+Grèbe à cou noir       2016    0        4
+Guêpier d'Europe       2014    0        1
+Hibou des marais       2015    0        1
+Hibou moyen-duc        2018    0        8
+Macreuse noire         2017    0        1
+Marouette de Baillon   2012    0        2
+Merle à plastron       2015    0        2
+Milan royal            2017    0        3
+Oie à bec court        2009    0        1
+Oie à tête barrée      2015    0        1
+Perruche à collier     2017    0        1
+Petit Gravelot         2018    0        15
+Pie-grièche écorcheur  2018    0        10
+Pipit maritime         2009    0        1
+Plongeon catmarin      2011    0        2
+Pluvier argenté        2013    0        2
+Pluvier doré           2013    0        4
+Pouillot brun          2018    0        9
+Pouillot siffleur      2017    0        2
+Rémiz penduline        2014    0        5
+Rousserolle verderolle 2013    0        2
 

@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Chardonneret élégant
-0        Engoulevent d'Europe
-0        Faucon crécerelle
-0        Fauvette de Moltoni
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grive draine
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Loriot d'Europe
-0        Martinet à ventre blanc
-0        Martinet noir
-0        Roitelet à triple bandeau
-0        Sittelle corse
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Chardonneret élégant      2018    0        6
+Engoulevent d'Europe      2018    0        2
+Faucon crécerelle         2015    0        1
+Fauvette de Moltoni       2017    0        1
+Gobemouche gris           2018    0        4
+Gobemouche noir           2015    0        1
+Grive draine              2015    0        1
+Grive musicienne          2007    0        1
+Grosbec casse-noyaux      2018    0        1
+Loriot d'Europe           2015    0        5
+Martinet à ventre blanc   2018    0        2
+Martinet noir             2018    0        5
+Roitelet à triple bandeau 2018    0        3
+Sittelle corse            2016    0        1
+Tarier des prés           2018    0        1
 

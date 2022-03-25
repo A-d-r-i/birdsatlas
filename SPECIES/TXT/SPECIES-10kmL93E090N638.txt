@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bruant proyer
-0        Chocard à bec jaune
-0        Choucas des tours
-0        Fauvette orphée
-0        Moineau friquet
-0        Pigeon biset domestique
-0        Pouillot fitis
-0        Tarier des prés
-0        Tétras lyre
-0        Tichodrome échelette
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2016    0        1
+Autour des palombes     2016    0        1
+Bruant proyer           2009    0        1
+Chocard à bec jaune     2012    0        2
+Choucas des tours       2018    0        2
+Fauvette orphée         2018    0        4
+Moineau friquet         2009    0        1
+Pigeon biset domestique 2012    0        4
+Pouillot fitis          2018    0        2
+Tarier des prés         2017    0        2
+Tétras lyre             2015    0        1
+Tichodrome échelette    2016    0        1
 

@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bihoreau gris
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Caille des blés
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chouette hulotte
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Gobemouche noir
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive mauvis
-0        Huppe fasciée
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Milan royal
-0        Oedicnème criard
-0        Pie-grièche grise
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Tarin des aulnes
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigrette garzette      2018    0        4
+Bécassine des marais   2018    0        2
+Bihoreau gris          2012    0        2
+Bouscarle de Cetti     2018    0        4
+Bruant des roseaux     2017    0        1
+Caille des blés        2015    0        1
+Canard chipeau         2019    0        3
+Canard siffleur        2017    0        1
+Chevalier culblanc     2014    0        1
+Chevalier guignette    2018    0        3
+Chouette hulotte       2018    0        5
+Cigogne blanche        2015    0        2
+Circaète Jean-le-Blanc 2018    0        5
+Courlis cendré         2018    0        1
+Gobemouche noir        2009    0        1
+Grèbe castagneux       2018    0        5
+Grive litorne          2017    0        1
+Grive mauvis           2016    0        1
+Huppe fasciée          2018    0        11
+Merle à plastron       2015    0        1
+Mésange huppée         2017    0        2
+Mésange noire          2009    0        1
+Milan royal            2018    0        1
+Oedicnème criard       2018    0        8
+Pie-grièche grise      2014    0        1
+Pluvier doré           2018    0        1
+Pouillot fitis         2014    0        1
+Pouillot siffleur      2017    0        2
+Tarin des aulnes       2018    0        5
 

@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant des neiges"
-"0";"Canard mandarin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Chevêchette d'Europe"
-"0";"Chouette de Tengmalm"
-"0";"Courlis corlieu"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette babillarde"
-"0";"Fuligule morillon"
-"0";"Grand-duc d'Europe"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Jaseur boréal"
-"0";"Merle à plastron"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2012,0,1
+Bécassine des marais,2017,0,5
+Bihoreau gris,2015,0,1
+Bruant des neiges,2013,0,29
+Canard mandarin,2009,0,1
+Chevalier aboyeur,2012,0,2
+Chevalier culblanc,2018,0,4
+Chevalier guignette,2016,0,8
+Chevêche d'Athéna,2014,0,9
+Chevêchette d'Europe,2017,0,1
+Chouette de Tengmalm,2009,0,1
+Courlis corlieu,2014,0,1
+Élanion blanc,2008,0,2
+Engoulevent d'Europe,2014,0,2
+Fauvette babillarde,2018,0,2
+Fuligule morillon,2013,0,2
+Grand-duc d'Europe,2018,0,24
+Hibou des marais,2014,0,1
+Hirondelle de rivage,2011,0,3
+Jaseur boréal,2013,0,7
+Merle à plastron,2009,0,2
+Petit Gravelot,2012,0,4
+Phragmite des joncs,2011,0,2
+Pie-grièche grise,2009,0,9
+Pluvier doré,2012,0,3
+Râle d'eau,2018,0,1
+Venturon montagnard,2015,0,1

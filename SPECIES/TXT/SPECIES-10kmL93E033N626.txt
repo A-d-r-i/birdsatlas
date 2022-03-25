@@ -1,60 +1,60 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle criard
-0        Aigle royal
-0        Alouette calandrelle
-0        Avocette élégante
-0        Bécasseau variable
-0        Bec-croisé des sapins
-0        Bernache cravant
-0        Bruant fou
-0        Bruant ortolan
-0        Busard cendré
-0        Busard pâle
-0        Caille des blés
-0        Canard carolin
-0        Canard chipeau
-0        Canard pilet
-0        Chevalier stagnatile
-0        Chevalier sylvain
-0        Courlis cendré
-0        Courlis corlieu
-0        Crabier chevelu
-0        Cygne de Bewick
-0        Goéland argenté
-0        Goéland bourgmestre
-0        Goéland marin
-0        Grand Gravelot
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Hirondelle de rochers
-0        Ibis sacré
-0        Mouette pygmée
-0        Mouette tridactyle
-0        Nette rousse
-0        Océanite culblanc
-0        Perruche à collier
-0        Perruche ondulée
-0        Phalarope à bec large
-0        Pic mar
-0        Pie-grièche à tête rousse
-0        Pipit de Richard
-0        Pipit rousseline
-0        Pluvier argenté
-0        Pluvier doré
-0        Pluvier guignard
-0        Pouillot ibérique
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Rollier d'Europe
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caugek
-0        Sterne hansel
-0        Sterne pierregarin
-0        Torcol fourmilier
-0        Tournepierre à collier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2009    0        1
+Aigle criard              2009    0        1
+Aigle royal               2009    0        1
+Alouette calandrelle      2014    0        2
+Avocette élégante         2013    0        1
+Bécasseau variable        2018    0        23
+Bec-croisé des sapins     2014    0        12
+Bernache cravant          2010    0        2
+Bruant fou                2018    0        90
+Bruant ortolan            2018    0        5
+Busard cendré             2016    0        12
+Busard pâle               2017    0        2
+Caille des blés           2016    0        10
+Canard carolin            2013    0        2
+Canard chipeau            2014    0        22
+Canard pilet              2012    0        2
+Chevalier stagnatile      2012    0        1
+Chevalier sylvain         2010    0        1
+Courlis cendré            2012    0        25
+Courlis corlieu           2014    0        1
+Crabier chevelu           2014    0        2
+Cygne de Bewick           2010    0        3
+Goéland argenté           2018    0        1
+Goéland bourgmestre       2018    0        1
+Goéland marin             2018    0        2
+Grand Gravelot            2018    0        10
+Guifette moustac          2016    0        4
+Guifette noire            2016    0        4
+Harle bièvre              2014    0        4
+Hirondelle de rochers     2018    0        11
+Ibis sacré                2010    0        1
+Mouette pygmée            2017    0        4
+Mouette tridactyle        2013    0        3
+Nette rousse              2012    0        2
+Océanite culblanc         2009    0        3
+Perruche à collier        2010    0        2
+Perruche ondulée          2013    0        3
+Phalarope à bec large     2018    0        3
+Pic mar                   2018    0        2
+Pie-grièche à tête rousse 2016    0        9
+Pipit de Richard          2018    0        2
+Pipit rousseline          2016    0        8
+Pluvier argenté           2010    0        2
+Pluvier doré              2018    0        22
+Pluvier guignard          2008    0        1
+Pouillot ibérique         2016    0        45
+Pouillot siffleur         2017    0        10
+Rémiz penduline           2009    0        2
+Rollier d'Europe          2018    0        2
+Sizerin cabaret           2018    0        1
+Sizerin flammé            2018    0        1
+Sterne caugek             2013    0        8
+Sterne hansel             2013    0        5
+Sterne pierregarin        2013    0        3
+Torcol fourmilier         2017    0        22
+Tournepierre à collier    2013    0        2
 

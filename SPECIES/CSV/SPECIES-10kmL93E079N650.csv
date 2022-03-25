@@ -1,48 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Alouette calandrelle"
-"0";"Astrild ondulé"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Busard pâle"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette babillarde"
-"0";"Fauvette mélanocéphale"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Goéland railleur"
-"0";"Gravelot à collier interrompu"
-"0";"Guifette leucoptère"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rousseline"
-"0";"Locustelle luscinioïde"
-"0";"Marouette de Baillon"
-"0";"Marouette poussin"
-"0";"Martinet pâle"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mouette tridactyle"
-"0";"Oie rieuse"
-"0";"Outarde canepetière"
-"0";"Panure à moustaches"
-"0";"Perruche ondulée"
-"0";"Phalarope à bec étroit"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,4
+Alouette calandrelle,2018,0,1
+Astrild ondulé,2017,0,1
+Barge rousse,2016,0,7
+Bécasseau maubèche,2008,0,2
+Bécasseau tacheté,2010,0,3
+Bec-croisé des sapins,2015,0,10
+Bernache du Canada,2016,0,3
+Blongios nain,2013,0,1
+Busard pâle,2013,0,1
+Engoulevent d'Europe,2014,0,1
+Faisan vénéré,2017,0,7
+Faucon d'Eléonore,2013,0,1
+Fauvette babillarde,2018,0,54
+Fauvette mélanocéphale,2016,0,1
+Goéland argenté,2018,0,1
+Goéland brun,2013,0,12
+Goéland cendré,2019,0,15
+Goéland pontique,2018,0,1
+Goéland railleur,2010,0,1
+Gravelot à collier interrompu,2011,0,5
+Guifette leucoptère,2013,0,3
+Hirondelle de rochers,2008,0,1
+Hirondelle rousseline,2010,0,1
+Locustelle luscinioïde,2013,0,1
+Marouette de Baillon,2013,0,1
+Marouette poussin,2018,0,2
+Martinet pâle,2008,0,1
+Merle à plastron,2015,0,2
+Mésange boréale,2016,0,48
+Mésange huppée,2018,0,36
+Mouette tridactyle,2009,0,9
+Oie rieuse,2017,0,7
+Outarde canepetière,2014,0,14
+Panure à moustaches,2013,0,1
+Perruche ondulée,2015,0,2
+Phalarope à bec étroit,2008,0,1
+Pipit à gorge rousse,2012,0,1
+Pipit de Richard,2013,0,9
+Pluvier argenté,2016,0,8
+Pouillot à grands sourcils,2016,0,1
+Rousserolle verderolle,2012,0,1
+Sizerin cabaret,2013,0,1
+Sizerin flammé,2017,0,2

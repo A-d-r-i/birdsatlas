@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Faucon émerillon"
-"0";"Foulque macroule"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pigeon biset domestique"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2019,0,12
+Bergeronnette printanière,2017,0,8
+Bruant des roseaux,2018,0,5
+Chevêche d'Athéna,2017,0,9
+Choucas des tours,2009,0,1
+Cigogne blanche,2018,0,2
+Cigogne noire,2012,0,1
+Circaète Jean-le-Blanc,2015,0,1
+Cochevis huppé,2011,0,3
+Corbeau freux,2009,0,1
+Faucon émerillon,2018,0,7
+Foulque macroule,2019,0,7
+Gobemouche noir,2016,0,1
+Grèbe castagneux,2015,0,3
+Grèbe huppé,2015,0,6
+Locustelle tachetée,2015,0,5
+Milan royal,2009,0,1
+Moineau friquet,2014,0,1
+Mouette mélanocéphale,2015,0,2
+Perruche à collier,2015,0,1
+Petit Gravelot,2017,0,2
+Pigeon biset domestique,2012,0,3
+Pigeon biset (origine naturelle),2009,0,1
+Pluvier doré,2019,0,4
+Râle d'eau,2015,0,1
+Sarcelle d'hiver,2012,0,1
+Serin cini,2012,0,2
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Sterne pierregarin,2018,0,4

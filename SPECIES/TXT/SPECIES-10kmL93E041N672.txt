@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bruant des roseaux
-0        Busard cendré
-0        Canard siffleur
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Grèbe huppé
-0        Héron pourpré
-0        Petit-duc scops
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Rousserolle effarvatte
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2013    0        4
+Barge à queue noire    2016    0        1
+Bécasse des bois       2014    0        6
+Bécassine des marais   2019    0        6
+Bruant des roseaux     2013    0        4
+Busard cendré          2013    0        1
+Canard siffleur        2011    0        2
+Cigogne blanche        2015    0        2
+Circaète Jean-le-Blanc 2017    0        1
+Fauvette pitchou       2017    0        1
+Fuligule milouin       2014    0        11
+Grèbe huppé            2016    0        6
+Héron pourpré          2013    0        1
+Petit-duc scops        2015    0        5
+Petit Gravelot         2012    0        3
+Pigeon colombin        2016    0        2
+Pipit spioncelle       2010    0        2
+Rousserolle effarvatte 2011    0        3
+Sizerin cabaret        2017    0        1
+Sizerin flammé         2017    0        1
 

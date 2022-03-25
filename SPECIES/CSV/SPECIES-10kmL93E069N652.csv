@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Cassenoix moucheté"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Hibou des marais"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mouette rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot ibérique"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2016,0,16
+Bruant fou,2018,0,7
+Bruant proyer,2017,0,6
+Busard des roseaux,2018,0,1
+Busard Saint-Martin,2017,0,12
+Cassenoix moucheté,2015,0,3
+Chevalier gambette,2016,0,1
+Chevalier guignette,2017,0,1
+Cigogne blanche,2018,0,2
+Cigogne noire,2014,0,5
+Corbeau freux,2018,0,5
+Effraie des clochers,2017,0,2
+Engoulevent d'Europe,2013,0,12
+Faucon émerillon,2012,0,2
+Faucon hobereau,2017,0,3
+Goéland leucophée,2015,0,1
+Grand Cormoran,2018,0,5
+Hibou des marais,2013,0,1
+Martin-pêcheur d'Europe,2012,0,1
+Mouette rieuse,2013,0,1
+Pie-grièche à tête rousse,2010,0,1
+Pouillot de Bonelli,2017,0,3
+Pouillot ibérique,2017,0,1
+Râle d'eau,2010,0,2
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2018,0,5
+Tourterelle des bois,2012,0,1
+Traquet motteux,2018,0,7
+Vautour moine,2015,0,2

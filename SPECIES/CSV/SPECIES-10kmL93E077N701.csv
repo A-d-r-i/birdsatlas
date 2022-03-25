@@ -1,8 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Cincle plongeur"
-"0";"Grive draine"
-"0";"Oie cendrée"
-"0";"Rougequeue noir"
+frname,lastobs,newcount,oldcount
+Cincle plongeur,2009,0,2
+Grive draine,2009,0,1
+Oie cendrée,2009,0,1

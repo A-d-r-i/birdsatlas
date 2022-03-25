@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Avocette élégante
-0        Bec-croisé des sapins
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Caille des blés
-0        Cisticole des joncs
-0        Cochevis huppé
-0        Cygne tuberculé
-0        Élanion blanc
-0        Faucon pèlerin
-0        Gobemouche gris
-0        Goéland leucophée
-0        Harle bièvre
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Moineau friquet
-0        Mouette tridactyle
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pouillot fitis
-0        Rousserolle effarvatte
-0        Sterne pierregarin
-0        Tadorne de Belon
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2009    0        2
+Avocette élégante         2017    0        1
+Bec-croisé des sapins     2017    0        1
+Bondrée apivore           2018    0        4
+Bruant des roseaux        2018    0        1
+Caille des blés           2009    0        1
+Cisticole des joncs       2016    0        1
+Cochevis huppé            2017    0        1
+Cygne tuberculé           2011    0        2
+Élanion blanc             2009    0        1
+Faucon pèlerin            2012    0        2
+Gobemouche gris           2018    0        17
+Goéland leucophée         2008    0        1
+Harle bièvre              2016    0        1
+Héron pourpré             2016    0        2
+Hirondelle de rivage      2018    0        2
+Locustelle tachetée       2009    0        2
+Moineau friquet           2017    0        5
+Mouette tridactyle        2009    0        1
+Petit-duc scops           2015    0        5
+Pie-grièche à tête rousse 2017    0        3
+Pouillot fitis            2009    0        3
+Rousserolle effarvatte    2018    0        1
+Sterne pierregarin        2018    0        3
+Tadorne de Belon          2017    0        4
+Tarier des prés           2016    0        1
+Torcol fourmilier         2016    0        1
+Traquet motteux           2017    0        1
+Vautour fauve             2011    0        1
 

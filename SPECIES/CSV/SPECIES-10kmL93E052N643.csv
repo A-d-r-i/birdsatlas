@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cygne tuberculé"
-"0";"Gobemouche noir"
-"0";"Gorgebleue à miroir"
-"0";"Grive mauvis"
-"0";"Harle huppé"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'été"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,14
+Bernache du Canada,2015,0,1
+Bihoreau gris,2018,0,1
+Bruant des roseaux,2018,0,35
+Butor étoilé,2012,0,1
+Caille des blés,2012,0,3
+Canard chipeau,2011,0,9
+Canard mandarin,2009,0,2
+Canard pilet,2012,0,2
+Canard souchet,2018,0,3
+Chevalier aboyeur,2014,0,2
+Chevalier culblanc,2013,0,10
+Chevalier guignette,2016,0,20
+Cygne tuberculé,2018,0,20
+Gobemouche noir,2016,0,10
+Gorgebleue à miroir,2012,0,1
+Grive mauvis,2018,0,5
+Harle huppé,2009,0,1
+Héron pourpré,2016,0,8
+Hibou moyen-duc,2015,0,1
+Moineau friquet,2017,0,1
+Mouette rieuse,2010,0,2
+Phragmite des joncs,2015,0,3
+Pic épeichette,2017,0,11
+Pipit spioncelle,2018,0,4
+Pouillot siffleur,2010,0,2
+Roitelet huppé,2017,0,4
+Sarcelle d'été,2018,0,8
+Vanneau huppé,2015,0,5
+Vautour fauve,2016,0,2

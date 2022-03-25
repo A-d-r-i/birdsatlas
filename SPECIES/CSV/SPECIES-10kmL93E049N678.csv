@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard pâle"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle de fenêtre"
-"0";"Hypolaïs polyglotte"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,7
+Bécasse des bois,2015,0,2
+Bécassine des marais,2017,0,1
+Bondrée apivore,2012,0,1
+Bouscarle de Cetti,2015,0,3
+Bouvreuil pivoine,2017,0,2
+Bruant des neiges,2016,0,1
+Bruant des roseaux,2015,0,1
+Bruant proyer,2017,0,3
+Busard pâle,2018,0,1
+Busard Saint-Martin,2015,0,8
+Caille des blés,2017,0,3
+Chevalier culblanc,2015,0,3
+Choucas des tours,2017,0,10
+Cygne tuberculé,2017,0,1
+Engoulevent d'Europe,2012,0,4
+Faisan de Colchide,2018,0,11
+Faisan vénéré,2018,0,2
+Faucon hobereau,2016,0,5
+Faucon pèlerin,2015,0,1
+Fauvette des jardins,2017,0,7
+Fauvette grisette,2018,0,11
+Grande Aigrette,2018,0,16
+Grive litorne,2018,0,15
+Grosbec casse-noyaux,2018,0,13
+Héron pourpré,2015,0,1
+Hirondelle de fenêtre,2018,0,8
+Hypolaïs polyglotte,2017,0,21
+Mésange huppée,2011,0,1
+Milan royal,2014,0,1
+Oie cendrée,2017,0,7
+Pie-grièche écorcheur,2015,0,9
+Pipit des arbres,2018,0,14
+Pouillot fitis,2011,0,1
+Pouillot siffleur,2015,0,1
+Roitelet à triple bandeau,2015,0,1
+Roitelet huppé,2018,0,5
+Rossignol philomèle,2017,0,11
+Rougequeue à front blanc,2017,0,3
+Serin cini,2010,0,2
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1

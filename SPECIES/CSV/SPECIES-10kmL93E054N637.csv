@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant jaune"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Faucon émerillon"
-"0";"Fauvette pitchou"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2011,0,2
+Bécasse des bois,2008,0,1
+Bruant jaune,2017,0,4
+Cigogne noire,2014,0,1
+Cochevis huppé,2009,0,1
+Faucon émerillon,2017,0,1
+Fauvette pitchou,2009,0,4
+Hirondelle de rivage,2018,0,1
+Locustelle tachetée,2018,0,1
+Merle à plastron,2017,0,1
+Moineau friquet,2013,0,4
+Moineau soulcie,2014,0,4
+Pipit rousseline,2013,0,1
+Pouillot siffleur,2007,0,1
+Torcol fourmilier,2018,0,2

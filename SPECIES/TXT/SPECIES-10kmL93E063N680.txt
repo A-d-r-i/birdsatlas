@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Canard siffleur
-0        Cigogne blanche
-0        Cochevis huppé
-0        Effraie des clochers
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Foulque macroule
-0        Gobemouche noir
-0        Goéland leucophée
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Merle à plastron
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie cendrée
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Traquet motteux
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bihoreau gris          2009    0        1
+Bondrée apivore        2012    0        4
+Bouvreuil pivoine      2019    0        7
+Bruant des roseaux     2009    0        1
+Busard cendré          2009    0        1
+Busard des roseaux     2018    0        3
+Canard siffleur        2014    0        1
+Cigogne blanche        2018    0        1
+Cochevis huppé         2009    0        1
+Effraie des clochers   2011    0        2
+Épervier d'Europe      2013    0        5
+Faucon hobereau        2012    0        4
+Faucon pèlerin         2011    0        2
+Foulque macroule       2017    0        6
+Gobemouche noir        2013    0        1
+Goéland leucophée      2016    0        1
+Grive litorne          2019    0        7
+Grive mauvis           2019    0        2
+Hibou moyen-duc        2009    0        2
+Huppe fasciée          2009    0        1
+Merle à plastron       2015    0        1
+Moineau friquet        2009    0        1
+Oedicnème criard       2016    0        4
+Oie cendrée            2017    0        1
+Perdrix rouge          2013    0        2
+Phragmite des joncs    2009    0        1
+Pipit spioncelle       2015    0        1
+Pluvier doré           2015    0        7
+Pouillot siffleur      2009    0        1
+Rousserolle effarvatte 2009    0        1
+Sterne pierregarin     2017    0        1
+Tadorne casarca        2015    0        2
+Traquet motteux        2012    0        1
 

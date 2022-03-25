@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Pigeon biset domestique"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Pigeon biset domestique,2018,0,1
+Tarier pâtre,2019,0,1

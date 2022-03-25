@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Hirondelle de fenêtre"
-"0";"Martinet noir"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Roitelet huppé"
+frname,lastobs,newcount,oldcount
+Bernache cravant,2014,0,1
+Bondrée apivore,2011,0,1
+Faisan de Colchide,2013,0,2
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2015,0,2
+Hirondelle de fenêtre,2016,0,3
+Martinet noir,2017,0,3
+Pic épeichette,2009,0,1
+Pic noir,2009,0,1
+Pipit des arbres,2009,0,1
+Roitelet huppé,2015,0,2

@@ -1,58 +1,56 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette haussecol"
-"0";"Autour des palombes"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Échasse blanche"
-"0";"Érismature rousse"
-"0";"Fauvette des jardins"
-"0";"Fuligule à bec cerclé"
-"0";"Gobemouche noir"
-"0";"Goéland bourgmestre"
-"0";"Gorgebleue à miroir"
-"0";"Grand Corbeau"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe jougris"
-"0";"Grimpereau des bois"
-"0";"Grimpereau des jardins"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Océanite culblanc"
-"0";"Oie des moissons"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Phalarope à bec large"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin des Anglais"
-"0";"Puffin fuligineux"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne naine"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette haussecol,2016,0,1
+Autour des palombes,2009,0,1
+Bécasseau cocorli,2015,0,2
+Bécasseau de Temminck,2015,0,10
+Busard pâle,2016,0,4
+Buse pattue,2015,0,12
+Caille des blés,2009,0,1
+Chevalier aboyeur,2018,0,33
+Chevalier arlequin,2014,0,3
+Chevalier guignette,2018,0,17
+Chevalier sylvain,2014,0,2
+Cisticole des joncs,2009,0,9
+Combattant varié,2016,0,14
+Cygne chanteur,2010,0,3
+Cygne de Bewick,2009,0,1
+Échasse blanche,2018,0,7
+Érismature rousse,2016,0,1
+Fauvette des jardins,2009,0,1
+Fuligule à bec cerclé,2007,0,5
+Gobemouche noir,2018,0,1
+Goéland bourgmestre,2017,0,13
+Gorgebleue à miroir,2009,0,2
+Grand Corbeau,2018,0,4
+Gravelot à collier interrompu,2010,0,1
+Grèbe jougris,2018,0,1
+Grimpereau des bois,2012,0,1
+Grimpereau des jardins,2015,0,4
+Grosbec casse-noyaux,2018,0,2
+Guifette noire,2018,0,3
+Harle bièvre,2010,0,1
+Harle piette,2009,0,1
+Hibou moyen-duc,2009,0,2
+Hypolaïs polyglotte,2009,0,1
+Jaseur boréal,2010,0,4
+Mésange huppée,2016,0,1
+Mésange noire,2015,0,16
+Milan noir,2018,0,1
+Océanite culblanc,2017,0,3
+Oie des moissons,2017,0,3
+Ouette d'Egypte,2012,0,4
+Petit Gravelot,2018,0,18
+Phalarope à bec large,2014,0,3
+Pigeon biset (origine naturelle),2009,0,1
+Pouillot à grands sourcils,2017,0,1
+Puffin des Anglais,2018,0,6
+Puffin fuligineux,2016,0,1
+Rousserolle verderolle,2009,0,1
+Sarcelle d'été,2018,0,1
+Sizerin boréal (C.f.flammea),2017,0,1
+Sizerin cabaret,2016,0,2
+Sizerin flammé,2017,0,5
+Sterne arctique,2018,0,6
+Sterne naine,2018,0,10
+Tarier des prés,2018,0,6
+Torcol fourmilier,2018,0,1

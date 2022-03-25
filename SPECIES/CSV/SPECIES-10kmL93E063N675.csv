@@ -1,48 +1,46 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Canard carolin"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Labbe"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Pipit maritime"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sterne caugek"
-"0";"Tadorne de Belon"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Avocette élégante,2012,0,2
+Barge rousse,2010,0,3
+Bécasseau cocorli,2016,0,7
+Bécasseau minute,2016,0,2
+Bécasseau sanderling,2010,0,2
+Bernache nonnette,2009,0,1
+Bondrée apivore,2009,0,1
+Canard carolin,2013,0,2
+Chevalier sylvain,2014,0,13
+Chevêche d'Athéna,2015,0,5
+Cochevis huppé,2017,0,2
+Combattant varié,2016,0,10
+Courlis corlieu,2015,0,3
+Faisan vénéré,2016,0,1
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Garrot à oeil d'or,2009,0,1
+Goéland brun,2009,0,1
+Goéland cendré,2014,0,5
+Grand Labbe,2013,0,2
+Guifette leucoptère,2015,0,1
+Guifette moustac,2017,0,11
+Guifette noire,2017,0,20
+Huîtrier pie,2011,0,1
+Locustelle tachetée,2009,0,1
+Macreuse noire,2009,0,1
+Mouette pygmée,2015,0,7
+Mouette tridactyle,2014,0,2
+Nette rousse,2009,0,1
+Oedicnème criard,2018,0,4
+Oie cendrée,2012,0,2
+Perdrix grise,2018,0,5
+Pic cendré,2009,0,1
+Pie-grièche grise,2009,0,1
+Pipit des arbres,2012,0,2
+Pipit maritime,2016,0,1
+Pluvier argenté,2017,0,4
+Pouillot à grands sourcils,2017,0,1
+Pouillot de Bonelli,2009,0,1
+Râle d'eau,2009,0,1
+Rousserolle effarvatte,2018,0,4
+Sterne caugek,2013,0,1
+Tadorne de Belon,2009,0,1
+Tournepierre à collier,2010,0,2

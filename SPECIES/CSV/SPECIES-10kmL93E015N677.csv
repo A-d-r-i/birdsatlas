@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Canard carolin"
-"0";"Crabier chevelu"
-"0";"Érismature rousse"
-"0";"Fuligule à tête noire"
-"0";"Fuligule nyroca"
-"0";"Goéland à ailes blanches"
-"0";"Grand Labbe"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Ibis sacré"
-"0";"Labbe pomarin"
-"0";"Macareux moine"
-"0";"Océanite culblanc"
-"0";"Oedicnème criard"
-"0";"Oie à bec court"
-"0";"Oie rieuse"
-"0";"Outarde canepetière"
-"0";"Perruche ondulée"
-"0";"Pluvier fauve"
-"0";"Sterne arctique"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2018,0,8
+Bihoreau gris,2017,0,2
+Canard carolin,2011,0,3
+Crabier chevelu,2015,0,6
+Érismature rousse,2016,0,10
+Fuligule à tête noire,2018,0,16
+Fuligule nyroca,2018,0,1
+Goéland à ailes blanches,2018,0,1
+Grand Labbe,2012,0,1
+Harle huppé,2016,0,1
+Harle piette,2009,0,1
+Ibis sacré,2012,0,1
+Labbe pomarin,2008,0,1
+Macareux moine,2018,0,6
+Océanite culblanc,2014,0,1
+Oedicnème criard,2018,0,2
+Oie à bec court,2013,0,3
+Oie rieuse,2016,0,23
+Outarde canepetière,2018,0,1
+Perruche ondulée,2015,0,1
+Pluvier fauve,2017,0,15
+Sterne arctique,2015,0,2

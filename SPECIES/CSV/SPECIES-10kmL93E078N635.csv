@@ -1,28 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grand-duc d'Europe"
-"0";"Grive mauvis"
-"0";"Monticole bleu"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit farlouse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Tarier pâtre"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,5
+Autour des palombes,2017,0,1
+Bécasse des bois,2016,0,1
+Bergeronnette printanière,2016,0,1
+Bouscarle de Cetti,2018,0,1
+Busard des roseaux,2015,0,1
+Busard Saint-Martin,2018,0,1
+Effraie des clochers,2011,0,1
+Fauvette des jardins,2018,0,6
+Gallinule poule-d'eau,2015,0,1
+Grand-duc d'Europe,2016,0,1
+Grive mauvis,2016,0,1
+Monticole bleu,2016,0,1
+Perdrix rouge,2015,0,1
+Petit-duc scops,2015,0,2
+Pic noir,2016,0,3
+Pie-grièche écorcheur,2013,0,1
+Pipit farlouse,2016,0,5
+Pipit rousseline,2009,0,1
+Pipit spioncelle,2009,0,2
+Pouillot fitis,2016,0,1
+Tarier pâtre,2016,0,4
+Tourterelle des bois,2018,0,8
+Traquet motteux,2014,0,1

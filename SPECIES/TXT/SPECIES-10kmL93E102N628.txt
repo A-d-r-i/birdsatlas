@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bécasseau variable
-0        Bruant zizi
-0        Butor étoilé
-0        Caille des blés
-0        Canard à collier noir
-0        Canard carolin
-0        Canard chipeau
-0        Canard siffleur
-0        Cassenoix moucheté
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Combattant varié
-0        Coucou gris
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Flamant rose
-0        Grèbe à cou noir
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Guifette moustac
-0        Harle huppé
-0        Inséparable de Fischer
-0        Macreuse noire
-0        Mouette mélanocéphale
-0        Nette rousse
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Phragmite des joncs
-0        Pie-grièche écorcheur
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Plongeon imbrin
-0        Pluvier doré
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Sterne pierregarin
-0        Tournepierre à collier
-0        Vanneau huppé
-0        Vautour moine
-0        Venturon montagnard
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigle botté            2018    0        19
+Alouette lulu          2015    0        2
+Bécasseau variable     2012    0        1
+Bruant zizi            2018    0        8
+Butor étoilé           2017    0        1
+Caille des blés        2016    0        1
+Canard à collier noir  2016    0        13
+Canard carolin         2017    0        47
+Canard chipeau         2017    0        2
+Canard siffleur        2018    0        2
+Cassenoix moucheté     2017    0        1
+Chevalier aboyeur      2014    0        1
+Chevalier arlequin     2017    0        1
+Combattant varié       2015    0        5
+Coucou gris            2013    0        6
+Effraie des clochers   2017    0        2
+Engoulevent d'Europe   2013    0        1
+Flamant rose           2015    0        1
+Grèbe à cou noir       2011    0        5
+Grèbe huppé            2016    0        4
+Grive draine           2018    0        4
+Grive litorne          2018    0        1
+Guifette moustac       2012    0        1
+Harle huppé            2010    0        2
+Inséparable de Fischer 2009    0        2
+Macreuse noire         2009    0        2
+Mouette mélanocéphale  2016    0        5
+Nette rousse           2017    0        1
+Oie cendrée            2011    0        9
+Ouette d'Egypte        2016    0        3
+Phragmite des joncs    2018    0        1
+Pie-grièche écorcheur  2015    0        2
+Pipit rousseline       2015    0        1
+Pipit spioncelle       2017    0        1
+Plongeon catmarin      2011    0        4
+Plongeon imbrin        2013    0        2
+Pluvier doré           2015    0        1
+Rémiz penduline        2018    0        4
+Sarcelle d'été         2018    0        7
+Sarcelle d'hiver       2018    0        34
+Sterne pierregarin     2018    0        2
+Tournepierre à collier 2011    0        1
+Vanneau huppé          2018    0        4
+Vautour moine          2010    0        1
+Venturon montagnard    2016    0        1
 

@@ -1,50 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Buse pattue"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pic vert"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2011,0,1
+Bruant des roseaux,2010,0,2
+Buse pattue,2009,0,3
+Chevalier guignette,2011,0,1
+Chevêche d'Athéna,2012,0,4
+Chouette hulotte,2012,0,3
+Courlis cendré,2011,0,1
+Effraie des clochers,2015,0,2
+Engoulevent d'Europe,2017,0,16
+Faucon émerillon,2011,0,3
+Faucon hobereau,2012,0,4
+Faucon pèlerin,2010,0,2
+Gobemouche gris,2012,0,4
+Grèbe castagneux,2011,0,3
+Grèbe huppé,2011,0,4
+Grive litorne,2015,0,8
+Grive mauvis,2012,0,4
+Grosbec casse-noyaux,2014,0,16
+Héron cendré,2012,0,6
+Locustelle tachetée,2018,0,10
+Loriot d'Europe,2018,0,8
+Martin-pêcheur d'Europe,2011,0,5
+Merle à plastron,2011,0,1
+Mésange boréale,2017,0,2
+Mésange nonnette,2011,0,5
+Perdrix rouge,2015,0,1
+Pic mar,2012,0,6
+Pic vert,2018,0,7
+Pie-grièche grise,2010,0,3
+Pigeon colombin,2014,0,6
+Pinson du Nord,2013,0,6
+Pipit farlouse,2017,0,1
+Roitelet huppé,2018,0,10
+Rougequeue à front blanc,2011,0,1
+Rougequeue noir,2013,0,7
+Rousserolle effarvatte,2011,0,3
+Rousserolle verderolle,2011,0,3
+Sarcelle d'hiver,2010,0,2
+Serin cini,2015,0,6
+Sizerin flammé,2011,0,1
+Tarier des prés,2017,0,15
+Tarin des aulnes,2011,0,4
+Traquet motteux,2018,0,6
+Verdier d'Europe,2011,0,6

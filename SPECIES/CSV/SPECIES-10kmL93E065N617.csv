@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigrette garzette"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette à lunettes"
-"0";"Gallinule poule-d'eau"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Mouette rieuse"
-"0";"Pic vert"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pipit de Richard"
-"0";"Rollier d'Europe"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,4
+Aigrette garzette,2017,0,6
+Bec-croisé des sapins,2018,0,5
+Bergeronnette printanière,2018,0,4
+Bihoreau gris,2017,0,1
+Bruant des roseaux,2018,0,13
+Bruant jaune,2018,0,9
+Busard cendré,2017,0,6
+Busard des roseaux,2018,0,2
+Calopsitte élégante,2013,0,1
+Canard mandarin,2015,0,2
+Canard souchet,2017,0,2
+Chevalier aboyeur,2016,0,2
+Chevalier sylvain,2012,0,1
+Chevêche d'Athéna,2017,0,2
+Choucas des tours,2017,0,8
+Chouette hulotte,2016,0,15
+Cigogne noire,2016,0,1
+Coucou geai,2018,0,1
+Effraie des clochers,2016,0,7
+Faucon d'Eléonore,2015,0,1
+Fauvette à lunettes,2009,0,1
+Gallinule poule-d'eau,2012,0,1
+Grand-duc d'Europe,2016,0,3
+Grèbe castagneux,2015,0,4
+Héron pourpré,2017,0,1
+Hibou moyen-duc,2009,0,1
+Hirondelle rousseline,2009,0,1
+Locustelle tachetée,2012,0,1
+Martinet à ventre blanc,2018,0,3
+Merle à plastron,2018,0,2
+Mouette rieuse,2018,0,24
+Pic vert,2009,0,2
+Pie-grièche méridionale,2017,0,11
+Pigeon colombin,2018,0,3
+Pipit de Richard,2017,0,1
+Rollier d'Europe,2011,0,1
+Tarier des prés,2018,0,6

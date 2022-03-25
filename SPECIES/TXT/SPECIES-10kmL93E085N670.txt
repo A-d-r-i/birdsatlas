@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Cincle plongeur
-0        Courlis cendré
-0        Goéland brun
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Mouette rieuse
-0        Nette rousse
-0        Oie cendrée
-0        Petit-duc scops
-0        Pipit rousseline
-0        Râle d'eau
-0        Sizerin boréal (C.f.flammea)
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour fauve
+frname                       lastobs newcount oldcount
+------                       ------- -------- --------
+Aigrette garzette            2014    0        1
+Bécassine des marais         2016    0        3
+Chevalier aboyeur            2014    0        1
+Chevalier guignette          2018    0        5
+Cincle plongeur              2017    0        9
+Courlis cendré               2017    0        2
+Goéland brun                 2017    0        1
+Hibou des marais             2018    0        1
+Hirondelle de rivage         2016    0        1
+Locustelle tachetée          2017    0        2
+Mouette rieuse               2016    0        2
+Nette rousse                 2012    0        11
+Oie cendrée                  2015    0        1
+Petit-duc scops              2017    0        4
+Pipit rousseline             2017    0        2
+Râle d'eau                   2016    0        5
+Sizerin boréal (C.f.flammea) 2018    0        3
+Sizerin cabaret              2018    0        30
+Sizerin flammé               2018    0        33
+Vautour fauve                2015    0        1
 

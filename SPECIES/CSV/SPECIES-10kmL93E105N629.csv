@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Buse variable"
-"0";"Cormoran huppé"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Faucon pèlerin"
-"0";"Flamant rose"
-"0";"Grèbe à cou noir"
-"0";"Grimpereau des jardins"
-"0";"Héron cendré"
-"0";"Héron pourpré"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Inséparable de Fischer"
-"0";"Inséparable masqué"
-"0";"Martinet à ventre blanc"
-"0";"Martinet noir"
-"0";"Martinet pâle"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Mouette mélanocéphale"
-"0";"Perruche à collier"
-"0";"Pic vert"
-"0";"Pinson des arbres"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougegorge familier"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2016,0,1
+Bondrée apivore,2017,0,1
+Buse variable,2018,0,2
+Cormoran huppé,2018,0,9
+Épervier d'Europe,2018,0,1
+Faucon crécerelle,2014,0,5
+Faucon pèlerin,2015,0,1
+Flamant rose,2009,0,1
+Grèbe à cou noir,2010,0,2
+Grimpereau des jardins,2018,0,5
+Héron cendré,2016,0,3
+Héron pourpré,2012,0,1
+Hirondelle rustique,2013,0,1
+Huppe fasciée,2012,0,1
+Inséparable de Fischer,2014,0,2
+Inséparable masqué,2011,0,2
+Martinet à ventre blanc,2013,0,1
+Martinet noir,2014,0,1
+Martinet pâle,2013,0,1
+Martin-pêcheur d'Europe,2015,0,4
+Mésange charbonnière,2018,0,10
+Mésange huppée,2018,0,21
+Mouette mélanocéphale,2018,0,5
+Perruche à collier,2012,0,2
+Pic vert,2017,0,1
+Pinson des arbres,2018,0,14
+Pluvier argenté,2018,0,1
+Pluvier doré,2016,0,2
+Pouillot véloce,2018,0,11
+Roitelet à triple bandeau,2018,0,22
+Roitelet huppé,2018,0,9
+Rougegorge familier,2018,0,32
+Sarcelle d'hiver,2012,0,1
+Serin cini,2012,0,5
+Tichodrome échelette,2015,0,2
+Tourterelle des bois,2015,0,1
+Tourterelle turque,2018,0,17
+Troglodyte mignon,2016,0,3

@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Nette rousse"
-"0";"Outarde canepetière"
-"0";"Pie-grièche méridionale"
-"0";"Pluvier doré"
-"0";"Pluvier guignard"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2009,0,2
+Autour des palombes,2015,0,8
+Bécasse des bois,2013,0,3
+Bergeronnette flavéole (M.f.flavissima),2011,0,2
+Bihoreau gris,2012,0,1
+Bouvreuil pivoine,2018,0,2
+Bruant jaune,2017,0,32
+Bruant ortolan,2013,0,2
+Calopsitte élégante,2013,0,9
+Canard mandarin,2014,0,2
+Chevalier culblanc,2018,0,3
+Fauvette des jardins,2011,0,2
+Fauvette orphée,2007,0,1
+Fauvette passerinette,2011,0,2
+Gobemouche gris,2018,0,5
+Goéland leucophée,2012,0,2
+Gorgebleue à miroir,2011,0,1
+Grèbe huppé,2017,0,2
+Grive litorne,2018,0,13
+Héron pourpré,2016,0,2
+Hibou des marais,2012,0,11
+Locustelle tachetée,2010,0,1
+Nette rousse,2017,0,1
+Outarde canepetière,2018,0,3
+Pie-grièche méridionale,2017,0,20
+Pluvier doré,2017,0,7
+Pluvier guignard,2007,0,1
+Sarcelle d'été,2009,0,1

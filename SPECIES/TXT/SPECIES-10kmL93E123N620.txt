@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant zizi
-0        Fauvette de Moltoni
-0        Hirondelle de rochers
-0        Locustelle tachetée
-0        Monticole bleu
-0        Serin cini
-0        Tourterelle des bois
-0        Venturon corse
-0        Verdier d'Europe
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bruant zizi           2009    0        1
+Fauvette de Moltoni   2009    0        1
+Hirondelle de rochers 2009    0        1
+Locustelle tachetée   2009    0        1
+Monticole bleu        2017    0        2
+Serin cini            2009    0        1
+Tourterelle des bois  2009    0        1
+Venturon corse        2009    0        1
+Verdier d'Europe      2009    0        1
 

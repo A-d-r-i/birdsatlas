@@ -1,27 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Chevêchette d'Europe"
-"0";"Combattant varié"
-"0";"Effraie des clochers"
-"0";"Fuligule nyroca"
-"0";"Gélinotte des bois"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Hibou moyen-duc"
-"0";"Locustelle luscinioïde"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Ouette d'Egypte"
-"0";"Petit-duc scops"
-"0";"Pluvier guignard"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2010,0,2
+Canard chipeau,2016,0,36
+Canard souchet,2015,0,4
+Chevalier sylvain,2013,0,4
+Chevêchette d'Europe,2017,0,1
+Combattant varié,2017,0,1
+Effraie des clochers,2012,0,7
+Fuligule nyroca,2008,0,1
+Gélinotte des bois,2016,0,1
+Goéland cendré,2013,0,2
+Grèbe à cou noir,2018,0,3
+Hibou moyen-duc,2016,0,2
+Locustelle luscinioïde,2011,0,2
+Moineau friquet,2015,0,2
+Nette rousse,2013,0,9
+Ouette d'Egypte,2017,0,2
+Petit-duc scops,2011,0,2
+Pluvier guignard,2016,0,1
+Rousserolle turdoïde,2012,0,3
+Rousserolle verderolle,2012,0,3
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3

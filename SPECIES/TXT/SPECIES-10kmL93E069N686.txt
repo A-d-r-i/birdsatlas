@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécassine des marais
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard mandarin
-0        Chevalier culblanc
-0        Cygne tuberculé
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Martin-pêcheur d'Europe
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Pie-grièche écorcheur
-0        Pouillot fitis
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sterne pierregarin
-0        Tarier des prés
-0        Torcol fourmilier
-0        Tourterelle des bois
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette lulu           2018    0        1
+Bécassine des marais    2011    0        1
+Bruant des roseaux      2016    0        8
+Busard cendré           2013    0        1
+Busard Saint-Martin     2018    0        7
+Caille des blés         2011    0        2
+Canard mandarin         2015    0        1
+Chevalier culblanc      2014    0        4
+Cygne tuberculé         2016    0        4
+Faucon émerillon        2010    0        2
+Faucon hobereau         2011    0        3
+Faucon pèlerin          2013    0        1
+Fauvette babillarde     2011    0        3
+Grèbe castagneux        2017    0        5
+Grèbe huppé             2011    0        2
+Grosbec casse-noyaux    2019    0        32
+Hibou moyen-duc         2018    0        4
+Locustelle tachetée     2011    0        1
+Martin-pêcheur d'Europe 2018    0        3
+Ouette d'Egypte         2011    0        2
+Perdrix grise           2017    0        26
+Perdrix rouge           2013    0        4
+Pie-grièche écorcheur   2012    0        3
+Pouillot fitis          2015    0        5
+Râle d'eau              2013    0        1
+Rousserolle effarvatte  2012    0        3
+Rousserolle verderolle  2012    0        1
+Sterne pierregarin      2012    0        3
+Tarier des prés         2018    0        5
+Torcol fourmilier       2016    0        2
+Tourterelle des bois    2014    0        4
 

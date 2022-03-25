@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Bergeronnette printanière"
-"0";"Bruant ortolan"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fauvette mélanocéphale"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Perroquet jaco"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,4
+Aigle royal,2014,0,1
+Bergeronnette printanière,2015,0,6
+Bruant ortolan,2010,0,4
+Cigogne blanche,2013,0,1
+Cigogne noire,2012,0,3
+Cincle plongeur,2012,0,2
+Courlis cendré,2013,0,1
+Élanion blanc,2013,0,1
+Faisan vénéré,2011,0,1
+Fauvette babillarde,2018,0,3
+Fauvette mélanocéphale,2016,0,1
+Grande Aigrette,2017,0,1
+Grimpereau des bois,2016,0,3
+Hirondelle de rivage,2010,0,1
+Locustelle tachetée,2011,0,1
+Merle à plastron,2012,0,1
+Mésange boréale,2010,0,1
+Mouette rieuse,2013,0,1
+Perroquet jaco,2015,0,1
+Petit-duc scops,2017,0,6
+Pie-grièche grise,2016,0,1
+Vanneau huppé,2016,0,3

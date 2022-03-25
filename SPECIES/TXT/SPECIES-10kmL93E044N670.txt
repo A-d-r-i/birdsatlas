@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau rousset
-0        Bernache du Canada
-0        Bernache nonnette
-0        Busard des roseaux
-0        Calopsitte élégante
-0        Canard mandarin
-0        Chevalier stagnatile
-0        Crabier chevelu
-0        Dendrocygne fauve
-0        Faisan vénéré
-0        Fuligule milouin
-0        Garrot à oeil d'or
-0        Goéland pontique
-0        Grèbe à cou noir
-0        Guifette leucoptère
-0        Ibis sacré
-0        Jaseur boréal
-0        Labbe parasite
-0        Merle à plastron
-0        Oie à tête barrée
-0        Perruche à collier
-0        Plongeon catmarin
-0        Râle des genêts
-0        Sterne hansel
-0        Tadorne casarca
-0        Torcol fourmilier
-0        Vanneau sociable
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasseau rousset    2008    0        1
+Bernache du Canada   2014    0        7
+Bernache nonnette    2018    0        7
+Busard des roseaux   2014    0        1
+Calopsitte élégante  2016    0        1
+Canard mandarin      2016    0        5
+Chevalier stagnatile 2016    0        8
+Crabier chevelu      2017    0        1
+Dendrocygne fauve    2009    0        1
+Faisan vénéré        2018    0        1
+Fuligule milouin     2017    0        6
+Garrot à oeil d'or   2012    0        4
+Goéland pontique     2016    0        3
+Grèbe à cou noir     2016    0        1
+Guifette leucoptère  2010    0        22
+Ibis sacré           2016    0        4
+Jaseur boréal        2009    0        1
+Labbe parasite       2013    0        6
+Merle à plastron     2011    0        1
+Oie à tête barrée    2009    0        5
+Perruche à collier   2014    0        1
+Plongeon catmarin    2016    0        1
+Râle des genêts      2013    0        2
+Sterne hansel        2015    0        1
+Tadorne casarca      2015    0        2
+Torcol fourmilier    2016    0        1
+Vanneau sociable     2017    0        1
 

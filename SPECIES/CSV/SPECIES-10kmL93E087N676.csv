@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset domestique"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Bécasse des bois,2011,0,2
+Bruant des neiges,2011,0,1
+Bruant des roseaux,2012,0,1
+Busard cendré,2012,0,1
+Chevêche d'Athéna,2017,0,3
+Chouette hulotte,2016,0,12
+Cigogne blanche,2016,0,5
+Coucou gris,2016,0,10
+Engoulevent d'Europe,2012,0,2
+Faucon émerillon,2017,0,2
+Foulque macroule,2014,0,3
+Gallinule poule-d'eau,2009,0,2
+Gobemouche noir,2017,0,1
+Grèbe huppé,2014,0,1
+Grimpereau des bois,2013,0,1
+Grive mauvis,2015,0,12
+Héron pourpré,2014,0,1
+Hibou des marais,2013,0,1
+Hibou moyen-duc,2012,0,2
+Hirondelle de rivage,2011,0,2
+Hypolaïs polyglotte,2018,0,13
+Jaseur boréal,2012,0,1
+Mésange boréale,2017,0,5
+Moineau friquet,2018,0,15
+Mouette rieuse,2017,0,3
+Perdrix grise,2010,0,7
+Petit Gravelot,2011,0,6
+Phragmite des joncs,2009,0,2
+Pic épeichette,2016,0,7
+Pic noir,2017,0,20
+Pie-grièche à tête rousse,2010,0,2
+Pigeon biset domestique,2017,0,6
+Pipit spioncelle,2012,0,1
+Pluvier doré,2013,0,1
+Pouillot fitis,2017,0,27
+Roitelet à triple bandeau,2013,0,7
+Roitelet huppé,2017,0,30
+Tarier des prés,2018,0,7
+Torcol fourmilier,2017,0,11

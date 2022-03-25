@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécassine sourde"
-"0";"Bruant fou"
-"0";"Busard pâle"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Circaète Jean-le-Blanc"
-"0";"Combattant varié"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Faucon kobez"
-"0";"Fuligule morillon"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Harle huppé"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Oie des moissons"
-"0";"Panure à moustaches"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Râle des genêts"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle royal,2016,0,1
+Bécassine sourde,2016,0,9
+Bruant fou,2011,0,1
+Busard pâle,2013,0,1
+Canard souchet,2017,0,7
+Chevalier gambette,2007,0,1
+Chevalier sylvain,2015,0,4
+Circaète Jean-le-Blanc,2013,0,1
+Combattant varié,2016,0,1
+Crabier chevelu,2008,0,3
+Cygne chanteur,2011,0,4
+Cygne noir,2013,0,1
+Faucon kobez,2017,0,3
+Fuligule morillon,2017,0,5
+Goéland brun,2014,0,6
+Goéland cendré,2012,0,4
+Gorgebleue à miroir,2015,0,9
+Grèbe huppé,2017,0,27
+Harle huppé,2016,0,4
+Héron garde-boeufs,2012,0,1
+Hibou des marais,2011,0,1
+Hypolaïs ictérine,2017,0,2
+Jaseur boréal,2009,0,1
+Marouette ponctuée,2016,0,1
+Mouette pygmée,2014,0,1
+Oie cendrée,2015,0,3
+Oie des moissons,2008,0,1
+Panure à moustaches,2008,0,1
+Petit Gravelot,2013,0,7
+Phragmite des joncs,2016,0,1
+Pie-grièche à tête rousse,2010,0,1
+Râle des genêts,2007,0,6
+Rollier d'Europe,2018,0,1
+Rousserolle turdoïde,2016,0,1
+Sarcelle d'été,2017,0,13
+Sizerin boréal (C.f.flammea),2009,0,2
+Vautour fauve,2012,0,3

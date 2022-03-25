@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevêche d'Athéna"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Goéland cendré"
-"0";"Mésange huppée"
-"0";"Nette rousse"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2017,0,2
+Bernache du Canada,2016,0,1
+Caille des blés,2018,0,8
+Canard chipeau,2015,0,5
+Canard siffleur,2019,0,1
+Canard souchet,2012,0,1
+Chevalier aboyeur,2016,0,2
+Chevêche d'Athéna,2012,0,1
+Courlis cendré,2016,0,2
+Engoulevent d'Europe,2012,0,4
+Faucon émerillon,2018,0,9
+Goéland cendré,2016,0,1
+Mésange huppée,2017,0,14
+Nette rousse,2013,0,1
+Pic cendré,2013,0,4
+Pie-grièche à tête rousse,2012,0,1
+Pie-grièche grise,2016,0,2
+Rémiz penduline,2015,0,3
+Rousserolle verderolle,2018,0,6

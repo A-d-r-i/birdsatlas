@@ -1,60 +1,58 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau variable"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Chouette de Tengmalm"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Courlis corlieu"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon d'Eléonore"
-"0";"Faucon émerillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland pontique"
-"0";"Grand Gravelot"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Hypolaïs polyglotte"
-"0";"Ibis falcinelle"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Loriot d'Europe"
-"0";"Marouette ponctuée"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit maritime"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Roselin cramoisi"
-"0";"Rossignol philomèle"
-"0";"Sizerin boréal (C.f.flammea)"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne arctique"
-"0";"Sterne caugek"
-"0";"Tourterelle des bois"
-"0";"Vautour fauve"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2018,0,2
+Barge à queue noire,2016,0,4
+Barge rousse,2015,0,3
+Bécasseau de Temminck,2014,0,4
+Bécasseau variable,2016,0,6
+Bergeronnette flavéole (M.f.flavissima),2008,0,1
+Bruant fou,2010,0,2
+Bruant proyer,2013,0,14
+Busard cendré,2008,0,2
+Busard pâle,2008,0,6
+Buse pattue,2017,0,8
+Canard carolin,2010,0,2
+Chevalier arlequin,2015,0,1
+Chevalier sylvain,2018,0,24
+Chouette de Tengmalm,2012,0,2
+Cisticole des joncs,2016,0,2
+Combattant varié,2018,0,13
+Corneille mantelée,2008,0,2
+Courlis corlieu,2008,0,1
+Échasse blanche,2013,0,12
+Effraie des clochers,2008,0,1
+Faucon d'Eléonore,2016,0,1
+Faucon émerillon,2016,0,4
+Garrot à oeil d'or,2018,0,21
+Goéland pontique,2012,0,4
+Grand Gravelot,2013,0,4
+Guêpier d'Europe,2017,0,2
+Guifette noire,2018,0,22
+Hypolaïs polyglotte,2012,0,2
+Ibis falcinelle,2017,0,1
+Jaseur boréal,2015,0,5
+Locustelle luscinioïde,2015,0,11
+Loriot d'Europe,2010,0,2
+Marouette ponctuée,2012,0,6
+Martinet à ventre blanc,2016,0,1
+Merle à plastron,2017,0,5
+Moineau friquet,2012,0,3
+Mouette pygmée,2016,0,7
+Oedicnème criard,2011,0,2
+Perdrix rouge,2009,0,2
+Phragmite des joncs,2015,0,9
+Pic mar,2017,0,7
+Pie-grièche à tête rousse,2018,0,7
+Pipit maritime,2012,0,1
+Pluvier argenté,2017,0,1
+Pouillot siffleur,2017,0,2
+Roselin cramoisi,2018,0,1
+Rossignol philomèle,2013,0,4
+Sizerin boréal (C.f.flammea),2014,0,1
+Sizerin cabaret,2014,0,3
+Sizerin flammé,2014,0,10
+Spatule blanche,2013,0,1
+Sterne arctique,2008,0,2
+Sterne caugek,2016,0,3
+Tourterelle des bois,2013,0,2
+Vautour fauve,2016,0,2
+Vautour moine,2013,0,1

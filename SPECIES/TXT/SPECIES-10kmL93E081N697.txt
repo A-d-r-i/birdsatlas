@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Bondrée apivore
-0        Cigogne blanche
-0        Circaète Jean-le-Blanc
-0        Cygne de Bewick
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Goéland cendré
-0        Grand-duc d'Europe
-0        Harle piette
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Hypolaïs ictérine
-0        Locustelle tachetée
-0        Mergule nain
-0        Merle à plastron
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic cendré
-0        Pigeon colombin
-0        Plongeon catmarin
-0        Plongeon imbrin
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Spatule blanche
-0        Sterne pierregarin
-0        Tadorne de Belon
-0        Tarier des prés
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bernache nonnette      2012    0        1
+Bondrée apivore        2017    0        10
+Cigogne blanche        2018    0        3
+Circaète Jean-le-Blanc 2013    0        1
+Cygne de Bewick        2017    0        1
+Engoulevent d'Europe   2012    0        5
+Faisan de Colchide     2014    0        8
+Faucon émerillon       2018    0        1
+Faucon hobereau        2018    0        7
+Goéland cendré         2013    0        3
+Grand-duc d'Europe     2016    0        4
+Harle piette           2014    0        2
+Hibou moyen-duc        2014    0        8
+Hirondelle de rivage   2015    0        2
+Hypolaïs ictérine      2018    0        1
+Locustelle tachetée    2014    0        1
+Mergule nain           2007    0        1
+Merle à plastron       2014    0        1
+Perdrix grise          2012    0        2
+Perdrix rouge          2016    0        1
+Petit Gravelot         2017    0        2
+Pic cendré             2014    0        2
+Pigeon colombin        2012    0        2
+Plongeon catmarin      2013    0        5
+Plongeon imbrin        2011    0        2
+Rossignol philomèle    2012    0        4
+Rousserolle verderolle 2017    0        1
+Sarcelle d'été         2009    0        1
+Spatule blanche        2017    0        2
+Sterne pierregarin     2017    0        3
+Tadorne de Belon       2017    0        14
+Tarier des prés        2016    0        7
 

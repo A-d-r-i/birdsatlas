@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Chevêchette d'Europe"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigle botté,2013,0,3
+Alouette des champs,2018,0,5
+Chevêchette d'Europe,2016,0,1
+Chouette de Tengmalm,2018,0,2
+Cigogne blanche,2016,0,3
+Effraie des clochers,2015,0,1
+Fauvette des jardins,2013,0,2
+Grand Cormoran,2017,0,2
+Grand-duc d'Europe,2012,0,3
+Héron garde-boeufs,2015,0,1
+Hibou moyen-duc,2017,0,1
+Moineau friquet,2014,0,2
+Tarier des prés,2013,0,1

@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard pâle"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Épervier d'Europe"
-"0";"Fauvette à tête noire"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Goéland brun"
-"0";"Grive litorne"
-"0";"Hypolaïs ictérine"
-"0";"Pipit des arbres"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Bruant jaune,2009,0,1
+Bruant proyer,2009,0,1
+Busard pâle,2016,0,1
+Caille des blés,2009,0,1
+Canard colvert,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2018,0,1
+Corbeau freux,2009,0,2
+Épervier d'Europe,2018,0,1
+Fauvette à tête noire,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2009,0,1
+Goéland brun,2017,0,1
+Grive litorne,2009,0,1
+Hypolaïs ictérine,2009,0,1
+Pipit des arbres,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2017,0,1
+Tarier pâtre,2009,0,1

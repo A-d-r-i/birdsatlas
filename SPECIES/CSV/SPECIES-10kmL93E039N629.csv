@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Cygne tuberculé"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Pic mar"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2017,0,2
+Bergeronnette des ruisseaux,2017,0,8
+Bergeronnette printanière,2017,0,2
+Bruant jaune,2017,0,2
+Bruant proyer,2014,0,3
+Busard cendré,2009,0,1
+Cygne tuberculé,2017,0,1
+Fauvette pitchou,2014,0,1
+Foulque macroule,2013,0,5
+Gallinule poule-d'eau,2015,0,8
+Goéland brun,2015,0,1
+Mésange noire,2014,0,1
+Moineau friquet,2017,0,6
+Oie cendrée,2016,0,1
+Pic mar,2009,0,2
+Pie-grièche écorcheur,2017,0,8
+Pigeon colombin,2016,0,3
+Serin cini,2018,0,3
+Torcol fourmilier,2017,0,1
+Traquet motteux,2018,0,1

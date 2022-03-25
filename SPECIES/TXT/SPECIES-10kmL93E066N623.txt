@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigle royal
-0        Alouette calandrelle
-0        Bihoreau gris
-0        Blongios nain
-0        Butor étoilé
-0        Canard chipeau
-0        Canard pilet
-0        Canard siffleur
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon crécerellette
-0        Mésange huppée
-0        Panure à moustaches
-0        Petit-duc scops
-0        Pipit spioncelle
-0        Pluvier argenté
-0        Râle des genêts
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigle botté          2018    0        5
+Aigle royal          2015    0        1
+Alouette calandrelle 2012    0        2
+Bihoreau gris        2016    0        4
+Blongios nain        2014    0        2
+Butor étoilé         2009    0        2
+Canard chipeau       2012    0        1
+Canard pilet         2015    0        1
+Canard siffleur      2013    0        2
+Cygne tuberculé      2013    0        1
+Effraie des clochers 2012    0        21
+Engoulevent d'Europe 2018    0        3
+Faucon crécerellette 2014    0        2
+Mésange huppée       2017    0        2
+Panure à moustaches  2018    0        1
+Petit-duc scops      2018    0        7
+Pipit spioncelle     2012    0        2
+Pluvier argenté      2012    0        1
+Râle des genêts      2015    0        1
 

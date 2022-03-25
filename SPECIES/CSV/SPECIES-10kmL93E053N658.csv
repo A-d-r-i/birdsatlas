@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Cochevis huppé"
-"0";"Courlis corlieu"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Oie des moissons"
-"0";"Ouette d'Egypte"
-"0";"Outarde canepetière"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Pluvier guignard"
-"0";"Pouillot ibérique"
-"0";"Rémiz penduline"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2013,0,7
+Barge à queue noire,2013,0,2
+Bécasseau cocorli,2007,0,2
+Bécasseau de Temminck,2008,0,1
+Bécasseau minute,2014,0,5
+Bécasseau variable,2018,0,40
+Bécasse des bois,2016,0,12
+Bec-croisé des sapins,2012,0,5
+Bergeronnette flavéole (M.f.flavissima),2013,0,4
+Bernache nonnette,2012,0,1
+Blongios nain,2011,0,1
+Butor étoilé,2017,0,1
+Canard carolin,2009,0,2
+Canard mandarin,2015,0,1
+Chevalier arlequin,2016,0,11
+Chevalier sylvain,2017,0,46
+Cochevis huppé,2007,0,1
+Courlis corlieu,2013,0,4
+Fuligule nyroca,2016,0,6
+Garrot à oeil d'or,2011,0,23
+Goéland leucophée,2010,0,2
+Gorgebleue à miroir,2012,0,5
+Grand Gravelot,2016,0,12
+Guifette leucoptère,2008,0,1
+Harle bièvre,2011,0,10
+Harle huppé,2011,0,1
+Harle piette,2011,0,10
+Hibou des marais,2014,0,16
+Locustelle tachetée,2016,0,18
+Marouette ponctuée,2007,0,3
+Merle à plastron,2016,0,3
+Mouette mélanocéphale,2011,0,2
+Mouette pygmée,2018,0,12
+Oie cendrée,2018,0,72
+Oie des moissons,2010,0,8
+Ouette d'Egypte,2016,0,2
+Outarde canepetière,2010,0,1
+Petit-duc scops,2009,0,3
+Pie-grièche grise,2018,0,114
+Pluvier guignard,2016,0,4
+Pouillot ibérique,2017,0,2
+Rémiz penduline,2018,0,4
+Sizerin flammé,2008,0,1
+Sterne naine,2007,0,2
+Sterne pierregarin,2018,0,3
+Torcol fourmilier,2016,0,6
+Tournepierre à collier,2016,0,1

@@ -1,12 +1,12 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Busard des roseaux
-0        Cigogne noire
-0        Faucon émerillon
-0        Hibou moyen-duc
-0        Tarier des prés
-0        Traquet oreillard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2017    0        2
+Bergeronnette printanière 2009    0        1
+Busard des roseaux        2010    0        1
+Cigogne noire             2013    0        2
+Faucon émerillon          2018    0        1
+Hibou moyen-duc           2012    0        1
+Tarier des prés           2010    0        1
+Traquet oreillard         2010    0        1
 

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau tacheté"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Buse pattue"
-"0";"Canard mandarin"
-"0";"Courlis corlieu"
-"0";"Crabier chevelu"
-"0";"Fuligule à bec cerclé"
-"0";"Goéland marin"
-"0";"Grèbe esclavon"
-"0";"Guifette leucoptère"
-"0";"Harelde boréale"
-"0";"Hibou des marais"
-"0";"Ibis falcinelle"
-"0";"Martinet à ventre blanc"
-"0";"Oie naine"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Sizerin boréal (C.f.flammea)"
+frname,lastobs,newcount,oldcount
+Barge rousse,2014,0,3
+Bécasseau de Temminck,2018,0,1
+Bécasseau tacheté,2017,0,2
+Bécassine sourde,2018,0,14
+Bergeronnette flavéole (M.f.flavissima),2018,0,4
+Bernache du Canada,2018,0,37
+Buse pattue,2015,0,1
+Canard mandarin,2018,0,7
+Courlis corlieu,2015,0,6
+Crabier chevelu,2017,0,1
+Fuligule à bec cerclé,2018,0,77
+Goéland marin,2014,0,1
+Grèbe esclavon,2013,0,4
+Guifette leucoptère,2018,0,15
+Harelde boréale,2018,0,59
+Hibou des marais,2018,0,3
+Ibis falcinelle,2018,0,2
+Martinet à ventre blanc,2018,0,1
+Oie naine,2018,0,2
+Pic cendré,2009,0,6
+Pie-grièche grise,2012,0,73
+Sizerin boréal (C.f.flammea),2018,0,4

@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette haussecol
-0        Bouscarle de Cetti
-0        Bruant lapon
-0        Canard siffleur
-0        Chevêchette d'Europe
-0        Cincle plongeur
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Foulque macroule
-0        Fuligule milouin
-0        Héron garde-boeufs
-0        Hirondelle rousseline
-0        Mésange boréale
-0        Pie-grièche grise
-0        Tourterelle des bois
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette haussecol    2016    0        3
+Bouscarle de Cetti    2011    0        2
+Bruant lapon          2017    0        1
+Canard siffleur       2015    0        1
+Chevêchette d'Europe  2017    0        4
+Cincle plongeur       2010    0        1
+Cisticole des joncs   2017    0        3
+Corneille mantelée    2016    0        4
+Foulque macroule      2014    0        19
+Fuligule milouin      2016    0        1
+Héron garde-boeufs    2018    0        1
+Hirondelle rousseline 2017    0        2
+Mésange boréale       2015    0        1
+Pie-grièche grise     2015    0        2
+Tourterelle des bois  2015    0        1
 

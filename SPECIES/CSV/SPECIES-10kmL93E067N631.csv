@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2008,0,1
+Bécassine des marais,2018,0,1
+Bihoreau gris,2018,0,1
+Bouvreuil pivoine,2015,0,3
+Bruant jaune,2013,0,3
+Cigogne blanche,2007,0,1
+Cincle plongeur,2015,0,4
+Engoulevent d'Europe,2018,0,1
+Faisan de Colchide,2011,0,4
+Faucon pèlerin,2009,0,4
+Gallinule poule-d'eau,2016,0,3
+Goéland leucophée,2017,0,4
+Grive mauvis,2018,0,1
+Grosbec casse-noyaux,2018,0,4
+Mésange huppée,2017,0,2
+Moineau friquet,2009,0,3
+Petit-duc scops,2017,0,2
+Pic épeichette,2015,0,4
+Pigeon colombin,2016,0,1
+Roitelet huppé,2013,0,1
+Tarin des aulnes,2018,0,3
+Vanneau huppé,2018,0,2

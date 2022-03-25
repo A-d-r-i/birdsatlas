@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bruant ortolan"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon kobez"
-"0";"Goéland leucophée"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Niverolle alpine"
-"0";"Oie cendrée"
-"0";"Pigeon biset domestique"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2013,0,1
+Bruant ortolan,2016,0,8
+Chevalier culblanc,2012,0,2
+Chevalier guignette,2012,0,1
+Chevêche d'Athéna,2017,0,4
+Cigogne noire,2016,0,1
+Courlis cendré,2014,0,1
+Courlis corlieu,2016,0,1
+Effraie des clochers,2017,0,1
+Faisan de Colchide,2017,0,4
+Faucon kobez,2015,0,4
+Goéland leucophée,2017,0,1
+Locustelle tachetée,2016,0,2
+Loriot d'Europe,2017,0,1
+Niverolle alpine,2015,0,2
+Oie cendrée,2019,0,3
+Pigeon biset domestique,2016,0,1
+Tourterelle des bois,2010,0,1

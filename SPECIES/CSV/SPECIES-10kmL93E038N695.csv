@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasseau sanderling"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Chevalier gambette"
-"0";"Eider à duvet"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette grisette"
-"0";"Goéland à ailes blanches"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Guillemot de Troïl"
-"0";"Harelde boréale"
-"0";"Labbe pomarin"
-"0";"Macreuse noire"
-"0";"Mésange huppée"
-"0";"Mouette tridactyle"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic noir"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pingouin torda"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Sittelle torchepot"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,1
+Bécasseau sanderling,2009,0,1
+Bruant jaune,2009,0,1
+Bruant zizi,2009,0,1
+Chevalier gambette,2018,0,3
+Eider à duvet,2018,0,1
+Engoulevent d'Europe,2009,0,1
+Faucon pèlerin,2016,0,1
+Fauvette grisette,2009,0,1
+Goéland à ailes blanches,2018,0,2
+Grèbe à cou noir,2018,0,2
+Grèbe esclavon,2018,0,1
+Grèbe huppé,2018,0,5
+Grosbec casse-noyaux,2018,0,6
+Guillemot de Troïl,2018,0,1
+Harelde boréale,2017,0,1
+Labbe pomarin,2018,0,1
+Macreuse noire,2018,0,1
+Mésange huppée,2009,0,1
+Mouette tridactyle,2018,0,1
+Petit Gravelot,2009,0,1
+Phragmite des joncs,2009,0,1
+Pic noir,2016,0,1
+Pigeon biset domestique,2018,0,3
+Pigeon colombin,2018,0,3
+Pingouin torda,2018,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,1
+Sittelle torchepot,2009,0,2
+Tournepierre à collier,2018,0,2

@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bec-croisé des sapins"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Combattant varié"
-"0";"Faisan vénéré"
-"0";"Grèbe huppé"
-"0";"Locustelle tachetée"
-"0";"Phalarope à bec étroit"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Barge rousse,2016,0,2
+Bec-croisé des sapins,2017,0,1
+Bruant fou,2016,0,2
+Bruant proyer,2017,0,1
+Bruant zizi,2013,0,1
+Busard cendré,2012,0,1
+Canard carolin,2017,0,1
+Canard chipeau,2018,0,1
+Combattant varié,2017,0,1
+Faisan vénéré,2017,0,1
+Grèbe huppé,2018,0,2
+Locustelle tachetée,2017,0,8
+Phalarope à bec étroit,2017,0,2
+Pluvier argenté,2016,0,2
+Pouillot à grands sourcils,2014,0,1
+Rousserolle effarvatte,2013,0,1
+Sizerin cabaret,2016,0,1
+Sizerin flammé,2016,0,1
+Sterne pierregarin,2016,0,1
+Tadorne de Belon,2018,0,3

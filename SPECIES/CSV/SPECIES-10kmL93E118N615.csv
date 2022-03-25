@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouvreuil pivoine"
-"0";"Monticole bleu"
-"0";"Pie-grièche écorcheur"
+frname,lastobs,newcount,oldcount
+Bouvreuil pivoine,2009,0,1
+Monticole bleu,2017,0,4
+Pie-grièche écorcheur,2009,0,1

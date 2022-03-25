@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Engoulevent d'Europe
-0        Gobemouche gris
-0        Grand Corbeau
-0        Grande Aigrette
-0        Grive litorne
-0        Hibou moyen-duc
-0        Moineau friquet
-0        Pie-grièche écorcheur
-0        Pipit farlouse
-0        Sarcelle d'hiver
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2017    0        2
+Chevalier culblanc    2018    0        9
+Cigogne blanche       2016    0        1
+Engoulevent d'Europe  2015    0        1
+Gobemouche gris       2018    0        2
+Grand Corbeau         2018    0        10
+Grande Aigrette       2018    0        6
+Grive litorne         2018    0        1
+Hibou moyen-duc       2015    0        1
+Moineau friquet       2009    0        2
+Pie-grièche écorcheur 2011    0        1
+Pipit farlouse        2017    0        1
+Sarcelle d'hiver      2019    0        3
 

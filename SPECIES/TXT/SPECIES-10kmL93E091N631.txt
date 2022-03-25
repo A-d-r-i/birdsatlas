@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant fou
-0        Bruant ortolan
-0        Busard des roseaux
-0        Coucou geai
-0        Crave à bec rouge
-0        Élanion blanc
-0        Etourneau roselin
-0        Fauvette orphée
-0        Gobemouche noir
-0        Grande Aigrette
-0        Grive mauvis
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Mésange huppée
-0        Moineau soulcie
-0        Monticole de roche
-0        Pic épeichette
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pie-grièche méridionale
-0        Pipit rousseline
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Rousserolle effarvatte
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2012    0        2
+Aigrette garzette         2017    0        1
+Autour des palombes       2015    0        1
+Bécasse des bois          2014    0        1
+Bergeronnette printanière 2018    0        3
+Bondrée apivore           2018    0        8
+Bruant fou                2018    0        4
+Bruant ortolan            2009    0        1
+Busard des roseaux        2014    0        1
+Coucou geai               2014    0        1
+Crave à bec rouge         2016    0        1
+Élanion blanc             2018    0        1
+Etourneau roselin         2018    0        1
+Fauvette orphée           2009    0        1
+Gobemouche noir           2015    0        5
+Grande Aigrette           2017    0        1
+Grive mauvis              2012    0        4
+Héron pourpré             2017    0        1
+Hibou moyen-duc           2016    0        3
+Mésange huppée            2019    0        15
+Moineau soulcie           2009    0        1
+Monticole de roche        2015    0        1
+Pic épeichette            2014    0        1
+Pie-grièche à tête rousse 2009    0        1
+Pie-grièche grise         2018    0        1
+Pie-grièche méridionale   2009    0        1
+Pipit rousseline          2016    0        2
+Pouillot fitis            2014    0        1
+Roitelet à triple bandeau 2019    0        9
+Rousserolle effarvatte    2011    0        1
+Vanneau huppé             2018    0        1
 

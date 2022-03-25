@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bergeronnette printanière
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette grisette
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Lagopède alpin
-0        Martinet à ventre blanc
-0        Milan royal
-0        Niverolle alpine
-0        Perdrix grise
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tarier des prés
-0        Tarier pâtre
-0        Tourterelle turque
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        1
+Autour des palombes       2011    0        11
+Bergeronnette printanière 2007    0        1
+Busard des roseaux        2016    0        7
+Busard Saint-Martin       2011    0        2
+Caille des blés           2009    0        1
+Chevalier guignette       2018    0        6
+Chevêche d'Athéna         2009    0        5
+Faisan de Colchide        2015    0        2
+Faucon pèlerin            2017    0        31
+Fauvette babillarde       2016    0        8
+Fauvette grisette         2014    0        1
+Grand Cormoran            2012    0        8
+Grande Aigrette           2007    0        1
+Grive mauvis              2009    0        3
+Grosbec casse-noyaux      2010    0        7
+Hibou moyen-duc           2017    0        1
+Huppe fasciée             2010    0        3
+Hypolaïs polyglotte       2011    0        2
+Lagopède alpin            2015    0        4
+Martinet à ventre blanc   2009    0        1
+Milan royal               2018    0        6
+Niverolle alpine          2010    0        9
+Perdrix grise             2009    0        2
+Pic épeichette            2010    0        18
+Pie-grièche écorcheur     2015    0        7
+Pigeon colombin           2008    0        2
+Pinson du Nord            2012    0        14
+Pouillot fitis            2007    0        1
+Pouillot siffleur         2014    0        7
+Sizerin cabaret           2013    0        4
+Sizerin flammé            2013    0        5
+Tarier des prés           2015    0        3
+Tarier pâtre              2010    0        2
+Tourterelle turque        2010    0        1
+Verdier d'Europe          2009    0        6
 

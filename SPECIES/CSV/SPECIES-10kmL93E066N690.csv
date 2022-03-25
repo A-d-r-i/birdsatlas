@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Fuligule morillon"
-"0";"Hirondelle rousseline"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
+frname,lastobs,newcount,oldcount
+Caille des blés,2017,0,1
+Fuligule morillon,2009,0,1
+Hirondelle rousseline,2016,0,1
+Mésange boréale,2009,0,1
+Moineau friquet,2015,0,3
+Oie cendrée,2009,0,1

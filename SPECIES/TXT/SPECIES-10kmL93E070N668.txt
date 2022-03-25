@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bondrée apivore
-0        Bouscarle de Cetti
-0        Bruant ortolan
-0        Canard souchet
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Combattant varié
-0        Fauvette babillarde
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grèbe huppé
-0        Guêpier d'Europe
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Mésange noire
-0        Mouette rieuse
-0        Oie cendrée
-0        Phragmite des joncs
-0        Pouillot siffleur
-0        Râle d'eau
-0        Râle des genêts
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne casarca
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Vautour fauve
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2016    0        3
+Autour des palombes  2016    0        9
+Bécasse des bois     2014    0        3
+Bondrée apivore      2018    0        6
+Bouscarle de Cetti   2018    0        3
+Bruant ortolan       2008    0        1
+Canard souchet       2012    0        1
+Chevalier culblanc   2018    0        5
+Cigogne blanche      2016    0        1
+Combattant varié     2009    0        1
+Fauvette babillarde  2010    0        2
+Gobemouche gris      2015    0        8
+Gobemouche noir      2017    0        2
+Grèbe huppé          2017    0        2
+Guêpier d'Europe     2015    0        1
+Huppe fasciée        2014    0        4
+Locustelle tachetée  2010    0        8
+Mésange noire        2016    0        3
+Mouette rieuse       2016    0        1
+Oie cendrée          2013    0        1
+Phragmite des joncs  2008    0        2
+Pouillot siffleur    2018    0        7
+Râle d'eau           2010    0        16
+Râle des genêts      2015    0        1
+Roitelet huppé       2019    0        14
+Rousserolle turdoïde 2008    0        2
+Sizerin cabaret      2017    0        1
+Sizerin flammé       2017    0        1
+Tadorne casarca      2016    0        1
+Tarin des aulnes     2016    0        7
+Torcol fourmilier    2008    0        1
+Vautour fauve        2016    0        1
 

@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Gobemouche gris"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pigeon biset domestique"
-"0";"Pinson du Nord"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Cigogne blanche,2017,0,1
+Coucou gris,2016,0,13
+Gobemouche gris,2016,0,16
+Grive draine,2016,0,4
+Grive litorne,2013,0,1
+Mésange noire,2014,0,2
+Moineau friquet,2013,0,12
+Pigeon biset domestique,2015,0,3
+Pinson du Nord,2015,0,2
+Rossignol philomèle,2014,0,1

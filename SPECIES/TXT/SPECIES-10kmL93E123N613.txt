@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Cigogne noire
-0        Fauvette sarde
-0        Hirondelle de rochers
-0        Moineau friquet
-0        Perdrix grise
-0        Petit Gravelot
-0        Pigeon biset (origine naturelle)
-0        Pluvier doré
-0        Sarcelle d'hiver
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Chevalier culblanc               2017    0        1
+Chevalier guignette              2017    0        2
+Cigogne noire                    2018    0        1
+Fauvette sarde                   2008    0        1
+Hirondelle de rochers            2018    0        1
+Moineau friquet                  2009    0        1
+Perdrix grise                    2018    0        1
+Petit Gravelot                   2009    0        1
+Pigeon biset (origine naturelle) 2017    0        1
+Pluvier doré                     2019    0        2
+Sarcelle d'hiver                 2019    0        2
 

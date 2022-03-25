@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Buse variable
-0        Caille des blés
-0        Coucou gris
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Étourneau sansonnet
-0        Étourneau unicolore
-0        Fauvette passerinette
-0        Grand Cormoran
-0        Grive musicienne
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Martin-pêcheur d'Europe
-0        Mésange bleue
-0        Mésange noire
-0        Milan royal
-0        Moineau cisalpin
-0        Perdrix rouge
-0        Petit-duc scops
-0        Pie-grièche écorcheur
-0        Pigeon ramier
-0        Pipit rousseline
-0        Pouillot véloce
-0        Puffin cendré
-0        Puffin yelkouan
-0        Rougequeue noir
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Tarier pâtre
-0        Tourterelle turque
-0        Troglodyte mignon
-0        Venturon corse
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Buse variable           2018    0        2
+Caille des blés         2009    0        1
+Coucou gris             2009    0        1
+Engoulevent d'Europe    2009    0        1
+Épervier d'Europe       2017    0        1
+Étourneau sansonnet     2017    0        1
+Étourneau unicolore     2009    0        1
+Fauvette passerinette   2009    0        1
+Grand Cormoran          2018    0        2
+Grive musicienne        2018    0        1
+Hirondelle de rivage    2015    0        1
+Huppe fasciée           2015    0        1
+Martin-pêcheur d'Europe 2018    0        1
+Mésange bleue           2017    0        2
+Mésange noire           2017    0        1
+Milan royal             2017    0        2
+Moineau cisalpin        2018    0        1
+Perdrix rouge           2009    0        1
+Petit-duc scops         2009    0        1
+Pie-grièche écorcheur   2009    0        1
+Pigeon ramier           2018    0        2
+Pipit rousseline        2009    0        1
+Pouillot véloce         2018    0        2
+Puffin cendré           2015    0        1
+Puffin yelkouan         2015    0        1
+Rougequeue noir         2018    0        1
+Rousserolle effarvatte  2009    0        1
+Tarier des prés         2015    0        2
+Tarier pâtre            2018    0        1
+Tourterelle turque      2017    0        3
+Troglodyte mignon       2009    0        1
+Venturon corse          2015    0        1
 

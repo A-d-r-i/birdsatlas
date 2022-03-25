@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bruant lapon"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cygne chanteur"
-"0";"Faucon émerillon"
-"0";"Grand Labbe"
-"0";"Guifette noire"
-"0";"Guillemot de Troïl"
-"0";"Jaseur boréal"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Macareux moine"
-"0";"Macreuse brune"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Océanite tempête"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Puffin des Anglais"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Barge rousse,2017,0,6
+Bruant lapon,2013,0,1
+Busard des roseaux,2015,0,1
+Caille des blés,2015,0,2
+Canard mandarin,2018,0,2
+Canard souchet,2015,0,3
+Chevalier aboyeur,2017,0,5
+Chevêche d'Athéna,2018,0,3
+Cigogne blanche,2018,0,1
+Cygne chanteur,2014,0,2
+Faucon émerillon,2018,0,1
+Grand Labbe,2016,0,8
+Guifette noire,2014,0,1
+Guillemot de Troïl,2018,0,15
+Jaseur boréal,2009,0,1
+Labbe parasite,2016,0,8
+Labbe pomarin,2016,0,2
+Macareux moine,2014,0,6
+Macreuse brune,2015,0,1
+Macreuse noire,2017,0,14
+Merle à plastron,2018,0,1
+Milan royal,2015,0,1
+Moineau friquet,2014,0,1
+Océanite tempête,2017,0,4
+Phalarope à bec étroit,2008,0,1
+Phalarope à bec large,2018,0,1
+Pipit spioncelle,2018,0,1
+Plongeon arctique,2015,0,1
+Pouillot siffleur,2009,0,1
+Puffin des Anglais,2016,0,11
+Râle d'eau,2009,0,1
+Rossignol philomèle,2016,0,1
+Rousserolle effarvatte,2009,0,1
+Spatule blanche,2017,0,3

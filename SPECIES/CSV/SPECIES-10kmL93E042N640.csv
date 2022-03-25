@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécassine sourde"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard des Bahamas"
-"0";"Chevalier aboyeur"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Plongeon arctique"
-"0";"Plongeon imbrin"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Tadorne casarca"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Autour des palombes,2010,0,1
+Bécassine sourde,2009,0,1
+Bergeronnette printanière,2014,0,7
+Bihoreau gris,2012,0,1
+Bruant jaune,2016,0,5
+Bruant proyer,2012,0,12
+Butor étoilé,2011,0,4
+Caille des blés,2012,0,1
+Canard des Bahamas,2009,0,1
+Chevalier aboyeur,2011,0,2
+Cochevis huppé,2014,0,1
+Courlis cendré,2011,0,7
+Faucon pèlerin,2012,0,1
+Fuligule milouin,2010,0,4
+Fuligule morillon,2010,0,2
+Goéland argenté,2018,0,1
+Goéland brun,2011,0,1
+Gorgebleue à miroir,2011,0,1
+Grèbe huppé,2011,0,11
+Hibou moyen-duc,2012,0,8
+Hirondelle de rivage,2013,0,3
+Macreuse brune,2008,0,2
+Merle à plastron,2009,0,1
+Mouette mélanocéphale,2018,0,1
+Oie cendrée,2014,0,4
+Perdrix rouge,2012,0,9
+Petit-duc scops,2016,0,1
+Phragmite des joncs,2017,0,2
+Pie-grièche à tête rousse,2012,0,4
+Pipit des arbres,2017,0,26
+Plongeon arctique,2010,0,2
+Plongeon imbrin,2010,0,3
+Pluvier doré,2013,0,4
+Pouillot de Bonelli,2015,0,13
+Râle d'eau,2018,0,2
+Tadorne casarca,2009,0,1
+Tarier des prés,2018,0,8

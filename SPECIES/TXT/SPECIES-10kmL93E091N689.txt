@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bruant des roseaux
-0        Busard pâle
-0        Cigogne blanche
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Mouette rieuse
-0        Pie-grièche grise
-0        Pluvier doré
-0        Roitelet huppé
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Tarin des aulnes
-0        Tourterelle des bois
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau minute       2016    0        1
+Bruant des roseaux     2018    0        2
+Busard pâle            2014    0        1
+Cigogne blanche        2017    0        3
+Hirondelle de rivage   2015    0        1
+Huppe fasciée          2018    0        3
+Locustelle tachetée    2009    0        1
+Mouette rieuse         2013    0        1
+Pie-grièche grise      2017    0        17
+Pluvier doré           2017    0        2
+Roitelet huppé         2016    0        2
+Rousserolle verderolle 2016    0        1
+Sarcelle d'été         2009    0        1
+Tarin des aulnes       2016    0        1
+Tourterelle des bois   2018    0        12
 

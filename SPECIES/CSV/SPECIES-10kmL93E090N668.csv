@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau tacheté"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Canard des Bahamas"
-"0";"Canard mandarin"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cygne chanteur"
-"0";"Cygne de Bewick"
-"0";"Faucon kobez"
-"0";"Fuligule nyroca"
-"0";"Glaréole à collier"
-"0";"Goéland argenté"
-"0";"Guifette leucoptère"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rousseline"
-"0";"Ibis falcinelle"
-"0";"Jaseur boréal"
-"0";"Macreuse brune"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Oie rieuse"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Pluvier guignard"
-"0";"Pouillot de Bonelli"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Aigle botté,2012,0,1
+Bécasseau cocorli,2017,0,23
+Bécasseau maubèche,2016,0,5
+Bécasseau tacheté,2012,0,4
+Bergeronnette flavéole (M.f.flavissima),2016,0,6
+Blongios nain,2017,0,33
+Bruant fou,2008,0,1
+Bruant ortolan,2016,0,13
+Butor étoilé,2015,0,49
+Calopsitte élégante,2018,0,1
+Canard des Bahamas,2014,0,10
+Canard mandarin,2012,0,29
+Cincle plongeur,2010,0,1
+Circaète Jean-le-Blanc,2018,0,2
+Cygne chanteur,2017,0,111
+Cygne de Bewick,2017,0,37
+Faucon kobez,2017,0,8
+Fuligule nyroca,2015,0,9
+Glaréole à collier,2008,0,6
+Goéland argenté,2008,0,1
+Guifette leucoptère,2015,0,10
+Harle piette,2009,0,4
+Hibou des marais,2015,0,6
+Hirondelle de rochers,2015,0,1
+Hirondelle rousseline,2017,0,6
+Ibis falcinelle,2014,0,6
+Jaseur boréal,2012,0,2
+Macreuse brune,2013,0,6
+Martinet à ventre blanc,2017,0,2
+Merle à plastron,2007,0,1
+Mouette pygmée,2016,0,21
+Oie rieuse,2017,0,25
+Petit-duc scops,2009,0,10
+Pie-grièche à tête rousse,2011,0,34
+Pipit rousseline,2016,0,5
+Pluvier argenté,2016,0,3
+Pluvier guignard,2010,0,3
+Pouillot de Bonelli,2017,0,2
+Spatule blanche,2014,0,4

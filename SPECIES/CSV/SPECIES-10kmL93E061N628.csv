@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Chevalier arlequin"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Cygne noir"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette des jardins"
-"0";"Fauvette mélanocéphale"
-"0";"Fuligule nyroca"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grive litorne"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Plongeon imbrin"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle à ailes bleues"
-"0";"Sterne hansel"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2016,0,3
+Bouvreuil pivoine,2018,0,1
+Bruant fou,2017,0,14
+Chevalier arlequin,2016,0,2
+Cigogne noire,2013,0,1
+Courlis cendré,2015,0,1
+Crabier chevelu,2017,0,1
+Cygne noir,2017,0,1
+Faucon d'Eléonore,2014,0,2
+Fauvette des jardins,2014,0,1
+Fauvette mélanocéphale,2017,0,2
+Fuligule nyroca,2017,0,3
+Gorgebleue à miroir,2017,0,1
+Grand Gravelot,2014,0,1
+Grive litorne,2019,0,18
+Merle à plastron,2017,0,1
+Moineau friquet,2013,0,2
+Nette rousse,2008,0,1
+Oie cendrée,2015,0,1
+Petit-duc scops,2018,0,2
+Pie-grièche à tête rousse,2008,0,1
+Pie-grièche grise,2016,0,5
+Plongeon imbrin,2016,0,2
+Rousserolle effarvatte,2016,0,1
+Sarcelle à ailes bleues,2015,0,1
+Sterne hansel,2017,0,1
+Traquet motteux,2017,0,1

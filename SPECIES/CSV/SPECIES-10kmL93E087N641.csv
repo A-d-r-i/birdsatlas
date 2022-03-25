@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Cassenoix moucheté"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Goéland brun"
-"0";"Hibou moyen-duc"
-"0";"Moineau soulcie"
-"0";"Niverolle alpine"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,6
+Bihoreau gris,2015,0,1
+Busard cendré,2015,0,1
+Busard Saint-Martin,2013,0,5
+Cassenoix moucheté,2012,0,1
+Chevalier culblanc,2018,0,1
+Cigogne blanche,2011,0,1
+Faisan de Colchide,2017,0,3
+Faucon hobereau,2018,0,8
+Faucon kobez,2017,0,2
+Fauvette pitchou,2014,0,1
+Goéland brun,2017,0,1
+Hibou moyen-duc,2017,0,1
+Moineau soulcie,2011,0,1
+Niverolle alpine,2010,0,2
+Perdrix rouge,2018,0,11
+Petit Gravelot,2014,0,1
+Pigeon biset domestique,2014,0,1
+Pipit rousseline,2017,0,1
+Pouillot fitis,2017,0,3
+Rollier d'Europe,2011,0,2
+Rousserolle effarvatte,2012,0,1

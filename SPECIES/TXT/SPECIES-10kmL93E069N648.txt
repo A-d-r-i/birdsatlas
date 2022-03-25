@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau tacheté
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bihoreau gris
-0        Butor étoilé
-0        Canard chipeau
-0        Chevêche d'Athéna
-0        Chouette de Tengmalm
-0        Cigogne blanche
-0        Corbeau freux
-0        Courlis corlieu
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Fuligule milouin
-0        Goéland brun
-0        Goéland cendré
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Hirondelle de rivage
-0        Ibis sacré
-0        Loriot d'Europe
-0        Mouette mélanocéphale
-0        Mouette pygmée
-0        Nette rousse
-0        Perdrix rouge
-0        Pic cendré
-0        Pluvier doré
-0        Sterne pierregarin
-0        Tournepierre à collier
-0        Tourterelle des bois
-0        Venturon montagnard
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Accenteur alpin        2011    0        1
+Avocette élégante      2012    0        1
+Barge à queue noire    2011    0        3
+Bécasseau cocorli      2007    0        1
+Bécasseau de Temminck  2012    0        5
+Bécasseau minute       2013    0        21
+Bécasseau tacheté      2011    0        6
+Bécasse des bois       2015    0        2
+Bécassine sourde       2008    0        1
+Bihoreau gris          2017    0        3
+Butor étoilé           2014    0        1
+Canard chipeau         2013    0        3
+Chevêche d'Athéna      2009    0        1
+Chouette de Tengmalm   2014    0        2
+Cigogne blanche        2016    0        6
+Corbeau freux          2018    0        101
+Courlis corlieu        2014    0        5
+Échasse blanche        2014    0        1
+Engoulevent d'Europe   2012    0        1
+Fuligule milouin       2016    0        11
+Goéland brun           2012    0        2
+Goéland cendré         2015    0        2
+Grèbe à cou noir       2015    0        1
+Guifette moustac       2014    0        9
+Hirondelle de rivage   2017    0        17
+Ibis sacré             2014    0        1
+Loriot d'Europe        2017    0        2
+Mouette mélanocéphale  2013    0        3
+Mouette pygmée         2009    0        1
+Nette rousse           2007    0        1
+Perdrix rouge          2018    0        1
+Pic cendré             2015    0        2
+Pluvier doré           2014    0        11
+Sterne pierregarin     2014    0        2
+Tournepierre à collier 2008    0        1
+Tourterelle des bois   2014    0        1
+Venturon montagnard    2015    0        1
 

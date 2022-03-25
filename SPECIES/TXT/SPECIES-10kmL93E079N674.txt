@@ -1,54 +1,54 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chouette hulotte
-0        Cigogne noire
-0        Coucou gris
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grive litorne
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Mésange à longue queue
-0        Mésange noire
-0        Milan noir
-0        Moineau friquet
-0        Oie cendrée
-0        Perdrix grise
-0        Petit-duc scops
-0        Pic mar
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Pouillot véloce
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Serin cini
-0        Tarier pâtre
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2013    0        2
+Bergeronnette printanière 2011    0        34
+Bruant des roseaux        2010    0        4
+Busard Saint-Martin       2017    0        11
+Caille des blés           2011    0        11
+Chouette hulotte          2017    0        14
+Cigogne noire             2010    0        3
+Coucou gris               2015    0        10
+Faisan de Colchide        2012    0        9
+Faucon hobereau           2010    0        2
+Faucon pèlerin            2013    0        2
+Fauvette des jardins      2012    0        11
+Fauvette grisette         2015    0        15
+Gallinule poule-d'eau     2010    0        3
+Gobemouche gris           2012    0        2
+Grive litorne             2013    0        9
+Grive musicienne          2017    0        50
+Grosbec casse-noyaux      2016    0        12
+Hibou moyen-duc           2017    0        2
+Hypolaïs polyglotte       2015    0        16
+Locustelle tachetée       2012    0        4
+Loriot d'Europe           2011    0        7
+Martinet noir             2012    0        3
+Mésange à longue queue    2010    0        5
+Mésange noire             2013    0        6
+Milan noir                2010    0        2
+Moineau friquet           2016    0        1
+Oie cendrée               2013    0        2
+Perdrix grise             2010    0        2
+Petit-duc scops           2017    0        2
+Pic mar                   2013    0        7
+Pic vert                  2013    0        7
+Pie-grièche écorcheur     2010    0        9
+Pigeon colombin           2013    0        10
+Pipit des arbres          2015    0        28
+Pipit farlouse            2013    0        2
+Pipit spioncelle          2013    0        4
+Pouillot fitis            2015    0        19
+Pouillot siffleur         2012    0        5
+Pouillot véloce           2017    0        52
+Roitelet à triple bandeau 2010    0        6
+Roitelet huppé            2013    0        12
+Rossignol philomèle       2017    0        12
+Rougequeue à front blanc  2012    0        2
+Serin cini                2012    0        4
+Tarier pâtre              2015    0        20
+Torcol fourmilier         2010    0        2
+Tourterelle des bois      2012    0        19
+Traquet motteux           2015    0        6
+Vanneau huppé             2013    0        2
 

@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Barge à queue noire"
-"0";"Bécasseau cocorli"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des neiges"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland à ailes blanches"
-"0";"Goéland pontique"
-"0";"Grand Gravelot"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Sarcelle d'été"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,1
+Barge à queue noire,2017,0,1
+Bécasseau cocorli,2014,0,1
+Bec-croisé des sapins,2017,0,2
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bruant des neiges,2017,0,1
+Canard chipeau,2009,0,1
+Canard pilet,2015,0,1
+Canard siffleur,2009,0,1
+Canard souchet,2014,0,3
+Faucon émerillon,2014,0,4
+Fuligule milouin,2017,0,3
+Fuligule morillon,2017,0,3
+Goéland à ailes blanches,2012,0,2
+Goéland pontique,2016,0,12
+Grand Gravelot,2016,0,1
+Guêpier d'Europe,2013,0,1
+Guifette moustac,2013,0,1
+Guifette noire,2015,0,1
+Harle bièvre,2009,0,1
+Ibis falcinelle,2014,0,1
+Locustelle tachetée,2015,0,1
+Merle à plastron,2015,0,1
+Perdrix grise,2012,0,2
+Petit Gravelot,2018,0,30
+Pigeon colombin,2018,0,13
+Sarcelle d'été,2012,0,1
+Torcol fourmilier,2016,0,2

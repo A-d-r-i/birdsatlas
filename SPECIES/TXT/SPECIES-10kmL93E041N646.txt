@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Bécasseau minute
-0        Bécasse des bois
-0        Bernache du Canada
-0        Blongios nain
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Bruant ortolan
-0        Choucas des tours
-0        Crabier chevelu
-0        Cygne noir
-0        Faucon kobez
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Fuligule morillon
-0        Goéland marin
-0        Goéland pontique
-0        Grèbe huppé
-0        Grive litorne
-0        Guêpier d'Europe
-0        Guillemot de Troïl
-0        Marouette ponctuée
-0        Mésange nonnette
-0        Mouette mélanocéphale
-0        Mouette pygmée
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Roitelet huppé
-0        Sterne caugek
-0        Tadorne casarca
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2012    0        2
+Autour des palombes       2018    0        3
+Bécasseau minute          2018    0        2
+Bécasse des bois          2018    0        3
+Bernache du Canada        2012    0        2
+Blongios nain             2009    0        2
+Bouvreuil pivoine         2012    0        7
+Bruant jaune              2010    0        4
+Bruant ortolan            2009    0        1
+Choucas des tours         2018    0        6
+Crabier chevelu           2016    0        3
+Cygne noir                2012    0        6
+Faucon kobez              2017    0        6
+Fauvette des jardins      2009    0        3
+Fauvette orphée           2010    0        2
+Fauvette pitchou          2016    0        1
+Fuligule morillon         2016    0        3
+Goéland marin             2013    0        2
+Goéland pontique          2015    0        1
+Grèbe huppé               2012    0        6
+Grive litorne             2013    0        5
+Guêpier d'Europe          2011    0        6
+Guillemot de Troïl        2014    0        1
+Marouette ponctuée        2018    0        1
+Mésange nonnette          2016    0        2
+Mouette mélanocéphale     2016    0        5
+Mouette pygmée            2018    0        19
+Pie-grièche à tête rousse 2011    0        8
+Pie-grièche grise         2014    0        4
+Pigeon biset domestique   2018    0        28
+Pouillot de Bonelli       2018    0        3
+Pouillot siffleur         2012    0        1
+Rémiz penduline           2017    0        9
+Roitelet huppé            2016    0        1
+Sterne caugek             2012    0        1
+Tadorne casarca           2008    0        1
 

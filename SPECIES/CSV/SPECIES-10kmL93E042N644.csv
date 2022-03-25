@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fauvette pitchou"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Ibis sacré"
-"0";"Léiothrix jaune"
-"0";"Locustelle luscinioïde"
-"0";"Mésange noire"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,2
+Bécasse des bois,2018,0,3
+Bergeronnette printanière,2015,0,3
+Bouvreuil pivoine,2011,0,3
+Bruant jaune,2016,0,4
+Bruant proyer,2010,0,4
+Caille des blés,2012,0,4
+Canard mandarin,2017,0,1
+Canard pilet,2016,0,2
+Canard siffleur,2013,0,1
+Chevalier aboyeur,2016,0,3
+Chevalier gambette,2016,0,2
+Corbeau freux,2015,0,1
+Courlis cendré,2012,0,1
+Engoulevent d'Europe,2014,0,5
+Fauvette des jardins,2017,0,8
+Fauvette pitchou,2016,0,1
+Grèbe huppé,2009,0,1
+Grive litorne,2017,0,3
+Guêpier d'Europe,2018,0,2
+Hirondelle de rivage,2018,0,3
+Ibis sacré,2009,0,1
+Léiothrix jaune,2017,0,2
+Locustelle luscinioïde,2009,0,2
+Mésange noire,2018,0,3
+Oie cendrée,2015,0,1
+Petit Gravelot,2011,0,6
+Phragmite des joncs,2017,0,13
+Pic épeichette,2017,0,29
+Pie-grièche à tête rousse,2009,0,1
+Pipit spioncelle,2017,0,12
+Pouillot de Bonelli,2009,0,2
+Rousserolle turdoïde,2009,0,1
+Sarcelle d'été,2015,0,3
+Sarcelle d'hiver,2017,0,2
+Tarier des prés,2013,0,1
+Traquet motteux,2017,0,5

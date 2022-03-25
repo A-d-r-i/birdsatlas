@@ -1,42 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant ortolan
-0        Busard des roseaux
-0        Chevalier culblanc
-0        Cigogne noire
-0        Cochevis huppé
-0        Coucou geai
-0        Échasse blanche
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland brun
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Héron garde-boeufs
-0        Merle à plastron
-0        Mésange huppée
-0        Mouette rieuse
-0        Perdrix grise
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit rousseline
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2008    0        1
+Autour des palombes       2018    0        8
+Bécasse des bois          2018    0        2
+Bergeronnette printanière 2014    0        9
+Bouscarle de Cetti        2009    0        2
+Bruant des roseaux        2012    0        3
+Bruant jaune              2017    0        51
+Bruant ortolan            2011    0        3
+Busard des roseaux        2018    0        10
+Chevalier culblanc        2016    0        2
+Cigogne noire             2010    0        3
+Cochevis huppé            2011    0        2
+Coucou geai               2013    0        1
+Échasse blanche           2016    0        1
+Effraie des clochers      2010    0        9
+Faucon émerillon          2012    0        1
+Faucon hobereau           2015    0        11
+Fauvette des jardins      2010    0        4
+Fauvette orphée           2016    0        5
+Gobemouche gris           2018    0        3
+Gobemouche noir           2018    0        10
+Goéland brun              2010    0        4
+Grive mauvis              2015    0        4
+Grosbec casse-noyaux      2018    0        7
+Héron garde-boeufs        2017    0        2
+Merle à plastron          2015    0        3
+Mésange huppée            2016    0        14
+Mouette rieuse            2008    0        1
+Perdrix grise             2013    0        1
+Petit-duc scops           2017    0        2
+Pie-grièche à tête rousse 2016    0        1
+Pigeon colombin           2008    0        1
+Pinson du Nord            2008    0        4
+Pipit rousseline          2018    0        8
+Rougequeue à front blanc  2011    0        5
+Rousserolle effarvatte    2016    0        1
+Tarier des prés           2017    0        5
+Vautour moine             2018    0        32
 

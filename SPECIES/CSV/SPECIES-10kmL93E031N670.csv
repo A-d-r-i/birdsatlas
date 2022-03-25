@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasseau de Temminck"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des neiges"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Eider à duvet"
-"0";"Fauvette pitchou"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Goéland pontique"
-"0";"Hibou moyen-duc"
-"0";"Labbe parasite"
-"0";"Loriot d'Europe"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Oie à tête barrée"
-"0";"Oie rieuse"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit de Richard"
-"0";"Pipit maritime"
-"0";"Pipit rousseline"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,8
+Bécasseau de Temminck,2017,0,1
+Bergeronnette flavéole (M.f.flavissima),2016,0,3
+Bouvreuil pivoine,2017,0,4
+Bruant des neiges,2009,0,1
+Bruant proyer,2010,0,5
+Busard cendré,2018,0,3
+Chevêche d'Athéna,2018,0,6
+Chouette hulotte,2016,0,3
+Eider à duvet,2008,0,6
+Fauvette pitchou,2017,0,9
+Goéland à ailes blanches,2018,0,1
+Goéland bourgmestre,2009,0,1
+Goéland pontique,2015,0,2
+Hibou moyen-duc,2018,0,13
+Labbe parasite,2014,0,1
+Loriot d'Europe,2018,0,5
+Marouette ponctuée,2018,0,18
+Merle à plastron,2015,0,1
+Mésange noire,2017,0,6
+Oie à tête barrée,2007,0,1
+Oie rieuse,2011,0,2
+Perdrix grise,2007,0,1
+Perruche à collier,2014,0,1
+Pie-grièche à tête rousse,2017,0,1
+Pigeon colombin,2017,0,4
+Pipit de Richard,2016,0,9
+Pipit maritime,2015,0,1
+Pipit rousseline,2018,0,5
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,2

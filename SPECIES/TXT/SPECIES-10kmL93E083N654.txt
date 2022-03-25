@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Bécasseau falcinelle
-0        Bécasseau tacheté
-0        Bec-croisé des sapins
-0        Bernache du Canada
-0        Bernache nonnette
-0        Blongios nain
-0        Bruant fou
-0        Buse pattue
-0        Calopsitte élégante
-0        Canard carolin
-0        Cygne noir
-0        Élanion blanc
-0        Fauvette babillarde
-0        Fauvette mélanocéphale
-0        Fauvette passerinette
-0        Fuligule nyroca
-0        Gobemouche nain
-0        Goéland pontique
-0        Goéland railleur
-0        Guifette leucoptère
-0        Harle couronné
-0        Harle piette
-0        Hibou moyen-duc
-0        Macreuse brune
-0        Mésange boréale
-0        Monticole de roche
-0        Mouette tridactyle
-0        Oie à bec court
-0        Oie à tête barrée
-0        Oie des moissons
-0        Perruche ondulée
-0        Pipit rousseline
-0        Plongeon arctique
-0        Rousserolle verderolle
-0        Sterne arctique
-0        Sterne voyageuse
-0        Talève sultane
-0        Tourterelle rieuse
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette calandrelle   2014    0        4
+Bécasseau falcinelle   2016    0        1
+Bécasseau tacheté      2011    0        3
+Bec-croisé des sapins  2015    0        7
+Bernache du Canada     2013    0        3
+Bernache nonnette      2017    0        12
+Blongios nain          2010    0        1
+Bruant fou             2015    0        5
+Buse pattue            2011    0        2
+Calopsitte élégante    2013    0        2
+Canard carolin         2018    0        2
+Cygne noir             2012    0        9
+Élanion blanc          2017    0        6
+Fauvette babillarde    2017    0        6
+Fauvette mélanocéphale 2016    0        2
+Fauvette passerinette  2014    0        1
+Fuligule nyroca        2012    0        3
+Gobemouche nain        2014    0        1
+Goéland pontique       2015    0        2
+Goéland railleur       2016    0        1
+Guifette leucoptère    2016    0        9
+Harle couronné         2010    0        1
+Harle piette           2015    0        18
+Hibou moyen-duc        2017    0        35
+Macreuse brune         2017    0        48
+Mésange boréale        2012    0        4
+Monticole de roche     2013    0        1
+Mouette tridactyle     2017    0        1
+Oie à bec court        2014    0        1
+Oie à tête barrée      2012    0        5
+Oie des moissons       2010    0        3
+Perruche ondulée       2015    0        1
+Pipit rousseline       2014    0        4
+Plongeon arctique      2013    0        9
+Rousserolle verderolle 2018    0        2
+Sterne arctique        2014    0        2
+Sterne voyageuse       2011    0        1
+Talève sultane         2016    0        1
+Tourterelle rieuse     2013    0        1
 

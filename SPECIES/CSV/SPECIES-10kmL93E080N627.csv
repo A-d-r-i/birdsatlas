@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Aigle impérial"
-"0";"Aigrette des récifs"
-"0";"Astrild ondulé"
-"0";"Autour des palombes"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant fou"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard des Bahamas"
-"0";"Chevalier stagnatile"
-"0";"Chevêche d'Athéna"
-"0";"Cormoran pygmée"
-"0";"Corneille mantelée"
-"0";"Crave à bec rouge"
-"0";"Cygne de Bewick"
-"0";"Dendrocygne à ventre noir"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette orphée"
-"0";"Fuligule nyroca"
-"0";"Geai des chênes"
-"0";"Goéland d'Audouin"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Marouette poussin"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Monticole bleu"
-"0";"Oie à tête barrée"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Outarde canepetière"
-"0";"Petit-duc scops"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Pouillot à grands sourcils"
-"0";"Rousserolle isabelle"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,5
+Aigle impérial,2018,0,62
+Aigrette des récifs,2013,0,5
+Astrild ondulé,2017,0,2
+Autour des palombes,2017,0,1
+Barge rousse,2019,0,5
+Bécasseau maubèche,2019,0,2
+Bécasse des bois,2017,0,7
+Bergeronnette flavéole (M.f.flavissima),2015,0,3
+Bruant fou,2015,0,1
+Busard pâle,2017,0,2
+Buse pattue,2017,0,5
+Caille des blés,2016,0,3
+Calopsitte élégante,2015,0,1
+Canard des Bahamas,2017,0,1
+Chevalier stagnatile,2018,0,13
+Chevêche d'Athéna,2015,0,12
+Cormoran pygmée,2017,0,7
+Corneille mantelée,2017,0,1
+Crave à bec rouge,2017,0,23
+Cygne de Bewick,2019,0,3
+Dendrocygne à ventre noir,2017,0,1
+Engoulevent d'Europe,2017,0,2
+Fauvette orphée,2009,0,1
+Fuligule nyroca,2015,0,1
+Geai des chênes,2017,0,1
+Goéland d'Audouin,2009,0,1
+Grive litorne,2017,0,9
+Grive mauvis,2017,0,7
+Grosbec casse-noyaux,2014,0,3
+Locustelle tachetée,2013,0,2
+Marouette ponctuée,2017,0,1
+Marouette poussin,2016,0,1
+Martinet à ventre blanc,2017,0,8
+Merle à plastron,2012,0,1
+Monticole bleu,2017,0,1
+Oie à tête barrée,2015,0,1
+Oie des moissons,2018,0,1
+Oie rieuse,2018,0,1
+Outarde canepetière,2016,0,3
+Petit-duc scops,2017,0,6
+Phragmite aquatique,2017,0,1
+Pie-grièche à tête rousse,2017,0,7
+Pie-grièche écorcheur,2018,0,14
+Pipit à gorge rousse,2013,0,1
+Pipit de Richard,2018,0,1
+Pouillot à grands sourcils,2016,0,4
+Rousserolle isabelle,2018,0,1
+Sterne caugek,2018,0,5
+Tadorne casarca,2018,0,3

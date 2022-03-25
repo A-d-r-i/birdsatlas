@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Busard cendré"
-"0";"Canard souchet"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Grèbe à cou noir"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2011,0,1
+Autour des palombes,2018,0,3
+Bécasse des bois,2016,0,1
+Bécassine des marais,2018,0,1
+Bergeronnette printanière,2014,0,1
+Busard cendré,2012,0,3
+Canard souchet,2013,0,1
+Chouette de Tengmalm,2018,0,42
+Cigogne blanche,2013,0,1
+Cigogne noire,2013,0,2
+Cincle plongeur,2015,0,2
+Effraie des clochers,2014,0,1
+Engoulevent d'Europe,2012,0,1
+Faucon hobereau,2015,0,2
+Grand-duc d'Europe,2012,0,1
+Grande Aigrette,2014,0,6
+Grèbe à cou noir,2012,0,1
+Grive mauvis,2017,0,2
+Guêpier d'Europe,2018,0,2
+Guifette noire,2013,0,2
+Héron pourpré,2018,0,2
+Hibou moyen-duc,2015,0,2
+Huppe fasciée,2018,0,1
+Martin-pêcheur d'Europe,2015,0,1
+Mésange boréale,2015,0,1
+Moineau friquet,2018,0,5
+Mouette tridactyle,2009,0,1
+Nette rousse,2012,0,1
+Tichodrome échelette,2017,0,1

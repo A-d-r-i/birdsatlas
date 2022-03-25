@@ -1,86 +1,84 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fulmar boréal"
-"0";"Goéland bourgmestre"
-"0";"Grand Labbe"
-"0";"Grèbe castagneux"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron garde-boeufs"
-"0";"Hypolaïs polyglotte"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Océanite culblanc"
-"0";"Océanite tempête"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Phragmite aquatique"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Pluvier argenté"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Pallas"
-"0";"Puffin des Baléares"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Tournepierre à collier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,46
+Alouette lulu,2018,0,2
+Autour des palombes,2009,0,1
+Avocette élégante,2011,0,2
+Barge à queue noire,2012,0,2
+Bécasseau maubèche,2015,0,1
+Bécasseau minute,2018,0,1
+Bécasseau sanderling,2018,0,31
+Bécasseau tacheté,2008,0,1
+Bécasse des bois,2013,0,3
+Bécassine sourde,2008,0,1
+Bergeronnette des ruisseaux,2015,0,8
+Bernache du Canada,2013,0,1
+Bernache nonnette,2013,0,5
+Bondrée apivore,2013,0,15
+Bruant des roseaux,2018,0,63
+Busard cendré,2018,0,7
+Butor étoilé,2018,0,9
+Canard chipeau,2013,0,3
+Canard pilet,2009,0,2
+Chevalier arlequin,2010,0,2
+Chevalier gambette,2015,0,17
+Chevêche d'Athéna,2009,0,1
+Cigogne blanche,2010,0,1
+Cigogne noire,2010,0,1
+Cochevis huppé,2011,0,4
+Combattant varié,2008,0,1
+Courlis cendré,2018,0,6
+Cygne noir,2009,0,1
+Échasse blanche,2013,0,4
+Engoulevent d'Europe,2018,0,9
+Épervier d'Europe,2017,0,14
+Faucon émerillon,2011,0,1
+Faucon hobereau,2017,0,17
+Faucon pèlerin,2017,0,3
+Fauvette des jardins,2008,0,1
+Fauvette grisette,2017,0,34
+Foulque macroule,2011,0,4
+Fuligule milouin,2009,0,1
+Fuligule morillon,2013,0,2
+Fulmar boréal,2011,0,4
+Goéland bourgmestre,2009,0,1
+Grand Labbe,2018,0,5
+Grèbe castagneux,2011,0,2
+Grosbec casse-noyaux,2017,0,5
+Guifette moustac,2013,0,1
+Guifette noire,2016,0,15
+Harle bièvre,2009,0,1
+Héron garde-boeufs,2012,0,4
+Hypolaïs polyglotte,2018,0,37
+Labbe parasite,2011,0,1
+Locustelle tachetée,2018,0,28
+Macareux moine,2014,0,5
+Mésange noire,2018,0,8
+Milan royal,2017,0,4
+Mouette pygmée,2018,0,4
+Mouette tridactyle,2010,0,3
+Océanite culblanc,2016,0,2
+Océanite tempête,2016,0,2
+Oie cendrée,2018,0,11
+Petit Gravelot,2010,0,3
+Phragmite aquatique,2010,0,1
+Phragmite des joncs,2014,0,36
+Pie-grièche à tête rousse,2010,0,1
+Pie-grièche écorcheur,2018,0,2
+Pinson du Nord,2017,0,1
+Pipit des arbres,2017,0,34
+Pipit rousseline,2016,0,12
+Plongeon arctique,2011,0,3
+Pluvier argenté,2009,0,1
+Pouillot à grands sourcils,2018,0,11
+Pouillot de Pallas,2017,0,10
+Puffin des Baléares,2015,0,5
+Sarcelle d'été,2008,0,1
+Sarcelle d'hiver,2010,0,5
+Serin cini,2013,0,5
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,2
+Sterne arctique,2013,0,1
+Sterne pierregarin,2015,0,6
+Tadorne de Belon,2013,0,3
+Tournepierre à collier,2015,0,4
+Vanneau huppé,2018,0,12

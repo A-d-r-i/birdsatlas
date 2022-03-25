@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Chouette de Tengmalm"
-"0";"Grand Tétras"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Lagopède alpin"
-"0";"Mésange boréale"
-"0";"Perdrix grise"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,2
+Chouette de Tengmalm,2016,0,3
+Grand Tétras,2017,0,5
+Grimpereau des bois,2016,0,2
+Grive mauvis,2016,0,1
+Lagopède alpin,2018,0,1
+Mésange boréale,2012,0,1
+Perdrix grise,2012,0,1

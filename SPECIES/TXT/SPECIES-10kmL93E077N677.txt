@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bernache du Canada
-0        Busard des roseaux
-0        Caille des blés
-0        Cygne noir
-0        Grive mauvis
-0        Héron pourpré
-0        Hibou des marais
-0        Marouette ponctuée
-0        Merle à plastron
-0        Mésange boréale
-0        Monticole bleu
-0        Perdrix grise
-0        Perdrix rouge
-0        Pic cendré
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Sizerin flammé
-0        Tarin des aulnes
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Alouette lulu          2018    0        1
+Autour des palombes    2018    0        3
+Bernache du Canada     2018    0        22
+Busard des roseaux     2018    0        1
+Caille des blés        2018    0        6
+Cygne noir             2011    0        1
+Grive mauvis           2018    0        6
+Héron pourpré          2015    0        3
+Hibou des marais       2014    0        1
+Marouette ponctuée     2018    0        1
+Merle à plastron       2018    0        1
+Mésange boréale        2015    0        1
+Monticole bleu         2012    0        1
+Perdrix grise          2018    0        4
+Perdrix rouge          2018    0        1
+Pic cendré             2010    0        3
+Pigeon colombin        2018    0        3
+Pinson du Nord         2016    0        6
+Pouillot fitis         2018    0        17
+Pouillot siffleur      2017    0        9
+Rousserolle verderolle 2017    0        1
+Sizerin flammé         2018    0        1
+Tarin des aulnes       2018    0        4
 

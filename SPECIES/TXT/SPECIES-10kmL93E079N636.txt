@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigle royal
-0        Bihoreau gris
-0        Bruant fou
-0        Bruant jaune
-0        Bruant ortolan
-0        Busard des roseaux
-0        Canard souchet
-0        Cassenoix moucheté
-0        Cigogne noire
-0        Corbeau freux
-0        Corneille mantelée
-0        Coucou geai
-0        Courlis cendré
-0        Faucon d'Eléonore
-0        Faucon émerillon
-0        Faucon kobez
-0        Goéland brun
-0        Goéland cendré
-0        Grèbe castagneux
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange huppée
-0        Mouette tridactyle
-0        Petit Gravelot
-0        Pic noir
-0        Pie-grièche méridionale
-0        Pipit spioncelle
-0        Pluvier doré
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Vautour moine
-0        Venturon montagnard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2015    0        4
+Aigle royal             2018    0        1
+Bihoreau gris           2016    0        2
+Bruant fou              2018    0        15
+Bruant jaune            2017    0        4
+Bruant ortolan          2015    0        4
+Busard des roseaux      2018    0        11
+Canard souchet          2018    0        1
+Cassenoix moucheté      2013    0        1
+Cigogne noire           2014    0        3
+Corbeau freux           2010    0        2
+Corneille mantelée      2018    0        3
+Coucou geai             2007    0        2
+Courlis cendré          2010    0        2
+Faucon d'Eléonore       2011    0        1
+Faucon émerillon        2018    0        5
+Faucon kobez            2015    0        4
+Goéland brun            2018    0        4
+Goéland cendré          2018    0        5
+Grèbe castagneux        2018    0        7
+Hirondelle de rivage    2009    0        1
+Locustelle tachetée     2018    0        7
+Merle à plastron        2015    0        1
+Mésange huppée          2017    0        14
+Mouette tridactyle      2009    0        1
+Petit Gravelot          2015    0        3
+Pic noir                2014    0        4
+Pie-grièche méridionale 2015    0        3
+Pipit spioncelle        2017    0        9
+Pluvier doré            2014    0        6
+Rousserolle effarvatte  2015    0        5
+Rousserolle turdoïde    2012    0        4
+Sarcelle d'été          2010    0        2
+Vautour moine           2018    0        1
+Venturon montagnard     2017    0        6
 

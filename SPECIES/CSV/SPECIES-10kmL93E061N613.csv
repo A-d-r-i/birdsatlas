@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Corneille noire"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Lagopède alpin"
-"0";"Pluvier guignard"
+frname,lastobs,newcount,oldcount
+Corneille noire,2018,0,1
+Épervier d'Europe,2014,0,1
+Faucon crécerelle,2014,0,1
+Lagopède alpin,2016,0,1
+Pluvier guignard,2012,0,1

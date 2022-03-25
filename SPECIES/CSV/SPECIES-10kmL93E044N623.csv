@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Crave à bec rouge"
-"0";"Etourneau roselin"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Pic mar"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bécassine des marais,2017,0,3
+Bondrée apivore,2009,0,1
+Bouvreuil pivoine,2014,0,8
+Bruant des roseaux,2013,0,2
+Bruant proyer,2012,0,2
+Bruant zizi,2013,0,9
+Caille des blés,2010,0,2
+Chevalier culblanc,2017,0,1
+Chevalier guignette,2017,0,1
+Chevêche d'Athéna,2017,0,3
+Choucas des tours,2016,0,3
+Cigogne blanche,2015,0,1
+Cincle plongeur,2017,0,1
+Courlis cendré,2009,0,1
+Crave à bec rouge,2015,0,1
+Etourneau roselin,2008,0,1
+Faucon hobereau,2015,0,7
+Faucon pèlerin,2016,0,2
+Fauvette des jardins,2013,0,2
+Fauvette grisette,2013,0,2
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2012,0,2
+Gobemouche noir,2018,0,3
+Grand Cormoran,2012,0,1
+Grand-duc d'Europe,2009,0,1
+Grive draine,2018,0,6
+Grive mauvis,2015,0,2
+Hibou moyen-duc,2015,0,3
+Hypolaïs polyglotte,2013,0,3
+Linotte mélodieuse,2018,0,3
+Pic mar,2014,0,1
+Pie-grièche écorcheur,2013,0,3
+Pipit des arbres,2018,0,3
+Pouillot fitis,2018,0,2
+Roitelet huppé,2015,0,3
+Rollier d'Europe,2016,0,1
+Tarier des prés,2009,0,1
+Tarin des aulnes,2016,0,3
+Tourterelle des bois,2013,0,2
+Vanneau huppé,2016,0,7

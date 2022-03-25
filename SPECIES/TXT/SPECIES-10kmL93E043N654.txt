@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Barge rousse
-0        Bécasseau variable
-0        Bernache nonnette
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Canard chipeau
-0        Canard colvert
-0        Chouette hulotte
-0        Coucou geai
-0        Courlis corlieu
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule milouin
-0        Fuligule morillon
-0        Goéland brun
-0        Grand Cormoran
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Grimpereau des jardins
-0        Grive litorne
-0        Grive mauvis
-0        Guêpier d'Europe
-0        Hibou des marais
-0        Locustelle luscinioïde
-0        Merle à plastron
-0        Milan royal
-0        Mouette rieuse
-0        Oie cendrée
-0        Pic épeichette
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot de Bonelli
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2018    0        3
+Autour des palombes       2013    0        3
+Barge rousse              2010    0        1
+Bécasseau variable        2012    0        2
+Bernache nonnette         2009    0        2
+Bouvreuil pivoine         2018    0        1
+Bruant des roseaux        2012    0        10
+Canard chipeau            2009    0        2
+Canard colvert            2014    0        4
+Chouette hulotte          2016    0        19
+Coucou geai               2016    0        2
+Courlis corlieu           2012    0        2
+Cygne tuberculé           2011    0        2
+Engoulevent d'Europe      2013    0        3
+Fauvette des jardins      2011    0        2
+Foulque macroule          2009    0        2
+Fuligule milouin          2009    0        2
+Fuligule morillon         2009    0        2
+Goéland brun              2016    0        1
+Grand Cormoran            2018    0        20
+Grand Gravelot            2012    0        2
+Grèbe castagneux          2009    0        2
+Grimpereau des jardins    2018    0        19
+Grive litorne             2012    0        6
+Grive mauvis              2018    0        7
+Guêpier d'Europe          2011    0        1
+Hibou des marais          2016    0        3
+Locustelle luscinioïde    2013    0        1
+Merle à plastron          2014    0        2
+Milan royal               2017    0        5
+Mouette rieuse            2010    0        2
+Oie cendrée               2016    0        4
+Pic épeichette            2018    0        4
+Pie-grièche à tête rousse 2013    0        1
+Pipit rousseline          2014    0        6
+Pluvier guignard          2014    0        4
+Pouillot de Bonelli       2011    0        2
+Râle d'eau                2013    0        1
+Roitelet à triple bandeau 2018    0        13
+Roitelet huppé            2015    0        6
+Torcol fourmilier         2017    0        2
 

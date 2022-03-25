@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Cincle plongeur"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Coucou geai"
-"0";"Crave à bec rouge"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette grisette"
-"0";"Fauvette orphée"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Milan royal"
-"0";"Monticole de roche"
-"0";"Pie-grièche méridionale"
-"0";"Pipit des arbres"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2015,0,12
+Bergeronnette printanière,2017,0,2
+Bouscarle de Cetti,2015,0,3
+Bruant des roseaux,2009,0,1
+Bruant proyer,2017,0,2
+Busard Saint-Martin,2009,0,2
+Canard colvert,2011,0,3
+Cincle plongeur,2015,0,2
+Cochevis huppé,2018,0,2
+Corbeau freux,2018,0,6
+Coucou geai,2017,0,1
+Crave à bec rouge,2015,0,2
+Effraie des clochers,2012,0,1
+Faucon hobereau,2016,0,5
+Faucon pèlerin,2015,0,1
+Fauvette grisette,2017,0,3
+Fauvette orphée,2009,0,1
+Gobemouche noir,2018,0,24
+Grand-duc d'Europe,2017,0,14
+Héron cendré,2017,0,14
+Hibou moyen-duc,2012,0,4
+Hirondelle rousseline,2010,0,3
+Hypolaïs polyglotte,2016,0,4
+Milan royal,2016,0,2
+Monticole de roche,2009,0,2
+Pie-grièche méridionale,2009,0,3
+Pipit des arbres,2017,0,2
+Pouillot à grands sourcils,2017,0,1
+Pouillot fitis,2018,0,5
+Pouillot siffleur,2012,0,1
+Sizerin cabaret,2008,0,2
+Sizerin flammé,2008,0,2
+Torcol fourmilier,2017,0,1

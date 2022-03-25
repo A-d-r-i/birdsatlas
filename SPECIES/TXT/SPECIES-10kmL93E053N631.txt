@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Bondrée apivore
-0        Caille des blés
-0        Cigogne blanche
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Grèbe castagneux
-0        Grive draine
-0        Grosbec casse-noyaux
-0        Guêpier d'Europe
-0        Hibou moyen-duc
-0        Mésange nonnette
-0        Moineau soulcie
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Sterne pierregarin
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Accenteur mouchet    2009    0        1
+Alouette des champs  2014    0        3
+Bondrée apivore      2009    0        1
+Caille des blés      2017    0        3
+Cigogne blanche      2014    0        1
+Cochevis huppé       2009    0        1
+Engoulevent d'Europe 2009    0        1
+Faisan de Colchide   2010    0        2
+Grèbe castagneux     2009    0        1
+Grive draine         2009    0        1
+Grosbec casse-noyaux 2009    0        1
+Guêpier d'Europe     2018    0        1
+Hibou moyen-duc      2018    0        3
+Mésange nonnette     2016    0        2
+Moineau soulcie      2013    0        1
+Pipit des arbres     2009    0        1
+Pouillot de Bonelli  2016    0        2
+Sterne pierregarin   2009    0        1
 

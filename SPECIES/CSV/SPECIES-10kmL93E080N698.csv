@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Gallinule poule-d'eau"
-"0";"Gélinotte des bois"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2012,0,2
+Alouette lulu,2011,0,1
+Bécassine sourde,2013,0,1
+Bec-croisé des sapins,2016,0,9
+Bondrée apivore,2018,0,23
+Bruant proyer,2018,0,1
+Bruant zizi,2018,0,4
+Busard des roseaux,2016,0,2
+Busard Saint-Martin,2018,0,3
+Butor étoilé,2013,0,2
+Chevalier culblanc,2014,0,1
+Chevalier guignette,2015,0,3
+Chevalier sylvain,2018,0,1
+Cincle plongeur,2017,0,3
+Faucon émerillon,2014,0,1
+Faucon pèlerin,2016,0,1
+Foulque macroule,2016,0,10
+Fuligule morillon,2013,0,1
+Gallinule poule-d'eau,2013,0,3
+Gélinotte des bois,2009,0,2
+Gobemouche noir,2016,0,7
+Goéland brun,2018,0,5
+Goéland cendré,2013,0,1
+Goéland leucophée,2018,0,4
+Grand-duc d'Europe,2014,0,1
+Grèbe castagneux,2016,0,3
+Harle bièvre,2015,0,3
+Hibou des marais,2016,0,2
+Hypolaïs ictérine,2010,0,3
+Jaseur boréal,2019,0,1
+Martin-pêcheur d'Europe,2016,0,5
+Moineau friquet,2013,0,28
+Mouette rieuse,2015,0,3
+Oie cendrée,2014,0,1
+Pie-grièche grise,2012,0,11
+Pipit spioncelle,2016,0,2
+Pouillot de Bonelli,2015,0,1
+Râle d'eau,2016,0,1
+Râle des genêts,2017,0,4
+Sarcelle d'hiver,2011,0,2
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,4
+Torcol fourmilier,2016,0,3

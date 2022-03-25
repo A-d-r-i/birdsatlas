@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bihoreau gris"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Grive litorne"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Ibis sacré"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Phragmite des joncs"
-"0";"Plongeon imbrin"
-"0";"Râle d'eau"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,6
+Bihoreau gris,2011,0,9
+Canard carolin,2018,0,1
+Canard chipeau,2016,0,27
+Canard pilet,2018,0,5
+Circaète Jean-le-Blanc,2016,0,1
+Cochevis huppé,2014,0,1
+Courlis cendré,2011,0,3
+Cygne noir,2016,0,5
+Engoulevent d'Europe,2016,0,1
+Érismature rousse,2014,0,3
+Grive litorne,2016,0,17
+Harle bièvre,2010,0,2
+Harle piette,2011,0,3
+Héron pourpré,2017,0,1
+Ibis sacré,2009,0,2
+Mésange huppée,2013,0,5
+Milan royal,2018,0,1
+Oie cendrée,2017,0,12
+Phragmite des joncs,2009,0,1
+Plongeon imbrin,2009,0,1
+Râle d'eau,2016,0,20

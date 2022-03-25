@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Crabier chevelu"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Gorgebleue à miroir"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Milan royal"
-"0";"Perdrix bartavelle"
-"0";"Perdrix grise"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,6
+Bécasse des bois,2016,0,3
+Bruant ortolan,2016,0,1
+Bruant proyer,2016,0,1
+Bruant zizi,2015,0,7
+Busard des roseaux,2015,0,1
+Caille des blés,2011,0,1
+Chevalier aboyeur,2016,0,2
+Chevalier culblanc,2018,0,7
+Chevalier guignette,2018,0,2
+Corbeau freux,2018,0,2
+Crabier chevelu,2010,0,2
+Effraie des clochers,2012,0,1
+Faucon pèlerin,2018,0,36
+Gorgebleue à miroir,2008,0,1
+Grand Cormoran,2018,0,10
+Grande Aigrette,2013,0,1
+Héron garde-boeufs,2015,0,1
+Héron pourpré,2014,0,1
+Hibou moyen-duc,2014,0,7
+Hirondelle de rivage,2016,0,1
+Hypolaïs polyglotte,2018,0,3
+Loriot d'Europe,2014,0,2
+Milan royal,2017,0,6
+Perdrix bartavelle,2017,0,22
+Perdrix grise,2014,0,3
+Pouillot fitis,2013,0,3
+Râle d'eau,2018,0,4
+Rousserolle effarvatte,2016,0,2
+Torcol fourmilier,2010,0,5

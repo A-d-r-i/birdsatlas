@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Cigogne blanche
-0        Foulque macroule
-0        Goéland brun
-0        Mésange huppée
-0        Mésange noire
-0        Milan noir
-0        Moineau friquet
-0        Perdrix rouge
-0        Pic épeichette
-0        Pic noir
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Serin cini
-0        Tourterelle des bois
-0        Traquet motteux
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette des champs      2012    0        4
+Bihoreau gris            2014    0        1
+Bondrée apivore          2012    0        1
+Bouvreuil pivoine        2016    0        1
+Cigogne blanche          2018    0        4
+Foulque macroule         2014    0        6
+Goéland brun             2016    0        1
+Mésange huppée           2011    0        1
+Mésange noire            2011    0        1
+Milan noir               2011    0        1
+Moineau friquet          2012    0        3
+Perdrix rouge            2011    0        2
+Pic épeichette           2018    0        1
+Pic noir                 2011    0        1
+Pouillot siffleur        2011    0        1
+Roitelet huppé           2014    0        5
+Rossignol philomèle      2014    0        1
+Rougequeue à front blanc 2011    0        2
+Serin cini               2014    0        4
+Tourterelle des bois     2012    0        4
+Traquet motteux          2014    0        1
 

@@ -1,6 +1,6 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Fauvette des jardins
-0        Fauvette passerinette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Fauvette des jardins  2017    0        1
+Fauvette passerinette 2009    0        1
 

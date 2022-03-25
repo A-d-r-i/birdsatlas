@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Bouscarle de Cetti"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cochevis huppé"
-"0";"Effraie des clochers"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grand Corbeau"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Martinet noir"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2009,0,1
+Aigle botté,2013,0,1
+Bouscarle de Cetti,2009,0,1
+Bruant jaune,2017,0,1
+Bruant proyer,2017,0,11
+Busard cendré,2016,0,1
+Busard des roseaux,2010,0,1
+Caille des blés,2009,0,1
+Chevalier culblanc,2016,0,2
+Chouette hulotte,2009,0,1
+Cochevis huppé,2016,0,1
+Effraie des clochers,2009,0,1
+Gallinule poule-d'eau,2017,0,8
+Gobemouche gris,2017,0,4
+Grand Corbeau,2016,0,1
+Grèbe castagneux,2015,0,3
+Grive litorne,2015,0,3
+Grosbec casse-noyaux,2017,0,1
+Hirondelle de fenêtre,2017,0,6
+Hirondelle rustique,2017,0,27
+Huppe fasciée,2018,0,25
+Martinet noir,2018,0,4
+Merle à plastron,2017,0,1
+Moineau friquet,2009,0,1
+Oedicnème criard,2016,0,2
+Pic épeichette,2009,0,1
+Pic mar,2016,0,1
+Pie-grièche à tête rousse,2016,0,1
+Pie-grièche écorcheur,2017,0,23
+Pipit des arbres,2017,0,16
+Pouillot de Bonelli,2018,0,25
+Roitelet huppé,2016,0,2
+Serin cini,2017,0,13
+Sittelle torchepot,2017,0,6
+Vautour fauve,2014,0,1

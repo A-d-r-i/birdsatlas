@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasseau tacheté"
-"0";"Bernache du Canada"
-"0";"Bruant fou"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Canard des Bahamas"
-"0";"Chevalier stagnatile"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Cygne de Bewick"
-"0";"Dendrocygne veuf"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette pitchou"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Grive litorne"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Huîtrier pie"
-"0";"Ibis sacré"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Macreuse noire"
-"0";"Oedicnème criard"
-"0";"Oie à tête barrée"
-"0";"Phalarope à bec étroit"
-"0";"Pic mar"
-"0";"Pipit de Richard"
-"0";"Pipit maritime"
-"0";"Pouillot brun"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne hansel"
-"0";"Tadorne casarca"
-"0";"Talève sultane"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2011,0,1
+Bécasseau tacheté,2018,0,17
+Bernache du Canada,2017,0,1
+Bruant fou,2008,0,4
+Bruant proyer,2015,0,3
+Caille des blés,2016,0,1
+Canard des Bahamas,2010,0,4
+Chevalier stagnatile,2017,0,16
+Chevêche d'Athéna,2010,0,3
+Cochevis huppé,2016,0,2
+Cygne de Bewick,2010,0,5
+Dendrocygne veuf,2017,0,2
+Faucon d'Eléonore,2014,0,1
+Fauvette pitchou,2018,0,10
+Fuligule à bec cerclé,2018,0,1
+Fuligule milouinan,2009,0,20
+Fuligule nyroca,2017,0,20
+Garrot à oeil d'or,2018,0,1
+Grive litorne,2017,0,7
+Harle huppé,2012,0,1
+Harle piette,2012,0,6
+Huîtrier pie,2015,0,2
+Ibis sacré,2009,0,6
+Jaseur boréal,2012,0,2
+Locustelle luscinioïde,2015,0,1
+Macareux moine,2014,0,1
+Macreuse noire,2017,0,4
+Oedicnème criard,2018,0,12
+Oie à tête barrée,2011,0,3
+Phalarope à bec étroit,2018,0,10
+Pic mar,2017,0,2
+Pipit de Richard,2018,0,1
+Pipit maritime,2007,0,2
+Pouillot brun,2017,0,2
+Sizerin cabaret,2017,0,3
+Sizerin flammé,2017,0,3
+Sterne hansel,2018,0,9
+Tadorne casarca,2017,0,9
+Talève sultane,2017,0,36

@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Blongios nain"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Érismature rousse"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Mésange huppée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oie à tête barrée"
-"0";"Panure à moustaches"
-"0";"Perruche à collier"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sittelle torchepot"
-"0";"Sterne pierregarin"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,1
+Bécasse des bois,2012,0,2
+Bécassine des marais,2016,0,6
+Bergeronnette flavéole (M.f.flavissima),2014,0,2
+Blongios nain,2009,0,1
+Bondrée apivore,2016,0,2
+Bouvreuil pivoine,2015,0,4
+Butor étoilé,2010,0,2
+Caille des blés,2016,0,12
+Canard chipeau,2015,0,20
+Canard pilet,2015,0,6
+Chevalier culblanc,2017,0,3
+Cigogne noire,2017,0,1
+Circaète Jean-le-Blanc,2010,0,1
+Combattant varié,2016,0,2
+Courlis cendré,2017,0,3
+Courlis corlieu,2009,0,1
+Érismature rousse,2015,0,2
+Fuligule morillon,2018,0,29
+Gobemouche gris,2017,0,8
+Gorgebleue à miroir,2009,0,3
+Grand Gravelot,2017,0,4
+Grèbe castagneux,2018,0,49
+Grimpereau des jardins,2016,0,9
+Guifette noire,2015,0,1
+Harle bièvre,2018,0,3
+Héron pourpré,2009,0,3
+Hibou des marais,2013,0,1
+Hibou moyen-duc,2017,0,8
+Huppe fasciée,2015,0,4
+Locustelle tachetée,2016,0,6
+Marouette ponctuée,2009,0,1
+Mésange huppée,2015,0,1
+Milan royal,2016,0,6
+Moineau friquet,2012,0,3
+Nette rousse,2017,0,1
+Oie à tête barrée,2017,0,2
+Panure à moustaches,2011,0,2
+Perruche à collier,2018,0,1
+Pipit des arbres,2016,0,11
+Pipit rousseline,2009,0,2
+Pluvier guignard,2017,0,17
+Pouillot fitis,2016,0,7
+Roitelet huppé,2015,0,3
+Rousserolle verderolle,2012,0,3
+Sarcelle d'été,2012,0,1
+Sarcelle d'hiver,2018,0,12
+Sittelle torchepot,2012,0,3
+Sterne pierregarin,2017,0,2
+Tarier des prés,2017,0,14
+Torcol fourmilier,2017,0,2

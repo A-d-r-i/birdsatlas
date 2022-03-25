@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Fauvette grisette"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Gobemouche noir"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Harle huppé"
-"0";"Locustelle tachetée"
-"0";"Milan noir"
-"0";"Nette rousse"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'été"
-"0";"Tadorne casarca"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,27
+Autour des palombes,2013,0,8
+Bondrée apivore,2011,0,3
+Busard des roseaux,2010,0,1
+Busard Saint-Martin,2016,0,1
+Canard siffleur,2014,0,8
+Chevalier aboyeur,2012,0,2
+Chevalier culblanc,2018,0,2
+Cygne noir,2012,0,10
+Effraie des clochers,2009,0,1
+Fauvette grisette,2013,0,2
+Fuligule milouinan,2010,0,4
+Fuligule nyroca,2016,0,2
+Gobemouche noir,2012,0,3
+Grive litorne,2018,0,23
+Grive mauvis,2018,0,4
+Harle huppé,2013,0,1
+Locustelle tachetée,2018,0,1
+Milan noir,2015,0,2
+Nette rousse,2011,0,6
+Pie-grièche grise,2012,0,1
+Pigeon colombin,2017,0,1
+Pipit des arbres,2015,0,4
+Sarcelle d'été,2018,0,1
+Tadorne casarca,2018,0,1
+Tarier des prés,2017,0,1
+Tarier pâtre,2017,0,2
+Torcol fourmilier,2018,0,5

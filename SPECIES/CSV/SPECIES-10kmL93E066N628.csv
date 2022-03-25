@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou des marais"
-"0";"Hirondelle de rochers"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Perruche à collier"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pipit farlouse"
-"0";"Plongeon catmarin"
-"0";"Pluvier guignard"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,2
+Bécasse des bois,2014,0,3
+Bécassine des marais,2015,0,6
+Bergeronnette printanière,2011,0,4
+Bruant ortolan,2010,0,1
+Busard des roseaux,2012,0,4
+Canard colvert,2016,0,3
+Choucas des tours,2011,0,1
+Cigogne blanche,2008,0,1
+Cigogne noire,2015,0,4
+Échasse blanche,2007,0,1
+Engoulevent d'Europe,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Grand Cormoran,2009,0,1
+Grand-duc d'Europe,2008,0,1
+Grosbec casse-noyaux,2018,0,1
+Guêpier d'Europe,2016,0,2
+Hibou des marais,2018,0,1
+Hirondelle de rochers,2009,0,1
+Merle à plastron,2011,0,1
+Moineau friquet,2013,0,1
+Perruche à collier,2012,0,1
+Pic épeichette,2015,0,2
+Pic mar,2009,0,2
+Pipit farlouse,2016,0,10
+Plongeon catmarin,2009,0,1
+Pluvier guignard,2015,0,1
+Tourterelle des bois,2018,0,2

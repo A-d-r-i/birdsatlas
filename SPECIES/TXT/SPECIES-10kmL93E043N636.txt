@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bruant proyer
-0        Busard cendré
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Faisan vénéré
-0        Faucon pèlerin
-0        Goéland leucophée
-0        Guêpier d'Europe
-0        Mésange noire
-0        Mouette rieuse
-0        Perdrix rouge
-0        Pie-grièche écorcheur
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Vanneau huppé
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette des champs   2018    0        5
+Autour des palombes   2018    0        3
+Bécasse des bois      2017    0        8
+Bécassine des marais  2011    0        1
+Bruant proyer         2014    0        2
+Busard cendré         2016    0        1
+Busard Saint-Martin   2009    0        3
+Chevalier culblanc    2016    0        1
+Faisan vénéré         2009    0        4
+Faucon pèlerin        2014    0        1
+Goéland leucophée     2008    0        1
+Guêpier d'Europe      2014    0        1
+Mésange noire         2018    0        19
+Mouette rieuse        2012    0        1
+Perdrix rouge         2013    0        3
+Pie-grièche écorcheur 2016    0        4
+Pipit rousseline      2013    0        1
+Pipit spioncelle      2012    0        1
+Pouillot siffleur     2009    0        1
+Vanneau huppé         2008    0        1
 

@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant fou"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Corneille noire"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Geai des chênes"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des bois"
-"0";"Grive draine"
-"0";"Lagopède alpin"
-"0";"Martinet à ventre blanc"
-"0";"Martinet noir"
-"0";"Merle noir"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Pic noir"
-"0";"Pic vert"
-"0";"Pipit des arbres"
-"0";"Roitelet huppé"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Bruant fou,2009,0,1
+Chevalier culblanc,2018,0,1
+Cigogne blanche,2018,0,2
+Cincle plongeur,2018,0,8
+Corneille noire,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2017,0,1
+Geai des chênes,2018,0,1
+Grand-duc d'Europe,2009,0,1
+Grimpereau des bois,2009,0,1
+Grive draine,2009,0,1
+Lagopède alpin,2009,0,1
+Martinet à ventre blanc,2015,0,1
+Martinet noir,2015,0,3
+Merle noir,2009,0,1
+Mésange huppée,2009,0,1
+Mésange noire,2009,0,1
+Mésange nonnette,2014,0,1
+Perdrix grise,2009,0,1
+Pic noir,2012,0,2
+Pic vert,2009,0,1
+Pipit des arbres,2009,0,1
+Roitelet huppé,2009,0,1
+Tarier des prés,2015,0,1
+Tarier pâtre,2016,0,1
+Troglodyte mignon,2009,0,1

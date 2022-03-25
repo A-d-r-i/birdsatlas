@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Canard à collier noir"
-"0";"Canard mandarin"
-"0";"Chevêche d'Athéna"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Eider à duvet"
-"0";"Érismature rousse"
-"0";"Flamant rose"
-"0";"Grèbe jougris"
-"0";"Harelde boréale"
-"0";"Hibou des marais"
-"0";"Macreuse brune"
-"0";"Marouette poussin"
-"0";"Martinet à ventre blanc"
-"0";"Mouette tridactyle"
-"0";"Perdrix grise"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Traquet motteux"
-"0";"Vanneau sociable"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2016,0,2
+Bécasseau maubèche,2013,0,4
+Bécassine sourde,2017,0,1
+Bec-croisé des sapins,2018,0,4
+Bihoreau gris,2018,0,7
+Bruant ortolan,2015,0,2
+Canard à collier noir,2018,0,11
+Canard mandarin,2016,0,1
+Chevêche d'Athéna,2016,0,2
+Crabier chevelu,2011,0,1
+Cygne chanteur,2016,0,20
+Cygne noir,2012,0,17
+Eider à duvet,2015,0,13
+Érismature rousse,2015,0,13
+Flamant rose,2007,0,3
+Grèbe jougris,2018,0,34
+Harelde boréale,2015,0,12
+Hibou des marais,2017,0,1
+Macreuse brune,2017,0,6
+Marouette poussin,2012,0,2
+Martinet à ventre blanc,2015,0,1
+Mouette tridactyle,2018,0,4
+Perdrix grise,2016,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Traquet motteux,2018,0,9
+Vanneau sociable,2016,0,17

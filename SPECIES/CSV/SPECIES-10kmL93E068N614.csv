@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette grise"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Étourneau sansonnet"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rustique"
-"0";"Hypolaïs polyglotte"
-"0";"Martinet noir"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Pic de Sharpe"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,1
+Alouette des champs,2013,0,1
+Alouette lulu,2015,0,3
+Bec-croisé des sapins,2009,0,1
+Bergeronnette grise,2015,0,9
+Bondrée apivore,2015,0,3
+Bruant zizi,2015,0,8
+Étourneau sansonnet,2015,0,7
+Fauvette des jardins,2017,0,2
+Fauvette grisette,2015,0,2
+Gobemouche gris,2015,0,2
+Grosbec casse-noyaux,2013,0,2
+Guêpier d'Europe,2015,0,4
+Hirondelle de rochers,2014,0,3
+Hirondelle rustique,2015,0,7
+Hypolaïs polyglotte,2017,0,4
+Martinet noir,2015,0,5
+Milan noir,2016,0,1
+Milan royal,2016,0,1
+Moineau friquet,2011,0,2
+Pic de Sharpe,2014,0,1
+Pie-grièche écorcheur,2015,0,4
+Pigeon biset domestique,2013,0,1
+Pipit des arbres,2015,0,2
+Pipit farlouse,2013,0,1
+Roitelet huppé,2009,0,1
+Rossignol philomèle,2016,0,6
+Tarier des prés,2015,0,2
+Tarier pâtre,2015,0,3
+Tarin des aulnes,2011,0,2
+Tourterelle turque,2010,0,2
+Traquet motteux,2017,0,1
+Vautour fauve,2016,0,1
+Verdier d'Europe,2010,0,2

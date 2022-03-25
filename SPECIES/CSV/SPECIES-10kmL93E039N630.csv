@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Grand Corbeau"
-"0";"Grèbe esclavon"
-"0";"Guêpier d'Europe"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Oedicnème criard"
-"0";"Perruche à collier"
-"0";"Phragmite des joncs"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,3
+Bécasseau variable,2018,0,12
+Bécasse des bois,2013,0,3
+Bergeronnette flavéole (M.f.flavissima),2016,0,3
+Bergeronnette printanière,2016,0,8
+Blongios nain,2013,0,1
+Bouvreuil pivoine,2015,0,5
+Bruant ortolan,2009,0,1
+Busard cendré,2015,0,2
+Butor étoilé,2014,0,7
+Caille des blés,2012,0,2
+Canard chipeau,2018,0,5
+Canard siffleur,2015,0,1
+Chevalier aboyeur,2017,0,3
+Chevalier arlequin,2014,0,2
+Chevalier sylvain,2018,0,2
+Chevêche d'Athéna,2014,0,1
+Cochevis huppé,2014,0,1
+Engoulevent d'Europe,2013,0,2
+Grand Corbeau,2012,0,5
+Grèbe esclavon,2011,0,2
+Guêpier d'Europe,2010,0,2
+Ibis falcinelle,2017,0,6
+Ibis sacré,2011,0,1
+Oedicnème criard,2010,0,1
+Perruche à collier,2011,0,1
+Phragmite des joncs,2018,0,1
+Pigeon colombin,2017,0,2
+Pluvier doré,2010,0,2
+Pouillot siffleur,2013,0,1
+Rémiz penduline,2017,0,1
+Roitelet huppé,2015,0,2
+Rollier d'Europe,2016,0,6
+Rousserolle effarvatte,2011,0,2
+Tadorne de Belon,2015,0,1
+Torcol fourmilier,2011,0,2

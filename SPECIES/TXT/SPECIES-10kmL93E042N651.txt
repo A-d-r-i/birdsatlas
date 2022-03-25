@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bernache cravant
-0        Bouvreuil pivoine
-0        Bruant ortolan
-0        Busard cendré
-0        Canard carolin
-0        Chevalier arlequin
-0        Chevalier sylvain
-0        Cincle plongeur
-0        Circaète Jean-le-Blanc
-0        Engoulevent d'Europe
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Goéland marin
-0        Guifette moustac
-0        Ibis falcinelle
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Mésange noire
-0        Mouette pygmée
-0        Perdrix grise
-0        Perruche ondulée
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pipit maritime
-0        Pluvier argenté
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Râle des genêts
-0        Rémiz penduline
-0        Sterne naine
-0        Tadorne casarca
-0        Vanneau sociable
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Avocette élégante         2016    0        3
+Bécasseau variable        2015    0        2
+Bécasse des bois          2012    0        8
+Bec-croisé des sapins     2015    0        1
+Bernache cravant          2016    0        1
+Bouvreuil pivoine         2018    0        7
+Bruant ortolan            2014    0        1
+Busard cendré             2018    0        26
+Canard carolin            2015    0        1
+Chevalier arlequin        2015    0        3
+Chevalier sylvain         2018    0        6
+Cincle plongeur           2009    0        1
+Circaète Jean-le-Blanc    2018    0        19
+Engoulevent d'Europe      2009    0        1
+Fauvette pitchou          2014    0        1
+Fuligule milouin          2012    0        1
+Goéland marin             2015    0        3
+Guifette moustac          2015    0        4
+Ibis falcinelle           2013    0        1
+Jaseur boréal             2015    0        1
+Locustelle tachetée       2018    0        4
+Mésange noire             2018    0        2
+Mouette pygmée            2011    0        2
+Perdrix grise             2016    0        13
+Perruche ondulée          2013    0        1
+Petit-duc scops           2009    0        3
+Pie-grièche à tête rousse 2017    0        1
+Pipit maritime            2007    0        1
+Pluvier argenté           2013    0        3
+Pouillot de Bonelli       2016    0        1
+Pouillot siffleur         2018    0        1
+Râle des genêts           2018    0        10
+Rémiz penduline           2018    0        2
+Sterne naine              2013    0        1
+Tadorne casarca           2018    0        1
+Vanneau sociable          2015    0        1
 

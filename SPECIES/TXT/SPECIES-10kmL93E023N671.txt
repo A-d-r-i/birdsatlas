@@ -1,61 +1,61 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Barge rousse
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bernache nonnette
-0        Bihoreau gris
-0        Bruant des neiges
-0        Bruant proyer
-0        Butor étoilé
-0        Canard chipeau
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Cigogne blanche
-0        Cigogne noire
-0        Courlis cendré
-0        Courlis corlieu
-0        Etourneau roselin
-0        Fuligule milouin
-0        Fuligule morillon
-0        Fulmar boréal
-0        Gobemouche gris
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Goéland cendré
-0        Grand Gravelot
-0        Grèbe esclavon
-0        Grosbec casse-noyaux
-0        Guêpier d'Europe
-0        Harelde boréale
-0        Harle huppé
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Labbe pomarin
-0        Macareux moine
-0        Macreuse noire
-0        Mésange noire
-0        Mésange nonnette
-0        Milan noir
-0        Mouette pygmée
-0        Perdrix grise
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pipit de Richard
-0        Plongeon arctique
-0        Plongeon catmarin
-0        Pluvier argenté
-0        Pluvier guignard
-0        Pouillot ibérique
-0        Râle d'eau
-0        Rossignol philomèle
-0        Sarcelle d'été
-0        Spatule blanche
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Alouette lulu            2017    0        2
+Barge rousse             2018    0        1
+Bécasseau variable       2015    0        2
+Bécasse des bois         2018    0        5
+Bernache nonnette        2016    0        6
+Bihoreau gris            2017    0        4
+Bruant des neiges        2013    0        1
+Bruant proyer            2014    0        2
+Butor étoilé             2009    0        1
+Canard chipeau           2018    0        2
+Canard pilet             2017    0        2
+Canard siffleur          2011    0        2
+Canard souchet           2018    0        5
+Chevalier culblanc       2015    0        4
+Chevalier gambette       2015    0        1
+Chevalier sylvain        2016    0        2
+Cigogne blanche          2017    0        2
+Cigogne noire            2016    0        1
+Courlis cendré           2016    0        1
+Courlis corlieu          2015    0        2
+Etourneau roselin        2018    0        1
+Fuligule milouin         2013    0        1
+Fuligule morillon        2013    0        2
+Fulmar boréal            2009    0        1
+Gobemouche gris          2015    0        2
+Goéland à ailes blanches 2018    0        1
+Goéland bourgmestre      2016    0        4
+Goéland cendré           2018    0        2
+Grand Gravelot           2016    0        1
+Grèbe esclavon           2015    0        1
+Grosbec casse-noyaux     2018    0        5
+Guêpier d'Europe         2017    0        2
+Harelde boréale          2017    0        1
+Harle huppé              2015    0        1
+Hibou des marais         2017    0        7
+Hibou moyen-duc          2016    0        7
+Huppe fasciée            2018    0        2
+Labbe pomarin            2018    0        1
+Macareux moine           2018    0        5
+Macreuse noire           2016    0        2
+Mésange noire            2015    0        2
+Mésange nonnette         2015    0        2
+Milan noir               2018    0        2
+Mouette pygmée           2018    0        4
+Perdrix grise            2014    0        1
+Pic vert                 2017    0        1
+Pie-grièche écorcheur    2014    0        2
+Pipit de Richard         2013    0        2
+Plongeon arctique        2018    0        1
+Plongeon catmarin        2018    0        1
+Pluvier argenté          2015    0        1
+Pluvier guignard         2015    0        1
+Pouillot ibérique        2018    0        4
+Râle d'eau               2017    0        8
+Rossignol philomèle      2015    0        1
+Sarcelle d'été           2011    0        1
+Spatule blanche          2018    0        1
 

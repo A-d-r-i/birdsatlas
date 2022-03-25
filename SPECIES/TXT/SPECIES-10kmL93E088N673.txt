@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle criard
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Chouette hulotte
-0        Cincle plongeur
-0        Cygne tuberculé
-0        Faucon émerillon
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive mauvis
-0        Grive musicienne
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Merle à plastron
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix grise
-0        Petit-duc scops
-0        Pic mar
-0        Pic noir
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pigeon biset domestique
-0        Pipit de Richard
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle criard              2018    0        2
+Bécasse des bois          2019    0        2
+Bruant des roseaux        2015    0        5
+Chouette hulotte          2011    0        2
+Cincle plongeur           2012    0        1
+Cygne tuberculé           2011    0        1
+Faucon émerillon          2016    0        2
+Grand Cormoran            2011    0        3
+Grand-duc d'Europe        2016    0        2
+Grande Aigrette           2013    0        4
+Grèbe castagneux          2012    0        5
+Grive mauvis              2013    0        1
+Grive musicienne          2017    0        34
+Hibou moyen-duc           2017    0        6
+Locustelle tachetée       2011    0        3
+Merle à plastron          2015    0        1
+Moineau friquet           2011    0        4
+Mouette rieuse            2012    0        1
+Perdrix grise             2015    0        5
+Petit-duc scops           2012    0        2
+Pic mar                   2015    0        6
+Pic noir                  2011    0        3
+Pie-grièche à tête rousse 2011    0        2
+Pie-grièche grise         2015    0        6
+Pigeon biset domestique   2013    0        1
+Pipit de Richard          2014    0        2
+Pipit farlouse            2011    0        1
+Pouillot siffleur         2011    0        2
+Rousserolle effarvatte    2016    0        1
+Torcol fourmilier         2017    0        13
+Traquet motteux           2017    0        6
+Vanneau huppé             2015    0        1
 

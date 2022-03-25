@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2011,0,3
+Gobemouche gris,2009,0,2
+Hibou moyen-duc,2009,0,1
+Hirondelle de fenêtre,2008,0,1
+Mésange boréale,2016,0,1
+Mésange huppée,2009,0,1
+Mésange noire,2009,0,1
+Mouette rieuse,2009,0,1
+Pouillot fitis,2010,0,2
+Pouillot siffleur,2010,0,2

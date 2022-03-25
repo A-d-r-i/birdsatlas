@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Effraie des clochers"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Effraie des clochers,2009,0,1
+Héron pourpré,2011,0,1
+Hibou moyen-duc,2009,0,1
+Huppe fasciée,2009,0,1
+Pouillot siffleur,2009,0,1

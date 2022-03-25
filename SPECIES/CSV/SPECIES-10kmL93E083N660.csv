@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Caille des blés"
-"0";"Cygne tuberculé"
-"0";"Élanion blanc"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Pigeon biset domestique"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
+frname,lastobs,newcount,oldcount
+Caille des blés,2009,0,1
+Cygne tuberculé,2009,0,1
+Élanion blanc,2008,0,3
+Hibou moyen-duc,2009,0,2
+Locustelle tachetée,2017,0,2
+Martinet à ventre blanc,2018,0,1
+Pigeon biset domestique,2009,0,1
+Pouillot siffleur,2009,0,1
+Râle d'eau,2009,0,1

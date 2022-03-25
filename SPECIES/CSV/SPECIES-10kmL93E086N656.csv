@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Bouscarle de Cetti"
-"0";"Bruant fou"
-"0";"Cygne noir"
-"0";"Faisan vénéré"
-"0";"Guifette leucoptère"
-"0";"Guifette noire"
-"0";"Harle piette"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Sterne naine"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécassine sourde,2018,0,4
+Bernache nonnette,2018,0,3
+Bouscarle de Cetti,2015,0,1
+Bruant fou,2013,0,1
+Cygne noir,2017,0,1
+Faisan vénéré,2017,0,2
+Guifette leucoptère,2017,0,3
+Guifette noire,2017,0,3
+Harle piette,2019,0,3
+Perruche à collier,2016,0,2
+Perruche ondulée,2017,0,1
+Pie-grièche à tête rousse,2016,0,1
+Pie-grièche grise,2018,0,9
+Sterne naine,2015,0,1
+Torcol fourmilier,2014,0,1
+Tournepierre à collier,2015,0,2
+Vautour fauve,2018,0,1

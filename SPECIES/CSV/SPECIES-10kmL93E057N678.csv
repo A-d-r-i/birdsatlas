@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Faisan vénéré"
-"0";"Gobemouche gris"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pipit des arbres"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bergeronnette printanière,2009,0,1
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2009,0,2
+Bruant zizi,2009,0,1
+Busard cendré,2018,0,2
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2009,0,1
+Cigogne blanche,2009,0,1
+Cochevis huppé,2009,0,1
+Coucou gris,2009,0,1
+Effraie des clochers,2009,0,2
+Épervier d'Europe,2018,0,3
+Faisan vénéré,2009,0,1
+Gobemouche gris,2009,0,1
+Hibou moyen-duc,2018,0,2
+Hirondelle de fenêtre,2009,0,1
+Huppe fasciée,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Linotte mélodieuse,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Martinet noir,2009,0,1
+Oedicnème criard,2009,0,1
+Perdrix grise,2018,0,3
+Perdrix rouge,2009,0,2
+Pic mar,2009,0,2
+Pipit des arbres,2009,0,1
+Roitelet à triple bandeau,2009,0,1
+Roitelet huppé,2009,0,2
+Rousserolle effarvatte,2009,0,1
+Tourterelle des bois,2009,0,1

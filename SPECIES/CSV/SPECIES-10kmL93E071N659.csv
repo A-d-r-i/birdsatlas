@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Héron pourpré"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Sterne naine"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,1
+Bruant des roseaux,2018,0,2
+Busard cendré,2018,0,3
+Busard Saint-Martin,2007,0,1
+Caille des blés,2010,0,2
+Canard chipeau,2018,0,1
+Chevalier culblanc,2019,0,1
+Cigogne blanche,2015,0,3
+Faucon hobereau,2010,0,4
+Faucon pèlerin,2013,0,1
+Fauvette des jardins,2010,0,2
+Foulque macroule,2015,0,5
+Gobemouche gris,2011,0,3
+Grèbe castagneux,2009,0,2
+Grive litorne,2018,0,2
+Grosbec casse-noyaux,2018,0,2
+Guêpier d'Europe,2013,0,2
+Héron pourpré,2016,0,1
+Martin-pêcheur d'Europe,2018,0,2
+Mésange noire,2018,0,1
+Moineau friquet,2009,0,2
+Mouette rieuse,2018,0,1
+Pic épeichette,2015,0,1
+Pipit des arbres,2010,0,4
+Pipit farlouse,2012,0,1
+Pouillot siffleur,2018,0,3
+Roitelet huppé,2015,0,4
+Sterne naine,2012,0,1
+Tarier des prés,2013,0,1
+Traquet motteux,2010,0,1

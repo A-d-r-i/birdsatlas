@@ -1,50 +1,50 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bec-croisé des sapins
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Blongios nain
-0        Bruant fou
-0        Bruant lapon
-0        Busard pâle
-0        Butor étoilé
-0        Caille des blés
-0        Cisticole des joncs
-0        Combattant varié
-0        Dendrocygne fauve
-0        Faisan vénéré
-0        Faucon d'Eléonore
-0        Garrot à oeil d'or
-0        Goéland cendré
-0        Gorgebleue à miroir
-0        Grand-duc d'Europe
-0        Grèbe à cou noir
-0        Guifette leucoptère
-0        Hibou des marais
-0        Marouette ponctuée
-0        Mésange huppée
-0        Moineau friquet
-0        Mouette mélanocéphale
-0        Mouette pygmée
-0        Nette rousse
-0        Oie des moissons
-0        Perruche à collier
-0        Phragmite des joncs
-0        Pic cendré
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Sizerin flammé
-0        Spatule blanche
-0        Tadorne casarca
-0        Torcol fourmilier
-0        Tournepierre à collier
-0        Vautour fauve
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Barge à queue noire                     2016    0        4
+Barge rousse                            2018    0        1
+Bécasseau cocorli                       2013    0        4
+Bécasseau de Temminck                   2016    0        2
+Bécasseau minute                        2018    0        8
+Bécasseau sanderling                    2009    0        1
+Bec-croisé des sapins                   2017    0        4
+Bergeronnette flavéole (M.f.flavissima) 2009    0        1
+Blongios nain                           2018    0        1
+Bruant fou                              2013    0        1
+Bruant lapon                            2011    0        1
+Busard pâle                             2008    0        1
+Butor étoilé                            2012    0        6
+Caille des blés                         2018    0        19
+Cisticole des joncs                     2016    0        1
+Combattant varié                        2016    0        37
+Dendrocygne fauve                       2012    0        1
+Faisan vénéré                           2018    0        8
+Faucon d'Eléonore                       2018    0        1
+Garrot à oeil d'or                      2011    0        2
+Goéland cendré                          2013    0        7
+Gorgebleue à miroir                     2016    0        9
+Grand-duc d'Europe                      2018    0        2
+Grèbe à cou noir                        2010    0        4
+Guifette leucoptère                     2007    0        1
+Hibou des marais                        2018    0        1
+Marouette ponctuée                      2009    0        1
+Mésange huppée                          2018    0        3
+Moineau friquet                         2016    0        24
+Mouette mélanocéphale                   2016    0        6
+Mouette pygmée                          2013    0        7
+Nette rousse                            2019    0        3
+Oie des moissons                        2015    0        5
+Perruche à collier                      2011    0        1
+Phragmite des joncs                     2018    0        11
+Pic cendré                              2012    0        1
+Pipit rousseline                        2017    0        33
+Pluvier guignard                        2018    0        2
+Pouillot de Bonelli                     2011    0        2
+Pouillot siffleur                       2016    0        3
+Sizerin flammé                          2011    0        1
+Spatule blanche                         2017    0        3
+Tadorne casarca                         2010    0        20
+Torcol fourmilier                       2016    0        17
+Tournepierre à collier                  2016    0        6
+Vautour fauve                           2010    0        1
 

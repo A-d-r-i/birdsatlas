@@ -1,53 +1,53 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Choucas des tours
-0        Chouette hulotte
-0        Cincle plongeur
-0        Coucou gris
-0        Épervier d'Europe
-0        Faisan de Colchide
-0        Faucon kobez
-0        Fauvette babillarde
-0        Fauvette grisette
-0        Gobemouche à collier
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hypolaïs polyglotte
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange nonnette
-0        Moineau friquet
-0        Pic noir
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit farlouse
-0        Pipit rousseline
-0        Pluvier doré
-0        Pouillot fitis
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Serin cini
-0        Sizerin flammé
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Accenteur mouchet        2017    0        19
+Alouette lulu            2017    0        1
+Autour des palombes      2014    0        4
+Bécasse des bois         2016    0        7
+Bec-croisé des sapins    2016    0        1
+Bondrée apivore          2018    0        8
+Bouvreuil pivoine        2015    0        1
+Bruant des roseaux       2017    0        1
+Choucas des tours        2015    0        3
+Chouette hulotte         2013    0        4
+Cincle plongeur          2012    0        2
+Coucou gris              2015    0        3
+Épervier d'Europe        2018    0        10
+Faisan de Colchide       2013    0        4
+Faucon kobez             2015    0        1
+Fauvette babillarde      2015    0        1
+Fauvette grisette        2018    0        9
+Gobemouche à collier     2017    0        1
+Grand Cormoran           2014    0        1
+Grande Aigrette          2017    0        8
+Grèbe castagneux         2012    0        4
+Grimpereau des bois      2015    0        1
+Grive mauvis             2017    0        2
+Grosbec casse-noyaux     2018    0        20
+Hibou moyen-duc          2015    0        1
+Hirondelle de fenêtre    2016    0        6
+Hypolaïs polyglotte      2018    0        4
+Martinet noir            2015    0        3
+Martin-pêcheur d'Europe  2012    0        2
+Mésange à longue queue   2015    0        3
+Mésange boréale          2015    0        1
+Mésange huppée           2018    0        7
+Mésange nonnette         2015    0        4
+Moineau friquet          2017    0        2
+Pic noir                 2017    0        2
+Pigeon colombin          2016    0        7
+Pinson du Nord           2017    0        9
+Pipit farlouse           2017    0        21
+Pipit rousseline         2015    0        1
+Pluvier doré             2016    0        3
+Pouillot fitis           2015    0        3
+Rougequeue à front blanc 2015    0        3
+Rousserolle effarvatte   2015    0        1
+Serin cini               2017    0        7
+Sizerin flammé           2016    0        1
+Tadorne de Belon         2016    0        1
+Tarier des prés          2016    0        5
+Tarin des aulnes         2017    0        5
+Torcol fourmilier        2018    0        1
 

@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Barge rousse"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bernache nonnette"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard des Bahamas"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Crabier chevelu"
-"0";"Dendrocygne fauve"
-"0";"Engoulevent d'Europe"
-"0";"Faucon gerfaut"
-"0";"Faucon kobez"
-"0";"Gorgebleue à miroir"
-"0";"Huîtrier pie"
-"0";"Ibis sacré"
-"0";"Labbe à longue queue"
-"0";"Locustelle luscinioïde"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Milan royal"
-"0";"Mouette de Bonaparte"
-"0";"Mouette pygmée"
-"0";"Nette demi-deuil"
-"0";"Oie rieuse"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Phragmite aquatique"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Râle des genêts"
-"0";"Tichodrome échelette"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2012,0,5
+Aigle botté,2010,0,1
+Barge rousse,2018,0,22
+Bécassine sourde,2016,0,19
+Bec-croisé des sapins,2013,0,2
+Bernache nonnette,2012,0,4
+Butor étoilé,2013,0,5
+Caille des blés,2015,0,22
+Calopsitte élégante,2014,0,2
+Canard des Bahamas,2014,0,3
+Canard mandarin,2016,0,4
+Chevalier stagnatile,2013,0,5
+Crabier chevelu,2008,0,8
+Dendrocygne fauve,2011,0,1
+Engoulevent d'Europe,2008,0,1
+Faucon gerfaut,2011,0,1
+Faucon kobez,2015,0,2
+Gorgebleue à miroir,2018,0,26
+Huîtrier pie,2016,0,7
+Ibis sacré,2018,0,21
+Labbe à longue queue,2012,0,1
+Locustelle luscinioïde,2017,0,8
+Marouette ponctuée,2013,0,1
+Merle à plastron,2016,0,3
+Milan royal,2018,0,21
+Mouette de Bonaparte,2017,0,7
+Mouette pygmée,2018,0,20
+Nette demi-deuil,2009,0,1
+Oie rieuse,2018,0,9
+Perruche à collier,2018,0,1
+Perruche ondulée,2010,0,1
+Phragmite aquatique,2015,0,4
+Pouillot à grands sourcils,2018,0,1
+Pouillot de Bonelli,2015,0,1
+Râle des genêts,2014,0,47
+Tichodrome échelette,2016,0,21
+Tournepierre à collier,2014,0,3

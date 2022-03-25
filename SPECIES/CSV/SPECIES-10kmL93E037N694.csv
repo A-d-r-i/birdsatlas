@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Coucou gris"
-"0";"Fauvette babillarde"
-"0";"Martin-pêcheur d'Europe"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2009,0,1
+Bruant jaune,2009,0,1
+Coucou gris,2009,0,1
+Fauvette babillarde,2016,0,1
+Martin-pêcheur d'Europe,2016,0,2
+Petit Gravelot,2009,0,1
+Phragmite des joncs,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot siffleur,2009,0,1
+Rougequeue à front blanc,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1
+Tourterelle des bois,2009,0,1

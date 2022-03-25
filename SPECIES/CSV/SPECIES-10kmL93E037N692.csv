@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant jaune"
-"0";"Cygne de Bewick"
-"0";"Grosbec casse-noyaux"
-"0";"Pigeon biset domestique"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
+frname,lastobs,newcount,oldcount
+Bruant jaune,2009,0,1
+Cygne de Bewick,2019,0,8
+Grosbec casse-noyaux,2017,0,1
+Pigeon biset domestique,2009,0,1
+Rougequeue à front blanc,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Rousserolle verderolle,2009,0,1

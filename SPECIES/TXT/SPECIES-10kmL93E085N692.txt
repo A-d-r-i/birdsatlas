@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Barge rousse
-0        Bécasseau maubèche
-0        Bécasseau sanderling
-0        Bernache cravant
-0        Blongios nain
-0        Buse pattue
-0        Canard carolin
-0        Courlis corlieu
-0        Cygne de Bewick
-0        Gobemouche à collier
-0        Gorgebleue à miroir
-0        Grèbe jougris
-0        Guifette moustac
-0        Hibou des marais
-0        Huîtrier pie
-0        Marouette ponctuée
-0        Mouette pygmée
-0        Nette demi-deuil
-0        Pipit à gorge rousse
-0        Plongeon imbrin
-0        Pluvier argenté
-0        Pouillot de Bonelli
-0        Râle d'eau
-0        Rousserolle turdoïde
-0        Tournepierre à collier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Avocette élégante      2014    0        3
+Barge rousse           2017    0        3
+Bécasseau maubèche     2016    0        8
+Bécasseau sanderling   2014    0        6
+Bernache cravant       2016    0        1
+Blongios nain          2017    0        1
+Buse pattue            2011    0        2
+Canard carolin         2013    0        1
+Courlis corlieu        2012    0        2
+Cygne de Bewick        2018    0        2
+Gobemouche à collier   2014    0        1
+Gorgebleue à miroir    2016    0        2
+Grèbe jougris          2017    0        34
+Guifette moustac       2016    0        8
+Hibou des marais       2017    0        15
+Huîtrier pie           2011    0        1
+Marouette ponctuée     2012    0        1
+Mouette pygmée         2017    0        12
+Nette demi-deuil       2018    0        1
+Pipit à gorge rousse   2013    0        1
+Plongeon imbrin        2009    0        1
+Pluvier argenté        2017    0        2
+Pouillot de Bonelli    2009    0        1
+Râle d'eau             2016    0        2
+Rousserolle turdoïde   2017    0        6
+Tournepierre à collier 2018    0        3
 

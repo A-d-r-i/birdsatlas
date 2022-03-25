@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau sanderling"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon crécerellette"
-"0";"Fauvette mélanocéphale"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Milan royal"
-"0";"Oie à tête barrée"
-"0";"Oie cendrée"
-"0";"Perruche à collier"
-"0";"Râle d'eau"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2017,0,2
+Bécasseau sanderling,2017,0,1
+Bec-croisé des sapins,2015,0,3
+Bergeronnette flavéole (M.f.flavissima),2012,0,2
+Bernache nonnette,2009,0,1
+Busard cendré,2009,0,1
+Busard pâle,2017,0,1
+Butor étoilé,2009,0,1
+Canard carolin,2012,0,5
+Courlis cendré,2017,0,10
+Élanion blanc,2017,0,1
+Engoulevent d'Europe,2012,0,1
+Faucon crécerellette,2015,0,2
+Fauvette mélanocéphale,2013,0,1
+Fuligule morillon,2017,0,6
+Garrot à oeil d'or,2012,0,1
+Goéland argenté,2019,0,7
+Gorgebleue à miroir,2016,0,1
+Hibou moyen-duc,2018,0,15
+Locustelle tachetée,2018,0,4
+Merle à plastron,2012,0,1
+Milan royal,2018,0,3
+Oie à tête barrée,2016,0,1
+Oie cendrée,2014,0,9
+Perruche à collier,2019,0,1
+Râle d'eau,2015,0,2
+Sarcelle d'été,2007,0,1
+Sizerin cabaret,2018,0,5
+Sizerin flammé,2018,0,5
+Tadorne de Belon,2013,0,1

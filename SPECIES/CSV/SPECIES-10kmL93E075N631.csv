@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Cigogne noire"
-"0";"Crave à bec rouge"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette à lunettes"
-"0";"Gorgebleue à miroir"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Nette rousse"
-"0";"Pic noir"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2012,0,1
+Bec-croisé des sapins,2007,0,1
+Bouvreuil pivoine,2018,0,5
+Bruant des roseaux,2018,0,4
+Bruant jaune,2017,0,1
+Busard cendré,2015,0,2
+Canard mandarin,2015,0,2
+Cigogne noire,2016,0,1
+Crave à bec rouge,2017,0,2
+Échasse blanche,2017,0,1
+Effraie des clochers,2014,0,3
+Faucon émerillon,2017,0,1
+Faucon kobez,2007,0,1
+Fauvette à lunettes,2009,0,1
+Gorgebleue à miroir,2013,0,1
+Héron pourpré,2017,0,1
+Hirondelle de rivage,2015,0,3
+Monticole de roche,2009,0,1
+Mouette rieuse,2009,0,1
+Nette rousse,2017,0,2
+Pic noir,2014,0,3
+Pie-grièche méridionale,2009,0,1
+Pigeon colombin,2009,0,1
+Pinson du Nord,2015,0,4
+Pipit des arbres,2015,0,6
+Sarcelle d'été,2012,0,1
+Sarcelle d'hiver,2017,0,5
+Torcol fourmilier,2014,0,1
+Traquet motteux,2015,0,5
+Vanneau huppé,2012,0,1
+Venturon montagnard,2007,0,4

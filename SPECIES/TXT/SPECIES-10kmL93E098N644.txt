@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Alouette lulu
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Busard cendré
-0        Chouette hulotte
-0        Cigogne noire
-0        Corbeau freux
-0        Engoulevent d'Europe
-0        Étourneau sansonnet
-0        Fauvette grisette
-0        Fauvette orphée
-0        Gobemouche gris
-0        Grande Aigrette
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Milan noir
-0        Perdrix grise
-0        Petit-duc scops
-0        Pic épeichette
-0        Pigeon ramier
-0        Pipit rousseline
-0        Pluvier guignard
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tarier pâtre
-0        Tourterelle turque
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette calandrelle      2014    0        1
+Alouette lulu             2011    0        3
+Bécassine des marais      2012    0        2
+Bergeronnette printanière 2018    0        3
+Bondrée apivore           2014    0        5
+Bruant des roseaux        2013    0        1
+Bruant ortolan            2016    0        15
+Busard cendré             2009    0        1
+Chouette hulotte          2009    0        1
+Cigogne noire             2017    0        1
+Corbeau freux             2008    0        1
+Engoulevent d'Europe      2009    0        3
+Étourneau sansonnet       2010    0        5
+Fauvette grisette         2011    0        2
+Fauvette orphée           2015    0        1
+Gobemouche gris           2014    0        5
+Grande Aigrette           2011    0        2
+Héron pourpré             2011    0        2
+Hibou moyen-duc           2009    0        2
+Huppe fasciée             2014    0        8
+Jaseur boréal             2009    0        1
+Locustelle tachetée       2013    0        1
+Milan noir                2018    0        1
+Perdrix grise             2018    0        1
+Petit-duc scops           2017    0        20
+Pic épeichette            2017    0        2
+Pigeon ramier             2016    0        9
+Pipit rousseline          2010    0        1
+Pluvier guignard          2017    0        1
+Pouillot siffleur         2014    0        1
+Rossignol philomèle       2010    0        1
+Sizerin cabaret           2014    0        3
+Sizerin flammé            2014    0        3
+Tarier pâtre              2016    0        1
+Tourterelle turque        2010    0        9
+Vanneau huppé             2007    0        1
 

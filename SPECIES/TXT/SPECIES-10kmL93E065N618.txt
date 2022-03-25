@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant jaune
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Crave à bec rouge
-0        Effraie des clochers
-0        Fauvette des jardins
-0        Goéland leucophée
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Martinet à ventre blanc
-0        Moineau friquet
-0        Pic vert
-0        Pouillot ibérique
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bec-croisé des sapins     2018    0        2
+Bergeronnette printanière 2008    0        1
+Bihoreau gris             2015    0        2
+Bruant jaune              2015    0        3
+Busard des roseaux        2008    0        1
+Busard Saint-Martin       2019    0        5
+Chevalier culblanc        2018    0        1
+Chevêche d'Athéna         2016    0        1
+Crave à bec rouge         2018    0        1
+Effraie des clochers      2013    0        2
+Fauvette des jardins      2018    0        7
+Goéland leucophée         2017    0        1
+Grosbec casse-noyaux      2018    0        29
+Hibou moyen-duc           2016    0        2
+Martinet à ventre blanc   2012    0        1
+Moineau friquet           2017    0        2
+Pic vert                  2017    0        3
+Pouillot ibérique         2016    0        1
+Venturon montagnard       2016    0        2
 

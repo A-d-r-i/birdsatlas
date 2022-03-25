@@ -1,33 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Cassenoix moucheté
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Chouette de Tengmalm
-0        Cincle plongeur
-0        Fauvette grisette
-0        Fuligule morillon
-0        Gélinotte des bois
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grande Aigrette
-0        Grimpereau des bois
-0        Héron pourpré
-0        Hirondelle de rochers
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Phragmite des joncs
-0        Pic vert
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Rougequeue à front blanc
-0        Rousserolle verderolle
-0        Serin cini
-0        Tarier pâtre
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2017    0        1
+Alouette des champs         2010    0        2
+Bergeronnette des ruisseaux 2018    0        15
+Bondrée apivore             2011    0        2
+Cassenoix moucheté          2011    0        2
+Chevalier aboyeur           2017    0        1
+Chevalier guignette         2011    0        1
+Chouette de Tengmalm        2018    0        1
+Cincle plongeur             2018    0        9
+Fauvette grisette           2011    0        2
+Fuligule morillon           2012    0        4
+Gélinotte des bois          2017    0        1
+Gobemouche gris             2011    0        2
+Goéland leucophée           2012    0        2
+Grande Aigrette             2016    0        1
+Héron pourpré               2018    0        1
+Hirondelle de rochers       2018    0        1
+Martin-pêcheur d'Europe     2018    0        2
+Merle à plastron            2011    0        2
+Phragmite des joncs         2017    0        1
+Pic vert                    2011    0        2
+Pipit des arbres            2016    0        4
+Pipit farlouse              2017    0        5
+Pouillot siffleur           2015    0        1
+Rougequeue à front blanc    2017    0        2
+Rousserolle verderolle      2018    0        12
+Serin cini                  2018    0        4
+Tarier pâtre                2017    0        3
 

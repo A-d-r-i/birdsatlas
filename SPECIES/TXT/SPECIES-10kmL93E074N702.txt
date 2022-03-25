@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Chevalier gambette
-0        Cigogne blanche
-0        Courlis cendré
-0        Effraie des clochers
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Goéland à ailes blanches
-0        Grand Gravelot
-0        Hibou moyen-duc
-0        Pic épeichette
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pluvier doré
-0        Pluvier guignard
-0        Râle d'eau
-0        Serin cini
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bécasseau variable          2018    0        1
+Bécassine des marais        2018    0        2
+Bergeronnette des ruisseaux 2018    0        3
+Chevalier gambette          2018    0        2
+Cigogne blanche             2018    0        4
+Courlis cendré              2018    0        1
+Effraie des clochers        2009    0        1
+Faucon émerillon            2018    0        2
+Fauvette babillarde         2018    0        1
+Goéland à ailes blanches    2017    0        2
+Grand Gravelot              2018    0        1
+Hibou moyen-duc             2018    0        1
+Pic épeichette              2012    0        1
+Pipit des arbres            2018    0        2
+Pipit rousseline            2017    0        1
+Pluvier doré                2018    0        10
+Pluvier guignard            2018    0        2
+Râle d'eau                  2010    0        1
+Serin cini                  2018    0        2
 

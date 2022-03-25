@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bouscarle de Cetti"
-"0";"Calopsitte élégante"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Cisticole des joncs"
-"0";"Coucou gris"
-"0";"Crabier chevelu"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette sarde"
-"0";"Flamant rose"
-"0";"Gallinule poule-d'eau"
-"0";"Glaréole à collier"
-"0";"Goéland brun"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Oedicnème criard"
-"0";"Ouette d'Egypte"
-"0";"Perruche ondulée"
-"0";"Pingouin torda"
-"0";"Pouillot siffleur"
-"0";"Puffin de Scopoli"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,37
+Autour des palombes,2010,0,2
+Bécasse des bois,2014,0,5
+Bouscarle de Cetti,2017,0,7
+Calopsitte élégante,2017,0,1
+Chevalier culblanc,2012,0,1
+Chevalier sylvain,2013,0,1
+Cisticole des joncs,2017,0,3
+Coucou gris,2017,0,9
+Crabier chevelu,2011,0,1
+Faucon émerillon,2016,0,2
+Fauvette des jardins,2016,0,1
+Fauvette sarde,2014,0,1
+Flamant rose,2017,0,2
+Gallinule poule-d'eau,2016,0,3
+Glaréole à collier,2010,0,2
+Goéland brun,2018,0,1
+Grive litorne,2016,0,1
+Hibou moyen-duc,2011,0,1
+Hypolaïs polyglotte,2018,0,1
+Linotte mélodieuse,2018,0,17
+Locustelle tachetée,2017,0,2
+Oedicnème criard,2015,0,1
+Ouette d'Egypte,2013,0,2
+Perruche ondulée,2012,0,1
+Pingouin torda,2012,0,1
+Pouillot siffleur,2011,0,1
+Puffin de Scopoli,2017,0,1
+Rousserolle effarvatte,2015,0,3
+Sarcelle d'été,2017,0,2
+Tarier des prés,2018,0,6
+Traquet oreillard,2009,0,2

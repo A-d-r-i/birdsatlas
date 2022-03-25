@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bruant jaune
-0        Bruant zizi
-0        Chevalier guignette
-0        Chocard à bec jaune
-0        Chouette de Tengmalm
-0        Coucou gris
-0        Crave à bec rouge
-0        Faucon crécerelle
-0        Faucon hobereau
-0        Gobemouche gris
-0        Grive musicienne
-0        Lagopède alpin
-0        Merle à plastron
-0        Mésange noire
-0        Niverolle alpine
-0        Perdrix grise
-0        Pie bavarde
-0        Pigeon ramier
-0        Traquet motteux
-0        Venturon montagnard
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2009    0        1
+Alouette des champs   2017    0        1
+Autour des palombes   2009    0        1
+Bécasse des bois      2018    0        3
+Bec-croisé des sapins 2018    0        2
+Bruant jaune          2009    0        1
+Bruant zizi           2009    0        1
+Chevalier guignette   2015    0        2
+Chocard à bec jaune   2018    0        3
+Chouette de Tengmalm  2014    0        2
+Coucou gris           2017    0        2
+Crave à bec rouge     2009    0        1
+Faucon crécerelle     2010    0        2
+Faucon hobereau       2018    0        1
+Gobemouche gris       2018    0        2
+Grive musicienne      2010    0        2
+Lagopède alpin        2013    0        2
+Merle à plastron      2014    0        6
+Mésange noire         2018    0        7
+Niverolle alpine      2009    0        1
+Perdrix grise         2018    0        5
+Pie bavarde           2009    0        1
+Pigeon ramier         2009    0        1
+Traquet motteux       2009    0        1
+Venturon montagnard   2018    0        1
 

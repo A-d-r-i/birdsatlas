@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant fou
-0        Bruant jaune
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Cigogne blanche
-0        Crave à bec rouge
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grande Aigrette
-0        Grive litorne
-0        Grive mauvis
-0        Héron garde-boeufs
-0        Hirondelle de fenêtre
-0        Linotte mélodieuse
-0        Martinet à ventre blanc
-0        Martin-pêcheur d'Europe
-0        Niverolle alpine
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Tichodrome échelette
-0        Vanneau huppé
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2015    0        3
+Autour des palombes       2015    0        1
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2013    0        1
+Bihoreau gris             2018    0        1
+Bondrée apivore           2017    0        1
+Bruant fou                2015    0        3
+Bruant jaune              2018    0        3
+Chevalier culblanc        2016    0        1
+Chouette hulotte          2018    0        9
+Cigogne blanche           2018    0        2
+Crave à bec rouge         2016    0        1
+Faisan de Colchide        2012    0        1
+Faucon pèlerin            2014    0        9
+Gobemouche gris           2015    0        9
+Gobemouche noir           2018    0        2
+Grande Aigrette           2015    0        5
+Grive litorne             2015    0        4
+Grive mauvis              2014    0        1
+Héron garde-boeufs        2018    0        2
+Hirondelle de fenêtre     2018    0        13
+Linotte mélodieuse        2018    0        5
+Martinet à ventre blanc   2015    0        1
+Martin-pêcheur d'Europe   2017    0        5
+Niverolle alpine          2015    0        2
+Pipit des arbres          2018    0        10
+Pouillot de Bonelli       2014    0        3
+Pouillot fitis            2009    0        1
+Pouillot siffleur         2012    0        2
+Rossignol philomèle       2015    0        1
+Rougequeue à front blanc  2016    0        6
+Tichodrome échelette      2016    0        1
+Vanneau huppé             2016    0        2
+Venturon montagnard       2012    0        6
 

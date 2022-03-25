@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Canard mandarin"
-"0";"Faucon hobereau"
-"0";"Fauvette pitchou"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Guifette noire"
-"0";"Martinet noir"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Roitelet huppé"
-"0";"Vautour fauve"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2014,0,3
+Canard mandarin,2012,0,1
+Faucon hobereau,2009,0,2
+Fauvette pitchou,2012,0,3
+Grèbe huppé,2013,0,3
+Grive draine,2015,0,3
+Guifette noire,2009,0,1
+Martinet noir,2013,0,13
+Mésange huppée,2018,0,6
+Mésange noire,2018,0,1
+Milan noir,2017,0,5
+Mouette rieuse,2012,0,2
+Oie cendrée,2014,0,15
+Roitelet huppé,2015,0,1
+Vautour fauve,2012,0,2
+Venturon montagnard,2018,0,1

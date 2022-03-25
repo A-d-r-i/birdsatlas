@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Faucon émerillon"
-"0";"Goéland argenté"
-"0";"Goéland cendré"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Oie rieuse"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2011,0,6
+Autour des palombes,2012,0,6
+Bécasse des bois,2013,0,9
+Bec-croisé des sapins,2011,0,1
+Bruant proyer,2012,0,2
+Bruant zizi,2014,0,1
+Butor étoilé,2011,0,1
+Caille des blés,2017,0,8
+Faucon émerillon,2009,0,1
+Goéland argenté,2011,0,2
+Goéland cendré,2011,0,2
+Grand-duc d'Europe,2011,0,3
+Grèbe castagneux,2011,0,5
+Huppe fasciée,2013,0,2
+Jaseur boréal,2007,0,1
+Oie rieuse,2016,0,1
+Pic cendré,2015,0,1
+Pie-grièche à tête rousse,2010,0,5
+Pigeon colombin,2013,0,2
+Pouillot siffleur,2009,0,2
+Râle d'eau,2013,0,7
+Râle des genêts,2010,0,5
+Vautour fauve,2018,0,3

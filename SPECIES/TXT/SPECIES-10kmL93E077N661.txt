@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bondrée apivore
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevêche d'Athéna
-0        Coucou gris
-0        Faucon crécerelle
-0        Fauvette grisette
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Grive draine
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Linotte mélodieuse
-0        Martin-pêcheur d'Europe
-0        Mésange bleue
-0        Pic noir
-0        Pigeon ramier
-0        Pinson des arbres
-0        Pipit des arbres
-0        Pouillot véloce
-0        Rougequeue noir
-0        Sittelle torchepot
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Troglodyte mignon
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Autour des palombes     2009    0        1
+Bondrée apivore         2009    0        1
+Busard cendré           2009    0        1
+Busard Saint-Martin     2009    0        1
+Canard colvert          2009    0        2
+Chevêche d'Athéna       2009    0        1
+Coucou gris             2009    0        1
+Faucon crécerelle       2009    0        2
+Fauvette grisette       2009    0        1
+Grand Cormoran          2009    0        1
+Grand-duc d'Europe      2009    0        1
+Grive draine            2009    0        1
+Grive musicienne        2009    0        1
+Grosbec casse-noyaux    2009    0        1
+Linotte mélodieuse      2009    0        1
+Martin-pêcheur d'Europe 2009    0        1
+Mésange bleue           2009    0        1
+Pic noir                2009    0        1
+Pigeon ramier           2014    0        2
+Pinson des arbres       2014    0        3
+Pipit des arbres        2009    0        1
+Pouillot véloce         2009    0        1
+Rougequeue noir         2014    0        1
+Sittelle torchepot      2014    0        1
+Tourterelle des bois    2009    0        1
+Tourterelle turque      2014    0        1
+Troglodyte mignon       2009    0        1
+Vanneau huppé           2009    0        1
 

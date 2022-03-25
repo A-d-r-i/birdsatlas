@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard cendré
-0        Chevalier culblanc
-0        Chevêchette d'Europe
-0        Chouette hulotte
-0        Engoulevent d'Europe
-0        Fauvette orphée
-0        Grosbec casse-noyaux
-0        Lagopède alpin
-0        Milan royal
-0        Moineau soulcie
-0        Pic épeichette
-0        Pigeon biset domestique
-0        Pipit rousseline
-0        Pluvier guignard
-0        Tourterelle des bois
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Busard cendré           2015    0        2
+Chevalier culblanc      2014    0        1
+Chevêchette d'Europe    2015    0        1
+Chouette hulotte        2015    0        3
+Engoulevent d'Europe    2015    0        1
+Fauvette orphée         2016    0        1
+Grosbec casse-noyaux    2018    0        3
+Lagopède alpin          2011    0        2
+Milan royal             2015    0        1
+Moineau soulcie         2015    0        1
+Pic épeichette          2012    0        2
+Pigeon biset domestique 2014    0        1
+Pipit rousseline        2018    0        5
+Pluvier guignard        2015    0        1
+Tourterelle des bois    2009    0        1
 

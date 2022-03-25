@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne naine"
-"0";"Sterne pierregarin"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,4
+Bondrée apivore,2018,0,5
+Bouvreuil pivoine,2015,0,1
+Busard cendré,2011,0,1
+Caille des blés,2012,0,2
+Chevalier culblanc,2018,0,5
+Chevalier gambette,2014,0,1
+Cigogne noire,2012,0,1
+Faucon émerillon,2011,0,1
+Faucon hobereau,2017,0,14
+Gobemouche noir,2013,0,2
+Goéland brun,2018,0,18
+Hibou moyen-duc,2013,0,4
+Hirondelle de rivage,2017,0,1
+Moineau friquet,2013,0,3
+Mouette mélanocéphale,2014,0,5
+Mouette rieuse,2017,0,25
+Oie cendrée,2012,0,1
+Perdrix grise,2015,0,8
+Pic épeichette,2017,0,10
+Pie-grièche écorcheur,2017,0,11
+Pipit spioncelle,2016,0,2
+Pluvier doré,2019,0,2
+Pouillot de Bonelli,2012,0,2
+Roitelet huppé,2019,0,14
+Rougequeue à front blanc,2018,0,1
+Rousserolle effarvatte,2017,0,8
+Sizerin cabaret,2010,0,2
+Sizerin flammé,2010,0,2
+Sterne naine,2011,0,2
+Sterne pierregarin,2018,0,8
+Traquet motteux,2010,0,2

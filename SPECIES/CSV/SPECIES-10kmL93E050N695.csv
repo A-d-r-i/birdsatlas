@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Courlis cendré"
-"0";"Faucon hobereau"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland marin"
-"0";"Grand Cormoran"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bergeronnette des ruisseaux,2009,0,1
+Bondrée apivore,2009,0,1
+Caille des blés,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2009,0,2
+Chouette hulotte,2009,0,2
+Courlis cendré,2009,0,1
+Faucon hobereau,2009,0,1
+Gallinule poule-d'eau,2009,0,2
+Goéland marin,2009,0,1
+Grand Cormoran,2016,0,1
+Grosbec casse-noyaux,2009,0,1
+Hibou moyen-duc,2009,0,1
+Locustelle tachetée,2009,0,1
+Mouette rieuse,2018,0,2
+Pic épeichette,2009,0,1
+Pic noir,2009,0,2
+Pinson du Nord,2013,0,2
+Pipit des arbres,2009,0,1
+Pipit farlouse,2009,0,2
+Pluvier doré,2009,0,1
+Pouillot siffleur,2009,0,1
+Rousserolle verderolle,2009,0,1
+Serin cini,2009,0,1
+Tarier pâtre,2009,0,1
+Tarin des aulnes,2013,0,1

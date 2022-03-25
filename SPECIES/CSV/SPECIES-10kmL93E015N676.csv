@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau tacheté"
-"0";"Bondrée apivore"
-"0";"Canard pilet"
-"0";"Conure veuve"
-"0";"Corbeau freux"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland pontique"
-"0";"Grèbe jougris"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Ibis sacré"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Mergule nain"
-"0";"Merle à plastron"
-"0";"Milan noir"
-"0";"Mouette pygmée"
-"0";"Océanite de Wilson"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Bécasseau tacheté,2012,0,1
+Bondrée apivore,2017,0,1
+Canard pilet,2017,0,7
+Conure veuve,2008,0,1
+Corbeau freux,2009,0,2
+Échasse blanche,2017,0,3
+Effraie des clochers,2009,0,1
+Etourneau roselin,2008,0,1
+Fuligule milouinan,2009,0,1
+Garrot à oeil d'or,2011,0,3
+Goéland pontique,2017,0,3
+Grèbe jougris,2016,0,3
+Guifette noire,2014,0,1
+Harle bièvre,2018,0,8
+Hibou moyen-duc,2017,0,1
+Ibis sacré,2017,0,1
+Locustelle luscinioïde,2009,0,1
+Macareux moine,2014,0,1
+Mergule nain,2014,0,1
+Merle à plastron,2017,0,1
+Milan noir,2017,0,1
+Mouette pygmée,2013,0,1
+Océanite de Wilson,2017,0,2
+Pie-grièche écorcheur,2014,0,1
+Pipit des arbres,2014,0,1
+Sterne naine,2017,0,2

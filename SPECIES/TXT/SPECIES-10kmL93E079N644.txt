@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Cassenoix moucheté
-0        Chevêche d'Athéna
-0        Chouette de Tengmalm
-0        Cigogne noire
-0        Courlis corlieu
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Merle à plastron
-0        Monticole de roche
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Pouillot de Bonelli
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Busard Saint-Martin  2017    0        1
+Cassenoix moucheté   2012    0        3
+Chevêche d'Athéna    2013    0        1
+Chouette de Tengmalm 2011    0        2
+Cigogne noire        2011    0        1
+Courlis corlieu      2017    0        1
+Faucon pèlerin       2012    0        1
+Fauvette grisette    2018    0        26
+Merle à plastron     2017    0        3
+Monticole de roche   2011    0        2
+Pie-grièche grise    2018    0        13
+Pipit spioncelle     2017    0        1
+Pouillot de Bonelli  2017    0        1
 

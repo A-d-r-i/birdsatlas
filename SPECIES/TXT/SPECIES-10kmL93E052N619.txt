@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Busard des roseaux
-0        Effraie des clochers
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Grand-duc d'Europe
-0        Martinet à ventre blanc
-0        Milan noir
-0        Pic à dos blanc
-0        Pie-grièche écorcheur
-0        Pouillot de Bonelli
-0        Tarier des prés
-0        Tourterelle des bois
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigle botté             2014    0        1
+Autour des palombes     2009    0        1
+Busard des roseaux      2017    0        2
+Effraie des clochers    2009    0        1
+Faucon hobereau         2017    0        1
+Fauvette des jardins    2009    0        1
+Grand-duc d'Europe      2009    0        1
+Martinet à ventre blanc 2009    0        1
+Milan noir              2014    0        2
+Pic à dos blanc         2009    0        1
+Pie-grièche écorcheur   2017    0        1
+Pouillot de Bonelli     2009    0        2
+Tarier des prés         2011    0        3
+Tourterelle des bois    2009    0        1
 

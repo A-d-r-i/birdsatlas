@@ -1,60 +1,57 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Goéland à ailes blanches"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe jougris"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Autour des palombes,2009,0,2
+Bec-croisé des sapins,2009,0,2
+Bergeronnette printanière,2013,0,7
+Bondrée apivore,2009,0,1
+Bruant jaune,2009,0,2
+Busard Saint-Martin,2013,0,3
+Caille des blés,2009,0,1
+Canard siffleur,2019,0,2
+Chevalier guignette,2018,0,1
+Chevalier sylvain,2018,0,1
+Chevêche d'Athéna,2018,0,9
+Effraie des clochers,2009,0,3
+Engoulevent d'Europe,2009,0,1
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette babillarde,2016,0,3
+Fauvette des jardins,2016,0,2
+Fuligule milouin,2019,0,4
+Garrot à oeil d'or,2010,0,1
+Gobemouche gris,2009,0,1
+Goéland à ailes blanches,2017,0,8
+Goéland argenté,2009,0,1
+Goéland brun,2019,0,3
+Goéland cendré,2019,0,8
+Goéland pontique,2019,0,4
+Grand-duc d'Europe,2009,0,1
+Grèbe jougris,2019,0,1
+Grive litorne,2017,0,5
+Guêpier d'Europe,2009,0,1
+Harle bièvre,2017,0,1
+Hibou des marais,2008,0,1
+Hibou moyen-duc,2010,0,3
+Locustelle tachetée,2009,0,2
+Martinet noir,2017,0,2
+Mésange boréale,2009,0,2
+Mésange huppée,2009,0,2
+Mésange noire,2014,0,4
+Moineau friquet,2014,0,2
+Mouette mélanocéphale,2019,0,1
+Mouette pygmée,2018,0,1
+Oedicnème criard,2014,0,6
+Oie cendrée,2009,0,1
+Perdrix rouge,2015,0,2
+Petit-duc scops,2009,0,1
+Petit Gravelot,2017,0,14
+Pic mar,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2016,0,2
+Pouillot siffleur,2009,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2009,0,1
+Torcol fourmilier,2009,0,1
+Traquet motteux,2013,0,6
+Vanneau huppé,2017,0,26

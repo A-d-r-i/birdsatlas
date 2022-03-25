@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bernache du Canada"
-"0";"Bruant des neiges"
-"0";"Caille des blés"
-"0";"Cormoran huppé"
-"0";"Coucou geai"
-"0";"Fauvette pitchou"
-"0";"Flamant rose"
-"0";"Fuligule à bec cerclé"
-"0";"Fulmar boréal"
-"0";"Goéland à ailes blanches"
-"0";"Goéland à bec cerclé"
-"0";"Grèbe esclavon"
-"0";"Guêpier d'Europe"
-"0";"Harle huppé"
-"0";"Hirondelle rousseline"
-"0";"Labbe parasite"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette de Sabine"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Océanite culblanc"
-"0";"Oie à tête barrée"
-"0";"Perruche à collier"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Pie-grièche à tête rousse"
-"0";"Pingouin torda"
-"0";"Plongeon imbrin"
-"0";"Pluvier guignard"
-"0";"Pouillot de Bonelli"
-"0";"Puffin des Baléares"
-"0";"Rémiz penduline"
-"0";"Sterne arctique"
-"0";"Sterne hansel"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Bernache du Canada,2008,0,1
+Bruant des neiges,2014,0,3
+Caille des blés,2018,0,1
+Cormoran huppé,2014,0,1
+Coucou geai,2014,0,1
+Fauvette pitchou,2016,0,2
+Flamant rose,2015,0,24
+Fuligule à bec cerclé,2013,0,1
+Fulmar boréal,2016,0,4
+Goéland à ailes blanches,2015,0,4
+Goéland à bec cerclé,2015,0,1
+Grèbe esclavon,2011,0,3
+Guêpier d'Europe,2011,0,2
+Harle huppé,2014,0,2
+Hirondelle rousseline,2012,0,1
+Labbe parasite,2012,0,2
+Locustelle luscinioïde,2012,0,2
+Macareux moine,2016,0,28
+Merle à plastron,2016,0,7
+Moineau friquet,2011,0,1
+Mouette de Sabine,2017,0,3
+Mouette tridactyle,2018,0,10
+Nette rousse,2015,0,8
+Océanite culblanc,2009,0,2
+Oie à tête barrée,2007,0,1
+Perruche à collier,2016,0,2
+Phalarope à bec étroit,2017,0,7
+Phalarope à bec large,2017,0,11
+Pie-grièche à tête rousse,2018,0,14
+Pingouin torda,2016,0,12
+Plongeon imbrin,2016,0,1
+Pluvier guignard,2010,0,1
+Pouillot de Bonelli,2012,0,2
+Puffin des Baléares,2011,0,2
+Rémiz penduline,2012,0,25
+Sterne arctique,2018,0,5
+Sterne hansel,2014,0,2

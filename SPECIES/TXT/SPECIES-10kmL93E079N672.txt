@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard cendré
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cygne tuberculé
-0        Grive mauvis
-0        Héron pourpré
-0        Mésange boréale
-0        Pic cendré
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Vanneau huppé
-0        Vautour fauve
+frname             lastobs newcount oldcount
+------             ------- -------- --------
+Busard cendré      2018    0        2
+Chevalier culblanc 2016    0        4
+Cigogne blanche    2016    0        2
+Cygne tuberculé    2014    0        1
+Grive mauvis       2019    0        5
+Héron pourpré      2007    0        1
+Mésange boréale    2016    0        1
+Pic cendré         2010    0        3
+Pie-grièche grise  2011    0        2
+Pipit spioncelle   2019    0        4
+Vanneau huppé      2016    0        2
+Vautour fauve      2017    0        2
 

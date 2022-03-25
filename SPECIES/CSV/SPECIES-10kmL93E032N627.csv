@@ -1,63 +1,61 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bondrée apivore"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Buse variable"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Cisticole des joncs"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Faucon crécerelle"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Fulmar boréal"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Guillemot de Troïl"
-"0";"Harle huppé"
-"0";"Héron cendré"
-"0";"Héron garde-boeufs"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Huîtrier pie"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Linotte mélodieuse"
-"0";"Macareux moine"
-"0";"Marouette ponctuée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Océanite tempête"
-"0";"Petit Gravelot"
-"0";"Phalarope à bec large"
-"0";"Pic épeiche"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Puffin de Scopoli"
-"0";"Puffin fuligineux"
-"0";"Puffin majeur"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,10
+Bécassine des marais,2017,0,2
+Bergeronnette printanière,2016,0,3
+Bernache cravant,2014,0,1
+Bondrée apivore,2008,0,1
+Bruant des neiges,2014,0,2
+Bruant des roseaux,2016,0,4
+Buse variable,2018,0,5
+Canard mandarin,2017,0,1
+Canard souchet,2017,0,4
+Chevalier gambette,2015,0,2
+Cisticole des joncs,2014,0,3
+Coucou gris,2009,0,1
+Courlis cendré,2015,0,1
+Effraie des clochers,2014,0,1
+Eider à duvet,2010,0,1
+Faucon crécerelle,2012,0,2
+Faucon émerillon,2017,0,2
+Faucon hobereau,2016,0,8
+Fauvette des jardins,2015,0,2
+Fauvette grisette,2015,0,3
+Foulque macroule,2009,0,1
+Fulmar boréal,2009,0,1
+Gobemouche noir,2015,0,3
+Goéland argenté,2016,0,1
+Grande Aigrette,2014,0,2
+Grèbe castagneux,2009,0,1
+Grèbe huppé,2009,0,1
+Grive draine,2014,0,1
+Guillemot de Troïl,2017,0,8
+Harle huppé,2012,0,2
+Héron cendré,2018,0,13
+Héron garde-boeufs,2017,0,1
+Hirondelle de fenêtre,2014,0,7
+Hirondelle de rivage,2015,0,1
+Huîtrier pie,2018,0,1
+Labbe parasite,2012,0,1
+Labbe pomarin,2012,0,2
+Linotte mélodieuse,2017,0,6
+Macareux moine,2018,0,4
+Marouette ponctuée,2013,0,1
+Mésange noire,2018,0,1
+Mésange nonnette,2012,0,3
+Mouette pygmée,2012,0,5
+Mouette tridactyle,2012,0,5
+Océanite tempête,2018,0,1
+Petit Gravelot,2017,0,2
+Phalarope à bec large,2016,0,5
+Pic épeiche,2015,0,3
+Pipit des arbres,2009,0,1
+Pipit spioncelle,2017,0,1
+Pouillot fitis,2012,0,3
+Puffin de Scopoli,2018,0,1
+Puffin fuligineux,2014,0,1
+Puffin majeur,2014,0,1
+Râle d'eau,2009,0,1
+Roitelet à triple bandeau,2018,0,15
+Rousserolle effarvatte,2009,0,2
+Tadorne de Belon,2017,0,3
+Verdier d'Europe,2018,0,18

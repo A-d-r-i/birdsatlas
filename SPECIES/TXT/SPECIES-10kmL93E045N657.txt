@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasseau maubèche
-0        Bec-croisé des sapins
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Cochevis huppé
-0        Courlis cendré
-0        Courlis corlieu
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Fuligule milouin
-0        Grand Gravelot
-0        Héron pourpré
-0        Hirondelle rousseline
-0        Mésange huppée
-0        Moineau friquet
-0        Oie à tête barrée
-0        Ouette d'Egypte
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Pluvier argenté
-0        Pouillot siffleur
-0        Râle d'eau
-0        Rousserolle effarvatte
-0        Sizerin flammé
-0        Tourterelle rieuse
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau cocorli      2016    0        2
+Bécasseau maubèche     2016    0        9
+Bec-croisé des sapins  2016    0        1
+Bouvreuil pivoine      2018    0        27
+Bruant fou             2011    0        1
+Chevalier aboyeur      2018    0        16
+Chevalier arlequin     2016    0        5
+Cochevis huppé         2012    0        3
+Courlis cendré         2013    0        2
+Courlis corlieu        2012    0        1
+Engoulevent d'Europe   2018    0        11
+Faisan vénéré          2017    0        1
+Fuligule milouin       2019    0        17
+Grand Gravelot         2017    0        11
+Héron pourpré          2014    0        2
+Hirondelle rousseline  2012    0        1
+Mésange huppée         2016    0        1
+Moineau friquet        2012    0        3
+Oie à tête barrée      2013    0        1
+Ouette d'Egypte        2012    0        2
+Pipit rousseline       2012    0        2
+Pipit spioncelle       2016    0        4
+Pluvier argenté        2016    0        1
+Pouillot siffleur      2017    0        1
+Râle d'eau             2015    0        7
+Rousserolle effarvatte 2013    0        1
+Sizerin flammé         2017    0        4
+Tourterelle rieuse     2013    0        1
 

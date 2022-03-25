@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne chanteur"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Goéland leucophée"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pipit spioncelle"
-"0";"Sarcelle d'hiver"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2019,0,4
+Alouette lulu,2015,0,2
+Bécasse des bois,2014,0,1
+Chevalier aboyeur,2016,0,1
+Chevalier gambette,2013,0,1
+Combattant varié,2013,0,1
+Courlis cendré,2011,0,2
+Cygne chanteur,2014,0,2
+Faucon émerillon,2010,0,2
+Faucon pèlerin,2015,0,8
+Fuligule milouin,2018,0,2
+Goéland leucophée,2015,0,1
+Grive litorne,2019,0,27
+Grive mauvis,2018,0,5
+Grosbec casse-noyaux,2015,0,3
+Merle à plastron,2007,0,1
+Mésange boréale,2017,0,7
+Moineau friquet,2013,0,5
+Mouette mélanocéphale,2015,0,1
+Oie cendrée,2012,0,1
+Petit Gravelot,2017,0,3
+Phragmite des joncs,2015,0,2
+Pic mar,2011,0,2
+Pipit spioncelle,2013,0,1
+Sarcelle d'hiver,2012,0,2
+Tarin des aulnes,2018,0,5

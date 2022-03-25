@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécassine sourde
-0        Bernache du Canada
-0        Bruant proyer
-0        Butor étoilé
-0        Caille des blés
-0        Canard carolin
-0        Canard chipeau
-0        Canard mandarin
-0        Cochevis huppé
-0        Courlis corlieu
-0        Cygne tuberculé
-0        Faucon émerillon
-0        Foulque macroule
-0        Fuligule milouin
-0        Goéland brun
-0        Locustelle tachetée
-0        Loriquet à tête bleue
-0        Mouette pygmée
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Phragmite des joncs
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pouillot ibérique
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2014    0        3
+Bécassine sourde      2012    0        2
+Bernache du Canada    2014    0        1
+Bruant proyer         2012    0        1
+Butor étoilé          2016    0        1
+Caille des blés       2013    0        4
+Canard carolin        2017    0        1
+Canard chipeau        2014    0        1
+Canard mandarin       2015    0        4
+Cochevis huppé        2010    0        3
+Courlis corlieu       2016    0        1
+Cygne tuberculé       2016    0        5
+Faucon émerillon      2012    0        3
+Foulque macroule      2014    0        1
+Fuligule milouin      2012    0        1
+Goéland brun          2014    0        18
+Locustelle tachetée   2018    0        1
+Loriquet à tête bleue 2008    0        1
+Mouette pygmée        2008    0        1
+Ouette d'Egypte       2014    0        2
+Perdrix grise         2016    0        1
+Phragmite des joncs   2010    0        3
+Pipit spioncelle      2015    0        5
+Pluvier doré          2014    0        20
+Pouillot ibérique     2018    0        2
+Torcol fourmilier     2016    0        40
 

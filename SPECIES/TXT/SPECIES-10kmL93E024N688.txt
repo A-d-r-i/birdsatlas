@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant des neiges
-0        Busard des roseaux
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier culblanc
-0        Cygne tuberculé
-0        Gobemouche gris
-0        Gravelot à collier interrompu
-0        Guêpier d'Europe
-0        Guifette noire
-0        Héron garde-boeufs
-0        Macareux moine
-0        Macreuse brune
-0        Merle à plastron
-0        Mésange noire
-0        Phalarope à bec large
-0        Pic épeiche
-0        Pinson du Nord
-0        Vanneau huppé
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Bécasseau cocorli             2014    0        1
+Bécasse des bois              2009    0        1
+Bergeronnette printanière     2018    0        5
+Bruant des neiges             2016    0        1
+Busard des roseaux            2018    0        2
+Canard siffleur               2016    0        3
+Canard souchet                2014    0        2
+Chevalier culblanc            2014    0        1
+Cygne tuberculé               2016    0        20
+Gobemouche gris               2012    0        1
+Gravelot à collier interrompu 2014    0        2
+Guêpier d'Europe              2018    0        1
+Guifette noire                2017    0        1
+Héron garde-boeufs            2017    0        1
+Macareux moine                2015    0        1
+Macreuse brune                2017    0        1
+Merle à plastron              2017    0        2
+Mésange noire                 2017    0        1
+Phalarope à bec large         2017    0        1
+Pic épeiche                   2018    0        1
+Pinson du Nord                2018    0        2
+Vanneau huppé                 2018    0        1
 

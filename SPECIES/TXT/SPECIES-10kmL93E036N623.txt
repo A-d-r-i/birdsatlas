@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Busard cendré
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Fauvette des jardins
-0        Goéland leucophée
-0        Grand-duc d'Europe
-0        Grimpereau des bois
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Moineau friquet
-0        Niverolle alpine
-0        Perdrix grise
-0        Pic à dos blanc
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche méridionale
-0        Pigeon colombin
-0        Pipit rousseline
-0        Pouillot ibérique
-0        Tichodrome échelette
-0        Tourterelle des bois
-0        Traquet du désert
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette calandrelle    2018    0        1
+Busard cendré           2011    0        2
+Caille des blés         2014    0        7
+Chevalier culblanc      2016    0        1
+Chevêche d'Athéna       2011    0        2
+Cigogne blanche         2015    0        2
+Fauvette des jardins    2009    0        1
+Goéland leucophée       2011    0        2
+Grand-duc d'Europe      2009    0        2
+Grimpereau des bois     2014    0        4
+Grosbec casse-noyaux    2015    0        3
+Hibou moyen-duc         2010    0        1
+Hirondelle de rivage    2012    0        1
+Moineau friquet         2017    0        2
+Niverolle alpine        2015    0        1
+Perdrix grise           2015    0        1
+Pic à dos blanc         2012    0        4
+Pic épeichette          2016    0        6
+Pic mar                 2016    0        15
+Pie-grièche méridionale 2018    0        8
+Pigeon colombin         2015    0        1
+Pipit rousseline        2018    0        1
+Pouillot ibérique       2010    0        1
+Tichodrome échelette    2015    0        4
+Tourterelle des bois    2013    0        1
+Traquet du désert       2018    0        1
 

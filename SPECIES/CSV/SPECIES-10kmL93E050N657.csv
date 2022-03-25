@@ -1,58 +1,56 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Canard pilet"
-"0";"Chevalier arlequin"
-"0";"Chevalier stagnatile"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Échasse blanche"
-"0";"Érismature rousse"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fuligule milouin"
-"0";"Fuligule nyroca"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Pic mar"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Tadorne casarca"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2008,0,1
+Barge à queue noire,2015,0,7
+Barge rousse,2014,0,2
+Bécasseau cocorli,2008,0,2
+Bécasseau de Temminck,2008,0,1
+Bécasseau variable,2018,0,17
+Bécasse des bois,2013,0,3
+Bécassine des marais,2015,0,29
+Bergeronnette flavéole (M.f.flavissima),2016,0,16
+Bernache du Canada,2016,0,6
+Bernache nonnette,2015,0,1
+Bouvreuil pivoine,2012,0,9
+Bruant des roseaux,2015,0,20
+Bruant ortolan,2007,0,1
+Busard cendré,2017,0,16
+Busard des roseaux,2012,0,3
+Canard pilet,2016,0,24
+Chevalier arlequin,2015,0,8
+Chevalier stagnatile,2013,0,10
+Chevalier sylvain,2017,0,28
+Cigogne noire,2011,0,3
+Circaète Jean-le-Blanc,2015,0,2
+Courlis cendré,2018,0,5
+Courlis corlieu,2014,0,3
+Échasse blanche,2015,0,9
+Érismature rousse,2009,0,1
+Faucon émerillon,2013,0,4
+Faucon hobereau,2018,0,8
+Fuligule milouin,2011,0,3
+Fuligule nyroca,2010,0,1
+Goéland leucophée,2011,0,3
+Gorgebleue à miroir,2014,0,2
+Grèbe huppé,2018,0,13
+Guifette moustac,2013,0,15
+Guifette noire,2012,0,1
+Hibou moyen-duc,2007,0,2
+Mésange noire,2018,0,4
+Mésange nonnette,2018,0,14
+Milan royal,2018,0,7
+Mouette pygmée,2009,0,1
+Oie cendrée,2018,0,30
+Oie rieuse,2013,0,4
+Ouette d'Egypte,2018,0,3
+Perdrix grise,2017,0,5
+Pic mar,2018,0,1
+Pluvier argenté,2008,0,3
+Pouillot siffleur,2016,0,1
+Râle d'eau,2012,0,2
+Roitelet huppé,2018,0,5
+Rousserolle effarvatte,2014,0,4
+Sarcelle d'été,2016,0,21
+Serin cini,2017,0,10
+Tadorne casarca,2010,0,2
+Tarier des prés,2012,0,10
+Torcol fourmilier,2012,0,2

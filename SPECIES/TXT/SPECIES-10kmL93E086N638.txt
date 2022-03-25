@@ -1,24 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Aigrette garzette
-0        Bouscarle de Cetti
-0        Caille des blés
-0        Canard mandarin
-0        Cassenoix moucheté
-0        Chocard à bec jaune
-0        Cigogne blanche
-0        Cigogne noire
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Grande Aigrette
-0        Grimpereau des bois
-0        Merle à plastron
-0        Moineau friquet
-0        Oie cendrée
-0        Perdrix rouge
-0        Pipit rousseline
-0        Sarcelle d'hiver
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2018    0        12
+Aigrette garzette     2014    0        1
+Bouscarle de Cetti    2013    0        4
+Caille des blés       2011    0        2
+Canard mandarin       2016    0        1
+Cassenoix moucheté    2012    0        1
+Chocard à bec jaune   2016    0        1
+Cigogne blanche       2013    0        1
+Cigogne noire         2017    0        1
+Fauvette des jardins  2018    0        3
+Gallinule poule-d'eau 2016    0        14
+Grande Aigrette       2016    0        1
+Grimpereau des bois   2018    0        2
+Merle à plastron      2013    0        1
+Moineau friquet       2018    0        1
+Oie cendrée           2016    0        1
+Perdrix rouge         2014    0        2
+Pipit rousseline      2016    0        1
+Sarcelle d'hiver      2016    0        1
 

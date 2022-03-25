@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Cincle plongeur
-0        Faucon hobereau
-0        Fuligule morillon
-0        Gobemouche noir
-0        Hibou des marais
-0        Locustelle tachetée
-0        Pouillot à grands sourcils
-0        Râle d'eau
-0        Rossignol philomèle
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tourterelle des bois
-0        Vanneau huppé
-0        Vautour fauve
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Bruant des roseaux         2018    0        4
+Bruant proyer              2015    0        11
+Busard des roseaux         2015    0        2
+Busard Saint-Martin        2015    0        1
+Cincle plongeur            2016    0        2
+Faucon hobereau            2017    0        22
+Fuligule morillon          2016    0        1
+Gobemouche noir            2018    0        4
+Hibou des marais           2018    0        2
+Locustelle tachetée        2009    0        1
+Pouillot à grands sourcils 2016    0        1
+Râle d'eau                 2017    0        1
+Rossignol philomèle        2018    0        3
+Rousserolle verderolle     2014    0        2
+Sizerin cabaret            2017    0        1
+Sizerin flammé             2017    0        2
+Tourterelle des bois       2018    0        13
+Vanneau huppé              2016    0        3
+Vautour fauve              2015    0        1
 

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau maubèche"
-"0";"Busard des roseaux"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Cigogne blanche"
-"0";"Échasse blanche"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Goéland marin"
-"0";"Grand Gravelot"
-"0";"Guifette moustac"
-"0";"Héron pourpré"
-"0";"Ibis sacré"
-"0";"Moineau friquet"
-"0";"Perruche ondulée"
-"0";"Plongeon catmarin"
-"0";"Pouillot à grands sourcils"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,2
+Bécasseau maubèche,2016,0,1
+Busard des roseaux,2015,0,1
+Canard pilet,2015,0,1
+Canard siffleur,2013,0,5
+Canard souchet,2017,0,4
+Cigogne blanche,2018,0,3
+Échasse blanche,2013,0,1
+Fauvette pitchou,2016,0,4
+Fuligule morillon,2016,0,19
+Goéland cendré,2017,0,1
+Goéland leucophée,2013,0,2
+Goéland marin,2012,0,1
+Grand Gravelot,2016,0,1
+Guifette moustac,2007,0,2
+Héron pourpré,2017,0,2
+Ibis sacré,2014,0,1
+Moineau friquet,2015,0,1
+Perruche ondulée,2018,0,1
+Plongeon catmarin,2014,0,9
+Pouillot à grands sourcils,2016,0,1
+Râle d'eau,2014,0,2
+Rémiz penduline,2014,0,1
+Sarcelle d'hiver,2017,0,4
+Tourterelle rieuse,2015,0,2

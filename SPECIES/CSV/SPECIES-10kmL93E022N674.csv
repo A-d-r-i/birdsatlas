@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant lapon"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Buse variable"
-"0";"Chevalier gambette"
-"0";"Corneille noire"
-"0";"Coucou gris"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Goéland à ailes blanches"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grand Corbeau"
-"0";"Grand Labbe"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Héron cendré"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rustique"
-"0";"Ibis sacré"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mouette pygmée"
-"0";"Océanite tempête"
-"0";"Pipit des arbres"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Spatule blanche"
-"0";"Sterne arctique"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,1
+Bécassine des marais,2009,0,1
+Bergeronnette printanière,2015,0,2
+Bruant lapon,2018,0,1
+Busard des roseaux,2019,0,12
+Busard Saint-Martin,2016,0,1
+Buse variable,2014,0,1
+Chevalier gambette,2015,0,3
+Corneille noire,2017,0,1
+Coucou gris,2014,0,1
+Épervier d'Europe,2014,0,1
+Faucon hobereau,2013,0,1
+Faucon pèlerin,2017,0,4
+Fauvette des jardins,2014,0,1
+Goéland à ailes blanches,2009,0,1
+Goéland brun,2014,0,3
+Goéland cendré,2018,0,5
+Grand Corbeau,2017,0,1
+Grand Labbe,2018,0,3
+Grèbe à cou noir,2018,0,3
+Grèbe esclavon,2014,0,1
+Harelde boréale,2017,0,6
+Harle huppé,2018,0,3
+Héron cendré,2013,0,1
+Hirondelle de rivage,2017,0,3
+Hirondelle rustique,2018,0,3
+Ibis sacré,2017,0,3
+Labbe parasite,2018,0,8
+Labbe pomarin,2018,0,1
+Locustelle tachetée,2014,0,1
+Macareux moine,2015,0,2
+Mouette pygmée,2018,0,3
+Océanite tempête,2016,0,1
+Pipit des arbres,2015,0,1
+Râle d'eau,2014,0,1
+Rousserolle effarvatte,2014,0,1
+Spatule blanche,2017,0,4
+Sterne arctique,2017,0,1
+Tarier des prés,2014,0,1
+Tourterelle des bois,2014,0,3

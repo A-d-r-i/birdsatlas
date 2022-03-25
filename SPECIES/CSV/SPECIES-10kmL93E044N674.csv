@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bernache cravant"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faucon émerillon"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Gobemouche noir"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit spioncelle"
-"0";"Plongeon imbrin"
-"0";"Pouillot siffleur"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2010,0,1
+Avocette élégante,2017,0,3
+Bernache cravant,2014,0,4
+Bihoreau gris,2018,0,5
+Bouvreuil pivoine,2018,0,8
+Cigogne blanche,2015,0,4
+Cigogne noire,2017,0,2
+Courlis cendré,2016,0,5
+Cygne noir,2009,0,23
+Échasse blanche,2014,0,2
+Engoulevent d'Europe,2017,0,6
+Érismature rousse,2014,0,68
+Faucon émerillon,2010,0,2
+Fuligule milouinan,2007,0,1
+Fuligule nyroca,2011,0,6
+Gobemouche noir,2016,0,5
+Grand Gravelot,2013,0,1
+Grèbe à cou noir,2018,0,9
+Guifette moustac,2012,0,1
+Guifette noire,2016,0,5
+Harle huppé,2008,0,2
+Huîtrier pie,2017,0,1
+Locustelle tachetée,2018,0,8
+Macreuse brune,2007,0,1
+Merle à plastron,2017,0,1
+Milan royal,2019,0,2
+Moineau friquet,2017,0,2
+Ouette d'Egypte,2014,0,2
+Phragmite des joncs,2011,0,1
+Pie-grièche à tête rousse,2014,0,15
+Pipit spioncelle,2015,0,8
+Plongeon imbrin,2013,0,2
+Pouillot siffleur,2012,0,9
+Rougequeue à front blanc,2015,0,5
+Rousserolle effarvatte,2018,0,17
+Sarcelle d'été,2010,0,2

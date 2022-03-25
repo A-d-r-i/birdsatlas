@@ -1,65 +1,65 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Autour des palombes
-0        Bécasseau violet
-0        Bécassine sourde
-0        Blongios nain
-0        Bruant des neiges
-0        Busard cendré
-0        Butor étoilé
-0        Canard mandarin
-0        Chevalier arlequin
-0        Chevêche d'Athéna
-0        Crabier chevelu
-0        Eider à duvet
-0        Étourneau unicolore
-0        Fauvette orphée
-0        Fulmar boréal
-0        Goéland à ailes blanches
-0        Goéland à bec cerclé
-0        Goéland bourgmestre
-0        Goéland d'Audouin
-0        Goéland railleur
-0        Gorgebleue à miroir
-0        Gravelot à collier interrompu
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Labbe à longue queue
-0        Labbe parasite
-0        Locustelle luscinioïde
-0        Macareux moine
-0        Marouette ponctuée
-0        Marouette poussin
-0        Mergule nain
-0        Moineau friquet
-0        Monticole bleu
-0        Mouette de Franklin
-0        Océanite tempête
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Outarde canepetière
-0        Perdrix grise
-0        Perdrix rouge
-0        Perruche à collier
-0        Perruche ondulée
-0        Petit-duc scops
-0        Phalarope à bec étroit
-0        Pic de Sharpe
-0        Pic mar
-0        Pie-grièche à tête rousse
-0        Pipit à gorge rousse
-0        Pipit de Richard
-0        Plongeon arctique
-0        Pouillot à grands sourcils
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sterne caspienne
-0        Sterne naine
-0        Sterne voyageuse
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Aigle royal                   2011    0        1
+Autour des palombes           2013    0        1
+Bécasseau violet              2013    0        11
+Bécassine sourde              2014    0        11
+Blongios nain                 2014    0        13
+Bruant des neiges             2013    0        1
+Busard cendré                 2018    0        3
+Butor étoilé                  2018    0        2
+Canard mandarin               2014    0        10
+Chevalier arlequin            2017    0        82
+Chevêche d'Athéna             2010    0        1
+Crabier chevelu               2015    0        7
+Eider à duvet                 2014    0        406
+Étourneau unicolore           2018    0        11
+Fauvette orphée               2018    0        3
+Fulmar boréal                 2016    0        11
+Goéland à ailes blanches      2018    0        42
+Goéland à bec cerclé          2017    0        12
+Goéland bourgmestre           2018    0        15
+Goéland d'Audouin             2015    0        4
+Goéland railleur              2014    0        2
+Gorgebleue à miroir           2015    0        40
+Gravelot à collier interrompu 2018    0        2
+Grèbe à cou noir              2018    0        618
+Guifette moustac              2013    0        1
+Harle bièvre                  2017    0        6
+Hibou moyen-duc               2014    0        9
+Labbe à longue queue          2015    0        17
+Labbe parasite                2015    0        42
+Locustelle luscinioïde        2013    0        1
+Macareux moine                2014    0        7
+Marouette ponctuée            2014    0        29
+Marouette poussin             2012    0        2
+Mergule nain                  2015    0        5
+Moineau friquet               2017    0        174
+Monticole bleu                2013    0        1
+Mouette de Franklin           2015    0        1
+Océanite tempête              2015    0        29
+Oie rieuse                    2010    0        2
+Ouette d'Egypte               2013    0        1
+Outarde canepetière           2010    0        1
+Perdrix grise                 2016    0        1
+Perdrix rouge                 2015    0        2
+Perruche à collier            2016    0        6
+Perruche ondulée              2015    0        2
+Petit-duc scops               2009    0        1
+Phalarope à bec étroit        2009    0        1
+Pic de Sharpe                 2018    0        2
+Pic mar                       2012    0        1
+Pie-grièche à tête rousse     2018    0        11
+Pipit à gorge rousse          2010    0        1
+Pipit de Richard              2018    0        20
+Plongeon arctique             2019    0        9
+Pouillot à grands sourcils    2014    0        1
+Pouillot siffleur             2018    0        3
+Rémiz penduline               2017    0        58
+Rousserolle turdoïde          2014    0        22
+Sarcelle d'été                2017    0        101
+Sterne caspienne              2017    0        33
+Sterne naine                  2015    0        12
+Sterne voyageuse              2018    0        5
 

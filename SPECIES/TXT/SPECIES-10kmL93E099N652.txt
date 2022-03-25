@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Buse variable
-0        Cassenoix moucheté
-0        Corneille noire
-0        Crave à bec rouge
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Grimpereau des bois
-0        Grive musicienne
-0        Héron cendré
-0        Merle noir
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Pic épeiche
-0        Pic noir
-0        Pigeon ramier
-0        Pipit des arbres
-0        Pipit farlouse
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rougegorge familier
-0        Troglodyte mignon
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bec-croisé des sapins       2010    0        3
+Bergeronnette des ruisseaux 2014    0        2
+Bouvreuil pivoine           2010    0        4
+Bruant fou                  2012    0        2
+Buse variable               2016    0        1
+Cassenoix moucheté          2010    0        4
+Corneille noire             2011    0        2
+Crave à bec rouge           2017    0        5
+Faucon hobereau             2015    0        1
+Faucon pèlerin              2010    0        1
+Fauvette babillarde         2010    0        3
+Fauvette des jardins        2012    0        2
+Grimpereau des bois         2016    0        1
+Grive musicienne            2010    0        2
+Héron cendré                2012    0        1
+Merle noir                  2010    0        2
+Mésange boréale             2016    0        3
+Mésange huppée              2016    0        3
+Mésange noire               2016    0        4
+Pic épeiche                 2016    0        1
+Pic noir                    2010    0        2
+Pigeon ramier               2010    0        2
+Pipit des arbres            2015    0        1
+Pipit farlouse              2016    0        1
+Roitelet à triple bandeau   2010    0        4
+Roitelet huppé              2015    0        4
+Rougegorge familier         2016    0        5
+Troglodyte mignon           2012    0        8
 

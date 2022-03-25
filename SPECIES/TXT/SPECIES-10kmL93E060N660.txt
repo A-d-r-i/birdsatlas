@@ -1,82 +1,82 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Alouette lulu
-0        Bergeronnette des ruisseaux
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant jaune
-0        Bruant proyer
-0        Bruant zizi
-0        Canard colvert
-0        Canard pilet
-0        Canard souchet
-0        Chardonneret élégant
-0        Choucas des tours
-0        Chouette hulotte
-0        Corbeau freux
-0        Coucou gris
-0        Épervier d'Europe
-0        Étourneau sansonnet
-0        Faisan de Colchide
-0        Faucon crécerelle
-0        Faucon pèlerin
-0        Fauvette à tête noire
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grand-duc d'Europe
-0        Grande Aigrette
-0        Grèbe huppé
-0        Grimpereau des jardins
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle rustique
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Merle noir
-0        Mésange à longue queue
-0        Mésange huppée
-0        Milan noir
-0        Pic épeiche
-0        Pic épeichette
-0        Pic mar
-0        Pic noir
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pigeon ramier
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot siffleur
-0        Pouillot véloce
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Serin cini
-0        Sittelle torchepot
-0        Tarier pâtre
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Troglodyte mignon
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2012    0        3
+Alouette des champs         2009    0        1
+Alouette lulu               2009    0        2
+Bergeronnette des ruisseaux 2009    0        1
+Bergeronnette grise         2009    0        1
+Bergeronnette printanière   2009    0        1
+Bondrée apivore             2009    0        1
+Bouvreuil pivoine           2009    0        1
+Bruant des roseaux          2009    0        1
+Bruant jaune                2009    0        2
+Bruant proyer               2009    0        1
+Bruant zizi                 2012    0        3
+Canard colvert              2009    0        2
+Canard pilet                2009    0        1
+Canard souchet              2009    0        1
+Chardonneret élégant        2012    0        3
+Choucas des tours           2009    0        2
+Chouette hulotte            2009    0        2
+Corbeau freux               2009    0        2
+Coucou gris                 2009    0        1
+Épervier d'Europe           2009    0        2
+Étourneau sansonnet         2009    0        2
+Faisan de Colchide          2009    0        1
+Faucon crécerelle           2009    0        2
+Faucon pèlerin              2009    0        1
+Fauvette à tête noire       2009    0        2
+Fauvette des jardins        2009    0        1
+Fauvette grisette           2009    0        1
+Foulque macroule            2009    0        2
+Gallinule poule-d'eau       2009    0        1
+Geai des chênes             2009    0        2
+Gobemouche gris             2009    0        1
+Grand Cormoran              2009    0        1
+Grand-duc d'Europe          2009    0        1
+Grande Aigrette             2009    0        1
+Grèbe huppé                 2009    0        2
+Grimpereau des jardins      2009    0        2
+Grive draine                2009    0        2
+Grive litorne               2009    0        1
+Grive mauvis                2009    0        1
+Grive musicienne            2009    0        2
+Grosbec casse-noyaux        2009    0        1
+Hibou moyen-duc             2009    0        1
+Hirondelle de fenêtre       2009    0        1
+Hirondelle rustique         2009    0        1
+Huppe fasciée               2009    0        1
+Hypolaïs polyglotte         2009    0        1
+Linotte mélodieuse          2009    0        2
+Loriot d'Europe             2009    0        1
+Martinet noir               2009    0        1
+Martin-pêcheur d'Europe     2009    0        2
+Merle noir                  2012    0        3
+Mésange à longue queue      2009    0        2
+Mésange huppée              2009    0        1
+Milan noir                  2009    0        1
+Pic épeiche                 2009    0        2
+Pic épeichette              2009    0        2
+Pic mar                     2009    0        2
+Pic noir                    2009    0        1
+Pic vert                    2009    0        2
+Pie-grièche écorcheur       2017    0        2
+Pigeon ramier               2009    0        2
+Pinson du Nord              2009    0        1
+Pipit des arbres            2009    0        1
+Pouillot siffleur           2009    0        1
+Pouillot véloce             2009    0        1
+Roitelet à triple bandeau   2009    0        2
+Roitelet huppé              2009    0        2
+Rossignol philomèle         2009    0        1
+Rougequeue à front blanc    2009    0        1
+Rougequeue noir             2009    0        2
+Serin cini                  2009    0        1
+Sittelle torchepot          2009    0        2
+Tarier pâtre                2009    0        1
+Tarin des aulnes            2009    0        1
+Tourterelle des bois        2009    0        1
+Troglodyte mignon           2009    0        2
+Vanneau huppé               2009    0        1
 

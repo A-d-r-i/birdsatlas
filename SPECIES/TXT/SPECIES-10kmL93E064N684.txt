@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Busard cendré
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Calopsitte élégante
-0        Canard des Bahamas
-0        Chevalier arlequin
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Cygne noir
-0        Faucon émerillon
-0        Goéland cendré
-0        Locustelle luscinioïde
-0        Macreuse noire
-0        Mésange boréale
-0        Mouette pygmée
-0        Oie à tête barrée
-0        Oie rieuse
-0        Panure à moustaches
-0        Perroquet jaco
-0        Perruche ondulée
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Sterne naine
-0        Tadorne casarca
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2015    0        2
+Bécasse des bois       2017    0        4
+Busard cendré          2015    0        1
+Busard Saint-Martin    2013    0        3
+Butor étoilé           2013    0        1
+Calopsitte élégante    2013    0        1
+Canard des Bahamas     2015    0        1
+Chevalier arlequin     2011    0        1
+Chevêche d'Athéna      2009    0        1
+Cigogne noire          2010    0        1
+Cygne noir             2011    0        2
+Faucon émerillon       2018    0        4
+Goéland cendré         2017    0        4
+Locustelle luscinioïde 2017    0        23
+Macreuse noire         2016    0        1
+Mésange boréale        2009    0        1
+Mouette pygmée         2015    0        5
+Oie à tête barrée      2015    0        3
+Oie rieuse             2009    0        1
+Panure à moustaches    2017    0        6
+Perroquet jaco         2013    0        1
+Perruche ondulée       2012    0        2
+Pouillot siffleur      2013    0        2
+Rémiz penduline        2015    0        4
+Sterne naine           2016    0        2
+Tadorne casarca        2009    0        2
 

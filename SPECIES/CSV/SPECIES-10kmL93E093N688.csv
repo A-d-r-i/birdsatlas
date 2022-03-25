@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Busard pâle"
-"0";"Canard pilet"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Gobemouche noir"
-"0";"Grèbe à cou noir"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,1
+Bergeronnette des ruisseaux,2011,0,2
+Bondrée apivore,2018,0,3
+Bruant zizi,2015,0,1
+Busard pâle,2017,0,1
+Canard pilet,2017,0,1
+Chevêche d'Athéna,2014,0,2
+Chouette hulotte,2015,0,6
+Cigogne noire,2017,0,1
+Échasse blanche,2016,0,2
+Effraie des clochers,2015,0,3
+Faucon pèlerin,2018,0,1
+Gobemouche noir,2017,0,1
+Grèbe à cou noir,2018,0,1
+Huppe fasciée,2018,0,1
+Locustelle tachetée,2015,0,4
+Mésange boréale,2012,0,3
+Perdrix rouge,2017,0,1
+Perruche à collier,2015,0,1
+Petit Gravelot,2009,0,1
+Pie-grièche grise,2009,0,2
+Râle d'eau,2010,0,2
+Roitelet à triple bandeau,2009,0,1

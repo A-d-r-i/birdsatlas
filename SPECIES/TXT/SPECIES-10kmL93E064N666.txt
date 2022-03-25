@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Busard des roseaux
-0        Butor étoilé
-0        Canard à collier noir
-0        Combattant varié
-0        Engoulevent d'Europe
-0        Hibou moyen-duc
-0        Petit-duc scops
-0        Pouillot siffleur
-0        Râle d'eau
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bécasse des bois      2015    0        2
+Busard des roseaux    2016    0        1
+Butor étoilé          2009    0        1
+Canard à collier noir 2018    0        1
+Combattant varié      2017    0        2
+Engoulevent d'Europe  2018    0        1
+Hibou moyen-duc       2018    0        4
+Petit-duc scops       2018    0        2
+Pouillot siffleur     2016    0        1
+Râle d'eau            2016    0        3
 

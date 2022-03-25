@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2013,0,1
+Bécassine des marais,2014,0,1
+Bondrée apivore,2013,0,3
+Chevalier culblanc,2010,0,1
+Cigogne blanche,2012,0,1
+Faucon émerillon,2011,0,2
+Faucon hobereau,2013,0,4
+Fauvette babillarde,2016,0,4
+Foulque macroule,2015,0,6
+Gallinule poule-d'eau,2015,0,12
+Gobemouche gris,2017,0,7
+Gobemouche noir,2017,0,1
+Grèbe castagneux,2014,0,4
+Grèbe huppé,2011,0,2
+Grive mauvis,2015,0,3
+Huppe fasciée,2013,0,6
+Locustelle tachetée,2015,0,5
+Martin-pêcheur d'Europe,2019,0,9
+Mésange huppée,2015,0,5
+Mésange noire,2017,0,9
+Perdrix rouge,2011,0,6
+Pic cendré,2012,0,2
+Pic épeichette,2013,0,6
+Pipit des arbres,2013,0,5
+Pipit spioncelle,2010,0,3
+Pouillot siffleur,2010,0,3
+Rousserolle effarvatte,2013,0,6

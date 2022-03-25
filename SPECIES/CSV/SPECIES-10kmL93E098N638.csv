@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Chouette hulotte"
-"0";"Coucou gris"
-"0";"Étourneau sansonnet"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Goéland leucophée"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hirondelle rustique"
-"0";"Huppe fasciée"
-"0";"Lagopède alpin"
-"0";"Moineau cisalpin"
-"0";"Moineau soulcie"
-"0";"Monticole de roche"
-"0";"Petit-duc scops"
-"0";"Pic noir"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Busard cendré,2018,0,1
+Chouette hulotte,2016,0,1
+Coucou gris,2018,0,9
+Étourneau sansonnet,2018,0,1
+Faucon hobereau,2010,0,1
+Faucon pèlerin,2009,0,4
+Goéland leucophée,2014,0,1
+Grosbec casse-noyaux,2015,0,8
+Héron cendré,2018,0,2
+Hirondelle rustique,2018,0,11
+Huppe fasciée,2014,0,1
+Lagopède alpin,2018,0,3
+Moineau cisalpin,2013,0,1
+Moineau soulcie,2017,0,4
+Monticole de roche,2017,0,4
+Petit-duc scops,2018,0,1
+Pic noir,2018,0,5
+Sarcelle d'hiver,2008,0,1
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tadorne de Belon,2008,0,1
+Torcol fourmilier,2018,0,1

@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Fuligule milouin"
-"0";"Gobemouche à collier"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Pic cendré"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,2
+Bécassine des marais,2017,0,7
+Bécassine sourde,2015,0,1
+Bec-croisé des sapins,2015,0,3
+Bruant proyer,2012,0,5
+Busard des roseaux,2012,0,11
+Busard Saint-Martin,2017,0,20
+Caille des blés,2015,0,5
+Calopsitte élégante,2014,0,1
+Chevalier guignette,2016,0,1
+Chevalier sylvain,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Effraie des clochers,2009,0,1
+Fuligule milouin,2016,0,1
+Gobemouche à collier,2017,0,4
+Grèbe castagneux,2016,0,1
+Hibou moyen-duc,2009,0,1
+Jaseur boréal,2013,0,3
+Locustelle tachetée,2016,0,8
+Martin-pêcheur d'Europe,2018,0,5
+Mésange boréale,2017,0,14
+Mouette rieuse,2014,0,6
+Perdrix grise,2013,0,6
+Pic cendré,2017,0,17
+Pie-grièche grise,2015,0,26
+Pipit spioncelle,2013,0,1
+Rousserolle effarvatte,2017,0,14
+Sarcelle d'hiver,2015,0,4
+Tarier des prés,2015,0,13
+Vanneau huppé,2013,0,12

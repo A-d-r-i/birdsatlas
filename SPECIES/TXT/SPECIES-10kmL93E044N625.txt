@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant proyer
-0        Canard colvert
-0        Choucas des tours
-0        Cigogne blanche
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grand Corbeau
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grosbec casse-noyaux
-0        Guêpier d'Europe
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Perdrix rouge
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Roitelet huppé
-0        Rossignol philomèle
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2018    0        2
+Alouette lulu             2011    0        2
+Bergeronnette printanière 2014    0        1
+Bihoreau gris             2013    0        1
+Bruant proyer             2012    0        2
+Canard colvert            2018    0        5
+Choucas des tours         2009    0        1
+Cigogne blanche           2010    0        1
+Cigogne noire             2017    0        1
+Engoulevent d'Europe      2009    0        1
+Fauvette des jardins      2009    0        1
+Gallinule poule-d'eau     2012    0        2
+Gobemouche gris           2015    0        1
+Grand Corbeau             2012    0        1
+Grèbe castagneux          2013    0        2
+Grèbe huppé               2013    0        1
+Grosbec casse-noyaux      2009    0        1
+Guêpier d'Europe          2015    0        1
+Hypolaïs polyglotte       2013    0        4
+Loriot d'Europe           2018    0        9
+Martinet noir             2013    0        3
+Martin-pêcheur d'Europe   2009    0        2
+Mésange noire             2013    0        1
+Perdrix rouge             2018    0        2
+Pie-grièche écorcheur     2018    0        4
+Pipit des arbres          2009    0        1
+Roitelet huppé            2016    0        1
+Rossignol philomèle       2009    0        1
 

@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Hibou moyen-duc"
-"0";"Milan noir"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pouillot véloce"
+frname,lastobs,newcount,oldcount
+Épervier d'Europe,2009,0,1
+Faucon crécerelle,2018,0,1
+Hibou moyen-duc,2009,0,1
+Milan noir,2018,0,1
+Pigeon biset (origine naturelle),2017,0,1
+Pouillot véloce,2009,0,1

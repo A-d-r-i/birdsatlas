@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Buse variable
-0        Chevalier culblanc
-0        Choucas des tours
-0        Chouette hulotte
-0        Effraie des clochers
-0        Geai des chênes
-0        Grive draine
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Merle noir
-0        Mésange bleue
-0        Mésange nonnette
-0        Milan royal
-0        Pic mar
-0        Pouillot véloce
-0        Vanneau huppé
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasse des bois     2018    0        1
+Buse variable        2019    0        3
+Chevalier culblanc   2017    0        1
+Choucas des tours    2018    0        1
+Chouette hulotte     2018    0        1
+Effraie des clochers 2018    0        1
+Geai des chênes      2018    0        2
+Grive draine         2019    0        1
+Grive litorne        2019    0        1
+Grosbec casse-noyaux 2017    0        1
+Héron cendré         2019    0        3
+Merle noir           2017    0        2
+Mésange bleue        2019    0        3
+Mésange nonnette     2017    0        2
+Milan royal          2017    0        1
+Pic mar              2018    0        1
+Pouillot véloce      2017    0        1
+Vanneau huppé        2017    0        1
 

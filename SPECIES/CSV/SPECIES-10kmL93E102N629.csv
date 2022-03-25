@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bruant jaune"
-"0";"Calopsitte élégante"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Cisticole des joncs"
-"0";"Crabier chevelu"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Faisan vénéré"
-"0";"Gobemouche à demi-collier"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Grande Aigrette"
-"0";"Hibou des marais"
-"0";"Hypolaïs ictérine"
-"0";"Martinet pâle"
-"0";"Moineau friquet"
-"0";"Monticole bleu"
-"0";"Pie-grièche méridionale"
-"0";"Pipit de Richard"
-"0";"Rousserolle turdoïde"
-"0";"Tadorne de Belon"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,16
+Bruant jaune,2018,0,1
+Calopsitte élégante,2014,0,1
+Canard carolin,2017,0,7
+Canard chipeau,2015,0,3
+Canard souchet,2015,0,15
+Cisticole des joncs,2017,0,3
+Crabier chevelu,2013,0,2
+Cygne noir,2017,0,10
+Effraie des clochers,2016,0,1
+Faisan vénéré,2016,0,1
+Gobemouche à demi-collier,2015,0,3
+Goéland brun,2018,0,3
+Gorgebleue à miroir,2018,0,1
+Grande Aigrette,2010,0,1
+Hibou des marais,2017,0,1
+Hypolaïs ictérine,2017,0,1
+Martinet pâle,2007,0,1
+Moineau friquet,2018,0,1
+Monticole bleu,2015,0,10
+Pie-grièche méridionale,2018,0,1
+Pipit de Richard,2013,0,1
+Rousserolle turdoïde,2016,0,3
+Tadorne de Belon,2013,0,4
+Traquet oreillard,2018,0,1

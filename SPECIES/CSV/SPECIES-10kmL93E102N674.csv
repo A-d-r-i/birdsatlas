@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Butor étoilé"
-"0";"Cochevis huppé"
-"0";"Cygne noir"
-"0";"Faucon hobereau"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Grand-duc d'Europe"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Nette rousse"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Bernache du Canada,2012,0,1
+Bihoreau gris,2010,0,3
+Bruant proyer,2009,0,1
+Bruant zizi,2016,0,1
+Butor étoilé,2017,0,1
+Cochevis huppé,2013,0,4
+Cygne noir,2017,0,1
+Faucon hobereau,2018,0,16
+Fuligule milouinan,2009,0,1
+Garrot à oeil d'or,2017,0,1
+Goéland argenté,2009,0,1
+Gorgebleue à miroir,2014,0,1
+Grand-duc d'Europe,2009,0,6
+Jaseur boréal,2013,0,10
+Locustelle tachetée,2018,0,5
+Mésange boréale,2013,0,2
+Nette rousse,2016,0,2
+Oie à tête barrée,2015,0,1
+Perdrix grise,2009,0,1
+Perdrix rouge,2017,0,1
+Perruche à collier,2012,0,3
+Perruche ondulée,2014,0,2
+Petit-duc scops,2009,0,3
+Pie-grièche à tête rousse,2009,0,2
+Pouillot siffleur,2018,0,8
+Rémiz penduline,2014,0,2
+Spatule blanche,2018,0,1

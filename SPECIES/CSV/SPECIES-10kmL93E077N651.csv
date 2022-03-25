@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Canard souchet"
-"0";"Cigogne blanche"
-"0";"Faucon émerillon"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Pie-grièche grise"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,1
+Canard souchet,2010,0,2
+Cigogne blanche,2013,0,1
+Faucon émerillon,2012,0,3
+Mésange boréale,2017,0,9
+Moineau friquet,2011,0,2
+Oedicnème criard,2012,0,3
+Pie-grièche grise,2018,0,1
+Râle d'eau,2015,0,1
+Rousserolle effarvatte,2013,0,6
+Sarcelle d'hiver,2010,0,3
+Sizerin flammé,2015,0,2
+Tadorne de Belon,2018,0,1
+Tarier des prés,2018,0,5
+Vanneau huppé,2014,0,14
+Venturon montagnard,2015,0,3

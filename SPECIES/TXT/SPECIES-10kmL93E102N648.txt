@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bec-croisé des sapins
-0        Buse variable
-0        Canard colvert
-0        Héron cendré
-0        Monticole de roche
-0        Pipit des arbres
-0        Serin cini
-0        Venturon montagnard
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette des champs   2018    0        7
+Bec-croisé des sapins 2017    0        1
+Buse variable         2018    0        2
+Canard colvert        2017    0        5
+Héron cendré          2012    0        1
+Monticole de roche    2017    0        8
+Pipit des arbres      2017    0        2
+Serin cini            2017    0        1
+Venturon montagnard   2015    0        4
 

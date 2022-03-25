@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bécassine sourde"
-"0";"Busard cendré"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Crabier chevelu"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grive litorne"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Ibis falcinelle"
-"0";"Labbe pomarin"
-"0";"Lusciniole à moustaches"
-"0";"Macreuse brune"
-"0";"Martinet pâle"
-"0";"Nette rousse"
-"0";"Perdrix rouge"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,4
+Autour des palombes,2009,0,2
+Bécasseau variable,2009,0,3
+Bécassine sourde,2008,0,1
+Busard cendré,2012,0,1
+Cigogne noire,2008,0,2
+Cochevis huppé,2011,0,2
+Crabier chevelu,2016,0,4
+Faucon kobez,2009,0,2
+Faucon pèlerin,2018,0,4
+Fuligule milouin,2016,0,6
+Goéland cendré,2010,0,3
+Grive litorne,2018,0,6
+Guifette leucoptère,2008,0,1
+Guifette moustac,2016,0,2
+Harle bièvre,2009,0,2
+Ibis falcinelle,2018,0,2
+Labbe pomarin,2012,0,2
+Lusciniole à moustaches,2010,0,2
+Macreuse brune,2011,0,2
+Martinet pâle,2007,0,1
+Nette rousse,2009,0,5
+Perdrix rouge,2016,0,2
+Pouillot siffleur,2015,0,1

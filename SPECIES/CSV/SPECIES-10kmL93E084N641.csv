@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Astrild ondulé"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Bec-croisé des sapins"
-"0";"Bruant jaune"
-"0";"Bruant nain"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Fauvette babillarde"
-"0";"Fauvette pitchou"
-"0";"Goéland argenté"
-"0";"Goéland pontique"
-"0";"Grand Gravelot"
-"0";"Grèbe jougris"
-"0";"Ibis sacré"
-"0";"Inséparable de Fischer"
-"0";"Locustelle luscinioïde"
-"0";"Macreuse brune"
-"0";"Mésange huppée"
-"0";"Monticole bleu"
-"0";"Mouette mélanocéphale"
-"0";"Mouette tridactyle"
-"0";"Perdrix grise"
-"0";"Pic noir"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Astrild ondulé,2017,0,1
+Autour des palombes,2014,0,1
+Barge à queue noire,2018,0,1
+Bec-croisé des sapins,2013,0,1
+Bruant jaune,2015,0,1
+Bruant nain,2017,0,2
+Butor étoilé,2018,0,4
+Canard carolin,2015,0,3
+Courlis cendré,2018,0,3
+Échasse blanche,2018,0,4
+Effraie des clochers,2016,0,2
+Fauvette babillarde,2016,0,1
+Fauvette pitchou,2014,0,1
+Goéland argenté,2013,0,5
+Goéland pontique,2015,0,10
+Grand Gravelot,2013,0,1
+Grèbe jougris,2017,0,56
+Ibis sacré,2016,0,1
+Inséparable de Fischer,2015,0,1
+Locustelle luscinioïde,2017,0,2
+Macreuse brune,2016,0,1
+Mésange huppée,2018,0,4
+Monticole bleu,2016,0,7
+Mouette mélanocéphale,2012,0,2
+Mouette tridactyle,2011,0,1
+Perdrix grise,2017,0,1
+Pic noir,2015,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Venturon montagnard,2017,0,1

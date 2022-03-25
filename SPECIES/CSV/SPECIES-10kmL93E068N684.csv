@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant zizi"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Courlis corlieu"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie à tête barrée"
-"0";"Ouette d'Egypte"
-"0";"Pouillot de Bonelli"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,6
+Autour des palombes,2011,0,1
+Bécasse des bois,2019,0,4
+Bécassine des marais,2015,0,2
+Bruant zizi,2011,0,3
+Canard pilet,2011,0,1
+Canard siffleur,2017,0,1
+Chevalier guignette,2012,0,1
+Chevêche d'Athéna,2016,0,3
+Cigogne blanche,2017,0,6
+Courlis corlieu,2016,0,1
+Fuligule milouin,2017,0,15
+Fuligule morillon,2014,0,7
+Gobemouche gris,2016,0,3
+Gobemouche noir,2017,0,1
+Goéland argenté,2018,0,2
+Goéland brun,2013,0,3
+Grèbe castagneux,2015,0,10
+Grèbe huppé,2018,0,9
+Hibou des marais,2019,0,3
+Huppe fasciée,2012,0,1
+Merle à plastron,2012,0,1
+Moineau friquet,2013,0,3
+Mouette mélanocéphale,2012,0,1
+Oie à tête barrée,2015,0,3
+Ouette d'Egypte,2012,0,2
+Pouillot de Bonelli,2013,0,1
+Sarcelle d'hiver,2016,0,1
+Tarier des prés,2012,0,2

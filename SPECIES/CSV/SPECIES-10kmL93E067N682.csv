@@ -1,17 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Goéland cendré"
-"0";"Hirondelle de rivage"
-"0";"Milan royal"
-"0";"Mouette pygmée"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,1
+Bécassine des marais,2018,0,4
+Effraie des clochers,2015,0,4
+Faucon pèlerin,2016,0,1
+Goéland cendré,2016,0,1
+Hirondelle de rivage,2018,0,1
+Mouette pygmée,2010,0,1
+Pouillot de Bonelli,2017,0,2
+Pouillot siffleur,2014,0,6
+Râle des genêts,2018,0,1
+Tadorne de Belon,2008,0,1
+Tarier des prés,2009,0,1
+Traquet motteux,2013,0,1

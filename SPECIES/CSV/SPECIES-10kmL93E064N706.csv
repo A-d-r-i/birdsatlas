@@ -1,17 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Busard Saint-Martin"
-"0";"Chevêche d'Athéna"
-"0";"Grive mauvis"
-"0";"Hypolaïs ictérine"
-"0";"Mésange noire"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,2
+Autour des palombes,2009,0,1
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Chevêche d'Athéna,2009,0,1
+Grive mauvis,2018,0,8
+Hypolaïs ictérine,2009,0,1
+Mésange noire,2018,0,4
+Rousserolle verderolle,2018,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2009,0,1
+Tarier des prés,2018,0,2
+Tarier pâtre,2009,0,1
+Torcol fourmilier,2014,0,2

@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle criard
-0        Alouette calandre
-0        Autour des palombes
-0        Bécasse des bois
-0        Bihoreau gris
-0        Busard pâle
-0        Choucas des tours
-0        Cigogne noire
-0        Faisan de Colchide
-0        Faucon crécerellette
-0        Faucon d'Eléonore
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Grand Cormoran
-0        Grosbec casse-noyaux
-0        Héron cendré
-0        Merle à plastron
-0        Pic de Sharpe
-0        Pic épeiche
-0        Pigeon colombin
-0        Pipit de Richard
-0        Pipit spioncelle
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle criard          2018    0        1
+Alouette calandre     2015    0        17
+Autour des palombes   2018    0        7
+Bécasse des bois      2016    0        1
+Bihoreau gris         2009    0        1
+Busard pâle           2008    0        1
+Choucas des tours     2012    0        1
+Cigogne noire         2018    0        10
+Faisan de Colchide    2015    0        2
+Faucon crécerellette  2014    0        11
+Faucon d'Eléonore     2015    0        2
+Faucon émerillon      2017    0        5
+Fauvette des jardins  2017    0        1
+Gallinule poule-d'eau 2016    0        1
+Grand Cormoran        2018    0        3
+Grosbec casse-noyaux  2015    0        1
+Héron cendré          2016    0        1
+Merle à plastron      2018    0        7
+Pic de Sharpe         2014    0        2
+Pic épeiche           2014    0        3
+Pigeon colombin       2018    0        2
+Pipit de Richard      2014    0        2
+Pipit spioncelle      2012    0        1
+Torcol fourmilier     2015    0        2
+Vanneau huppé         2016    0        2
 

@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécasse des bois
-0        Bergeronnette des ruisseaux
-0        Bihoreau gris
-0        Bouscarle de Cetti
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant ortolan
-0        Caille des blés
-0        Canard souchet
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cincle plongeur
-0        Coucou geai
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Fauvette passerinette
-0        Fauvette pitchou
-0        Flamant rose
-0        Fuligule milouin
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive musicienne
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Mésange noire
-0        Monticole bleu
-0        Petit Gravelot
-0        Pinson du Nord
-0        Pouillot fitis
-0        Râle d'eau
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Sittelle torchepot
-0        Tarier des prés
-0        Tarin des aulnes
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigle botté                 2015    0        1
+Bécasse des bois            2015    0        1
+Bergeronnette des ruisseaux 2017    0        20
+Bihoreau gris               2015    0        4
+Bouscarle de Cetti          2016    0        10
+Bruant des roseaux          2017    0        7
+Bruant fou                  2016    0        2
+Bruant ortolan              2018    0        1
+Caille des blés             2015    0        7
+Canard souchet              2013    0        2
+Chevalier culblanc          2013    0        1
+Chevalier guignette         2015    0        3
+Chevalier sylvain           2012    0        1
+Chevêche d'Athéna           2016    0        16
+Cigogne blanche             2017    0        3
+Cincle plongeur             2016    0        2
+Coucou geai                 2016    0        1
+Échasse blanche             2012    0        1
+Engoulevent d'Europe        2015    0        13
+Épervier d'Europe           2018    0        18
+Faucon hobereau             2015    0        13
+Fauvette passerinette       2016    0        14
+Fauvette pitchou            2016    0        1
+Flamant rose                2014    0        1
+Fuligule milouin            2015    0        2
+Gallinule poule-d'eau       2015    0        7
+Gobemouche gris             2015    0        4
+Grèbe castagneux            2015    0        7
+Grive litorne               2016    0        3
+Grive musicienne            2018    0        20
+Héron garde-boeufs          2017    0        4
+Hibou moyen-duc             2015    0        5
+Mésange noire               2018    0        2
+Monticole bleu              2011    0        1
+Petit Gravelot              2013    0        3
+Pinson du Nord              2016    0        2
+Pouillot fitis              2015    0        3
+Râle d'eau                  2014    0        1
+Roitelet huppé              2017    0        4
+Rollier d'Europe            2017    0        3
+Sittelle torchepot          2016    0        2
+Tarier des prés             2013    0        1
+Tarin des aulnes            2018    0        3
+Vanneau huppé               2012    0        2
 

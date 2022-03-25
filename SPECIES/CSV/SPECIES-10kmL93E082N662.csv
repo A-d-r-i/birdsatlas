@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pigeon biset domestique"
-"0";"Pouillot fitis"
+frname,lastobs,newcount,oldcount
+Busard cendré,2009,0,1
+Corbeau freux,2009,0,1
+Effraie des clochers,2018,0,1
+Fauvette babillarde,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Locustelle tachetée,2009,0,1
+Marouette ponctuée,2009,0,1
+Mésange huppée,2009,0,1
+Mésange noire,2015,0,8
+Mouette rieuse,2010,0,1
+Oedicnème criard,2009,0,1
+Perdrix rouge,2015,0,2
+Petit-duc scops,2009,0,1
+Pigeon biset domestique,2009,0,1
+Pouillot fitis,2017,0,6

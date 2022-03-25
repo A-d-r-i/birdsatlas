@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Bruant jaune
-0        Caille des blés
-0        Canard souchet
-0        Chouette de Tengmalm
-0        Crabier chevelu
-0        Crave à bec rouge
-0        Échasse blanche
-0        Effraie des clochers
-0        Faucon émerillon
-0        Fauvette à lunettes
-0        Foulque macroule
-0        Gorgebleue à miroir
-0        Grèbe à cou noir
-0        Guifette noire
-0        Hibou moyen-duc
-0        Hypolaïs ictérine
-0        Labbe parasite
-0        Marouette ponctuée
-0        Moineau soulcie
-0        Mouette tridactyle
-0        Océanite tempête
-0        Paon bleu
-0        Perruche ondulée
-0        Petit Gravelot
-0        Pic vert
-0        Pie-grièche méridionale
-0        Pingouin torda
-0        Pipit à gorge rousse
-0        Plongeon arctique
-0        Pouillot à grands sourcils
-0        Sterne caspienne
-0        Sterne hansel
-0        Sterne naine
-0        Sterne pierregarin
-0        Venturon montagnard
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Bihoreau gris              2016    0        3
+Bruant jaune               2009    0        1
+Caille des blés            2017    0        4
+Canard souchet             2016    0        1
+Chouette de Tengmalm       2014    0        1
+Crabier chevelu            2017    0        1
+Crave à bec rouge          2017    0        3
+Échasse blanche            2012    0        1
+Effraie des clochers       2015    0        4
+Faucon émerillon           2018    0        2
+Fauvette à lunettes        2009    0        1
+Foulque macroule           2018    0        1
+Gorgebleue à miroir        2018    0        2
+Grèbe à cou noir           2018    0        3
+Guifette noire             2018    0        2
+Hibou moyen-duc            2009    0        1
+Hypolaïs ictérine          2015    0        2
+Labbe parasite             2016    0        2
+Marouette ponctuée         2015    0        1
+Moineau soulcie            2016    0        4
+Mouette tridactyle         2018    0        2
+Océanite tempête           2016    0        2
+Paon bleu                  2018    0        1
+Perruche ondulée           2016    0        1
+Petit Gravelot             2009    0        1
+Pic vert                   2009    0        2
+Pie-grièche méridionale    2013    0        1
+Pingouin torda             2018    0        6
+Pipit à gorge rousse       2018    0        1
+Plongeon arctique          2017    0        1
+Pouillot à grands sourcils 2014    0        1
+Sterne caspienne           2018    0        2
+Sterne hansel              2014    0        1
+Sterne naine               2015    0        1
+Sterne pierregarin         2018    0        1
+Venturon montagnard        2014    0        1
 

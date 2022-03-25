@@ -1,43 +1,41 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Alouette calandre"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau variable"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Busard pâle"
-"0";"Buse pattue"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Corneille noire"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette à lunettes"
-"0";"Fauvette grisette"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Huîtrier pie"
-"0";"Hypolaïs ictérine"
-"0";"Ibis falcinelle"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Outarde canepetière"
-"0";"Pélican gris"
-"0";"Pic vert"
-"0";"Pipit à gorge rousse"
-"0";"Pipit de Richard"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle criard,2018,0,2
+Alouette calandre,2014,0,1
+Bécasseau sanderling,2016,0,1
+Bécasseau variable,2016,0,1
+Bihoreau gris,2016,0,1
+Bouvreuil pivoine,2019,0,3
+Bruant jaune,2018,0,2
+Busard pâle,2017,0,1
+Buse pattue,2010,0,2
+Chevalier culblanc,2016,0,2
+Chevalier gambette,2017,0,2
+Chouette hulotte,2017,0,3
+Corbeau freux,2014,0,1
+Corneille noire,2016,0,1
+Cygne noir,2012,0,1
+Effraie des clochers,2016,0,2
+Faucon crécerellette,2013,0,1
+Faucon émerillon,2018,0,3
+Faucon kobez,2018,0,13
+Fauvette à lunettes,2012,0,2
+Fauvette grisette,2015,0,2
+Gravelot à collier interrompu,2018,0,7
+Grèbe castagneux,2018,0,1
+Grive mauvis,2017,0,8
+Huîtrier pie,2017,0,2
+Hypolaïs ictérine,2018,0,2
+Ibis falcinelle,2016,0,2
+Merle à plastron,2014,0,1
+Moineau friquet,2017,0,6
+Mouette pygmée,2015,0,1
+Mouette tridactyle,2014,0,1
+Outarde canepetière,2018,0,2
+Pélican gris,2018,0,2
+Pic vert,2014,0,2
+Pipit à gorge rousse,2014,0,6
+Pipit de Richard,2013,0,1
+Râle d'eau,2015,0,3
+Rémiz penduline,2018,0,2
+Sizerin flammé,2016,0,1
+Tichodrome échelette,2014,0,1

@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Autour des palombes
-0        Bécasse des bois
-0        Busard pâle
-0        Canard colvert
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Circaète Jean-le-Blanc
-0        Cochevis huppé
-0        Courlis corlieu
-0        Effraie des clochers
-0        Élanion blanc
-0        Fauvette babillarde
-0        Gobemouche noir
-0        Goéland leucophée
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Merle à plastron
-0        Mésange bleue
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Petit Gravelot
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pigeon biset domestique
-0        Pipit farlouse
-0        Pluvier guignard
-0        Pouillot de Bonelli
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Serin cini
-0        Sittelle torchepot
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Troglodyte mignon
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2015    0        16
+Autour des palombes       2017    0        2
+Bécasse des bois          2016    0        6
+Busard pâle               2016    0        2
+Canard colvert            2018    0        1
+Chevalier guignette       2011    0        1
+Chevêche d'Athéna         2016    0        1
+Circaète Jean-le-Blanc    2017    0        8
+Cochevis huppé            2013    0        4
+Courlis corlieu           2012    0        1
+Effraie des clochers      2016    0        9
+Élanion blanc             2012    0        2
+Fauvette babillarde       2012    0        2
+Gobemouche noir           2012    0        1
+Goéland leucophée         2015    0        2
+Grand Cormoran            2016    0        4
+Grande Aigrette           2015    0        1
+Grive mauvis              2018    0        4
+Grosbec casse-noyaux      2016    0        2
+Hibou des marais          2016    0        7
+Hirondelle de rivage      2015    0        1
+Locustelle tachetée       2012    0        9
+Loriot d'Europe           2012    0        4
+Merle à plastron          2013    0        2
+Mésange bleue             2016    0        17
+Mésange noire             2017    0        4
+Mouette mélanocéphale     2012    0        1
+Petit Gravelot            2007    0        1
+Pic vert                  2018    0        8
+Pie-grièche écorcheur     2015    0        15
+Pigeon biset domestique   2012    0        3
+Pipit farlouse            2018    0        35
+Pluvier guignard          2007    0        1
+Pouillot de Bonelli       2018    0        8
+Roitelet à triple bandeau 2014    0        7
+Roitelet huppé            2013    0        3
+Rossignol philomèle       2015    0        5
+Serin cini                2017    0        5
+Sittelle torchepot        2013    0        2
+Tarin des aulnes          2016    0        4
+Torcol fourmilier         2015    0        3
+Troglodyte mignon         2015    0        16
+Verdier d'Europe          2017    0        21
 

@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bruant fou"
-"0";"Choucas des tours"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Loriot d'Europe"
-"0";"Pic épeichette"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,3
+Bruant fou,2017,0,1
+Choucas des tours,2015,0,1
+Faucon émerillon,2018,0,1
+Faucon hobereau,2009,0,1
+Loriot d'Europe,2012,0,1
+Pic épeichette,2009,0,1
+Serin cini,2016,0,2
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1

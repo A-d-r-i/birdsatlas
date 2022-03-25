@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Cigogne noire"
-"0";"Échasse blanche"
-"0";"Étourneau sansonnet"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gélinotte des bois"
-"0";"Héron cendré"
-"0";"Perdrix grise"
-"0";"Pinson du Nord"
-"0";"Pluvier guignard"
-"0";"Pouillot fitis"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,1
+Bécasse des bois,2011,0,1
+Bruant ortolan,2016,0,10
+Busard des roseaux,2018,0,1
+Cigogne noire,2018,0,1
+Échasse blanche,2017,0,1
+Étourneau sansonnet,2017,0,2
+Fauvette grisette,2009,0,2
+Foulque macroule,2018,0,1
+Gélinotte des bois,2009,0,1
+Héron cendré,2016,0,1
+Perdrix grise,2013,0,1
+Pinson du Nord,2015,0,1
+Pluvier guignard,2018,0,3
+Pouillot fitis,2015,0,2
+Rossignol philomèle,2017,0,1

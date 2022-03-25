@@ -1,42 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandre
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bihoreau gris
-0        Bruant ortolan
-0        Chevalier guignette
-0        Crabier chevelu
-0        Etourneau roselin
-0        Faucon crécerellette
-0        Fauvette grisette
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Foulque macroule
-0        Grand-duc d'Europe
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Lusciniole à moustaches
-0        Martinet pâle
-0        Moineau soulcie
-0        Ouette d'Egypte
-0        Perruche ondulée
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit de Richard
-0        Pipit spioncelle
-0        Râle d'eau
-0        Rémiz penduline
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Tadorne de Belon
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Alouette calandre                       2013    0        1
+Autour des palombes                     2014    0        2
+Bécasse des bois                        2013    0        2
+Bécassine des marais                    2016    0        16
+Bergeronnette flavéole (M.f.flavissima) 2012    0        2
+Bihoreau gris                           2008    0        1
+Bruant ortolan                          2014    0        2
+Chevalier guignette                     2012    0        2
+Crabier chevelu                         2012    0        1
+Etourneau roselin                       2018    0        19
+Faucon crécerellette                    2012    0        1
+Fauvette grisette                       2016    0        2
+Fauvette orphée                         2012    0        1
+Fauvette pitchou                        2013    0        7
+Foulque macroule                        2015    0        1
+Grand-duc d'Europe                      2017    0        4
+Grive draine                            2017    0        9
+Grive litorne                           2018    0        10
+Grive mauvis                            2017    0        6
+Héron pourpré                           2015    0        1
+Hirondelle de rivage                    2015    0        3
+Lusciniole à moustaches                 2012    0        2
+Martinet pâle                           2010    0        1
+Moineau soulcie                         2015    0        6
+Ouette d'Egypte                         2012    0        4
+Perruche ondulée                        2012    0        1
+Petit Gravelot                          2015    0        11
+Pie-grièche à tête rousse               2018    0        7
+Pie-grièche méridionale                 2017    0        5
+Pinson du Nord                          2016    0        10
+Pipit de Richard                        2011    0        2
+Pipit spioncelle                        2015    0        6
+Râle d'eau                              2015    0        4
+Rémiz penduline                         2013    0        2
+Roitelet huppé                          2016    0        13
+Rousserolle turdoïde                    2010    0        1
+Tadorne de Belon                        2018    0        1
 

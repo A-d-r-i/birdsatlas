@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Engoulevent d'Europe"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pluvier doré"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2018,0,3
+Bruant des roseaux,2016,0,3
+Chevalier culblanc,2013,0,3
+Chouette hulotte,2015,0,20
+Engoulevent d'Europe,2013,0,7
+Gallinule poule-d'eau,2014,0,4
+Grand Gravelot,2013,0,1
+Grèbe castagneux,2010,0,2
+Locustelle tachetée,2017,0,2
+Mésange boréale,2017,0,2
+Moineau friquet,2013,0,2
+Pic cendré,2015,0,1
+Pluvier doré,2017,0,1
+Tarier des prés,2010,0,1
+Torcol fourmilier,2018,0,2

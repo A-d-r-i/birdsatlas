@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pigeon biset domestique"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle royal,2019,0,2
+Bergeronnette des ruisseaux,2009,0,2
+Bergeronnette printanière,2009,0,1
+Bernache du Canada,2009,0,1
+Bondrée apivore,2018,0,2
+Bruant proyer,2009,0,1
+Busard Saint-Martin,2018,0,2
+Canard colvert,2009,0,2
+Chevêche d'Athéna,2009,0,1
+Choucas des tours,2009,0,2
+Chouette hulotte,2009,0,2
+Corbeau freux,2018,0,3
+Effraie des clochers,2009,0,1
+Faisan vénéré,2009,0,1
+Fauvette babillarde,2009,0,1
+Foulque macroule,2009,0,2
+Gallinule poule-d'eau,2009,0,2
+Gobemouche gris,2009,0,1
+Grèbe castagneux,2009,0,2
+Grive litorne,2009,0,1
+Grosbec casse-noyaux,2018,0,5
+Hypolaïs polyglotte,2009,0,1
+Linotte mélodieuse,2018,0,3
+Locustelle tachetée,2018,0,1
+Mésange boréale,2009,0,1
+Moineau friquet,2009,0,1
+Oedicnème criard,2009,0,1
+Perdrix grise,2009,0,2
+Pic épeichette,2009,0,1
+Pic noir,2009,0,2
+Pigeon biset domestique,2018,0,2
+Pipit des arbres,2018,0,5
+Pouillot fitis,2018,0,2
+Pouillot siffleur,2009,0,1
+Roitelet huppé,2009,0,2
+Rossignol philomèle,2018,0,2
+Rousserolle verderolle,2009,0,1
+Vanneau huppé,2009,0,1

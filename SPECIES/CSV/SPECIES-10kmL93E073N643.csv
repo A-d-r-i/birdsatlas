@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Canard colvert"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Héron cendré"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Pic épeichette"
-"0";"Pouillot de Bonelli"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2014,0,1
+Busard des roseaux,2016,0,2
+Canard colvert,2016,0,1
+Chevêche d'Athéna,2011,0,1
+Cigogne blanche,2011,0,1
+Cincle plongeur,2017,0,13
+Engoulevent d'Europe,2016,0,3
+Faucon pèlerin,2018,0,25
+Gobemouche gris,2016,0,1
+Gobemouche noir,2016,0,4
+Goéland leucophée,2016,0,1
+Grande Aigrette,2015,0,1
+Grive litorne,2018,0,5
+Guêpier d'Europe,2016,0,2
+Héron cendré,2015,0,1
+Loriot d'Europe,2016,0,1
+Martin-pêcheur d'Europe,2018,0,1
+Moineau friquet,2018,0,1
+Moineau soulcie,2007,0,1
+Pic épeichette,2018,0,1
+Pouillot de Bonelli,2018,0,4
+Tarier des prés,2018,0,9
+Vanneau huppé,2013,0,1

@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bécassine des marais
-0        Bécassine sourde
-0        Calopsitte élégante
-0        Chevalier culblanc
-0        Courlis cendré
-0        Courlis corlieu
-0        Foulque macroule
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Hirondelle de rivage
-0        Perdrix grise
-0        Perdrix rouge
-0        Sarcelle d'hiver
-0        Tadorne de Belon
-0        Vanneau huppé
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2018    0        1
+Bécassine des marais  2017    0        2
+Bécassine sourde      2018    0        3
+Calopsitte élégante   2018    0        1
+Chevalier culblanc    2016    0        2
+Courlis cendré        2012    0        1
+Courlis corlieu       2014    0        1
+Foulque macroule      2016    0        1
+Fuligule morillon     2017    0        1
+Gallinule poule-d'eau 2016    0        7
+Hirondelle de rivage  2010    0        1
+Perdrix grise         2012    0        2
+Perdrix rouge         2017    0        1
+Sarcelle d'hiver      2017    0        1
+Tadorne de Belon      2012    0        1
+Vanneau huppé         2012    0        3
+Vautour fauve         2015    0        1
 

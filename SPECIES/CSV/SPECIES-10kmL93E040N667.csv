@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Garrot à oeil d'or"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Phragmite des joncs"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Sarcelle d'été"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2013,0,1
+Bihoreau gris,2018,0,2
+Bondrée apivore,2017,0,2
+Busard des roseaux,2018,0,3
+Canard pilet,2016,0,1
+Canard siffleur,2016,0,2
+Chevalier aboyeur,2018,0,16
+Cisticole des joncs,2011,0,3
+Combattant varié,2018,0,27
+Courlis cendré,2010,0,2
+Cygne noir,2010,0,1
+Engoulevent d'Europe,2012,0,4
+Érismature rousse,2017,0,1
+Faisan de Colchide,2016,0,13
+Faucon émerillon,2018,0,4
+Garrot à oeil d'or,2015,0,1
+Goéland à ailes blanches,2018,0,81
+Goéland bourgmestre,2018,0,16
+Guifette moustac,2015,0,4
+Guifette noire,2017,0,2
+Milan royal,2018,0,1
+Moineau friquet,2018,0,12
+Mouette mélanocéphale,2018,0,15
+Oie cendrée,2017,0,11
+Ouette d'Egypte,2014,0,2
+Phragmite des joncs,2011,0,7
+Pic noir,2011,0,2
+Pie-grièche écorcheur,2015,0,1
+Pigeon colombin,2018,0,5
+Sarcelle d'été,2018,0,4
+Spatule blanche,2017,0,1
+Sterne caspienne,2011,0,1
+Torcol fourmilier,2014,0,1

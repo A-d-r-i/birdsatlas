@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécassine des marais"
-"0";"Blongios nain"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne noir"
-"0";"Effraie des clochers"
-"0";"Étourneau unicolore"
-"0";"Faucon d'Eléonore"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Glaréole à collier"
-"0";"Goéland cendré"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Hibou des marais"
-"0";"Ibis sacré"
-"0";"Martinet pâle"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pluvier argenté"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2016,0,1
+Bécasseau minute,2013,0,1
+Bécassine des marais,2015,0,4
+Blongios nain,2015,0,1
+Bruant jaune,2016,0,2
+Busard cendré,2018,0,7
+Canard carolin,2016,0,1
+Canard chipeau,2019,0,21
+Chevalier aboyeur,2013,0,4
+Chevalier culblanc,2018,0,6
+Chevalier gambette,2017,0,3
+Cigogne noire,2018,0,4
+Combattant varié,2012,0,1
+Corbeau freux,2016,0,3
+Courlis cendré,2017,0,11
+Courlis corlieu,2011,0,1
+Cygne noir,2013,0,1
+Effraie des clochers,2014,0,1
+Étourneau unicolore,2011,0,2
+Faucon d'Eléonore,2018,0,1
+Fuligule milouin,2013,0,8
+Fuligule morillon,2010,0,1
+Glaréole à collier,2018,0,1
+Goéland cendré,2010,0,3
+Grèbe à cou noir,2017,0,1
+Grive litorne,2018,0,2
+Hibou des marais,2018,0,3
+Ibis sacré,2017,0,1
+Martinet pâle,2009,0,1
+Oedicnème criard,2018,0,1
+Oie cendrée,2018,0,2
+Petit Gravelot,2014,0,10
+Phragmite des joncs,2013,0,1
+Pluvier argenté,2012,0,1
+Pouillot de Bonelli,2015,0,5
+Pouillot siffleur,2018,0,2
+Rémiz penduline,2017,0,1
+Vautour fauve,2018,0,3

@@ -1,9 +1,9 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard des roseaux
-0        Chevalier guignette
-0        Grand-duc d'Europe
-0        Oedicnème criard
-0        Sterne pierregarin
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Busard des roseaux  2016    0        2
+Chevalier guignette 2013    0        1
+Grand-duc d'Europe  2015    0        2
+Oedicnème criard    2015    0        2
+Sterne pierregarin  2017    0        3
 

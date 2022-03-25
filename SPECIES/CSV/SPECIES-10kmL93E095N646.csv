@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Chevalier gambette"
-"0";"Chevêchette d'Europe"
-"0";"Chouette de Tengmalm"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Gélinotte des bois"
-"0";"Grand-duc d'Europe"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Lagopède alpin"
-"0";"Moineau cisalpin"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,1
+Bécasse des bois,2018,0,1
+Bruant ortolan,2014,0,1
+Busard cendré,2015,0,1
+Busard des roseaux,2017,0,1
+Chevalier gambette,2016,0,1
+Chevêchette d'Europe,2017,0,2
+Chouette de Tengmalm,2015,0,3
+Faucon hobereau,2015,0,1
+Faucon kobez,2015,0,2
+Gélinotte des bois,2015,0,2
+Grand-duc d'Europe,2014,0,1
+Héron cendré,2013,0,1
+Hibou moyen-duc,2015,0,2
+Lagopède alpin,2017,0,6
+Moineau cisalpin,2013,0,2
+Pouillot de Bonelli,2015,0,1
+Rousserolle verderolle,2015,0,1
+Sarcelle d'hiver,2014,0,2

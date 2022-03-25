@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier sylvain"
-"0";"Chouette hulotte"
-"0";"Corbeau freux"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Oedicnème criard"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bergeronnette des ruisseaux,2017,0,2
+Bergeronnette printanière,2011,0,2
+Bruant jaune,2011,0,15
+Bruant ortolan,2011,0,5
+Busard des roseaux,2011,0,1
+Busard Saint-Martin,2011,0,5
+Chevalier sylvain,2015,0,1
+Chouette hulotte,2018,0,11
+Corbeau freux,2011,0,2
+Goéland leucophée,2007,0,1
+Grand-duc d'Europe,2017,0,1
+Grive litorne,2011,0,3
+Grive mauvis,2017,0,2
+Oedicnème criard,2009,0,1
+Petit-duc scops,2015,0,3
+Pic épeichette,2018,0,1
+Pigeon colombin,2011,0,2
+Roitelet huppé,2011,0,1
+Tarier des prés,2011,0,1

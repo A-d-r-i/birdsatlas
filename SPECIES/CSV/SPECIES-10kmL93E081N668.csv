@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bernache du Canada"
-"0";"Buse pattue"
-"0";"Canard mandarin"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cygne de Bewick"
-"0";"Échasse blanche"
-"0";"Guifette leucoptère"
-"0";"Harle huppé"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Mouette mélanocéphale"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Panure à moustaches"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne arctique"
-"0";"Sterne caspienne"
-"0";"Sterne naine"
-"0";"Tadorne casarca"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,3
+Avocette élégante,2017,0,5
+Barge rousse,2013,0,9
+Bécasseau de Temminck,2015,0,3
+Bécasseau maubèche,2014,0,18
+Bernache du Canada,2014,0,12
+Buse pattue,2011,0,1
+Canard mandarin,2007,0,1
+Cincle plongeur,2014,0,3
+Circaète Jean-le-Blanc,2016,0,8
+Cygne de Bewick,2013,0,13
+Échasse blanche,2018,0,13
+Guifette leucoptère,2016,0,1
+Harle huppé,2016,0,37
+Héron pourpré,2018,0,3
+Locustelle tachetée,2014,0,1
+Mésange noire,2019,0,2
+Mouette mélanocéphale,2018,0,4
+Oedicnème criard,2011,0,1
+Oie cendrée,2018,0,7
+Ouette d'Egypte,2017,0,6
+Panure à moustaches,2018,0,11
+Perdrix grise,2012,0,1
+Perdrix rouge,2012,0,1
+Phragmite des joncs,2015,0,3
+Pic cendré,2009,0,4
+Pie-grièche à tête rousse,2011,0,3
+Pie-grièche grise,2014,0,6
+Pipit rousseline,2015,0,1
+Plongeon arctique,2011,0,2
+Plongeon imbrin,2012,0,18
+Pouillot à grands sourcils,2015,0,2
+Pouillot siffleur,2018,0,3
+Râle d'eau,2014,0,2
+Roitelet à triple bandeau,2018,0,11
+Sizerin cabaret,2013,0,2
+Sizerin flammé,2013,0,2
+Spatule blanche,2018,0,7
+Sterne arctique,2007,0,4
+Sterne caspienne,2018,0,6
+Sterne naine,2015,0,4
+Tadorne casarca,2018,0,4
+Tournepierre à collier,2015,0,7

@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant mélanocéphale"
-"0";"Busard Saint-Martin"
-"0";"Canard souchet"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Fauvette orphée"
-"0";"Gorgebleue à miroir"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette mélanocéphale"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Râle d'eau"
-"0";"Tétras lyre"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
-"0";"Vautour de Rüppell"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2014,0,2
+Bihoreau gris,2014,0,2
+Bruant des roseaux,2014,0,1
+Bruant mélanocéphale,2014,0,1
+Busard Saint-Martin,2011,0,6
+Canard souchet,2015,0,1
+Corbeau freux,2018,0,1
+Effraie des clochers,2012,0,1
+Fauvette orphée,2018,0,1
+Gorgebleue à miroir,2012,0,1
+Hirondelle de rivage,2017,0,1
+Locustelle tachetée,2018,0,3
+Merle à plastron,2013,0,1
+Mouette mélanocéphale,2012,0,1
+Pie-grièche à tête rousse,2011,0,3
+Pipit rousseline,2017,0,1
+Râle d'eau,2018,0,1
+Tétras lyre,2013,0,4
+Tourterelle des bois,2018,0,9
+Vanneau huppé,2016,0,2
+Vautour de Rüppell,2011,0,3

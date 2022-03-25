@@ -1,57 +1,54 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Busard cendré"
-"0";"Buse pattue"
-"0";"Caille des blés"
-"0";"Chardonneret élégant"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Combattant varié"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche à collier"
-"0";"Gobemouche gris"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange à longue queue"
-"0";"Mésange boréale"
-"0";"Mésange nonnette"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Roitelet à triple bandeau"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,4
+Autour des palombes,2015,0,2
+Bécasseau variable,2016,0,1
+Bergeronnette des ruisseaux,2013,0,3
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2014,0,2
+Bruant zizi,2013,0,6
+Busard cendré,2016,0,11
+Buse pattue,2009,0,1
+Caille des blés,2012,0,5
+Chardonneret élégant,2018,0,14
+Chevalier aboyeur,2015,0,1
+Chevalier gambette,2017,0,1
+Chevalier guignette,2016,0,2
+Choucas des tours,2014,0,7
+Cigogne blanche,2014,0,1
+Combattant varié,2016,0,1
+Cygne tuberculé,2015,0,5
+Effraie des clochers,2018,0,14
+Faisan de Colchide,2017,0,3
+Faucon hobereau,2009,0,2
+Fauvette des jardins,2010,0,2
+Gobemouche à collier,2012,0,2
+Gobemouche gris,2016,0,4
+Grèbe huppé,2015,0,1
+Hibou moyen-duc,2017,0,3
+Huppe fasciée,2018,0,3
+Hypolaïs polyglotte,2009,0,1
+Locustelle tachetée,2010,0,2
+Martin-pêcheur d'Europe,2009,0,1
+Merle à plastron,2013,0,1
+Mésange à longue queue,2012,0,5
+Mésange boréale,2017,0,5
+Mésange nonnette,2018,0,9
+Mouette rieuse,2018,0,1
+Oedicnème criard,2012,0,2
+Ouette d'Egypte,2015,0,1
+Petit Gravelot,2017,0,7
+Pie-grièche grise,2018,0,2
+Pigeon biset (origine naturelle),2009,0,1
+Râle d'eau,2015,0,1
+Râle des genêts,2009,0,1
+Rémiz penduline,2014,0,1
+Roitelet à triple bandeau,2017,0,4
+Rousserolle verderolle,2009,0,1
+Sarcelle d'été,2015,0,1
+Serin cini,2012,0,6
+Tarier des prés,2013,0,1
+Tarier pâtre,2013,0,6
+Tarin des aulnes,2013,0,3
+Torcol fourmilier,2017,0,5
+Tourterelle des bois,2017,0,8
+Verdier d'Europe,2013,0,10

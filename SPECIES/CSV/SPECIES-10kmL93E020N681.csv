@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Busard Saint-Martin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Goéland à ailes blanches"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Milan royal"
-"0";"Perdrix grise"
-"0";"Pluvier doré"
-"0";"Sarcelle d'hiver"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,6
+Busard Saint-Martin,2018,0,2
+Canard chipeau,2016,0,1
+Canard siffleur,2015,0,1
+Chevalier guignette,2017,0,1
+Corbeau freux,2011,0,1
+Coucou gris,2014,0,1
+Faisan vénéré,2014,0,1
+Faucon émerillon,2011,0,1
+Faucon hobereau,2013,0,2
+Goéland à ailes blanches,2018,0,1
+Grèbe castagneux,2017,0,3
+Hibou moyen-duc,2016,0,5
+Milan royal,2018,0,1
+Perdrix grise,2017,0,1
+Pluvier doré,2018,0,3
+Sarcelle d'hiver,2016,0,2
+Tourterelle des bois,2009,0,2

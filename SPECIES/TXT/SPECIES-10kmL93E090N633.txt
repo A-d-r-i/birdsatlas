@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Coucou geai
-0        Effraie des clochers
-0        Élanion blanc
-0        Faisan de Colchide
-0        Faucon crécerellette
-0        Faucon émerillon
-0        Faucon kobez
-0        Faucon pèlerin
-0        Fauvette à lunettes
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive musicienne
-0        Jaseur boréal
-0        Moineau soulcie
-0        Outarde canepetière
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pigeon colombin
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2015    0        6
+Bruant des roseaux        2017    0        3
+Busard des roseaux        2018    0        3
+Cisticole des joncs       2017    0        2
+Corneille mantelée        2017    0        4
+Coucou geai               2009    0        3
+Effraie des clochers      2015    0        1
+Élanion blanc             2013    0        1
+Faisan de Colchide        2012    0        8
+Faucon crécerellette      2011    0        1
+Faucon émerillon          2015    0        1
+Faucon kobez              2016    0        2
+Faucon pèlerin            2016    0        2
+Fauvette à lunettes       2009    0        1
+Fauvette des jardins      2014    0        7
+Fauvette orphée           2016    0        34
+Grèbe castagneux          2018    0        5
+Grive litorne             2017    0        21
+Grive musicienne          2016    0        15
+Jaseur boréal             2009    0        1
+Moineau soulcie           2015    0        18
+Outarde canepetière       2009    0        1
+Petit Gravelot            2016    0        3
+Pie-grièche à tête rousse 2017    0        7
+Pigeon colombin           2014    0        3
+Pouillot fitis            2017    0        1
+Pouillot siffleur         2017    0        1
+Roitelet huppé            2016    0        4
+Tarin des aulnes          2016    0        3
+Torcol fourmilier         2017    0        24
+Vanneau huppé             2015    0        1
 

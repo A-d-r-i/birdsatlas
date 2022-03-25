@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bernache cravant"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Canard souchet"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Faisan vénéré"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Goéland leucophée"
-"0";"Guêpier d'Europe"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Oie cendrée"
-"0";"Panure à moustaches"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit rousseline"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2011,0,5
+Bécassine des marais,2017,0,40
+Bécassine sourde,2011,0,6
+Bec-croisé des sapins,2013,0,2
+Bernache cravant,2010,0,2
+Busard des roseaux,2018,0,7
+Busard Saint-Martin,2010,0,3
+Butor étoilé,2010,0,6
+Canard souchet,2014,0,2
+Cigogne noire,2014,0,2
+Courlis cendré,2009,0,2
+Faisan vénéré,2015,0,1
+Fauvette des jardins,2013,0,4
+Foulque macroule,2017,0,1
+Goéland leucophée,2017,0,3
+Guêpier d'Europe,2009,0,2
+Locustelle tachetée,2011,0,8
+Marouette ponctuée,2009,0,4
+Milan royal,2018,0,2
+Moineau friquet,2019,0,5
+Mouette pygmée,2009,0,2
+Oie cendrée,2018,0,4
+Panure à moustaches,2010,0,1
+Pie-grièche à tête rousse,2011,0,5
+Pigeon colombin,2011,0,3
+Pipit rousseline,2018,0,4
+Râle d'eau,2018,0,41
+Rémiz penduline,2017,0,4
+Rousserolle effarvatte,2017,0,18
+Torcol fourmilier,2018,0,20
+Vanneau huppé,2015,0,9

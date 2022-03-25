@@ -1,52 +1,50 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette haussecol"
-"0";"Bécasseau de Bonaparte"
-"0";"Bécasseau tacheté"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Calopsitte élégante"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Crabier chevelu"
-"0";"Dendrocygne veuf"
-"0";"Eider à duvet"
-"0";"Etourneau roselin"
-"0";"Étourneau unicolore"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland à ailes blanches"
-"0";"Goéland pontique"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Harle bièvre"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Marouette ponctuée"
-"0";"Mergule nain"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Panure à moustaches"
-"0";"Perruche ondulée"
-"0";"Phalarope à bec étroit"
-"0";"Pie-grièche grise"
-"0";"Pluvier guignard"
-"0";"Pouillot brun"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle à ailes vertes"
-"0";"Sterne de Dougall"
-"0";"Tichodrome échelette"
-"0";"Tourterelle rieuse"
+frname,lastobs,newcount,oldcount
+Alouette haussecol,2008,0,1
+Bécasseau de Bonaparte,2017,0,7
+Bécasseau tacheté,2018,0,28
+Bergeronnette flavéole (M.f.flavissima),2017,0,1
+Bernache nonnette,2018,0,34
+Bruant ortolan,2010,0,1
+Bruant proyer,2011,0,4
+Calopsitte élégante,2018,0,10
+Chevêche d'Athéna,2015,0,2
+Cigogne noire,2017,0,11
+Crabier chevelu,2017,0,1
+Dendrocygne veuf,2015,0,1
+Eider à duvet,2018,0,66
+Etourneau roselin,2009,0,2
+Étourneau unicolore,2014,0,1
+Faisan vénéré,2014,0,1
+Fauvette babillarde,2015,0,1
+Fuligule milouinan,2018,0,12
+Fuligule nyroca,2014,0,4
+Garrot à oeil d'or,2014,0,20
+Goéland à ailes blanches,2018,0,23
+Goéland pontique,2015,0,3
+Grèbe esclavon,2015,0,4
+Grèbe jougris,2016,0,2
+Harle bièvre,2012,0,13
+Jaseur boréal,2011,0,2
+Locustelle tachetée,2016,0,7
+Macareux moine,2015,0,42
+Marouette ponctuée,2013,0,16
+Mergule nain,2010,0,3
+Mésange nonnette,2015,0,2
+Moineau friquet,2018,0,4
+Nette rousse,2018,0,16
+Oedicnème criard,2015,0,6
+Oie rieuse,2010,0,2
+Ouette d'Egypte,2016,0,2
+Panure à moustaches,2018,0,5
+Perruche ondulée,2018,0,2
+Phalarope à bec étroit,2018,0,3
+Pie-grièche grise,2007,0,1
+Pluvier guignard,2014,0,3
+Pouillot brun,2017,0,1
+Pouillot siffleur,2017,0,1
+Rousserolle turdoïde,2017,0,2
+Rousserolle verderolle,2007,0,1
+Sarcelle à ailes vertes,2016,0,3
+Sterne de Dougall,2016,0,3
+Tichodrome échelette,2016,0,2
+Tourterelle rieuse,2013,0,1

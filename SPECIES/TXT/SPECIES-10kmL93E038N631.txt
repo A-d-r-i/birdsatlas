@@ -1,60 +1,60 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Aigle botté
-0        Alouette des champs
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bruant jaune
-0        Bruant zizi
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cisticole des joncs
-0        Coucou gris
-0        Effraie des clochers
-0        Épervier d'Europe
-0        Faisan de Colchide
-0        Faucon d'Eléonore
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gobemouche gris
-0        Grand Cormoran
-0        Grimpereau des jardins
-0        Grive mauvis
-0        Héron cendré
-0        Héron garde-boeufs
-0        Hirondelle de fenêtre
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange à longue queue
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Milan noir
-0        Moineau friquet
-0        Perruche à collier
-0        Pic épeichette
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Pouillot véloce
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Rossignol philomèle
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Troglodyte mignon
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2016    0        12
+Aigle botté                 2014    0        3
+Alouette des champs         2012    0        4
+Bécassine des marais        2011    0        1
+Bergeronnette des ruisseaux 2016    0        4
+Bondrée apivore             2017    0        13
+Bruant jaune                2009    0        1
+Bruant zizi                 2016    0        5
+Busard cendré               2017    0        13
+Busard Saint-Martin         2017    0        29
+Canard colvert              2015    0        9
+Chevalier culblanc          2012    0        1
+Chevêche d'Athéna           2009    0        1
+Chouette hulotte            2013    0        1
+Cisticole des joncs         2014    0        1
+Coucou gris                 2014    0        44
+Effraie des clochers        2013    0        7
+Épervier d'Europe           2017    0        6
+Faisan de Colchide          2017    0        18
+Faucon d'Eléonore           2017    0        2
+Faucon hobereau             2017    0        11
+Fauvette des jardins        2012    0        3
+Fauvette grisette           2013    0        5
+Gobemouche gris             2018    0        4
+Grand Cormoran              2009    0        2
+Grimpereau des jardins      2016    0        20
+Grive mauvis                2012    0        2
+Héron cendré                2015    0        9
+Héron garde-boeufs          2011    0        4
+Hirondelle de fenêtre       2011    0        4
+Hypolaïs polyglotte         2016    0        19
+Loriot d'Europe             2011    0        2
+Martinet noir               2014    0        3
+Martin-pêcheur d'Europe     2015    0        6
+Mésange à longue queue      2015    0        11
+Mésange huppée              2016    0        17
+Mésange noire               2015    0        5
+Mésange nonnette            2016    0        4
+Milan noir                  2016    0        4
+Moineau friquet             2016    0        2
+Perruche à collier          2011    0        1
+Pic épeichette              2012    0        6
+Pinson du Nord              2008    0        1
+Pipit des arbres            2016    0        36
+Pouillot fitis              2013    0        1
+Pouillot siffleur           2013    0        1
+Pouillot véloce             2016    0        37
+Râle d'eau                  2012    0        2
+Roitelet à triple bandeau   2016    0        15
+Rossignol philomèle         2013    0        9
+Serin cini                  2011    0        2
+Tarier des prés             2011    0        1
+Tarin des aulnes            2015    0        4
+Torcol fourmilier           2012    0        4
+Troglodyte mignon           2016    0        51
+Vanneau huppé               2011    0        2
 

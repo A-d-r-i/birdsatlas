@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Coucou gris"
-"0";"Faucon hobereau"
-"0";"Goéland cendré"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Rousserolle effarvatte"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,1
+Bécasse des bois,2018,0,1
+Bécassine des marais,2012,0,2
+Bruant des roseaux,2018,0,1
+Coucou gris,2009,0,1
+Faucon hobereau,2017,0,2
+Goéland cendré,2019,0,1
+Hirondelle de rivage,2009,0,1
+Loriot d'Europe,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Rousserolle effarvatte,2014,0,2
+Tarier pâtre,2009,0,1
+Tarin des aulnes,2016,0,1
+Tourterelle des bois,2009,0,1
+Traquet motteux,2018,0,1
+Vanneau huppé,2009,0,1

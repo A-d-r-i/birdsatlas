@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bruant des roseaux"
-"0";"Canard pilet"
-"0";"Combattant varié"
-"0";"Faucon émerillon"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche noir"
-"0";"Grand Gravelot"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette moustac"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Pie-grièche grise"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,2
+Autour des palombes,2012,0,2
+Bruant des roseaux,2018,0,8
+Canard pilet,2015,0,1
+Combattant varié,2016,0,1
+Faucon émerillon,2017,0,2
+Garrot à oeil d'or,2011,0,1
+Gobemouche noir,2017,0,2
+Grand Gravelot,2018,0,2
+Grosbec casse-noyaux,2016,0,2
+Guifette moustac,2007,0,1
+Oie cendrée,2017,0,1
+Ouette d'Egypte,2018,0,1
+Perdrix grise,2012,0,3
+Pie-grièche grise,2018,0,1
+Pouillot fitis,2015,0,4
+Râle d'eau,2016,0,2
+Roitelet huppé,2016,0,4
+Rougequeue à front blanc,2013,0,3
+Sarcelle d'été,2018,0,4

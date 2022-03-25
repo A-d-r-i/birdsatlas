@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bergeronnette printanière"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland cendré"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Jaseur boréal"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,1
+Aigrette garzette,2011,0,2
+Bergeronnette printanière,2017,0,5
+Caille des blés,2012,0,2
+Chevêche d'Athéna,2017,0,4
+Engoulevent d'Europe,2009,0,2
+Fauvette grisette,2018,0,14
+Gallinule poule-d'eau,2015,0,6
+Goéland cendré,2014,0,1
+Grèbe huppé,2018,0,1
+Hibou moyen-duc,2018,0,13
+Hypolaïs polyglotte,2018,0,5
+Jaseur boréal,2011,0,2
+Merle à plastron,2015,0,1
+Mésange boréale,2018,0,8
+Mouette tridactyle,2011,0,1
+Oie cendrée,2017,0,1
+Perdrix grise,2014,0,1
+Pipit farlouse,2017,0,1
+Pouillot fitis,2018,0,8
+Pouillot siffleur,2018,0,5
+Râle d'eau,2015,0,2
+Rossignol philomèle,2018,0,11
+Rousserolle effarvatte,2018,0,2
+Tadorne de Belon,2009,0,1
+Tarier des prés,2017,0,3
+Vanneau huppé,2016,0,1

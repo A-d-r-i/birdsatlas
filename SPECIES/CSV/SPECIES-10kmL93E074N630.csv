@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Moineau soulcie"
-"0";"Pigeon biset domestique"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tichodrome échelette"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,1
+Bouvreuil pivoine,2013,0,1
+Bruant des roseaux,2017,0,8
+Bruant jaune,2016,0,3
+Caille des blés,2017,0,7
+Chevalier aboyeur,2012,0,1
+Chevalier culblanc,2011,0,1
+Chevêche d'Athéna,2017,0,13
+Cigogne blanche,2018,0,1
+Cigogne noire,2015,0,1
+Corbeau freux,2011,0,1
+Effraie des clochers,2009,0,1
+Faisan de Colchide,2016,0,4
+Faucon émerillon,2016,0,6
+Fauvette des jardins,2015,0,9
+Gallinule poule-d'eau,2015,0,3
+Héron pourpré,2012,0,1
+Hibou moyen-duc,2016,0,5
+Moineau soulcie,2017,0,2
+Pigeon biset domestique,2017,0,2
+Pouillot siffleur,2016,0,2
+Rousserolle effarvatte,2018,0,1
+Sarcelle d'hiver,2012,0,2
+Tichodrome échelette,2017,0,12
+Vanneau huppé,2017,0,1

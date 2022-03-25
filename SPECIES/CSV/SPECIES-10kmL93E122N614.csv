@@ -1,11 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Canard colvert"
-"0";"Fauvette passerinette"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Mésange noire"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Canard colvert,2009,0,1
+Fauvette passerinette,2009,0,1
+Foulque macroule,2009,0,1
+Grèbe castagneux,2009,0,1
+Grèbe huppé,2009,0,1
+Verdier d'Europe,2009,0,1

@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2011,0,1
+Bec-croisé des sapins,2010,0,1
+Bihoreau gris,2017,0,3
+Bondrée apivore,2018,0,3
+Bouvreuil pivoine,2012,0,1
+Chevalier culblanc,2014,0,4
+Chouette hulotte,2016,0,8
+Cigogne blanche,2016,0,2
+Circaète Jean-le-Blanc,2016,0,5
+Cisticole des joncs,2007,0,1
+Cochevis huppé,2009,0,1
+Courlis cendré,2014,0,3
+Effraie des clochers,2018,0,15
+Faucon hobereau,2014,0,9
+Faucon pèlerin,2016,0,4
+Fauvette des jardins,2011,0,4
+Foulque macroule,2015,0,2
+Grèbe castagneux,2015,0,5
+Grèbe huppé,2009,0,2
+Hibou moyen-duc,2013,0,4
+Hirondelle de rivage,2013,0,1
+Locustelle tachetée,2009,0,2
+Mésange noire,2018,0,1
+Mésange nonnette,2011,0,7
+Milan royal,2016,0,2
+Mouette rieuse,2017,0,3
+Perdrix grise,2011,0,3
+Perdrix rouge,2009,0,1
+Petit-duc scops,2018,0,1
+Pigeon colombin,2011,0,4
+Pinson du Nord,2008,0,1
+Pipit rousseline,2010,0,1
+Pluvier doré,2017,0,9
+Pouillot à grands sourcils,2018,0,1
+Pouillot de Bonelli,2009,0,2
+Pouillot fitis,2007,0,1
+Pouillot siffleur,2009,0,2
+Roitelet huppé,2008,0,1
+Rougequeue à front blanc,2017,0,4
+Rousserolle effarvatte,2009,0,2
+Tarin des aulnes,2019,0,5
+Traquet motteux,2010,0,1

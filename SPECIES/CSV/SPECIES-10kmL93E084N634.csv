@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bouvreuil pivoine"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Calopsitte élégante"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Coucou geai"
-"0";"Effraie des clochers"
-"0";"Élanion blanc"
-"0";"Etourneau roselin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Perruche à collier"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot à grands sourcils"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Sittelle torchepot"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,2
+Autour des palombes,2012,0,1
+Bouvreuil pivoine,2010,0,2
+Bruant ortolan,2013,0,1
+Busard cendré,2018,0,3
+Calopsitte élégante,2015,0,1
+Chevalier sylvain,2015,0,6
+Combattant varié,2010,0,1
+Coucou geai,2010,0,2
+Effraie des clochers,2018,0,8
+Élanion blanc,2014,0,1
+Etourneau roselin,2017,0,1
+Fauvette des jardins,2017,0,7
+Fauvette grisette,2015,0,8
+Goéland brun,2016,0,1
+Gorgebleue à miroir,2018,0,1
+Guifette noire,2012,0,1
+Hibou moyen-duc,2017,0,4
+Hirondelle rousseline,2016,0,1
+Perruche à collier,2013,0,1
+Pie-grièche à tête rousse,2016,0,1
+Pigeon colombin,2016,0,1
+Pluvier doré,2016,0,1
+Pouillot à grands sourcils,2016,0,1
+Rémiz penduline,2016,0,3
+Rousserolle turdoïde,2015,0,4
+Sarcelle d'hiver,2015,0,1
+Sittelle torchepot,2014,0,3
+Tichodrome échelette,2018,0,1

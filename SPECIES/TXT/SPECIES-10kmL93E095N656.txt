@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bihoreau gris
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Buse pattue
-0        Butor étoilé
-0        Caille des blés
-0        Canard siffleur
-0        Cassenoix moucheté
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier sylvain
-0        Circaète Jean-le-Blanc
-0        Combattant varié
-0        Crabier chevelu
-0        Faisan vénéré
-0        Faucon kobez
-0        Fuligule nyroca
-0        Goéland brun
-0        Goéland cendré
-0        Grand-duc d'Europe
-0        Guifette moustac
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Oie cendrée
-0        Phragmite des joncs
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pouillot de Bonelli
-0        Tadorne casarca
-0        Tichodrome échelette
-0        Tourterelle des bois
-0        Venturon montagnard
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau variable     2009    0        1
+Bihoreau gris          2015    0        36
+Bruant ortolan         2011    0        3
+Bruant proyer          2018    0        5
+Busard Saint-Martin    2013    0        6
+Buse pattue            2011    0        45
+Butor étoilé           2010    0        16
+Caille des blés        2011    0        1
+Canard siffleur        2016    0        49
+Cassenoix moucheté     2013    0        8
+Chevalier aboyeur      2011    0        2
+Chevalier arlequin     2013    0        2
+Chevalier sylvain      2013    0        3
+Circaète Jean-le-Blanc 2013    0        2
+Combattant varié       2018    0        1
+Crabier chevelu        2015    0        10
+Faisan vénéré          2015    0        1
+Faucon kobez           2017    0        2
+Fuligule nyroca        2010    0        1
+Goéland brun           2018    0        7
+Goéland cendré         2012    0        1
+Grand-duc d'Europe     2018    0        3
+Guifette moustac       2008    0        2
+Jaseur boréal          2009    0        3
+Locustelle tachetée    2016    0        8
+Oie cendrée            2017    0        5
+Phragmite des joncs    2015    0        2
+Pie-grièche grise      2010    0        8
+Pipit des arbres       2018    0        14
+Pipit rousseline       2014    0        1
+Pouillot de Bonelli    2018    0        8
+Tadorne casarca        2009    0        1
+Tichodrome échelette   2015    0        6
+Tourterelle des bois   2010    0        5
+Venturon montagnard    2010    0        2
 

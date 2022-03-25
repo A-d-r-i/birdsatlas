@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Élanion blanc"
-"0";"Faisan vénéré"
-"0";"Faucon kobez"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Grèbe castagneux"
-"0";"Hibou des marais"
-"0";"Mouette mélanocéphale"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigle criard,2018,0,1
+Cigogne noire,2017,0,2
+Effraie des clochers,2018,0,8
+Élanion blanc,2015,0,2
+Faisan vénéré,2018,0,1
+Faucon kobez,2017,0,2
+Fauvette grisette,2018,0,3
+Fauvette pitchou,2015,0,2
+Grèbe castagneux,2018,0,7
+Hibou des marais,2012,0,1
+Mouette mélanocéphale,2017,0,1
+Pluvier doré,2017,0,2
+Pouillot siffleur,2018,0,1
+Rousserolle effarvatte,2018,0,3

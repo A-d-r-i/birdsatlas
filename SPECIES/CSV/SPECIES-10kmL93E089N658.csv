@@ -1,42 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Busard pâle"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gallinule poule-d'eau"
-"0";"Gélinotte des bois"
-"0";"Gobemouche gris"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pipit farlouse"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,8
+Bécassine des marais,2014,0,2
+Bruant proyer,2008,0,2
+Busard cendré,2017,0,1
+Busard pâle,2017,0,1
+Butor étoilé,2015,0,1
+Caille des blés,2007,0,1
+Canard chipeau,2016,0,2
+Chevalier guignette,2011,0,3
+Chevêche d'Athéna,2017,0,29
+Choucas des tours,2016,0,1
+Cigogne blanche,2016,0,1
+Courlis cendré,2008,0,1
+Faucon émerillon,2010,0,2
+Faucon kobez,2017,0,2
+Fauvette des jardins,2018,0,1
+Fuligule milouin,2010,0,1
+Fuligule morillon,2012,0,3
+Gallinule poule-d'eau,2011,0,3
+Gélinotte des bois,2011,0,1
+Gobemouche gris,2017,0,5
+Hibou moyen-duc,2012,0,7
+Hirondelle de rivage,2017,0,15
+Hypolaïs polyglotte,2009,0,2
+Loriot d'Europe,2018,0,1
+Martinet à ventre blanc,2018,0,3
+Merle à plastron,2015,0,2
+Moineau friquet,2014,0,4
+Mouette rieuse,2009,0,2
+Oie cendrée,2012,0,1
+Petit-duc scops,2009,0,2
+Pie-grièche grise,2012,0,4
+Pigeon biset domestique,2017,0,1
+Pipit farlouse,2017,0,3
+Râle d'eau,2014,0,1
+Rémiz penduline,2015,0,1
+Sarcelle d'hiver,2011,0,2
+Vanneau huppé,2017,0,2

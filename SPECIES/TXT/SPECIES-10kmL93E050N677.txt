@@ -1,38 +1,38 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Blongios nain
-0        Bondrée apivore
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier aboyeur
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Corbeau freux
-0        Courlis cendré
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Fauvette pitchou
-0        Gobemouche noir
-0        Grive litorne
-0        Hirondelle de fenêtre
-0        Hirondelle de rivage
-0        Ibis falcinelle
-0        Oie cendrée
-0        Perdrix grise
-0        Petit Gravelot
-0        Pic mar
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Sarcelle d'hiver
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2016    0        15
+Autour des palombes       2015    0        2
+Bécasse des bois          2017    0        5
+Bécassine des marais      2018    0        4
+Bergeronnette printanière 2008    0        1
+Blongios nain             2013    0        3
+Bondrée apivore           2015    0        9
+Bruant proyer             2017    0        1
+Busard Saint-Martin       2015    0        2
+Caille des blés           2010    0        2
+Chevalier aboyeur         2018    0        2
+Chevêche d'Athéna         2018    0        10
+Cigogne blanche           2016    0        1
+Corbeau freux             2018    0        12
+Courlis cendré            2014    0        4
+Cygne noir                2014    0        2
+Engoulevent d'Europe      2015    0        6
+Fauvette pitchou          2015    0        2
+Gobemouche noir           2015    0        2
+Grive litorne             2018    0        5
+Hirondelle de fenêtre     2016    0        8
+Hirondelle de rivage      2015    0        5
+Ibis falcinelle           2014    0        10
+Oie cendrée               2015    0        1
+Perdrix grise             2012    0        2
+Petit Gravelot            2017    0        8
+Pic mar                   2018    0        5
+Pie-grièche écorcheur     2017    0        2
+Pigeon colombin           2014    0        1
+Pipit spioncelle          2014    0        4
+Pouillot siffleur         2018    0        25
+Sarcelle d'hiver          2017    0        9
+Torcol fourmilier         2014    0        2
+Traquet motteux           2014    0        3
 

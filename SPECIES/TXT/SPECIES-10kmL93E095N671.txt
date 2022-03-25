@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant proyer
-0        Bruant zizi
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard souchet
-0        Chevalier arlequin
-0        Chevalier guignette
-0        Choucas des tours
-0        Cigogne noire
-0        Faisan de Colchide
-0        Fauvette des jardins
-0        Fuligule milouin
-0        Gobemouche gris
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Mésange huppée
-0        Oie cendrée
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pluvier doré
-0        Rémiz penduline
-0        Roitelet huppé
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tichodrome échelette
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2012    0        2
+Autour des palombes       2018    0        3
+Bécasse des bois          2011    0        1
+Bergeronnette printanière 2016    0        3
+Bihoreau gris             2011    0        3
+Bondrée apivore           2017    0        11
+Bruant proyer             2015    0        2
+Bruant zizi               2015    0        9
+Busard des roseaux        2018    0        3
+Busard Saint-Martin       2012    0        7
+Caille des blés           2010    0        3
+Canard souchet            2011    0        2
+Chevalier arlequin        2011    0        1
+Chevalier guignette       2015    0        1
+Choucas des tours         2017    0        15
+Cigogne noire             2011    0        1
+Faisan de Colchide        2017    0        21
+Fauvette des jardins      2017    0        25
+Fuligule milouin          2015    0        7
+Gobemouche gris           2018    0        6
+Grèbe castagneux          2017    0        16
+Grimpereau des bois       2015    0        10
+Hirondelle de rivage      2013    0        4
+Locustelle tachetée       2017    0        12
+Mésange huppée            2018    0        13
+Oie cendrée               2016    0        1
+Petit Gravelot            2010    0        4
+Pie-grièche à tête rousse 2015    0        2
+Pigeon colombin           2018    0        1
+Pipit des arbres          2010    0        2
+Pluvier doré              2011    0        2
+Rémiz penduline           2010    0        1
+Roitelet huppé            2016    0        8
+Rousserolle verderolle    2010    0        2
+Sarcelle d'été            2015    0        2
+Sarcelle d'hiver          2013    0        3
+Tadorne casarca           2015    0        1
+Tadorne de Belon          2010    0        2
+Tarier des prés           2015    0        4
+Tichodrome échelette      2015    0        1
+Traquet motteux           2014    0        1
+Vanneau huppé             2014    0        7
 

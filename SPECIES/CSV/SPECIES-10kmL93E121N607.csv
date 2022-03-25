@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Chocard à bec jaune"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette de Moltoni"
-"0";"Fauvette grisette"
-"0";"Fauvette passerinette"
-"0";"Fauvette sarde"
-"0";"Grive draine"
-"0";"Mésange noire"
-"0";"Pouillot siffleur"
-"0";"Pouillot véloce"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sittelle corse"
-"0";"Tourterelle des bois"
-"0";"Troglodyte mignon"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Aigle royal,2009,0,1
+Autour des palombes,2009,0,1
+Bec-croisé des sapins,2009,0,1
+Bondrée apivore,2018,0,1
+Chocard à bec jaune,2009,0,1
+Engoulevent d'Europe,2018,0,2
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette de Moltoni,2018,0,1
+Fauvette grisette,2018,0,1
+Fauvette passerinette,2009,0,1
+Fauvette sarde,2009,0,1
+Grive draine,2009,0,1
+Mésange noire,2009,0,1
+Pouillot siffleur,2018,0,1
+Pouillot véloce,2009,0,1
+Roitelet à triple bandeau,2018,0,3
+Roitelet huppé,2009,0,1
+Sittelle corse,2009,0,1
+Tourterelle des bois,2018,0,1
+Troglodyte mignon,2009,0,1
+Venturon corse,2009,0,1

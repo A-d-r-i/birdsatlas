@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Buse pattue
-0        Canard chipeau
-0        Canard siffleur
-0        Chevalier gambette
-0        Guifette moustac
-0        Guifette noire
-0        Locustelle tachetée
-0        Mésange noire
-0        Petit Gravelot
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Sizerin cabaret
-0        Sizerin flammé
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Buse pattue         2011    0        1
+Canard chipeau      2019    0        8
+Canard siffleur     2019    0        1
+Chevalier gambette  2018    0        3
+Guifette moustac    2018    0        1
+Guifette noire      2018    0        1
+Locustelle tachetée 2008    0        1
+Mésange noire       2018    0        5
+Petit Gravelot      2018    0        22
+Pipit spioncelle    2019    0        6
+Pouillot de Bonelli 2017    0        4
+Sizerin cabaret     2009    0        1
+Sizerin flammé      2011    0        2
 

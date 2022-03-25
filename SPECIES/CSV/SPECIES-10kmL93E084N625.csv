@@ -1,51 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette calandre"
-"0";"Alouette calandrelle"
-"0";"Alouette haussecol"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasseau minuscule"
-"0";"Bécasseau rousset"
-"0";"Bécasseau tacheté"
-"0";"Bécassine sourde"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant lapon"
-"0";"Bruant zizi"
-"0";"Chevalier bargette"
-"0";"Chevalier stagnatile"
-"0";"Corneille mantelée"
-"0";"Engoulevent à collier roux"
-"0";"Étourneau unicolore"
-"0";"Faucon crécerellette"
-"0";"Fuligule nyroca"
-"0";"Goéland pontique"
-"0";"Grèbe jougris"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Harelde boréale"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Marouette poussin"
-"0";"Mouette tridactyle"
-"0";"Oie rieuse"
-"0";"Perruche à collier"
-"0";"Pigeon colombin"
-"0";"Pingouin torda"
-"0";"Plongeon catmarin"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin cendré"
-"0";"Puffin des Baléares"
-"0";"Sterne de Dougall"
-"0";"Sterne voyageuse"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2013,0,1
+Alouette calandre,2017,0,2
+Alouette calandrelle,2018,0,10
+Alouette haussecol,2018,0,1
+Alouette lulu,2018,0,4
+Autour des palombes,2017,0,1
+Bécasseau minuscule,2016,0,52
+Bécasseau rousset,2017,0,6
+Bécasseau tacheté,2017,0,12
+Bécassine sourde,2018,0,1
+Bernache cravant,2012,0,1
+Bernache nonnette,2016,0,6
+Blongios nain,2009,0,1
+Bruant fou,2007,0,2
+Bruant jaune,2008,0,3
+Bruant lapon,2010,0,12
+Bruant zizi,2013,0,4
+Chevalier bargette,2018,0,8
+Chevalier stagnatile,2018,0,13
+Corneille mantelée,2015,0,2
+Engoulevent à collier roux,2008,0,1
+Étourneau unicolore,2009,0,1
+Faucon crécerellette,2016,0,3
+Fuligule nyroca,2010,0,1
+Goéland pontique,2016,0,5
+Grèbe jougris,2010,0,1
+Grive litorne,2010,0,1
+Grive mauvis,2010,0,3
+Grosbec casse-noyaux,2018,0,11
+Harelde boréale,2014,0,4
+Harle bièvre,2017,0,21
+Hibou moyen-duc,2014,0,4
+Locustelle luscinioïde,2017,0,4
+Macareux moine,2010,0,1
+Marouette poussin,2008,0,1
+Mouette tridactyle,2016,0,9
+Oie rieuse,2011,0,2
+Perruche à collier,2011,0,3
+Pigeon colombin,2016,0,1
+Pingouin torda,2018,0,38
+Plongeon catmarin,2018,0,25
+Plongeon imbrin,2018,0,5
+Pouillot à grands sourcils,2016,0,9
+Puffin cendré,2014,0,1
+Puffin des Baléares,2007,0,1
+Sterne de Dougall,2009,0,1
+Sterne voyageuse,2018,0,26
+Vautour moine,2011,0,2

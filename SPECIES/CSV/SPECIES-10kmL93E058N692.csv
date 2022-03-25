@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2017,0,2
+Bruant des roseaux,2018,0,3
+Chevêche d'Athéna,2009,0,1
+Cochevis huppé,2018,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange boréale,2009,0,1
+Râle d'eau,2009,0,1
+Sarcelle d'hiver,2009,0,1

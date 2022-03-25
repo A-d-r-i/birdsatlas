@@ -1,6 +1,6 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Pic noir
-0        Râle d'eau
+frname     lastobs newcount oldcount
+------     ------- -------- --------
+Pic noir   2009    0        1
+Râle d'eau 2009    0        1
 

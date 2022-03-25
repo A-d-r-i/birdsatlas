@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Faisan de Colchide"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Niverolle alpine"
-"0";"Petit-duc scops"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Tourterelle des bois"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Busard cendré,2009,0,1
+Caille des blés,2017,0,3
+Canard colvert,2009,0,1
+Choucas des tours,2009,0,1
+Faisan de Colchide,2010,0,1
+Gobemouche gris,2009,0,1
+Grand Cormoran,2017,0,3
+Huppe fasciée,2009,0,1
+Linotte mélodieuse,2015,0,5
+Niverolle alpine,2013,0,1
+Petit-duc scops,2013,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2016,0,1
+Tourterelle des bois,2009,0,2
+Vautour moine,2017,0,1

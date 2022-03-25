@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Fulmar boréal"
-"0";"Gobemouche gris"
-"0";"Goéland argenté"
-"0";"Rougequeue à front blanc"
+frname,lastobs,newcount,oldcount
+Fulmar boréal,2009,0,1
+Gobemouche gris,2016,0,3
+Goéland argenté,2009,0,1
+Rougequeue à front blanc,2016,0,1

@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Faucon hobereau"
-"0";"Gobemouche noir"
-"0";"Hirondelle de rivage"
-"0";"Martinet noir"
-"0";"Mésange boréale"
-"0";"Petit-duc scops"
-"0";"Pic cendré"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bondrée apivore,2009,0,1
+Faucon hobereau,2018,0,1
+Gobemouche noir,2009,0,1
+Hirondelle de rivage,2017,0,1
+Martinet noir,2009,0,1
+Mésange boréale,2009,0,1
+Petit-duc scops,2009,0,1
+Pic cendré,2009,0,1
+Pouillot siffleur,2009,0,1
+Rémiz penduline,2017,0,1
+Sarcelle d'été,2010,0,1
+Sterne pierregarin,2018,0,2

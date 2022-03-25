@@ -1,16 +1,16 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant jaune
-0        Caille des blés
-0        Corbeau freux
-0        Grive draine
-0        Mésange à longue queue
-0        Moineau friquet
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pinson du Nord
-0        Sittelle torchepot
-0        Tourterelle des bois
-0        Verdier d'Europe
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bruant jaune            2009    0        1
+Caille des blés         2009    0        1
+Corbeau freux           2009    0        1
+Grive draine            2019    0        1
+Mésange à longue queue  2018    0        1
+Moineau friquet         2019    0        1
+Pigeon biset domestique 2019    0        1
+Pigeon colombin         2009    0        1
+Pinson du Nord          2019    0        1
+Sittelle torchepot      2018    0        1
+Tourterelle des bois    2009    0        1
+Verdier d'Europe        2019    0        3
 

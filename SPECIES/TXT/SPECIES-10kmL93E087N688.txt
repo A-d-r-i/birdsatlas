@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bruant zizi
-0        Cincle plongeur
-0        Combattant varié
-0        Faucon émerillon
-0        Gobemouche gris
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Oie à tête barrée
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Pluvier doré
-0        Pluvier guignard
-0        Roitelet à triple bandeau
-0        Rousserolle turdoïde
-0        Tadorne casarca
-0        Tadorne de Belon
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2016    0        1
+Bruant zizi               2014    0        1
+Cincle plongeur           2009    0        1
+Combattant varié          2017    0        2
+Faucon émerillon          2012    0        1
+Gobemouche gris           2013    0        1
+Huppe fasciée             2015    0        3
+Locustelle tachetée       2015    0        1
+Marouette ponctuée        2015    0        1
+Oie à tête barrée         2017    0        1
+Pie-grièche grise         2017    0        8
+Pipit spioncelle          2017    0        1
+Pluvier doré              2016    0        4
+Pluvier guignard          2017    0        1
+Roitelet à triple bandeau 2018    0        7
+Rousserolle turdoïde      2009    0        2
+Tadorne casarca           2016    0        1
+Tadorne de Belon          2012    0        1
 

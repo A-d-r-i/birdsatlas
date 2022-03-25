@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Bruant des neiges
-0        Bruant ortolan
-0        Bruant proyer
-0        Chevalier stagnatile
-0        Chevêche d'Athéna
-0        Fulmar boréal
-0        Garrot à oeil d'or
-0        Goéland bourgmestre
-0        Goéland railleur
-0        Harle piette
-0        Labbe à longue queue
-0        Marouette poussin
-0        Milan royal
-0        Moineau friquet
-0        Mouette de Sabine
-0        Nette rousse
-0        Ouette d'Egypte
-0        Perruche ondulée
-0        Petit-duc scops
-0        Phragmite aquatique
-0        Pie-grièche à tête rousse
-0        Pipit de Richard
-0        Pluvier bronzé
-0        Rousserolle verderolle
-0        Sterne arctique
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bernache nonnette         2011    0        1
+Bruant des neiges         2013    0        2
+Bruant ortolan            2014    0        1
+Bruant proyer             2016    0        2
+Chevalier stagnatile      2015    0        6
+Chevêche d'Athéna         2014    0        1
+Fulmar boréal             2017    0        1
+Garrot à oeil d'or        2016    0        10
+Goéland bourgmestre       2014    0        22
+Goéland railleur          2016    0        1
+Harle piette              2012    0        2
+Labbe à longue queue      2015    0        1
+Marouette poussin         2014    0        7
+Milan royal               2018    0        6
+Moineau friquet           2014    0        1
+Mouette de Sabine         2014    0        2
+Nette rousse              2013    0        11
+Ouette d'Egypte           2017    0        1
+Perruche ondulée          2017    0        1
+Petit-duc scops           2018    0        6
+Phragmite aquatique       2018    0        3
+Pie-grièche à tête rousse 2013    0        3
+Pipit de Richard          2016    0        4
+Pluvier bronzé            2015    0        1
+Rousserolle verderolle    2017    0        1
+Sterne arctique           2018    0        6
 

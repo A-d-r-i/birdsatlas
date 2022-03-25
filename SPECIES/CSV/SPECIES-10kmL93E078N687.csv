@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau tacheté"
-"0";"Bécasse des bois"
-"0";"Bouscarle de Cetti"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Buse pattue"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Nette rousse"
-"0";"Pic noir"
-"0";"Pie-grièche grise"
-"0";"Pipit rousseline"
-"0";"Pluvier argenté"
-"0";"Râle des genêts"
-"0";"Rousserolle verderolle"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,2
+Bécasseau tacheté,2013,0,1
+Bécasse des bois,2017,0,1
+Bouscarle de Cetti,2017,0,3
+Bruant ortolan,2011,0,1
+Bruant zizi,2014,0,1
+Buse pattue,2010,0,2
+Chouette hulotte,2018,0,18
+Cincle plongeur,2012,0,2
+Courlis cendré,2013,0,10
+Faucon émerillon,2017,0,15
+Faucon pèlerin,2013,0,2
+Fuligule milouinan,2016,0,2
+Garrot à oeil d'or,2013,0,6
+Goéland brun,2016,0,1
+Goéland leucophée,2015,0,1
+Grèbe à cou noir,2009,0,1
+Grosbec casse-noyaux,2018,0,6
+Guêpier d'Europe,2013,0,1
+Guifette noire,2014,0,3
+Hibou des marais,2017,0,32
+Huppe fasciée,2017,0,3
+Hypolaïs polyglotte,2018,0,23
+Mésange boréale,2015,0,6
+Mésange huppée,2012,0,3
+Mésange noire,2018,0,4
+Nette rousse,2018,0,9
+Pic noir,2018,0,12
+Pie-grièche grise,2012,0,3
+Pipit rousseline,2015,0,1
+Pluvier argenté,2014,0,1
+Râle des genêts,2013,0,3
+Rousserolle verderolle,2016,0,3
+Tarin des aulnes,2018,0,6
+Torcol fourmilier,2012,0,1

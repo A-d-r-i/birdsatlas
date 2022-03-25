@@ -1,7 +1,5 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chouette hulotte"
-"0";"Huppe fasciée"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Chouette hulotte,2009,0,1
+Huppe fasciée,2009,0,1
+Serin cini,2009,0,1
+Tourterelle des bois,2009,0,1

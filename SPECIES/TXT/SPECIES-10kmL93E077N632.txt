@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fauvette grisette
-0        Grive mauvis
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Mésange huppée
-0        Mésange noire
-0        Milan royal
-0        Moineau friquet
-0        Moineau soulcie
-0        Monticole de roche
-0        Mouette rieuse
-0        Oie à tête barrée
-0        Pic noir
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Roitelet huppé
-0        Sarcelle d'été
-0        Tichodrome échelette
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2007    0        1
+Alouette des champs       2014    0        6
+Autour des palombes       2017    0        1
+Bécasse des bois          2016    0        7
+Bécassine des marais      2008    0        1
+Bergeronnette printanière 2013    0        1
+Bihoreau gris             2018    0        6
+Bruant des roseaux        2014    0        7
+Busard cendré             2013    0        1
+Busard des roseaux        2018    0        1
+Busard Saint-Martin       2008    0        1
+Caille des blés           2014    0        1
+Chevalier culblanc        2018    0        3
+Chevalier sylvain         2016    0        1
+Chevêche d'Athéna         2015    0        2
+Chouette hulotte          2017    0        15
+Cigogne noire             2016    0        3
+Engoulevent d'Europe      2015    0        2
+Faucon d'Eléonore         2015    0        3
+Faucon kobez              2015    0        2
+Fauvette grisette         2016    0        4
+Grive mauvis              2017    0        6
+Héron garde-boeufs        2016    0        1
+Héron pourpré             2018    0        5
+Hirondelle de rivage      2018    0        1
+Mésange huppée            2016    0        11
+Mésange noire             2017    0        3
+Milan royal               2018    0        10
+Moineau friquet           2017    0        1
+Moineau soulcie           2017    0        3
+Monticole de roche        2016    0        1
+Mouette rieuse            2007    0        1
+Oie à tête barrée         2016    0        1
+Pic noir                  2017    0        3
+Pipit des arbres          2017    0        5
+Pipit rousseline          2018    0        1
+Pipit spioncelle          2015    0        1
+Roitelet huppé            2017    0        4
+Sarcelle d'été            2016    0        2
+Tichodrome échelette      2016    0        4
 

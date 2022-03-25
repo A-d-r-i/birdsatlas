@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Héron garde-boeufs"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Pie-grièche à tête rousse"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,4
+Aigrette garzette,2016,0,1
+Bondrée apivore,2014,0,23
+Bruant des roseaux,2015,0,5
+Bruant proyer,2016,0,10
+Busard des roseaux,2013,0,1
+Busard Saint-Martin,2017,0,20
+Canard souchet,2012,0,1
+Chevalier culblanc,2011,0,2
+Chevêche d'Athéna,2016,0,12
+Choucas des tours,2013,0,2
+Chouette hulotte,2017,0,21
+Faisan de Colchide,2016,0,11
+Faucon pèlerin,2012,0,3
+Gobemouche gris,2012,0,9
+Goéland leucophée,2011,0,2
+Grèbe huppé,2015,0,8
+Grive litorne,2015,0,6
+Héron garde-boeufs,2016,0,1
+Locustelle tachetée,2010,0,3
+Merle à plastron,2010,0,2
+Moineau friquet,2014,0,1
+Oedicnème criard,2016,0,6
+Oie cendrée,2010,0,3
+Pie-grièche à tête rousse,2016,0,23
+Pinson du Nord,2015,0,4
+Pluvier doré,2017,0,1
+Pouillot fitis,2015,0,4
+Pouillot siffleur,2011,0,3
+Roitelet à triple bandeau,2016,0,6
+Roitelet huppé,2015,0,3
+Rousserolle effarvatte,2011,0,3
+Tarier des prés,2016,0,5
+Torcol fourmilier,2009,0,1
+Traquet motteux,2011,0,6

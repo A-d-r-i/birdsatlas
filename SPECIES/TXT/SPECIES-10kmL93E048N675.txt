@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Cochevis huppé
-0        Faisan vénéré
-0        Gobemouche gris
-0        Goéland brun
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Huîtrier pie
-0        Locustelle tachetée
-0        Milan noir
-0        Milan royal
-0        Mouette mélanocéphale
-0        Perdrix grise
-0        Pie-grièche grise
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Torcol fourmilier
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigrette garzette     2018    0        9
+Autour des palombes   2013    0        4
+Bécasse des bois      2014    0        6
+Bécassine sourde      2013    0        1
+Bec-croisé des sapins 2015    0        2
+Bruant des roseaux    2010    0        3
+Busard cendré         2012    0        1
+Busard des roseaux    2017    0        1
+Busard Saint-Martin   2016    0        6
+Chevalier culblanc    2011    0        3
+Chevêche d'Athéna     2014    0        2
+Cigogne noire         2012    0        1
+Cochevis huppé        2016    0        9
+Faisan vénéré         2012    0        1
+Gobemouche gris       2016    0        6
+Goéland brun          2016    0        3
+Hibou moyen-duc       2013    0        3
+Hirondelle de rivage  2014    0        1
+Huîtrier pie          2015    0        1
+Locustelle tachetée   2012    0        2
+Milan noir            2016    0        2
+Milan royal           2013    0        1
+Mouette mélanocéphale 2017    0        1
+Perdrix grise         2011    0        1
+Pie-grièche grise     2012    0        26
+Pipit des arbres      2016    0        29
+Pouillot de Bonelli   2016    0        12
+Pouillot siffleur     2016    0        3
+Sarcelle d'hiver      2012    0        1
+Tarier des prés       2014    0        2
+Torcol fourmilier     2011    0        1
 

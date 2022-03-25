@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Aigrette garzette
-0        Bergeronnette printanière
-0        Bruant jaune
-0        Busard cendré
-0        Busard Saint-Martin
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Faisan de Colchide
-0        Faucon d'Eléonore
-0        Faucon émerillon
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Gobemouche gris
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Perdrix grise
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pipit rousseline
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2016    0        1
+Aigrette garzette         2017    0        1
+Bergeronnette printanière 2018    0        2
+Bruant jaune              2017    0        4
+Busard cendré             2016    0        1
+Busard Saint-Martin       2015    0        1
+Chevêche d'Athéna         2018    0        4
+Choucas des tours         2015    0        1
+Faisan de Colchide        2016    0        1
+Faucon d'Eléonore         2015    0        1
+Faucon émerillon          2016    0        1
+Faucon hobereau           2016    0        3
+Fauvette des jardins      2015    0        2
+Fauvette orphée           2016    0        5
+Gobemouche gris           2010    0        1
+Linotte mélodieuse        2018    0        3
+Locustelle tachetée       2009    0        1
+Perdrix grise             2016    0        2
+Pie-grièche à tête rousse 2016    0        1
+Pigeon biset domestique   2016    0        2
+Pipit rousseline          2009    0        2
 

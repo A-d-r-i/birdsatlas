@@ -1,45 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécasse des bois"
-"0";"Bernache cravant"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Cygne chanteur"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Garrot à oeil d'or"
-"0";"Glaréole à collier"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Guêpier d'Europe"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Perruche ondulée"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pluvier argenté"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2017,0,2
+Bécasse des bois,2018,0,7
+Bernache cravant,2016,0,1
+Busard des roseaux,2011,0,1
+Caille des blés,2009,0,2
+Canard mandarin,2013,0,4
+Cigogne blanche,2017,0,10
+Cochevis huppé,2011,0,1
+Combattant varié,2017,0,15
+Cygne chanteur,2019,0,15
+Échasse blanche,2017,0,10
+Engoulevent d'Europe,2012,0,4
+Faisan vénéré,2010,0,1
+Faucon émerillon,2019,0,2
+Garrot à oeil d'or,2011,0,1
+Glaréole à collier,2012,0,1
+Gobemouche noir,2010,0,3
+Goéland leucophée,2018,0,2
+Grèbe à cou noir,2013,0,2
+Guêpier d'Europe,2008,0,1
+Guifette noire,2012,0,1
+Harle bièvre,2011,0,4
+Héron pourpré,2018,0,27
+Marouette ponctuée,2018,0,1
+Merle à plastron,2015,0,2
+Moineau friquet,2010,0,1
+Mouette tridactyle,2009,0,1
+Nette rousse,2014,0,10
+Perdrix grise,2018,0,8
+Perdrix rouge,2013,0,6
+Perruche à collier,2013,0,1
+Perruche ondulée,2018,0,1
+Petit Gravelot,2017,0,102
+Pipit des arbres,2018,0,16
+Pluvier argenté,2017,0,3
+Pouillot de Bonelli,2015,0,2
+Rousserolle effarvatte,2018,0,2
+Sizerin cabaret,2011,0,2
+Sizerin flammé,2011,0,2
+Tadorne casarca,2017,0,16
+Traquet motteux,2018,0,4

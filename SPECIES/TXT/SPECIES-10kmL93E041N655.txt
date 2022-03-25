@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bécasseau maubèche
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bernache cravant
-0        Bernache nonnette
-0        Butor étoilé
-0        Canard carolin
-0        Chevalier arlequin
-0        Courlis cendré
-0        Courlis corlieu
-0        Crabier chevelu
-0        Garrot à oeil d'or
-0        Guifette noire
-0        Hibou des marais
-0        Ibis falcinelle
-0        Marouette ponctuée
-0        Mésange noire
-0        Moineau friquet
-0        Mouette pygmée
-0        Nette rousse
-0        Oie des moissons
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Outarde canepetière
-0        Phalarope à bec large
-0        Pipit rousseline
-0        Pluvier argenté
-0        Pouillot à grands sourcils
-0        Râle des genêts
-0        Roitelet huppé
-0        Rousserolle turdoïde
-0        Tournepierre à collier
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Avocette élégante          2017    0        8
+Bécasseau maubèche         2013    0        3
+Bécasse des bois           2018    0        10
+Bécassine sourde           2018    0        10
+Bernache cravant           2009    0        1
+Bernache nonnette          2010    0        6
+Butor étoilé               2016    0        1
+Canard carolin             2017    0        3
+Chevalier arlequin         2017    0        13
+Courlis cendré             2016    0        18
+Courlis corlieu            2016    0        2
+Crabier chevelu            2014    0        3
+Garrot à oeil d'or         2018    0        2
+Guifette noire             2013    0        8
+Hibou des marais           2014    0        5
+Ibis falcinelle            2016    0        2
+Marouette ponctuée         2016    0        1
+Mésange noire              2017    0        3
+Moineau friquet            2013    0        3
+Mouette pygmée             2016    0        7
+Nette rousse               2016    0        2
+Oie des moissons           2009    0        1
+Oie rieuse                 2009    0        2
+Ouette d'Egypte            2016    0        5
+Outarde canepetière        2009    0        3
+Phalarope à bec large      2009    0        2
+Pipit rousseline           2014    0        1
+Pluvier argenté            2013    0        4
+Pouillot à grands sourcils 2017    0        2
+Râle des genêts            2010    0        4
+Roitelet huppé             2016    0        13
+Rousserolle turdoïde       2009    0        1
+Tournepierre à collier     2013    0        2
 

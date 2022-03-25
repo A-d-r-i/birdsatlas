@@ -1,35 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette lulu"
-"0";"Barge à queue noire"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Cassenoix moucheté"
-"0";"Chevalier culblanc"
-"0";"Chouette de Tengmalm"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland argenté"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Mouette rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sterne caspienne"
-"0";"Tadorne de Belon"
-"0";"Vanneau huppé"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2008,0,1
+Aigrette garzette,2010,0,2
+Alouette lulu,2015,0,32
+Barge à queue noire,2013,0,1
+Bécasse des bois,2018,0,4
+Bécassine sourde,2014,0,2
+Bruant proyer,2015,0,7
+Busard cendré,2018,0,53
+Cassenoix moucheté,2015,0,3
+Chevalier culblanc,2013,0,8
+Chouette de Tengmalm,2009,0,1
+Courlis cendré,2014,0,8
+Engoulevent d'Europe,2016,0,1
+Gallinule poule-d'eau,2016,0,25
+Goéland argenté,2015,0,11
+Goéland cendré,2009,0,2
+Goéland leucophée,2018,0,5
+Jaseur boréal,2009,0,1
+Locustelle tachetée,2012,0,7
+Mésange boréale,2018,0,18
+Mouette rieuse,2018,0,13
+Pie-grièche à tête rousse,2016,0,6
+Pipit des arbres,2016,0,77
+Pipit rousseline,2013,0,7
+Pipit spioncelle,2016,0,17
+Râle d'eau,2017,0,1
+Rémiz penduline,2013,0,3
+Rousserolle verderolle,2017,0,24
+Sarcelle d'hiver,2014,0,1
+Sterne caspienne,2010,0,4
+Tadorne de Belon,2018,0,1
+Vanneau huppé,2017,0,12
+Vautour fauve,2017,0,1

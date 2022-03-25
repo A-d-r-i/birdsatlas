@@ -1,48 +1,46 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécassine des marais"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevalier sylvain"
-"0";"Coucou geai"
-"0";"Crabier chevelu"
-"0";"Crave à bec rouge"
-"0";"Faisan de Colchide"
-"0";"Faucon d'Eléonore"
-"0";"Faucon hobereau"
-"0";"Fauvette passerinette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche à collier"
-"0";"Goéland marin"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Hirondelle de rochers"
-"0";"Merle à plastron"
-"0";"Mésange à longue queue"
-"0";"Mésange charbonnière"
-"0";"Milan noir"
-"0";"Mouette mélanocéphale"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Puffin cendré"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Tadorne de Belon"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2012,0,1
+Bécassine des marais,2018,0,1
+Bruant fou,2018,0,1
+Busard cendré,2018,0,1
+Busard des roseaux,2017,0,4
+Busard Saint-Martin,2010,0,2
+Caille des blés,2018,0,3
+Chevalier sylvain,2018,0,3
+Coucou geai,2018,0,2
+Crabier chevelu,2008,0,1
+Crave à bec rouge,2018,0,1
+Faisan de Colchide,2018,0,13
+Faucon d'Eléonore,2016,0,4
+Faucon hobereau,2017,0,5
+Fauvette passerinette,2016,0,3
+Gallinule poule-d'eau,2009,0,2
+Gobemouche à collier,2018,0,1
+Goéland marin,2018,0,1
+Grand-duc d'Europe,2018,0,1
+Grèbe à cou noir,2017,0,1
+Grèbe huppé,2009,0,1
+Grosbec casse-noyaux,2018,0,2
+Guifette noire,2011,0,1
+Harle huppé,2007,0,1
+Hirondelle de rochers,2017,0,1
+Merle à plastron,2008,0,2
+Mésange à longue queue,2018,0,2
+Mésange charbonnière,2018,0,2
+Milan noir,2018,0,2
+Mouette mélanocéphale,2011,0,3
+Pie bavarde,2010,0,2
+Pigeon biset domestique,2018,0,4
+Pipit rousseline,2018,0,2
+Pouillot de Bonelli,2011,0,1
+Puffin cendré,2009,0,1
+Râle d'eau,2007,0,2
+Rémiz penduline,2018,0,1
+Rollier d'Europe,2018,0,7
+Rousserolle effarvatte,2018,0,1
+Rousserolle turdoïde,2018,0,1
+Tadorne de Belon,2017,0,3
+Tichodrome échelette,2010,0,3
+Torcol fourmilier,2007,0,1
+Traquet oreillard,2007,0,1
+Verdier d'Europe,2018,0,2

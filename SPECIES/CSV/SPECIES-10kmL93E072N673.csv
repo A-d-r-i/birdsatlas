@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Faucon émerillon"
-"0";"Goéland leucophée"
-"0";"Grèbe huppé"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,2
+Bécassine des marais,2012,0,11
+Bruant des roseaux,2012,0,3
+Busard des roseaux,2011,0,1
+Faucon émerillon,2010,0,1
+Goéland leucophée,2018,0,4
+Grèbe huppé,2015,0,13
+Harle bièvre,2007,0,6
+Hirondelle de rivage,2018,0,3
+Moineau friquet,2010,0,2
+Perdrix grise,2018,0,4
+Perdrix rouge,2017,0,7
+Pie-grièche à tête rousse,2016,0,7
+Pipit rousseline,2007,0,1
+Pipit spioncelle,2007,0,2
+Râle d'eau,2012,0,2
+Sizerin cabaret,2018,0,15
+Sizerin flammé,2018,0,15
+Torcol fourmilier,2018,0,1

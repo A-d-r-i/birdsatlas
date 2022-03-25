@@ -1,38 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Bruant proyer
-0        Chevalier culblanc
-0        Circaète Jean-le-Blanc
-0        Épervier d'Europe
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle rustique
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Perdrix rouge
-0        Pic épeichette
-0        Pie-grièche écorcheur
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Sarcelle d'hiver
-0        Serin cini
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigrette garzette       2016    0        1
+Bécasse des bois        2014    0        3
+Bruant des roseaux      2018    0        4
+Bruant proyer           2017    0        1
+Chevalier culblanc      2011    0        1
+Épervier d'Europe       2018    0        6
+Gobemouche gris         2012    0        20
+Gobemouche noir         2015    0        2
+Grand Cormoran          2016    0        1
+Grèbe castagneux        2009    0        1
+Grive litorne           2017    0        1
+Grive mauvis            2019    0        6
+Grosbec casse-noyaux    2015    0        5
+Hibou moyen-duc         2011    0        4
+Hirondelle rustique     2012    0        13
+Linotte mélodieuse      2018    0        15
+Locustelle tachetée     2011    0        1
+Loriot d'Europe         2018    0        14
+Martinet noir           2012    0        6
+Martin-pêcheur d'Europe 2014    0        3
+Mésange noire           2010    0        1
+Perdrix rouge           2017    0        2
+Pic épeichette          2011    0        1
+Pie-grièche écorcheur   2017    0        1
+Pigeon colombin         2016    0        1
+Pipit farlouse          2017    0        6
+Pouillot fitis          2011    0        2
+Roitelet huppé          2014    0        1
+Rossignol philomèle     2016    0        18
+Sarcelle d'hiver        2016    0        2
+Serin cini              2017    0        22
+Torcol fourmilier       2009    0        2
+Vanneau huppé           2012    0        3
 

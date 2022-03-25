@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chouette hulotte"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grive litorne"
-"0";"Martinet noir"
-"0";"Mésange noire"
-"0";"Perdrix rouge"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Busard cendré,2009,0,1
+Caille des blés,2009,0,1
+Chouette hulotte,2009,0,2
+Effraie des clochers,2009,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2016,0,4
+Gobemouche gris,2009,0,1
+Grive litorne,2009,0,1
+Martinet noir,2009,0,1
+Mésange noire,2010,0,2
+Perdrix rouge,2009,0,1
+Pouillot fitis,2009,0,1
+Râle d'eau,2015,0,1
+Rougequeue à front blanc,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Tarier des prés,2009,0,1
+Vanneau huppé,2015,0,2

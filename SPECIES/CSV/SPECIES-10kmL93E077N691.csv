@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Courlis cendré"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pluvier guignard"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle verderolle"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2015,0,1
+Bondrée apivore,2014,0,5
+Bouvreuil pivoine,2016,0,32
+Courlis cendré,2012,0,4
+Faucon hobereau,2012,0,2
+Faucon pèlerin,2010,0,2
+Fauvette babillarde,2015,0,7
+Foulque macroule,2014,0,4
+Gobemouche gris,2014,0,3
+Goéland brun,2011,0,1
+Goéland leucophée,2011,0,1
+Gorgebleue à miroir,2012,0,1
+Grive mauvis,2019,0,7
+Grosbec casse-noyaux,2018,0,7
+Hibou des marais,2016,0,10
+Huppe fasciée,2011,0,1
+Jaseur boréal,2010,0,2
+Mésange boréale,2013,0,7
+Moineau friquet,2015,0,3
+Ouette d'Egypte,2018,0,1
+Petit Gravelot,2012,0,8
+Pie-grièche écorcheur,2010,0,1
+Pinson du Nord,2018,0,9
+Pluvier guignard,2017,0,1
+Pouillot fitis,2017,0,17
+Rougequeue à front blanc,2017,0,5
+Rousserolle verderolle,2011,0,2
+Torcol fourmilier,2013,0,2
+Vautour fauve,2016,0,1

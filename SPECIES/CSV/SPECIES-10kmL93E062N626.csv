@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Bruant fou"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Coucou geai"
-"0";"Crabier chevelu"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Harle huppé"
-"0";"Mouette pygmée"
-"0";"Niverolle alpine"
-"0";"Ouette d'Egypte"
-"0";"Petit-duc scops"
-"0";"Pipit rousseline"
-"0";"Plongeon arctique"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
+frname,lastobs,newcount,oldcount
+Aigle royal,2011,0,1
+Bécasseau minute,2011,0,1
+Bécasseau variable,2018,0,5
+Bergeronnette flavéole (M.f.flavissima),2018,0,1
+Bernache nonnette,2018,0,6
+Bruant fou,2012,0,2
+Chevalier gambette,2016,0,5
+Chevalier sylvain,2015,0,3
+Cochevis huppé,2012,0,1
+Combattant varié,2017,0,2
+Coucou geai,2015,0,1
+Crabier chevelu,2016,0,2
+Échasse blanche,2017,0,11
+Engoulevent d'Europe,2017,0,7
+Faisan vénéré,2017,0,1
+Faucon d'Eléonore,2012,0,1
+Faucon kobez,2016,0,1
+Fauvette babillarde,2016,0,1
+Grand Gravelot,2016,0,2
+Grèbe à cou noir,2018,0,11
+Guifette moustac,2015,0,1
+Harle bièvre,2013,0,25
+Harle huppé,2015,0,1
+Mouette pygmée,2018,0,2
+Niverolle alpine,2012,0,1
+Ouette d'Egypte,2012,0,1
+Petit-duc scops,2015,0,5
+Pipit rousseline,2013,0,1
+Plongeon arctique,2014,0,38
+Pluvier argenté,2011,0,1
+Pluvier doré,2012,0,2

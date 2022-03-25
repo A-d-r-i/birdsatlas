@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau tacheté"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Courlis corlieu"
-"0";"Effraie des clochers"
-"0";"Élanion blanc"
-"0";"Faisan vénéré"
-"0";"Goéland brun"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Hibou des marais"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Rollier d'Europe"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,11
+Bécasseau de Temminck,2016,0,4
+Bécasseau tacheté,2013,0,2
+Bernache du Canada,2018,0,51
+Bernache nonnette,2015,0,4
+Bruant fou,2019,0,7
+Bruant ortolan,2018,0,4
+Courlis corlieu,2013,0,4
+Effraie des clochers,2013,0,8
+Élanion blanc,2011,0,1
+Faisan vénéré,2018,0,1
+Goéland brun,2015,0,2
+Grèbe huppé,2017,0,4
+Grimpereau des bois,2017,0,1
+Hibou des marais,2007,0,1
+Huîtrier pie,2015,0,1
+Locustelle tachetée,2018,0,2
+Oedicnème criard,2013,0,1
+Perdrix rouge,2017,0,3
+Pipit rousseline,2016,0,1
+Pluvier doré,2016,0,2
+Rollier d'Europe,2016,0,1
+Tourterelle des bois,2016,0,3

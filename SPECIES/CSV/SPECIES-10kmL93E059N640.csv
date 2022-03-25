@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Caille des blés"
-"0";"Chevalier guignette"
-"0";"Faisan doré"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Linotte mélodieuse"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigle royal,2018,0,6
+Caille des blés,2018,0,13
+Chevalier guignette,2017,0,1
+Faisan doré,2017,0,1
+Faucon hobereau,2018,0,6
+Fauvette des jardins,2008,0,1
+Fauvette orphée,2013,0,2
+Linotte mélodieuse,2018,0,13
+Pipit des arbres,2016,0,10
+Pouillot fitis,2009,0,2
+Tarier des prés,2016,0,3

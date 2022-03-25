@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Cigogne blanche"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Goéland cendré"
-"0";"Grand Cormoran"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Oedicnème criard"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,1
+Autour des palombes,2015,0,3
+Bondrée apivore,2009,0,2
+Busard des roseaux,2018,0,6
+Cigogne blanche,2013,0,2
+Courlis cendré,2016,0,1
+Effraie des clochers,2012,0,2
+Faucon kobez,2016,0,1
+Faucon pèlerin,2015,0,2
+Fauvette babillarde,2015,0,3
+Foulque macroule,2008,0,1
+Goéland cendré,2013,0,2
+Grand Cormoran,2018,0,1
+Huppe fasciée,2014,0,4
+Locustelle tachetée,2008,0,1
+Martinet noir,2017,0,7
+Oedicnème criard,2017,0,17
+Pipit rousseline,2009,0,1
+Pouillot siffleur,2010,0,2
+Tarin des aulnes,2017,0,1

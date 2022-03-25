@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Corneille mantelée"
-"0";"Courlis corlieu"
-"0";"Effraie des clochers"
-"0";"Fuligule milouinan"
-"0";"Gorgebleue à miroir"
-"0";"Guifette leucoptère"
-"0";"Harelde boréale"
-"0";"Inséparable de Fischer"
-"0";"Mouette pygmée"
-"0";"Océanite tempête"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Petit-duc scops"
-"0";"Pigeon colombin"
-"0";"Plongeon arctique"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Rémiz penduline"
-"0";"Sizerin flammé"
-"0";"Sterne hansel"
-"0";"Sterne naine"
-"0";"Talève sultane"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2010,0,1
+Bouvreuil pivoine,2018,0,2
+Bruant jaune,2018,0,6
+Caille des blés,2017,0,3
+Calopsitte élégante,2015,0,3
+Canard mandarin,2014,0,7
+Corneille mantelée,2017,0,3
+Courlis corlieu,2016,0,1
+Effraie des clochers,2018,0,13
+Fuligule milouinan,2018,0,41
+Gorgebleue à miroir,2018,0,1
+Guifette leucoptère,2016,0,1
+Harelde boréale,2017,0,3
+Inséparable de Fischer,2015,0,1
+Mouette pygmée,2018,0,5
+Océanite tempête,2009,0,2
+Oie des moissons,2011,0,1
+Oie rieuse,2013,0,22
+Petit-duc scops,2018,0,10
+Pigeon colombin,2015,0,6
+Plongeon arctique,2018,0,1
+Pluvier argenté,2018,0,3
+Pluvier doré,2018,0,6
+Rémiz penduline,2018,0,11
+Sizerin flammé,2013,0,1
+Sterne hansel,2016,0,2
+Sterne naine,2016,0,1
+Talève sultane,2016,0,2
+Venturon montagnard,2016,0,2

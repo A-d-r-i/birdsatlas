@@ -1,27 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Canard colvert"
-"0";"Chevalier aboyeur"
-"0";"Cigogne blanche"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot de Bonelli"
-"0";"Rousserolle effarvatte"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,1
+Autour des palombes,2010,0,1
+Bécassine des marais,2012,0,2
+Canard colvert,2016,0,11
+Chevalier aboyeur,2012,0,1
+Cigogne blanche,2012,0,1
+Cincle plongeur,2015,0,3
+Courlis cendré,2010,0,1
+Engoulevent d'Europe,2008,0,1
+Faisan de Colchide,2012,0,3
+Gobemouche noir,2015,0,3
+Grand Cormoran,2018,0,1
+Grand-duc d'Europe,2018,0,2
+Locustelle tachetée,2008,0,1
+Martinet noir,2012,0,3
+Martin-pêcheur d'Europe,2012,0,1
+Mésange noire,2017,0,5
+Moineau friquet,2018,0,5
+Pie-grièche à tête rousse,2010,0,2
+Pouillot de Bonelli,2010,0,3
+Rousserolle effarvatte,2012,0,2
+Tarier des prés,2014,0,1
+Traquet motteux,2010,0,1

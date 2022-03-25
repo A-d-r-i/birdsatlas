@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant lapon"
-"0";"Canard chipeau"
-"0";"Chevalier guignette"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2010,0,2
+Bécasse des bois,2018,0,3
+Bec-croisé des sapins,2010,0,1
+Bergeronnette des ruisseaux,2010,0,1
+Bondrée apivore,2014,0,2
+Bruant des roseaux,2011,0,4
+Bruant lapon,2010,0,1
+Canard chipeau,2016,0,1
+Chevalier guignette,2018,0,1
+Coucou gris,2010,0,3
+Courlis cendré,2016,0,1
+Faucon pèlerin,2018,0,2
+Fauvette babillarde,2012,0,3
+Foulque macroule,2019,0,3
+Gallinule poule-d'eau,2016,0,8
+Grèbe castagneux,2016,0,3
+Grèbe huppé,2016,0,1
+Grive mauvis,2016,0,3
+Hibou des marais,2018,0,2
+Locustelle tachetée,2011,0,2
+Mésange boréale,2009,0,1
+Milan royal,2018,0,2
+Moineau friquet,2014,0,4
+Pigeon colombin,2010,0,11
+Pinson du Nord,2010,0,3
+Pluvier doré,2010,0,2
+Pouillot fitis,2010,0,1
+Roitelet huppé,2010,0,2
+Serin cini,2014,0,1
+Sizerin flammé,2010,0,1
+Tarier des prés,2010,0,1
+Tarin des aulnes,2011,0,5

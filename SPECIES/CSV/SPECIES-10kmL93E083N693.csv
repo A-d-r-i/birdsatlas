@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Buse pattue"
-"0";"Canard souchet"
-"0";"Combattant varié"
-"0";"Échasse blanche"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Hirondelle de rivage"
-"0";"Mésange huppée"
-"0";"Oie rieuse"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Râle des genêts"
-"0";"Rousserolle verderolle"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,2
+Autour des palombes,2017,0,5
+Buse pattue,2014,0,1
+Canard souchet,2016,0,4
+Combattant varié,2012,0,1
+Échasse blanche,2012,0,3
+Grand Gravelot,2014,0,1
+Grèbe castagneux,2014,0,5
+Grèbe huppé,2009,0,1
+Grimpereau des bois,2018,0,3
+Hirondelle de rivage,2016,0,4
+Mésange huppée,2013,0,1
+Oie rieuse,2013,0,4
+Phragmite des joncs,2011,0,3
+Pie-grièche grise,2016,0,8
+Râle des genêts,2013,0,1
+Rousserolle verderolle,2016,0,8
+Serin cini,2009,0,1
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Sterne pierregarin,2012,0,1

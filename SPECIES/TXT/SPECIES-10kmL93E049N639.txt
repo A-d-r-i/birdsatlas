@@ -1,75 +1,75 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigrette garzette
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Bruant jaune
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard chipeau
-0        Canard mandarin
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier culblanc
-0        Chevalier sylvain
-0        Cigogne noire
-0        Cochevis huppé
-0        Courlis corlieu
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Gobemouche gris
-0        Goéland argenté
-0        Goéland leucophée
-0        Grande Aigrette
-0        Grand Gravelot
-0        Grèbe castagneux
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Guifette moustac
-0        Guifette noire
-0        Héron pourpré
-0        Linotte mélodieuse
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau soulcie
-0        Mouette rieuse
-0        Oie cendrée
-0        Perdrix grise
-0        Petit-duc scops
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pic épeichette
-0        Pie-grièche à tête rousse
-0        Pie-grièche méridionale
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit rousseline
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Pluvier argenté
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Serin cini
-0        Sittelle torchepot
-0        Tadorne de Belon
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2010    0        1
+Aigrette garzette         2016    0        7
+Bécasseau cocorli         2011    0        4
+Bécasseau minute          2011    0        6
+Bécasseau sanderling      2011    0        1
+Bécasseau variable        2011    0        6
+Bécasse des bois          2012    0        1
+Bergeronnette printanière 2011    0        3
+Bruant des roseaux        2017    0        10
+Bruant jaune              2011    0        2
+Busard des roseaux        2012    0        2
+Busard Saint-Martin       2017    0        26
+Caille des blés           2014    0        5
+Canard chipeau            2011    0        5
+Canard mandarin           2009    0        2
+Canard siffleur           2011    0        1
+Canard souchet            2011    0        4
+Chevalier aboyeur         2013    0        1
+Chevalier arlequin        2011    0        1
+Chevalier culblanc        2016    0        9
+Chevalier sylvain         2016    0        2
+Cigogne noire             2011    0        1
+Cochevis huppé            2017    0        20
+Courlis corlieu           2013    0        1
+Engoulevent d'Europe      2017    0        2
+Faucon hobereau           2017    0        12
+Faucon pèlerin            2011    0        2
+Fauvette des jardins      2013    0        4
+Foulque macroule          2018    0        3
+Gobemouche gris           2018    0        7
+Goéland argenté           2009    0        1
+Goéland leucophée         2012    0        14
+Grande Aigrette           2017    0        3
+Grand Gravelot            2011    0        4
+Grèbe castagneux          2018    0        8
+Grive litorne             2017    0        2
+Grosbec casse-noyaux      2017    0        15
+Guifette moustac          2012    0        1
+Guifette noire            2012    0        5
+Héron pourpré             2018    0        1
+Linotte mélodieuse        2018    0        16
+Mésange huppée            2019    0        4
+Mésange noire             2011    0        1
+Mésange nonnette          2019    0        16
+Moineau soulcie           2018    0        26
+Mouette rieuse            2011    0        6
+Oie cendrée               2012    0        6
+Perdrix grise             2015    0        1
+Petit-duc scops           2011    0        2
+Petit Gravelot            2014    0        4
+Phragmite des joncs       2011    0        1
+Pic épeichette            2018    0        19
+Pie-grièche à tête rousse 2011    0        1
+Pie-grièche méridionale   2016    0        3
+Pigeon biset domestique   2015    0        7
+Pigeon colombin           2016    0        6
+Pipit des arbres          2018    0        14
+Pipit rousseline          2013    0        1
+Pipit spioncelle          2014    0        8
+Plongeon catmarin         2009    0        1
+Pluvier argenté           2011    0        2
+Pluvier doré              2012    0        1
+Pouillot de Bonelli       2018    0        2
+Pouillot fitis            2018    0        11
+Roitelet huppé            2015    0        3
+Rollier d'Europe          2018    0        1
+Serin cini                2015    0        10
+Sittelle torchepot        2019    0        39
+Tadorne de Belon          2011    0        6
+Traquet motteux           2018    0        15
+Vanneau huppé             2017    0        25
 

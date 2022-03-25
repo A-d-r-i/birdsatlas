@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécasse des bois
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Cincle plongeur
-0        Gallinule poule-d'eau
-0        Hibou moyen-duc
-0        Merle à plastron
-0        Mésange huppée
-0        Oie cendrée
-0        Perdrix grise
-0        Petit Gravelot
-0        Phalarope à bec large
-0        Pigeon biset domestique
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Aigrette garzette       2011    0        1
+Bécasse des bois        2016    0        1
+Bihoreau gris           2009    0        1
+Bruant des roseaux      2009    0        1
+Busard Saint-Martin     2017    0        41
+Chevalier culblanc      2019    0        3
+Cincle plongeur         2009    0        1
+Gallinule poule-d'eau   2018    0        5
+Hibou moyen-duc         2015    0        7
+Merle à plastron        2009    0        1
+Mésange huppée          2015    0        4
+Oie cendrée             2012    0        1
+Perdrix grise           2013    0        1
+Petit Gravelot          2009    0        1
+Phalarope à bec large   2009    0        1
+Pigeon biset domestique 2017    0        4
 

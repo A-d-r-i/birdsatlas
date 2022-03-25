@@ -1,10 +1,10 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache du Canada
-0        Busard des roseaux
-0        Moineau friquet
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bernache du Canada     2018    0        1
+Busard des roseaux     2018    0        1
+Moineau friquet        2013    0        1
+Rousserolle verderolle 2018    0        1
+Sizerin cabaret        2018    0        1
+Sizerin flammé         2018    0        1
 

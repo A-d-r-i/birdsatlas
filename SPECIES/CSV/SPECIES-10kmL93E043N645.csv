@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Busard Saint-Martin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Corbeau freux"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Goéland argenté"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Spatule blanche"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Alouette des champs,2017,0,6
+Autour des palombes,2016,0,3
+Bécasse des bois,2015,0,4
+Bec-croisé des sapins,2015,0,1
+Bergeronnette flavéole (M.f.flavissima),2011,0,1
+Bergeronnette printanière,2011,0,2
+Bouscarle de Cetti,2011,0,7
+Bruant des roseaux,2012,0,7
+Busard cendré,2012,0,9
+Busard Saint-Martin,2016,0,6
+Chevalier aboyeur,2013,0,1
+Chevalier culblanc,2013,0,1
+Corbeau freux,2012,0,1
+Faisan de Colchide,2016,0,3
+Fauvette grisette,2016,0,10
+Fuligule milouin,2013,0,2
+Goéland argenté,2013,0,1
+Grèbe castagneux,2010,0,4
+Guêpier d'Europe,2011,0,1
+Hibou moyen-duc,2015,0,2
+Linotte mélodieuse,2017,0,3
+Oie cendrée,2009,0,1
+Petit Gravelot,2016,0,2
+Pipit des arbres,2017,0,39
+Pipit spioncelle,2013,0,3
+Râle d'eau,2013,0,2
+Spatule blanche,2017,0,1
+Torcol fourmilier,2013,0,2
+Traquet motteux,2011,0,1
+Vanneau huppé,2013,0,8

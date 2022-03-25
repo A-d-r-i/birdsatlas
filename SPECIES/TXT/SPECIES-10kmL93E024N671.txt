@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Cisticole des joncs
-0        Eider à duvet
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Foulque macroule
-0        Goéland à ailes blanches
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Grimpereau des jardins
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Macareux moine
-0        Macreuse noire
-0        Martin-pêcheur d'Europe
-0        Mésange bleue
-0        Perruche ondulée
-0        Phalarope à bec large
-0        Pigeon colombin
-0        Pluvier doré
-0        Pouillot fitis
-0        Puffin des Anglais
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Tarin des aulnes
-0        Tourterelle turque
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bécasseau variable          2017    0        1
+Bécassine des marais        2008    0        1
+Bergeronnette des ruisseaux 2015    0        3
+Bruant des roseaux          2016    0        1
+Busard des roseaux          2014    0        1
+Cisticole des joncs         2014    0        4
+Eider à duvet               2015    0        1
+Faucon hobereau             2007    0        1
+Fauvette des jardins        2016    0        3
+Foulque macroule            2015    0        2
+Goéland à ailes blanches    2015    0        2
+Grèbe à cou noir            2013    0        2
+Grèbe castagneux            2018    0        1
+Grimpereau des jardins      2017    0        1
+Hibou moyen-duc             2009    0        1
+Hirondelle de fenêtre       2018    0        1
+Macareux moine              2016    0        3
+Macreuse noire              2016    0        10
+Martin-pêcheur d'Europe     2014    0        1
+Mésange bleue               2016    0        2
+Perruche ondulée            2014    0        2
+Phalarope à bec large       2015    0        1
+Pigeon colombin             2008    0        1
+Pluvier doré                2015    0        3
+Pouillot fitis              2015    0        4
+Puffin des Anglais          2018    0        4
+Rougequeue à front blanc    2012    0        1
+Rousserolle effarvatte      2014    0        2
+Sarcelle d'hiver            2015    0        3
+Tarin des aulnes            2016    0        3
+Tourterelle turque          2009    0        2
+Vanneau huppé               2016    0        1
 

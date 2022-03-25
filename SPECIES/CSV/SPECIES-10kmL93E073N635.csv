@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette calandre"
-"0";"Alouette calandrelle"
-"0";"Bécasse des bois"
-"0";"Bruant des neiges"
-"0";"Bruant des roseaux"
-"0";"Bruant mélanocéphale"
-"0";"Busard pâle"
-"0";"Canard chipeau"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Étourneau unicolore"
-"0";"Faisan de Colchide"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Mouette mélanocéphale"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pipit de Richard"
-"0";"Pluvier guignard"
-"0";"Pouillot à grands sourcils"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,1
+Alouette calandre,2009,0,2
+Alouette calandrelle,2018,0,9
+Bécasse des bois,2016,0,6
+Bruant des neiges,2013,0,9
+Bruant des roseaux,2018,0,9
+Bruant mélanocéphale,2013,0,1
+Busard pâle,2007,0,1
+Canard chipeau,2014,0,2
+Chevalier gambette,2014,0,4
+Cigogne noire,2013,0,1
+Courlis cendré,2017,0,2
+Échasse blanche,2016,0,3
+Étourneau unicolore,2015,0,7
+Faisan de Colchide,2016,0,3
+Grosbec casse-noyaux,2018,0,3
+Hibou des marais,2017,0,3
+Labbe parasite,2014,0,1
+Locustelle tachetée,2016,0,2
+Mouette mélanocéphale,2017,0,2
+Oie cendrée,2013,0,1
+Petit Gravelot,2016,0,1
+Pie-grièche grise,2016,0,16
+Pipit de Richard,2018,0,2
+Pluvier guignard,2016,0,3
+Pouillot à grands sourcils,2018,0,2
+Vanneau huppé,2017,0,7

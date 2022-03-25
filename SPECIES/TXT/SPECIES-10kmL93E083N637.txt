@@ -1,50 +1,50 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Autour des palombes
-0        Bécasseau cocorli
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bergeronnette printanière
-0        Bernache nonnette
-0        Blongios nain
-0        Bouvreuil pivoine
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Canard mandarin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Corneille mantelée
-0        Échasse blanche
-0        Faucon émerillon
-0        Faucon kobez
-0        Fuligule milouinan
-0        Garrot à oeil d'or
-0        Goéland argenté
-0        Goéland pontique
-0        Guifette noire
-0        Harle piette
-0        Hibou moyen-duc
-0        Hirondelle rousseline
-0        Mouette pygmée
-0        Mouette tridactyle
-0        Oie rieuse
-0        Perruche à collier
-0        Petit Gravelot
-0        Pic noir
-0        Pigeon colombin
-0        Pipit des arbres
-0        Râle d'eau
-0        Rémiz penduline
-0        Sarcelle d'été
-0        Spatule blanche
-0        Sterne caspienne
-0        Sterne caugek
-0        Sterne naine
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Talève sultane
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2018    0        7
+Autour des palombes       2018    0        10
+Bécasseau cocorli         2011    0        1
+Bécasseau maubèche        2007    0        1
+Bécasseau minute          2010    0        1
+Bergeronnette printanière 2016    0        2
+Bernache nonnette         2012    0        1
+Blongios nain             2016    0        3
+Bouvreuil pivoine         2017    0        2
+Busard des roseaux        2016    0        18
+Busard Saint-Martin       2016    0        13
+Butor étoilé              2011    0        2
+Canard mandarin           2017    0        1
+Chevalier gambette        2018    0        7
+Chevalier sylvain         2016    0        14
+Corneille mantelée        2011    0        3
+Échasse blanche           2018    0        2
+Faucon émerillon          2011    0        3
+Faucon kobez              2013    0        4
+Fuligule milouinan        2012    0        2
+Garrot à oeil d'or        2016    0        4
+Goéland argenté           2018    0        2
+Goéland pontique          2018    0        3
+Guifette noire            2012    0        2
+Harle piette              2012    0        8
+Hibou moyen-duc           2013    0        1
+Hirondelle rousseline     2012    0        1
+Mouette pygmée            2011    0        1
+Mouette tridactyle        2009    0        1
+Oie rieuse                2010    0        1
+Perruche à collier        2015    0        2
+Petit Gravelot            2018    0        39
+Pic noir                  2014    0        13
+Pigeon colombin           2018    0        5
+Pipit des arbres          2016    0        11
+Râle d'eau                2015    0        7
+Rémiz penduline           2010    0        2
+Sarcelle d'été            2016    0        11
+Spatule blanche           2018    0        1
+Sterne caspienne          2018    0        2
+Sterne caugek             2018    0        1
+Sterne naine              2013    0        2
+Sterne pierregarin        2016    0        10
+Tadorne casarca           2010    0        2
+Tadorne de Belon          2018    0        15
+Talève sultane            2008    0        1
 

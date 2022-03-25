@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette lulu
-0        Bécasse des bois
-0        Bergeronnette des ruisseaux
-0        Bruant des neiges
-0        Bruant des roseaux
-0        Buse pattue
-0        Chevalier aboyeur
-0        Chouette hulotte
-0        Cisticole des joncs
-0        Coucou gris
-0        Fauvette babillarde
-0        Grimpereau des jardins
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Locustelle tachetée
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Oie cendrée
-0        Petit Gravelot
-0        Pic mar
-0        Pic vert
-0        Pipit rousseline
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Sittelle torchepot
-0        Tadorne de Belon
-0        Tarin des aulnes
-0        Vautour fauve
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2016    0        10
+Alouette lulu               2011    0        3
+Bécasse des bois            2012    0        6
+Bergeronnette des ruisseaux 2012    0        4
+Bruant des neiges           2010    0        2
+Bruant des roseaux          2011    0        3
+Buse pattue                 2011    0        3
+Chevalier aboyeur           2013    0        1
+Chouette hulotte            2018    0        5
+Cisticole des joncs         2009    0        1
+Coucou gris                 2018    0        3
+Fauvette babillarde         2018    0        3
+Grimpereau des jardins      2018    0        6
+Grive mauvis                2011    0        1
+Grosbec casse-noyaux        2018    0        1
+Hibou des marais            2018    0        20
+Locustelle tachetée         2007    0        2
+Martinet noir               2011    0        4
+Martin-pêcheur d'Europe     2018    0        3
+Mésange huppée              2018    0        1
+Mésange noire               2010    0        1
+Mésange nonnette            2012    0        3
+Oie cendrée                 2018    0        2
+Petit Gravelot              2018    0        2
+Pic mar                     2012    0        3
+Pic vert                    2014    0        4
+Pipit rousseline            2016    0        2
+Roitelet huppé              2012    0        8
+Rousserolle effarvatte      2009    0        2
+Sittelle torchepot          2012    0        8
+Tadorne de Belon            2011    0        1
+Tarin des aulnes            2012    0        5
+Vautour fauve               2015    0        4
 

@@ -1,70 +1,70 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Avocette élégante
-0        Barge à queue noire
-0        Bec-croisé des sapins
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bergeronnette printanière
-0        Bernache nonnette
-0        Bihoreau gris
-0        Bouvreuil pivoine
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard pâle
-0        Caille des blés
-0        Canard mandarin
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier guignette
-0        Choucas des tours
-0        Cisticole des joncs
-0        Combattant varié
-0        Courlis cendré
-0        Courlis corlieu
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Faisan vénéré
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland leucophée
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Harle piette
-0        Héron pourpré
-0        Mésange noire
-0        Mouette pygmée
-0        Oedicnème criard
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Pluvier argenté
-0        Pluvier guignard
-0        Pouillot fitis
-0        Râle d'eau
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Sarcelle d'été
-0        Serin cini
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Spatule blanche
-0        Sterne naine
-0        Tarier pâtre
-0        Torcol fourmilier
-0        Traquet motteux
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Autour des palombes                     2016    0        47
+Avocette élégante                       2014    0        3
+Barge à queue noire                     2011    0        1
+Bec-croisé des sapins                   2014    0        8
+Bergeronnette flavéole (M.f.flavissima) 2014    0        1
+Bergeronnette printanière               2014    0        3
+Bernache nonnette                       2012    0        3
+Bihoreau gris                           2007    0        1
+Bouvreuil pivoine                       2018    0        69
+Bruant proyer                           2012    0        1
+Busard des roseaux                      2009    0        1
+Busard pâle                             2010    0        2
+Caille des blés                         2011    0        6
+Canard mandarin                         2010    0        1
+Chevalier aboyeur                       2012    0        5
+Chevalier gambette                      2016    0        4
+Chevalier guignette                     2016    0        40
+Choucas des tours                       2017    0        56
+Cisticole des joncs                     2010    0        3
+Combattant varié                        2010    0        1
+Courlis cendré                          2013    0        10
+Courlis corlieu                         2014    0        4
+Engoulevent d'Europe                    2014    0        6
+Érismature rousse                       2013    0        10
+Faisan vénéré                           2011    0        1
+Faucon émerillon                        2014    0        2
+Faucon hobereau                         2016    0        87
+Faucon pèlerin                          2018    0        15
+Fauvette grisette                       2017    0        41
+Fuligule nyroca                         2010    0        2
+Garrot à oeil d'or                      2012    0        5
+Goéland brun                            2014    0        16
+Goéland leucophée                       2010    0        4
+Grand Gravelot                          2011    0        1
+Grèbe à cou noir                        2012    0        7
+Guifette moustac                        2010    0        1
+Guifette noire                          2017    0        9
+Harle bièvre                            2013    0        11
+Harle piette                            2010    0        1
+Héron pourpré                           2016    0        6
+Mésange noire                           2018    0        33
+Mouette pygmée                          2010    0        3
+Oedicnème criard                        2017    0        19
+Ouette d'Egypte                         2011    0        2
+Perdrix grise                           2018    0        18
+Perdrix rouge                           2018    0        65
+Petit Gravelot                          2012    0        7
+Phragmite des joncs                     2015    0        3
+Pie-grièche grise                       2012    0        5
+Pipit spioncelle                        2011    0        1
+Pluvier argenté                         2011    0        4
+Pluvier guignard                        2009    0        1
+Pouillot fitis                          2016    0        68
+Râle d'eau                              2018    0        6
+Rossignol philomèle                     2017    0        52
+Rougequeue à front blanc                2016    0        37
+Rousserolle effarvatte                  2011    0        4
+Sarcelle d'été                          2012    0        2
+Serin cini                              2009    0        10
+Sizerin cabaret                         2009    0        1
+Sizerin flammé                          2009    0        1
+Spatule blanche                         2018    0        4
+Sterne naine                            2009    0        1
+Tarier pâtre                            2018    0        92
+Torcol fourmilier                       2012    0        1
+Traquet motteux                         2017    0        27
 

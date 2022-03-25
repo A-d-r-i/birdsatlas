@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Chocard à bec jaune"
-"0";"Cisticole des joncs"
-"0";"Corbeau freux"
-"0";"Corneille mantelée"
-"0";"Coucou geai"
-"0";"Effraie des clochers"
-"0";"Faucon crécerellette"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fuligule milouin"
-"0";"Fuligule nyroca"
-"0";"Gallinule poule-d'eau"
-"0";"Grand Cormoran"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Niverolle alpine"
-"0";"Perdrix grise"
-"0";"Pigeon colombin"
-"0";"Pluvier guignard"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,1
+Aigrette garzette,2018,0,2
+Bruant des roseaux,2013,0,14
+Bruant jaune,2013,0,4
+Caille des blés,2013,0,4
+Chevalier aboyeur,2011,0,1
+Chevalier guignette,2017,0,14
+Chocard à bec jaune,2013,0,1
+Cisticole des joncs,2018,0,34
+Corbeau freux,2018,0,19
+Corneille mantelée,2017,0,1
+Coucou geai,2009,0,2
+Effraie des clochers,2011,0,4
+Faucon crécerellette,2011,0,2
+Faucon émerillon,2014,0,4
+Faucon kobez,2017,0,3
+Fuligule milouin,2015,0,2
+Fuligule nyroca,2016,0,3
+Gallinule poule-d'eau,2016,0,1
+Grand Cormoran,2018,0,2
+Grand Gravelot,2017,0,4
+Grèbe à cou noir,2018,0,2
+Grive mauvis,2011,0,2
+Hibou moyen-duc,2011,0,7
+Hirondelle de rivage,2017,0,2
+Moineau friquet,2017,0,1
+Niverolle alpine,2011,0,5
+Perdrix grise,2016,0,1
+Pigeon colombin,2012,0,4
+Pluvier guignard,2017,0,5
+Râle d'eau,2011,0,2
+Rousserolle effarvatte,2011,0,1
+Sarcelle d'été,2017,0,8
+Sarcelle d'hiver,2018,0,14
+Tadorne de Belon,2014,0,1
+Tarier des prés,2017,0,6

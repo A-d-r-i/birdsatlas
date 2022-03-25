@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Bruant proyer
-0        Caille des blés
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Fauvette grisette
-0        Grand Cormoran
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Mésange noire
-0        Milan noir
-0        Milan royal
-0        Mouette rieuse
-0        Oedicnème criard
-0        Oie cendrée
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche écorcheur
-0        Pluvier doré
-0        Traquet motteux
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette lulu               2016    0        3
+Autour des palombes         2013    0        2
+Bec-croisé des sapins       2012    0        1
+Bergeronnette des ruisseaux 2017    0        4
+Bondrée apivore             2014    0        5
+Bruant proyer               2017    0        1
+Caille des blés             2014    0        1
+Chevalier guignette         2017    0        2
+Cigogne blanche             2016    0        1
+Cygne tuberculé             2018    0        1
+Engoulevent d'Europe        2011    0        2
+Faucon hobereau             2018    0        7
+Fauvette grisette           2015    0        9
+Grand Cormoran              2016    0        3
+Grive mauvis                2014    0        6
+Hibou moyen-duc             2018    0        5
+Locustelle tachetée         2011    0        3
+Mésange noire               2018    0        27
+Milan noir                  2014    0        3
+Milan royal                 2015    0        1
+Mouette rieuse              2012    0        2
+Oedicnème criard            2017    0        4
+Oie cendrée                 2012    0        1
+Petit Gravelot              2014    0        4
+Phragmite des joncs         2014    0        1
+Pie-grièche écorcheur       2014    0        9
+Pluvier doré                2014    0        3
+Traquet motteux             2013    0        1
 

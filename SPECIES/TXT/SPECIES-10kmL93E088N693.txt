@@ -1,29 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Busard des roseaux
-0        Coucou gris
-0        Cygne tuberculé
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Gobemouche gris
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Loriot d'Europe
-0        Mésange boréale
-0        Mésange noire
-0        Moineau friquet
-0        Ouette d'Egypte
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Rousserolle verderolle
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Vanneau huppé
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bondrée apivore         2018    0        2
+Busard des roseaux      2017    0        2
+Coucou gris             2017    0        2
+Cygne tuberculé         2018    0        1
+Faucon hobereau         2017    0        4
+Fauvette des jardins    2009    0        1
+Gobemouche gris         2017    0        2
+Grèbe castagneux        2017    0        6
+Grimpereau des bois     2018    0        2
+Grive litorne           2019    0        6
+Grive mauvis            2019    0        1
+Hibou moyen-duc         2017    0        1
+Loriot d'Europe         2014    0        1
+Mésange boréale         2017    0        5
+Mésange noire           2017    0        1
+Moineau friquet         2012    0        2
+Pigeon biset domestique 2018    0        5
+Pigeon colombin         2017    0        1
+Pipit farlouse          2018    0        1
+Pouillot siffleur       2015    0        1
+Rousserolle verderolle  2018    0        3
+Tourterelle des bois    2018    0        1
+Vanneau huppé           2015    0        4
 

@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Avocette élégante
-0        Bécasse des bois
-0        Bihoreau gris
-0        Busard cendré
-0        Canard mandarin
-0        Canard siffleur
-0        Chevalier sylvain
-0        Courlis cendré
-0        Échasse blanche
-0        Monticole de roche
-0        Oie cendrée
-0        Perruche à collier
-0        Pic vert
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Rémiz penduline
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Sarcelle d'hiver
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2016    0        4
+Avocette élégante     2014    0        1
+Bécasse des bois      2017    0        6
+Bihoreau gris         2012    0        2
+Busard cendré         2012    0        1
+Canard mandarin       2013    0        1
+Canard siffleur       2018    0        7
+Chevalier sylvain     2018    0        1
+Courlis cendré        2018    0        1
+Échasse blanche       2014    0        2
+Monticole de roche    2017    0        1
+Oie cendrée           2018    0        1
+Perruche à collier    2018    0        1
+Pic vert              2009    0        2
+Pie-grièche écorcheur 2010    0        2
+Pipit des arbres      2017    0        3
+Rémiz penduline       2013    0        2
+Roitelet huppé        2013    0        1
+Rollier d'Europe      2018    0        2
+Sarcelle d'hiver      2018    0        1
 

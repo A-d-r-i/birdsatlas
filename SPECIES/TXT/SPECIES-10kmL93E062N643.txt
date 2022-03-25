@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Alouette des champs
-0        Bécasseau sanderling
-0        Bergeronnette printanière
-0        Bruant fou
-0        Busard Saint-Martin
-0        Caille des blés
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Fauvette des jardins
-0        Grimpereau des bois
-0        Guêpier d'Europe
-0        Merle à plastron
-0        Mésange noire
-0        Moineau friquet
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Rollier d'Europe
-0        Tarier des prés
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2016    0        1
+Alouette des champs       2018    0        11
+Bécasseau sanderling      2018    0        1
+Bergeronnette printanière 2017    0        2
+Bruant fou                2016    0        6
+Busard Saint-Martin       2017    0        1
+Caille des blés           2017    0        2
+Cygne tuberculé           2017    0        1
+Engoulevent d'Europe      2017    0        4
+Fauvette des jardins      2018    0        5
+Grimpereau des bois       2017    0        1
+Guêpier d'Europe          2015    0        1
+Merle à plastron          2015    0        1
+Mésange noire             2017    0        8
+Moineau friquet           2017    0        1
+Pipit farlouse            2016    0        4
+Pipit spioncelle          2018    0        1
+Pouillot fitis            2010    0        1
+Rollier d'Europe          2011    0        1
+Tarier des prés           2017    0        4
+Tichodrome échelette      2013    0        1
+Torcol fourmilier         2017    0        2
+Vautour moine             2017    0        1
 

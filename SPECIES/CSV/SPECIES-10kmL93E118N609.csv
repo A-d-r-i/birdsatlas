@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Faucon crécerellette"
-"0";"Faucon pèlerin"
-"0";"Fauvette passerinette"
-"0";"Hirondelle de fenêtre"
-"0";"Martinet noir"
-"0";"Roitelet huppé"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Faucon crécerellette,2016,0,1
+Faucon pèlerin,2009,0,1
+Fauvette passerinette,2009,0,1
+Hirondelle de fenêtre,2009,0,1
+Martinet noir,2017,0,1
+Roitelet huppé,2009,0,1
+Venturon corse,2017,0,2

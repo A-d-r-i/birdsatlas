@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau tacheté
-0        Bécasse des bois
-0        Bruant à calotte blanche
-0        Canard à collier noir
-0        Canard mandarin
-0        Cormoran huppé
-0        Eider à duvet
-0        Faucon d'Eléonore
-0        Fauvette à lunettes
-0        Flamant du Chili
-0        Fuligule nyroca
-0        Goéland d'Audouin
-0        Grand Labbe
-0        Hypolaïs ictérine
-0        Macareux moine
-0        Mésange nonnette
-0        Océanite tempête
-0        Perruche à collier
-0        Pluvier bronzé
-0        Pouillot ibérique
-0        Puffin de Scopoli
-0        Tadorne casarca
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Autour des palombes      2016    0        4
+Bécasseau tacheté        2018    0        4
+Bécasse des bois         2011    0        1
+Bruant à calotte blanche 2018    0        29
+Canard à collier noir    2018    0        1
+Canard mandarin          2012    0        2
+Cormoran huppé           2014    0        3
+Eider à duvet            2018    0        2
+Faucon d'Eléonore        2018    0        2
+Fauvette à lunettes      2009    0        1
+Flamant du Chili         2011    0        5
+Fuligule nyroca          2017    0        2
+Goéland d'Audouin        2017    0        1
+Grand Labbe              2015    0        8
+Hypolaïs ictérine        2015    0        3
+Macareux moine           2017    0        2
+Mésange nonnette         2015    0        5
+Océanite tempête         2017    0        6
+Perruche à collier       2018    0        4
+Pluvier bronzé           2017    0        1
+Pouillot ibérique        2016    0        3
+Puffin de Scopoli        2018    0        3
+Tadorne casarca          2018    0        3
 

@@ -1,47 +1,47 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge rousse
-0        Bouvreuil pivoine
-0        Bruant jaune
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Corneille noire
-0        Courlis cendré
-0        Épervier d'Europe
-0        Gobemouche gris
-0        Grande Aigrette
-0        Grand Labbe
-0        Grosbec casse-noyaux
-0        Guillemot de Troïl
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Labbe pomarin
-0        Macreuse noire
-0        Merle à plastron
-0        Mésange à longue queue
-0        Mésange bleue
-0        Mouette de Sabine
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Phalarope à bec large
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Pingouin torda
-0        Pipit à gorge rousse
-0        Pipit de Richard
-0        Pipit spioncelle
-0        Pluvier argenté
-0        Puffin des Anglais
-0        Râle d'eau
-0        Rémiz penduline
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Spatule blanche
-0        Sterne caugek
-0        Tadorne de Belon
-0        Tournepierre à collier
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Barge rousse              2018    0        1
+Bouvreuil pivoine         2018    0        4
+Bruant jaune              2013    0        1
+Chevalier culblanc        2017    0        1
+Chevalier gambette        2013    0        1
+Corneille noire           2018    0        4
+Courlis cendré            2018    0        1
+Épervier d'Europe         2018    0        6
+Gobemouche gris           2013    0        1
+Grande Aigrette           2017    0        1
+Grand Labbe               2017    0        5
+Grosbec casse-noyaux      2017    0        3
+Guillemot de Troïl        2015    0        5
+Hibou moyen-duc           2011    0        1
+Huppe fasciée             2014    0        1
+Labbe pomarin             2013    0        1
+Macreuse noire            2017    0        6
+Merle à plastron          2018    0        9
+Mésange à longue queue    2017    0        4
+Mésange bleue             2018    0        3
+Mouette de Sabine         2013    0        2
+Mouette mélanocéphale     2018    0        2
+Mouette rieuse            2018    0        2
+Phalarope à bec large     2013    0        1
+Phragmite des joncs       2013    0        2
+Pigeon colombin           2015    0        1
+Pingouin torda            2018    0        3
+Pipit à gorge rousse      2013    0        1
+Pipit de Richard          2017    0        1
+Pipit spioncelle          2015    0        1
+Pluvier argenté           2013    0        3
+Puffin des Anglais        2013    0        3
+Râle d'eau                2017    0        1
+Rémiz penduline           2017    0        1
+Roitelet à triple bandeau 2018    0        11
+Roitelet huppé            2015    0        7
+Sizerin cabaret           2015    0        1
+Sizerin flammé            2015    0        1
+Spatule blanche           2013    0        2
+Sterne caugek             2017    0        2
+Tadorne de Belon          2016    0        1
+Tournepierre à collier    2017    0        4
+Tourterelle des bois      2014    0        2
 

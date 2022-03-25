@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Faisan doré"
-"0";"Faucon émerillon"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Grimpereau des jardins"
-"0";"Grive mauvis"
-"0";"Hirondelle de fenêtre"
-"0";"Mésange à longue queue"
-"0";"Mésange nonnette"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Serin cini"
-"0";"Tarier pâtre"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2012,0,3
+Bécassine des marais,2015,0,2
+Bergeronnette printanière,2014,0,1
+Chevalier culblanc,2014,0,1
+Chevalier gambette,2013,0,1
+Choucas des tours,2019,0,1
+Corbeau freux,2019,0,4
+Faisan doré,2014,0,2
+Faucon émerillon,2015,0,1
+Fauvette grisette,2014,0,1
+Gobemouche gris,2009,0,1
+Grimpereau des jardins,2019,0,5
+Grive mauvis,2019,0,5
+Hirondelle de fenêtre,2016,0,2
+Mésange à longue queue,2019,0,5
+Mésange nonnette,2019,0,13
+Oedicnème criard,2013,0,2
+Perdrix grise,2014,0,3
+Serin cini,2012,0,3
+Tarier pâtre,2009,0,1
+Tarin des aulnes,2019,0,2
+Tourterelle des bois,2014,0,1
+Vanneau huppé,2019,0,3

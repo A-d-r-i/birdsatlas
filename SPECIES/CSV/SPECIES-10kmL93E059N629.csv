@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Chevalier aboyeur"
-"0";"Crabier chevelu"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette pitchou"
-"0";"Grand Gravelot"
-"0";"Locustelle tachetée"
-"0";"Pie-grièche à tête rousse"
-"0";"Rollier d'Europe"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sterne pierregarin"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2012,0,2
+Chevalier aboyeur,2018,0,2
+Crabier chevelu,2017,0,1
+Engoulevent d'Europe,2015,0,5
+Faucon émerillon,2016,0,4
+Fauvette pitchou,2018,0,1
+Grand Gravelot,2015,0,1
+Locustelle tachetée,2013,0,2
+Pie-grièche à tête rousse,2017,0,1
+Rollier d'Europe,2017,0,5
+Rousserolle effarvatte,2013,0,1
+Sarcelle d'été,2018,0,2
+Sterne pierregarin,2014,0,4
+Vautour fauve,2018,0,4

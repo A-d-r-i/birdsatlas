@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bihoreau gris"
-"0";"Bouscarle de Cetti"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Fauvette des jardins"
-"0";"Gorgebleue à miroir"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Héron pourpré"
-"0";"Mésange noire"
-"0";"Nette rousse"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Bihoreau gris,2015,0,4
+Bouscarle de Cetti,2009,0,1
+Canard pilet,2008,0,1
+Canard siffleur,2013,0,3
+Chevalier gambette,2017,0,2
+Chevalier sylvain,2017,0,3
+Combattant varié,2017,0,2
+Fauvette des jardins,2018,0,4
+Gorgebleue à miroir,2016,0,1
+Guifette moustac,2018,0,2
+Guifette noire,2017,0,1
+Héron pourpré,2017,0,4
+Mésange noire,2018,0,4
+Nette rousse,2012,0,1
+Pipit spioncelle,2016,0,2
+Pouillot siffleur,2009,0,1
+Rousserolle effarvatte,2012,0,3
+Sarcelle d'été,2018,0,5
+Tarin des aulnes,2012,0,2

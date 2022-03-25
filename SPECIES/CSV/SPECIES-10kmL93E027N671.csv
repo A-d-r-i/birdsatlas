@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau maubèche"
-"0";"Bernache du Canada"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Grand Corbeau"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Ibis sacré"
-"0";"Macareux moine"
-"0";"Océanite culblanc"
-"0";"Pigeon biset domestique"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Rossignol philomèle"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2017,0,1
+Bécasseau maubèche,2018,0,2
+Bernache du Canada,2016,0,1
+Busard des roseaux,2016,0,1
+Caille des blés,2017,0,1
+Canard pilet,2019,0,2
+Canard siffleur,2017,0,2
+Chevalier aboyeur,2018,0,2
+Coucou gris,2012,0,1
+Courlis cendré,2017,0,1
+Cygne tuberculé,2016,0,1
+Effraie des clochers,2016,0,2
+Grand Corbeau,2017,0,1
+Grèbe à cou noir,2016,0,1
+Grèbe jougris,2018,0,2
+Grive draine,2009,0,1
+Grive litorne,2017,0,2
+Guifette moustac,2018,0,1
+Guifette noire,2018,0,2
+Ibis sacré,2018,0,1
+Macareux moine,2014,0,1
+Océanite culblanc,2017,0,1
+Pigeon biset domestique,2018,0,3
+Pluvier argenté,2018,0,1
+Pluvier doré,2018,0,1
+Rossignol philomèle,2018,0,1
+Tourterelle des bois,2018,0,4
+Tourterelle turque,2017,0,2
+Verdier d'Europe,2009,0,1

@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chouette hulotte"
-"0";"Combattant varié"
-"0";"Grosbec casse-noyaux"
-"0";"Guifette noire"
-"0";"Huppe fasciée"
-"0";"Nette rousse"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Canard pilet,2016,0,3
+Chevalier gambette,2016,0,1
+Chevalier guignette,2016,0,3
+Chouette hulotte,2009,0,1
+Combattant varié,2016,0,1
+Grosbec casse-noyaux,2017,0,12
+Guifette noire,2017,0,1
+Huppe fasciée,2016,0,1
+Nette rousse,2016,0,1
+Oie rieuse,2016,0,1
+Perdrix rouge,2015,0,1
+Petit Gravelot,2016,0,2
+Pluvier argenté,2013,0,1
+Pouillot siffleur,2009,0,1

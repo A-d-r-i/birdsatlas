@@ -1,37 +1,37 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Autour des palombes
-0        Bécassine des marais
-0        Bondrée apivore
-0        Busard des roseaux
-0        Canard colvert
-0        Choucas des tours
-0        Cincle plongeur
-0        Courlis cendré
-0        Cygne tuberculé
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand Corbeau
-0        Grèbe castagneux
-0        Grive litorne
-0        Guêpier d'Europe
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Martin-pêcheur d'Europe
-0        Mouette rieuse
-0        Oie cendrée
-0        Perdrix grise
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pinson du Nord
-0        Sarcelle d'été
-0        Tadorne de Belon
-0        Tarin des aulnes
-0        Vautour fauve
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur mouchet       2018    0        12
+Autour des palombes     2007    0        2
+Bécassine des marais    2013    0        3
+Bondrée apivore         2018    0        11
+Busard des roseaux      2009    0        1
+Canard colvert          2018    0        18
+Choucas des tours       2017    0        1
+Cincle plongeur         2018    0        7
+Courlis cendré          2017    0        3
+Cygne tuberculé         2014    0        1
+Faucon hobereau         2017    0        5
+Fauvette babillarde     2017    0        7
+Fauvette des jardins    2013    0        11
+Fauvette grisette       2017    0        16
+Gobemouche gris         2013    0        1
+Gobemouche noir         2008    0        1
+Grand Corbeau           2017    0        1
+Grèbe castagneux        2013    0        2
+Grive litorne           2013    0        9
+Guêpier d'Europe        2013    0        1
+Huppe fasciée           2011    0        3
+Locustelle tachetée     2011    0        2
+Martin-pêcheur d'Europe 2013    0        10
+Mouette rieuse          2017    0        5
+Oie cendrée             2014    0        2
+Perdrix grise           2015    0        1
+Pigeon biset domestique 2015    0        7
+Pigeon colombin         2014    0        9
+Pinson du Nord          2008    0        1
+Sarcelle d'été          2017    0        1
+Tadorne de Belon        2013    0        1
+Tarin des aulnes        2011    0        4
+Vautour fauve           2007    0        1
 

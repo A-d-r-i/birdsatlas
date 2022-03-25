@@ -1,20 +1,20 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant ortolan
-0        Canard pilet
-0        Canard souchet
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Crabier chevelu
-0        Effraie des clochers
-0        Faisan vénéré
-0        Fauvette passerinette
-0        Garrot à oeil d'or
-0        Hibou moyen-duc
-0        Perroquet jaco
-0        Petit-duc scops
-0        Rollier d'Europe
-0        Tadorne de Belon
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bruant ortolan        2017    0        4
+Canard pilet          2018    0        4
+Canard souchet        2018    0        1
+Chevêche d'Athéna     2018    0        6
+Cigogne noire         2018    0        3
+Crabier chevelu       2017    0        2
+Effraie des clochers  2012    0        2
+Faisan vénéré         2018    0        2
+Fauvette passerinette 2014    0        1
+Garrot à oeil d'or    2013    0        2
+Hibou moyen-duc       2017    0        6
+Perroquet jaco        2017    0        1
+Petit-duc scops       2018    0        5
+Rollier d'Europe      2014    0        1
+Tadorne de Belon      2018    0        2
+Vautour fauve         2016    0        1
 

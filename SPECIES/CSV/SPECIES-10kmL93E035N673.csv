@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Cygne chanteur"
-"0";"Fauvette pitchou"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Guifette moustac"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huîtrier pie"
-"0";"Merle à plastron"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Phragmite des joncs"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2013,0,1
+Bergeronnette printanière,2016,0,1
+Bruant des roseaux,2012,0,3
+Canard chipeau,2010,0,2
+Chevalier aboyeur,2018,0,1
+Cygne chanteur,2016,0,2
+Fauvette pitchou,2015,0,19
+Goéland à ailes blanches,2018,0,68
+Goéland bourgmestre,2018,0,22
+Guifette moustac,2017,0,1
+Héron pourpré,2017,0,3
+Hibou moyen-duc,2018,0,24
+Hirondelle de rivage,2016,0,4
+Huîtrier pie,2016,0,2
+Merle à plastron,2014,0,2
+Mouette pygmée,2014,0,4
+Mouette tridactyle,2014,0,3
+Phragmite des joncs,2013,0,2
+Pipit spioncelle,2016,0,1
+Pouillot siffleur,2014,0,6
+Rousserolle effarvatte,2013,0,1
+Serin cini,2017,0,2
+Sizerin cabaret,2018,0,31
+Sizerin flammé,2018,0,50
+Tadorne de Belon,2018,0,7
+Torcol fourmilier,2010,0,1
+Vautour fauve,2012,0,1

@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Courlis cendré"
-"0";"Effraie des clochers"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Labbe pomarin"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Oie cendrée"
-"0";"Pluvier argenté"
-"0";"Rossignol philomèle"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,3
+Aigrette garzette,2013,0,3
+Bécassine des marais,2013,0,2
+Bihoreau gris,2014,0,6
+Bruant des roseaux,2018,0,4
+Busard des roseaux,2017,0,1
+Butor étoilé,2014,0,1
+Canard siffleur,2014,0,1
+Chevalier aboyeur,2018,0,2
+Chevalier culblanc,2018,0,10
+Courlis cendré,2013,0,1
+Effraie des clochers,2018,0,3
+Foulque macroule,2015,0,2
+Fuligule morillon,2013,0,1
+Fuligule nyroca,2014,0,5
+Gallinule poule-d'eau,2018,0,5
+Goéland leucophée,2013,0,5
+Grand-duc d'Europe,2013,0,1
+Grèbe à cou noir,2016,0,1
+Grèbe castagneux,2013,0,1
+Guêpier d'Europe,2018,0,2
+Harle bièvre,2009,0,1
+Hibou moyen-duc,2015,0,1
+Hirondelle de rivage,2017,0,2
+Labbe pomarin,2014,0,1
+Locustelle tachetée,2014,0,1
+Mouette rieuse,2015,0,7
+Oie cendrée,2008,0,1
+Pluvier argenté,2008,0,1
+Rossignol philomèle,2018,0,2
+Sizerin flammé,2012,0,1
+Tadorne casarca,2016,0,1
+Torcol fourmilier,2015,0,1

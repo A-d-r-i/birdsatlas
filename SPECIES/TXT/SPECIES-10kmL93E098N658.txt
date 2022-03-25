@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Busard Saint-Martin
-0        Chevalier culblanc
-0        Grand-duc d'Europe
-0        Niverolle alpine
-0        Perdrix rouge
-0        Pigeon colombin
-0        Pipit farlouse
-0        Tarier pâtre
-0        Tourterelle turque
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2017    0        3
+Busard Saint-Martin       2017    0        2
+Chevalier culblanc        2017    0        1
+Grand-duc d'Europe        2017    0        2
+Niverolle alpine          2015    0        8
+Perdrix rouge             2012    0        1
+Pigeon colombin           2018    0        2
+Pipit farlouse            2016    0        4
+Tarier pâtre              2017    0        1
+Tourterelle turque        2018    0        2
 

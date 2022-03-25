@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau variable"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche à collier"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Mésange boréale"
-"0";"Mouette mélanocéphale"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Roitelet à triple bandeau"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2016,0,1
+Bécasseau sanderling,2015,0,1
+Bécasseau variable,2016,0,1
+Bergeronnette printanière,2016,0,1
+Bondrée apivore,2018,0,3
+Bruant proyer,2015,0,1
+Busard cendré,2014,0,1
+Canard mandarin,2018,0,2
+Canard pilet,2013,0,1
+Canard siffleur,2012,0,1
+Canard souchet,2018,0,18
+Chevalier aboyeur,2016,0,1
+Chevalier culblanc,2013,0,1
+Effraie des clochers,2014,0,1
+Fauvette des jardins,2012,0,2
+Fuligule milouin,2013,0,5
+Gallinule poule-d'eau,2016,0,1
+Gobemouche à collier,2016,0,1
+Goéland cendré,2013,0,5
+Goéland leucophée,2012,0,4
+Grand Gravelot,2016,0,1
+Grèbe castagneux,2013,0,1
+Grimpereau des bois,2018,0,3
+Guêpier d'Europe,2014,0,1
+Harle bièvre,2018,0,2
+Hirondelle de rivage,2014,0,1
+Hypolaïs polyglotte,2013,0,1
+Mésange boréale,2016,0,2
+Mouette mélanocéphale,2013,0,2
+Pipit des arbres,2016,0,2
+Pipit farlouse,2017,0,1
+Pipit spioncelle,2012,0,1
+Roitelet à triple bandeau,2018,0,3
+Torcol fourmilier,2017,0,1

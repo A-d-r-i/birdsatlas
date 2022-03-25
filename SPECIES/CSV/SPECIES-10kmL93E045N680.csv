@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pie-grièche grise"
-"0";"Pipit des arbres"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Sittelle torchepot"
-"0";"Sterne naine"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,2
+Bondrée apivore,2013,0,4
+Bouvreuil pivoine,2012,0,3
+Bruant des roseaux,2012,0,4
+Busard des roseaux,2012,0,1
+Canard mandarin,2012,0,4
+Chevalier guignette,2014,0,1
+Cigogne blanche,2017,0,3
+Coucou gris,2018,0,15
+Effraie des clochers,2017,0,20
+Faucon émerillon,2010,0,2
+Faucon hobereau,2016,0,7
+Faucon kobez,2008,0,1
+Faucon pèlerin,2007,0,1
+Fauvette à tête noire,2018,0,51
+Fauvette des jardins,2016,0,2
+Fauvette grisette,2018,0,8
+Gobemouche gris,2014,0,9
+Gobemouche noir,2008,0,1
+Goéland brun,2018,0,3
+Grèbe castagneux,2012,0,3
+Guifette noire,2012,0,1
+Hibou moyen-duc,2014,0,7
+Loriot d'Europe,2012,0,2
+Mésange huppée,2012,0,2
+Mésange nonnette,2013,0,7
+Milan noir,2011,0,2
+Moineau friquet,2014,0,1
+Oedicnème criard,2007,0,1
+Oie cendrée,2017,0,3
+Perdrix rouge,2012,0,2
+Pic épeichette,2018,0,1
+Pic noir,2012,0,4
+Pie-grièche écorcheur,2012,0,6
+Pie-grièche grise,2013,0,1
+Pipit des arbres,2012,0,9
+Pluvier doré,2018,0,6
+Pouillot fitis,2011,0,3
+Roitelet huppé,2017,0,7
+Rossignol philomèle,2018,0,2
+Rougequeue à front blanc,2016,0,7
+Sittelle torchepot,2017,0,21
+Sterne naine,2012,0,1
+Tarier des prés,2018,0,3

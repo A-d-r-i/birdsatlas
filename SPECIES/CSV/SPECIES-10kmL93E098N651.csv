@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier sylvain"
-"0";"Choucas des tours"
-"0";"Étourneau sansonnet"
-"0";"Faucon hobereau"
-"0";"Grand Cormoran"
-"0";"Grèbe huppé"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Hirondelle rustique"
-"0";"Mésange nonnette"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Plongeon arctique"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Serin cini"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2017,0,1
+Busard des roseaux,2017,0,1
+Caille des blés,2018,0,3
+Chevalier sylvain,2018,0,2
+Choucas des tours,2010,0,1
+Étourneau sansonnet,2016,0,2
+Faucon hobereau,2015,0,1
+Grand Cormoran,2015,0,4
+Grèbe huppé,2018,0,1
+Guêpier d'Europe,2010,0,1
+Harle bièvre,2018,0,2
+Hirondelle rustique,2017,0,1
+Mésange nonnette,2018,0,3
+Pie-grièche écorcheur,2017,0,5
+Pinson du Nord,2017,0,3
+Plongeon arctique,2017,0,3
+Pouillot de Bonelli,2016,0,2
+Pouillot fitis,2010,0,1
+Serin cini,2013,0,1
+Tarier pâtre,2016,0,1

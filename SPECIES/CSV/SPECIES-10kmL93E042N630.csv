@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Bouvreuil pivoine"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oie à tête barrée"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2011,0,2
+Bécasse des bois,2018,0,1
+Bernache du Canada,2014,0,7
+Bouvreuil pivoine,2017,0,7
+Caille des blés,2017,0,1
+Canard chipeau,2012,0,4
+Chevalier aboyeur,2010,0,2
+Chevêche d'Athéna,2018,0,1
+Cigogne noire,2017,0,6
+Corbeau freux,2013,0,2
+Faisan de Colchide,2018,0,11
+Faucon hobereau,2018,0,6
+Faucon kobez,2014,0,1
+Faucon pèlerin,2016,0,15
+Fauvette des jardins,2012,0,3
+Gobemouche gris,2017,0,4
+Grive litorne,2018,0,1
+Guêpier d'Europe,2015,0,2
+Huppe fasciée,2017,0,6
+Locustelle tachetée,2011,0,2
+Moineau friquet,2012,0,7
+Mouette rieuse,2017,0,1
+Oie à tête barrée,2016,0,1
+Petit Gravelot,2010,0,5
+Pic épeichette,2016,0,10
+Pipit spioncelle,2012,0,4
+Pluvier doré,2012,0,1
+Râle d'eau,2012,0,1
+Rougequeue à front blanc,2017,0,4
+Rousserolle effarvatte,2018,0,1
+Sarcelle d'été,2012,0,2
+Serin cini,2018,0,10
+Tarier des prés,2017,0,7
+Torcol fourmilier,2017,0,1
+Vautour fauve,2018,0,1

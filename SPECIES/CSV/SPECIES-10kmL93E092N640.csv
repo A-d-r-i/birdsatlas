@@ -1,26 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Cisticole des joncs"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Fauvette grisette"
-"0";"Fauvette orphée"
-"0";"Gobemouche noir"
-"0";"Grand Cormoran"
-"0";"Guêpier d'Europe"
-"0";"Héron cendré"
-"0";"Moineau soulcie"
-"0";"Perdrix grise"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rossignol philomèle"
-"0";"Rousserolle verderolle"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2011,0,3
+Bruant ortolan,2018,0,8
+Bruant proyer,2009,0,1
+Busard des roseaux,2007,0,1
+Canard colvert,2016,0,1
+Choucas des tours,2015,0,2
+Cisticole des joncs,2017,0,1
+Faucon émerillon,2011,0,1
+Fauvette grisette,2015,0,3
+Fauvette orphée,2015,0,1
+Gobemouche noir,2018,0,13
+Grand Cormoran,2007,0,1
+Guêpier d'Europe,2014,0,1
+Héron cendré,2007,0,1
+Moineau soulcie,2009,0,2
+Perdrix grise,2015,0,1
+Pipit rousseline,2018,0,2
+Pouillot fitis,2018,0,2
+Pouillot siffleur,2018,0,1
+Rossignol philomèle,2011,0,3
+Rousserolle verderolle,2017,0,2
+Tourterelle turque,2009,0,2

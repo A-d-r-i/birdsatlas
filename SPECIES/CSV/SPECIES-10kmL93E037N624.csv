@@ -1,58 +1,56 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Cisticole des joncs"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic de Sharpe"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot ibérique"
-"0";"Roitelet huppé"
-"0";"Rollier d'Europe"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,4
+Aigle royal,2015,0,2
+Aigrette garzette,2017,0,38
+Autour des palombes,2017,0,1
+Bec-croisé des sapins,2015,0,1
+Bergeronnette printanière,2017,0,2
+Bouscarle de Cetti,2016,0,1
+Bouvreuil pivoine,2016,0,101
+Busard cendré,2015,0,1
+Caille des blés,2015,0,26
+Canard colvert,2016,0,19
+Cigogne noire,2015,0,3
+Cincle plongeur,2016,0,5
+Circaète Jean-le-Blanc,2017,0,7
+Cisticole des joncs,2018,0,4
+Courlis cendré,2016,0,2
+Engoulevent d'Europe,2009,0,2
+Faucon kobez,2011,0,1
+Fauvette des jardins,2015,0,3
+Fauvette grisette,2015,0,55
+Gobemouche gris,2015,0,29
+Grand Cormoran,2016,0,34
+Grive draine,2016,0,26
+Grive litorne,2016,0,4
+Grive mauvis,2015,0,3
+Grosbec casse-noyaux,2016,0,12
+Guêpier d'Europe,2015,0,1
+Hirondelle de rivage,2015,0,1
+Locustelle tachetée,2015,0,2
+Merle à plastron,2015,0,1
+Moineau friquet,2015,0,2
+Oedicnème criard,2015,0,1
+Perdrix rouge,2015,0,1
+Petit-duc scops,2015,0,2
+Pic de Sharpe,2015,0,2
+Pic épeichette,2016,0,10
+Pic mar,2015,0,1
+Pie-grièche grise,2015,0,1
+Pie-grièche méridionale,2009,0,1
+Pigeon biset domestique,2016,0,4
+Pigeon colombin,2016,0,4
+Pinson du Nord,2011,0,1
+Pipit spioncelle,2016,0,4
+Pouillot de Bonelli,2015,0,1
+Pouillot fitis,2015,0,25
+Pouillot ibérique,2012,0,4
+Roitelet huppé,2016,0,10
+Rollier d'Europe,2017,0,1
+Rossignol philomèle,2015,0,23
+Rougequeue à front blanc,2015,0,3
+Serin cini,2015,0,20
+Tarier des prés,2015,0,1
+Tarin des aulnes,2018,0,41
+Tourterelle des bois,2015,0,3
+Vanneau huppé,2013,0,1

@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Busard pâle"
-"0";"Chevalier culblanc"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Conure veuve"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Goéland argenté"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grand Gravelot"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pouillot de Bonelli"
-"0";"Serin cini"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2014,0,1
+Bécassine des marais,2017,0,1
+Bergeronnette printanière,2016,0,2
+Busard des roseaux,2017,0,4
+Busard pâle,2018,0,1
+Chevalier culblanc,2008,0,1
+Chevalier gambette,2010,0,1
+Chevalier guignette,2017,0,2
+Choucas des tours,2010,0,2
+Conure veuve,2014,0,1
+Faisan vénéré,2012,0,3
+Faucon hobereau,2015,0,3
+Fauvette des jardins,2015,0,1
+Fauvette grisette,2016,0,14
+Gallinule poule-d'eau,2016,0,4
+Gobemouche gris,2010,0,2
+Goéland argenté,2015,0,1
+Goéland leucophée,2011,0,1
+Grand Cormoran,2011,0,1
+Grand Gravelot,2007,0,1
+Grive draine,2016,0,25
+Grive mauvis,2017,0,2
+Grosbec casse-noyaux,2018,0,33
+Hibou des marais,2018,0,1
+Locustelle tachetée,2017,0,1
+Mésange noire,2018,0,9
+Pie-grièche écorcheur,2013,0,2
+Pigeon colombin,2016,0,4
+Pouillot de Bonelli,2013,0,2
+Serin cini,2009,0,1
+Tadorne de Belon,2008,0,1

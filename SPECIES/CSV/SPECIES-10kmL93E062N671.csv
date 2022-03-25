@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Phragmite des joncs"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2015,0,1
+Courlis cendré,2018,0,1
+Engoulevent d'Europe,2009,0,1
+Faisan vénéré,2018,0,1
+Faucon hobereau,2009,0,1
+Hibou moyen-duc,2018,0,2
+Linotte mélodieuse,2009,0,1
+Moineau friquet,2017,0,2
+Phragmite des joncs,2009,0,1

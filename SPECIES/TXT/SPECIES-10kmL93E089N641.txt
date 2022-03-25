@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Grand-duc d'Europe
-0        Hirondelle rousseline
-0        Huppe fasciée
-0        Martin-pêcheur d'Europe
-0        Moineau friquet
-0        Perdrix grise
-0        Perdrix rouge
-0        Pigeon colombin
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour de Rüppell
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bécasse des bois        2012    0        4
+Faisan de Colchide      2010    0        1
+Faucon hobereau         2015    0        5
+Fauvette des jardins    2015    0        3
+Fauvette grisette       2012    0        3
+Grand-duc d'Europe      2011    0        3
+Hirondelle rousseline   2016    0        1
+Huppe fasciée           2018    0        2
+Martin-pêcheur d'Europe 2016    0        2
+Moineau friquet         2016    0        1
+Perdrix grise           2011    0        1
+Perdrix rouge           2017    0        2
+Pigeon colombin         2018    0        1
+Pouillot siffleur       2011    0        3
+Sizerin cabaret         2018    0        13
+Sizerin flammé          2018    0        13
+Vautour de Rüppell      2011    0        3
 

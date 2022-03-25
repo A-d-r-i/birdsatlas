@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Busard cendré"
-"0";"Canard chipeau"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Roitelet à triple bandeau"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Aigle botté,2014,0,1
+Bécasse des bois,2014,0,1
+Bergeronnette des ruisseaux,2016,0,4
+Bihoreau gris,2016,0,2
+Busard cendré,2015,0,2
+Canard chipeau,2012,0,2
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2017,0,8
+Grive litorne,2019,0,2
+Grosbec casse-noyaux,2018,0,4
+Hibou moyen-duc,2015,0,1
+Hirondelle de rivage,2017,0,1
+Moineau friquet,2009,0,1
+Mouette rieuse,2017,0,2
+Perdrix rouge,2012,0,2
+Petit Gravelot,2017,0,1
+Pic cendré,2018,0,3
+Pouillot de Bonelli,2016,0,2
+Pouillot fitis,2016,0,3
+Pouillot siffleur,2016,0,7
+Râle d'eau,2016,0,1
+Roitelet à triple bandeau,2017,0,4
+Rougequeue à front blanc,2016,0,2
+Rousserolle effarvatte,2018,0,6
+Sarcelle d'hiver,2012,0,2
+Tarier des prés,2009,0,1
+Tarin des aulnes,2015,0,1

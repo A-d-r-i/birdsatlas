@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant proyer"
-"0";"Chardonneret élégant"
-"0";"Effraie des clochers"
-"0";"Étourneau sansonnet"
-"0";"Faucon hobereau"
-"0";"Fauvette sarde"
-"0";"Hirondelle de rochers"
-"0";"Venturon corse"
+frname,lastobs,newcount,oldcount
+Bruant proyer,2009,0,1
+Chardonneret élégant,2018,0,1
+Effraie des clochers,2017,0,1
+Étourneau sansonnet,2015,0,1
+Faucon hobereau,2009,0,1
+Fauvette sarde,2017,0,1
+Hirondelle de rochers,2017,0,1
+Venturon corse,2017,0,1

@@ -1,29 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bruant fou
-0        Chevalier aboyeur
-0        Cigogne blanche
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Grand Cormoran
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Mésange noire
-0        Monticole bleu
-0        Oie cendrée
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pluvier guignard
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle effarvatte
-0        Tarin des aulnes
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2015    0        1
+Bécasse des bois       2018    0        1
+Bécassine des marais   2016    0        4
+Bruant fou             2013    0        1
+Chevalier aboyeur      2011    0        1
+Cigogne blanche        2018    0        3
+Effraie des clochers   2014    0        2
+Engoulevent d'Europe   2015    0        2
+Faucon pèlerin         2015    0        4
+Gallinule poule-d'eau  2017    0        6
+Hirondelle de rivage   2015    0        1
+Hirondelle de rochers  2009    0        1
+Mésange noire          2016    0        1
+Monticole bleu         2011    0        5
+Oie cendrée            2013    0        1
+Pinson du Nord         2016    0        2
+Pipit des arbres       2015    0        1
+Pluvier guignard       2015    0        1
+Pouillot de Bonelli    2016    0        5
+Pouillot fitis         2018    0        9
+Pouillot siffleur      2016    0        1
+Rousserolle effarvatte 2016    0        1
+Tarin des aulnes       2016    0        4
+Torcol fourmilier      2007    0        1
 

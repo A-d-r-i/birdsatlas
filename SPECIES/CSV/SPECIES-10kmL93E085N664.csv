@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bernache nonnette"
-"0";"Buse pattue"
-"0";"Chevalier stagnatile"
-"0";"Goéland railleur"
-"0";"Guifette leucoptère"
-"0";"Locustelle luscinioïde"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Oedicnème criard"
-"0";"Pipit à gorge rousse"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,1
+Barge à queue noire,2018,0,3
+Bécasseau de Temminck,2016,0,1
+Bécasseau maubèche,2018,0,1
+Bécasseau sanderling,2016,0,1
+Bernache nonnette,2009,0,1
+Buse pattue,2009,0,1
+Chevalier stagnatile,2016,0,1
+Goéland railleur,2016,0,1
+Guifette leucoptère,2013,0,1
+Locustelle luscinioïde,2016,0,2
+Mésange noire,2016,0,1
+Mésange nonnette,2016,0,3
+Oedicnème criard,2016,0,4
+Pipit à gorge rousse,2016,0,1
+Rémiz penduline,2018,0,1
+Rollier d'Europe,2016,0,1
+Rousserolle turdoïde,2009,0,1
+Tadorne casarca,2016,0,1

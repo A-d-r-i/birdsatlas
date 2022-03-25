@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Grosbec casse-noyaux
-0        Huppe fasciée
-0        Martinet noir
-0        Merle à plastron
-0        Milan noir
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pinson du Nord
-0        Roitelet à triple bandeau
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Grosbec casse-noyaux      2018    0        1
+Huppe fasciée             2017    0        1
+Martinet noir             2015    0        1
+Merle à plastron          2016    0        1
+Milan noir                2008    0        1
+Petit-duc scops           2017    0        2
+Pie-grièche à tête rousse 2015    0        2
+Pinson du Nord            2018    0        1
+Roitelet à triple bandeau 2014    0        1
 

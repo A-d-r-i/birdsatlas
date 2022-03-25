@@ -1,14 +1,12 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bernache nonnette"
-"0";"Cigogne noire"
-"0";"Coucou gris"
-"0";"Locustelle tachetée"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Sittelle torchepot"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2017,0,1
+Bernache nonnette,2016,0,1
+Cigogne noire,2018,0,1
+Coucou gris,2009,0,1
+Locustelle tachetée,2009,0,1
+Pigeon colombin,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Roitelet huppé,2009,0,1
+Sittelle torchepot,2009,0,1
+Tourterelle des bois,2009,0,1

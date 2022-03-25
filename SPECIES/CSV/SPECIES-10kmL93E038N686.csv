@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Canard colvert"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Coucou gris"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des bois"
-"0";"Grive litorne"
-"0";"Héron garde-boeufs"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Pic noir"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,1
+Bécasse des bois,2018,0,4
+Bécassine des marais,2018,0,4
+Canard colvert,2018,0,4
+Chevalier culblanc,2018,0,1
+Chouette hulotte,2018,0,3
+Cigogne blanche,2018,0,1
+Coucou gris,2009,0,1
+Goéland brun,2018,0,1
+Goéland cendré,2018,0,8
+Grèbe castagneux,2009,0,1
+Grimpereau des bois,2015,0,1
+Grive litorne,2018,0,4
+Héron garde-boeufs,2018,0,3
+Hypolaïs polyglotte,2016,0,1
+Martin-pêcheur d'Europe,2018,0,1
+Mésange huppée,2018,0,2
+Pic noir,2018,0,1
+Rougequeue à front blanc,2009,0,1
+Serin cini,2018,0,1
+Torcol fourmilier,2018,0,1
+Tourterelle des bois,2018,0,1
+Traquet motteux,2016,0,1

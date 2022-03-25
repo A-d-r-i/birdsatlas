@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Chevalier arlequin"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Fuligule milouinan"
-"0";"Goéland à ailes blanches"
-"0";"Goéland à bec cerclé"
-"0";"Grand Labbe"
-"0";"Guifette moustac"
-"0";"Harelde boréale"
-"0";"Harle piette"
-"0";"Locustelle tachetée"
-"0";"Milan royal"
-"0";"Oedicnème criard"
-"0";"Pélican blanc"
-"0";"Pipit spioncelle"
-"0";"Plongeon arctique"
-"0";"Pouillot à grands sourcils"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2016,0,3
+Bécasseau sanderling,2018,0,2
+Bécassine sourde,2009,0,1
+Bruant proyer,2008,0,1
+Caille des blés,2017,0,2
+Chevalier arlequin,2016,0,1
+Chevêche d'Athéna,2009,0,1
+Cigogne noire,2017,0,1
+Fuligule milouinan,2009,0,1
+Goéland à ailes blanches,2018,0,2
+Goéland à bec cerclé,2016,0,1
+Grand Labbe,2016,0,1
+Guifette moustac,2014,0,1
+Harelde boréale,2014,0,1
+Harle piette,2013,0,2
+Locustelle tachetée,2016,0,2
+Milan royal,2012,0,1
+Oedicnème criard,2018,0,1
+Pélican blanc,2013,0,1
+Pipit spioncelle,2014,0,3
+Plongeon arctique,2017,0,2
+Pouillot à grands sourcils,2018,0,2
+Rougequeue à front blanc,2016,0,2
+Rousserolle verderolle,2017,0,3
+Sarcelle d'été,2009,0,2

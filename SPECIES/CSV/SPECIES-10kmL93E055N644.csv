@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe huppé"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Mésange huppée"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,13
+Alouette des champs,2016,0,7
+Autour des palombes,2012,0,1
+Bécasse des bois,2011,0,3
+Bec-croisé des sapins,2016,0,1
+Bruant des roseaux,2016,0,1
+Bruant jaune,2012,0,2
+Busard Saint-Martin,2017,0,5
+Canard mandarin,2016,0,1
+Chevalier culblanc,2014,0,2
+Cigogne blanche,2014,0,1
+Cygne tuberculé,2012,0,2
+Engoulevent d'Europe,2017,0,1
+Gobemouche gris,2013,0,1
+Gobemouche noir,2015,0,1
+Grèbe huppé,2012,0,1
+Grive litorne,2017,0,5
+Grive mauvis,2017,0,2
+Guêpier d'Europe,2012,0,1
+Hibou moyen-duc,2016,0,9
+Mésange huppée,2017,0,12
+Mouette rieuse,2011,0,1
+Oedicnème criard,2009,0,2
+Perdrix grise,2017,0,1
+Perdrix rouge,2016,0,15
+Petit-duc scops,2012,0,2
+Pic épeichette,2015,0,1
+Pic mar,2018,0,7
+Pigeon colombin,2016,0,2
+Pouillot fitis,2016,0,3
+Tarier des prés,2016,0,2
+Tarin des aulnes,2017,0,4
+Torcol fourmilier,2017,0,4
+Vanneau huppé,2017,0,4

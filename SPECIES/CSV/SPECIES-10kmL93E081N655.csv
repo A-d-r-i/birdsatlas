@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chouette de Tengmalm"
-"0";"Corbeau freux"
-"0";"Faisan de Colchide"
-"0";"Gallinule poule-d'eau"
-"0";"Grand-duc d'Europe"
-"0";"Hirondelle de rochers"
-"0";"Merle à plastron"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Rossignol philomèle"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2015,0,2
+Bihoreau gris,2014,0,1
+Bruant des roseaux,2013,0,2
+Busard Saint-Martin,2018,0,14
+Chouette de Tengmalm,2015,0,3
+Corbeau freux,2013,0,3
+Faisan de Colchide,2015,0,10
+Gallinule poule-d'eau,2010,0,1
+Grand-duc d'Europe,2016,0,3
+Hirondelle de rochers,2009,0,1
+Merle à plastron,2015,0,1
+Perdrix rouge,2015,0,3
+Pic mar,2015,0,2
+Pigeon colombin,2017,0,3
+Rossignol philomèle,2015,0,2
+Traquet motteux,2011,0,1

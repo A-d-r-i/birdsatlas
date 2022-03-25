@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bec-croisé des sapins
-0        Bihoreau gris
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Choucas des tours
-0        Chouette hulotte
-0        Coucou geai
-0        Effraie des clochers
-0        Étourneau unicolore
-0        Fauvette à lunettes
-0        Fauvette des jardins
-0        Gorgebleue à miroir
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Oedicnème criard
-0        Pic vert
-0        Pie bavarde
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Tarier des prés
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigrette garzette      2014    0        1
+Bec-croisé des sapins  2012    0        2
+Bihoreau gris          2009    0        1
+Chevalier aboyeur      2014    0        1
+Chevalier guignette    2016    0        2
+Choucas des tours      2016    0        4
+Chouette hulotte       2009    0        1
+Coucou geai            2018    0        2
+Effraie des clochers   2012    0        4
+Étourneau unicolore    2009    0        1
+Fauvette à lunettes    2018    0        3
+Fauvette des jardins   2009    0        1
+Gorgebleue à miroir    2007    0        1
+Grand-duc d'Europe     2017    0        6
+Grive mauvis           2015    0        3
+Héron pourpré          2016    0        1
+Hirondelle de rivage   2016    0        1
+Merle à plastron       2013    0        1
+Oedicnème criard       2018    0        2
+Pic vert               2009    0        1
+Pie bavarde            2016    0        5
+Pipit des arbres       2018    0        2
+Pipit spioncelle       2015    0        1
+Roitelet huppé         2016    0        9
+Rousserolle effarvatte 2012    0        2
+Rousserolle turdoïde   2015    0        2
+Tarier des prés        2012    0        1
 

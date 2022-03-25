@@ -1,22 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Canard siffleur"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Conure veuve"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Guêpier d'Europe"
-"0";"Guifette moustac"
-"0";"Hirondelle de rivage"
-"0";"Inséparable de Fischer"
-"0";"Locustelle tachetée"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Râle d'eau"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2014,0,9
+Bécasse des bois,2014,0,9
+Bécassine des marais,2014,0,3
+Bec-croisé des sapins,2014,0,1
+Canard siffleur,2019,0,2
+Cigogne blanche,2018,0,2
+Cigogne noire,2018,0,3
+Conure veuve,2016,0,1
+Faucon kobez,2013,0,1
+Fauvette pitchou,2016,0,1
+Guêpier d'Europe,2009,0,1
+Guifette moustac,2012,0,1
+Hirondelle de rivage,2018,0,1
+Inséparable de Fischer,2015,0,1
+Locustelle tachetée,2011,0,3
+Perruche à collier,2017,0,1
+Petit-duc scops,2009,0,1
+Râle d'eau,2018,0,2

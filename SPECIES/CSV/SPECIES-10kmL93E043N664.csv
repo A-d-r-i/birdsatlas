@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau variable"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Canard à collier noir"
-"0";"Canard des Bahamas"
-"0";"Cochevis huppé"
-"0";"Combattant varié"
-"0";"Fuligule nyroca"
-"0";"Goéland cendré"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Sarcelle d'été"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne naine"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2013,0,1
+Bécasseau variable,2015,0,2
+Bernache nonnette,2013,0,1
+Busard cendré,2013,0,1
+Canard à collier noir,2015,0,1
+Canard des Bahamas,2013,0,1
+Cochevis huppé,2009,0,1
+Combattant varié,2011,0,2
+Fuligule nyroca,2012,0,1
+Goéland cendré,2012,0,3
+Guifette noire,2016,0,2
+Harle bièvre,2013,0,1
+Héron pourpré,2018,0,3
+Moineau friquet,2009,0,1
+Mouette mélanocéphale,2018,0,2
+Mouette pygmée,2018,0,1
+Sarcelle d'été,2015,0,2
+Sizerin flammé,2018,0,1
+Spatule blanche,2011,0,1
+Sterne naine,2013,0,1
+Torcol fourmilier,2017,0,1

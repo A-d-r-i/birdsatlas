@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Gallinule poule-d'eau"
-"0";"Geai des chênes"
-"0";"Grimpereau des jardins"
-"0";"Grive draine"
-"0";"Grive musicienne"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Pic épeichette"
-"0";"Pouillot fitis"
-"0";"Pouillot véloce"
-"0";"Roitelet huppé"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2009,0,1
+Bergeronnette des ruisseaux,2009,0,1
+Bergeronnette grise,2009,0,1
+Bruant des roseaux,2009,0,1
+Bruant jaune,2009,0,2
+Busard cendré,2009,0,1
+Canard colvert,2009,0,1
+Choucas des tours,2009,0,2
+Corbeau freux,2018,0,4
+Épervier d'Europe,2009,0,1
+Faucon crécerelle,2016,0,3
+Gallinule poule-d'eau,2009,0,1
+Geai des chênes,2009,0,2
+Grimpereau des jardins,2009,0,1
+Grive draine,2009,0,1
+Grive musicienne,2009,0,2
+Héron cendré,2009,0,1
+Hibou moyen-duc,2009,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Mésange à longue queue,2009,0,1
+Mésange huppée,2009,0,1
+Mésange nonnette,2009,0,2
+Perdrix grise,2009,0,2
+Pic épeichette,2009,0,1
+Pouillot fitis,2009,0,1
+Pouillot véloce,2009,0,2
+Roitelet huppé,2009,0,1
+Tarier pâtre,2009,0,1

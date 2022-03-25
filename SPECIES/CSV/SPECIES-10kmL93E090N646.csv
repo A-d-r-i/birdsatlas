@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Astrild ondulé"
-"0";"Bécasseau minute"
-"0";"Bécasseau variable"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Blongios nain"
-"0";"Bruant des neiges"
-"0";"Bruant ortolan"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Cygne de Bewick"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Eider à duvet"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland marin"
-"0";"Grèbe jougris"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Hypolaïs ictérine"
-"0";"Lagopède alpin"
-"0";"Macreuse noire"
-"0";"Moineau soulcie"
-"0";"Mouette tridactyle"
-"0";"Niverolle alpine"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Plongeon catmarin"
-"0";"Plongeon imbrin"
-"0";"Pouillot brun"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Astrild ondulé,2018,0,5
+Bécasseau minute,2018,0,10
+Bécasseau variable,2015,0,7
+Bécassine des marais,2017,0,3
+Bécassine sourde,2017,0,1
+Blongios nain,2016,0,5
+Bruant des neiges,2015,0,4
+Bruant ortolan,2016,0,2
+Cigogne noire,2014,0,4
+Combattant varié,2012,0,1
+Courlis cendré,2017,0,3
+Courlis corlieu,2012,0,6
+Cygne de Bewick,2012,0,4
+Cygne noir,2018,0,87
+Échasse blanche,2015,0,2
+Eider à duvet,2011,0,1
+Fuligule milouinan,2016,0,33
+Fuligule nyroca,2015,0,15
+Garrot à oeil d'or,2016,0,7
+Goéland marin,2013,0,1
+Grèbe jougris,2017,0,8
+Harle huppé,2018,0,8
+Harle piette,2012,0,20
+Hypolaïs ictérine,2015,0,1
+Lagopède alpin,2013,0,1
+Macreuse noire,2016,0,25
+Moineau soulcie,2015,0,3
+Mouette tridactyle,2009,0,2
+Niverolle alpine,2014,0,2
+Perdrix grise,2014,0,1
+Perruche à collier,2013,0,2
+Petit-duc scops,2009,0,3
+Plongeon catmarin,2017,0,7
+Plongeon imbrin,2013,0,2
+Pouillot brun,2017,0,24
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Spatule blanche,2014,0,8

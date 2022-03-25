@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevalier guignette"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Étourneau unicolore"
-"0";"Guêpier d'Europe"
-"0";"Huppe fasciée"
-"0";"Martinet à ventre blanc"
-"0";"Moineau friquet"
-"0";"Petit-duc scops"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Sittelle corse"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Venturon corse"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Chevalier guignette,2016,0,1
+Coucou gris,2010,0,1
+Engoulevent d'Europe,2009,0,1
+Étourneau unicolore,2009,0,1
+Guêpier d'Europe,2009,0,1
+Huppe fasciée,2009,0,1
+Martinet à ventre blanc,2009,0,1
+Moineau friquet,2018,0,1
+Petit-duc scops,2009,0,1
+Roitelet à triple bandeau,2017,0,2
+Roitelet huppé,2018,0,1
+Sittelle corse,2010,0,1
+Torcol fourmilier,2009,0,1
+Tourterelle des bois,2009,0,1
+Venturon corse,2015,0,2
+Verdier d'Europe,2015,0,1

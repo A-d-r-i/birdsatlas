@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bernache nonnette
-0        Busard des roseaux
-0        Caille des blés
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Goéland cendré
-0        Guifette noire
-0        Harle huppé
-0        Harle piette
-0        Locustelle tachetée
-0        Macreuse noire
-0        Moineau friquet
-0        Pigeon biset domestique
-0        Plongeon imbrin
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Sterne caspienne
-0        Tadorne casarca
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Barge à queue noire     2011    0        2
+Bernache nonnette       2009    0        1
+Busard des roseaux      2009    0        1
+Caille des blés         2009    0        1
+Faucon pèlerin          2009    0        1
+Fauvette babillarde     2009    0        1
+Goéland cendré          2007    0        1
+Guifette noire          2017    0        2
+Harle huppé             2009    0        1
+Harle piette            2009    0        1
+Locustelle tachetée     2009    0        1
+Macreuse noire          2009    0        1
+Moineau friquet         2009    0        1
+Pigeon biset domestique 2018    0        3
+Plongeon imbrin         2009    0        1
+Pouillot de Bonelli     2009    0        1
+Pouillot siffleur       2009    0        1
+Sterne caspienne        2018    0        1
+Tadorne casarca         2015    0        1
 

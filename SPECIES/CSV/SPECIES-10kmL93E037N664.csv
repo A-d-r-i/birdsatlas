@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Canard chipeau"
-"0";"Chevalier aboyeur"
-"0";"Cigogne noire"
-"0";"Goéland cendré"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2017,0,6
+Bec-croisé des sapins,2016,0,3
+Bergeronnette flavéole (M.f.flavissima),2013,0,2
+Bergeronnette printanière,2018,0,6
+Bruant des roseaux,2010,0,1
+Busard cendré,2016,0,5
+Canard chipeau,2013,0,1
+Chevalier aboyeur,2012,0,2
+Cigogne noire,2013,0,2
+Goéland cendré,2009,0,1
+Mésange noire,2017,0,2
+Moineau friquet,2015,0,4
+Perdrix grise,2012,0,5
+Petit Gravelot,2010,0,4
+Phragmite des joncs,2011,0,2
+Pouillot de Bonelli,2010,0,2
+Pouillot siffleur,2010,0,2
+Râle des genêts,2013,0,1
+Sarcelle d'hiver,2013,0,1
+Serin cini,2012,0,2
+Torcol fourmilier,2016,0,2

@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard cendré
-0        Busard pâle
-0        Butor étoilé
-0        Caille des blés
-0        Calopsitte élégante
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier sylvain
-0        Cigogne noire
-0        Cochevis huppé
-0        Corbeau freux
-0        Corneille mantelée
-0        Coucou geai
-0        Courlis corlieu
-0        Échasse blanche
-0        Effraie des clochers
-0        Étourneau unicolore
-0        Faucon d'Eléonore
-0        Fauvette babillarde
-0        Flamant rose
-0        Gobemouche à collier
-0        Goéland brun
-0        Goéland railleur
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hypolaïs polyglotte
-0        Ibis falcinelle
-0        Inséparable de Fischer
-0        Locustelle tachetée
-0        Lusciniole à moustaches
-0        Moineau friquet
-0        Moineau soulcie
-0        Oedicnème criard
-0        Ouette d'Egypte
-0        Panure à moustaches
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pigeon colombin
-0        Rémiz penduline
-0        Traquet oreillard
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Busard cendré             2013    0        4
+Busard pâle               2010    0        1
+Butor étoilé              2007    0        1
+Caille des blés           2018    0        6
+Calopsitte élégante       2011    0        1
+Canard souchet            2010    0        1
+Chevalier aboyeur         2014    0        3
+Chevalier sylvain         2018    0        14
+Cigogne noire             2017    0        3
+Cochevis huppé            2017    0        1
+Corbeau freux             2017    0        5
+Corneille mantelée        2018    0        40
+Coucou geai               2018    0        12
+Courlis corlieu           2012    0        2
+Échasse blanche           2010    0        1
+Effraie des clochers      2016    0        2
+Étourneau unicolore       2019    0        1
+Faucon d'Eléonore         2018    0        4
+Fauvette babillarde       2014    0        2
+Flamant rose              2018    0        3
+Gobemouche à collier      2015    0        1
+Goéland brun              2013    0        1
+Goéland railleur          2018    0        1
+Hibou des marais          2009    0        2
+Hibou moyen-duc           2013    0        4
+Hypolaïs polyglotte       2017    0        9
+Ibis falcinelle           2016    0        4
+Inséparable de Fischer    2018    0        2
+Locustelle tachetée       2011    0        1
+Lusciniole à moustaches   2016    0        4
+Moineau friquet           2011    0        4
+Moineau soulcie           2015    0        2
+Oedicnème criard          2014    0        3
+Ouette d'Egypte           2011    0        1
+Panure à moustaches       2010    0        1
+Petit Gravelot            2014    0        2
+Phragmite des joncs       2015    0        7
+Pie-grièche à tête rousse 2017    0        14
+Pigeon colombin           2012    0        5
+Rémiz penduline           2013    0        1
+Traquet oreillard         2015    0        3
+Vanneau huppé             2018    0        32
 

@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bihoreau gris"
-"0";"Butor étoilé"
-"0";"Chevalier aboyeur"
-"0";"Courlis cendré"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Etourneau roselin"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette orphée"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Hibou des marais"
-"0";"Hirondelle de rivage"
-"0";"Martinet à ventre blanc"
-"0";"Martinet pâle"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2013,0,1
+Avocette élégante,2007,0,1
+Bécasse des bois,2017,0,3
+Bihoreau gris,2013,0,3
+Butor étoilé,2008,0,1
+Chevalier aboyeur,2010,0,2
+Courlis cendré,2011,0,1
+Échasse blanche,2012,0,2
+Engoulevent d'Europe,2015,0,2
+Etourneau roselin,2018,0,1
+Faucon émerillon,2017,0,2
+Faucon kobez,2015,0,3
+Faucon pèlerin,2017,0,2
+Fauvette orphée,2016,0,1
+Foulque macroule,2015,0,3
+Fuligule milouin,2008,0,1
+Gobemouche gris,2016,0,2
+Hibou des marais,2008,0,5
+Hirondelle de rivage,2016,0,2
+Martinet à ventre blanc,2016,0,2
+Martinet pâle,2008,0,1
+Pouillot siffleur,2018,0,2
+Sarcelle d'été,2015,0,1
+Sarcelle d'hiver,2010,0,8
+Torcol fourmilier,2017,0,2

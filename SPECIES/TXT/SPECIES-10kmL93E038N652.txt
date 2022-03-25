@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bécasseau falcinelle
-0        Bécassine sourde
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bruant jaune
-0        Choucas des tours
-0        Cochevis huppé
-0        Corbeau freux
-0        Coucou geai
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette pitchou
-0        Goéland à bec cerclé
-0        Goéland pontique
-0        Grèbe esclavon
-0        Grive mauvis
-0        Guifette leucoptère
-0        Guifette moustac
-0        Guifette noire
-0        Martinet à ventre blanc
-0        Mouette pygmée
-0        Perdrix grise
-0        Petit-duc scops
-0        Phalarope à bec étroit
-0        Plongeon catmarin
-0        Rousserolle turdoïde
-0        Sterne caspienne
-0        Torcol fourmilier
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Aigle botté                             2012    0        10
+Alouette lulu                           2017    0        7
+Bécasseau falcinelle                    2010    0        1
+Bécassine sourde                        2017    0        1
+Bergeronnette flavéole (M.f.flavissima) 2016    0        5
+Bruant jaune                            2018    0        11
+Choucas des tours                       2019    0        11
+Cochevis huppé                          2017    0        38
+Corbeau freux                           2018    0        7
+Coucou geai                             2014    0        1
+Engoulevent d'Europe                    2010    0        6
+Faucon émerillon                        2018    0        37
+Fauvette pitchou                        2015    0        3
+Goéland à bec cerclé                    2012    0        2
+Goéland pontique                        2016    0        2
+Grèbe esclavon                          2018    0        3
+Grive mauvis                            2018    0        28
+Guifette leucoptère                     2014    0        1
+Guifette moustac                        2018    0        9
+Guifette noire                          2017    0        3
+Martinet à ventre blanc                 2012    0        1
+Mouette pygmée                          2018    0        7
+Perdrix grise                           2013    0        1
+Petit-duc scops                         2018    0        1
+Phalarope à bec étroit                  2017    0        1
+Plongeon catmarin                       2013    0        1
+Rousserolle turdoïde                    2018    0        6
+Sterne caspienne                        2007    0        1
+Torcol fourmilier                       2016    0        13
 

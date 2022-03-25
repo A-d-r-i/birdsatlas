@@ -1,73 +1,73 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bernache du Canada
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant proyer
-0        Busard cendré
-0        Caille des blés
-0        Canard colvert
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Choucas des tours
-0        Chouette hulotte
-0        Circaète Jean-le-Blanc
-0        Combattant varié
-0        Coucou gris
-0        Échasse blanche
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Foulque macroule
-0        Gallinule poule-d'eau
-0        Geai des chênes
-0        Gobemouche gris
-0        Goéland argenté
-0        Goéland brun
-0        Grand Cormoran
-0        Grive draine
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Locustelle tachetée
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange huppée
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic épeichette
-0        Pic mar
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pigeon biset domestique
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sarcelle d'hiver
-0        Serin cini
-0        Sittelle torchepot
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne pierregarin
-0        Tarier des prés
-0        Tarin des aulnes
-0        Tourterelle des bois
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Barge à queue noire       2016    0        1
+Bécasseau variable        2017    0        1
+Bécassine des marais      2017    0        4
+Bernache du Canada        2012    0        2
+Bondrée apivore           2012    0        10
+Bouvreuil pivoine         2012    0        4
+Bruant proyer             2018    0        53
+Busard cendré             2017    0        2
+Caille des blés           2018    0        6
+Canard colvert            2016    0        22
+Canard siffleur           2013    0        1
+Canard souchet            2012    0        2
+Chevalier aboyeur         2018    0        2
+Chevalier arlequin        2012    0        1
+Chevalier gambette        2016    0        4
+Chevalier guignette       2017    0        5
+Chevalier sylvain         2016    0        6
+Choucas des tours         2018    0        18
+Chouette hulotte          2018    0        6
+Circaète Jean-le-Blanc    2018    0        1
+Combattant varié          2018    0        3
+Coucou gris               2013    0        10
+Échasse blanche           2016    0        2
+Épervier d'Europe         2018    0        9
+Faucon hobereau           2014    0        5
+Faucon pèlerin            2013    0        2
+Fauvette babillarde       2012    0        3
+Fauvette des jardins      2014    0        13
+Foulque macroule          2018    0        13
+Gallinule poule-d'eau     2014    0        20
+Geai des chênes           2013    0        14
+Gobemouche gris           2012    0        2
+Goéland argenté           2018    0        2
+Goéland brun              2014    0        1
+Grand Cormoran            2013    0        6
+Grive draine              2018    0        11
+Grive litorne             2013    0        4
+Grosbec casse-noyaux      2018    0        7
+Hibou moyen-duc           2013    0        9
+Hirondelle de fenêtre     2016    0        16
+Locustelle tachetée       2012    0        3
+Mésange à longue queue    2013    0        7
+Mésange boréale           2012    0        4
+Mésange huppée            2013    0        7
+Perdrix rouge             2012    0        2
+Petit Gravelot            2017    0        25
+Pic épeichette            2016    0        1
+Pic mar                   2012    0        4
+Pic noir                  2012    0        3
+Pie-grièche écorcheur     2012    0        5
+Pigeon biset domestique   2013    0        8
+Pipit spioncelle          2018    0        8
+Pouillot fitis            2012    0        4
+Roitelet à triple bandeau 2012    0        4
+Roitelet huppé            2012    0        2
+Rougequeue à front blanc  2012    0        7
+Rougequeue noir           2018    0        14
+Rousserolle effarvatte    2016    0        4
+Rousserolle verderolle    2012    0        3
+Sarcelle d'hiver          2012    0        3
+Serin cini                2016    0        2
+Sittelle torchepot        2013    0        10
+Sizerin cabaret           2012    0        1
+Sizerin flammé            2012    0        1
+Sterne pierregarin        2012    0        1
+Tarier des prés           2012    0        2
+Tarin des aulnes          2012    0        1
+Tourterelle des bois      2018    0        24
+Traquet motteux           2015    0        5
 

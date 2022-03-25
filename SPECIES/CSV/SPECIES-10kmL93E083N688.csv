@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Busard cendré"
-"0";"Cygne chanteur"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe à cou noir"
-"0";"Moineau friquet"
-"0";"Râle des genêts"
-"0";"Roitelet huppé"
-"0";"Rousserolle verderolle"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2011,0,2
+Avocette élégante,2011,0,2
+Bécasse des bois,2016,0,1
+Bernache du Canada,2013,0,1
+Bernache nonnette,2010,0,1
+Blongios nain,2013,0,1
+Busard cendré,2018,0,8
+Cygne chanteur,2010,0,2
+Effraie des clochers,2018,0,6
+Faucon émerillon,2019,0,6
+Faucon pèlerin,2012,0,2
+Grand-duc d'Europe,2016,0,1
+Grèbe à cou noir,2012,0,2
+Moineau friquet,2011,0,6
+Râle des genêts,2018,0,2
+Roitelet huppé,2014,0,4
+Rousserolle verderolle,2011,0,6
+Tadorne casarca,2012,0,3

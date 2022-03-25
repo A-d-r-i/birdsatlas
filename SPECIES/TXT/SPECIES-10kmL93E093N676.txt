@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cigogne blanche
-0        Cincle plongeur
-0        Corbeau freux
-0        Coucou gris
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Gallinule poule-d'eau
-0        Gobemouche à collier
-0        Gobemouche gris
-0        Grive mauvis
-0        Héron pourpré
-0        Hirondelle rustique
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Mésange huppée
-0        Mésange noire
-0        Pigeon biset domestique
-0        Pinson du Nord
-0        Pipit des arbres
-0        Râle d'eau
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Torcol fourmilier
-0        Tourterelle turque
-0        Vanneau huppé
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2015    0        1
+Bruant proyer             2010    0        3
+Busard Saint-Martin       2016    0        2
+Caille des blés           2012    0        2
+Canard siffleur           2014    0        2
+Chevalier culblanc        2011    0        1
+Chevêche d'Athéna         2011    0        2
+Chouette hulotte          2018    0        8
+Cigogne blanche           2012    0        3
+Cincle plongeur           2016    0        4
+Corbeau freux             2014    0        8
+Coucou gris               2015    0        13
+Effraie des clochers      2012    0        3
+Faisan de Colchide        2013    0        4
+Faucon hobereau           2010    0        1
+Fauvette babillarde       2015    0        12
+Gallinule poule-d'eau     2015    0        4
+Gobemouche à collier      2015    0        6
+Gobemouche gris           2015    0        9
+Grive mauvis              2013    0        1
+Héron pourpré             2011    0        2
+Hirondelle rustique       2014    0        15
+Locustelle tachetée       2010    0        3
+Loriot d'Europe           2013    0        17
+Mésange huppée            2015    0        9
+Mésange noire             2015    0        13
+Pigeon biset domestique   2012    0        6
+Pinson du Nord            2013    0        1
+Pipit des arbres          2018    0        12
+Râle d'eau                2015    0        1
+Roitelet à triple bandeau 2013    0        8
+Roitelet huppé            2015    0        17
+Rousserolle effarvatte    2012    0        3
+Torcol fourmilier         2015    0        8
+Tourterelle turque        2014    0        22
+Vanneau huppé             2014    0        5
+Verdier d'Europe          2015    0        16
 

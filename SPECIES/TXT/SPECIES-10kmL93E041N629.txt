@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Bihoreau gris
-0        Bondrée apivore
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard cendré
-0        Caille des blés
-0        Chevalier culblanc
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Circaète Jean-le-Blanc
-0        Coucou gris
-0        Faucon hobereau
-0        Faucon kobez
-0        Fauvette des jardins
-0        Foulque macroule
-0        Gobemouche gris
-0        Grande Aigrette
-0        Grèbe castagneux
-0        Grive mauvis
-0        Hirondelle de fenêtre
-0        Hypolaïs polyglotte
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Rollier d'Europe
-0        Rougequeue à front blanc
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Serin cini
-0        Tarier des prés
-0        Tourterelle des bois
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigle botté                 2012    0        2
+Alouette lulu               2016    0        1
+Bécassine des marais        2010    0        1
+Bergeronnette des ruisseaux 2012    0        2
+Bihoreau gris               2015    0        2
+Bondrée apivore             2016    0        4
+Bruant ortolan              2015    0        3
+Bruant proyer               2012    0        2
+Busard cendré               2009    0        2
+Caille des blés             2012    0        3
+Chevalier culblanc          2018    0        4
+Chevalier guignette         2018    0        6
+Chevêche d'Athéna           2018    0        1
+Circaète Jean-le-Blanc      2018    0        2
+Coucou gris                 2012    0        2
+Faucon hobereau             2012    0        3
+Faucon kobez                2015    0        1
+Fauvette des jardins        2012    0        2
+Foulque macroule            2015    0        6
+Gobemouche gris             2018    0        4
+Grande Aigrette             2019    0        5
+Grèbe castagneux            2017    0        1
+Grive mauvis                2016    0        2
+Hirondelle de fenêtre       2017    0        5
+Hypolaïs polyglotte         2017    0        6
+Linotte mélodieuse          2012    0        2
+Locustelle tachetée         2015    0        1
+Loriot d'Europe             2017    0        6
+Martinet noir               2012    0        7
+Martin-pêcheur d'Europe     2012    0        3
+Perdrix rouge               2014    0        1
+Phragmite des joncs         2015    0        1
+Rollier d'Europe            2012    0        2
+Rougequeue à front blanc    2015    0        1
+Rousserolle effarvatte      2015    0        1
+Sarcelle d'hiver            2019    0        1
+Serin cini                  2015    0        5
+Tarier des prés             2015    0        2
+Tourterelle des bois        2012    0        8
 

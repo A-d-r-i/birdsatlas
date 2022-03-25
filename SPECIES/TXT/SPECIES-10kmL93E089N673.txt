@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Cigogne blanche
-0        Etourneau roselin
-0        Faisan de Colchide
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Hirondelle de fenêtre
-0        Locustelle tachetée
-0        Mésange huppée
-0        Mésange noire
-0        Petit-duc scops
-0        Pic cendré
-0        Pic épeichette
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pouillot siffleur
-0        Serin cini
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasse des bois          2010    0        2
+Bec-croisé des sapins     2012    0        2
+Bergeronnette printanière 2014    0        7
+Bondrée apivore           2012    0        2
+Bouvreuil pivoine         2016    0        15
+Bruant des roseaux        2011    0        1
+Bruant proyer             2017    0        17
+Busard des roseaux        2014    0        3
+Busard Saint-Martin       2019    0        7
+Cigogne blanche           2015    0        3
+Etourneau roselin         2018    0        1
+Faisan de Colchide        2011    0        6
+Fauvette babillarde       2014    0        8
+Fauvette des jardins      2011    0        3
+Gallinule poule-d'eau     2013    0        7
+Gobemouche gris           2018    0        1
+Hirondelle de fenêtre     2015    0        6
+Locustelle tachetée       2013    0        1
+Mésange huppée            2016    0        10
+Mésange noire             2012    0        3
+Petit-duc scops           2012    0        3
+Pic cendré                2011    0        3
+Pic épeichette            2016    0        7
+Pie-grièche grise         2012    0        2
+Pigeon colombin           2013    0        1
+Pinson du Nord            2019    0        7
+Pouillot siffleur         2016    0        3
+Serin cini                2014    0        10
+Tarier des prés           2014    0        7
+Torcol fourmilier         2014    0        6
+Traquet motteux           2014    0        3
+Vanneau huppé             2018    0        4
 

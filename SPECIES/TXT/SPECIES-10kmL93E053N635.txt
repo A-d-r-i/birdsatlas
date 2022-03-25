@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Bouscarle de Cetti
-0        Chevalier guignette
-0        Choucas des tours
-0        Cochevis huppé
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grive litorne
-0        Hirondelle rustique
-0        Linotte mélodieuse
-0        Martinet noir
-0        Moineau soulcie
-0        Perdrix rouge
-0        Pic noir
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Rougequeue à front blanc
-0        Serin cini
-0        Traquet motteux
-0        Vanneau huppé
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Accenteur mouchet        2017    0        5
+Bouscarle de Cetti       2014    0        2
+Chevalier guignette      2012    0        1
+Choucas des tours        2012    0        2
+Cochevis huppé           2014    0        2
+Effraie des clochers     2017    0        7
+Faucon émerillon         2018    0        3
+Faucon hobereau          2015    0        3
+Faucon pèlerin           2017    0        1
+Fauvette grisette        2013    0        3
+Gobemouche gris          2009    0        1
+Goéland leucophée        2017    0        5
+Grèbe castagneux         2017    0        3
+Grive litorne            2018    0        3
+Hirondelle rustique      2017    0        19
+Linotte mélodieuse       2016    0        4
+Martinet noir            2014    0        9
+Moineau soulcie          2015    0        5
+Perdrix rouge            2018    0        6
+Pic noir                 2018    0        4
+Pipit des arbres         2013    0        2
+Pouillot de Bonelli      2013    0        4
+Pouillot fitis           2009    0        1
+Rougequeue à front blanc 2018    0        2
+Serin cini               2009    0        1
+Traquet motteux          2018    0        1
+Vanneau huppé            2016    0        1
 

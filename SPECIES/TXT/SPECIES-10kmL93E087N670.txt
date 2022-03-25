@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau variable
-0        Blongios nain
-0        Bondrée apivore
-0        Bruant zizi
-0        Busard pâle
-0        Butor étoilé
-0        Canard siffleur
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Circaète Jean-le-Blanc
-0        Combattant varié
-0        Engoulevent d'Europe
-0        Goéland leucophée
-0        Grand Gravelot
-0        Grimpereau des bois
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Mésange huppée
-0        Perruche à collier
-0        Petit-duc scops
-0        Phragmite des joncs
-0        Pipit de Richard
-0        Pluvier argenté
-0        Pouillot siffleur
-0        Rousserolle turdoïde
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau variable     2013    0        8
+Blongios nain          2013    0        1
+Bondrée apivore        2018    0        11
+Bruant zizi            2018    0        3
+Busard pâle            2016    0        2
+Butor étoilé           2011    0        1
+Canard siffleur        2018    0        4
+Chevalier guignette    2018    0        2
+Chevalier sylvain      2018    0        7
+Circaète Jean-le-Blanc 2012    0        2
+Combattant varié       2018    0        7
+Engoulevent d'Europe   2017    0        1
+Goéland leucophée      2014    0        1
+Grand Gravelot         2008    0        2
+Grimpereau des bois    2017    0        4
+Hibou moyen-duc        2018    0        14
+Hirondelle de rivage   2016    0        3
+Jaseur boréal          2008    0        1
+Locustelle tachetée    2016    0        20
+Mésange huppée         2018    0        2
+Perruche à collier     2010    0        2
+Petit-duc scops        2018    0        1
+Phragmite des joncs    2014    0        4
+Pipit de Richard       2008    0        1
+Pluvier argenté        2008    0        2
+Pouillot siffleur      2010    0        2
+Rousserolle turdoïde   2016    0        15
+Sizerin cabaret        2017    0        2
+Sizerin flammé         2017    0        2
 

@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette grise"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Corneille mantelée"
-"0";"Corneille noire"
-"0";"Épervier d'Europe"
-"0";"Étourneau unicolore"
-"0";"Fauvette passerinette"
-"0";"Fauvette sarde"
-"0";"Grive draine"
-"0";"Linotte mélodieuse"
-"0";"Moineau friquet"
-"0";"Pouillot véloce"
-"0";"Rossignol philomèle"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Tourterelle des bois"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,2
+Bergeronnette grise,2018,0,1
+Bruant proyer,2009,0,1
+Bruant zizi,2009,0,1
+Corneille mantelée,2009,0,2
+Corneille noire,2009,0,2
+Épervier d'Europe,2017,0,2
+Étourneau unicolore,2009,0,1
+Fauvette passerinette,2009,0,1
+Fauvette sarde,2009,0,1
+Grive draine,2013,0,1
+Linotte mélodieuse,2009,0,2
+Moineau friquet,2009,0,1
+Pouillot véloce,2018,0,5
+Rossignol philomèle,2009,0,1
+Rougequeue noir,2018,0,4
+Serin cini,2018,0,3
+Tourterelle des bois,2009,0,1
+Troglodyte mignon,2009,0,1

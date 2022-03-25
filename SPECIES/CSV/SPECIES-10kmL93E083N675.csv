@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Merle à plastron"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Perdrix grise"
-"0";"Pipit spioncelle"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,1
+Bondrée apivore,2012,0,5
+Chevalier aboyeur,2008,0,1
+Chevalier sylvain,2008,0,1
+Cincle plongeur,2013,0,1
+Effraie des clochers,2013,0,3
+Épervier d'Europe,2013,0,8
+Goéland leucophée,2017,0,3
+Grand-duc d'Europe,2008,0,1
+Grive litorne,2018,0,7
+Hibou moyen-duc,2014,0,3
+Hirondelle de fenêtre,2012,0,3
+Locustelle tachetée,2017,0,3
+Martinet noir,2013,0,4
+Merle à plastron,2011,0,1
+Mésange noire,2012,0,2
+Milan noir,2018,0,5
+Perdrix grise,2012,0,4
+Pipit spioncelle,2012,0,2
+Roitelet huppé,2014,0,4
+Rougequeue à front blanc,2012,0,3
+Serin cini,2012,0,3
+Tarier des prés,2013,0,4
+Tarier pâtre,2015,0,9
+Torcol fourmilier,2012,0,4
+Traquet motteux,2012,0,1

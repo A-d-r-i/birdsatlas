@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Panure à moustaches"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2016,0,4
+Bec-croisé des sapins,2012,0,3
+Bergeronnette flavéole (M.f.flavissima),2016,0,1
+Bihoreau gris,2012,0,1
+Bondrée apivore,2018,0,15
+Caille des blés,2012,0,2
+Canard chipeau,2015,0,3
+Chevalier guignette,2016,0,2
+Cigogne blanche,2017,0,2
+Cigogne noire,2009,0,1
+Grèbe huppé,2019,0,1
+Héron pourpré,2016,0,10
+Locustelle tachetée,2014,0,4
+Mésange noire,2013,0,6
+Milan royal,2014,0,1
+Moineau friquet,2018,0,1
+Oie cendrée,2016,0,3
+Panure à moustaches,2013,0,2
+Perdrix grise,2018,0,3
+Petit Gravelot,2012,0,1
+Pie-grièche à tête rousse,2010,0,1
+Pigeon colombin,2018,0,15
+Pouillot fitis,2018,0,7
+Rougequeue à front blanc,2017,0,5
+Tarier des prés,2014,0,1
+Torcol fourmilier,2016,0,3

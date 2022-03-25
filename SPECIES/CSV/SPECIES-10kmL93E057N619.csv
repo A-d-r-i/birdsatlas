@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Étourneau sansonnet"
-"0";"Grand Cormoran"
-"0";"Grand Tétras"
-"0";"Hirondelle rustique"
-"0";"Tarier des prés"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Étourneau sansonnet,2017,0,1
+Grand Cormoran,2017,0,1
+Grand Tétras,2011,0,2
+Hirondelle rustique,2018,0,2
+Tarier des prés,2017,0,1
+Venturon montagnard,2016,0,1

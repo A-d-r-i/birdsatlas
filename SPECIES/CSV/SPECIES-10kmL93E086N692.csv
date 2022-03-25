@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bouscarle de Cetti"
-"0";"Bruant zizi"
-"0";"Butor étoilé"
-"0";"Cygne de Bewick"
-"0";"Gobemouche gris"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Guifette leucoptère"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Macreuse noire"
-"0";"Marouette ponctuée"
-"0";"Mouette mélanocéphale"
-"0";"Nette demi-deuil"
-"0";"Pélican frisé"
-"0";"Perruche à collier"
-"0";"Pic cendré"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Plongeon imbrin"
-"0";"Pluvier argenté"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Serin cini"
-"0";"Sterne naine"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2012,0,2
+Bécasseau de Temminck,2009,0,3
+Bécasseau minute,2015,0,5
+Bécasseau sanderling,2018,0,5
+Bergeronnette flavéole (M.f.flavissima),2013,0,7
+Bouscarle de Cetti,2009,0,1
+Bruant zizi,2014,0,1
+Butor étoilé,2016,0,7
+Cygne de Bewick,2008,0,1
+Gobemouche gris,2018,0,3
+Grèbe esclavon,2008,0,5
+Grèbe jougris,2016,0,32
+Guifette leucoptère,2016,0,4
+Harle huppé,2009,0,2
+Hibou des marais,2018,0,6
+Huppe fasciée,2018,0,6
+Jaseur boréal,2013,0,1
+Macreuse noire,2016,0,1
+Marouette ponctuée,2013,0,1
+Mouette mélanocéphale,2011,0,4
+Nette demi-deuil,2018,0,3
+Pélican frisé,2017,0,1
+Perruche à collier,2018,0,1
+Pic cendré,2018,0,1
+Pipit à gorge rousse,2009,0,1
+Pipit rousseline,2009,0,1
+Plongeon imbrin,2010,0,5
+Pluvier argenté,2014,0,4
+Râle d'eau,2012,0,2
+Rémiz penduline,2015,0,1
+Serin cini,2009,0,1
+Sterne naine,2015,0,3
+Tournepierre à collier,2018,0,1

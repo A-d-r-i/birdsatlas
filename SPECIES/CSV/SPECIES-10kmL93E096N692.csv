@@ -1,17 +1,15 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette grise"
-"0";"Chevalier guignette"
-"0";"Grimpereau des jardins"
-"0";"Grive musicienne"
-"0";"Harle bièvre"
-"0";"Merle noir"
-"0";"Mésange à longue queue"
-"0";"Mésange charbonnière"
-"0";"Pic épeiche"
-"0";"Pic mar"
-"0";"Pic vert"
-"0";"Pouillot véloce"
-"0";"Rougequeue à front blanc"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2015,0,1
+Bergeronnette grise,2015,0,1
+Chevalier guignette,2015,0,1
+Grimpereau des jardins,2014,0,1
+Grive musicienne,2015,0,1
+Harle bièvre,2014,0,1
+Merle noir,2015,0,1
+Mésange à longue queue,2014,0,1
+Mésange charbonnière,2015,0,1
+Pic épeiche,2015,0,1
+Pic mar,2018,0,1
+Pic vert,2018,0,1
+Pouillot véloce,2015,0,1
+Rougequeue à front blanc,2016,0,1

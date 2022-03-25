@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Canard colvert"
-"0";"Choucas des tours"
-"0";"Chouette hulotte"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Geai des chênes"
-"0";"Gobemouche gris"
-"0";"Grimpereau des bois"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Pic cendré"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit farlouse"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,1
+Bec-croisé des sapins,2017,0,5
+Bondrée apivore,2018,0,7
+Bruant des roseaux,2009,0,1
+Canard colvert,2017,0,8
+Choucas des tours,2017,0,19
+Chouette hulotte,2017,0,2
+Cincle plongeur,2009,0,1
+Corbeau freux,2016,0,4
+Cygne tuberculé,2016,0,1
+Effraie des clochers,2018,0,11
+Faisan de Colchide,2017,0,15
+Faisan vénéré,2015,0,10
+Faucon hobereau,2018,0,6
+Faucon pèlerin,2012,0,1
+Fauvette des jardins,2009,0,1
+Gallinule poule-d'eau,2009,0,1
+Geai des chênes,2018,0,13
+Gobemouche gris,2012,0,3
+Grimpereau des bois,2018,0,3
+Grive draine,2017,0,10
+Grosbec casse-noyaux,2017,0,15
+Guêpier d'Europe,2012,0,1
+Hibou moyen-duc,2016,0,6
+Hirondelle de fenêtre,2018,0,17
+Hirondelle de rivage,2012,0,1
+Hypolaïs polyglotte,2012,0,1
+Locustelle tachetée,2013,0,2
+Loriot d'Europe,2016,0,3
+Martinet noir,2018,0,11
+Martin-pêcheur d'Europe,2009,0,1
+Mésange boréale,2009,0,1
+Mésange noire,2018,0,7
+Moineau friquet,2012,0,4
+Oie cendrée,2011,0,2
+Pic cendré,2009,0,1
+Pic épeichette,2012,0,2
+Pic mar,2009,0,1
+Pic noir,2018,0,12
+Pigeon colombin,2013,0,2
+Pipit farlouse,2009,0,1
+Pouillot siffleur,2009,0,1
+Râle des genêts,2014,0,1
+Rossignol philomèle,2009,0,1
+Rougequeue à front blanc,2013,0,5
+Rousserolle verderolle,2009,0,1
+Sarcelle d'hiver,2013,0,1
+Serin cini,2018,0,12
+Torcol fourmilier,2015,0,8
+Verdier d'Europe,2018,0,16

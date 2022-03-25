@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Gallinule poule-d'eau"
-"0";"Guêpier d'Europe"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Pie-grièche grise"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
-"0";"Rollier d'Europe"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2014,0,3
+Bécassine des marais,2007,0,1
+Bec-croisé des sapins,2010,0,2
+Bergeronnette printanière,2015,0,1
+Busard des roseaux,2011,0,1
+Busard Saint-Martin,2018,0,9
+Caille des blés,2009,0,2
+Chevêche d'Athéna,2014,0,3
+Effraie des clochers,2019,0,4
+Gallinule poule-d'eau,2007,0,1
+Guêpier d'Europe,2018,0,1
+Mésange boréale,2018,0,4
+Moineau friquet,2010,0,4
+Pie-grièche grise,2007,0,1
+Pinson du Nord,2016,0,1
+Pouillot fitis,2009,0,2
+Rollier d'Europe,2011,0,2
+Rossignol philomèle,2009,0,6
+Rousserolle effarvatte,2011,0,2
+Sarcelle d'hiver,2016,0,1
+Tichodrome échelette,2018,0,2
+Tourterelle des bois,2010,0,5

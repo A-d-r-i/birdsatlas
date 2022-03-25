@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau tacheté"
-"0";"Bernache nonnette"
-"0";"Courlis corlieu"
-"0";"Dendrocygne fauve"
-"0";"Érismature rousse"
-"0";"Fuligule nyroca"
-"0";"Grèbe esclavon"
-"0";"Harle huppé"
-"0";"Huîtrier pie"
-"0";"Ibis sacré"
-"0";"Macreuse brune"
-"0";"Marouette ponctuée"
-"0";"Mouette tridactyle"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Phragmite aquatique"
-"0";"Pluvier guignard"
-"0";"Sterne arctique"
+frname,lastobs,newcount,oldcount
+Bécasseau tacheté,2018,0,50
+Bernache nonnette,2014,0,6
+Courlis corlieu,2017,0,19
+Dendrocygne fauve,2016,0,20
+Érismature rousse,2016,0,13
+Fuligule nyroca,2010,0,1
+Grèbe esclavon,2016,0,3
+Harle huppé,2015,0,1
+Huîtrier pie,2018,0,7
+Ibis sacré,2014,0,5
+Macreuse brune,2008,0,1
+Marouette ponctuée,2018,0,1
+Mouette tridactyle,2013,0,4
+Phalarope à bec étroit,2014,0,5
+Phalarope à bec large,2018,0,35
+Phragmite aquatique,2017,0,2
+Pluvier guignard,2014,0,11
+Sterne arctique,2015,0,3

@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon hobereau"
-"0";"Fuligule milouin"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Guêpier d'Europe"
-"0";"Héron pourpré"
-"0";"Huppe fasciée"
-"0";"Merle à plastron"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pie-grièche grise"
-"0";"Rossignol philomèle"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,2
+Bécasse des bois,2017,0,3
+Bergeronnette printanière,2016,0,2
+Busard Saint-Martin,2017,0,2
+Chevalier culblanc,2018,0,3
+Chevalier guignette,2016,0,3
+Cigogne blanche,2014,0,2
+Circaète Jean-le-Blanc,2010,0,2
+Engoulevent d'Europe,2014,0,1
+Faucon hobereau,2016,0,3
+Fuligule milouin,2017,0,1
+Gobemouche noir,2016,0,4
+Grèbe castagneux,2009,0,1
+Grèbe huppé,2016,0,4
+Guêpier d'Europe,2015,0,3
+Héron pourpré,2010,0,1
+Huppe fasciée,2010,0,2
+Merle à plastron,2016,0,4
+Petit Gravelot,2011,0,3
+Pic épeichette,2017,0,4
+Pie-grièche grise,2011,0,1
+Rossignol philomèle,2018,0,6
+Sizerin flammé,2018,0,1
+Tadorne casarca,2016,0,1
+Tarier des prés,2009,0,1
+Tichodrome échelette,2017,0,3
+Traquet motteux,2014,0,2
+Vanneau huppé,2017,0,1

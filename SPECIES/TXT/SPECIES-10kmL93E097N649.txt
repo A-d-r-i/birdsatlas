@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Bruant des roseaux
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier culblanc
-0        Chocard à bec jaune
-0        Choucas des tours
-0        Crabier chevelu
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Foulque macroule
-0        Grèbe huppé
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Monticole de roche
-0        Perdrix grise
-0        Petit-duc scops
-0        Pouillot fitis
-0        Rousserolle effarvatte
-0        Rousserolle verderolle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour moine
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bihoreau gris           2013    0        1
+Bruant des roseaux      2016    0        1
+Canard pilet            2015    0        1
+Canard siffleur         2009    0        1
+Chevalier culblanc      2011    0        1
+Chocard à bec jaune     2018    0        7
+Choucas des tours       2012    0        10
+Crabier chevelu         2013    0        3
+Faucon hobereau         2017    0        4
+Fauvette des jardins    2017    0        15
+Foulque macroule        2010    0        4
+Grèbe huppé             2010    0        1
+Hypolaïs polyglotte     2018    0        4
+Loriot d'Europe         2018    0        1
+Martin-pêcheur d'Europe 2016    0        4
+Monticole de roche      2017    0        15
+Perdrix grise           2013    0        1
+Petit-duc scops         2017    0        4
+Pouillot fitis          2013    0        1
+Rousserolle effarvatte  2018    0        3
+Rousserolle verderolle  2017    0        9
+Sizerin cabaret         2018    0        20
+Sizerin flammé          2018    0        49
+Vautour moine           2018    0        6
 

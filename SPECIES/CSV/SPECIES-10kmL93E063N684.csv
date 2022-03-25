@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge rousse"
-"0";"Bécasseau minute"
-"0";"Calopsitte élégante"
-"0";"Cygne de Bewick"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Fou de Bassan"
-"0";"Fuligule à bec cerclé"
-"0";"Gorgebleue à miroir"
-"0";"Guêpier d'Europe"
-"0";"Harle bièvre"
-"0";"Huîtrier pie"
-"0";"Jaseur boréal"
-"0";"Labbe pomarin"
-"0";"Macreuse brune"
-"0";"Martinet pâle"
-"0";"Moineau friquet"
-"0";"Mouette de Sabine"
-"0";"Mouette tridactyle"
-"0";"Perruche ondulée"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Pie-grièche grise"
-"0";"Pipit à gorge rousse"
-"0";"Pouillot à grands sourcils"
-"0";"Sterne caugek"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Barge rousse,2017,0,17
+Bécasseau minute,2014,0,9
+Calopsitte élégante,2014,0,10
+Cygne de Bewick,2015,0,2
+Faisan vénéré,2016,0,12
+Fauvette babillarde,2018,0,29
+Fou de Bassan,2017,0,8
+Fuligule à bec cerclé,2007,0,13
+Gorgebleue à miroir,2018,0,3
+Guêpier d'Europe,2013,0,1
+Harle bièvre,2017,0,3
+Huîtrier pie,2015,0,5
+Jaseur boréal,2012,0,28
+Labbe pomarin,2015,0,1
+Macreuse brune,2014,0,22
+Martinet pâle,2011,0,1
+Moineau friquet,2017,0,58
+Mouette de Sabine,2008,0,2
+Mouette tridactyle,2014,0,1
+Perruche ondulée,2008,0,1
+Phalarope à bec étroit,2014,0,26
+Phalarope à bec large,2015,0,8
+Pie-grièche grise,2015,0,1
+Pipit à gorge rousse,2013,0,3
+Pouillot à grands sourcils,2017,0,1
+Sterne caugek,2016,0,2
+Torcol fourmilier,2010,0,1
+Tournepierre à collier,2014,0,7

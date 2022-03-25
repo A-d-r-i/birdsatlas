@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Barge à queue noire
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bernache du Canada
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Canard mandarin
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Échasse blanche
-0        Engoulevent d'Europe
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland argenté
-0        Goéland brun
-0        Goéland leucophée
-0        Grand Gravelot
-0        Grèbe huppé
-0        Grive litorne
-0        Grive mauvis
-0        Guifette moustac
-0        Locustelle tachetée
-0        Oie cendrée
-0        Petit Gravelot
-0        Pic épeichette
-0        Pigeon colombin
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Sterne pierregarin
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Alouette lulu                           2013    0        1
+Barge à queue noire                     2013    0        1
+Bécasseau minute                        2014    0        1
+Bécasseau variable                      2014    0        1
+Bécassine des marais                    2016    0        2
+Bécassine sourde                        2014    0        2
+Bergeronnette flavéole (M.f.flavissima) 2016    0        3
+Bernache du Canada                      2015    0        1
+Bouvreuil pivoine                       2016    0        2
+Bruant des roseaux                      2012    0        3
+Canard mandarin                         2012    0        2
+Chevalier arlequin                      2014    0        3
+Chevalier gambette                      2014    0        4
+Échasse blanche                         2018    0        8
+Engoulevent d'Europe                    2013    0        2
+Fauvette pitchou                        2009    0        1
+Fuligule milouin                        2014    0        2
+Gobemouche gris                         2018    0        3
+Gobemouche noir                         2014    0        1
+Goéland argenté                         2012    0        2
+Goéland brun                            2016    0        1
+Goéland leucophée                       2017    0        3
+Grand Gravelot                          2014    0        3
+Grèbe huppé                             2018    0        16
+Grive litorne                           2019    0        9
+Grive mauvis                            2019    0        2
+Guifette moustac                        2014    0        1
+Locustelle tachetée                     2014    0        3
+Oie cendrée                             2018    0        2
+Petit Gravelot                          2018    0        21
+Pic épeichette                          2014    0        4
+Pigeon colombin                         2018    0        21
+Pouillot de Bonelli                     2017    0        12
+Pouillot fitis                          2016    0        2
+Pouillot siffleur                       2012    0        2
+Roitelet huppé                          2018    0        11
+Rousserolle effarvatte                  2017    0        6
+Sarcelle d'hiver                        2014    0        1
+Sterne pierregarin                      2015    0        7
+Tarier des prés                         2013    0        2
+Torcol fourmilier                       2012    0        2
+Traquet motteux                         2018    0        13
 

@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Courlis cendré"
-"0";"Cygne de Bewick"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Oie cendrée"
-"0";"Oie rieuse"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot siffleur"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2014,0,7
+Bécassine sourde,2013,0,2
+Bec-croisé des sapins,2010,0,1
+Bondrée apivore,2017,0,6
+Busard cendré,2016,0,4
+Canard souchet,2018,0,1
+Chevalier culblanc,2014,0,3
+Courlis cendré,2016,0,5
+Cygne de Bewick,2011,0,2
+Faucon émerillon,2019,0,1
+Fuligule milouin,2011,0,3
+Fuligule morillon,2015,0,10
+Gobemouche gris,2012,0,2
+Gorgebleue à miroir,2011,0,1
+Grèbe castagneux,2012,0,6
+Héron pourpré,2013,0,2
+Hirondelle de rivage,2016,0,7
+Locustelle tachetée,2011,0,4
+Mésange huppée,2013,0,7
+Mésange noire,2013,0,6
+Oie cendrée,2010,0,2
+Oie rieuse,2010,0,2
+Perdrix grise,2014,0,3
+Petit Gravelot,2014,0,1
+Pie-grièche à tête rousse,2012,0,3
+Pouillot siffleur,2011,0,3
+Torcol fourmilier,2015,0,7

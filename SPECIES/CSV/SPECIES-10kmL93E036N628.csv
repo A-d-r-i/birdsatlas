@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Bécasseau variable"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Calopsitte élégante"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Crabier chevelu"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe esclavon"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Ibis sacré"
-"0";"Mouette tridactyle"
-"0";"Océanite culblanc"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Phragmite aquatique"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit de Richard"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2013,0,1
+Barge à queue noire,2013,0,5
+Barge rousse,2009,0,1
+Bécasseau variable,2018,0,6
+Bécassine sourde,2019,0,5
+Bec-croisé des sapins,2010,0,2
+Bruant ortolan,2012,0,1
+Bruant proyer,2016,0,11
+Butor étoilé,2013,0,1
+Calopsitte élégante,2012,0,1
+Canard pilet,2016,0,5
+Canard souchet,2016,0,12
+Chevalier aboyeur,2011,0,1
+Chevalier sylvain,2011,0,1
+Combattant varié,2011,0,2
+Crabier chevelu,2013,0,4
+Faisan vénéré,2009,0,1
+Faucon émerillon,2018,0,3
+Fauvette des jardins,2018,0,4
+Foulque macroule,2014,0,7
+Gorgebleue à miroir,2009,0,3
+Grand Gravelot,2016,0,5
+Grèbe esclavon,2011,0,2
+Grive litorne,2012,0,5
+Hibou moyen-duc,2009,0,2
+Hirondelle de rivage,2017,0,9
+Ibis sacré,2011,0,4
+Mouette tridactyle,2009,0,2
+Océanite culblanc,2009,0,4
+Perdrix rouge,2014,0,4
+Petit-duc scops,2009,0,2
+Petit Gravelot,2009,0,1
+Phragmite aquatique,2010,0,1
+Phragmite des joncs,2011,0,2
+Pie-grièche à tête rousse,2009,0,1
+Pie-grièche écorcheur,2017,0,5
+Pigeon colombin,2013,0,5
+Pipit de Richard,2019,0,6
+Pouillot fitis,2013,0,10
+Roitelet huppé,2015,0,7
+Rougequeue à front blanc,2012,0,3
+Torcol fourmilier,2011,0,1
+Tourterelle des bois,2017,0,6

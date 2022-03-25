@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandrelle"
-"0";"Bécassine sourde"
-"0";"Bernache du Canada"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Chevalier arlequin"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Goéland à ailes blanches"
-"0";"Goéland pontique"
-"0";"Grèbe esclavon"
-"0";"Guifette noire"
-"0";"Guillemot de Troïl"
-"0";"Harle huppé"
-"0";"Hibou moyen-duc"
-"0";"Ibis rouge"
-"0";"Labbe pomarin"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Mésange nonnette"
-"0";"Mouette de Sabine"
-"0";"Océanite tempête"
-"0";"Perruche à collier"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit de Richard"
-"0";"Pipit maritime"
-"0";"Plongeon arctique"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
+frname,lastobs,newcount,oldcount
+Alouette calandrelle,2011,0,1
+Bécassine sourde,2011,0,2
+Bernache du Canada,2009,0,1
+Butor étoilé,2018,0,1
+Caille des blés,2014,0,5
+Canard pilet,2017,0,2
+Chevalier arlequin,2009,0,1
+Choucas des tours,2016,0,5
+Corbeau freux,2016,0,3
+Fauvette babillarde,2017,0,1
+Foulque macroule,2018,0,22
+Goéland à ailes blanches,2018,0,1
+Goéland pontique,2009,0,1
+Grèbe esclavon,2018,0,3
+Guifette noire,2017,0,3
+Guillemot de Troïl,2018,0,64
+Harle huppé,2018,0,1
+Hibou moyen-duc,2018,0,18
+Ibis rouge,2017,0,1
+Labbe pomarin,2017,0,3
+Locustelle luscinioïde,2018,0,2
+Locustelle tachetée,2013,0,3
+Macareux moine,2014,0,22
+Mésange nonnette,2015,0,4
+Mouette de Sabine,2018,0,1
+Océanite tempête,2018,0,2
+Perruche à collier,2009,0,1
+Pie-grièche à tête rousse,2016,0,2
+Pigeon colombin,2017,0,4
+Pipit de Richard,2010,0,1
+Pipit maritime,2015,0,1
+Plongeon arctique,2016,0,3
+Pouillot siffleur,2011,0,1
+Rémiz penduline,2017,0,2

@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Chevêche d'Athéna"
-"0";"Faisan vénéré"
-"0";"Hibou moyen-duc"
-"0";"Mésange boréale"
-"0";"Perdrix grise"
-"0";"Pigeon colombin"
-"0";"Pouillot de Bonelli"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2013,0,6
+Bruant proyer,2017,0,2
+Busard cendré,2015,0,5
+Caille des blés,2010,0,2
+Chevêche d'Athéna,2018,0,11
+Faisan vénéré,2012,0,4
+Hibou moyen-duc,2015,0,4
+Mésange boréale,2017,0,17
+Perdrix grise,2012,0,4
+Pigeon colombin,2017,0,9
+Pouillot de Bonelli,2017,0,4
+Sizerin cabaret,2017,0,1
+Sizerin flammé,2017,0,1
+Tarier des prés,2018,0,2
+Vautour fauve,2018,0,2

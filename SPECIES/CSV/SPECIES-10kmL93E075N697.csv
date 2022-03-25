@@ -1,64 +1,62 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Canard siffleur"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette grisette"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic épeiche"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Râle des genêts"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2009,0,1
+Alouette des champs,2009,0,2
+Bécasse des bois,2009,0,1
+Bergeronnette des ruisseaux,2009,0,2
+Bergeronnette printanière,2009,0,1
+Bernache du Canada,2009,0,2
+Bondrée apivore,2009,0,1
+Bouvreuil pivoine,2009,0,2
+Bruant des roseaux,2009,0,2
+Bruant proyer,2009,0,1
+Busard des roseaux,2009,0,1
+Busard Saint-Martin,2018,0,3
+Caille des blés,2009,0,1
+Canard colvert,2009,0,2
+Canard siffleur,2016,0,1
+Chevêche d'Athéna,2018,0,3
+Chouette hulotte,2009,0,2
+Cigogne noire,2009,0,1
+Coucou gris,2009,0,1
+Effraie des clochers,2009,0,2
+Faucon pèlerin,2009,0,1
+Fauvette babillarde,2009,0,1
+Fauvette grisette,2018,0,2
+Gobemouche gris,2012,0,9
+Goéland brun,2009,0,1
+Goéland cendré,2009,0,1
+Gorgebleue à miroir,2009,0,1
+Grèbe castagneux,2015,0,3
+Grive litorne,2009,0,1
+Hibou moyen-duc,2009,0,2
+Hypolaïs polyglotte,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Martinet noir,2009,0,1
+Martin-pêcheur d'Europe,2018,0,3
+Mésange boréale,2009,0,2
+Mésange huppée,2009,0,1
+Mésange nonnette,2013,0,3
+Moineau friquet,2013,0,3
+Oie cendrée,2014,0,3
+Perdrix grise,2009,0,2
+Petit Gravelot,2009,0,1
+Phragmite des joncs,2009,0,1
+Pic épeiche,2014,0,3
+Pic épeichette,2009,0,2
+Pic noir,2014,0,2
+Pie-grièche grise,2009,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2018,0,2
+Pouillot siffleur,2009,0,1
+Râle d'eau,2009,0,1
+Râle des genêts,2009,0,1
+Rossignol philomèle,2018,0,2
+Rousserolle effarvatte,2009,0,1
+Rousserolle verderolle,2009,0,1
+Sarcelle d'été,2009,0,1
+Serin cini,2009,0,1
+Sittelle torchepot,2016,0,9
+Tarier des prés,2018,0,2
+Tourterelle des bois,2009,0,1

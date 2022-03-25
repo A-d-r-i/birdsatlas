@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Harle huppé"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Macreuse brune"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Nette rousse"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Sterne naine"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,1
+Autour des palombes,2009,0,1
+Bécasse des bois,2009,0,1
+Bec-croisé des sapins,2009,0,1
+Bergeronnette printanière,2009,0,1
+Bondrée apivore,2018,0,3
+Busard des roseaux,2009,0,1
+Canard chipeau,2009,0,1
+Canard siffleur,2009,0,1
+Chevalier guignette,2018,0,5
+Chevalier sylvain,2018,0,1
+Cigogne noire,2015,0,1
+Cisticole des joncs,2017,0,1
+Cochevis huppé,2009,0,1
+Corbeau freux,2018,0,2
+Effraie des clochers,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Faisan de Colchide,2018,0,3
+Faucon hobereau,2009,0,1
+Faucon pèlerin,2009,0,1
+Fauvette des jardins,2009,0,1
+Foulque macroule,2015,0,3
+Fuligule milouin,2009,0,1
+Fuligule morillon,2009,0,1
+Garrot à oeil d'or,2009,0,1
+Gobemouche gris,2009,0,1
+Gobemouche noir,2018,0,1
+Goéland brun,2009,0,1
+Harle huppé,2009,0,1
+Hibou moyen-duc,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2018,0,2
+Macreuse brune,2009,0,1
+Mésange huppée,2019,0,5
+Mésange noire,2016,0,3
+Milan royal,2017,0,1
+Moineau friquet,2014,0,1
+Nette rousse,2009,0,1
+Perdrix grise,2009,0,2
+Perdrix rouge,2009,0,2
+Pigeon colombin,2015,0,2
+Pluvier doré,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Sarcelle d'hiver,2009,0,1
+Sterne naine,2018,0,2
+Tadorne de Belon,2009,0,1
+Torcol fourmilier,2009,0,1
+Traquet motteux,2018,0,1
+Vautour fauve,2017,0,1

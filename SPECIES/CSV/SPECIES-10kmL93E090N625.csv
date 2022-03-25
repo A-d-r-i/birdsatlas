@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bihoreau gris"
-"0";"Blongios nain"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Busard des roseaux"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grande Aigrette"
-"0";"Hirondelle de rivage"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Inséparable de Fischer"
-"0";"Marouette ponctuée"
-"0";"Martinet pâle"
-"0";"Merle à plastron"
-"0";"Moineau friquet"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Traquet oreillard"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bihoreau gris,2009,0,1
+Blongios nain,2018,0,1
+Bouscarle de Cetti,2009,0,1
+Bouvreuil pivoine,2010,0,1
+Busard des roseaux,2018,0,3
+Cincle plongeur,2017,0,1
+Effraie des clochers,2016,0,1
+Faucon kobez,2017,0,3
+Fauvette des jardins,2014,0,2
+Gallinule poule-d'eau,2013,0,11
+Grande Aigrette,2017,0,1
+Hirondelle de rivage,2014,0,2
+Hirondelle rousseline,2009,0,1
+Hypolaïs polyglotte,2013,0,2
+Inséparable de Fischer,2013,0,1
+Marouette ponctuée,2013,0,1
+Martinet pâle,2018,0,4
+Merle à plastron,2017,0,3
+Moineau friquet,2012,0,1
+Pie-grièche écorcheur,2012,0,3
+Pigeon colombin,2013,0,1
+Pipit des arbres,2013,0,2
+Pouillot siffleur,2018,0,1
+Rollier d'Europe,2017,0,2
+Traquet oreillard,2007,0,1
+Vautour moine,2013,0,1

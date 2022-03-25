@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Chardonneret élégant"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Chouette de Tengmalm"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron cendré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Perdrix grise"
-"0";"Pic vert"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Tarier pâtre"
-"0";"Torcol fourmilier"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,9
+Alouette lulu,2017,0,14
+Autour des palombes,2017,0,4
+Bécasse des bois,2017,0,9
+Bergeronnette des ruisseaux,2017,0,3
+Bergeronnette printanière,2009,0,4
+Bondrée apivore,2012,0,5
+Bruant jaune,2017,0,23
+Bruant proyer,2017,0,6
+Bruant zizi,2017,0,6
+Busard Saint-Martin,2015,0,4
+Caille des blés,2011,0,3
+Canard colvert,2016,0,8
+Chardonneret élégant,2015,0,8
+Chevêche d'Athéna,2015,0,6
+Choucas des tours,2011,0,2
+Chouette de Tengmalm,2018,0,2
+Cincle plongeur,2012,0,2
+Corbeau freux,2012,0,3
+Effraie des clochers,2017,0,2
+Faisan de Colchide,2017,0,1
+Fauvette grisette,2017,0,6
+Gallinule poule-d'eau,2012,0,2
+Grande Aigrette,2012,0,3
+Grive litorne,2018,0,4
+Grosbec casse-noyaux,2017,0,29
+Héron cendré,2013,0,4
+Hibou des marais,2012,0,1
+Hibou moyen-duc,2017,0,3
+Hirondelle de rivage,2017,0,1
+Huppe fasciée,2018,0,3
+Linotte mélodieuse,2017,0,11
+Locustelle tachetée,2013,0,7
+Martin-pêcheur d'Europe,2012,0,5
+Mésange huppée,2018,0,22
+Mésange noire,2018,0,9
+Perdrix grise,2011,0,2
+Pic vert,2017,0,15
+Pie-grièche écorcheur,2017,0,6
+Pigeon colombin,2018,0,16
+Rossignol philomèle,2017,0,13
+Rougequeue à front blanc,2017,0,6
+Rousserolle effarvatte,2012,0,1
+Tarier pâtre,2012,0,2
+Torcol fourmilier,2017,0,13
+Tourterelle turque,2017,0,14

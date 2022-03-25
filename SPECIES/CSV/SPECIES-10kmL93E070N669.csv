@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bécasseau variable"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Circaète Jean-le-Blanc"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Engoulevent d'Europe"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Hibou des marais"
-"0";"Mésange boréale"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Pic mar"
-"0";"Pie-grièche grise"
-"0";"Pluvier argenté"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Autour des palombes,2012,0,2
+Bécasseau variable,2016,0,3
+Bondrée apivore,2015,0,1
+Busard des roseaux,2012,0,1
+Canard siffleur,2016,0,1
+Canard souchet,2018,0,2
+Chevalier aboyeur,2018,0,39
+Chevalier arlequin,2016,0,9
+Chevalier gambette,2016,0,37
+Chevalier guignette,2016,0,2
+Chevalier sylvain,2016,0,18
+Circaète Jean-le-Blanc,2013,0,1
+Combattant varié,2016,0,7
+Courlis corlieu,2016,0,5
+Engoulevent d'Europe,2012,0,2
+Goéland brun,2016,0,1
+Goéland cendré,2018,0,1
+Goéland leucophée,2016,0,2
+Grèbe castagneux,2018,0,5
+Hibou des marais,2016,0,2
+Mésange boréale,2010,0,2
+Mésange huppée,2017,0,1
+Moineau friquet,2010,0,2
+Ouette d'Egypte,2016,0,2
+Pic mar,2013,0,4
+Pie-grièche grise,2013,0,1
+Pluvier argenté,2015,0,2
+Râle d'eau,2018,0,2
+Rémiz penduline,2015,0,1
+Sarcelle d'été,2016,0,3
+Sarcelle d'hiver,2016,0,4
+Serin cini,2015,0,5
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Spatule blanche,2016,0,2
+Torcol fourmilier,2014,0,1

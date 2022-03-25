@@ -1,51 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Alouette calandrelle
-0        Bécasseau falcinelle
-0        Bécasse des bois
-0        Bernache du Canada
-0        Bernache nonnette
-0        Bruant lapon
-0        Bruant ortolan
-0        Busard pâle
-0        Buse pattue
-0        Chouette hulotte
-0        Étourneau unicolore
-0        Fauvette à lunettes
-0        Fauvette babillarde
-0        Fuligule milouinan
-0        Fulmar boréal
-0        Garrot à oeil d'or
-0        Goéland à bec cerclé
-0        Grèbe esclavon
-0        Grèbe jougris
-0        Grimpereau des jardins
-0        Guifette leucoptère
-0        Guillemot de Troïl
-0        Harle huppé
-0        Labbe pomarin
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Macareux moine
-0        Mouette atricille
-0        Mouette de Sabine
-0        Nette rousse
-0        Océanite culblanc
-0        Océanite tempête
-0        Oedicnème criard
-0        Perruche ondulée
-0        Phalarope à bec large
-0        Phragmite aquatique
-0        Pigeon biset (origine naturelle)
-0        Pingouin torda
-0        Pipit de Richard
-0        Plongeon arctique
-0        Pouillot siffleur
-0        Puffin des Baléares
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne hansel
-0        Tadorne casarca
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Accenteur alpin                  2011    0        1
+Alouette calandrelle             2012    0        7
+Bécasseau falcinelle             2007    0        1
+Bécasse des bois                 2016    0        3
+Bernache du Canada               2007    0        4
+Bernache nonnette                2013    0        54
+Bruant lapon                     2009    0        1
+Bruant ortolan                   2014    0        13
+Busard pâle                      2017    0        2
+Buse pattue                      2016    0        1
+Chouette hulotte                 2012    0        2
+Étourneau unicolore              2014    0        1
+Fauvette à lunettes              2012    0        3
+Fauvette babillarde              2015    0        1
+Fuligule milouinan               2012    0        2
+Fulmar boréal                    2017    0        1
+Garrot à oeil d'or               2009    0        1
+Goéland à bec cerclé             2014    0        2
+Grèbe esclavon                   2017    0        1
+Grèbe jougris                    2010    0        1
+Grimpereau des jardins           2018    0        1
+Guifette leucoptère              2014    0        1
+Guillemot de Troïl               2014    0        15
+Harle huppé                      2018    0        21
+Labbe pomarin                    2010    0        2
+Locustelle luscinioïde           2013    0        1
+Locustelle tachetée              2014    0        13
+Macareux moine                   2014    0        6
+Mouette atricille                2013    0        1
+Mouette de Sabine                2008    0        1
+Nette rousse                     2008    0        1
+Océanite culblanc                2010    0        16
+Océanite tempête                 2017    0        4
+Oedicnème criard                 2013    0        1
+Perruche ondulée                 2007    0        1
+Phalarope à bec large            2010    0        2
+Phragmite aquatique              2014    0        41
+Pigeon biset (origine naturelle) 2014    0        3
+Pingouin torda                   2011    0        3
+Pipit de Richard                 2017    0        1
+Plongeon arctique                2013    0        5
+Pouillot siffleur                2013    0        2
+Puffin des Baléares              2014    0        2
+Sizerin cabaret                  2017    0        1
+Sizerin flammé                   2017    0        8
+Sterne hansel                    2014    0        3
+Tadorne casarca                  2012    0        7
 

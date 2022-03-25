@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Crave à bec rouge
-0        Grand Corbeau
-0        Lagopède alpin
-0        Linotte mélodieuse
-0        Milan noir
-0        Niverolle alpine
-0        Pinson des arbres
-0        Traquet motteux
+frname             lastobs newcount oldcount
+------             ------- -------- --------
+Accenteur alpin    2017    0        3
+Crave à bec rouge  2018    0        4
+Grand Corbeau      2015    0        2
+Lagopède alpin     2017    0        2
+Linotte mélodieuse 2015    0        2
+Milan noir         2015    0        1
+Niverolle alpine   2015    0        3
+Pinson des arbres  2017    0        1
+Traquet motteux    2015    0        2
 

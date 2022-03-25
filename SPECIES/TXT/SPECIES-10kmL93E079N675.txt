@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette lulu
-0        Bécasse des bois
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Caille des blés
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cigogne noire
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Fauvette à tête noire
-0        Fauvette babillarde
-0        Fauvette grisette
-0        Grande Aigrette
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martinet noir
-0        Mésange huppée
-0        Mésange noire
-0        Milan noir
-0        Moineau friquet
-0        Pie-grièche à tête rousse
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2013    0        7
+Alouette lulu             2011    0        2
+Bécasse des bois          2013    0        2
+Bécassine sourde          2007    0        1
+Bergeronnette printanière 2017    0        7
+Bondrée apivore           2012    0        3
+Bouvreuil pivoine         2013    0        6
+Bruant des roseaux        2013    0        3
+Busard cendré             2012    0        2
+Busard des roseaux        2011    0        1
+Caille des blés           2012    0        2
+Chevêche d'Athéna         2010    0        4
+Chouette hulotte          2012    0        2
+Cigogne noire             2011    0        1
+Effraie des clochers      2012    0        2
+Faisan de Colchide        2013    0        5
+Faucon pèlerin            2013    0        3
+Fauvette à tête noire     2017    0        17
+Fauvette babillarde       2011    0        2
+Fauvette grisette         2012    0        5
+Grande Aigrette           2019    0        3
+Grive litorne             2013    0        6
+Grive mauvis              2013    0        3
+Hibou moyen-duc           2012    0        2
+Huppe fasciée             2016    0        1
+Hypolaïs polyglotte       2011    0        5
+Locustelle tachetée       2012    0        2
+Loriot d'Europe           2011    0        2
+Martinet noir             2011    0        3
+Mésange huppée            2013    0        6
+Mésange noire             2012    0        2
+Milan noir                2012    0        2
+Moineau friquet           2013    0        2
+Pie-grièche à tête rousse 2011    0        1
+Pipit des arbres          2011    0        5
+Pipit spioncelle          2013    0        5
+Pouillot fitis            2017    0        7
+Pouillot siffleur         2011    0        3
+Roitelet huppé            2013    0        6
+Rossignol philomèle       2016    0        7
+Rougequeue à front blanc  2011    0        3
+Traquet motteux           2014    0        1
 

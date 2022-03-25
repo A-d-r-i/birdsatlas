@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Goéland à ailes blanches"
-"0";"Locustelle luscinioïde"
-"0";"Mésange huppée"
-"0";"Pic noir"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Goéland à ailes blanches,2018,0,3
+Locustelle luscinioïde,2009,0,1
+Mésange huppée,2009,0,1
+Pic noir,2009,0,1
+Tadorne casarca,2018,0,1

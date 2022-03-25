@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Bruant fou
-0        Bruant ortolan
-0        Calopsitte élégante
-0        Chevalier culblanc
-0        Cisticole des joncs
-0        Courlis cendré
-0        Cygne tuberculé
-0        Engoulevent d'Europe
-0        Grand Corbeau
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange boréale
-0        Perdrix grise
-0        Perruche ondulée
-0        Petit-duc scops
-0        Pipit rousseline
-0        Râle d'eau
-0        Vautour fauve
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2018    0        3
+Bécassine des marais      2013    0        4
+Bergeronnette printanière 2014    0        4
+Bruant fou                2013    0        5
+Bruant ortolan            2012    0        1
+Calopsitte élégante       2013    0        1
+Chevalier culblanc        2014    0        5
+Cisticole des joncs       2016    0        1
+Courlis cendré            2013    0        1
+Cygne tuberculé           2018    0        1
+Engoulevent d'Europe      2012    0        6
+Grand Corbeau             2017    0        1
+Grèbe castagneux          2017    0        1
+Grimpereau des bois       2015    0        1
+Hirondelle de rivage      2016    0        1
+Hirondelle de rochers     2016    0        1
+Locustelle tachetée       2015    0        5
+Merle à plastron          2008    0        1
+Mésange boréale           2013    0        1
+Perdrix grise             2018    0        3
+Perruche ondulée          2017    0        1
+Petit-duc scops           2016    0        11
+Pipit rousseline          2010    0        1
+Râle d'eau                2014    0        2
+Vautour fauve             2010    0        1
 

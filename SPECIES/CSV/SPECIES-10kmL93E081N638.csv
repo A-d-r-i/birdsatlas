@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Crabier chevelu"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Flamant rose"
-"0";"Fuligule morillon"
-"0";"Gorgebleue à miroir"
-"0";"Grive litorne"
-"0";"Monticole bleu"
-"0";"Mouette tridactyle"
-"0";"Pic noir"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
+frname,lastobs,newcount,oldcount
+Aigle botté,2011,0,1
+Bécasse des bois,2012,0,7
+Bécassine des marais,2017,0,5
+Bouvreuil pivoine,2017,0,2
+Bruant fou,2017,0,6
+Busard cendré,2008,0,1
+Busard des roseaux,2018,0,8
+Busard Saint-Martin,2013,0,3
+Chevalier gambette,2018,0,6
+Chevalier sylvain,2016,0,2
+Crabier chevelu,2015,0,1
+Effraie des clochers,2017,0,4
+Faucon kobez,2013,0,1
+Fauvette des jardins,2012,0,1
+Fauvette grisette,2017,0,3
+Flamant rose,2017,0,12
+Fuligule morillon,2019,0,2
+Gorgebleue à miroir,2015,0,1
+Grive litorne,2018,0,10
+Monticole bleu,2016,0,11
+Mouette tridactyle,2009,0,1
+Pic noir,2017,0,2
+Pouillot siffleur,2015,0,1
+Rousserolle effarvatte,2017,0,1

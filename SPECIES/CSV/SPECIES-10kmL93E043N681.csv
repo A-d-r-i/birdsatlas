@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bergeronnette printanière"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Érismature rousse"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Oedicnème criard"
-"0";"Oie rieuse"
-"0";"Phragmite des joncs"
-"0";"Plongeon catmarin"
-"0";"Pluvier doré"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne caugek"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,1
+Avocette élégante,2018,0,7
+Barge rousse,2014,0,2
+Bécasseau maubèche,2014,0,3
+Bécasseau minute,2014,0,10
+Bécasseau sanderling,2014,0,2
+Bécasse des bois,2013,0,6
+Bécassine des marais,2014,0,5
+Bergeronnette flavéole (M.f.flavissima),2011,0,1
+Bergeronnette printanière,2014,0,7
+Bernache cravant,2018,0,11
+Bernache du Canada,2017,0,3
+Bondrée apivore,2017,0,10
+Caille des blés,2011,0,5
+Canard mandarin,2014,0,3
+Cisticole des joncs,2015,0,1
+Combattant varié,2014,0,16
+Érismature rousse,2016,0,3
+Fauvette pitchou,2008,0,2
+Fuligule milouinan,2013,0,3
+Garrot à oeil d'or,2009,0,4
+Gobemouche gris,2013,0,8
+Grèbe à cou noir,2012,0,4
+Grèbe esclavon,2012,0,4
+Grèbe jougris,2011,0,6
+Guifette moustac,2013,0,3
+Guifette noire,2016,0,16
+Harle bièvre,2013,0,29
+Harle piette,2010,0,3
+Héron pourpré,2015,0,1
+Milan royal,2016,0,1
+Moineau friquet,2013,0,4
+Mouette pygmée,2014,0,21
+Mouette tridactyle,2014,0,3
+Oedicnème criard,2008,0,1
+Oie rieuse,2011,0,1
+Phragmite des joncs,2010,0,1
+Plongeon catmarin,2015,0,4
+Pluvier doré,2015,0,6
+Rougequeue à front blanc,2015,0,4
+Sarcelle d'été,2009,0,1
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,2
+Sterne arctique,2011,0,3
+Sterne caugek,2014,0,2
+Torcol fourmilier,2014,0,2
+Vautour fauve,2014,0,1

@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette orphée"
-"0";"Fauvette passerinette"
-"0";"Gélinotte des bois"
-"0";"Grand-duc d'Europe"
-"0";"Grive mauvis"
-"0";"Hypolaïs polyglotte"
-"0";"Martinet noir"
-"0";"Milan royal"
-"0";"Moineau cisalpin"
-"0";"Monticole de roche"
-"0";"Perdrix bartavelle"
-"0";"Pie-grièche grise"
-"0";"Pouillot fitis"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,5
+Autour des palombes,2014,0,3
+Bondrée apivore,2015,0,6
+Bruant des roseaux,2013,0,1
+Bruant ortolan,2015,0,3
+Busard Saint-Martin,2010,0,1
+Chevalier guignette,2012,0,2
+Cincle plongeur,2016,0,3
+Engoulevent d'Europe,2016,0,7
+Faisan de Colchide,2017,0,9
+Faucon émerillon,2017,0,1
+Faucon hobereau,2018,0,3
+Faucon kobez,2017,0,8
+Faucon pèlerin,2011,0,1
+Fauvette babillarde,2009,0,1
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2018,0,14
+Fauvette orphée,2018,0,1
+Fauvette passerinette,2011,0,2
+Gélinotte des bois,2009,0,1
+Grand-duc d'Europe,2011,0,2
+Grive mauvis,2012,0,3
+Hypolaïs polyglotte,2009,0,2
+Martinet noir,2015,0,7
+Milan royal,2017,0,1
+Moineau cisalpin,2013,0,2
+Monticole de roche,2015,0,2
+Perdrix bartavelle,2010,0,1
+Pie-grièche grise,2013,0,4
+Pouillot fitis,2013,0,1
+Tichodrome échelette,2011,0,1
+Torcol fourmilier,2018,0,9
+Tourterelle des bois,2018,0,6
+Vanneau huppé,2011,0,3

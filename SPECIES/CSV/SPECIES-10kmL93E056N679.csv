@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Élanion blanc"
-"0";"Faucon hobereau"
-"0";"Fuligule nyroca"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Macreuse brune"
-"0";"Mésange noire"
-"0";"Oedicnème criard"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2009,0,1
+Bécassine des marais,2009,0,1
+Bondrée apivore,2009,0,1
+Bruant des roseaux,2009,0,2
+Bruant zizi,2009,0,1
+Caille des blés,2009,0,1
+Canard pilet,2009,0,1
+Canard siffleur,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Cochevis huppé,2017,0,3
+Courlis cendré,2009,0,1
+Élanion blanc,2018,0,1
+Faucon hobereau,2009,0,1
+Fuligule nyroca,2019,0,1
+Harle bièvre,2018,0,8
+Hibou des marais,2009,0,1
+Hibou moyen-duc,2009,0,2
+Huppe fasciée,2009,0,1
+Macreuse brune,2009,0,1
+Mésange noire,2009,0,1
+Oedicnème criard,2009,0,1
+Perdrix rouge,2009,0,2
+Pic épeichette,2009,0,2
+Tadorne de Belon,2009,0,1

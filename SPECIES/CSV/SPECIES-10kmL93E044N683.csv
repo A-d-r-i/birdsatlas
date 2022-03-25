@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Fauvette grisette"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Pipit farlouse"
-"0";"Rossignol philomèle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Corbeau freux,2016,0,1
+Engoulevent d'Europe,2009,0,1
+Faisan de Colchide,2015,0,1
+Fauvette grisette,2009,0,1
+Hibou moyen-duc,2009,0,1
+Locustelle tachetée,2009,0,1
+Moineau friquet,2013,0,1
+Pipit farlouse,2017,0,2
+Rossignol philomèle,2017,0,2
+Vanneau huppé,2017,0,1

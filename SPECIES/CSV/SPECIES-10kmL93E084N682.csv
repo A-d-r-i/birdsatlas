@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Cygne tuberculé"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des bois"
-"0";"Grive mauvis"
-"0";"Héron garde-boeufs"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2012,0,1
+Busard des roseaux,2016,0,2
+Canard chipeau,2013,0,1
+Chevalier culblanc,2015,0,6
+Chevalier guignette,2016,0,1
+Cincle plongeur,2015,0,8
+Cygne tuberculé,2013,0,4
+Faucon émerillon,2015,0,13
+Fuligule milouin,2015,0,3
+Fuligule morillon,2013,0,1
+Goéland leucophée,2010,0,2
+Grèbe castagneux,2016,0,1
+Grèbe huppé,2015,0,21
+Grimpereau des bois,2017,0,3
+Grive mauvis,2016,0,5
+Héron garde-boeufs,2010,0,2
+Huppe fasciée,2011,0,1
+Locustelle tachetée,2018,0,1
+Merle à plastron,2010,0,1
+Mouette rieuse,2015,0,2
+Oedicnème criard,2012,0,1
+Oie cendrée,2013,0,3
+Pigeon colombin,2016,0,2
+Pipit spioncelle,2010,0,1
+Râle d'eau,2013,0,1
+Rousserolle effarvatte,2018,0,5
+Vautour moine,2015,0,2

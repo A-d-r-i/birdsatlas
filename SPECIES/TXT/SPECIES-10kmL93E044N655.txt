@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette des ruisseaux
-0        Bruant des roseaux
-0        Buse pattue
-0        Butor étoilé
-0        Chouette hulotte
-0        Cigogne noire
-0        Combattant varié
-0        Corbeau freux
-0        Courlis cendré
-0        Faucon kobez
-0        Faucon pèlerin
-0        Gallinule poule-d'eau
-0        Gorgebleue à miroir
-0        Hirondelle de rivage
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Moineau friquet
-0        Oie cendrée
-0        Pie-grièche grise
-0        Pie-grièche méridionale
-0        Pipit spioncelle
-0        Pluvier guignard
-0        Tarin des aulnes
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bergeronnette des ruisseaux 2013    0        1
+Bruant des roseaux          2017    0        10
+Buse pattue                 2012    0        1
+Butor étoilé                2015    0        1
+Chouette hulotte            2018    0        13
+Cigogne noire               2017    0        2
+Combattant varié            2010    0        2
+Corbeau freux               2014    0        18
+Courlis cendré              2012    0        4
+Faucon kobez                2012    0        1
+Faucon pèlerin              2018    0        5
+Gallinule poule-d'eau       2018    0        5
+Gorgebleue à miroir         2018    0        2
+Hirondelle de rivage        2018    0        3
+Locustelle tachetée         2011    0        1
+Merle à plastron            2016    0        2
+Mésange huppée              2009    0        1
+Mésange noire               2018    0        5
+Moineau friquet             2018    0        8
+Oie cendrée                 2014    0        2
+Pie-grièche grise           2012    0        1
+Pie-grièche méridionale     2013    0        18
+Pipit spioncelle            2013    0        2
+Pluvier guignard            2014    0        4
+Tarin des aulnes            2018    0        6
 

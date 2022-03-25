@@ -1,28 +1,28 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bruant jaune
-0        Buse pattue
-0        Chevalier gambette
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cigogne noire
-0        Fauvette des jardins
-0        Grèbe castagneux
-0        Grimpereau des bois
-0        Grive litorne
-0        Grive mauvis
-0        Martin-pêcheur d'Europe
-0        Mésange huppée
-0        Moineau friquet
-0        Oie à tête barrée
-0        Petit-duc scops
-0        Pinson du Nord
-0        Pluvier doré
-0        Pouillot fitis
-0        Roitelet huppé
-0        Tarin des aulnes
-0        Traquet motteux
-0        Vautour fauve
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Bécassine des marais    2013    0        5
+Bruant jaune            2015    0        9
+Buse pattue             2017    0        1
+Chevalier gambette      2015    0        1
+Chevalier guignette     2018    0        2
+Cigogne blanche         2018    0        2
+Cigogne noire           2015    0        1
+Fauvette des jardins    2013    0        1
+Grèbe castagneux        2012    0        1
+Grimpereau des bois     2016    0        1
+Grive litorne           2017    0        6
+Grive mauvis            2013    0        3
+Martin-pêcheur d'Europe 2017    0        1
+Mésange huppée          2014    0        2
+Moineau friquet         2017    0        13
+Oie à tête barrée       2018    0        1
+Petit-duc scops         2018    0        1
+Pinson du Nord          2011    0        4
+Pluvier doré            2015    0        1
+Pouillot fitis          2018    0        1
+Roitelet huppé          2012    0        5
+Tarin des aulnes        2013    0        4
+Traquet motteux         2014    0        1
+Vautour fauve           2013    0        1
 

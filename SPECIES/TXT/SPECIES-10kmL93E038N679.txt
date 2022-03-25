@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette haussecol
-0        Bécasseau de Temminck
-0        Bernache du Canada
-0        Bernache nonnette
-0        Busard Saint-Martin
-0        Chevalier stagnatile
-0        Cigogne noire
-0        Érismature rousse
-0        Faucon émerillon
-0        Fuligule milouinan
-0        Garrot à oeil d'or
-0        Goéland pontique
-0        Gravelot à collier interrompu
-0        Grèbe jougris
-0        Guifette leucoptère
-0        Harle piette
-0        Hibou moyen-duc
-0        Ibis falcinelle
-0        Ibis sacré
-0        Labbe parasite
-0        Mésange nonnette
-0        Oie à tête barrée
-0        Phalarope à bec large
-0        Pic mar
-0        Pic noir
-0        Roitelet huppé
-0        Sterne arctique
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Alouette haussecol            2009    0        1
+Bécasseau de Temminck         2017    0        21
+Bernache du Canada            2017    0        4
+Bernache nonnette             2018    0        35
+Busard Saint-Martin           2018    0        5
+Chevalier stagnatile          2009    0        4
+Cigogne noire                 2014    0        3
+Érismature rousse             2017    0        6
+Faucon émerillon              2013    0        2
+Fuligule milouinan            2017    0        3
+Garrot à oeil d'or            2010    0        3
+Goéland pontique              2018    0        10
+Gravelot à collier interrompu 2008    0        1
+Grèbe jougris                 2013    0        1
+Guifette leucoptère           2010    0        5
+Harle piette                  2012    0        1
+Hibou moyen-duc               2018    0        5
+Ibis falcinelle               2013    0        1
+Ibis sacré                    2009    0        8
+Labbe parasite                2010    0        1
+Mésange nonnette              2018    0        7
+Oie à tête barrée             2018    0        11
+Phalarope à bec large         2017    0        16
+Pic mar                       2009    0        1
+Pic noir                      2017    0        1
+Roitelet huppé                2018    0        7
+Sterne arctique               2011    0        4
 

@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau minute"
-"0";"Bécassine sourde"
-"0";"Bruant lapon"
-"0";"Busard cendré"
-"0";"Chevêche d'Athéna"
-"0";"Cygne chanteur"
-"0";"Échasse blanche"
-"0";"Garrot à oeil d'or"
-"0";"Gravelot à collier interrompu"
-"0";"Guifette noire"
-"0";"Jaseur boréal"
-"0";"Labbe pomarin"
-"0";"Mouette de Sabine"
-"0";"Oie à tête barrée"
-"0";"Phragmite aquatique"
-"0";"Pouillot à grands sourcils"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2015,0,3
+Bécasseau minute,2015,0,9
+Bécassine sourde,2016,0,5
+Bruant lapon,2010,0,1
+Busard cendré,2009,0,1
+Chevêche d'Athéna,2017,0,1
+Cygne chanteur,2012,0,14
+Échasse blanche,2016,0,1
+Garrot à oeil d'or,2017,0,3
+Gravelot à collier interrompu,2016,0,1
+Guifette noire,2014,0,8
+Jaseur boréal,2012,0,2
+Labbe pomarin,2017,0,1
+Mouette de Sabine,2012,0,1
+Oie à tête barrée,2014,0,3
+Phragmite aquatique,2015,0,1
+Pouillot à grands sourcils,2016,0,1
+Tadorne casarca,2011,0,44

@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Bruant zizi
-0        Busard cendré
-0        Busard Saint-Martin
-0        Buse pattue
-0        Caille des blés
-0        Canard chipeau
-0        Chevalier aboyeur
-0        Choucas des tours
-0        Effraie des clochers
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Gallinule poule-d'eau
-0        Garrot à oeil d'or
-0        Gobemouche à collier
-0        Grand-duc d'Europe
-0        Grande Aigrette
-0        Guêpier d'Europe
-0        Guifette noire
-0        Hirondelle de rivage
-0        Huppe fasciée
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Marouette ponctuée
-0        Martinet à ventre blanc
-0        Mouette rieuse
-0        Nette rousse
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Pouillot siffleur
-0        Râle des genêts
-0        Roselin cramoisi
-0        Rousserolle effarvatte
-0        Sarcelle d'été
-0        Sarcelle d'hiver
-0        Tadorne de Belon
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2014    0        1
+Bécassine des marais      2018    0        10
+Bécassine sourde          2018    0        1
+Bergeronnette printanière 2011    0        1
+Bruant zizi               2018    0        3
+Busard cendré             2011    0        1
+Busard Saint-Martin       2011    0        4
+Buse pattue               2011    0        3
+Caille des blés           2016    0        6
+Canard chipeau            2010    0        1
+Chevalier aboyeur         2011    0        1
+Choucas des tours         2017    0        1
+Effraie des clochers      2012    0        2
+Faisan de Colchide        2018    0        9
+Faucon émerillon          2011    0        1
+Fauvette babillarde       2018    0        2
+Gallinule poule-d'eau     2018    0        1
+Garrot à oeil d'or        2017    0        1
+Gobemouche à collier      2011    0        1
+Grand-duc d'Europe        2012    0        2
+Grande Aigrette           2008    0        1
+Guêpier d'Europe          2015    0        2
+Guifette noire            2014    0        1
+Hirondelle de rivage      2018    0        3
+Huppe fasciée             2018    0        3
+Jaseur boréal             2009    0        6
+Locustelle tachetée       2015    0        6
+Loriot d'Europe           2012    0        1
+Marouette ponctuée        2018    0        1
+Martinet à ventre blanc   2012    0        1
+Mouette rieuse            2015    0        6
+Nette rousse              2015    0        1
+Pie-grièche grise         2017    0        8
+Pipit spioncelle          2015    0        6
+Pouillot siffleur         2018    0        7
+Râle des genêts           2015    0        6
+Roselin cramoisi          2017    0        4
+Rousserolle effarvatte    2015    0        15
+Sarcelle d'été            2015    0        1
+Sarcelle d'hiver          2014    0        5
+Tadorne de Belon          2010    0        1
+Vanneau huppé             2015    0        6
 

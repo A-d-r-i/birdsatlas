@@ -1,39 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Coucou gris"
-"0";"Cygne tuberculé"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs polyglotte"
-"0";"Linotte mélodieuse"
-"0";"Locustelle tachetée"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau friquet"
-"0";"Pic épeichette"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet à triple bandeau"
-"0";"Rossignol philomèle"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2009,0,1
+Bergeronnette printanière,2009,0,1
+Bruant des roseaux,2009,0,2
+Bruant proyer,2009,0,2
+Butor étoilé,2009,0,1
+Caille des blés,2009,0,1
+Coucou gris,2009,0,1
+Cygne tuberculé,2009,0,2
+Effraie des clochers,2009,0,2
+Faucon hobereau,2009,0,1
+Fauvette des jardins,2009,0,1
+Gobemouche noir,2009,0,1
+Grèbe castagneux,2009,0,2
+Grèbe huppé,2009,0,1
+Hirondelle de fenêtre,2009,0,1
+Hirondelle de rivage,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Linotte mélodieuse,2009,0,2
+Locustelle tachetée,2009,0,1
+Martinet noir,2009,0,1
+Martin-pêcheur d'Europe,2009,0,2
+Moineau friquet,2013,0,2
+Pic épeichette,2009,0,2
+Pie-grièche écorcheur,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Pouillot siffleur,2009,0,1
+Rossignol philomèle,2009,0,1
+Rousserolle effarvatte,2009,0,1
+Rousserolle verderolle,2009,0,1
+Sarcelle d'hiver,2009,0,1
+Serin cini,2009,0,1
+Tarier des prés,2009,0,1
+Tarin des aulnes,2013,0,2
+Tichodrome échelette,2009,0,1

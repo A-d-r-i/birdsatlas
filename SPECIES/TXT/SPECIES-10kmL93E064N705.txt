@@ -1,12 +1,12 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette des ruisseaux
-0        Buse variable
-0        Geai des chênes
-0        Grimpereau des jardins
-0        Mésange boréale
-0        Mésange noire
-0        Perdrix grise
-0        Serin cini
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Bergeronnette des ruisseaux 2016    0        1
+Buse variable               2018    0        1
+Geai des chênes             2019    0        4
+Grimpereau des jardins      2013    0        1
+Mésange boréale             2017    0        2
+Mésange noire               2012    0        1
+Perdrix grise               2018    0        1
+Serin cini                  2013    0        2
 

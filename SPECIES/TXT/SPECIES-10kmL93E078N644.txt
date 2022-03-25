@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bruant des roseaux
-0        Bruant ortolan
-0        Cassenoix moucheté
-0        Chevalier culblanc
-0        Corbeau freux
-0        Fauvette mélanocéphale
-0        Loriot d'Europe
-0        Pipit spioncelle
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Sizerin flammé
-0        Venturon montagnard
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigle botté            2018    0        3
+Bruant des roseaux     2012    0        1
+Bruant ortolan         2017    0        1
+Cassenoix moucheté     2018    0        13
+Chevalier culblanc     2011    0        1
+Corbeau freux          2010    0        1
+Fauvette mélanocéphale 2017    0        1
+Loriot d'Europe        2017    0        1
+Pipit spioncelle       2018    0        3
+Pouillot de Bonelli    2018    0        2
+Pouillot siffleur      2010    0        2
+Sizerin flammé         2014    0        1
+Venturon montagnard    2017    0        4
 

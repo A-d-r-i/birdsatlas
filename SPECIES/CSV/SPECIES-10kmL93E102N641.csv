@@ -1,5 +1,3 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,3
+Tichodrome échelette,2009,0,2

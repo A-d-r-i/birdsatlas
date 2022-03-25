@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Étourneau sansonnet
-0        Faucon kobez
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau domestique
-0        Pie bavarde
-0        Pie-grièche écorcheur
-0        Roitelet huppé
-0        Rollier d'Europe
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Étourneau sansonnet   2018    0        3
+Faucon kobez          2018    0        1
+Mésange huppée        2018    0        1
+Mésange noire         2017    0        1
+Mésange nonnette      2018    0        1
+Moineau domestique    2018    0        1
+Pie bavarde           2018    0        1
+Pie-grièche écorcheur 2009    0        1
+Roitelet huppé        2016    0        1
+Rollier d'Europe      2017    0        1
 

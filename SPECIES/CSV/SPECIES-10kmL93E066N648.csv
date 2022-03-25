@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Foulque macroule"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Héron garde-boeufs"
-"0";"Huppe fasciée"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Plongeon imbrin"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,6
+Avocette élégante,2013,0,1
+Bruant proyer,2016,0,2
+Busard cendré,2009,0,1
+Canard siffleur,2011,0,1
+Chevalier culblanc,2014,0,2
+Cigogne noire,2010,0,1
+Corbeau freux,2013,0,2
+Effraie des clochers,2012,0,4
+Faucon hobereau,2018,0,3
+Foulque macroule,2014,0,1
+Goéland brun,2014,0,19
+Goéland cendré,2017,0,6
+Grande Aigrette,2011,0,2
+Grive litorne,2013,0,2
+Guifette noire,2011,0,1
+Harle bièvre,2011,0,3
+Héron garde-boeufs,2011,0,1
+Huppe fasciée,2017,0,12
+Loriot d'Europe,2014,0,2
+Moineau friquet,2013,0,2
+Mouette mélanocéphale,2014,0,2
+Mouette pygmée,2018,0,3
+Pigeon colombin,2018,0,4
+Pinson du Nord,2016,0,6
+Plongeon imbrin,2014,0,9
+Sarcelle d'hiver,2014,0,1
+Tadorne de Belon,2018,0,9
+Tichodrome échelette,2016,0,1

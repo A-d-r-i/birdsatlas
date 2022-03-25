@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bec-croisé des sapins
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevalier guignette
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Grive litorne
-0        Guêpier d'Europe
-0        Hibou moyen-duc
-0        Hirondelle de rochers
-0        Mésange huppée
-0        Moineau soulcie
-0        Tarin des aulnes
-0        Vanneau huppé
-0        Vautour fauve
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Alouette des champs   2016    0        2
+Bec-croisé des sapins 2016    0        2
+Bouvreuil pivoine     2018    0        1
+Bruant fou            2017    0        2
+Busard Saint-Martin   2017    0        3
+Caille des blés       2014    0        1
+Chevalier guignette   2016    0        2
+Engoulevent d'Europe  2016    0        2
+Faisan de Colchide    2017    0        3
+Grive litorne         2018    0        7
+Guêpier d'Europe      2012    0        2
+Hibou moyen-duc       2015    0        2
+Hirondelle de rochers 2018    0        1
+Mésange huppée        2009    0        1
+Moineau soulcie       2017    0        5
+Tarin des aulnes      2018    0        3
+Vanneau huppé         2015    0        1
+Vautour fauve         2010    0        1
 

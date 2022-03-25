@@ -1,63 +1,63 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Bécasse des bois
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bergeronnette grise
-0        Bergeronnette printanière
-0        Bernache du Canada
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Caille des blés
-0        Chardonneret élégant
-0        Choucas des tours
-0        Cigogne noire
-0        Corbeau freux
-0        Coucou gris
-0        Épervier d'Europe
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Foulque macroule
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand Cormoran
-0        Grimpereau des bois
-0        Grimpereau des jardins
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Hirondelle rustique
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Mésange à longue queue
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Mésange nonnette
-0        Moineau friquet
-0        Pic épeichette
-0        Pic mar
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Pouillot véloce
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougegorge familier
-0        Rougequeue à front blanc
-0        Rougequeue noir
-0        Rousserolle verderolle
-0        Sarcelle d'hiver
-0        Tarier des prés
-0        Tarier pâtre
-0        Tarin des aulnes
-0        Tourterelle turque
-0        Vanneau huppé
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Accenteur mouchet           2012    0        5
+Bécasse des bois            2010    0        4
+Bec-croisé des sapins       2009    0        2
+Bergeronnette des ruisseaux 2010    0        2
+Bergeronnette grise         2018    0        4
+Bergeronnette printanière   2010    0        5
+Bernache du Canada          2012    0        1
+Bondrée apivore             2010    0        4
+Bouvreuil pivoine           2018    0        6
+Caille des blés             2010    0        2
+Chardonneret élégant        2018    0        7
+Choucas des tours           2018    0        5
+Cigogne noire               2018    0        2
+Corbeau freux               2018    0        4
+Coucou gris                 2018    0        4
+Épervier d'Europe           2010    0        5
+Faucon hobereau             2010    0        2
+Fauvette babillarde         2010    0        3
+Fauvette des jardins        2010    0        5
+Fauvette grisette           2010    0        4
+Foulque macroule            2012    0        2
+Gobemouche gris             2009    0        2
+Gobemouche noir             2009    0        2
+Grand Cormoran              2012    0        2
+Grimpereau des bois         2009    0        9
+Grimpereau des jardins      2018    0        8
+Héron cendré                2012    0        5
+Hibou moyen-duc             2017    0        4
+Hirondelle de fenêtre       2010    0        2
+Hirondelle rustique         2011    0        8
+Linotte mélodieuse          2010    0        7
+Locustelle tachetée         2010    0        3
+Mésange à longue queue      2010    0        5
+Mésange boréale             2012    0        5
+Mésange huppée              2012    0        2
+Mésange noire               2012    0        2
+Mésange nonnette            2012    0        9
+Moineau friquet             2010    0        7
+Pic épeichette              2009    0        2
+Pic mar                     2009    0        5
+Pigeon biset domestique     2018    0        4
+Pigeon colombin             2010    0        3
+Pinson du Nord              2012    0        2
+Pipit des arbres            2010    0        3
+Pouillot fitis              2012    0        4
+Pouillot véloce             2010    0        8
+Roitelet à triple bandeau   2010    0        4
+Roitelet huppé              2010    0        5
+Rossignol philomèle         2010    0        2
+Rougegorge familier         2018    0        7
+Rougequeue à front blanc    2010    0        3
+Rougequeue noir             2016    0        5
+Rousserolle verderolle      2009    0        2
+Sarcelle d'hiver            2011    0        1
+Tarier des prés             2007    0        1
+Tarier pâtre                2010    0        2
+Tarin des aulnes            2012    0        5
+Tourterelle turque          2018    0        10
+Vanneau huppé               2010    0        2
 

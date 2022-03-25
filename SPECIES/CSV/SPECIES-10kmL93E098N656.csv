@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Corneille mantelée"
-"0";"Crave à bec rouge"
-"0";"Faucon hobereau"
-"0";"Gorgebleue à miroir"
-"0";"Grand Cormoran"
-"0";"Grande Aigrette"
-"0";"Guêpier d'Europe"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Martin-pêcheur d'Europe"
-"0";"Petit Gravelot"
-"0";"Pic épeichette"
-"0";"Pic tridactyle"
-"0";"Pouillot fitis"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,12
+Bergeronnette printanière,2012,0,1
+Busard des roseaux,2011,0,2
+Chevalier aboyeur,2009,0,1
+Chevalier culblanc,2014,0,1
+Chevalier sylvain,2014,0,1
+Corneille mantelée,2015,0,1
+Crave à bec rouge,2009,0,1
+Faucon hobereau,2017,0,3
+Gorgebleue à miroir,2012,0,1
+Grand Cormoran,2018,0,1
+Grande Aigrette,2015,0,7
+Guêpier d'Europe,2012,0,1
+Héron pourpré,2013,0,1
+Hirondelle de rivage,2011,0,1
+Huppe fasciée,2017,0,7
+Jaseur boréal,2013,0,2
+Martin-pêcheur d'Europe,2015,0,2
+Petit Gravelot,2016,0,4
+Pic épeichette,2017,0,2
+Pic tridactyle,2018,0,1
+Pouillot fitis,2017,0,6
+Tourterelle des bois,2017,0,1
+Vanneau huppé,2012,0,1
+Vautour moine,2018,0,1

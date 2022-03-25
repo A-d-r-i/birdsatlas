@@ -1,24 +1,24 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasse des bois
-0        Bruant jaune
-0        Chevalier culblanc
-0        Cigogne noire
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Gobemouche gris
-0        Grive litorne
-0        Héron pourpré
-0        Mésange noire
-0        Mésange nonnette
-0        Mouette rieuse
-0        Pic épeichette
-0        Pipit rousseline
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Rousserolle effarvatte
-0        Tarier des prés
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2009    0        1
+Bécasse des bois       2018    0        2
+Bruant jaune           2016    0        11
+Chevalier culblanc     2017    0        2
+Cigogne noire          2012    0        2
+Cochevis huppé         2012    0        2
+Engoulevent d'Europe   2012    0        2
+Gobemouche gris        2010    0        2
+Grive litorne          2015    0        9
+Héron pourpré          2010    0        2
+Mésange noire          2013    0        1
+Mésange nonnette       2017    0        2
+Mouette rieuse         2012    0        2
+Pic épeichette         2014    0        5
+Pipit rousseline       2017    0        3
+Pouillot de Bonelli    2008    0        1
+Pouillot fitis         2016    0        1
+Rousserolle effarvatte 2009    0        1
+Tarier des prés        2016    0        3
+Torcol fourmilier      2017    0        4
 

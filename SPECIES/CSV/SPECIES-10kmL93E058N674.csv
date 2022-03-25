@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bouvreuil pivoine"
-"0";"Bruant zizi"
-"0";"Canard souchet"
-"0";"Cochevis huppé"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grimpereau des jardins"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hypolaïs polyglotte"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougequeue à front blanc"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bouvreuil pivoine,2009,0,1
+Bruant zizi,2009,0,1
+Canard souchet,2009,0,1
+Cochevis huppé,2009,0,1
+Fauvette des jardins,2009,0,1
+Gobemouche gris,2009,0,1
+Grèbe castagneux,2009,0,1
+Grimpereau des jardins,2009,0,1
+Grive litorne,2015,0,1
+Grosbec casse-noyaux,2009,0,1
+Hypolaïs polyglotte,2009,0,1
+Mésange à longue queue,2009,0,1
+Mésange huppée,2017,0,2
+Mésange noire,2017,0,1
+Mésange nonnette,2017,0,2
+Moineau friquet,2019,0,3
+Pic cendré,2009,0,1
+Pic mar,2009,0,1
+Pic noir,2009,0,1
+Pinson du Nord,2015,0,1
+Pipit des arbres,2009,0,1
+Pouillot fitis,2009,0,1
+Pouillot siffleur,2009,0,1
+Roitelet huppé,2009,0,1
+Rossignol philomèle,2009,0,1
+Rougequeue à front blanc,2009,0,1
+Serin cini,2009,0,1
+Torcol fourmilier,2009,0,1

@@ -1,53 +1,51 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bihoreau gris"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Corbeau freux"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette orphée"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland brun"
-"0";"Grive litorne"
-"0";"Harle bièvre"
-"0";"Linotte mélodieuse"
-"0";"Martinet à ventre blanc"
-"0";"Moineau soulcie"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche écorcheur"
-"0";"Pie-grièche méridionale"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Vautour moine"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Aigle royal,2016,0,2
+Alouette lulu,2017,0,29
+Autour des palombes,2017,0,6
+Bécasse des bois,2012,0,1
+Bécassine des marais,2017,0,1
+Bihoreau gris,2014,0,15
+Bruant des roseaux,2014,0,3
+Bruant fou,2017,0,1
+Bruant jaune,2012,0,2
+Bruant proyer,2017,0,10
+Busard des roseaux,2017,0,5
+Busard Saint-Martin,2016,0,1
+Butor étoilé,2015,0,1
+Caille des blés,2013,0,2
+Canard à collier noir,2014,0,1
+Canard carolin,2015,0,1
+Chevalier culblanc,2016,0,1
+Chouette hulotte,2017,0,9
+Cigogne noire,2014,0,1
+Cincle plongeur,2016,0,1
+Corbeau freux,2014,0,1
+Effraie des clochers,2018,0,6
+Engoulevent d'Europe,2018,0,5
+Faucon émerillon,2016,0,1
+Faucon pèlerin,2017,0,14
+Fauvette babillarde,2008,0,1
+Fauvette des jardins,2012,0,1
+Fauvette grisette,2016,0,2
+Fauvette orphée,2017,0,4
+Foulque macroule,2013,0,1
+Gallinule poule-d'eau,2017,0,9
+Goéland brun,2016,0,1
+Grive litorne,2017,0,1
+Harle bièvre,2017,0,2
+Linotte mélodieuse,2016,0,7
+Martinet à ventre blanc,2017,0,8
+Moineau soulcie,2014,0,1
+Perdrix rouge,2017,0,10
+Phragmite des joncs,2017,0,1
+Pie-grièche écorcheur,2017,0,2
+Pie-grièche méridionale,2017,0,1
+Pipit spioncelle,2017,0,5
+Pouillot fitis,2016,0,5
+Roitelet huppé,2017,0,23
+Rousserolle effarvatte,2018,0,4
+Rousserolle turdoïde,2010,0,1
+Tarier des prés,2016,0,2
+Tichodrome échelette,2015,0,3
+Vautour moine,2007,0,1
+Venturon montagnard,2016,0,1

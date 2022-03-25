@@ -1,8 +1,8 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Canard pilet
-0        Perdrix rouge
-0        Pic mar
-0        Rousserolle effarvatte
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Canard pilet           2009    0        1
+Perdrix rouge          2009    0        1
+Pic mar                2009    0        1
+Rousserolle effarvatte 2009    0        1
 

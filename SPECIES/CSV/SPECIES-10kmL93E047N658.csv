@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette lulu"
-"0";"Barge à queue noire"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Cigogne noire"
-"0";"Courlis corlieu"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Hirondelle de rivage"
-"0";"Ibis falcinelle"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Mouette mélanocéphale"
-"0";"Ouette d'Egypte"
-"0";"Petit-duc scops"
-"0";"Pie-grièche grise"
-"0";"Pie-grièche méridionale"
-"0";"Pipit rousseline"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Aigle botté,2013,0,3
+Alouette lulu,2017,0,9
+Barge à queue noire,2017,0,5
+Bécasseau variable,2018,0,2
+Bécasse des bois,2019,0,1
+Bécassine des marais,2018,0,21
+Bécassine sourde,2013,0,2
+Bihoreau gris,2017,0,1
+Bruant ortolan,2015,0,2
+Canard pilet,2017,0,1
+Canard souchet,2018,0,4
+Chevalier aboyeur,2015,0,7
+Cigogne noire,2017,0,1
+Courlis corlieu,2016,0,3
+Faucon kobez,2013,0,8
+Fauvette pitchou,2008,0,1
+Foulque macroule,2013,0,1
+Goéland cendré,2011,0,2
+Grand Gravelot,2015,0,1
+Grèbe castagneux,2015,0,4
+Hirondelle de rivage,2015,0,1
+Ibis falcinelle,2014,0,10
+Martin-pêcheur d'Europe,2011,0,2
+Merle à plastron,2018,0,21
+Mésange huppée,2018,0,1
+Mouette mélanocéphale,2018,0,1
+Ouette d'Egypte,2008,0,1
+Petit-duc scops,2011,0,2
+Pie-grièche grise,2010,0,1
+Pie-grièche méridionale,2016,0,33
+Pipit rousseline,2014,0,7
+Pouillot siffleur,2009,0,1
+Rousserolle effarvatte,2018,0,3
+Sarcelle d'hiver,2013,0,4
+Tadorne de Belon,2012,0,1
+Tarin des aulnes,2013,0,3

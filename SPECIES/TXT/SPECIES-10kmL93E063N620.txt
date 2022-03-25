@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Bergeronnette printanière
-0        Bouscarle de Cetti
-0        Bruant fou
-0        Bruant ortolan
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cigogne noire
-0        Effraie des clochers
-0        Faucon crécerellette
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Flamant rose
-0        Grand-duc d'Europe
-0        Grive mauvis
-0        Tournepierre à collier
-0        Vautour moine
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigrette garzette         2017    0        3
+Bergeronnette printanière 2016    0        1
+Bouscarle de Cetti        2009    0        1
+Bruant fou                2009    0        1
+Bruant ortolan            2009    0        1
+Chevalier sylvain         2017    0        1
+Chevêche d'Athéna         2009    0        1
+Cigogne blanche           2015    0        1
+Cigogne noire             2014    0        1
+Effraie des clochers      2017    0        1
+Faucon crécerellette      2014    0        1
+Fauvette orphée           2014    0        2
+Fauvette pitchou          2017    0        7
+Flamant rose              2017    0        1
+Grand-duc d'Europe        2016    0        3
+Grive mauvis              2017    0        2
+Tournepierre à collier    2017    0        1
+Vautour moine             2013    0        3
 

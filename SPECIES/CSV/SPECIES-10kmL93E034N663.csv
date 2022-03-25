@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau maubèche"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache cravant"
-"0";"Bernache du Canada"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard à collier noir"
-"0";"Canard des Bahamas"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Chevalier gambette"
-"0";"Cochevis huppé"
-"0";"Courlis cendré"
-"0";"Érismature rousse"
-"0";"Glaréole à collier"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grive litorne"
-"0";"Guifette leucoptère"
-"0";"Harle bièvre"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Ibis falcinelle"
-"0";"Ibis sacré"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Mésange noire"
-"0";"Milan royal"
-"0";"Oedicnème criard"
-"0";"Oie à tête barrée"
-"0";"Perruche à collier"
-"0";"Phalarope à bec large"
-"0";"Phragmite des joncs"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Plongeon arctique"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2015,0,3
+Bécasseau de Temminck,2017,0,15
+Bécasseau maubèche,2013,0,9
+Bécasse des bois,2017,0,6
+Bergeronnette flavéole (M.f.flavissima),2017,0,22
+Bernache cravant,2013,0,1
+Bernache du Canada,2013,0,2
+Bouvreuil pivoine,2018,0,2
+Bruant jaune,2018,0,7
+Busard cendré,2017,0,4
+Caille des blés,2015,0,6
+Canard à collier noir,2015,0,1
+Canard des Bahamas,2014,0,1
+Canard mandarin,2011,0,9
+Canard pilet,2018,0,31
+Chevalier gambette,2018,0,79
+Cochevis huppé,2011,0,1
+Courlis cendré,2017,0,11
+Érismature rousse,2018,0,2
+Glaréole à collier,2013,0,1
+Goéland à ailes blanches,2018,0,3
+Goéland bourgmestre,2017,0,1
+Gorgebleue à miroir,2018,0,3
+Grèbe à cou noir,2017,0,3
+Grive litorne,2016,0,8
+Guifette leucoptère,2017,0,1
+Harle bièvre,2013,0,35
+Héron pourpré,2017,0,1
+Hibou des marais,2009,0,1
+Hibou moyen-duc,2017,0,16
+Ibis falcinelle,2018,0,2
+Ibis sacré,2011,0,8
+Locustelle tachetée,2017,0,2
+Macreuse noire,2010,0,1
+Mésange noire,2018,0,13
+Milan royal,2018,0,2
+Oedicnème criard,2018,0,2
+Oie à tête barrée,2017,0,30
+Perruche à collier,2018,0,3
+Phalarope à bec large,2015,0,12
+Phragmite des joncs,2016,0,6
+Pic noir,2018,0,25
+Pie-grièche écorcheur,2018,0,4
+Pigeon colombin,2009,0,1
+Plongeon arctique,2009,0,2
+Râle d'eau,2016,0,1
+Rousserolle effarvatte,2010,0,4
+Sizerin cabaret,2018,0,6
+Sizerin flammé,2018,0,6
+Sterne arctique,2015,0,8
+Sterne naine,2016,0,2

@@ -1,15 +1,15 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Bondrée apivore
-0        Épervier d'Europe
-0        Grand Corbeau
-0        Grand Cormoran
-0        Grive draine
-0        Grive musicienne
-0        Pic vert
-0        Pouillot de Bonelli
-0        Roitelet à triple bandeau
-0        Sittelle torchepot
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2013    0        1
+Bondrée apivore           2013    0        2
+Épervier d'Europe         2014    0        2
+Grand Corbeau             2014    0        6
+Grand Cormoran            2014    0        2
+Grive draine              2014    0        4
+Grive musicienne          2014    0        2
+Pic vert                  2009    0        1
+Pouillot de Bonelli       2009    0        1
+Roitelet à triple bandeau 2009    0        1
+Sittelle torchepot        2013    0        1
 

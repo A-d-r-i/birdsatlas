@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Caille des blés
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Courlis cendré
-0        Échasse blanche
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Fauvette babillarde
-0        Fuligule milouinan
-0        Goéland cendré
-0        Hibou moyen-duc
-0        Macreuse brune
-0        Oedicnème criard
-0        Oie cendrée
-0        Perdrix grise
-0        Phragmite des joncs
-0        Pic mar
-0        Pouillot siffleur
-0        Sarcelle d'été
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Busard Saint-Martin  2009    0        1
+Caille des blés      2009    0        1
+Chevêche d'Athéna    2009    0        1
+Chouette hulotte     2019    0        5
+Courlis cendré       2009    0        1
+Échasse blanche      2009    0        1
+Effraie des clochers 2019    0        4
+Engoulevent d'Europe 2009    0        1
+Faucon hobereau      2009    0        1
+Fauvette babillarde  2009    0        1
+Fuligule milouinan   2009    0        1
+Goéland cendré       2018    0        3
+Hibou moyen-duc      2009    0        1
+Macreuse brune       2018    0        2
+Oedicnème criard     2009    0        1
+Oie cendrée          2009    0        1
+Perdrix grise        2009    0        2
+Phragmite des joncs  2009    0        1
+Pic mar              2009    0        1
+Pouillot siffleur    2009    0        1
+Sarcelle d'été       2009    0        1
 

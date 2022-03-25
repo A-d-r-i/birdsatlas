@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Goéland brun"
-"0";"Locustelle tachetée"
-"0";"Mésange boréale"
-"0";"Moineau soulcie"
-"0";"Pipit spioncelle"
-"0";"Pouillot de Bonelli"
-"0";"Rollier d'Europe"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2010,0,4
+Cincle plongeur,2017,0,3
+Effraie des clochers,2017,0,4
+Faucon émerillon,2016,0,6
+Goéland brun,2010,0,1
+Locustelle tachetée,2016,0,6
+Mésange boréale,2017,0,4
+Moineau soulcie,2012,0,2
+Pipit spioncelle,2015,0,4
+Pouillot de Bonelli,2016,0,2
+Rollier d'Europe,2011,0,2
+Vautour fauve,2007,0,1

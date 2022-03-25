@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bondrée apivore"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Canard colvert"
-"0";"Chouette hulotte"
-"0";"Crabier chevelu"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Gélinotte des bois"
-"0";"Grimpereau des bois"
-"0";"Huppe fasciée"
-"0";"Milan noir"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bondrée apivore,2016,0,2
+Bruant ortolan,2012,0,1
+Bruant zizi,2018,0,1
+Canard colvert,2014,0,3
+Chouette hulotte,2017,0,1
+Crabier chevelu,2012,0,3
+Faisan de Colchide,2016,0,1
+Faucon émerillon,2017,0,1
+Faucon hobereau,2015,0,1
+Gélinotte des bois,2013,0,2
+Grimpereau des bois,2015,0,1
+Huppe fasciée,2012,0,2
+Milan noir,2014,0,3
+Pluvier doré,2013,0,1
+Pouillot siffleur,2012,0,2
+Rousserolle effarvatte,2015,0,1
+Venturon montagnard,2017,0,2

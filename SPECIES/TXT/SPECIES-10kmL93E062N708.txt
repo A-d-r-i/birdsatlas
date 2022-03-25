@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bruant proyer
-0        Caille des blés
-0        Canard pilet
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevêche d'Athéna
-0        Chouette hulotte
-0        Cisticole des joncs
-0        Courlis corlieu
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland leucophée
-0        Hirondelle de rivage
-0        Huîtrier pie
-0        Hypolaïs polyglotte
-0        Ibis falcinelle
-0        Jaseur boréal
-0        Locustelle luscinioïde
-0        Mésange boréale
-0        Milan noir
-0        Milan royal
-0        Oie rieuse
-0        Panure à moustaches
-0        Perdrix grise
-0        Petit Gravelot
-0        Phragmite aquatique
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Sarcelle d'été
-0        Sizerin flammé
-0        Tarier pâtre
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Autour des palombes    2009    0        1
+Bruant proyer          2010    0        4
+Caille des blés        2015    0        1
+Canard pilet           2015    0        6
+Chevalier aboyeur      2016    0        3
+Chevalier gambette     2009    0        1
+Chevêche d'Athéna      2009    0        1
+Chouette hulotte       2016    0        3
+Cisticole des joncs    2007    0        1
+Courlis corlieu        2016    0        2
+Garrot à oeil d'or     2010    0        1
+Goéland brun           2016    0        13
+Goéland leucophée      2015    0        1
+Hirondelle de rivage   2016    0        7
+Huîtrier pie           2009    0        1
+Hypolaïs polyglotte    2009    0        1
+Ibis falcinelle        2018    0        1
+Jaseur boréal          2010    0        2
+Locustelle luscinioïde 2012    0        3
+Mésange boréale        2017    0        4
+Milan noir             2016    0        2
+Milan royal            2010    0        2
+Oie rieuse             2010    0        1
+Panure à moustaches    2010    0        3
+Perdrix grise          2014    0        2
+Petit Gravelot         2009    0        2
+Phragmite aquatique    2017    0        1
+Pie-grièche grise      2011    0        1
+Pigeon colombin        2012    0        3
+Pipit des arbres       2009    0        1
+Pouillot fitis         2017    0        192
+Pouillot siffleur      2009    0        1
+Rossignol philomèle    2016    0        5
+Sarcelle d'été         2013    0        2
+Sizerin flammé         2012    0        2
+Tarier pâtre           2013    0        5
 

@@ -1,16 +1,14 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bruant jaune"
-"0";"Coucou gris"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Moineau soulcie"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit des arbres"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2018,0,6
+Bondrée apivore,2009,0,1
+Bruant jaune,2016,0,4
+Coucou gris,2018,0,7
+Grive mauvis,2017,0,2
+Hibou moyen-duc,2010,0,2
+Linotte mélodieuse,2018,0,2
+Martin-pêcheur d'Europe,2014,0,6
+Mésange huppée,2015,0,1
+Moineau friquet,2009,0,1
+Moineau soulcie,2009,0,1
+Pie-grièche à tête rousse,2009,0,1
+Pipit des arbres,2018,0,2

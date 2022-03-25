@@ -1,40 +1,38 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau violet"
-"0";"Bernache cravant"
-"0";"Bihoreau gris"
-"0";"Bruant des neiges"
-"0";"Bruant proyer"
-"0";"Butor étoilé"
-"0";"Chevalier grivelé"
-"0";"Crabier chevelu"
-"0";"Cygne chanteur"
-"0";"Engoulevent d'Europe"
-"0";"Etourneau roselin"
-"0";"Fuligule milouinan"
-"0";"Goéland à ailes blanches"
-"0";"Goéland bourgmestre"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle huppé"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs polyglotte"
-"0";"Ibis falcinelle"
-"0";"Locustelle tachetée"
-"0";"Martinet à ventre blanc"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Panure à moustaches"
-"0";"Perruche à collier"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Plongeon catmarin"
-"0";"Pouillot à grands sourcils"
-"0";"Sarcelle à ailes vertes"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2015,0,14
+Bécasseau violet,2016,0,3
+Bernache cravant,2015,0,2
+Bihoreau gris,2015,0,1
+Bruant des neiges,2014,0,5
+Bruant proyer,2009,0,1
+Butor étoilé,2017,0,27
+Chevalier grivelé,2009,0,1
+Crabier chevelu,2014,0,2
+Cygne chanteur,2018,0,2
+Engoulevent d'Europe,2009,0,1
+Etourneau roselin,2015,0,1
+Fuligule milouinan,2018,0,12
+Goéland à ailes blanches,2012,0,3
+Goéland bourgmestre,2018,0,3
+Grèbe à cou noir,2017,0,3
+Guifette moustac,2015,0,1
+Guifette noire,2014,0,1
+Harle huppé,2016,0,2
+Hirondelle rousseline,2016,0,2
+Hypolaïs polyglotte,2016,0,1
+Ibis falcinelle,2014,0,18
+Locustelle tachetée,2014,0,1
+Martinet à ventre blanc,2015,0,1
+Milan royal,2018,0,2
+Moineau friquet,2015,0,1
+Oie cendrée,2015,0,1
+Ouette d'Egypte,2014,0,2
+Panure à moustaches,2017,0,1
+Perruche à collier,2017,0,1
+Pic noir,2009,0,1
+Pipit des arbres,2013,0,1
+Plongeon catmarin,2013,0,1
+Pouillot à grands sourcils,2014,0,14
+Sarcelle à ailes vertes,2015,0,1
+Tadorne de Belon,2018,0,32
+Tarier des prés,2015,0,1

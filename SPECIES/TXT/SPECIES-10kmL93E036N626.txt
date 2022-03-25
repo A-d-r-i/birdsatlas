@@ -1,55 +1,55 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette lulu
-0        Autour des palombes
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Busard cendré
-0        Calopsitte élégante
-0        Canard colvert
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Cigogne blanche
-0        Cigogne noire
-0        Coucou geai
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette pitchou
-0        Gallinule poule-d'eau
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grèbe huppé
-0        Grive draine
-0        Grive litorne
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Guêpier d'Europe
-0        Héron cendré
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Mésange huppée
-0        Pic épeichette
-0        Pic noir
-0        Pie bavarde
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rollier d'Europe
-0        Rougequeue à front blanc
-0        Serin cini
-0        Spatule blanche
-0        Torcol fourmilier
-0        Traquet oreillard
-0        Vanneau huppé
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2013    0        4
+Alouette lulu             2014    0        4
+Autour des palombes       2016    0        1
+Bondrée apivore           2015    0        5
+Bruant des roseaux        2017    0        1
+Busard cendré             2013    0        1
+Calopsitte élégante       2014    0        1
+Canard colvert            2016    0        10
+Chevalier culblanc        2012    0        1
+Chouette hulotte          2017    0        5
+Cigogne blanche           2012    0        5
+Cigogne noire             2017    0        1
+Coucou geai               2013    0        1
+Engoulevent d'Europe      2014    0        3
+Faisan de Colchide        2018    0        30
+Faucon émerillon          2015    0        3
+Faucon hobereau           2015    0        9
+Faucon pèlerin            2012    0        3
+Fauvette des jardins      2011    0        2
+Fauvette pitchou          2016    0        2
+Gallinule poule-d'eau     2017    0        7
+Gobemouche gris           2018    0        3
+Gobemouche noir           2018    0        14
+Grèbe huppé               2012    0        2
+Grive draine              2016    0        21
+Grive litorne             2016    0        6
+Grive mauvis              2016    0        12
+Grosbec casse-noyaux      2015    0        2
+Guêpier d'Europe          2009    0        1
+Héron cendré              2017    0        25
+Hypolaïs polyglotte       2017    0        24
+Loriot d'Europe           2018    0        27
+Martin-pêcheur d'Europe   2016    0        3
+Merle à plastron          2014    0        4
+Mésange huppée            2016    0        6
+Pic épeichette            2016    0        3
+Pic noir                  2015    0        8
+Pie bavarde               2017    0        50
+Pie-grièche à tête rousse 2015    0        2
+Pigeon biset domestique   2016    0        2
+Pigeon colombin           2014    0        4
+Pouillot fitis            2014    0        4
+Roitelet huppé            2015    0        2
+Rollier d'Europe          2015    0        1
+Rougequeue à front blanc  2011    0        2
+Serin cini                2013    0        5
+Spatule blanche           2010    0        1
+Torcol fourmilier         2010    0        3
+Traquet oreillard         2016    0        1
+Vanneau huppé             2013    0        4
+Verdier d'Europe          2018    0        20
 

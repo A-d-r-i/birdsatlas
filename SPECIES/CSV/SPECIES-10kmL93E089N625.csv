@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Busard pâle"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard souchet"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fauvette à lunettes"
-"0";"Foulque macroule"
-"0";"Gobemouche à collier"
-"0";"Goéland brun"
-"0";"Grèbe à cou noir"
-"0";"Hirondelle de rivage"
-"0";"Nette rousse"
-"0";"Perruche ondulée"
-"0";"Pipit spioncelle"
-"0";"Rousserolle turdoïde"
-"0";"Spatule blanche"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2016,0,4
+Busard pâle,2012,0,1
+Caille des blés,2012,0,2
+Canard carolin,2012,0,2
+Canard souchet,2018,0,24
+Faucon d'Eléonore,2013,0,1
+Faucon kobez,2011,0,1
+Fauvette à lunettes,2009,0,5
+Foulque macroule,2014,0,15
+Gobemouche à collier,2018,0,3
+Goéland brun,2010,0,1
+Grèbe à cou noir,2017,0,1
+Hirondelle de rivage,2018,0,2
+Nette rousse,2014,0,1
+Perruche ondulée,2012,0,2
+Pipit spioncelle,2016,0,1
+Rousserolle turdoïde,2014,0,3
+Spatule blanche,2013,0,1
+Vanneau huppé,2015,0,1

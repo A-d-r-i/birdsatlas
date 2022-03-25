@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Corbeau freux"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Grand Corbeau"
-"0";"Grand Gravelot"
-"0";"Ibis sacré"
-"0";"Océanite culblanc"
-"0";"Oie rieuse"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pluvier doré"
-"0";"Rousserolle effarvatte"
-"0";"Sterne caspienne"
-"0";"Tichodrome échelette"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,1
+Autour des palombes,2010,0,2
+Bécasse des bois,2016,0,7
+Bernache cravant,2019,0,1
+Bernache nonnette,2016,0,2
+Bouvreuil pivoine,2018,0,2
+Bruant des roseaux,2016,0,3
+Bruant proyer,2011,0,1
+Corbeau freux,2012,0,1
+Engoulevent d'Europe,2013,0,2
+Faisan de Colchide,2018,0,19
+Grand Corbeau,2013,0,9
+Grand Gravelot,2018,0,1
+Ibis sacré,2009,0,2
+Océanite culblanc,2009,0,3
+Oie rieuse,2012,0,2
+Perdrix rouge,2010,0,2
+Phragmite des joncs,2011,0,1
+Pie-grièche à tête rousse,2011,0,1
+Pluvier doré,2010,0,2
+Rousserolle effarvatte,2018,0,3
+Sterne caspienne,2017,0,1
+Tichodrome échelette,2016,0,3
+Vautour fauve,2009,0,3

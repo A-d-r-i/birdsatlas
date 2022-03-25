@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bernache nonnette
-0        Bihoreau gris
-0        Bruant fou
-0        Busard cendré
-0        Busard pâle
-0        Busard Saint-Martin
-0        Combattant varié
-0        Corneille mantelée
-0        Élanion blanc
-0        Engoulevent d'Europe
-0        Étourneau unicolore
-0        Faucon émerillon
-0        Fauvette babillarde
-0        Garrot à oeil d'or
-0        Goéland argenté
-0        Goéland cendré
-0        Goéland marin
-0        Goéland pontique
-0        Guifette leucoptère
-0        Guifette moustac
-0        Harle piette
-0        Héron pourpré
-0        Locustelle tachetée
-0        Mésange boréale
-0        Mouette mélanocéphale
-0        Pie-grièche à tête rousse
-0        Pipit rousseline
-0        Pluvier guignard
-0        Sarcelle d'été
-0        Sizerin boréal (C.f.flammea)
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne arctique
-0        Torcol fourmilier
-0        Traquet motteux
+frname                       lastobs newcount oldcount
+------                       ------- -------- --------
+Autour des palombes          2012    0        3
+Bécasseau maubèche           2018    0        5
+Bécasseau minute             2013    0        1
+Bécasseau sanderling         2012    0        1
+Bernache nonnette            2017    0        11
+Bihoreau gris                2017    0        3
+Bruant fou                   2010    0        2
+Busard cendré                2018    0        11
+Busard pâle                  2011    0        1
+Busard Saint-Martin          2016    0        43
+Combattant varié             2018    0        2
+Corneille mantelée           2016    0        1
+Élanion blanc                2016    0        3
+Engoulevent d'Europe         2015    0        10
+Étourneau unicolore          2015    0        1
+Faucon émerillon             2016    0        8
+Fauvette babillarde          2015    0        9
+Garrot à oeil d'or           2010    0        2
+Goéland argenté              2015    0        1
+Goéland cendré               2012    0        2
+Goéland marin                2018    0        1
+Goéland pontique             2018    0        1
+Guifette leucoptère          2016    0        9
+Guifette moustac             2014    0        3
+Harle piette                 2012    0        1
+Héron pourpré                2011    0        1
+Locustelle tachetée          2013    0        5
+Mésange boréale              2013    0        4
+Mouette mélanocéphale        2016    0        2
+Pie-grièche à tête rousse    2016    0        1
+Pipit rousseline             2007    0        1
+Pluvier guignard             2018    0        1
+Sarcelle d'été               2015    0        5
+Sizerin boréal (C.f.flammea) 2017    0        2
+Sizerin cabaret              2018    0        6
+Sizerin flammé               2018    0        8
+Sterne arctique              2016    0        1
+Torcol fourmilier            2017    0        25
+Traquet motteux              2018    0        20
 

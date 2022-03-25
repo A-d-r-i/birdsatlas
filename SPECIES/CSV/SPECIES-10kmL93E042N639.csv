@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Épervier d'Europe"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gobemouche noir"
-"0";"Hirondelle de fenêtre"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Marouette ponctuée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange noire"
-"0";"Mésange nonnette"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Rousserolle effarvatte"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2015,0,2
+Alouette des champs,2015,0,1
+Autour des palombes,2017,0,4
+Bécasse des bois,2018,0,8
+Bécassine des marais,2015,0,2
+Bec-croisé des sapins,2010,0,2
+Bergeronnette des ruisseaux,2009,0,2
+Bergeronnette printanière,2010,0,1
+Busard des roseaux,2018,0,3
+Canard mandarin,2009,0,1
+Chevalier aboyeur,2010,0,2
+Chevalier gambette,2010,0,1
+Cigogne blanche,2016,0,2
+Cigogne noire,2013,0,1
+Épervier d'Europe,2016,0,3
+Fauvette des jardins,2018,0,1
+Fauvette grisette,2017,0,5
+Gobemouche noir,2016,0,7
+Hirondelle de fenêtre,2018,0,7
+Locustelle tachetée,2012,0,4
+Loriot d'Europe,2017,0,18
+Marouette ponctuée,2011,0,1
+Martin-pêcheur d'Europe,2015,0,4
+Mésange noire,2018,0,1
+Mésange nonnette,2018,0,6
+Milan royal,2018,0,1
+Oie cendrée,2014,0,2
+Petit-duc scops,2018,0,1
+Petit Gravelot,2017,0,22
+Pigeon colombin,2009,0,1
+Pipit spioncelle,2015,0,2
+Pouillot fitis,2016,0,3
+Rousserolle effarvatte,2013,0,1
+Vanneau huppé,2012,0,3

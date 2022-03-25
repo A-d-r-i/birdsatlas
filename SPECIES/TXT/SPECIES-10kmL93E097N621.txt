@@ -1,55 +1,55 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bruant des roseaux
-0        Bruant proyer
-0        Caille des blés
-0        Canard colvert
-0        Chardonneret élégant
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Cigogne noire
-0        Corneille mantelée
-0        Courlis corlieu
-0        Faisan de Colchide
-0        Faucon d'Eléonore
-0        Fauvette orphée
-0        Flamant rose
-0        Fuligule milouin
-0        Goéland brun
-0        Grand Gravelot
-0        Grive draine
-0        Grosbec casse-noyaux
-0        Harle huppé
-0        Hirondelle de rochers
-0        Hirondelle rousseline
-0        Hypolaïs polyglotte
-0        Labbe parasite
-0        Labbe pomarin
-0        Locustelle tachetée
-0        Marouette poussin
-0        Merle à plastron
-0        Mésange charbonnière
-0        Moineau cisalpin
-0        Moineau domestique
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Océanite tempête
-0        Pic vert
-0        Pie bavarde
-0        Pigeon biset domestique
-0        Pipit rousseline
-0        Puffin cendré
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Sterne hansel
-0        Sterne pierregarin
-0        Traquet oreillard
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Alouette des champs     2018    0        1
+Autour des palombes     2018    0        9
+Bruant des roseaux      2018    0        2
+Bruant proyer           2016    0        2
+Caille des blés         2013    0        2
+Canard colvert          2010    0        2
+Chardonneret élégant    2011    0        1
+Chevalier arlequin      2009    0        1
+Chevalier gambette      2012    0        2
+Chevalier sylvain       2012    0        3
+Chevêche d'Athéna       2017    0        11
+Choucas des tours       2011    0        6
+Chouette hulotte        2013    0        1
+Cigogne noire           2017    0        1
+Corneille mantelée      2018    0        1
+Courlis corlieu         2016    0        2
+Faisan de Colchide      2016    0        2
+Faucon d'Eléonore       2017    0        7
+Fauvette orphée         2010    0        1
+Flamant rose            2013    0        1
+Fuligule milouin        2009    0        2
+Goéland brun            2009    0        2
+Grand Gravelot          2018    0        1
+Grive draine            2009    0        2
+Grosbec casse-noyaux    2018    0        2
+Harle huppé             2007    0        2
+Hirondelle de rochers   2016    0        3
+Hirondelle rousseline   2016    0        2
+Hypolaïs polyglotte     2016    0        2
+Labbe parasite          2014    0        1
+Labbe pomarin           2007    0        1
+Locustelle tachetée     2011    0        1
+Marouette poussin       2016    0        1
+Merle à plastron        2014    0        1
+Mésange charbonnière    2017    0        6
+Moineau cisalpin        2009    0        1
+Moineau domestique      2018    0        2
+Mouette mélanocéphale   2007    0        1
+Mouette rieuse          2010    0        3
+Océanite tempête        2011    0        1
+Pic vert                2010    0        3
+Pie bavarde             2012    0        3
+Pigeon biset domestique 2012    0        5
+Pipit rousseline        2013    0        1
+Puffin cendré           2009    0        1
+Roitelet huppé          2018    0        6
+Rousserolle effarvatte  2016    0        3
+Rousserolle turdoïde    2017    0        5
+Sterne hansel           2011    0        1
+Sterne pierregarin      2010    0        1
+Traquet oreillard       2010    0        1
 

@@ -1,62 +1,60 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Barge à queue noire"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bernache du Canada"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Bruant ortolan"
-"0";"Busard Saint-Martin"
-"0";"Cassenoix moucheté"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Chouette de Tengmalm"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule à tête noire"
-"0";"Grand Gravelot"
-"0";"Grèbe jougris"
-"0";"Grive mauvis"
-"0";"Harle piette"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Labbe à longue queue"
-"0";"Labbe parasite"
-"0";"Labbe pomarin"
-"0";"Macreuse brune"
-"0";"Marouette ponctuée"
-"0";"Marouette poussin"
-"0";"Merle à plastron"
-"0";"Mouette tridactyle"
-"0";"Nette demi-deuil"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Plongeon catmarin"
-"0";"Rousserolle verderolle"
-"0";"Sterne caspienne"
-"0";"Sterne caugek"
-"0";"Sterne naine"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Tournepierre à collier"
-"0";"Traquet motteux"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2018,0,18
+Barge à queue noire,2017,0,3
+Bécasseau minute,2018,0,1
+Bécasseau sanderling,2010,0,1
+Bécasse des bois,2015,0,2
+Bec-croisé des sapins,2016,0,7
+Bernache du Canada,2012,0,1
+Blongios nain,2012,0,2
+Bruant fou,2018,0,11
+Bruant ortolan,2011,0,2
+Busard Saint-Martin,2010,0,2
+Cassenoix moucheté,2008,0,1
+Chevalier aboyeur,2012,0,4
+Chevalier gambette,2011,0,4
+Chouette de Tengmalm,2016,0,2
+Combattant varié,2008,0,1
+Courlis cendré,2013,0,3
+Crabier chevelu,2016,0,8
+Effraie des clochers,2008,0,1
+Engoulevent d'Europe,2014,0,1
+Faucon kobez,2012,0,1
+Fauvette babillarde,2016,0,3
+Fauvette des jardins,2018,0,46
+Fauvette grisette,2014,0,2
+Fuligule à tête noire,2018,0,17
+Grand Gravelot,2012,0,1
+Grèbe jougris,2007,0,1
+Grive mauvis,2017,0,4
+Harle piette,2017,0,13
+Héron garde-boeufs,2016,0,4
+Hibou moyen-duc,2015,0,4
+Huppe fasciée,2017,0,6
+Labbe à longue queue,2014,0,6
+Labbe parasite,2017,0,15
+Labbe pomarin,2008,0,2
+Macreuse brune,2018,0,5
+Marouette ponctuée,2007,0,1
+Marouette poussin,2012,0,11
+Merle à plastron,2015,0,1
+Mouette tridactyle,2009,0,5
+Nette demi-deuil,2009,0,1
+Oie cendrée,2018,0,3
+Ouette d'Egypte,2017,0,13
+Petit Gravelot,2017,0,17
+Pic noir,2017,0,5
+Pipit des arbres,2014,0,6
+Pipit farlouse,2017,0,3
+Pipit spioncelle,2011,0,5
+Plongeon catmarin,2009,0,2
+Rousserolle verderolle,2016,0,2
+Sterne caspienne,2009,0,3
+Sterne caugek,2014,0,2
+Sterne naine,2008,0,2
+Tarier des prés,2016,0,3
+Tichodrome échelette,2015,0,2
+Torcol fourmilier,2015,0,1
+Tournepierre à collier,2009,0,1
+Traquet motteux,2016,0,6
+Vautour fauve,2013,0,1

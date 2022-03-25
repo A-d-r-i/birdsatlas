@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Autour des palombes
-0        Bergeronnette printanière
-0        Chevalier guignette
-0        Chevêchette d'Europe
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Gobemouche gris
-0        Gobemouche noir
-0        Grand-duc d'Europe
-0        Hypolaïs polyglotte
-0        Merle à plastron
-0        Monticole de roche
-0        Niverolle alpine
-0        Perdrix bartavelle
-0        Pic épeichette
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Rossignol philomèle
-0        Tarier des prés
-0        Tichodrome échelette
-0        Tourterelle turque
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2017    0        2
+Autour des palombes       2013    0        4
+Bergeronnette printanière 2015    0        5
+Chevalier guignette       2009    0        1
+Chevêchette d'Europe      2018    0        1
+Engoulevent d'Europe      2012    0        4
+Faucon pèlerin            2011    0        2
+Fauvette des jardins      2011    0        1
+Fauvette grisette         2018    0        6
+Fauvette orphée           2015    0        4
+Fauvette pitchou          2011    0        2
+Gobemouche gris           2018    0        1
+Gobemouche noir           2013    0        1
+Grand-duc d'Europe        2009    0        3
+Hypolaïs polyglotte       2014    0        1
+Merle à plastron          2014    0        2
+Monticole de roche        2014    0        4
+Niverolle alpine          2013    0        1
+Perdrix bartavelle        2010    0        6
+Pic épeichette            2012    0        2
+Pipit farlouse            2016    0        2
+Pouillot siffleur         2015    0        1
+Rossignol philomèle       2014    0        4
+Tarier des prés           2018    0        6
+Tichodrome échelette      2015    0        3
+Tourterelle turque        2009    0        2
 

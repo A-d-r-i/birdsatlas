@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bruant fou
-0        Busard cendré
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard chipeau
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Grèbe castagneux
-0        Grive mauvis
-0        Héron pourpré
-0        Mésange boréale
-0        Perdrix rouge
-0        Pouillot siffleur
-0        Rollier d'Europe
-0        Rossignol philomèle
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Vautour fauve
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Aigrette garzette    2012    0        1
+Autour des palombes  2018    0        1
+Bécasse des bois     2018    0        4
+Bruant fou           2018    0        2
+Busard cendré        2012    0        1
+Busard Saint-Martin  2015    0        7
+Caille des blés      2011    0        4
+Canard chipeau       2018    0        1
+Chevêche d'Athéna    2017    0        9
+Cigogne noire        2012    0        1
+Engoulevent d'Europe 2014    0        1
+Faucon émerillon     2015    0        1
+Grèbe castagneux     2018    0        2
+Grive mauvis         2013    0        1
+Héron pourpré        2018    0        1
+Mésange boréale      2011    0        3
+Perdrix rouge        2018    0        14
+Pouillot siffleur    2011    0        3
+Rollier d'Europe     2014    0        1
+Rossignol philomèle  2018    0        2
+Sizerin cabaret      2017    0        1
+Sizerin flammé       2017    0        1
+Vautour fauve        2017    0        2
 

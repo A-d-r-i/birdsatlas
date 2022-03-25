@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bondrée apivore"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Busard des roseaux"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Gallinule poule-d'eau"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Hypolaïs polyglotte"
-"0";"Mésange noire"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Pic noir"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Sarcelle d'hiver"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,2
+Autour des palombes,2017,0,3
+Bondrée apivore,2014,0,4
+Bruant fou,2017,0,1
+Bruant jaune,2017,0,4
+Busard des roseaux,2018,0,1
+Canard pilet,2018,0,1
+Canard siffleur,2012,0,1
+Chevalier culblanc,2015,0,1
+Chevalier guignette,2017,0,4
+Choucas des tours,2018,0,3
+Cigogne noire,2015,0,1
+Circaète Jean-le-Blanc,2018,0,5
+Effraie des clochers,2018,0,1
+Fauvette des jardins,2017,0,2
+Gallinule poule-d'eau,2016,0,2
+Grive litorne,2016,0,4
+Grosbec casse-noyaux,2018,0,12
+Héron pourpré,2015,0,1
+Hibou moyen-duc,2018,0,4
+Hirondelle de rochers,2009,0,2
+Hypolaïs polyglotte,2016,0,7
+Mésange noire,2018,0,7
+Moineau soulcie,2018,0,2
+Mouette rieuse,2016,0,3
+Pic noir,2018,0,4
+Rémiz penduline,2017,0,1
+Roitelet huppé,2015,0,6
+Rougequeue à front blanc,2016,0,10
+Sarcelle d'hiver,2017,0,3
+Tourterelle des bois,2015,0,3
+Traquet motteux,2018,0,2
+Vautour moine,2017,0,1

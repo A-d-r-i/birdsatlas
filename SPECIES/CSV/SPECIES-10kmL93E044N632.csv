@@ -1,52 +1,50 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Caille des blés"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Épervier d'Europe"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des jardins"
-"0";"Huppe fasciée"
-"0";"Ibis sacré"
-"0";"Léiothrix jaune"
-"0";"Martin-pêcheur d'Europe"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Perdrix rouge"
-"0";"Pic mar"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Tarier pâtre"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,5
+Aigrette garzette,2018,0,5
+Alouette des champs,2012,0,12
+Bécasse des bois,2013,0,3
+Bécassine des marais,2011,0,1
+Bergeronnette des ruisseaux,2017,0,10
+Bihoreau gris,2011,0,1
+Bondrée apivore,2013,0,8
+Bouscarle de Cetti,2018,0,1
+Bouvreuil pivoine,2017,0,2
+Bruant des roseaux,2017,0,2
+Bruant jaune,2013,0,3
+Bruant proyer,2018,0,1
+Busard Saint-Martin,2012,0,6
+Caille des blés,2013,0,2
+Canard chipeau,2017,0,4
+Canard pilet,2011,0,1
+Canard siffleur,2017,0,1
+Chevalier aboyeur,2019,0,1
+Chevalier culblanc,2018,0,1
+Chevalier guignette,2019,0,5
+Cigogne noire,2017,0,2
+Corbeau freux,2013,0,2
+Épervier d'Europe,2017,0,12
+Faucon hobereau,2011,0,4
+Fauvette grisette,2013,0,4
+Foulque macroule,2014,0,4
+Fuligule milouin,2011,0,2
+Gobemouche noir,2012,0,4
+Grèbe castagneux,2011,0,1
+Grèbe huppé,2016,0,3
+Grimpereau des jardins,2018,0,31
+Huppe fasciée,2013,0,6
+Ibis sacré,2011,0,2
+Léiothrix jaune,2018,0,1
+Martin-pêcheur d'Europe,2011,0,3
+Milan royal,2013,0,12
+Moineau friquet,2017,0,4
+Mouette tridactyle,2015,0,1
+Perdrix rouge,2013,0,5
+Pic mar,2017,0,7
+Pic noir,2017,0,4
+Pipit des arbres,2013,0,5
+Pipit spioncelle,2017,0,1
+Râle d'eau,2011,0,1
+Roitelet huppé,2012,0,2
+Rougequeue à front blanc,2018,0,5
+Tarier pâtre,2018,0,8
+Traquet motteux,2011,0,1

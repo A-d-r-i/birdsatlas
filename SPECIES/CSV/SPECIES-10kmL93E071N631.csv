@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Cisticole des joncs"
-"0";"Cochevis huppé"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange nonnette"
-"0";"Moineau soulcie"
-"0";"Monticole de roche"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tarier des prés"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,1
+Aigle botté,2018,0,3
+Bécasse des bois,2015,0,2
+Bergeronnette des ruisseaux,2018,0,10
+Bergeronnette printanière,2017,0,4
+Chevalier culblanc,2016,0,5
+Chevalier guignette,2011,0,3
+Chevêche d'Athéna,2011,0,2
+Cigogne blanche,2017,0,3
+Cigogne noire,2007,0,1
+Cincle plongeur,2017,0,2
+Cisticole des joncs,2018,0,3
+Cochevis huppé,2016,0,2
+Faucon émerillon,2016,0,3
+Faucon hobereau,2011,0,3
+Faucon kobez,2014,0,3
+Foulque macroule,2011,0,1
+Fuligule milouin,2018,0,1
+Gobemouche gris,2014,0,1
+Goéland leucophée,2008,0,1
+Grand Gravelot,2011,0,1
+Grèbe castagneux,2012,0,7
+Grèbe huppé,2017,0,1
+Grosbec casse-noyaux,2018,0,1
+Hibou des marais,2013,0,2
+Hibou moyen-duc,2013,0,1
+Locustelle tachetée,2017,0,1
+Martin-pêcheur d'Europe,2018,0,8
+Mésange nonnette,2011,0,1
+Moineau soulcie,2012,0,1
+Monticole de roche,2015,0,7
+Mouette rieuse,2018,0,1
+Oedicnème criard,2013,0,1
+Petit Gravelot,2011,0,4
+Pie-grièche à tête rousse,2017,0,6
+Pigeon colombin,2016,0,2
+Pipit spioncelle,2009,0,1
+Roitelet huppé,2013,0,2
+Rousserolle effarvatte,2016,0,1
+Sarcelle d'été,2013,0,1
+Sarcelle d'hiver,2018,0,1
+Tarier des prés,2017,0,4
+Vanneau huppé,2015,0,3

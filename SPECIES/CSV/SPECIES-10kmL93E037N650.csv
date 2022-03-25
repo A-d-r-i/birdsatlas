@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasseau variable"
-"0";"Bernache du Canada"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Buse variable"
-"0";"Cochevis huppé"
-"0";"Coucou gris"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Étourneau sansonnet"
-"0";"Faucon crécerelle"
-"0";"Faucon hobereau"
-"0";"Fauvette à tête noire"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Grimpereau des jardins"
-"0";"Grive musicienne"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Martin-pêcheur d'Europe"
-"0";"Merle noir"
-"0";"Mésange à longue queue"
-"0";"Mésange bleue"
-"0";"Mésange charbonnière"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Moineau domestique"
-"0";"Mouette pygmée"
-"0";"Pic vert"
-"0";"Pie bavarde"
-"0";"Pigeon ramier"
-"0";"Pinson des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Puffin des Baléares"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougegorge familier"
-"0";"Sittelle torchepot"
-"0";"Sterne pierregarin"
-"0";"Tarin des aulnes"
-"0";"Tourterelle turque"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2008,0,1
+Bécasseau variable,2017,0,1
+Bernache du Canada,2014,0,1
+Bondrée apivore,2011,0,2
+Bruant zizi,2010,0,1
+Buse variable,2017,0,5
+Cochevis huppé,2018,0,1
+Coucou gris,2016,0,2
+Effraie des clochers,2013,0,2
+Épervier d'Europe,2016,0,1
+Étourneau sansonnet,2016,0,3
+Faucon crécerelle,2017,0,4
+Faucon hobereau,2011,0,1
+Fauvette à tête noire,2015,0,1
+Fauvette des jardins,2016,0,1
+Fauvette grisette,2016,0,1
+Fauvette pitchou,2015,0,1
+Gallinule poule-d'eau,2015,0,1
+Grimpereau des jardins,2015,0,2
+Grive musicienne,2016,0,3
+Huppe fasciée,2012,0,2
+Hypolaïs polyglotte,2016,0,3
+Martin-pêcheur d'Europe,2016,0,1
+Merle noir,2016,0,6
+Mésange à longue queue,2015,0,1
+Mésange bleue,2018,0,2
+Mésange charbonnière,2015,0,5
+Mésange huppée,2018,0,5
+Mésange noire,2015,0,1
+Milan noir,2018,0,1
+Moineau domestique,2015,0,1
+Mouette pygmée,2016,0,1
+Pic vert,2015,0,1
+Pie bavarde,2016,0,1
+Pigeon ramier,2015,0,2
+Pinson des arbres,2015,0,7
+Pouillot de Bonelli,2018,0,4
+Puffin des Baléares,2015,0,1
+Roitelet à triple bandeau,2016,0,7
+Roitelet huppé,2015,0,3
+Rougegorge familier,2016,0,12
+Sittelle torchepot,2016,0,2
+Sterne pierregarin,2017,0,2
+Tarin des aulnes,2008,0,1
+Tourterelle turque,2015,0,1
+Troglodyte mignon,2016,0,4

@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bécassine sourde"
-"0";"Bruant nain"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Cochevis huppé"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grèbe huppé"
-"0";"Mésange boréale"
-"0";"Mouette mélanocéphale"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pouillot à grands sourcils"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,5
+Aigrette garzette,2015,0,1
+Bécassine sourde,2014,0,1
+Bruant nain,2008,0,1
+Bruant ortolan,2013,0,1
+Busard cendré,2009,0,1
+Caille des blés,2018,0,3
+Canard mandarin,2012,0,2
+Cochevis huppé,2012,0,1
+Faucon émerillon,2015,0,5
+Faucon kobez,2015,0,2
+Fauvette babillarde,2012,0,9
+Goéland argenté,2018,0,2
+Goéland brun,2011,0,1
+Goéland leucophée,2018,0,5
+Grèbe huppé,2018,0,1
+Mésange boréale,2014,0,1
+Mouette mélanocéphale,2017,0,1
+Pie-grièche à tête rousse,2012,0,8
+Pipit rousseline,2016,0,6
+Pouillot à grands sourcils,2018,0,1
+Sarcelle d'hiver,2008,0,1

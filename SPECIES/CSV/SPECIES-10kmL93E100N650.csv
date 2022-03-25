@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant zizi"
-"0";"Chouette de Tengmalm"
-"0";"Étourneau sansonnet"
-"0";"Faucon pèlerin"
-"0";"Fuligule milouin"
-"0";"Gobemouche gris"
-"0";"Grand Cormoran"
-"0";"Grand-duc d'Europe"
-"0";"Grimpereau des jardins"
-"0";"Héron cendré"
-"0";"Martinet noir"
-"0";"Monticole de roche"
-"0";"Pic épeichette"
-"0";"Tichodrome échelette"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2009,0,1
+Bruant fou,2016,0,6
+Bruant jaune,2017,0,11
+Bruant zizi,2012,0,3
+Chouette de Tengmalm,2016,0,11
+Étourneau sansonnet,2018,0,1
+Faucon pèlerin,2012,0,3
+Fuligule milouin,2016,0,1
+Gobemouche gris,2015,0,1
+Grand Cormoran,2016,0,1
+Grand-duc d'Europe,2012,0,3
+Grimpereau des jardins,2018,0,1
+Héron cendré,2018,0,1
+Martinet noir,2018,0,5
+Monticole de roche,2017,0,9
+Pic épeichette,2018,0,1
+Tichodrome échelette,2014,0,5
+Tourterelle turque,2016,0,1

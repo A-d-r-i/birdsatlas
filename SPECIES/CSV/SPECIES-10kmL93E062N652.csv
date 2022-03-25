@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Effraie des clochers"
-"0";"Guêpier d'Europe"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pie-grièche à tête rousse"
+frname,lastobs,newcount,oldcount
+Effraie des clochers,2018,0,2
+Guêpier d'Europe,2016,0,1
+Loriot d'Europe,2011,0,2
+Moineau friquet,2011,0,2
+Mouette tridactyle,2009,0,1
+Petit Gravelot,2015,0,1
+Pic mar,2010,0,2
+Pie-grièche à tête rousse,2009,0,2

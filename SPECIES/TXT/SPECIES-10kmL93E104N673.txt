@@ -1,51 +1,51 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Avocette élégante
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau de Temminck
-0        Bécasseau maubèche
-0        Bécasseau minute
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Bernache cravant
-0        Bruant des neiges
-0        Bruant fou
-0        Busard pâle
-0        Calopsitte élégante
-0        Cisticole des joncs
-0        Combattant varié
-0        Corneille mantelée
-0        Cygne chanteur
-0        Cygne noir
-0        Eider à duvet
-0        Fuligule à bec cerclé
-0        Fuligule à tête noire
-0        Goéland marin
-0        Grand Gravelot
-0        Guifette leucoptère
-0        Harelde boréale
-0        Harle piette
-0        Hibou des marais
-0        Hirondelle rousseline
-0        Huîtrier pie
-0        Jaseur boréal
-0        Mésange huppée
-0        Mouette pygmée
-0        Mouette tridactyle
-0        Panure à moustaches
-0        Pélican gris
-0        Perdrix rouge
-0        Perruche à collier
-0        Pic à dos blanc
-0        Pie-grièche à tête rousse
-0        Pipit à gorge rousse
-0        Plongeon catmarin
-0        Plongeon imbrin
-0        Pluvier doré
-0        Rollier d'Europe
-0        Roselin cramoisi
-0        Tournepierre à collier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette calandrelle      2010    0        1
+Avocette élégante         2015    0        2
+Barge à queue noire       2013    0        9
+Barge rousse              2013    0        2
+Bécasseau de Temminck     2011    0        2
+Bécasseau maubèche        2011    0        1
+Bécasseau minute          2017    0        3
+Bécasseau sanderling      2015    0        1
+Bécasseau tacheté         2018    0        1
+Bernache cravant          2014    0        4
+Bruant des neiges         2017    0        1
+Bruant fou                2018    0        3
+Busard pâle               2017    0        3
+Calopsitte élégante       2012    0        1
+Cisticole des joncs       2012    0        6
+Combattant varié          2017    0        24
+Corneille mantelée        2014    0        1
+Cygne chanteur            2012    0        22
+Cygne noir                2018    0        20
+Eider à duvet             2018    0        3
+Fuligule à bec cerclé     2014    0        1
+Fuligule à tête noire     2012    0        20
+Goéland marin             2014    0        21
+Grand Gravelot            2016    0        11
+Guifette leucoptère       2017    0        1
+Harelde boréale           2017    0        37
+Harle piette              2019    0        135
+Hibou des marais          2018    0        7
+Hirondelle rousseline     2015    0        1
+Huîtrier pie              2012    0        14
+Jaseur boréal             2013    0        7
+Mésange huppée            2018    0        17
+Mouette pygmée            2018    0        23
+Mouette tridactyle        2019    0        7
+Panure à moustaches       2018    0        2
+Pélican gris              2016    0        1
+Perdrix rouge             2013    0        6
+Perruche à collier        2015    0        4
+Pic à dos blanc           2015    0        3
+Pie-grièche à tête rousse 2018    0        4
+Pipit à gorge rousse      2011    0        1
+Plongeon catmarin         2012    0        3
+Plongeon imbrin           2007    0        1
+Pluvier doré              2017    0        5
+Rollier d'Europe          2012    0        1
+Roselin cramoisi          2013    0        1
+Tournepierre à collier    2017    0        3
 

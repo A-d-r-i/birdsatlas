@@ -1,46 +1,44 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau minute"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Canard carolin"
-"0";"Canard pilet"
-"0";"Chevalier stagnatile"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Combattant varié"
-"0";"Échasse blanche"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Harle huppé"
-"0";"Marouette ponctuée"
-"0";"Merle à plastron"
-"0";"Moineau soulcie"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Torcol fourmilier"
-"0";"Traquet oreillard"
-"0";"Vanneau huppé"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bécasseau minute,2014,0,9
+Bergeronnette flavéole (M.f.flavissima),2011,0,1
+Bruant fou,2017,0,5
+Bruant jaune,2017,0,10
+Busard cendré,2017,0,10
+Canard carolin,2008,0,2
+Canard pilet,2017,0,3
+Chevalier stagnatile,2012,0,2
+Cigogne noire,2014,0,1
+Cisticole des joncs,2018,0,3
+Combattant varié,2013,0,7
+Échasse blanche,2013,0,2
+Faucon émerillon,2012,0,3
+Fauvette babillarde,2009,0,2
+Fuligule milouin,2017,0,31
+Fuligule morillon,2019,0,16
+Fuligule nyroca,2016,0,1
+Garrot à oeil d'or,2012,0,14
+Grand Gravelot,2015,0,5
+Grèbe à cou noir,2012,0,2
+Harle huppé,2014,0,1
+Marouette ponctuée,2016,0,4
+Merle à plastron,2007,0,1
+Moineau soulcie,2007,0,2
+Mouette mélanocéphale,2016,0,4
+Mouette pygmée,2015,0,12
+Mouette tridactyle,2009,0,4
+Nette rousse,2019,0,2
+Oedicnème criard,2015,0,1
+Oie cendrée,2011,0,2
+Perdrix grise,2018,0,2
+Petit Gravelot,2016,0,7
+Pie-grièche à tête rousse,2010,0,1
+Pigeon colombin,2015,0,1
+Pipit à gorge rousse,2011,0,1
+Pipit rousseline,2016,0,9
+Pluvier doré,2007,0,1
+Sterne pierregarin,2017,0,2
+Tadorne de Belon,2014,0,4
+Torcol fourmilier,2017,0,6
+Traquet oreillard,2011,0,1
+Vanneau huppé,2016,0,42
+Vautour moine,2007,0,1

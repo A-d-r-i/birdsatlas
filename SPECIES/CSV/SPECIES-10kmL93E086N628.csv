@@ -1,57 +1,55 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandre"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Bruant nain"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Etourneau roselin"
-"0";"Faucon crécerellette"
-"0";"Faucon d'Eléonore"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fauvette passerinette"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grand-duc d'Europe"
-"0";"Grande Aigrette"
-"0";"Grand Gravelot"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Hypolaïs ictérine"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Moineau soulcie"
-"0";"Monticole bleu"
-"0";"Monticole de roche"
-"0";"Perruche à collier"
-"0";"Petit-duc scops"
-"0";"Petit Gravelot"
-"0";"Pigeon colombin"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
-"0";"Sittelle torchepot"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette calandre,2012,0,6
+Bécasse des bois,2016,0,1
+Bruant des roseaux,2016,0,16
+Bruant fou,2017,0,16
+Bruant nain,2017,0,1
+Busard cendré,2016,0,13
+Caille des blés,2018,0,3
+Canard mandarin,2010,0,2
+Chevalier aboyeur,2014,0,1
+Chevalier culblanc,2016,0,4
+Cigogne noire,2016,0,2
+Effraie des clochers,2010,0,3
+Etourneau roselin,2013,0,1
+Faucon crécerellette,2016,0,2
+Faucon d'Eléonore,2015,0,1
+Faucon hobereau,2018,0,2
+Faucon pèlerin,2016,0,3
+Fauvette des jardins,2009,0,1
+Fauvette grisette,2016,0,1
+Fauvette passerinette,2018,0,4
+Gallinule poule-d'eau,2017,0,23
+Gobemouche gris,2014,0,3
+Gobemouche noir,2017,0,16
+Grand-duc d'Europe,2018,0,8
+Grande Aigrette,2018,0,9
+Grand Gravelot,2009,0,1
+Grèbe huppé,2008,0,1
+Grive draine,2014,0,4
+Grive litorne,2016,0,6
+Grive mauvis,2016,0,1
+Grosbec casse-noyaux,2018,0,10
+Héron pourpré,2016,0,1
+Hirondelle de rivage,2011,0,3
+Hypolaïs ictérine,2009,0,1
+Locustelle tachetée,2009,0,1
+Martin-pêcheur d'Europe,2018,0,14
+Moineau soulcie,2015,0,1
+Monticole bleu,2018,0,3
+Monticole de roche,2018,0,1
+Perruche à collier,2010,0,2
+Petit-duc scops,2016,0,1
+Petit Gravelot,2010,0,2
+Pigeon colombin,2015,0,1
+Pouillot de Bonelli,2015,0,4
+Pouillot siffleur,2015,0,1
+Râle d'eau,2015,0,1
+Rousserolle effarvatte,2009,0,2
+Rousserolle turdoïde,2016,0,1
+Sarcelle d'hiver,2012,0,2
+Sittelle torchepot,2017,0,7
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Tichodrome échelette,2010,0,1
+Torcol fourmilier,2017,0,5

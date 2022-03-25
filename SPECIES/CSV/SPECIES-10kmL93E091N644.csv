@@ -1,38 +1,36 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Astrild ondulé"
-"0";"Bruant ortolan"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Colin de Californie"
-"0";"Combattant varié"
-"0";"Corneille mantelée"
-"0";"Courlis cendré"
-"0";"Crave à bec rouge"
-"0";"Faisan vénéré"
-"0";"Fauvette babillarde"
-"0";"Gélinotte des bois"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Gravelot à collier interrompu"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Locustelle luscinioïde"
-"0";"Merle à plastron"
-"0";"Mouette rieuse"
-"0";"Niverolle alpine"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Astrild ondulé,2011,0,1
+Bruant ortolan,2016,0,4
+Chevalier gambette,2016,0,3
+Chevalier sylvain,2017,0,3
+Cigogne noire,2018,0,2
+Colin de Californie,2012,0,1
+Combattant varié,2015,0,1
+Corneille mantelée,2016,0,3
+Courlis cendré,2013,0,1
+Crave à bec rouge,2011,0,1
+Faisan vénéré,2016,0,4
+Fauvette babillarde,2014,0,4
+Gélinotte des bois,2015,0,2
+Goéland brun,2018,0,3
+Goéland cendré,2011,0,1
+Gorgebleue à miroir,2007,0,1
+Grand Gravelot,2016,0,2
+Gravelot à collier interrompu,2012,0,2
+Grèbe à cou noir,2014,0,2
+Guifette moustac,2012,0,1
+Locustelle luscinioïde,2011,0,6
+Merle à plastron,2017,0,1
+Mouette rieuse,2017,0,4
+Niverolle alpine,2015,0,1
+Phragmite des joncs,2018,0,6
+Pie-grièche à tête rousse,2011,0,4
+Pipit à gorge rousse,2018,0,2
+Pipit rousseline,2011,0,1
+Pluvier guignard,2018,0,1
+Rousserolle verderolle,2015,0,7
+Sizerin cabaret,2018,0,1
+Sizerin flammé,2018,0,1
+Sterne pierregarin,2018,0,1
+Tadorne casarca,2007,0,1
+Tadorne de Belon,2016,0,2

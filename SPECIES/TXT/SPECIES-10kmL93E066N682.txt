@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Busard cendré
-0        Chevêche d'Athéna
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Goéland brun
-0        Grèbe à cou noir
-0        Harle bièvre
-0        Merle à plastron
-0        Moineau friquet
-0        Pouillot de Bonelli
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécassine des marais 2013    0        1
+Busard cendré        2018    0        2
+Chevêche d'Athéna    2009    0        1
+Engoulevent d'Europe 2013    0        1
+Faucon pèlerin       2014    0        1
+Fauvette pitchou     2018    0        2
+Fuligule milouin     2017    0        3
+Goéland brun         2014    0        1
+Grèbe à cou noir     2016    0        5
+Harle bièvre         2012    0        3
+Merle à plastron     2012    0        5
+Moineau friquet      2015    0        1
+Pouillot de Bonelli  2018    0        3
 

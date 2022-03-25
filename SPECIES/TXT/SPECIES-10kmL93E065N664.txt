@@ -1,25 +1,25 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Choucas des tours
-0        Chouette hulotte
-0        Cigogne noire
-0        Engoulevent d'Europe
-0        Faucon pèlerin
-0        Grand Cormoran
-0        Grive litorne
-0        Hibou des marais
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Mésange huppée
-0        Moineau friquet
-0        Pic cendré
-0        Pic épeichette
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rougequeue à front blanc
+frname                   lastobs newcount oldcount
+------                   ------- -------- --------
+Aigle botté              2018    0        1
+Chevalier aboyeur        2015    0        1
+Chevalier gambette       2015    0        1
+Choucas des tours        2009    0        1
+Chouette hulotte         2018    0        5
+Cigogne noire            2009    0        1
+Engoulevent d'Europe     2015    0        2
+Faucon pèlerin           2015    0        2
+Grand Cormoran           2017    0        1
+Grive litorne            2017    0        1
+Hibou des marais         2018    0        1
+Huppe fasciée            2018    0        6
+Locustelle tachetée      2015    0        1
+Mésange huppée           2018    0        1
+Moineau friquet          2015    0        1
+Pic cendré               2009    0        2
+Pic épeichette           2008    0        1
+Pouillot de Bonelli      2017    0        2
+Pouillot fitis           2018    0        2
+Roitelet huppé           2017    0        1
+Rougequeue à front blanc 2015    0        1
 

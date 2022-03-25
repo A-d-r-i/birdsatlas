@@ -1,9 +1,9 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Fauvette pitchou
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Sittelle corse
-0        Tourterelle des bois
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Fauvette pitchou          2015    0        1
+Petit Gravelot            2017    0        1
+Pie-grièche à tête rousse 2015    0        1
+Sittelle corse            2015    0        1
+Tourterelle des bois      2013    0        1
 

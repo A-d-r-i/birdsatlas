@@ -1,31 +1,31 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Busard pâle
-0        Chouette de Tengmalm
-0        Cigogne noire
-0        Corbeau freux
-0        Coucou geai
-0        Échasse blanche
-0        Gallinule poule-d'eau
-0        Glaréole à collier
-0        Goéland brun
-0        Goéland leucophée
-0        Grand-duc d'Europe
-0        Héron pourpré
-0        Hirondelle rousseline
-0        Mouette mélanocéphale
-0        Niverolle alpine
-0        Oie cendrée
-0        Perruche à collier
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pipit à gorge rousse
-0        Pipit rousseline
-0        Pluvier doré
-0        Pluvier guignard
-0        Sterne pierregarin
-0        Tichodrome échelette
-0        Venturon montagnard
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        3
+Busard pâle               2017    0        1
+Chouette de Tengmalm      2008    0        1
+Cigogne noire             2013    0        4
+Corbeau freux             2017    0        4
+Coucou geai               2017    0        1
+Échasse blanche           2008    0        1
+Gallinule poule-d'eau     2013    0        5
+Glaréole à collier        2012    0        2
+Goéland brun              2008    0        1
+Goéland leucophée         2018    0        8
+Grand-duc d'Europe        2017    0        7
+Héron pourpré             2014    0        1
+Hirondelle rousseline     2013    0        2
+Mouette mélanocéphale     2011    0        2
+Niverolle alpine          2015    0        3
+Oie cendrée               2010    0        1
+Perruche à collier        2018    0        1
+Petit Gravelot            2014    0        1
+Pie-grièche à tête rousse 2016    0        2
+Pipit à gorge rousse      2017    0        1
+Pipit rousseline          2018    0        4
+Pluvier doré              2014    0        6
+Pluvier guignard          2009    0        3
+Sterne pierregarin        2012    0        3
+Tichodrome échelette      2018    0        2
+Venturon montagnard       2018    0        5
 

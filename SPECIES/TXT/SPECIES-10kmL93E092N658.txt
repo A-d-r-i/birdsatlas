@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant proyer
-0        Canard souchet
-0        Chevalier gambette
-0        Choucas des tours
-0        Faucon kobez
-0        Gallinule poule-d'eau
-0        Grèbe huppé
-0        Héron garde-boeufs
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Petit-duc scops
-0        Pigeon biset domestique
-0        Pigeon colombin
-0        Pluvier guignard
-0        Râle des genêts
-0        Rossignol philomèle
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tourterelle turque
+frname                  lastobs newcount oldcount
+------                  ------- -------- --------
+Accenteur alpin         2018    0        3
+Bruant des roseaux      2018    0        3
+Bruant fou              2016    0        20
+Bruant proyer           2015    0        2
+Canard souchet          2011    0        1
+Chevalier gambette      2011    0        1
+Choucas des tours       2015    0        1
+Faucon kobez            2015    0        2
+Gallinule poule-d'eau   2015    0        1
+Grèbe huppé             2015    0        3
+Héron garde-boeufs      2016    0        1
+Huppe fasciée           2017    0        1
+Locustelle tachetée     2018    0        2
+Loriot d'Europe         2015    0        1
+Petit-duc scops         2011    0        5
+Pigeon biset domestique 2016    0        8
+Pigeon colombin         2015    0        4
+Pluvier guignard        2008    0        1
+Râle des genêts         2013    0        5
+Rossignol philomèle     2013    0        2
+Rousserolle effarvatte  2015    0        3
+Sarcelle d'hiver        2013    0        1
+Sizerin cabaret         2008    0        1
+Sizerin flammé          2008    0        1
+Tourterelle turque      2011    0        3
 

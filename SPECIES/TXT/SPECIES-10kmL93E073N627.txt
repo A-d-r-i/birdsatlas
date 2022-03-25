@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache du Canada
-0        Busard pâle
-0        Cygne tuberculé
-0        Élanion blanc
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Locustelle tachetée
-0        Mouette mélanocéphale
-0        Pluvier argenté
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bernache du Canada    2013    0        1
+Busard pâle           2014    0        24
+Cygne tuberculé       2013    0        6
+Élanion blanc         2016    0        1
+Goéland brun          2018    0        1
+Gorgebleue à miroir   2011    0        1
+Locustelle tachetée   2013    0        1
+Mouette mélanocéphale 2011    0        1
+Pluvier argenté       2016    0        1
+Tichodrome échelette  2015    0        1
 

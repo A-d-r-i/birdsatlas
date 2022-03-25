@@ -1,23 +1,23 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bihoreau gris
-0        Busard cendré
-0        Corbeau freux
-0        Cygne noir
-0        Cygne tuberculé
-0        Faisan vénéré
-0        Faucon crécerellette
-0        Faucon kobez
-0        Fauvette des jardins
-0        Grèbe castagneux
-0        Héron pourpré
-0        Moineau soulcie
-0        Ouette d'Egypte
-0        Pigeon biset (origine naturelle)
-0        Pipit rousseline
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Sarcelle d'été
-0        Tadorne de Belon
+frname                           lastobs newcount oldcount
+------                           ------- -------- --------
+Bihoreau gris                    2018    0        13
+Busard cendré                    2018    0        1
+Corbeau freux                    2018    0        1
+Cygne noir                       2017    0        1
+Cygne tuberculé                  2017    0        1
+Faisan vénéré                    2014    0        1
+Faucon crécerellette             2018    0        2
+Faucon kobez                     2018    0        3
+Fauvette des jardins             2009    0        1
+Grèbe castagneux                 2009    0        1
+Héron pourpré                    2013    0        2
+Moineau soulcie                  2018    0        1
+Ouette d'Egypte                  2017    0        1
+Pigeon biset (origine naturelle) 2016    0        1
+Pipit rousseline                 2009    0        1
+Pouillot de Bonelli              2016    0        2
+Pouillot siffleur                2009    0        1
+Sarcelle d'été                   2018    0        2
+Tadorne de Belon                 2008    0        1
 

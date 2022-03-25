@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécassine des marais"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevalier gambette"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Corneille mantelée"
-"0";"Élanion blanc"
-"0";"Grande Aigrette"
-"0";"Grèbe huppé"
-"0";"Hibou des marais"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pie-grièche grise"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,1
+Bécassine des marais,2016,0,8
+Bruant proyer,2017,0,1
+Busard cendré,2014,0,2
+Chevalier gambette,2011,0,1
+Chevalier guignette,2013,0,4
+Chevalier sylvain,2012,0,1
+Choucas des tours,2017,0,5
+Corbeau freux,2018,0,4
+Corneille mantelée,2017,0,1
+Élanion blanc,2010,0,1
+Grande Aigrette,2017,0,1
+Grèbe huppé,2016,0,9
+Hibou des marais,2009,0,1
+Mouette rieuse,2016,0,2
+Perdrix rouge,2016,0,10
+Phragmite des joncs,2012,0,2
+Pie-grièche grise,2016,0,4
+Rollier d'Europe,2016,0,2
+Rousserolle turdoïde,2008,0,1
+Rousserolle verderolle,2014,0,8
+Sarcelle d'hiver,2015,0,7
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Venturon montagnard,2008,0,1

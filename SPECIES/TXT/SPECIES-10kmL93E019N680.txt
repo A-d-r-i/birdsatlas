@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouscarle de Cetti
-0        Busard cendré
-0        Chevalier culblanc
-0        Corbeau freux
-0        Effraie des clochers
-0        Hibou des marais
-0        Milan noir
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche écorcheur
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bouscarle de Cetti    2017    0        1
+Busard cendré         2009    0        1
+Chevalier culblanc    2015    0        2
+Corbeau freux         2015    0        1
+Effraie des clochers  2017    0        2
+Hibou des marais      2009    0        1
+Milan noir            2016    0        2
+Pic épeichette        2013    0        4
+Pic mar               2013    0        4
+Pie-grièche écorcheur 2016    0        1
 

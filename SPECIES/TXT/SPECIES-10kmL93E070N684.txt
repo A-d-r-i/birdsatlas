@@ -1,43 +1,43 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bondrée apivore
-0        Bouvreuil pivoine
-0        Bruant des roseaux
-0        Bruant zizi
-0        Chevalier aboyeur
-0        Chevalier guignette
-0        Cigogne blanche
-0        Cygne tuberculé
-0        Faucon hobereau
-0        Fauvette des jardins
-0        Foulque macroule
-0        Gobemouche gris
-0        Gobemouche noir
-0        Goéland brun
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grèbe huppé
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Loriot d'Europe
-0        Martinet noir
-0        Martin-pêcheur d'Europe
-0        Merle à plastron
-0        Mésange à longue queue
-0        Mésange huppée
-0        Mouette mélanocéphale
-0        Perruche à collier
-0        Petit Gravelot
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche écorcheur
-0        Pouillot fitis
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Sarcelle d'hiver
-0        Serin cini
-0        Sterne pierregarin
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bondrée apivore           2012    0        5
+Bouvreuil pivoine         2011    0        2
+Bruant des roseaux        2014    0        6
+Bruant zizi               2015    0        4
+Chevalier aboyeur         2012    0        1
+Chevalier guignette       2013    0        1
+Cigogne blanche           2015    0        1
+Cygne tuberculé           2012    0        4
+Faucon hobereau           2014    0        8
+Fauvette des jardins      2014    0        16
+Foulque macroule          2015    0        17
+Gobemouche gris           2012    0        5
+Gobemouche noir           2017    0        1
+Goéland brun              2012    0        2
+Grand Cormoran            2018    0        9
+Grèbe castagneux          2013    0        4
+Grèbe huppé               2014    0        2
+Grive mauvis              2015    0        1
+Hibou moyen-duc           2018    0        3
+Loriot d'Europe           2013    0        10
+Martinet noir             2017    0        59
+Martin-pêcheur d'Europe   2014    0        5
+Merle à plastron          2012    0        1
+Mésange à longue queue    2017    0        9
+Mésange huppée            2017    0        4
+Mouette mélanocéphale     2015    0        2
+Perruche à collier        2017    0        1
+Petit Gravelot            2012    0        5
+Pic épeichette            2017    0        7
+Pic mar                   2012    0        2
+Pie-grièche écorcheur     2012    0        10
+Pouillot fitis            2014    0        2
+Roitelet à triple bandeau 2018    0        3
+Roitelet huppé            2017    0        4
+Rousserolle effarvatte    2014    0        6
+Sarcelle d'hiver          2012    0        3
+Serin cini                2015    0        8
+Sterne pierregarin        2014    0        14
+Tarier des prés           2011    0        2
 

@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bouscarle de Cetti"
-"0";"Caille des blés"
-"0";"Canard pilet"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Phragmite des joncs"
-"0";"Pipit des arbres"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2009,0,1
+Bouscarle de Cetti,2017,0,3
+Caille des blés,2009,0,1
+Canard pilet,2016,0,1
+Chevalier guignette,2017,0,1
+Chevêche d'Athéna,2017,0,2
+Cigogne noire,2016,0,1
+Engoulevent d'Europe,2009,0,1
+Harle bièvre,2009,0,1
+Hibou moyen-duc,2009,0,1
+Loriot d'Europe,2009,0,1
+Moineau friquet,2014,0,3
+Perdrix grise,2017,0,1
+Phragmite des joncs,2009,0,1
+Pipit des arbres,2009,0,3
+Pouillot siffleur,2009,0,1

@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécassine sourde"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier aboyeur"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Mésange noire"
-"0";"Milan noir"
-"0";"Milan royal"
-"0";"Oie cendrée"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Rougequeue noir"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2018,0,13
+Bécassine sourde,2017,0,11
+Busard des roseaux,2015,0,2
+Caille des blés,2015,0,3
+Chevalier aboyeur,2014,0,1
+Chevêche d'Athéna,2016,0,26
+Cigogne blanche,2012,0,2
+Cigogne noire,2010,0,1
+Faisan de Colchide,2018,0,8
+Faucon émerillon,2015,0,2
+Faucon pèlerin,2012,0,1
+Goéland argenté,2016,0,1
+Goéland brun,2018,0,3
+Grèbe huppé,2016,0,10
+Héron pourpré,2017,0,1
+Hibou des marais,2017,0,2
+Locustelle tachetée,2017,0,13
+Mésange noire,2017,0,3
+Milan noir,2013,0,1
+Milan royal,2010,0,2
+Oie cendrée,2017,0,3
+Pie-grièche grise,2010,0,1
+Pigeon biset domestique,2011,0,3
+Pipit spioncelle,2017,0,5
+Pluvier doré,2018,0,9
+Pouillot de Bonelli,2015,0,1
+Pouillot fitis,2013,0,2
+Râle d'eau,2014,0,1
+Rossignol philomèle,2014,0,8
+Rougequeue noir,2016,0,8

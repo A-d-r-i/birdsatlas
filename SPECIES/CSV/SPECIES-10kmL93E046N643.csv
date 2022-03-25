@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache cravant"
-"0";"Busard des roseaux"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Corbeau freux"
-"0";"Courlis cendré"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Fauvette pitchou"
-"0";"Fuligule nyroca"
-"0";"Gobemouche gris"
-"0";"Goéland brun"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Mésange huppée"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Plongeon imbrin"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,3
+Bécassine sourde,2018,0,2
+Bernache cravant,2011,0,2
+Busard des roseaux,2018,0,5
+Butor étoilé,2017,0,3
+Canard pilet,2018,0,12
+Canard siffleur,2018,0,33
+Chevalier gambette,2018,0,4
+Chevalier sylvain,2015,0,1
+Cigogne noire,2018,0,2
+Corbeau freux,2018,0,1
+Courlis cendré,2010,0,2
+Engoulevent d'Europe,2012,0,4
+Faucon pèlerin,2018,0,1
+Fauvette pitchou,2018,0,1
+Fuligule nyroca,2010,0,3
+Gobemouche gris,2014,0,3
+Goéland brun,2018,0,3
+Harle bièvre,2010,0,2
+Harle piette,2010,0,3
+Héron pourpré,2018,0,1
+Hibou moyen-duc,2011,0,2
+Hirondelle de rivage,2017,0,14
+Mésange huppée,2015,0,7
+Perdrix rouge,2018,0,1
+Perruche à collier,2017,0,1
+Petit Gravelot,2018,0,17
+Phragmite des joncs,2018,0,2
+Plongeon imbrin,2017,0,4
+Râle d'eau,2016,0,5
+Rousserolle effarvatte,2011,0,2
+Tadorne de Belon,2017,0,3
+Tarier des prés,2011,0,1
+Torcol fourmilier,2018,0,4

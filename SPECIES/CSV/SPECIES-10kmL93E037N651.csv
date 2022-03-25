@@ -1,54 +1,52 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant lapon"
-"0";"Bruant ortolan"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard mandarin"
-"0";"Combattant varié"
-"0";"Coucou geai"
-"0";"Échasse blanche"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Goéland à ailes blanches"
-"0";"Goéland à bec cerclé"
-"0";"Goéland d'Audouin"
-"0";"Goéland pontique"
-"0";"Grèbe castagneux"
-"0";"Grèbe esclavon"
-"0";"Guêpier d'Europe"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Ibis falcinelle"
-"0";"Ibis rouge"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Martinet à ventre blanc"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Océanite culblanc"
-"0";"Océanite tempête"
-"0";"Panure à moustaches"
-"0";"Perdrix grise"
-"0";"Phalarope à bec large"
-"0";"Pipit maritime"
-"0";"Plongeon arctique"
-"0";"Plongeon imbrin"
-"0";"Pouillot à grands sourcils"
-"0";"Puffin cendré"
-"0";"Puffin des Anglais"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Bergeronnette flavéole (M.f.flavissima),2014,0,2
+Bernache nonnette,2011,0,1
+Blongios nain,2010,0,2
+Bouvreuil pivoine,2017,0,3
+Bruant lapon,2010,0,1
+Bruant ortolan,2018,0,9
+Butor étoilé,2017,0,3
+Caille des blés,2008,0,1
+Canard mandarin,2011,0,2
+Combattant varié,2018,0,4
+Coucou geai,2008,0,2
+Échasse blanche,2018,0,8
+Effraie des clochers,2017,0,7
+Eider à duvet,2014,0,10
+Fauvette babillarde,2012,0,1
+Foulque macroule,2018,0,20
+Fuligule milouin,2017,0,5
+Fuligule milouinan,2016,0,2
+Fuligule morillon,2011,0,2
+Goéland à ailes blanches,2014,0,2
+Goéland à bec cerclé,2012,0,1
+Goéland d'Audouin,2010,0,1
+Goéland pontique,2016,0,2
+Grèbe castagneux,2015,0,2
+Grèbe esclavon,2008,0,1
+Guêpier d'Europe,2017,0,6
+Harelde boréale,2016,0,1
+Harle huppé,2016,0,11
+Ibis falcinelle,2017,0,3
+Ibis rouge,2011,0,1
+Locustelle luscinioïde,2018,0,5
+Locustelle tachetée,2009,0,1
+Macareux moine,2016,0,8
+Martinet à ventre blanc,2017,0,1
+Mésange noire,2018,0,22
+Moineau friquet,2013,0,1
+Océanite culblanc,2009,0,4
+Océanite tempête,2018,0,8
+Panure à moustaches,2011,0,1
+Perdrix grise,2016,0,1
+Phalarope à bec large,2016,0,2
+Pipit maritime,2012,0,5
+Plongeon arctique,2009,0,11
+Plongeon imbrin,2014,0,4
+Pouillot à grands sourcils,2014,0,3
+Puffin cendré,2015,0,8
+Puffin des Anglais,2018,0,5
+Rousserolle turdoïde,2009,0,1
+Sizerin flammé,2012,0,3
+Sterne arctique,2017,0,4
+Tichodrome échelette,2017,0,3

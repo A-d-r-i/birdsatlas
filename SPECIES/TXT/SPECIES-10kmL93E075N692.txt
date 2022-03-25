@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Bec-croisé des sapins
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Caille des blés
-0        Chevalier arlequin
-0        Chevalier sylvain
-0        Chouette hulotte
-0        Échasse blanche
-0        Faucon pèlerin
-0        Guifette noire
-0        Hibou des marais
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Martinet noir
-0        Mésange boréale
-0        Milan noir
-0        Milan royal
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie rieuse
-0        Phragmite des joncs
-0        Pic mar
-0        Pie bavarde
-0        Rousserolle verderolle
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Avocette élégante           2016    0        1
+Bec-croisé des sapins       2009    0        1
+Bergeronnette des ruisseaux 2009    0        1
+Bondrée apivore             2018    0        5
+Caille des blés             2009    0        1
+Chevalier arlequin          2014    0        1
+Chevalier sylvain           2014    0        4
+Chouette hulotte            2018    0        2
+Échasse blanche             2018    0        1
+Faucon pèlerin              2018    0        1
+Guifette noire              2013    0        1
+Hibou des marais            2013    0        1
+Locustelle luscinioïde      2009    0        1
+Locustelle tachetée         2015    0        6
+Martinet noir               2016    0        3
+Mésange boréale             2015    0        2
+Milan noir                  2018    0        4
+Milan royal                 2009    0        1
+Moineau friquet             2009    0        1
+Oedicnème criard            2015    0        3
+Oie rieuse                  2018    0        1
+Phragmite des joncs         2009    0        1
+Pic mar                     2009    0        1
+Pie bavarde                 2016    0        11
+Rousserolle verderolle      2015    0        3
 

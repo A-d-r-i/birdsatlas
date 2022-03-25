@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Corneille mantelée"
-"0";"Crave à bec rouge"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette orphée"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Paon bleu"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon colombin"
-"0";"Pouillot à grands sourcils"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2015,0,1
+Aigle royal,2018,0,4
+Aigrette garzette,2017,0,11
+Bécasse des bois,2015,0,2
+Bec-croisé des sapins,2010,0,1
+Bihoreau gris,2016,0,42
+Bouvreuil pivoine,2014,0,1
+Bruant jaune,2016,0,2
+Chevalier guignette,2016,0,6
+Cigogne noire,2017,0,1
+Corneille mantelée,2013,0,1
+Crave à bec rouge,2016,0,1
+Cygne tuberculé,2014,0,4
+Engoulevent d'Europe,2017,0,8
+Fauvette orphée,2017,0,5
+Grive mauvis,2012,0,2
+Hibou moyen-duc,2018,0,32
+Mésange huppée,2017,0,3
+Moineau friquet,2016,0,2
+Mouette rieuse,2016,0,2
+Paon bleu,2017,0,1
+Petit Gravelot,2017,0,5
+Pie-grièche à tête rousse,2016,0,1
+Pigeon colombin,2016,0,2
+Pouillot à grands sourcils,2012,0,1
+Rousserolle effarvatte,2017,0,2
+Sarcelle d'hiver,2012,0,3

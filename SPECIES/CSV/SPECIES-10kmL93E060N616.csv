@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bruant zizi"
-"0";"Busard Saint-Martin"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cochevis huppé"
-"0";"Grand Tétras"
-"0";"Héron cendré"
-"0";"Hibou moyen-duc"
-"0";"Milan noir"
-"0";"Moineau friquet"
-"0";"Pic vert"
-"0";"Pigeon biset domestique"
-"0";"Pipit farlouse"
-"0";"Pouillot ibérique"
-"0";"Torcol fourmilier"
-"0";"Vautour moine"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bruant zizi,2017,0,2
+Busard Saint-Martin,2016,0,3
+Chevalier guignette,2009,0,1
+Choucas des tours,2009,0,1
+Cochevis huppé,2018,0,1
+Grand Tétras,2013,0,3
+Héron cendré,2013,0,4
+Hibou moyen-duc,2015,0,1
+Milan noir,2018,0,2
+Moineau friquet,2015,0,1
+Pic vert,2016,0,3
+Pigeon biset domestique,2017,0,1
+Pipit farlouse,2015,0,1
+Pouillot ibérique,2016,0,1
+Torcol fourmilier,2017,0,1
+Vautour moine,2011,0,1
+Verdier d'Europe,2017,0,5

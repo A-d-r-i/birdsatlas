@@ -1,63 +1,61 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Calopsitte élégante"
-"0";"Canard mandarin"
-"0";"Canard souchet"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Crabier chevelu"
-"0";"Engoulevent d'Europe"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fauvette des jardins"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Flamant rose"
-"0";"Fuligule milouin"
-"0";"Fuligule milouinan"
-"0";"Glaréole à collier"
-"0";"Goéland brun"
-"0";"Gorgebleue à miroir"
-"0";"Grand-duc d'Europe"
-"0";"Grand Gravelot"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Guifette noire"
-"0";"Hibou des marais"
-"0";"Hirondelle de rochers"
-"0";"Hirondelle rousseline"
-"0";"Huîtrier pie"
-"0";"Locustelle tachetée"
-"0";"Lusciniole à moustaches"
-"0";"Marouette ponctuée"
-"0";"Martinet à ventre blanc"
-"0";"Martinet pâle"
-"0";"Mésange noire"
-"0";"Moineau soulcie"
-"0";"Nette rousse"
-"0";"Oie des moissons"
-"0";"Oie naine"
-"0";"Panure à moustaches"
-"0";"Paon bleu"
-"0";"Petit Gravelot"
-"0";"Pipit à gorge rousse"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Sarcelle d'été"
-"0";"Spatule blanche"
-"0";"Tadorne de Belon"
-"0";"Talève sultane"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,1
+Bruant fou,2012,0,3
+Bruant jaune,2016,0,2
+Bruant ortolan,2010,0,1
+Calopsitte élégante,2016,0,3
+Canard mandarin,2018,0,1
+Canard souchet,2012,0,2
+Chevalier gambette,2012,0,4
+Chevalier sylvain,2016,0,18
+Combattant varié,2010,0,1
+Courlis cendré,2012,0,1
+Courlis corlieu,2012,0,3
+Crabier chevelu,2014,0,1
+Engoulevent d'Europe,2015,0,4
+Faucon d'Eléonore,2012,0,2
+Faucon kobez,2016,0,14
+Fauvette des jardins,2015,0,3
+Fauvette passerinette,2017,0,3
+Fauvette pitchou,2016,0,11
+Flamant rose,2012,0,2
+Fuligule milouin,2017,0,1
+Fuligule milouinan,2018,0,1
+Glaréole à collier,2009,0,1
+Goéland brun,2018,0,2
+Gorgebleue à miroir,2015,0,3
+Grand-duc d'Europe,2017,0,14
+Grand Gravelot,2013,0,1
+Grèbe huppé,2018,0,1
+Grive draine,2016,0,12
+Grive mauvis,2018,0,29
+Guifette noire,2011,0,1
+Hibou des marais,2018,0,1
+Hirondelle de rochers,2014,0,3
+Hirondelle rousseline,2016,0,7
+Huîtrier pie,2012,0,1
+Locustelle tachetée,2015,0,1
+Lusciniole à moustaches,2012,0,4
+Marouette ponctuée,2017,0,1
+Martinet à ventre blanc,2017,0,17
+Martinet pâle,2014,0,1
+Mésange noire,2018,0,4
+Moineau soulcie,2009,0,1
+Nette rousse,2011,0,2
+Oie des moissons,2018,0,1
+Oie naine,2018,0,2
+Panure à moustaches,2011,0,1
+Paon bleu,2016,0,1
+Petit Gravelot,2012,0,1
+Pipit à gorge rousse,2014,0,2
+Pipit rousseline,2013,0,6
+Pipit spioncelle,2013,0,2
+Pouillot à grands sourcils,2016,0,1
+Pouillot siffleur,2018,0,3
+Rémiz penduline,2014,0,6
+Roitelet huppé,2018,0,9
+Sarcelle d'été,2012,0,1
+Spatule blanche,2017,0,1
+Tadorne de Belon,2017,0,27
+Talève sultane,2012,0,4
+Torcol fourmilier,2017,0,4

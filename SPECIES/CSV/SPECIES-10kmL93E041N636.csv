@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bruant ortolan"
-"0";"Bruant zizi"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Courlis cendré"
-"0";"Goéland leucophée"
-"0";"Gorgebleue à miroir"
-"0";"Grosbec casse-noyaux"
-"0";"Guêpier d'Europe"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Hirondelle de rivage"
-"0";"Léiothrix jaune"
-"0";"Moineau friquet"
-"0";"Pluvier doré"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,10
+Bec-croisé des sapins,2012,0,5
+Bruant ortolan,2018,0,1
+Bruant zizi,2017,0,16
+Chevêche d'Athéna,2009,0,2
+Cigogne noire,2015,0,1
+Courlis cendré,2011,0,5
+Goéland leucophée,2009,0,1
+Gorgebleue à miroir,2012,0,1
+Grosbec casse-noyaux,2018,0,10
+Guêpier d'Europe,2011,0,1
+Héron pourpré,2015,0,5
+Hibou moyen-duc,2009,0,3
+Hirondelle de fenêtre,2013,0,7
+Hirondelle de rivage,2013,0,1
+Léiothrix jaune,2017,0,20
+Moineau friquet,2011,0,12
+Pluvier doré,2017,0,5
+Sarcelle d'été,2018,0,2

@@ -1,18 +1,18 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Barge à queue noire
-0        Bihoreau gris
-0        Busard cendré
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Courlis cendré
-0        Cygne tuberculé
-0        Guêpier d'Europe
-0        Locustelle tachetée
-0        Merle à plastron
-0        Perdrix grise
-0        Perdrix rouge
-0        Pouillot de Bonelli
-0        Spatule blanche
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Barge à queue noire 2011    0        1
+Bihoreau gris       2018    0        5
+Busard cendré       2015    0        1
+Chevalier guignette 2014    0        2
+Chevêche d'Athéna   2010    0        1
+Courlis cendré      2018    0        4
+Cygne tuberculé     2016    0        1
+Guêpier d'Europe    2017    0        1
+Locustelle tachetée 2009    0        2
+Merle à plastron    2010    0        1
+Perdrix grise       2015    0        1
+Perdrix rouge       2016    0        5
+Pouillot de Bonelli 2012    0        2
+Spatule blanche     2017    0        1
 

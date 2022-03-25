@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Barge à queue noire
-0        Barge rousse
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bécasse des bois
-0        Bernache nonnette
-0        Bihoreau gris
-0        Blongios nain
-0        Busard pâle
-0        Butor étoilé
-0        Chevalier stagnatile
-0        Cisticole des joncs
-0        Échasse blanche
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Goéland brun
-0        Goéland cendré
-0        Grand-duc d'Europe
-0        Gravelot à collier interrompu
-0        Grèbe esclavon
-0        Guifette leucoptère
-0        Harelde boréale
-0        Harle bièvre
-0        Harle piette
-0        Ibis falcinelle
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Macreuse brune
-0        Macreuse noire
-0        Merle à plastron
-0        Mésange boréale
-0        Mouette tridactyle
-0        Oie à bec court
-0        Rémiz penduline
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caspienne
-0        Torcol fourmilier
+frname                        lastobs newcount oldcount
+------                        ------- -------- --------
+Avocette élégante             2017    0        9
+Barge à queue noire           2018    0        7
+Barge rousse                  2014    0        4
+Bécasseau cocorli             2018    0        3
+Bécasseau de Temminck         2017    0        2
+Bécasseau sanderling          2016    0        2
+Bécasse des bois              2017    0        6
+Bernache nonnette             2012    0        9
+Bihoreau gris                 2015    0        6
+Blongios nain                 2017    0        13
+Busard pâle                   2018    0        1
+Butor étoilé                  2017    0        4
+Chevalier stagnatile          2007    0        1
+Cisticole des joncs           2007    0        1
+Échasse blanche               2017    0        4
+Faucon d'Eléonore             2015    0        2
+Faucon kobez                  2016    0        2
+Fuligule milouinan            2015    0        1
+Fuligule nyroca               2007    0        1
+Goéland brun                  2018    0        4
+Goéland cendré                2014    0        3
+Grand-duc d'Europe            2016    0        1
+Gravelot à collier interrompu 2007    0        2
+Grèbe esclavon                2019    0        1
+Guifette leucoptère           2018    0        2
+Harelde boréale               2016    0        2
+Harle bièvre                  2017    0        1
+Harle piette                  2014    0        3
+Ibis falcinelle               2016    0        5
+Locustelle luscinioïde        2018    0        9
+Locustelle tachetée           2018    0        27
+Macreuse brune                2017    0        3
+Macreuse noire                2017    0        2
+Merle à plastron              2007    0        1
+Mésange boréale               2009    0        1
+Mouette tridactyle            2009    0        1
+Oie à bec court               2009    0        1
+Rémiz penduline               2010    0        1
+Sizerin cabaret               2017    0        1
+Sizerin flammé                2017    0        1
+Sterne caspienne              2015    0        2
+Torcol fourmilier             2009    0        1
 

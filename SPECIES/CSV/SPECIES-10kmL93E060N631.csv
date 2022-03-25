@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bouscarle de Cetti"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Canard chipeau"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Cochevis huppé"
-"0";"Crabier chevelu"
-"0";"Cygne tuberculé"
-"0";"Échasse blanche"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette passerinette"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Guifette moustac"
-"0";"Héron pourpré"
-"0";"Moineau soulcie"
-"0";"Oie à tête barrée"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,12
+Bouscarle de Cetti,2016,0,3
+Bruant jaune,2017,0,6
+Bruant ortolan,2009,0,1
+Canard chipeau,2014,0,3
+Canard souchet,2017,0,5
+Chevalier guignette,2016,0,13
+Cochevis huppé,2011,0,3
+Crabier chevelu,2017,0,3
+Cygne tuberculé,2014,0,3
+Échasse blanche,2017,0,1
+Faucon d'Eléonore,2016,0,2
+Fauvette passerinette,2011,0,2
+Grand-duc d'Europe,2012,0,1
+Grèbe castagneux,2015,0,8
+Guifette moustac,2014,0,1
+Héron pourpré,2017,0,9
+Moineau soulcie,2018,0,6
+Oie à tête barrée,2017,0,3
+Pouillot siffleur,2018,0,1
+Rollier d'Europe,2017,0,1
+Sarcelle d'été,2012,0,1
+Sarcelle d'hiver,2018,0,3
+Tadorne de Belon,2014,0,1
+Tarier des prés,2017,0,12
+Vautour fauve,2016,0,3

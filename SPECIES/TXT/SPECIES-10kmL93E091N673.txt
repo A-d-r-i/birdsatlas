@@ -1,28 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bruant des roseaux
-0        Chevalier culblanc
-0        Chevêche d'Athéna
-0        Combattant varié
-0        Courlis cendré
-0        Cygne chanteur
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule morillon
-0        Grèbe huppé
-0        Héron garde-boeufs
-0        Hypolaïs ictérine
-0        Locustelle tachetée
-0        Mouette rieuse
-0        Perdrix rouge
-0        Pic cendré
-0        Pie-grièche grise
-0        Pluvier doré
-0        Rousserolle turdoïde
-0        Tadorne de Belon
-0        Tarier des prés
-0        Vautour fauve
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécassine des marais 2017    0        11
+Bruant des roseaux   2018    0        13
+Chevalier culblanc   2014    0        1
+Chevêche d'Athéna    2016    0        8
+Combattant varié     2010    0        1
+Courlis cendré       2013    0        12
+Cygne chanteur       2011    0        2
+Faucon émerillon     2016    0        2
+Fauvette des jardins 2018    0        8
+Foulque macroule     2015    0        21
+Fuligule morillon    2012    0        11
+Grèbe huppé          2012    0        14
+Héron garde-boeufs   2013    0        2
+Hypolaïs ictérine    2007    0        1
+Locustelle tachetée  2012    0        2
+Mouette rieuse       2014    0        2
+Perdrix rouge        2014    0        1
+Pie-grièche grise    2018    0        8
+Pluvier doré         2016    0        1
+Rousserolle turdoïde 2017    0        8
+Tadorne de Belon     2018    0        1
+Tarier des prés      2018    0        9
+Vautour fauve        2007    0        1
 

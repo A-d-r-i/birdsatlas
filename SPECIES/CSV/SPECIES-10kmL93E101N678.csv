@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant proyer"
-"0";"Busard Saint-Martin"
-"0";"Buse pattue"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Garrot à oeil d'or"
-"0";"Gélinotte des bois"
-"0";"Oie cendrée"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bruant proyer,2015,0,1
+Busard Saint-Martin,2008,0,1
+Buse pattue,2017,0,4
+Canard carolin,2017,0,1
+Canard mandarin,2018,0,6
+Chevalier culblanc,2014,0,1
+Chevêche d'Athéna,2012,0,2
+Effraie des clochers,2015,0,3
+Faucon émerillon,2011,0,1
+Faucon hobereau,2011,0,3
+Fauvette babillarde,2013,0,2
+Garrot à oeil d'or,2014,0,1
+Gélinotte des bois,2012,0,1
+Oie cendrée,2011,0,2
+Rousserolle verderolle,2009,0,1
+Sarcelle d'hiver,2015,0,1
+Sizerin cabaret,2013,0,9
+Sizerin flammé,2018,0,10
+Traquet motteux,2018,0,2

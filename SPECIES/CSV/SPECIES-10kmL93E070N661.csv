@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Busard cendré"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Grèbe castagneux"
-"0";"Guifette moustac"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,3
+Aigrette garzette,2018,0,5
+Bécasse des bois,2016,0,1
+Bruant des roseaux,2014,0,1
+Busard cendré,2011,0,1
+Canard chipeau,2018,0,1
+Canard pilet,2019,0,1
+Canard siffleur,2019,0,1
+Engoulevent d'Europe,2014,0,1
+Faucon pèlerin,2018,0,6
+Grèbe castagneux,2018,0,1
+Guifette moustac,2013,0,1
+Mésange huppée,2015,0,2
+Moineau friquet,2013,0,1
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,5
+Torcol fourmilier,2018,0,3
+Vautour fauve,2012,0,1

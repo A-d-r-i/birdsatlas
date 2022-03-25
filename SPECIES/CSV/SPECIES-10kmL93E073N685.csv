@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Grande Aigrette"
-"0";"Grive draine"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,27
+Bécasse des bois,2014,0,3
+Bergeronnette des ruisseaux,2014,0,1
+Bouvreuil pivoine,2017,0,27
+Bruant des roseaux,2012,0,5
+Caille des blés,2011,0,3
+Chevalier culblanc,2011,0,1
+Choucas des tours,2014,0,8
+Corbeau freux,2017,0,13
+Coucou gris,2014,0,11
+Fauvette babillarde,2011,0,6
+Fauvette des jardins,2014,0,7
+Grande Aigrette,2015,0,2
+Grive draine,2018,0,25
+Grive mauvis,2016,0,8
+Hibou moyen-duc,2012,0,2
+Locustelle tachetée,2012,0,16
+Merle à plastron,2011,0,1
+Mésange huppée,2010,0,3
+Moineau friquet,2014,0,2
+Pic noir,2013,0,3
+Pie-grièche écorcheur,2012,0,5
+Pigeon colombin,2013,0,1
+Pinson du Nord,2013,0,4
+Pouillot fitis,2011,0,7
+Roitelet à triple bandeau,2014,0,7
+Roitelet huppé,2013,0,12
+Serin cini,2012,0,1
+Tarin des aulnes,2014,0,9

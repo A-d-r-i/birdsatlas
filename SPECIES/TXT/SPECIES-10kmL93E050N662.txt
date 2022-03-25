@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bernache cravant
-0        Bernache nonnette
-0        Canard mandarin
-0        Coucou geai
-0        Courlis cendré
-0        Crabier chevelu
-0        Cygne noir
-0        Dendrocygne fauve
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Goéland à ailes blanches
-0        Goéland argenté
-0        Goéland cendré
-0        Goéland marin
-0        Gorgebleue à miroir
-0        Gravelot à collier interrompu
-0        Guifette leucoptère
-0        Harle huppé
-0        Harle piette
-0        Hibou des marais
-0        Locustelle luscinioïde
-0        Macreuse brune
-0        Marouette ponctuée
-0        Merle à plastron
-0        Mouette tridactyle
-0        Oie rieuse
-0        Ouette d'Egypte
-0        Pic cendré
-0        Pie-grièche grise
-0        Pipit de Richard
-0        Râle des genêts
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caspienne
-0        Sterne hansel
-0        Tournepierre à collier
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Bécasseau cocorli                       2012    0        1
+Bécasseau de Temminck                   2017    0        1
+Bécasseau sanderling                    2013    0        3
+Bergeronnette flavéole (M.f.flavissima) 2013    0        9
+Bernache cravant                        2015    0        2
+Bernache nonnette                       2010    0        2
+Canard mandarin                         2018    0        3
+Coucou geai                             2012    0        1
+Courlis cendré                          2018    0        13
+Crabier chevelu                         2016    0        4
+Cygne noir                              2013    0        19
+Dendrocygne fauve                       2016    0        1
+Fuligule milouinan                      2011    0        1
+Fuligule nyroca                         2014    0        6
+Garrot à oeil d'or                      2011    0        17
+Goéland à ailes blanches                2017    0        1
+Goéland argenté                         2017    0        53
+Goéland cendré                          2013    0        35
+Goéland marin                           2015    0        1
+Gorgebleue à miroir                     2016    0        1
+Gravelot à collier interrompu           2018    0        1
+Guifette leucoptère                     2017    0        14
+Harle huppé                             2015    0        7
+Harle piette                            2012    0        9
+Hibou des marais                        2017    0        5
+Locustelle luscinioïde                  2011    0        1
+Macreuse brune                          2010    0        10
+Marouette ponctuée                      2018    0        7
+Merle à plastron                        2011    0        3
+Mouette tridactyle                      2014    0        4
+Oie rieuse                              2011    0        4
+Ouette d'Egypte                         2018    0        5
+Pic cendré                              2009    0        1
+Pie-grièche grise                       2013    0        9
+Pipit de Richard                        2016    0        1
+Râle des genêts                         2011    0        1
+Sizerin cabaret                         2018    0        5
+Sizerin flammé                          2018    0        6
+Sterne caspienne                        2016    0        3
+Sterne hansel                           2014    0        3
+Tournepierre à collier                  2018    0        3
 

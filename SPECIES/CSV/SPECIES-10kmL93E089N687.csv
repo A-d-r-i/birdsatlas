@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Barge à queue noire"
-"0";"Barge rousse"
-"0";"Chevêche d'Athéna"
-"0";"Cincle plongeur"
-"0";"Circaète Jean-le-Blanc"
-"0";"Goéland marin"
-"0";"Goéland pontique"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Huîtrier pie"
-"0";"Ibis falcinelle"
-"0";"Macreuse noire"
-"0";"Marouette poussin"
-"0";"Mouette tridactyle"
-"0";"Oie à tête barrée"
-"0";"Plongeon arctique"
-"0";"Plongeon catmarin"
-"0";"Plongeon imbrin"
-"0";"Sterne arctique"
-"0";"Sterne naine"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Barge à queue noire,2015,0,2
+Barge rousse,2013,0,1
+Chevêche d'Athéna,2017,0,10
+Cincle plongeur,2009,0,1
+Circaète Jean-le-Blanc,2017,0,1
+Goéland marin,2013,0,11
+Goéland pontique,2017,0,3
+Harelde boréale,2016,0,12
+Harle huppé,2016,0,5
+Huîtrier pie,2013,0,1
+Ibis falcinelle,2009,0,1
+Macreuse noire,2016,0,4
+Marouette poussin,2009,0,1
+Mouette tridactyle,2017,0,1
+Oie à tête barrée,2019,0,2
+Plongeon arctique,2016,0,1
+Plongeon catmarin,2014,0,1
+Plongeon imbrin,2018,0,35
+Sterne arctique,2017,0,1
+Sterne naine,2013,0,1
+Tadorne casarca,2015,0,2

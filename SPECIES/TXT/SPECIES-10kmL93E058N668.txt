@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard des roseaux
-0        Canard mandarin
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Mésange noire
-0        Moineau friquet
-0        Perdrix grise
-0        Perdrix rouge
-0        Pluvier doré
-0        Rousserolle effarvatte
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Busard des roseaux     2009    0        1
+Canard mandarin        2009    0        1
+Hibou moyen-duc        2009    0        2
+Hirondelle de rivage   2009    0        1
+Mésange noire          2018    0        2
+Moineau friquet        2014    0        1
+Perdrix grise          2009    0        1
+Perdrix rouge          2009    0        1
+Pluvier doré           2019    0        1
+Rousserolle effarvatte 2009    0        1
 

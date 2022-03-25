@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Avocette élégante
-0        Bécasseau sanderling
-0        Bec-croisé des sapins
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Bruant jaune
-0        Bruant ortolan
-0        Busard cendré
-0        Canard à collier noir
-0        Canard carolin
-0        Canard pilet
-0        Cigogne blanche
-0        Corbeau freux
-0        Coucou geai
-0        Courlis cendré
-0        Cygne noir
-0        Faucon d'Eléonore
-0        Fauvette orphée
-0        Goéland cendré
-0        Grand Corbeau
-0        Grèbe esclavon
-0        Grèbe jougris
-0        Guifette leucoptère
-0        Harelde boréale
-0        Léiothrix jaune
-0        Lusciniole à moustaches
-0        Moineau cisalpin
-0        Monticole bleu
-0        Mouette pygmée
-0        Océanite tempête
-0        Ouette d'Egypte
-0        Panure à moustaches
-0        Pipit de Richard
-0        Plongeon imbrin
-0        Pluvier argenté
-0        Rousserolle verderolle
-0        Sterne hansel
-0        Tichodrome échelette
-0        Vautour fauve
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Alouette calandrelle                    2010    0        4
+Avocette élégante                       2018    0        1
+Bécasseau sanderling                    2016    0        1
+Bec-croisé des sapins                   2012    0        2
+Bergeronnette flavéole (M.f.flavissima) 2010    0        2
+Bouvreuil pivoine                       2015    0        2
+Bruant fou                              2017    0        3
+Bruant jaune                            2015    0        1
+Bruant ortolan                          2010    0        1
+Busard cendré                           2010    0        1
+Canard à collier noir                   2016    0        3
+Canard carolin                          2012    0        3
+Canard pilet                            2018    0        8
+Cigogne blanche                         2018    0        6
+Corbeau freux                           2009    0        2
+Coucou geai                             2016    0        4
+Courlis cendré                          2014    0        4
+Cygne noir                              2015    0        2
+Faucon d'Eléonore                       2016    0        4
+Fauvette orphée                         2016    0        1
+Goéland cendré                          2012    0        5
+Grand Corbeau                           2018    0        2
+Grèbe esclavon                          2012    0        8
+Grèbe jougris                           2015    0        5
+Guifette leucoptère                     2018    0        1
+Harelde boréale                         2009    0        2
+Léiothrix jaune                         2018    0        7
+Lusciniole à moustaches                 2018    0        23
+Moineau cisalpin                        2015    0        2
+Monticole bleu                          2009    0        1
+Mouette pygmée                          2008    0        1
+Océanite tempête                        2018    0        1
+Ouette d'Egypte                         2013    0        1
+Panure à moustaches                     2014    0        13
+Pipit de Richard                        2018    0        1
+Plongeon imbrin                         2013    0        28
+Pluvier argenté                         2016    0        1
+Rousserolle verderolle                  2017    0        1
+Sterne hansel                           2012    0        1
+Tichodrome échelette                    2016    0        2
+Vautour fauve                           2016    0        1
 

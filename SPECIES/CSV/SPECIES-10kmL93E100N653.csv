@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Buse variable"
-"0";"Cassenoix moucheté"
-"0";"Épervier d'Europe"
-"0";"Faucon crécerelle"
-"0";"Grand Corbeau"
-"0";"Monticole de roche"
-"0";"Pipit spioncelle"
-"0";"Rougequeue noir"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Aigle royal,2014,0,1
+Buse variable,2012,0,1
+Cassenoix moucheté,2012,0,1
+Épervier d'Europe,2010,0,1
+Faucon crécerelle,2009,0,1
+Grand Corbeau,2015,0,12
+Monticole de roche,2010,0,1
+Pipit spioncelle,2011,0,4
+Rougequeue noir,2013,0,5
+Tichodrome échelette,2012,0,2

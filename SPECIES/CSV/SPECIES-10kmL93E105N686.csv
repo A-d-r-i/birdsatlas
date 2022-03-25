@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bec-croisé des sapins"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Cigogne noire"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Cygne chanteur"
-"0";"Fauvette babillarde"
-"0";"Grèbe castagneux"
-"0";"Huppe fasciée"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Nette rousse"
-"0";"Oie à tête barrée"
-"0";"Oie des moissons"
-"0";"Pipit à gorge rousse"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bec-croisé des sapins,2013,0,1
+Bruant proyer,2009,0,2
+Busard cendré,2016,0,4
+Chevalier aboyeur,2014,0,2
+Chevalier culblanc,2016,0,4
+Cigogne noire,2012,0,1
+Combattant varié,2013,0,2
+Courlis cendré,2018,0,23
+Cygne chanteur,2012,0,2
+Fauvette babillarde,2018,0,7
+Grèbe castagneux,2013,0,2
+Huppe fasciée,2018,0,8
+Hypolaïs ictérine,2017,0,1
+Jaseur boréal,2013,0,1
+Nette rousse,2018,0,1
+Oie à tête barrée,2011,0,6
+Oie des moissons,2018,0,1
+Pipit à gorge rousse,2016,0,1
+Sterne pierregarin,2018,0,6

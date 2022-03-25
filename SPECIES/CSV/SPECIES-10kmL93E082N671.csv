@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Buse pattue"
-"0";"Chouette de Tengmalm"
-"0";"Cigogne blanche"
-"0";"Cygne tuberculé"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Oie cendrée"
-"0";"Petit Gravelot"
-"0";"Pic cendré"
-"0";"Pipit rousseline"
-"0";"Tarier des prés"
-"0";"Torcol fourmilier"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,1
+Bécassine sourde,2007,0,1
+Bec-croisé des sapins,2015,0,5
+Bruant des roseaux,2018,0,10
+Bruant ortolan,2012,0,1
+Buse pattue,2015,0,6
+Chouette de Tengmalm,2009,0,1
+Cigogne blanche,2017,0,1
+Cygne tuberculé,2016,0,1
+Fauvette babillarde,2016,0,11
+Fauvette des jardins,2018,0,4
+Héron pourpré,2014,0,1
+Hibou des marais,2015,0,14
+Locustelle tachetée,2011,0,2
+Merle à plastron,2011,0,1
+Mésange boréale,2014,0,13
+Moineau friquet,2013,0,12
+Mouette rieuse,2014,0,1
+Oedicnème criard,2014,0,1
+Oie cendrée,2014,0,1
+Petit Gravelot,2017,0,1
+Pic cendré,2018,0,3
+Pipit rousseline,2017,0,1
+Tarier des prés,2017,0,6
+Torcol fourmilier,2017,0,6
+Vautour fauve,2016,0,1

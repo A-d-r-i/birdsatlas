@@ -1,21 +1,21 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Bruant des roseaux
-0        Busard cendré
-0        Caille des blés
-0        Chevalier guignette
-0        Cochevis huppé
-0        Engoulevent d'Europe
-0        Faucon crécerellette
-0        Grand-duc d'Europe
-0        Grèbe castagneux
-0        Grive draine
-0        Oedicnème criard
-0        Pic épeichette
-0        Pie-grièche à tête rousse
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Tichodrome échelette
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle royal               2013    0        1
+Bruant des roseaux        2015    0        1
+Busard cendré             2009    0        1
+Caille des blés           2009    0        1
+Chevalier guignette       2019    0        3
+Cochevis huppé            2009    0        1
+Engoulevent d'Europe      2009    0        1
+Faucon crécerellette      2018    0        1
+Grand-duc d'Europe        2009    0        1
+Grèbe castagneux          2009    0        1
+Grive draine              2009    0        1
+Oedicnème criard          2009    0        1
+Pic épeichette            2009    0        1
+Pie-grièche à tête rousse 2009    0        1
+Roitelet à triple bandeau 2015    0        2
+Roitelet huppé            2015    0        1
+Tichodrome échelette      2013    0        2
 

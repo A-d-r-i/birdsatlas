@@ -1,50 +1,48 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Ara bleu"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des neiges"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chevalier stagnatile"
-"0";"Coucou geai"
-"0";"Fuligule milouin"
-"0";"Fuligule morillon"
-"0";"Grand Labbe"
-"0";"Grèbe à cou noir"
-"0";"Grèbe huppé"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Guillemot de Troïl"
-"0";"Harfang des neiges"
-"0";"Labbe parasite"
-"0";"Locustelle luscinioïde"
-"0";"Locustelle tachetée"
-"0";"Macareux moine"
-"0";"Macreuse noire"
-"0";"Marouette ponctuée"
-"0";"Mésange huppée"
-"0";"Mouette pygmée"
-"0";"Mouette tridactyle"
-"0";"Océanite culblanc"
-"0";"Outarde canepetière"
-"0";"Petit-duc scops"
-"0";"Pingouin torda"
-"0";"Pipit maritime"
-"0";"Pipit rousseline"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot ibérique"
-"0";"Râle d'eau"
-"0";"Rémiz penduline"
-"0";"Sarcelle d'été"
-"0";"Sarcelle d'hiver"
-"0";"Sizerin flammé"
-"0";"Sterne caspienne"
-"0";"Sterne pierregarin"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Ara bleu,2016,0,2
+Bécasseau cocorli,2017,0,6
+Bécasseau de Temminck,2016,0,2
+Bécasseau minute,2018,0,11
+Bécasseau sanderling,2013,0,2
+Bécassine sourde,2018,0,1
+Bergeronnette flavéole (M.f.flavissima),2016,0,6
+Bruant des neiges,2017,0,1
+Canard chipeau,2012,0,5
+Canard siffleur,2016,0,1
+Chevalier stagnatile,2016,0,1
+Coucou geai,2017,0,1
+Fuligule milouin,2014,0,11
+Fuligule morillon,2012,0,19
+Grand Labbe,2017,0,1
+Grèbe à cou noir,2011,0,10
+Grèbe huppé,2019,0,17
+Guifette leucoptère,2011,0,1
+Guifette moustac,2013,0,10
+Guifette noire,2015,0,56
+Guillemot de Troïl,2014,0,6
+Harfang des neiges,2014,0,1
+Labbe parasite,2016,0,1
+Locustelle luscinioïde,2011,0,1
+Locustelle tachetée,2017,0,6
+Macareux moine,2014,0,2
+Macreuse noire,2015,0,1
+Marouette ponctuée,2014,0,1
+Mésange huppée,2018,0,2
+Mouette pygmée,2015,0,15
+Mouette tridactyle,2014,0,5
+Océanite culblanc,2009,0,7
+Outarde canepetière,2009,0,5
+Petit-duc scops,2011,0,5
+Pingouin torda,2016,0,1
+Pipit maritime,2017,0,2
+Pipit rousseline,2011,0,6
+Pouillot de Bonelli,2014,0,3
+Pouillot ibérique,2012,0,1
+Râle d'eau,2017,0,7
+Rémiz penduline,2015,0,5
+Sarcelle d'été,2015,0,4
+Sarcelle d'hiver,2018,0,30
+Sizerin flammé,2016,0,2
+Sterne caspienne,2014,0,4
+Sterne pierregarin,2015,0,8
+Tadorne casarca,2014,0,1

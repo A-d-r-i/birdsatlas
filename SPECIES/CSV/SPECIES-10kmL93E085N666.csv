@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Chevalier aboyeur"
-"0";"Chevalier sylvain"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Échasse blanche"
-"0";"Fuligule morillon"
-"0";"Harle bièvre"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Huppe fasciée"
-"0";"Martinet noir"
-"0";"Moineau friquet"
-"0";"Ouette d'Egypte"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pigeon biset domestique"
-"0";"Pluvier doré"
-"0";"Rémiz penduline"
-"0";"Rousserolle turdoïde"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,4
+Bécassine sourde,2008,0,1
+Bec-croisé des sapins,2015,0,1
+Bergeronnette des ruisseaux,2018,0,4
+Bruant des roseaux,2019,0,15
+Caille des blés,2017,0,1
+Canard siffleur,2013,0,1
+Chevalier aboyeur,2018,0,1
+Chevalier sylvain,2017,0,1
+Choucas des tours,2009,0,2
+Cigogne blanche,2018,0,3
+Échasse blanche,2017,0,1
+Fuligule morillon,2011,0,2
+Harle bièvre,2011,0,2
+Héron garde-boeufs,2012,0,3
+Hibou des marais,2008,0,1
+Huppe fasciée,2017,0,1
+Martinet noir,2017,0,3
+Moineau friquet,2017,0,6
+Ouette d'Egypte,2013,0,1
+Petit Gravelot,2018,0,3
+Pie-grièche grise,2016,0,5
+Pigeon biset domestique,2013,0,4
+Pluvier doré,2013,0,1
+Rémiz penduline,2008,0,1
+Rousserolle turdoïde,2013,0,3
+Tarier des prés,2017,0,3
+Traquet motteux,2017,0,4

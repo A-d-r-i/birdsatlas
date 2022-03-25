@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Canard carolin
-0        Cassenoix moucheté
-0        Chevalier arlequin
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Cygne noir
-0        Dendrocygne fauve
-0        Dendrocygne veuf
-0        Érismature rousse
-0        Fuligule milouin
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Harle bièvre
-0        Ibis falcinelle
-0        Ibis sacré
-0        Nette demi-deuil
-0        Nette rousse
-0        Oie à tête barrée
-0        Pipit rousseline
-0        Plongeon imbrin
-0        Pouillot siffleur
-0        Râle des genêts
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne caspienne
-0        Tadorne casarca
-0        Torcol fourmilier
+frname             lastobs newcount oldcount
+------             ------- -------- --------
+Bernache nonnette  2015    0        1
+Canard carolin     2017    0        18
+Cassenoix moucheté 2008    0        1
+Chevalier arlequin 2014    0        1
+Chevêche d'Athéna  2013    0        10
+Cigogne noire      2016    0        1
+Cygne noir         2018    0        2
+Dendrocygne fauve  2013    0        4
+Dendrocygne veuf   2012    0        1
+Érismature rousse  2017    0        2
+Fuligule milouin   2018    0        28
+Grèbe à cou noir   2017    0        3
+Guifette moustac   2018    0        6
+Harle bièvre       2018    0        2
+Ibis falcinelle    2016    0        1
+Ibis sacré         2010    0        2
+Nette demi-deuil   2013    0        6
+Nette rousse       2013    0        2
+Oie à tête barrée  2013    0        2
+Pipit rousseline   2015    0        1
+Plongeon imbrin    2013    0        2
+Pouillot siffleur  2013    0        1
+Râle des genêts    2012    0        1
+Sarcelle d'été     2018    0        1
+Sizerin cabaret    2018    0        5
+Sizerin flammé     2018    0        6
+Sterne caspienne   2016    0        2
+Tadorne casarca    2012    0        8
+Torcol fourmilier  2010    0        1
 

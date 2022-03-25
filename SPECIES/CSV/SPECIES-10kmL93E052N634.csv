@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Coucou gris"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grèbe huppé"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Linotte mélodieuse"
-"0";"Milan royal"
-"0";"Pic épeiche"
-"0";"Pigeon colombin"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2016,0,3
+Bécasse des bois,2018,0,1
+Bergeronnette des ruisseaux,2016,0,4
+Bihoreau gris,2016,0,1
+Bondrée apivore,2016,0,9
+Bruant des roseaux,2016,0,3
+Bruant proyer,2011,0,10
+Busard des roseaux,2018,0,1
+Caille des blés,2010,0,5
+Chevalier culblanc,2016,0,2
+Chevalier guignette,2014,0,2
+Cigogne noire,2010,0,1
+Circaète Jean-le-Blanc,2016,0,9
+Coucou gris,2016,0,7
+Faucon hobereau,2016,0,8
+Fauvette grisette,2015,0,10
+Foulque macroule,2015,0,1
+Gobemouche gris,2009,0,2
+Goéland leucophée,2016,0,6
+Grèbe huppé,2017,0,3
+Grive mauvis,2016,0,1
+Guêpier d'Europe,2016,0,1
+Linotte mélodieuse,2016,0,2
+Milan royal,2018,0,10
+Pic épeiche,2018,0,16
+Pigeon colombin,2016,0,1
+Pipit des arbres,2010,0,4
+Pipit farlouse,2016,0,3
+Pouillot de Bonelli,2016,0,9
+Roitelet huppé,2015,0,2
+Rougequeue à front blanc,2009,0,2
+Tarin des aulnes,2018,0,2
+Traquet motteux,2015,0,1

@@ -1,12 +1,10 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Faucon émerillon"
-"0";"Grive mauvis"
-"0";"Moineau friquet"
-"0";"Oie cendrée"
-"0";"Perdrix rouge"
-"0";"Pipit des arbres"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2012,0,3
+Bécasse des bois,2013,0,4
+Bruant des roseaux,2016,0,1
+Faucon émerillon,2013,0,1
+Grive mauvis,2019,0,13
+Moineau friquet,2011,0,2
+Oie cendrée,2018,0,1
+Perdrix rouge,2013,0,1
+Pipit des arbres,2011,0,2

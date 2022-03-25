@@ -1,33 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bécasseau violet"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Bruant des neiges"
-"0";"Busard des roseaux"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Cigogne noire"
-"0";"Crave à bec rouge"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Fauvette grisette"
-"0";"Fauvette pitchou"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grèbe jougris"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Labbe parasite"
-"0";"Locustelle tachetée"
-"0";"Macreuse noire"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Sterne pierregarin"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2016,0,1
+Bécasseau violet,2009,0,1
+Bécassine sourde,2015,0,2
+Bernache nonnette,2018,0,2
+Bruant des neiges,2018,0,3
+Busard des roseaux,2017,0,2
+Canard chipeau,2009,0,1
+Canard pilet,2016,0,1
+Canard siffleur,2014,0,2
+Cigogne noire,2016,0,1
+Crave à bec rouge,2016,0,2
+Faucon émerillon,2018,0,1
+Fauvette grisette,2017,0,6
+Fauvette pitchou,2016,0,4
+Garrot à oeil d'or,2017,0,1
+Gobemouche gris,2009,0,1
+Goéland leucophée,2017,0,2
+Grande Aigrette,2016,0,1
+Grèbe jougris,2016,0,2
+Hibou des marais,2017,0,1
+Hibou moyen-duc,2017,0,1
+Labbe parasite,2010,0,1
+Locustelle tachetée,2009,0,1
+Macreuse noire,2013,0,1
+Ouette d'Egypte,2014,0,1
+Perdrix grise,2015,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Sterne pierregarin,2017,0,13
+Torcol fourmilier,2018,0,2

@@ -1,36 +1,34 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau maubèche"
-"0";"Bécasseau sanderling"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Bruant des neiges"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Chevalier arlequin"
-"0";"Cincle plongeur"
-"0";"Combattant varié"
-"0";"Effraie des clochers"
-"0";"Eider à duvet"
-"0";"Faucon émerillon"
-"0";"Goéland marin"
-"0";"Gorgebleue à miroir"
-"0";"Harelde boréale"
-"0";"Huppe fasciée"
-"0";"Jaseur boréal"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Morillon à tête rouge"
-"0";"Mouette tridactyle"
-"0";"Perdrix grise"
-"0";"Phalarope à bec large"
-"0";"Pluvier argenté"
-"0";"Rémiz penduline"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne caugek"
-"0";"Tadorne casarca"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Bécasseau cocorli,2012,0,5
+Bécasseau maubèche,2017,0,11
+Bécasseau sanderling,2017,0,15
+Bernache nonnette,2017,0,25
+Bihoreau gris,2013,0,3
+Bruant des neiges,2014,0,5
+Bruant proyer,2011,0,2
+Caille des blés,2011,0,2
+Chevalier arlequin,2010,0,2
+Cincle plongeur,2015,0,1
+Combattant varié,2017,0,7
+Effraie des clochers,2011,0,2
+Eider à duvet,2018,0,44
+Faucon émerillon,2013,0,2
+Goéland marin,2007,0,8
+Gorgebleue à miroir,2013,0,1
+Harelde boréale,2018,0,15
+Huppe fasciée,2018,0,15
+Jaseur boréal,2013,0,9
+Macreuse noire,2016,0,18
+Merle à plastron,2007,0,1
+Morillon à tête rouge,2017,0,4
+Mouette tridactyle,2014,0,1
+Perdrix grise,2013,0,1
+Phalarope à bec large,2017,0,2
+Pluvier argenté,2018,0,1
+Rémiz penduline,2012,0,5
+Sizerin cabaret,2013,0,1
+Sizerin flammé,2013,0,1
+Spatule blanche,2007,0,10
+Sterne caugek,2016,0,1
+Tadorne casarca,2018,0,18
+Tournepierre à collier,2017,0,14

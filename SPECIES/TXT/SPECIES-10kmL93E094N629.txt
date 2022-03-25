@@ -1,54 +1,53 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Alouette calandrelle
-0        Autour des palombes
-0        Bihoreau gris
-0        Bruant jaune
-0        Bruant mélanocéphale
-0        Busard pâle
-0        Canard chipeau
-0        Canard pilet
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne blanche
-0        Cisticole des joncs
-0        Corneille mantelée
-0        Courlis cendré
-0        Cygne tuberculé
-0        Faucon pèlerin
-0        Fauvette à lunettes
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Fuligule nyroca
-0        Gobemouche noir
-0        Goéland brun
-0        Goéland cendré
-0        Grosbec casse-noyaux
-0        Harelde boréale
-0        Harle piette
-0        Héron garde-boeufs
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Hirondelle rousseline
-0        Moineau cisalpin
-0        Moineau friquet
-0        Monticole de roche
-0        Mouette rieuse
-0        Oie cendrée
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pluvier doré
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Tadorne de Belon
-0        Traquet oreillard
-0        Vautour moine
-0        Venturon montagnard
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle botté           2018    0        2
+Alouette calandrelle  2010    0        3
+Autour des palombes   2017    0        6
+Bihoreau gris         2009    0        1
+Bruant jaune          2011    0        7
+Bruant mélanocéphale  2009    0        1
+Busard pâle           2015    0        1
+Canard chipeau        2017    0        11
+Canard pilet          2017    0        3
+Canard souchet        2015    0        3
+Chevalier aboyeur     2018    0        2
+Chevalier gambette    2011    0        1
+Chevalier sylvain     2011    0        2
+Chevêche d'Athéna     2016    0        6
+Cigogne blanche       2010    0        1
+Cisticole des joncs   2018    0        6
+Corneille mantelée    2017    0        9
+Courlis cendré        2010    0        2
+Cygne tuberculé       2014    0        95
+Faucon pèlerin        2017    0        6
+Fauvette à lunettes   2016    0        7
+Fauvette des jardins  2018    0        2
+Fauvette grisette     2013    0        3
+Fuligule nyroca       2016    0        3
+Gobemouche noir       2013    0        1
+Goéland brun          2012    0        2
+Goéland cendré        2009    0        2
+Grosbec casse-noyaux  2018    0        22
+Harelde boréale       2015    0        9
+Harle piette          2012    0        4
+Héron garde-boeufs    2014    0        5
+Héron pourpré         2010    0        1
+Hirondelle de rivage  2017    0        2
+Hirondelle rousseline 2009    0        1
+Moineau cisalpin      2009    0        1
+Moineau friquet       2016    0        1
+Monticole de roche    2009    0        1
+Mouette rieuse        2018    0        7
+Oie cendrée           2015    0        9
+Pie-grièche grise     2013    0        3
+Pigeon colombin       2017    0        7
+Pluvier doré          2010    0        2
+Pouillot fitis        2013    0        2
+Pouillot siffleur     2015    0        1
+Rousserolle turdoïde  2016    0        10
+Tadorne de Belon      2015    0        3
+Traquet oreillard     2014    0        2
+Vautour moine         2017    0        3
+Venturon montagnard   2012    0        2
 

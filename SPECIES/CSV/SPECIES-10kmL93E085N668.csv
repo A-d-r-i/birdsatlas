@@ -1,25 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau sanderling"
-"0";"Bec-croisé des sapins"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Circaète Jean-le-Blanc"
-"0";"Combattant varié"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Fuligule milouinan"
-"0";"Gorgebleue à miroir"
-"0";"Marouette ponctuée"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Oie rieuse"
-"0";"Pouillot siffleur"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,1
+Bécasseau sanderling,2016,0,1
+Bec-croisé des sapins,2016,0,1
+Bergeronnette flavéole (M.f.flavissima),2018,0,1
+Bernache du Canada,2009,0,1
+Canard carolin,2014,0,3
+Canard mandarin,2007,0,2
+Chevalier gambette,2013,0,1
+Chevalier sylvain,2015,0,8
+Circaète Jean-le-Blanc,2017,0,6
+Combattant varié,2015,0,5
+Courlis cendré,2016,0,1
+Courlis corlieu,2016,0,2
+Fuligule milouinan,2008,0,1
+Gorgebleue à miroir,2017,0,1
+Marouette ponctuée,2016,0,1
+Mésange huppée,2018,0,32
+Mésange noire,2018,0,17
+Moineau friquet,2016,0,2
+Mouette mélanocéphale,2018,0,1
+Oie rieuse,2016,0,1
+Pouillot siffleur,2018,0,2

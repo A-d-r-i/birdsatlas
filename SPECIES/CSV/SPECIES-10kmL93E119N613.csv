@@ -1,11 +1,9 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Coucou gris"
-"0";"Faucon crécerelle"
-"0";"Grimpereau des bois"
-"0";"Guêpier d'Europe"
-"0";"Roitelet huppé"
-"0";"Serin cini"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle royal,2009,0,1
+Coucou gris,2009,0,1
+Faucon crécerelle,2009,0,1
+Grimpereau des bois,2009,0,1
+Guêpier d'Europe,2009,0,1
+Roitelet huppé,2009,0,1
+Serin cini,2009,0,1
+Torcol fourmilier,2009,0,1

@@ -1,20 +1,18 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Faucon hobereau"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Grive draine"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Petit Gravelot"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2015,0,1
+Bihoreau gris,2018,0,2
+Bondrée apivore,2015,0,4
+Busard des roseaux,2018,0,1
+Caille des blés,2015,0,2
+Chevalier culblanc,2015,0,1
+Faucon hobereau,2009,0,1
+Fuligule milouin,2014,0,1
+Gallinule poule-d'eau,2014,0,2
+Grive draine,2017,0,3
+Locustelle tachetée,2015,0,1
+Martin-pêcheur d'Europe,2009,0,1
+Petit Gravelot,2015,0,1
+Pic noir,2014,0,1
+Pie-grièche écorcheur,2009,0,1
+Pipit des arbres,2012,0,1
+Sarcelle d'été,2012,0,2

@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Barge rousse"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Corbeau freux"
-"0";"Courlis corlieu"
-"0";"Fauvette babillarde"
-"0";"Gobemouche gris"
-"0";"Grèbe huppé"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Panure à moustaches"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Rougequeue noir"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2009,0,2
+Alouette lulu,2009,0,1
+Barge rousse,2018,0,1
+Bergeronnette flavéole (M.f.flavissima),2009,0,1
+Bruant des roseaux,2009,0,2
+Caille des blés,2009,0,1
+Corbeau freux,2009,0,1
+Courlis corlieu,2018,0,1
+Fauvette babillarde,2009,0,1
+Gobemouche gris,2009,0,1
+Grèbe huppé,2018,0,1
+Mésange huppée,2009,0,2
+Moineau friquet,2015,0,1
+Panure à moustaches,2009,0,1
+Pigeon colombin,2009,0,1
+Pluvier doré,2018,0,2
+Pouillot fitis,2009,0,1
+Rougequeue noir,2009,0,1

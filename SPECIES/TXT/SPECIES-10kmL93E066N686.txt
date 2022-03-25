@@ -1,44 +1,44 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Astrild ondulé
-0        Bécasseau de Temminck
-0        Bécasseau variable
-0        Bengali rouge
-0        Bernache nonnette
-0        Bruant jaune
-0        Busard Saint-Martin
-0        Calopsitte élégante
-0        Canard pilet
-0        Chevalier sylvain
-0        Conure veuve
-0        Échasse blanche
-0        Eider à duvet
-0        Goéland cendré
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Héron garde-boeufs
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hypolaïs ictérine
-0        Jaseur boréal
-0        Marouette ponctuée
-0        Mésange boréale
-0        Moineau friquet
-0        Nette demi-deuil
-0        Panure à moustaches
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Râle d'eau
-0        Rémiz penduline
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Torcol fourmilier
-0        Traquet motteux
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Astrild ondulé        2015    0        1
+Bécasseau de Temminck 2015    0        4
+Bécasseau variable    2014    0        6
+Bengali rouge         2010    0        1
+Bernache nonnette     2016    0        1
+Bruant jaune          2011    0        2
+Busard Saint-Martin   2013    0        1
+Calopsitte élégante   2018    0        3
+Canard pilet          2014    0        2
+Chevalier sylvain     2016    0        2
+Conure veuve          2012    0        1
+Échasse blanche       2014    0        5
+Eider à duvet         2014    0        1
+Goéland cendré        2015    0        3
+Grand Gravelot        2007    0        1
+Grèbe à cou noir      2007    0        1
+Guifette moustac      2012    0        1
+Guifette noire        2018    0        2
+Harle bièvre          2012    0        5
+Héron garde-boeufs    2016    0        1
+Hibou des marais      2018    0        6
+Hibou moyen-duc       2015    0        2
+Hypolaïs ictérine     2009    0        1
+Jaseur boréal         2009    0        1
+Marouette ponctuée    2014    0        4
+Mésange boréale       2009    0        1
+Moineau friquet       2015    0        89
+Nette demi-deuil      2012    0        3
+Panure à moustaches   2016    0        1
+Perdrix grise         2013    0        4
+Perdrix rouge         2014    0        2
+Petit Gravelot        2017    0        24
+Râle d'eau            2018    0        67
+Rémiz penduline       2015    0        3
+Sizerin cabaret       2018    0        26
+Sizerin flammé        2018    0        58
+Tadorne casarca       2018    0        25
+Tadorne de Belon      2016    0        2
+Torcol fourmilier     2017    0        4
+Traquet motteux       2017    0        19
 

@@ -1,56 +1,56 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau violet
-0        Bécassine sourde
-0        Bernache du Canada
-0        Bernache nonnette
-0        Bruant lapon
-0        Butor étoilé
-0        Cormoran huppé
-0        Coucou geai
-0        Cygne noir
-0        Eider à duvet
-0        Fauvette pitchou
-0        Fuligule milouinan
-0        Fulmar boréal
-0        Goéland à ailes blanches
-0        Goéland à bec cerclé
-0        Goéland bourgmestre
-0        Goéland pontique
-0        Grand Labbe
-0        Grèbe esclavon
-0        Grive litorne
-0        Guêpier d'Europe
-0        Guillemot de Troïl
-0        Harelde boréale
-0        Harle bièvre
-0        Labbe pomarin
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Macareux moine
-0        Macreuse brune
-0        Marouette ponctuée
-0        Mergule nain
-0        Mouette de Sabine
-0        Nette rousse
-0        Océanite culblanc
-0        Océanite tempête
-0        Phalarope à bec large
-0        Pic noir
-0        Pie-grièche à tête rousse
-0        Pingouin torda
-0        Pipit de Richard
-0        Plongeon arctique
-0        Pluvier guignard
-0        Pouillot à grands sourcils
-0        Pouillot de Bonelli
-0        Puffin des Baléares
-0        Rousserolle turdoïde
-0        Sittelle torchepot
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne arctique
-0        Sterne bridée
-0        Tadorne casarca
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Bécasseau violet           2018    0        7
+Bécassine sourde           2017    0        5
+Bernache du Canada         2015    0        1
+Bernache nonnette          2016    0        4
+Bruant lapon               2010    0        1
+Butor étoilé               2012    0        1
+Cormoran huppé             2014    0        1
+Coucou geai                2016    0        2
+Cygne noir                 2008    0        1
+Eider à duvet              2016    0        10
+Fauvette pitchou           2013    0        2
+Fuligule milouinan         2016    0        1
+Fulmar boréal              2014    0        3
+Goéland à ailes blanches   2017    0        1
+Goéland à bec cerclé       2018    0        35
+Goéland bourgmestre        2010    0        1
+Goéland pontique           2009    0        1
+Grand Labbe                2016    0        4
+Grèbe esclavon             2014    0        2
+Grive litorne              2018    0        15
+Guêpier d'Europe           2016    0        2
+Guillemot de Troïl         2016    0        52
+Harelde boréale            2014    0        82
+Harle bièvre               2012    0        5
+Labbe pomarin              2009    0        1
+Locustelle luscinioïde     2018    0        1
+Locustelle tachetée        2015    0        6
+Macareux moine             2014    0        15
+Macreuse brune             2016    0        2
+Marouette ponctuée         2009    0        2
+Mergule nain               2014    0        1
+Mouette de Sabine          2012    0        1
+Nette rousse               2013    0        2
+Océanite culblanc          2009    0        12
+Océanite tempête           2016    0        1
+Phalarope à bec large      2017    0        3
+Pic noir                   2017    0        1
+Pie-grièche à tête rousse  2016    0        2
+Pingouin torda             2016    0        4
+Pipit de Richard           2014    0        1
+Plongeon arctique          2010    0        3
+Pluvier guignard           2008    0        1
+Pouillot à grands sourcils 2016    0        3
+Pouillot de Bonelli        2013    0        4
+Puffin des Baléares        2015    0        1
+Rousserolle turdoïde       2007    0        1
+Sittelle torchepot         2018    0        24
+Sizerin cabaret            2018    0        2
+Sizerin flammé             2018    0        7
+Sterne arctique            2017    0        2
+Sterne bridée              2016    0        1
+Tadorne casarca            2017    0        2
 

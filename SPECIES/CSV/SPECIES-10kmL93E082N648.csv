@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bruant proyer"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Pie-grièche grise"
-"0";"Pluvier argenté"
-"0";"Pouillot siffleur"
-"0";"Rousserolle effarvatte"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Vanneau huppé"
-"0";"Venturon montagnard"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2018,0,1
+Bruant proyer,2018,0,7
+Chevalier culblanc,2012,0,1
+Cigogne blanche,2017,0,2
+Cigogne noire,2018,0,2
+Effraie des clochers,2018,0,11
+Faucon émerillon,2008,0,1
+Fauvette babillarde,2018,0,1
+Grande Aigrette,2017,0,1
+Grèbe castagneux,2016,0,6
+Grèbe huppé,2015,0,4
+Héron pourpré,2016,0,1
+Locustelle tachetée,2009,0,2
+Merle à plastron,2018,0,7
+Oie cendrée,2017,0,2
+Perruche ondulée,2015,0,1
+Pie-grièche grise,2015,0,2
+Pluvier argenté,2018,0,1
+Pouillot siffleur,2013,0,1
+Rousserolle effarvatte,2015,0,1
+Sizerin cabaret,2018,0,2
+Sizerin flammé,2018,0,3
+Vanneau huppé,2016,0,3
+Venturon montagnard,2015,0,8

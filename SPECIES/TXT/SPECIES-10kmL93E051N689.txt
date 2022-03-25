@@ -1,6 +1,6 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Grèbe castagneux
-0        Mésange huppée
+frname           lastobs newcount oldcount
+------           ------- -------- --------
+Grèbe castagneux 2018    0        1
+Mésange huppée   2009    0        2
 

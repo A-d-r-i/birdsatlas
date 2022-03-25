@@ -1,9 +1,7 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cygne tuberculé"
-"0";"Hibou moyen-duc"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
+frname,lastobs,newcount,oldcount
+Cygne tuberculé,2009,0,1
+Hibou moyen-duc,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Moineau friquet,2013,0,1
+Perdrix grise,2009,0,1

@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Busard des roseaux"
-"0";"Chevalier culblanc"
-"0";"Chevalier sylvain"
-"0";"Chevêche d'Athéna"
-"0";"Choucas des tours"
-"0";"Engoulevent d'Europe"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Martinet noir"
-"0";"Perdrix grise"
-"0";"Pigeon biset domestique"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,5
+Busard des roseaux,2018,0,2
+Chevalier culblanc,2019,0,2
+Chevalier sylvain,2017,0,1
+Chevêche d'Athéna,2016,0,1
+Choucas des tours,2007,0,1
+Engoulevent d'Europe,2018,0,1
+Faucon pèlerin,2017,0,1
+Gobemouche gris,2010,0,2
+Goéland cendré,2016,0,2
+Grèbe castagneux,2009,0,2
+Martinet noir,2018,0,5
+Perdrix grise,2017,0,2
+Pigeon biset domestique,2016,0,4
+Pigeon biset (origine naturelle),2016,0,1
+Pluvier doré,2008,0,1
+Pouillot fitis,2014,0,1
+Sarcelle d'hiver,2017,0,1
+Vanneau huppé,2018,0,2

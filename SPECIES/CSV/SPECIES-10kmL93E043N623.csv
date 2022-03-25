@@ -1,28 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Grèbe huppé"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Pic mar"
-"0";"Pipit des arbres"
-"0";"Pouillot de Bonelli"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'hiver"
-"0";"Torcol fourmilier"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2009,0,1
+Bécassine des marais,2010,0,2
+Bergeronnette printanière,2017,0,5
+Bihoreau gris,2011,0,1
+Bruant jaune,2016,0,6
+Bruant ortolan,2018,0,1
+Bruant proyer,2009,0,1
+Caille des blés,2009,0,1
+Chevalier culblanc,2017,0,1
+Engoulevent d'Europe,2013,0,2
+Faucon émerillon,2017,0,1
+Fauvette des jardins,2017,0,4
+Fauvette grisette,2010,0,2
+Gallinule poule-d'eau,2017,0,6
+Grèbe huppé,2013,0,3
+Hibou moyen-duc,2009,0,1
+Hypolaïs polyglotte,2011,0,4
+Pic mar,2009,0,1
+Pipit des arbres,2009,0,1
+Pouillot de Bonelli,2011,0,2
+Râle d'eau,2009,0,1
+Rollier d'Europe,2017,0,4
+Sarcelle d'hiver,2016,0,1
+Torcol fourmilier,2009,0,2
+Traquet motteux,2016,0,2

@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bouscarle de Cetti"
-"0";"Bouvreuil pivoine"
-"0";"Bruant mélanocéphale"
-"0";"Chocard à bec jaune"
-"0";"Faisan de Colchide"
-"0";"Faucon d'Eléonore"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Hirondelle de rivage"
-"0";"Labbe à longue queue"
-"0";"Mésange boréale"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Niverolle alpine"
-"0";"Pic épeichette"
-"0";"Pinson du Nord"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Tétras lyre"
-"0";"Tourterelle des bois"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2011,0,2
+Bouscarle de Cetti,2017,0,2
+Bouvreuil pivoine,2018,0,6
+Bruant mélanocéphale,2017,0,1
+Chocard à bec jaune,2012,0,2
+Faisan de Colchide,2011,0,2
+Faucon d'Eléonore,2017,0,4
+Faucon kobez,2015,0,5
+Fauvette babillarde,2017,0,3
+Fauvette des jardins,2009,0,1
+Hirondelle de rivage,2013,0,1
+Labbe à longue queue,2010,0,1
+Mésange boréale,2010,0,2
+Moineau soulcie,2018,0,6
+Mouette rieuse,2015,0,1
+Niverolle alpine,2012,0,6
+Pic épeichette,2018,0,5
+Pinson du Nord,2012,0,5
+Pouillot siffleur,2014,0,1
+Rollier d'Europe,2014,0,3
+Tétras lyre,2009,0,2
+Tourterelle des bois,2018,0,9
+Vanneau huppé,2012,0,1

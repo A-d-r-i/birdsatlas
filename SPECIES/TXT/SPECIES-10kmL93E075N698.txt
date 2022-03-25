@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard cendré
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevêche d'Athéna
-0        Choucas des tours
-0        Chouette hulotte
-0        Cigogne noire
-0        Corneille noire
-0        Effraie des clochers
-0        Faucon crécerelle
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Grand Corbeau
-0        Grand Cormoran
-0        Grande Aigrette
-0        Grive litorne
-0        Héron cendré
-0        Hibou moyen-duc
-0        Hirondelle de fenêtre
-0        Martinet noir
-0        Mésange boréale
-0        Mésange huppée
-0        Mésange noire
-0        Moineau friquet
-0        Pic mar
-0        Pic noir
-0        Pipit des arbres
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Rougequeue à front blanc
-0        Rousserolle verderolle
-0        Tarier des prés
-0        Tarier pâtre
-0        Tarin des aulnes
-0        Tourterelle turque
-0        Vanneau huppé
-0        Verdier d'Europe
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2009    0        1
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2009    0        1
+Bondrée apivore           2009    0        1
+Bruant des roseaux        2009    0        1
+Bruant proyer             2009    0        1
+Busard cendré             2009    0        1
+Busard Saint-Martin       2009    0        1
+Canard colvert            2009    0        1
+Chevêche d'Athéna         2009    0        2
+Choucas des tours         2009    0        2
+Chouette hulotte          2009    0        1
+Cigogne noire             2009    0        1
+Corneille noire           2009    0        2
+Effraie des clochers      2009    0        2
+Faucon crécerelle         2009    0        2
+Fauvette babillarde       2009    0        1
+Fauvette des jardins      2009    0        1
+Grand Corbeau             2018    0        1
+Grand Cormoran            2009    0        1
+Grande Aigrette           2009    0        1
+Grive litorne             2009    0        1
+Héron cendré              2009    0        1
+Hibou moyen-duc           2009    0        1
+Hirondelle de fenêtre     2009    0        1
+Martinet noir             2009    0        1
+Mésange boréale           2018    0        3
+Mésange huppée            2018    0        2
+Mésange noire             2009    0        1
+Moineau friquet           2009    0        2
+Pic mar                   2009    0        1
+Pic noir                  2009    0        1
+Pipit des arbres          2009    0        1
+Roitelet à triple bandeau 2018    0        2
+Roitelet huppé            2009    0        1
+Rossignol philomèle       2009    0        1
+Rougequeue à front blanc  2009    0        1
+Rousserolle verderolle    2009    0        1
+Tarier des prés           2009    0        1
+Tarier pâtre              2009    0        1
+Tarin des aulnes          2009    0        1
+Tourterelle turque        2009    0        2
+Vanneau huppé             2009    0        2
+Verdier d'Europe          2009    0        2
 

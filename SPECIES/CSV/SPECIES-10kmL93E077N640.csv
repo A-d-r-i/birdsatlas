@@ -1,27 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Busard des roseaux"
-"0";"Cassenoix moucheté"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Choucas des tours"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Pigeon colombin"
-"0";"Rossignol philomèle"
-"0";"Sarcelle d'hiver"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle royal,2015,0,3
+Busard des roseaux,2017,0,1
+Cassenoix moucheté,2015,0,1
+Chevalier culblanc,2018,0,3
+Chevalier guignette,2008,0,1
+Choucas des tours,2016,0,2
+Cigogne blanche,2011,0,1
+Cigogne noire,2017,0,1
+Cisticole des joncs,2018,0,2
+Faucon émerillon,2018,0,1
+Faucon kobez,2015,0,2
+Faucon pèlerin,2017,0,2
+Gobemouche gris,2015,0,1
+Gobemouche noir,2018,0,6
+Grosbec casse-noyaux,2017,0,3
+Hibou moyen-duc,2014,0,1
+Hypolaïs polyglotte,2012,0,3
+Locustelle tachetée,2017,0,5
+Merle à plastron,2018,0,2
+Perdrix grise,2012,0,2
+Rossignol philomèle,2014,0,3
+Sarcelle d'hiver,2018,0,2
+Vautour moine,2011,0,1

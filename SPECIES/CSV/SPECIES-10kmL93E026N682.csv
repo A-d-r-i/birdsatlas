@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bernache du Canada"
-"0";"Chevalier guignette"
-"0";"Courlis corlieu"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Foulque macroule"
-"0";"Fuligule morillon"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron garde-boeufs"
-"0";"Loriot d'Europe"
-"0";"Pic épeichette"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2018,0,8
+Bernache du Canada,2015,0,1
+Chevalier guignette,2017,0,1
+Courlis corlieu,2015,0,1
+Cygne tuberculé,2012,0,4
+Engoulevent d'Europe,2014,0,2
+Foulque macroule,2009,0,2
+Fuligule morillon,2017,0,2
+Gobemouche gris,2014,0,5
+Gobemouche noir,2016,0,1
+Goéland brun,2009,0,1
+Goéland cendré,2009,0,1
+Grèbe castagneux,2012,0,3
+Grèbe huppé,2009,0,1
+Héron garde-boeufs,2019,0,1
+Loriot d'Europe,2018,0,1
+Pic épeichette,2009,0,1
+Tarier des prés,2018,0,1
+Traquet motteux,2015,0,1

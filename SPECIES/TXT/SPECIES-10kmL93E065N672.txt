@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bernache nonnette
-0        Canard mandarin
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Circaète Jean-le-Blanc
-0        Cygne de Bewick
-0        Échasse blanche
-0        Fauvette grisette
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Goéland cendré
-0        Grèbe esclavon
-0        Harle bièvre
-0        Harle huppé
-0        Huppe fasciée
-0        Hypolaïs polyglotte
-0        Macreuse brune
-0        Mésange boréale
-0        Mésange noire
-0        Mouette tridactyle
-0        Oie cendrée
-0        Oie des moissons
-0        Paon bleu
-0        Perdrix grise
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pie-grièche écorcheur
-0        Pipit des arbres
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Rossignol philomèle
-0        Serin cini
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Tourterelle des bois
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bernache nonnette      2010    0        2
+Canard mandarin        2017    0        13
+Chevalier sylvain      2017    0        1
+Chevêche d'Athéna      2012    0        2
+Circaète Jean-le-Blanc 2015    0        3
+Cygne de Bewick        2009    0        1
+Échasse blanche        2009    0        1
+Fauvette grisette      2009    0        1
+Fuligule milouinan     2009    0        1
+Fuligule nyroca        2012    0        4
+Garrot à oeil d'or     2018    0        4
+Gobemouche gris        2009    0        1
+Goéland cendré         2009    0        1
+Grèbe esclavon         2007    0        1
+Harle bièvre           2009    0        1
+Harle huppé            2009    0        2
+Huppe fasciée          2009    0        1
+Hypolaïs polyglotte    2018    0        8
+Macreuse brune         2008    0        6
+Mésange boréale        2009    0        1
+Mésange noire          2009    0        2
+Mouette tridactyle     2009    0        1
+Oie cendrée            2018    0        5
+Oie des moissons       2009    0        1
+Paon bleu              2017    0        1
+Perdrix grise          2009    0        1
+Perdrix rouge          2018    0        3
+Phragmite des joncs    2018    0        1
+Pie-grièche écorcheur  2015    0        3
+Pipit des arbres       2015    0        2
+Pluvier doré           2009    0        1
+Pouillot de Bonelli    2009    0        1
+Rossignol philomèle    2015    0        3
+Serin cini             2009    0        1
+Sizerin cabaret        2009    0        1
+Sizerin flammé         2009    0        2
+Tourterelle des bois   2017    0        3
 

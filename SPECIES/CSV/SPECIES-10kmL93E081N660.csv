@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigle botté"
-"0";"Bruant jaune"
-"0";"Chevêche d'Athéna"
-"0";"Chouette hulotte"
-"0";"Circaète Jean-le-Blanc"
-"0";"Effraie des clochers"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Pinson du Nord"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Serin cini"
-"0";"Tarin des aulnes"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2018,0,1
+Aigle botté,2009,0,1
+Bruant jaune,2009,0,1
+Chevêche d'Athéna,2009,0,1
+Chouette hulotte,2009,0,1
+Circaète Jean-le-Blanc,2009,0,1
+Effraie des clochers,2009,0,1
+Fauvette babillarde,2016,0,1
+Fauvette des jardins,2009,0,1
+Pinson du Nord,2018,0,1
+Pipit farlouse,2016,0,1
+Pouillot fitis,2009,0,1
+Serin cini,2009,0,1
+Tarin des aulnes,2018,0,2
+Vanneau huppé,2009,0,1

@@ -1,46 +1,46 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Bécassine des marais
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Busard des roseaux
-0        Caille des blés
-0        Chevalier guignette
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Circaète Jean-le-Blanc
-0        Crabier chevelu
-0        Cygne tuberculé
-0        Effraie des clochers
-0        Élanion blanc
-0        Faisan de Colchide
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fuligule milouin
-0        Grèbe huppé
-0        Grive litorne
-0        Grive mauvis
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Linotte mélodieuse
-0        Locustelle tachetée
-0        Oedicnème criard
-0        Perdrix grise
-0        Perruche à collier
-0        Petit Gravelot
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pinson du Nord
-0        Pipit des arbres
-0        Pouillot fitis
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Serin cini
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Aigle botté            2009    0        6
+Bécassine des marais   2017    0        1
+Bondrée apivore        2018    0        27
+Bruant des roseaux     2015    0        1
+Busard des roseaux     2015    0        1
+Caille des blés        2015    0        8
+Chevalier guignette    2017    0        2
+Chevêche d'Athéna      2016    0        12
+Cigogne noire          2015    0        2
+Circaète Jean-le-Blanc 2016    0        1
+Crabier chevelu        2017    0        1
+Cygne tuberculé        2016    0        1
+Effraie des clochers   2017    0        10
+Élanion blanc          2008    0        1
+Faisan de Colchide     2018    0        13
+Faucon hobereau        2018    0        17
+Faucon pèlerin         2016    0        1
+Fuligule milouin       2016    0        1
+Grèbe huppé            2015    0        3
+Grive litorne          2014    0        10
+Grive mauvis           2010    0        3
+Héron pourpré          2008    0        1
+Hibou moyen-duc        2012    0        4
+Hirondelle de rivage   2017    0        1
+Linotte mélodieuse     2018    0        2
+Locustelle tachetée    2008    0        2
+Oedicnème criard       2016    0        8
+Perdrix grise          2016    0        1
+Perruche à collier     2018    0        1
+Petit Gravelot         2017    0        3
+Pie-grièche grise      2012    0        1
+Pigeon colombin        2016    0        4
+Pinson du Nord         2013    0        1
+Pipit des arbres       2010    0        8
+Pouillot fitis         2010    0        6
+Roitelet huppé         2018    0        9
+Rousserolle effarvatte 2017    0        21
+Serin cini             2018    0        9
+Tarier des prés        2017    0        5
+Torcol fourmilier      2018    0        2
+Traquet motteux        2018    0        8
+Vautour fauve          2009    0        1
 

@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Aigle criard"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant fou"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard des Bahamas"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Coucou geai"
-"0";"Cygne tuberculé"
-"0";"Faucon d'Eléonore"
-"0";"Flamant rose"
-"0";"Fuligule milouin"
-"0";"Grand Gravelot"
-"0";"Grèbe huppé"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Monticole bleu"
-"0";"Outarde canepetière"
-"0";"Paon bleu"
-"0";"Pie-grièche grise"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
-"0";"Sterne caugek"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Aigle botté,2011,0,1
+Aigle criard,2018,0,1
+Barge à queue noire,2018,0,1
+Bécasseau de Temminck,2016,0,1
+Blongios nain,2016,0,1
+Bouvreuil pivoine,2018,0,1
+Bruant fou,2018,0,2
+Canard carolin,2017,0,4
+Canard chipeau,2018,0,3
+Canard des Bahamas,2017,0,3
+Chevêche d'Athéna,2017,0,6
+Cochevis huppé,2016,0,16
+Coucou geai,2017,0,6
+Cygne tuberculé,2018,0,3
+Faucon d'Eléonore,2018,0,4
+Flamant rose,2015,0,1
+Fuligule milouin,2018,0,3
+Grand Gravelot,2017,0,1
+Grèbe huppé,2017,0,26
+Guifette noire,2007,0,1
+Hibou moyen-duc,2016,0,7
+Monticole bleu,2008,0,4
+Outarde canepetière,2018,0,3
+Paon bleu,2015,0,1
+Pie-grièche grise,2012,0,1
+Pouillot siffleur,2018,0,1
+Rousserolle turdoïde,2018,0,7
+Sterne caugek,2018,0,1
+Tadorne de Belon,2016,0,10

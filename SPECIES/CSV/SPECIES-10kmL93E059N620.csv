@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chevêche d'Athéna"
-"0";"Effraie des clochers"
-"0";"Grand Cormoran"
-"0";"Hibou moyen-duc"
-"0";"Martinet à ventre blanc"
-"0";"Martin-pêcheur d'Europe"
-"0";"Pigeon biset domestique"
-"0";"Pouillot siffleur"
-"0";"Tarier des prés"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Chevêche d'Athéna,2009,0,1
+Effraie des clochers,2012,0,13
+Grand Cormoran,2011,0,1
+Hibou moyen-duc,2014,0,4
+Martinet à ventre blanc,2017,0,2
+Martin-pêcheur d'Europe,2017,0,1
+Pigeon biset domestique,2009,0,1
+Pouillot siffleur,2009,0,1
+Tarier des prés,2018,0,12
+Tourterelle des bois,2013,0,2

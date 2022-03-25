@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bouscarle de Cetti
-0        Bruant ortolan
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Butor étoilé
-0        Chevalier culblanc
-0        Cigogne blanche
-0        Cochevis huppé
-0        Crave à bec rouge
-0        Faisan de Colchide
-0        Faucon pèlerin
-0        Fauvette à lunettes
-0        Fauvette grisette
-0        Gobemouche gris
-0        Goéland leucophée
-0        Grand Cormoran
-0        Grive litorne
-0        Grosbec casse-noyaux
-0        Héron garde-boeufs
-0        Hibou moyen-duc
-0        Hirondelle rousseline
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Merle à plastron
-0        Milan noir
-0        Moineau friquet
-0        Perdrix grise
-0        Pie-grièche à tête rousse
-0        Pouillot fitis
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur alpin           2018    0        11
+Bouscarle de Cetti        2011    0        2
+Bruant ortolan            2009    0        1
+Bruant proyer             2009    0        1
+Busard Saint-Martin       2015    0        2
+Butor étoilé              2014    0        1
+Chevalier culblanc        2017    0        3
+Cigogne blanche           2016    0        1
+Cochevis huppé            2009    0        1
+Crave à bec rouge         2018    0        2
+Faisan de Colchide        2016    0        7
+Faucon pèlerin            2018    0        11
+Fauvette à lunettes       2009    0        1
+Fauvette grisette         2015    0        2
+Gobemouche gris           2017    0        4
+Goéland leucophée         2010    0        1
+Grand Cormoran            2008    0        1
+Grive litorne             2017    0        7
+Grosbec casse-noyaux      2017    0        26
+Héron garde-boeufs        2018    0        1
+Hibou moyen-duc           2009    0        1
+Hirondelle rousseline     2009    0        1
+Hypolaïs polyglotte       2017    0        6
+Locustelle tachetée       2014    0        1
+Merle à plastron          2010    0        2
+Milan noir                2010    0        1
+Moineau friquet           2015    0        2
+Perdrix grise             2016    0        1
+Pie-grièche à tête rousse 2016    0        2
+Pouillot fitis            2016    0        1
 

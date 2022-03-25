@@ -1,52 +1,49 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Barge à queue noire"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau variable"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Butor étoilé"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Cigogne noire"
-"0";"Faucon émerillon"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche à collier"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Goéland argenté"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Grive mauvis"
-"0";"Guifette noire"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Jaseur boréal"
-"0";"Marouette ponctuée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mouette de Sabine"
-"0";"Mouette tridactyle"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phalarope à bec étroit"
-"0";"Pipit à gorge rousse"
-"0";"Pipit des arbres"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Sterne hansel"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,1
+Barge à queue noire,2013,0,1
+Bécasseau de Temminck,2012,0,1
+Bécasseau variable,2017,0,6
+Bécasse des bois,2016,0,1
+Bergeronnette des ruisseaux,2016,0,2
+Bondrée apivore,2012,0,2
+Bouvreuil pivoine,2017,0,4
+Butor étoilé,2009,0,1
+Chevalier aboyeur,2016,0,8
+Chevalier arlequin,2014,0,7
+Chevalier culblanc,2019,0,13
+Chevalier guignette,2016,0,2
+Faucon émerillon,2013,0,1
+Fuligule à bec cerclé,2009,0,2
+Fuligule nyroca,2012,0,1
+Garrot à oeil d'or,2016,0,7
+Gobemouche à collier,2012,0,7
+Gobemouche gris,2012,0,3
+Gobemouche noir,2012,0,1
+Goéland argenté,2012,0,2
+Gorgebleue à miroir,2012,0,1
+Grèbe à cou noir,2015,0,7
+Grèbe jougris,2012,0,2
+Grive mauvis,2013,0,4
+Guifette noire,2015,0,2
+Hibou moyen-duc,2007,0,1
+Hirondelle de rivage,2012,0,1
+Jaseur boréal,2012,0,2
+Marouette ponctuée,2013,0,3
+Martin-pêcheur d'Europe,2013,0,1
+Mésange huppée,2019,0,3
+Mouette de Sabine,2012,0,1
+Mouette tridactyle,2012,0,1
+Perdrix grise,2014,0,3
+Petit Gravelot,2014,0,3
+Phalarope à bec étroit,2012,0,1
+Pipit à gorge rousse,2017,0,1
+Pipit des arbres,2016,0,9
+Pipit spioncelle,2019,0,9
+Pluvier doré,2017,0,4
+Pouillot siffleur,2017,0,1
+Rémiz penduline,2014,0,1
+Sizerin flammé,2011,0,1
+Spatule blanche,2019,0,1
+Sterne caspienne,2013,0,1
+Sterne hansel,2012,0,1
+Torcol fourmilier,2013,0,3

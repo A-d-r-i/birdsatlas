@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau variable"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Buse pattue"
-"0";"Canard pilet"
-"0";"Faucon émerillon"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Mésange nonnette"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit rousseline"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2018,0,3
+Bécasseau variable,2018,0,10
+Bruant jaune,2018,0,1
+Busard Saint-Martin,2013,0,3
+Buse pattue,2015,0,1
+Canard pilet,2018,0,1
+Faucon émerillon,2018,0,1
+Fuligule milouin,2018,0,1
+Goéland cendré,2014,0,1
+Grimpereau des bois,2012,0,1
+Héron pourpré,2018,0,3
+Mésange nonnette,2013,0,1
+Perdrix grise,2013,0,1
+Petit-duc scops,2018,0,7
+Pie-grièche à tête rousse,2017,0,1
+Pie-grièche écorcheur,2018,0,10
+Pigeon biset (origine naturelle),2016,0,4
+Pipit rousseline,2009,0,1
+Torcol fourmilier,2009,0,1

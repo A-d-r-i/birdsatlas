@@ -1,29 +1,29 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bec-croisé des sapins
-0        Butor étoilé
-0        Canard à collier noir
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Fuligule nyroca
-0        Hibou des marais
-0        Labbe pomarin
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Milan royal
-0        Moineau friquet
-0        Mouette de Sabine
-0        Oie à tête barrée
-0        Oie rieuse
-0        Perruche à collier
-0        Petit-duc scops
-0        Phalarope à bec large
-0        Pouillot de Bonelli
-0        Rousserolle turdoïde
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Bécasseau cocorli     2017    0        4
+Bécasseau de Temminck 2017    0        2
+Bécasseau sanderling  2013    0        10
+Bec-croisé des sapins 2013    0        1
+Butor étoilé          2012    0        1
+Canard à collier noir 2015    0        1
+Engoulevent d'Europe  2011    0        3
+Érismature rousse     2019    0        1
+Fuligule nyroca       2017    0        1
+Hibou des marais      2018    0        3
+Labbe pomarin         2007    0        1
+Locustelle tachetée   2017    0        10
+Merle à plastron      2017    0        3
+Mésange huppée        2018    0        10
+Mésange noire         2017    0        3
+Milan royal           2018    0        7
+Moineau friquet       2007    0        1
+Mouette de Sabine     2007    0        1
+Oie à tête barrée     2014    0        1
+Oie rieuse            2009    0        1
+Perruche à collier    2015    0        3
+Petit-duc scops       2009    0        1
+Phalarope à bec large 2014    0        2
+Pouillot de Bonelli   2017    0        5
+Rousserolle turdoïde  2009    0        1
 

@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Avocette élégante"
-"0";"Barge rousse"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau variable"
-"0";"Bernache cravant"
-"0";"Bihoreau gris"
-"0";"Calopsitte élégante"
-"0";"Canard chipeau"
-"0";"Cigogne noire"
-"0";"Courlis corlieu"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harle bièvre"
-"0";"Hibou des marais"
-"0";"Milan royal"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Ouette d'Egypte"
-"0";"Phragmite des joncs"
-"0";"Pluvier argenté"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Tadorne casarca"
+frname,lastobs,newcount,oldcount
+Aigle botté,2011,0,4
+Avocette élégante,2016,0,1
+Barge rousse,2014,0,1
+Bécasseau cocorli,2016,0,1
+Bécasseau minute,2014,0,1
+Bécasseau sanderling,2013,0,3
+Bécasseau variable,2015,0,5
+Bernache cravant,2011,0,1
+Bihoreau gris,2013,0,2
+Calopsitte élégante,2017,0,1
+Canard chipeau,2016,0,25
+Cigogne noire,2017,0,3
+Courlis corlieu,2011,0,1
+Goéland cendré,2016,0,9
+Grand Gravelot,2016,0,1
+Guifette moustac,2016,0,4
+Guifette noire,2016,0,2
+Harle bièvre,2014,0,9
+Hibou des marais,2014,0,3
+Milan royal,2018,0,18
+Moineau friquet,2011,0,4
+Mouette mélanocéphale,2013,0,2
+Ouette d'Egypte,2014,0,8
+Phragmite des joncs,2016,0,1
+Pluvier argenté,2014,0,1
+Spatule blanche,2017,0,1
+Sterne caspienne,2014,0,4
+Tadorne casarca,2015,0,1

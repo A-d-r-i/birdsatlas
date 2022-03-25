@@ -1,27 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette calandre"
-"0";"Bécasseau sanderling"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Bruant jaune"
-"0";"Bruant ortolan"
-"0";"Busard pâle"
-"0";"Calopsitte élégante"
-"0";"Cygne noir"
-"0";"Engoulevent d'Europe"
-"0";"Fauvette à lunettes"
-"0";"Fauvette orphée"
-"0";"Flamant du Chili"
-"0";"Grosbec casse-noyaux"
-"0";"Hirondelle de rochers"
-"0";"Locustelle luscinioïde"
-"0";"Martinet pâle"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Phalarope à bec large"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot ibérique"
-"0";"Traquet oreillard"
+frname,lastobs,newcount,oldcount
+Alouette calandre,2008,0,1
+Bécasseau sanderling,2016,0,1
+Bécassine sourde,2015,0,1
+Bergeronnette flavéole (M.f.flavissima),2016,0,3
+Bernache nonnette,2010,0,2
+Bruant jaune,2012,0,2
+Bruant ortolan,2014,0,1
+Busard pâle,2017,0,1
+Calopsitte élégante,2014,0,1
+Cygne noir,2017,0,12
+Engoulevent d'Europe,2016,0,3
+Fauvette à lunettes,2017,0,3
+Fauvette orphée,2009,0,1
+Flamant du Chili,2011,0,1
+Grosbec casse-noyaux,2018,0,6
+Locustelle luscinioïde,2016,0,1
+Martinet pâle,2010,0,1
+Oie à tête barrée,2013,0,1
+Perdrix grise,2017,0,1
+Phalarope à bec large,2008,0,2
+Pouillot à grands sourcils,2017,0,11
+Pouillot ibérique,2018,0,1
+Traquet oreillard,2014,0,1

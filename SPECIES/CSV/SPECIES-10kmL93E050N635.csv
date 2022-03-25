@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Chevalier guignette"
-"0";"Corbeau freux"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland cendré"
-"0";"Grèbe huppé"
-"0";"Grive draine"
-"0";"Grosbec casse-noyaux"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Roitelet huppé"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2016,0,1
+Bruant proyer,2012,0,4
+Busard des roseaux,2016,0,1
+Chevalier guignette,2017,0,1
+Corbeau freux,2015,0,4
+Gallinule poule-d'eau,2017,0,8
+Goéland cendré,2008,0,1
+Grèbe huppé,2017,0,6
+Grive draine,2018,0,6
+Grosbec casse-noyaux,2018,0,13
+Mouette rieuse,2017,0,1
+Perdrix grise,2011,0,1
+Pie-grièche écorcheur,2018,0,4
+Pigeon colombin,2016,0,1
+Pipit spioncelle,2017,0,1
+Pouillot fitis,2009,0,1
+Roitelet huppé,2015,0,1
+Rousserolle effarvatte,2018,0,1
+Serin cini,2018,0,11

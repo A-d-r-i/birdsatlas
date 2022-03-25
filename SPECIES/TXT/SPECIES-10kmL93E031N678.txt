@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bergeronnette printanière
-0        Butor étoilé
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Chevêche d'Athéna
-0        Cigogne noire
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Cygne noir
-0        Fuligule milouinan
-0        Fuligule nyroca
-0        Goéland argenté
-0        Goéland cendré
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Guifette noire
-0        Harle piette
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Moineau friquet
-0        Mouette pygmée
-0        Nette rousse
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pie-grièche grise
-0        Pouillot ibérique
-0        Rougequeue à front blanc
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasseau cocorli         2010    0        1
+Bécasseau minute          2014    0        3
+Bergeronnette printanière 2014    0        1
+Butor étoilé              2016    0        1
+Chevalier gambette        2008    0        1
+Chevalier sylvain         2011    0        1
+Chevêche d'Athéna         2012    0        1
+Cigogne noire             2017    0        11
+Circaète Jean-le-Blanc    2014    0        1
+Courlis cendré            2009    0        1
+Cygne noir                2008    0        2
+Fuligule milouinan        2009    0        5
+Fuligule nyroca           2014    0        2
+Goéland argenté           2017    0        4
+Goéland cendré            2009    0        1
+Grand Gravelot            2013    0        2
+Grèbe à cou noir          2018    0        6
+Guifette noire            2018    0        5
+Harle piette              2010    0        1
+Héron pourpré             2015    0        6
+Hibou moyen-duc           2009    0        1
+Locustelle tachetée       2016    0        2
+Moineau friquet           2013    0        1
+Mouette pygmée            2018    0        4
+Nette rousse              2016    0        16
+Petit Gravelot            2009    0        1
+Phragmite des joncs       2012    0        1
+Pie-grièche grise         2018    0        9
+Pouillot ibérique         2014    0        1
+Rougequeue à front blanc  2017    0        5
+Traquet motteux           2009    0        1
 

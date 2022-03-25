@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Busard Saint-Martin
-0        Cigogne noire
-0        Faisan de Colchide
-0        Fauvette grisette
-0        Fauvette passerinette
-0        Grand-duc d'Europe
-0        Petit-duc scops
-0        Pic épeichette
-0        Pluvier guignard
-0        Rousserolle effarvatte
-0        Sarcelle d'été
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2008    0        1
+Bruant des roseaux        2011    0        1
+Busard Saint-Martin       2015    0        2
+Cigogne noire             2012    0        1
+Faisan de Colchide        2017    0        3
+Fauvette grisette         2016    0        1
+Fauvette passerinette     2011    0        2
+Grand-duc d'Europe        2017    0        3
+Petit-duc scops           2011    0        2
+Pic épeichette            2015    0        1
+Pluvier guignard          2016    0        1
+Rousserolle effarvatte    2015    0        1
+Sarcelle d'été            2008    0        1
 

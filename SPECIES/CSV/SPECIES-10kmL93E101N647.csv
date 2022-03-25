@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Fauvette grisette"
-"0";"Foulque macroule"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Hibou moyen-duc"
-"0";"Loriot d'Europe"
-"0";"Milan royal"
-"0";"Petit Gravelot"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'hiver"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2012,0,3
+Bécassine des marais,2017,0,2
+Bruant ortolan,2012,0,3
+Busard cendré,2017,0,1
+Fauvette grisette,2016,0,2
+Foulque macroule,2012,0,3
+Grèbe castagneux,2012,0,3
+Grive mauvis,2016,0,1
+Hibou moyen-duc,2018,0,5
+Loriot d'Europe,2013,0,1
+Milan royal,2018,0,3
+Petit Gravelot,2013,0,1
+Pouillot siffleur,2012,0,3
+Sarcelle d'hiver,2013,0,1
+Vanneau huppé,2017,0,1

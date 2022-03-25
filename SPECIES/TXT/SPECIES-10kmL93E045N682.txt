@@ -1,35 +1,35 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Buse pattue
-0        Caille des blés
-0        Canard souchet
-0        Chevalier aboyeur
-0        Combattant varié
-0        Coucou gris
-0        Faucon hobereau
-0        Fauvette grisette
-0        Gallinule poule-d'eau
-0        Goéland brun
-0        Grive draine
-0        Grosbec casse-noyaux
-0        Harle bièvre
-0        Hibou moyen-duc
-0        Huppe fasciée
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Mouette rieuse
-0        Oedicnème criard
-0        Perdrix grise
-0        Pic épeichette
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pluvier doré
-0        Roitelet à triple bandeau
-0        Sarcelle d'hiver
-0        Sizerin cabaret
-0        Sizerin flammé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2015    0        2
+Bergeronnette printanière 2014    0        1
+Buse pattue               2012    0        1
+Caille des blés           2012    0        2
+Canard souchet            2012    0        1
+Chevalier aboyeur         2013    0        3
+Combattant varié          2012    0        1
+Coucou gris               2014    0        6
+Faucon hobereau           2018    0        10
+Fauvette grisette         2013    0        3
+Gallinule poule-d'eau     2016    0        5
+Goéland brun              2018    0        1
+Grive draine              2015    0        17
+Grosbec casse-noyaux      2018    0        1
+Harle bièvre              2014    0        1
+Hibou moyen-duc           2012    0        4
+Huppe fasciée             2016    0        7
+Martin-pêcheur d'Europe   2018    0        4
+Mésange noire             2018    0        3
+Mouette rieuse            2015    0        2
+Oedicnème criard          2012    0        1
+Perdrix grise             2012    0        3
+Pic épeichette            2013    0        4
+Pigeon colombin           2012    0        2
+Pipit des arbres          2013    0        7
+Pipit spioncelle          2015    0        1
+Pluvier doré              2016    0        1
+Roitelet à triple bandeau 2013    0        2
+Sarcelle d'hiver          2012    0        1
+Sizerin cabaret           2018    0        1
+Sizerin flammé            2018    0        1
 

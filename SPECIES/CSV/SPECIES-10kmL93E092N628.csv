@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Alouette calandrelle"
-"0";"Bécasse des bois"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Canard carolin"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Échasse blanche"
-"0";"Faisan vénéré"
-"0";"Fauvette grisette"
-"0";"Gallinule poule-d'eau"
-"0";"Hirondelle rousseline"
-"0";"Martin-pêcheur d'Europe"
-"0";"Monticole bleu"
-"0";"Outarde canepetière"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pipit rousseline"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2013,0,1
+Alouette calandrelle,2013,0,1
+Bécasse des bois,2015,0,3
+Bouvreuil pivoine,2017,0,1
+Bruant jaune,2015,0,4
+Busard Saint-Martin,2019,0,15
+Canard carolin,2019,0,1
+Chevêche d'Athéna,2015,0,12
+Cochevis huppé,2015,0,23
+Échasse blanche,2013,0,1
+Faisan vénéré,2012,0,3
+Fauvette grisette,2013,0,1
+Gallinule poule-d'eau,2015,0,6
+Hirondelle rousseline,2012,0,11
+Martin-pêcheur d'Europe,2014,0,3
+Monticole bleu,2013,0,1
+Outarde canepetière,2017,0,2
+Pie-grièche à tête rousse,2013,0,4
+Pie-grièche méridionale,2009,0,1
+Pigeon colombin,2011,0,2
+Pipit rousseline,2013,0,5

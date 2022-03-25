@@ -1,49 +1,49 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle royal
-0        Alouette des champs
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bruant des neiges
-0        Bruant fou
-0        Bruant proyer
-0        Bruant zizi
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Canard colvert
-0        Chevalier culblanc
-0        Chouette hulotte
-0        Cisticole des joncs
-0        Échasse blanche
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette grisette
-0        Fuligule milouin
-0        Gobemouche noir
-0        Goéland leucophée
-0        Grèbe castagneux
-0        Grive draine
-0        Hibou moyen-duc
-0        Hirondelle de rochers
-0        Huppe fasciée
-0        Merle à plastron
-0        Moineau friquet
-0        Moineau soulcie
-0        Oie cendrée
-0        Perdrix rouge
-0        Petit-duc scops
-0        Pic de Sharpe
-0        Pic épeichette
-0        Pie bavarde
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Rossignol philomèle
-0        Tarier des prés
-0        Tourterelle des bois
-0        Tourterelle turque
-0        Verdier d'Europe
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Aigle royal           2014    0        2
+Alouette des champs   2014    0        5
+Bécassine des marais  2016    0        1
+Bec-croisé des sapins 2010    0        2
+Bruant des neiges     2011    0        1
+Bruant fou            2011    0        2
+Bruant proyer         2011    0        2
+Bruant zizi           2017    0        3
+Busard cendré         2009    0        1
+Busard des roseaux    2011    0        2
+Busard Saint-Martin   2011    0        3
+Canard colvert        2018    0        7
+Chevalier culblanc    2011    0        1
+Chouette hulotte      2011    0        3
+Cisticole des joncs   2015    0        1
+Échasse blanche       2009    0        1
+Effraie des clochers  2009    0        1
+Engoulevent d'Europe  2010    0        2
+Faucon hobereau       2018    0        5
+Faucon pèlerin        2015    0        9
+Fauvette grisette     2018    0        7
+Fuligule milouin      2017    0        1
+Gobemouche noir       2018    0        7
+Goéland leucophée     2013    0        2
+Grèbe castagneux      2018    0        1
+Grive draine          2011    0        5
+Hibou moyen-duc       2009    0        1
+Hirondelle de rochers 2017    0        3
+Huppe fasciée         2018    0        2
+Merle à plastron      2013    0        1
+Moineau friquet       2014    0        1
+Moineau soulcie       2009    0        1
+Oie cendrée           2016    0        2
+Perdrix rouge         2009    0        1
+Petit-duc scops       2009    0        1
+Pic de Sharpe         2016    0        3
+Pic épeichette        2018    0        8
+Pie bavarde           2009    0        1
+Pouillot siffleur     2007    0        1
+Roitelet huppé        2018    0        9
+Rossignol philomèle   2009    0        1
+Tarier des prés       2015    0        1
+Tourterelle des bois  2009    0        1
+Tourterelle turque    2012    0        2
+Verdier d'Europe      2016    0        5
 

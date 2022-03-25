@@ -1,26 +1,26 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau cocorli
-0        Bergeronnette printanière
-0        Bruant ortolan
-0        Cisticole des joncs
-0        Coucou gris
-0        Grèbe jougris
-0        Grimpereau des jardins
-0        Hirondelle de rivage
-0        Labbe pomarin
-0        Macareux moine
-0        Mésange bleue
-0        Mésange huppée
-0        Moineau domestique
-0        Mouette pygmée
-0        Pic vert
-0        Pie-grièche à tête rousse
-0        Pipit de Richard
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Serin cini
-0        Sterne élégante
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasseau cocorli         2015    0        1
+Bergeronnette printanière 2015    0        4
+Bruant ortolan            2010    0        1
+Cisticole des joncs       2009    0        1
+Coucou gris               2018    0        1
+Grèbe jougris             2016    0        6
+Grimpereau des jardins    2009    0        1
+Hirondelle de rivage      2018    0        2
+Labbe pomarin             2018    0        1
+Macareux moine            2018    0        4
+Mésange bleue             2016    0        2
+Mésange huppée            2009    0        1
+Moineau domestique        2009    0        1
+Mouette pygmée            2009    0        1
+Pic vert                  2009    0        1
+Pie-grièche à tête rousse 2018    0        3
+Pipit de Richard          2018    0        1
+Roitelet à triple bandeau 2016    0        1
+Roitelet huppé            2016    0        2
+Serin cini                2009    0        1
+Sterne élégante           2009    0        1
+Tarin des aulnes          2017    0        1
 

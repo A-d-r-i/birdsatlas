@@ -1,35 +1,33 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bondrée apivore"
-"0";"Bruant ortolan"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Canard mandarin"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cochevis huppé"
-"0";"Fauvette passerinette"
-"0";"Fauvette pitchou"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs ictérine"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Pic épeichette"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pluvier doré"
-"0";"Râle d'eau"
-"0";"Rollier d'Europe"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'hiver"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,3
+Bécasse des bois,2018,0,6
+Bergeronnette printanière,2018,0,3
+Bondrée apivore,2017,0,9
+Bruant ortolan,2017,0,10
+Busard cendré,2018,0,18
+Busard des roseaux,2017,0,3
+Canard mandarin,2011,0,2
+Chevalier culblanc,2017,0,1
+Cigogne blanche,2016,0,2
+Cigogne noire,2017,0,1
+Cochevis huppé,2018,0,4
+Fauvette passerinette,2018,0,9
+Fauvette pitchou,2015,0,3
+Foulque macroule,2019,0,1
+Fuligule milouin,2012,0,1
+Harle bièvre,2010,0,1
+Hibou moyen-duc,2018,0,11
+Hypolaïs ictérine,2018,0,3
+Merle à plastron,2018,0,1
+Perdrix grise,2016,0,1
+Perdrix rouge,2017,0,9
+Petit-duc scops,2018,0,1
+Pic épeichette,2018,0,15
+Pie-grièche à tête rousse,2017,0,3
+Pipit rousseline,2009,0,2
+Pluvier doré,2017,0,4
+Râle d'eau,2017,0,3
+Rollier d'Europe,2016,0,1
+Rousserolle verderolle,2016,0,4
+Sarcelle d'hiver,2012,0,1
+Traquet motteux,2016,0,2

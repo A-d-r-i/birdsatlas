@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Busard des roseaux"
-"0";"Calopsitte élégante"
-"0";"Cigogne blanche"
-"0";"Cochevis huppé"
-"0";"Crave à bec rouge"
-"0";"Effraie des clochers"
-"0";"Faucon kobez"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Grèbe castagneux"
-"0";"Héron garde-boeufs"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle rousseline"
-"0";"Hypolaïs ictérine"
-"0";"Mésange nonnette"
-"0";"Perruche ondulée"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Rousserolle effarvatte"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2018,0,2
+Bécasse des bois,2018,0,18
+Bec-croisé des sapins,2016,0,3
+Busard des roseaux,2013,0,1
+Calopsitte élégante,2012,0,1
+Cigogne blanche,2015,0,1
+Cochevis huppé,2018,0,10
+Crave à bec rouge,2013,0,3
+Effraie des clochers,2016,0,3
+Faucon kobez,2008,0,2
+Fauvette pitchou,2017,0,3
+Fuligule milouin,2012,0,2
+Grèbe castagneux,2014,0,19
+Héron garde-boeufs,2015,0,1
+Hibou moyen-duc,2017,0,18
+Hirondelle rousseline,2012,0,1
+Hypolaïs ictérine,2017,0,1
+Mésange nonnette,2015,0,1
+Perruche ondulée,2014,0,1
+Pie-grièche grise,2012,0,2
+Pipit spioncelle,2013,0,3
+Pouillot fitis,2018,0,7
+Pouillot siffleur,2018,0,2
+Rémiz penduline,2015,0,3
+Rousserolle effarvatte,2007,0,1
+Vanneau huppé,2008,0,1

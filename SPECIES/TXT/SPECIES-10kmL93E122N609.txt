@@ -1,17 +1,17 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bec-croisé des sapins
-0        Chocard à bec jaune
-0        Corneille mantelée
-0        Corneille noire
-0        Épervier d'Europe
-0        Faucon crécerelle
-0        Grimpereau des bois
-0        Grosbec casse-noyaux
-0        Hirondelle de fenêtre
-0        Moineau cisalpin
-0        Roitelet huppé
-0        Sittelle corse
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Autour des palombes   2009    0        1
+Bec-croisé des sapins 2009    0        1
+Chocard à bec jaune   2014    0        1
+Corneille mantelée    2009    0        1
+Corneille noire       2009    0        1
+Épervier d'Europe     2018    0        2
+Faucon crécerelle     2014    0        1
+Grimpereau des bois   2009    0        1
+Grosbec casse-noyaux  2017    0        1
+Hirondelle de fenêtre 2018    0        2
+Moineau cisalpin      2018    0        1
+Roitelet huppé        2009    0        1
+Sittelle corse        2009    0        1
 

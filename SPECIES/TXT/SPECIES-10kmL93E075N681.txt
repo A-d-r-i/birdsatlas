@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bernache du Canada
-0        Bruant des neiges
-0        Buse pattue
-0        Canard souchet
-0        Chevalier gambette
-0        Chevalier guignette
-0        Combattant varié
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Fuligule milouin
-0        Gorgebleue à miroir
-0        Grand Gravelot
-0        Hibou des marais
-0        Moineau friquet
-0        Oie cendrée
-0        Perruche ondulée
-0        Petit Gravelot
-0        Pipit rousseline
-0        Pluvier guignard
-0        Râle d'eau
-0        Torcol fourmilier
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Alouette lulu        2013    0        1
+Autour des palombes  2012    0        1
+Bécasse des bois     2013    0        4
+Bécassine des marais 2013    0        1
+Bernache du Canada   2013    0        49
+Bruant des neiges    2010    0        4
+Buse pattue          2012    0        1
+Canard souchet       2015    0        1
+Chevalier gambette   2011    0        1
+Chevalier guignette  2014    0        4
+Combattant varié     2013    0        1
+Engoulevent d'Europe 2015    0        19
+Faucon émerillon     2016    0        11
+Faucon pèlerin       2009    0        1
+Fuligule milouin     2012    0        1
+Gorgebleue à miroir  2017    0        1
+Grand Gravelot       2011    0        1
+Hibou des marais     2016    0        3
+Moineau friquet      2013    0        4
+Oie cendrée          2015    0        2
+Perruche ondulée     2013    0        1
+Petit Gravelot       2016    0        3
+Pipit rousseline     2011    0        1
+Pluvier guignard     2017    0        1
+Râle d'eau           2018    0        8
+Torcol fourmilier    2014    0        2
 

@@ -1,65 +1,65 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasseau variable
-0        Bécassine des marais
-0        Bernache nonnette
-0        Bihoreau gris
-0        Bondrée apivore
-0        Busard cendré
-0        Busard des roseaux
-0        Caille des blés
-0        Canard pilet
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chouette hulotte
-0        Cigogne noire
-0        Cochevis huppé
-0        Combattant varié
-0        Courlis cendré
-0        Faisan vénéré
-0        Faucon pèlerin
-0        Gobemouche noir
-0        Goéland brun
-0        Goéland leucophée
-0        Grive draine
-0        Grive mauvis
-0        Guêpier d'Europe
-0        Guifette noire
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Hirondelle de rochers
-0        Huppe fasciée
-0        Locustelle tachetée
-0        Merle à plastron
-0        Mésange boréale
-0        Moineau friquet
-0        Oedicnème criard
-0        Oie à tête barrée
-0        Oie cendrée
-0        Oie rieuse
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pipit à gorge rousse
-0        Pipit rousseline
-0        Pluvier argenté
-0        Pouillot à grands sourcils
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Rémiz penduline
-0        Roitelet à triple bandeau
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Sterne naine
-0        Tadorne de Belon
-0        Tarier des prés
-0        Tarier pâtre
-0        Traquet motteux
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Aigle botté                2014    0        1
+Autour des palombes        2018    0        3
+Barge à queue noire        2014    0        1
+Bécasseau variable         2016    0        1
+Bécassine des marais       2015    0        5
+Bernache nonnette          2014    0        1
+Bihoreau gris              2017    0        3
+Bondrée apivore            2018    0        26
+Busard cendré              2013    0        3
+Busard des roseaux         2017    0        35
+Caille des blés            2009    0        1
+Canard pilet               2014    0        1
+Canard siffleur            2015    0        1
+Chevalier aboyeur          2015    0        4
+Chevalier culblanc         2017    0        7
+Chevalier gambette         2015    0        1
+Chouette hulotte           2018    0        61
+Cigogne noire              2016    0        1
+Cochevis huppé             2009    0        1
+Combattant varié           2014    0        1
+Courlis cendré             2014    0        4
+Faisan vénéré              2017    0        36
+Faucon pèlerin             2016    0        10
+Gobemouche noir            2016    0        8
+Goéland brun               2016    0        1
+Goéland leucophée          2016    0        9
+Grive draine               2019    0        64
+Grive mauvis               2018    0        48
+Guêpier d'Europe           2013    0        1
+Guifette noire             2015    0        2
+Hibou des marais           2015    0        1
+Hibou moyen-duc            2017    0        8
+Hirondelle de rivage       2016    0        10
+Hirondelle de rochers      2016    0        1
+Huppe fasciée              2018    0        3
+Locustelle tachetée        2015    0        10
+Merle à plastron           2018    0        8
+Mésange boréale            2009    0        1
+Moineau friquet            2009    0        2
+Oedicnème criard           2018    0        8
+Oie à tête barrée          2016    0        1
+Oie cendrée                2015    0        3
+Oie rieuse                 2016    0        1
+Perdrix rouge              2017    0        19
+Petit Gravelot             2015    0        5
+Pigeon colombin            2018    0        57
+Pipit à gorge rousse       2014    0        1
+Pipit rousseline           2016    0        5
+Pluvier argenté            2016    0        1
+Pouillot à grands sourcils 2015    0        1
+Pouillot de Bonelli        2016    0        1
+Pouillot siffleur          2015    0        1
+Rémiz penduline            2016    0        1
+Roitelet à triple bandeau  2018    0        50
+Roitelet huppé             2019    0        31
+Rousserolle effarvatte     2016    0        3
+Sterne naine               2015    0        1
+Tadorne de Belon           2017    0        2
+Tarier des prés            2016    0        4
+Tarier pâtre               2018    0        5
+Traquet motteux            2018    0        5
 

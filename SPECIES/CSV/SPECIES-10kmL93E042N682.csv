@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant des roseaux"
-"0";"Épervier d'Europe"
-"0";"Fauvette des jardins"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange nonnette"
-"0";"Rossignol philomèle"
+frname,lastobs,newcount,oldcount
+Bruant des roseaux,2011,0,2
+Épervier d'Europe,2015,0,6
+Fauvette des jardins,2011,0,2
+Martin-pêcheur d'Europe,2009,0,1
+Mésange à longue queue,2015,0,4
+Mésange nonnette,2009,0,1
+Rossignol philomèle,2016,0,1

@@ -1,48 +1,48 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau minute
-0        Bécassine sourde
-0        Bernache du Canada
-0        Bruant mélanocéphale
-0        Busard cendré
-0        Butor étoilé
-0        Canard carolin
-0        Canard mandarin
-0        Chevalier stagnatile
-0        Chevalier sylvain
-0        Cigogne noire
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Etourneau roselin
-0        Fuligule morillon
-0        Garrot à oeil d'or
-0        Gobemouche nain
-0        Gorgebleue à miroir
-0        Grimpereau des jardins
-0        Harle bièvre
-0        Linotte à bec jaune
-0        Macareux moine
-0        Macreuse à front blanc
-0        Martinet à ventre blanc
-0        Mergule nain
-0        Mésange nonnette
-0        Moineau friquet
-0        Océanite culblanc
-0        Océanite de Wilson
-0        Oedicnème criard
-0        Perdrix grise
-0        Perruche à collier
-0        Pic vert
-0        Pie-grièche à tête rousse
-0        Pie-grièche écorcheur
-0        Pluvier guignard
-0        Pouillot ibérique
-0        Pouillot siffleur
-0        Roselin cramoisi
-0        Sittelle torchepot
-0        Sizerin flammé
-0        Sterne caspienne
-0        Sterne de Dougall
-0        Tadorne casarca
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécasseau minute          2014    0        3
+Bécassine sourde          2010    0        2
+Bernache du Canada        2017    0        3
+Bruant mélanocéphale      2018    0        18
+Busard cendré             2014    0        1
+Butor étoilé              2018    0        1
+Canard carolin            2013    0        6
+Canard mandarin           2013    0        4
+Chevalier stagnatile      2013    0        4
+Chevalier sylvain         2013    0        5
+Cigogne noire             2014    0        1
+Cygne noir                2011    0        2
+Engoulevent d'Europe      2016    0        12
+Etourneau roselin         2018    0        1
+Fuligule morillon         2013    0        2
+Garrot à oeil d'or        2017    0        5
+Gobemouche nain           2012    0        1
+Gorgebleue à miroir       2016    0        7
+Grimpereau des jardins    2016    0        1
+Harle bièvre              2014    0        8
+Linotte à bec jaune       2009    0        1
+Macareux moine            2018    0        17
+Macreuse à front blanc    2017    0        53
+Martinet à ventre blanc   2012    0        2
+Mergule nain              2013    0        2
+Mésange nonnette          2016    0        2
+Moineau friquet           2012    0        1
+Océanite culblanc         2017    0        7
+Océanite de Wilson        2017    0        11
+Oedicnème criard          2016    0        2
+Perdrix grise             2018    0        15
+Perruche à collier        2015    0        1
+Pic vert                  2009    0        1
+Pie-grièche à tête rousse 2016    0        3
+Pie-grièche écorcheur     2010    0        1
+Pluvier guignard          2013    0        1
+Pouillot ibérique         2018    0        2
+Pouillot siffleur         2009    0        2
+Roselin cramoisi          2016    0        4
+Sittelle torchepot        2016    0        1
+Sizerin flammé            2012    0        3
+Sterne caspienne          2016    0        5
+Sterne de Dougall         2011    0        1
+Tadorne casarca           2007    0        4
 

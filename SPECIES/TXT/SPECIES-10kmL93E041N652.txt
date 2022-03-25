@@ -1,36 +1,36 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Avocette élégante
-0        Barge à queue noire
-0        Bécasse des bois
-0        Busard cendré
-0        Butor étoilé
-0        Caille des blés
-0        Canard pilet
-0        Canard siffleur
-0        Courlis cendré
-0        Cygne noir
-0        Engoulevent d'Europe
-0        Fauvette pitchou
-0        Fuligule milouin
-0        Goéland cendré
-0        Harle bièvre
-0        Hibou des marais
-0        Ibis sacré
-0        Mouette mélanocéphale
-0        Mouette pygmée
-0        Panure à moustaches
-0        Petit-duc scops
-0        Pie-grièche à tête rousse
-0        Pluvier argenté
-0        Pouillot à grands sourcils
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Spatule blanche
-0        Tadorne casarca
-0        Tadorne de Belon
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Accenteur alpin            2011    0        3
+Avocette élégante          2010    0        1
+Barge à queue noire        2014    0        1
+Bécasse des bois           2018    0        15
+Busard cendré              2015    0        4
+Butor étoilé               2011    0        2
+Caille des blés            2017    0        5
+Canard pilet               2017    0        5
+Canard siffleur            2017    0        7
+Courlis cendré             2016    0        3
+Cygne noir                 2015    0        3
+Engoulevent d'Europe       2012    0        4
+Fauvette pitchou           2016    0        1
+Fuligule milouin           2017    0        11
+Goéland cendré             2013    0        2
+Harle bièvre               2019    0        5
+Hibou des marais           2013    0        1
+Ibis sacré                 2017    0        20
+Mouette mélanocéphale      2017    0        2
+Mouette pygmée             2016    0        1
+Panure à moustaches        2015    0        3
+Petit-duc scops            2018    0        4
+Pie-grièche à tête rousse  2010    0        1
+Pluvier argenté            2013    0        1
+Pouillot à grands sourcils 2012    0        1
+Rousserolle turdoïde       2014    0        1
+Sarcelle d'été             2017    0        10
+Sizerin cabaret            2018    0        2
+Sizerin flammé             2018    0        2
+Spatule blanche            2017    0        6
+Tadorne casarca            2014    0        1
+Tadorne de Belon           2016    0        4
 

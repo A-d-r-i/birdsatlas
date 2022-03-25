@@ -1,31 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Alouette lulu"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Chevalier culblanc"
-"0";"Chouette hulotte"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Fauvette babillarde"
-"0";"Foulque macroule"
-"0";"Grive draine"
-"0";"Héron garde-boeufs"
-"0";"Locustelle tachetée"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic noir"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2010,0,1
+Alouette des champs,2015,0,13
+Alouette lulu,2011,0,2
+Bruant des roseaux,2015,0,1
+Caille des blés,2016,0,2
+Chevalier culblanc,2014,0,2
+Chouette hulotte,2018,0,5
+Cigogne blanche,2016,0,4
+Corbeau freux,2015,0,7
+Fauvette babillarde,2014,0,2
+Foulque macroule,2012,0,3
+Grive draine,2015,0,10
+Héron garde-boeufs,2019,0,1
+Locustelle tachetée,2017,0,3
+Martin-pêcheur d'Europe,2015,0,1
+Mésange huppée,2015,0,1
+Mésange noire,2017,0,1
+Perdrix grise,2013,0,5
+Perdrix rouge,2016,0,4
+Pic noir,2012,0,3
+Pluvier doré,2011,0,1
+Pouillot fitis,2015,0,1
+Rougequeue à front blanc,2014,0,1
+Rousserolle effarvatte,2014,0,1
+Sarcelle d'hiver,2013,0,1
+Serin cini,2017,0,4
+Vanneau huppé,2015,0,10

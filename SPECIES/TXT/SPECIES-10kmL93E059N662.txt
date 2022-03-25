@@ -1,58 +1,58 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Autour des palombes
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bergeronnette printanière
-0        Bondrée apivore
-0        Bruant des roseaux
-0        Bruant proyer
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard pilet
-0        Canard siffleur
-0        Chouette hulotte
-0        Corbeau freux
-0        Courlis cendré
-0        Effraie des clochers
-0        Faucon pèlerin
-0        Fauvette babillarde
-0        Fauvette des jardins
-0        Fauvette grisette
-0        Gobemouche gris
-0        Grand-duc d'Europe
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive mauvis
-0        Guifette moustac
-0        Héron pourpré
-0        Hibou moyen-duc
-0        Labbe pomarin
-0        Locustelle tachetée
-0        Martinet noir
-0        Oedicnème criard
-0        Perdrix grise
-0        Perdrix rouge
-0        Petit Gravelot
-0        Pic cendré
-0        Pic épeichette
-0        Pipit des arbres
-0        Pipit farlouse
-0        Pipit spioncelle
-0        Plongeon catmarin
-0        Pluvier doré
-0        Pouillot de Bonelli
-0        Pouillot siffleur
-0        Râle d'eau
-0        Roitelet huppé
-0        Rousserolle effarvatte
-0        Rousserolle turdoïde
-0        Sarcelle d'été
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Autour des palombes       2009    0        1
+Bécasseau variable        2017    0        1
+Bécasse des bois          2009    0        1
+Bergeronnette printanière 2017    0        3
+Bondrée apivore           2017    0        2
+Bruant des roseaux        2009    0        3
+Bruant proyer             2009    0        2
+Busard des roseaux        2009    0        2
+Busard Saint-Martin       2013    0        3
+Caille des blés           2009    0        1
+Canard pilet              2009    0        1
+Canard siffleur           2009    0        2
+Chouette hulotte          2009    0        1
+Corbeau freux             2018    0        2
+Courlis cendré            2009    0        2
+Effraie des clochers      2009    0        2
+Faucon pèlerin            2018    0        2
+Fauvette babillarde       2009    0        1
+Fauvette des jardins      2009    0        1
+Fauvette grisette         2016    0        3
+Gobemouche gris           2017    0        3
+Grand-duc d'Europe        2018    0        1
+Grèbe à cou noir          2009    0        1
+Grèbe castagneux          2009    0        3
+Grive litorne             2009    0        1
+Grive mauvis              2009    0        1
+Guifette moustac          2009    0        1
+Héron pourpré             2009    0        1
+Hibou moyen-duc           2009    0        1
+Labbe pomarin             2007    0        1
+Locustelle tachetée       2009    0        1
+Martinet noir             2013    0        1
+Oedicnème criard          2009    0        1
+Perdrix grise             2009    0        1
+Perdrix rouge             2009    0        1
+Petit Gravelot            2009    0        1
+Pic cendré                2009    0        1
+Pic épeichette            2009    0        2
+Pipit des arbres          2009    0        1
+Pipit farlouse            2018    0        2
+Pipit spioncelle          2009    0        1
+Plongeon catmarin         2008    0        1
+Pluvier doré              2015    0        2
+Pouillot de Bonelli       2009    0        1
+Pouillot siffleur         2009    0        1
+Râle d'eau                2009    0        3
+Roitelet huppé            2009    0        1
+Rousserolle effarvatte    2009    0        2
+Rousserolle turdoïde      2009    0        1
+Sarcelle d'été            2009    0        2
+Serin cini                2016    0        3
+Tarier des prés           2009    0        1
+Tarin des aulnes          2018    0        29
+Torcol fourmilier         2009    0        1
 

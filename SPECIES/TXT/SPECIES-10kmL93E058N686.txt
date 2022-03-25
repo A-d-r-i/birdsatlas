@@ -1,19 +1,19 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bergeronnette printanière
-0        Bruant des roseaux
-0        Chevêche d'Athéna
-0        Effraie des clochers
-0        Faucon hobereau
-0        Fuligule morillon
-0        Grèbe castagneux
-0        Locustelle tachetée
-0        Moineau friquet
-0        Mouette mélanocéphale
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Pigeon colombin
-0        Rossignol philomèle
-0        Rousserolle verderolle
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bergeronnette printanière 2009    0        1
+Bruant des roseaux        2014    0        1
+Chevêche d'Athéna         2009    0        1
+Effraie des clochers      2009    0        2
+Faucon hobereau           2009    0        1
+Fuligule morillon         2009    0        1
+Grèbe castagneux          2009    0        2
+Locustelle tachetée       2009    0        1
+Moineau friquet           2014    0        4
+Mouette mélanocéphale     2018    0        1
+Petit Gravelot            2009    0        1
+Phragmite des joncs       2009    0        1
+Pigeon colombin           2009    0        1
+Rossignol philomèle       2009    0        1
+Rousserolle verderolle    2009    0        1
 

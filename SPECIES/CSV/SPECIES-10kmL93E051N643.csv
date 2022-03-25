@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Autour des palombes"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache du Canada"
-"0";"Bouscarle de Cetti"
-"0";"Bruant ortolan"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Courlis cendré"
-"0";"Faucon kobez"
-"0";"Goéland brun"
-"0";"Grèbe castagneux"
-"0";"Héron pourpré"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Oie cendrée"
-"0";"Ouette d'Egypte"
-"0";"Perdrix grise"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pipit spioncelle"
-"0";"Pouillot à grands sourcils"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle botté,2017,0,6
+Autour des palombes,2016,0,3
+Bergeronnette flavéole (M.f.flavissima),2011,0,1
+Bernache du Canada,2011,0,1
+Bouscarle de Cetti,2018,0,1
+Bruant ortolan,2016,0,4
+Canard souchet,2015,0,2
+Chevalier aboyeur,2018,0,3
+Chevalier guignette,2017,0,5
+Chevalier sylvain,2011,0,1
+Courlis cendré,2009,0,3
+Faucon kobez,2010,0,1
+Goéland brun,2017,0,1
+Grèbe castagneux,2018,0,4
+Héron pourpré,2016,0,1
+Locustelle tachetée,2017,0,5
+Moineau friquet,2008,0,1
+Mouette tridactyle,2009,0,2
+Oie cendrée,2013,0,1
+Ouette d'Egypte,2018,0,1
+Perdrix grise,2011,0,4
+Petit Gravelot,2011,0,1
+Phragmite des joncs,2015,0,2
+Pipit spioncelle,2017,0,6
+Pouillot à grands sourcils,2015,0,1
+Pouillot siffleur,2015,0,1
+Sarcelle d'hiver,2019,0,4
+Sterne pierregarin,2018,0,1
+Vautour fauve,2010,0,1

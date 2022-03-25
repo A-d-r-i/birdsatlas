@@ -1,34 +1,34 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur mouchet
-0        Alouette des champs
-0        Autour des palombes
-0        Bécasse des bois
-0        Bécassine des marais
-0        Busard cendré
-0        Busard Saint-Martin
-0        Caille des blés
-0        Canard mandarin
-0        Canard souchet
-0        Chevalier guignette
-0        Cigogne noire
-0        Échasse blanche
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fuligule morillon
-0        Gallinule poule-d'eau
-0        Grèbe à cou noir
-0        Grèbe castagneux
-0        Grive litorne
-0        Héron pourpré
-0        Nette rousse
-0        Perdrix rouge
-0        Pie-grièche à tête rousse
-0        Pigeon biset domestique
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Sarcelle d'hiver
-0        Tadorne de Belon
-0        Tarier des prés
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Accenteur mouchet         2018    0        4
+Alouette des champs       2009    0        1
+Autour des palombes       2018    0        3
+Bécasse des bois          2017    0        1
+Bécassine des marais      2019    0        1
+Busard cendré             2013    0        1
+Busard Saint-Martin       2018    0        4
+Caille des blés           2009    0        1
+Canard mandarin           2016    0        1
+Canard souchet            2017    0        1
+Chevalier guignette       2016    0        3
+Cigogne noire             2013    0        1
+Échasse blanche           2018    0        1
+Faucon pèlerin            2018    0        5
+Fauvette des jardins      2011    0        1
+Fuligule morillon         2017    0        1
+Gallinule poule-d'eau     2018    0        3
+Grèbe à cou noir          2017    0        2
+Grèbe castagneux          2009    0        1
+Grive litorne             2017    0        2
+Héron pourpré             2018    0        1
+Nette rousse              2018    0        1
+Perdrix rouge             2009    0        1
+Pie-grièche à tête rousse 2012    0        1
+Pigeon biset domestique   2018    0        3
+Pipit des arbres          2009    0        1
+Pipit spioncelle          2018    0        4
+Sarcelle d'hiver          2018    0        6
+Tadorne de Belon          2017    0        1
+Tarier des prés           2009    0        1
 

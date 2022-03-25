@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Bécasseau sanderling
-0        Bécasseau tacheté
-0        Bécasse des bois
-0        Bernache cravant
-0        Caille des blés
-0        Canard à collier noir
-0        Chevalier stagnatile
-0        Cochevis huppé
-0        Crabier chevelu
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Grèbe esclavon
-0        Harle bièvre
-0        Harle piette
-0        Hibou des marais
-0        Hibou moyen-duc
-0        Ibis falcinelle
-0        Labbe à longue queue
-0        Labbe parasite
-0        Labbe pomarin
-0        Locustelle luscinioïde
-0        Macreuse noire
-0        Moineau friquet
-0        Mouette tridactyle
-0        Panure à moustaches
-0        Perdrix rouge
-0        Perroquet jaco
-0        Phalarope à bec étroit
-0        Pie-grièche écorcheur
-0        Plongeon imbrin
-0        Sterne arctique
-0        Sterne caspienne
-0        Torcol fourmilier
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau de Temminck  2018    0        2
+Bécasseau sanderling   2018    0        10
+Bécasseau tacheté      2008    0        5
+Bécasse des bois       2017    0        8
+Bernache cravant       2017    0        1
+Caille des blés        2014    0        1
+Canard à collier noir  2018    0        3
+Chevalier stagnatile   2014    0        2
+Cochevis huppé         2013    0        1
+Crabier chevelu        2016    0        1
+Effraie des clochers   2018    0        5
+Engoulevent d'Europe   2016    0        6
+Érismature rousse      2011    0        14
+Grèbe esclavon         2018    0        2
+Harle bièvre           2018    0        40
+Harle piette           2015    0        5
+Hibou des marais       2017    0        2
+Hibou moyen-duc        2017    0        17
+Ibis falcinelle        2017    0        11
+Labbe à longue queue   2013    0        1
+Labbe parasite         2017    0        16
+Labbe pomarin          2015    0        1
+Locustelle luscinioïde 2014    0        3
+Macreuse noire         2016    0        4
+Moineau friquet        2016    0        10
+Mouette tridactyle     2017    0        20
+Panure à moustaches    2018    0        16
+Perdrix rouge          2014    0        1
+Perroquet jaco         2014    0        1
+Phalarope à bec étroit 2008    0        7
+Pie-grièche écorcheur  2018    0        2
+Plongeon imbrin        2015    0        30
+Sterne arctique        2010    0        5
+Sterne caspienne       2016    0        2
+Torcol fourmilier      2017    0        4
 

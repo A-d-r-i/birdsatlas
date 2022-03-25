@@ -1,10 +1,10 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Chevêche d'Athéna
-0        Fauvette babillarde
-0        Goéland à ailes blanches
-0        Goéland à bec cerclé
-0        Goéland bourgmestre
-0        Pouillot à grands sourcils
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Chevêche d'Athéna          2009    0        1
+Fauvette babillarde        2015    0        1
+Goéland à ailes blanches   2018    0        3
+Goéland à bec cerclé       2018    0        2
+Goéland bourgmestre        2018    0        6
+Pouillot à grands sourcils 2017    0        1
 

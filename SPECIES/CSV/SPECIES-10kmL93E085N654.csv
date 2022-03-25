@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Aigle criard"
-"0";"Aigle royal"
-"0";"Bécasseau maubèche"
-"0";"Bécasse des bois"
-"0";"Bernache à cou roux"
-"0";"Bruant des neiges"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Cassenoix moucheté"
-"0";"Coucou geai"
-"0";"Cygne chanteur"
-"0";"Dendrocygne des Antilles"
-"0";"Engoulevent d'Europe"
-"0";"Érismature rousse"
-"0";"Faucon kobez"
-"0";"Fuligule à tête noire"
-"0";"Glaréole à collier"
-"0";"Goéland pontique"
-"0";"Goéland railleur"
-"0";"Grèbe jougris"
-"0";"Harle huppé"
-"0";"Ibis sacré"
-"0";"Labbe parasite"
-"0";"Marouette poussin"
-"0";"Mésange huppée"
-"0";"Monticole de roche"
-"0";"Mouette tridactyle"
-"0";"Nette demi-deuil"
-"0";"Oie des moissons"
-"0";"Pélican blanc"
-"0";"Pélican frisé"
-"0";"Phalarope à bec étroit"
-"0";"Phalarope à bec large"
-"0";"Phragmite aquatique"
-"0";"Pie-grièche à tête rousse"
-"0";"Plongeon catmarin"
-"0";"Rollier d'Europe"
-"0";"Sarcelle à ailes vertes"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,1
+Aigle criard,2009,0,1
+Aigle royal,2012,0,1
+Bécasseau maubèche,2011,0,3
+Bécasse des bois,2018,0,3
+Bernache à cou roux,2015,0,2
+Bruant des neiges,2015,0,1
+Canard à collier noir,2018,0,24
+Canard carolin,2018,0,4
+Canard des Bahamas,2012,0,1
+Cassenoix moucheté,2016,0,1
+Coucou geai,2011,0,2
+Cygne chanteur,2013,0,9
+Dendrocygne des Antilles,2018,0,4
+Engoulevent d'Europe,2013,0,1
+Érismature rousse,2018,0,6
+Faucon kobez,2017,0,23
+Fuligule à tête noire,2018,0,22
+Glaréole à collier,2018,0,3
+Goéland pontique,2018,0,1
+Goéland railleur,2014,0,1
+Grèbe jougris,2007,0,3
+Harle huppé,2012,0,1
+Ibis sacré,2007,0,4
+Labbe parasite,2013,0,14
+Marouette poussin,2014,0,7
+Mésange huppée,2016,0,6
+Monticole de roche,2018,0,1
+Mouette tridactyle,2014,0,3
+Nette demi-deuil,2011,0,2
+Oie des moissons,2016,0,23
+Pélican blanc,2018,0,6
+Pélican frisé,2017,0,2
+Phalarope à bec étroit,2016,0,1
+Phalarope à bec large,2017,0,3
+Phragmite aquatique,2016,0,1
+Pie-grièche à tête rousse,2007,0,1
+Plongeon catmarin,2017,0,27
+Rollier d'Europe,2015,0,2
+Sarcelle à ailes vertes,2016,0,6
+Tournepierre à collier,2016,0,3

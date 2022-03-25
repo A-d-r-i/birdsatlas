@@ -1,51 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Bruant jaune"
-"0";"Canard à collier noir"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Canard mandarin"
-"0";"Chevalier arlequin"
-"0";"Chevalier stagnatile"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Cygne noir"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette orphée"
-"0";"Flamant rose"
-"0";"Fuligule milouinan"
-"0";"Gélinotte des bois"
-"0";"Gobemouche gris"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Gorgebleue à miroir"
-"0";"Grimpereau des bois"
-"0";"Guifette leucoptère"
-"0";"Guifette moustac"
-"0";"Locustelle tachetée"
-"0";"Marouette ponctuée"
-"0";"Marouette poussin"
-"0";"Martinet à ventre blanc"
-"0";"Moineau soulcie"
-"0";"Nette rousse"
-"0";"Oedicnème criard"
-"0";"Outarde canepetière"
-"0";"Perdrix grise"
-"0";"Pie-grièche grise"
-"0";"Pigeon colombin"
-"0";"Pluvier argenté"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Spatule blanche"
-"0";"Sterne caspienne"
-"0";"Sterne pierregarin"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,1
+Bécasseau de Temminck,2011,0,1
+Bécasseau minute,2011,0,6
+Bécasse des bois,2015,0,1
+Bec-croisé des sapins,2017,0,8
+Bruant jaune,2017,0,39
+Canard à collier noir,2017,0,2
+Canard carolin,2014,0,7
+Canard des Bahamas,2012,0,12
+Canard mandarin,2012,0,9
+Chevalier arlequin,2011,0,2
+Chevalier stagnatile,2015,0,6
+Cigogne noire,2015,0,4
+Cisticole des joncs,2018,0,1
+Cygne noir,2007,0,2
+Fauvette babillarde,2012,0,4
+Fauvette des jardins,2017,0,4
+Fauvette orphée,2018,0,1
+Flamant rose,2017,0,6
+Fuligule milouinan,2014,0,26
+Gélinotte des bois,2015,0,8
+Gobemouche gris,2017,0,11
+Goéland cendré,2012,0,5
+Goéland pontique,2016,0,1
+Grimpereau des bois,2015,0,7
+Guifette leucoptère,2008,0,1
+Guifette moustac,2011,0,1
+Locustelle tachetée,2017,0,5
+Marouette ponctuée,2018,0,7
+Marouette poussin,2018,0,4
+Martinet à ventre blanc,2017,0,13
+Moineau soulcie,2010,0,3
+Nette rousse,2018,0,53
+Oedicnème criard,2011,0,1
+Outarde canepetière,2012,0,1
+Perdrix grise,2016,0,1
+Pie-grièche grise,2013,0,9
+Pigeon colombin,2012,0,4
+Pluvier argenté,2011,0,2
+Pluvier doré,2012,0,2
+Pouillot siffleur,2011,0,3
+Rousserolle verderolle,2018,0,3
+Spatule blanche,2016,0,2
+Sterne caspienne,2012,0,1
+Sterne pierregarin,2017,0,1
+Vautour moine,2010,0,1

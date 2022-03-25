@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bernache nonnette"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Chevalier culblanc"
-"0";"Cochevis huppé"
-"0";"Engoulevent d'Europe"
-"0";"Goéland leucophée"
-"0";"Grive mauvis"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Oedicnème criard"
-"0";"Petit Gravelot"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2009,0,1
+Bergeronnette printanière,2015,0,2
+Bernache nonnette,2011,0,1
+Bouvreuil pivoine,2017,0,3
+Bruant des roseaux,2009,0,2
+Chevalier culblanc,2018,0,1
+Cochevis huppé,2009,0,1
+Engoulevent d'Europe,2009,0,1
+Goéland leucophée,2016,0,1
+Grive mauvis,2018,0,3
+Hirondelle de rivage,2009,0,1
+Locustelle tachetée,2009,0,1
+Loriot d'Europe,2009,0,1
+Oedicnème criard,2009,0,1
+Petit Gravelot,2009,0,1
+Pipit des arbres,2009,0,1
+Pipit farlouse,2018,0,2
+Pouillot fitis,2009,0,1
+Pouillot siffleur,2009,0,1
+Sarcelle d'hiver,2009,0,1

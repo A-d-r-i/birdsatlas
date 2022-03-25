@@ -1,47 +1,45 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau variable"
-"0";"Bruant zizi"
-"0";"Busard pâle"
-"0";"Canard mandarin"
-"0";"Cassenoix moucheté"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Crabier chevelu"
-"0";"Faucon kobez"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Goéland argenté"
-"0";"Goéland brun"
-"0";"Goéland pontique"
-"0";"Gorgebleue à miroir"
-"0";"Grand Gravelot"
-"0";"Grèbe à cou noir"
-"0";"Grèbe esclavon"
-"0";"Grèbe jougris"
-"0";"Guifette moustac"
-"0";"Guifette noire"
-"0";"Harelde boréale"
-"0";"Harle huppé"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Hypolaïs ictérine"
-"0";"Jaseur boréal"
-"0";"Locustelle luscinioïde"
-"0";"Marouette ponctuée"
-"0";"Mouette mélanocéphale"
-"0";"Perdrix rouge"
-"0";"Perruche à collier"
-"0";"Phragmite des joncs"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Spatule blanche"
-"0";"Sterne naine"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bécasseau variable,2013,0,9
+Bruant zizi,2011,0,1
+Busard pâle,2013,0,1
+Canard mandarin,2016,0,5
+Cassenoix moucheté,2015,0,2
+Chevalier arlequin,2007,0,1
+Chevalier gambette,2015,0,4
+Chevalier sylvain,2011,0,15
+Cincle plongeur,2018,0,4
+Courlis cendré,2014,0,3
+Crabier chevelu,2018,0,1
+Faucon kobez,2015,0,9
+Fuligule milouinan,2017,0,5
+Fuligule nyroca,2018,0,12
+Goéland argenté,2017,0,4
+Goéland brun,2018,0,2
+Goéland pontique,2013,0,2
+Gorgebleue à miroir,2016,0,4
+Grand Gravelot,2012,0,1
+Grèbe à cou noir,2016,0,8
+Grèbe esclavon,2011,0,4
+Grèbe jougris,2009,0,2
+Guifette moustac,2008,0,2
+Guifette noire,2007,0,1
+Harelde boréale,2017,0,2
+Harle huppé,2012,0,10
+Harle piette,2012,0,12
+Héron pourpré,2017,0,2
+Hypolaïs ictérine,2018,0,9
+Jaseur boréal,2013,0,11
+Locustelle luscinioïde,2016,0,4
+Marouette ponctuée,2009,0,1
+Mouette mélanocéphale,2012,0,1
+Perdrix rouge,2013,0,2
+Perruche à collier,2010,0,1
+Phragmite des joncs,2016,0,1
+Pouillot de Bonelli,2016,0,1
+Pouillot siffleur,2015,0,3
+Rousserolle turdoïde,2012,0,21
+Sizerin cabaret,2018,0,7
+Sizerin flammé,2018,0,9
+Spatule blanche,2015,0,2
+Sterne naine,2009,0,4
+Vautour fauve,2013,0,1

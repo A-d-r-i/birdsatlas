@@ -1,43 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Barge à queue noire"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau minute"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Butor étoilé"
-"0";"Canard pilet"
-"0";"Chevalier arlequin"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Faucon pèlerin"
-"0";"Fauvette babillarde"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe à cou noir"
-"0";"Guifette moustac"
-"0";"Harle bièvre"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rochers"
-"0";"Ibis falcinelle"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Oie à tête barrée"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Pie-grièche à tête rousse"
-"0";"Pie-grièche grise"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Rémiz penduline"
-"0";"Rollier d'Europe"
-"0";"Rousserolle turdoïde"
-"0";"Spatule blanche"
+frname,lastobs,newcount,oldcount
+Aigle botté,2009,0,7
+Barge à queue noire,2011,0,1
+Bécasseau cocorli,2009,0,1
+Bécasseau minute,2009,0,2
+Bernache nonnette,2012,0,1
+Blongios nain,2012,0,3
+Bruant jaune,2016,0,4
+Busard Saint-Martin,2018,0,16
+Butor étoilé,2017,0,50
+Canard pilet,2017,0,25
+Chevalier arlequin,2011,0,4
+Chevalier sylvain,2017,0,16
+Combattant varié,2014,0,8
+Courlis corlieu,2014,0,2
+Faucon émerillon,2017,0,2
+Faucon pèlerin,2018,0,14
+Fauvette babillarde,2013,0,2
+Garrot à oeil d'or,2013,0,3
+Goéland cendré,2016,0,18
+Gorgebleue à miroir,2016,0,2
+Guifette moustac,2017,0,59
+Harle bièvre,2014,0,4
+Harle piette,2012,0,4
+Hibou moyen-duc,2015,0,8
+Hirondelle de rochers,2017,0,2
+Ibis falcinelle,2017,0,2
+Mouette mélanocéphale,2017,0,8
+Mouette pygmée,2014,0,3
+Oie à tête barrée,2018,0,1
+Perdrix grise,2016,0,10
+Perruche à collier,2012,0,1
+Pie-grièche à tête rousse,2018,0,3
+Pie-grièche grise,2019,0,1
+Pouillot de Bonelli,2009,0,1
+Pouillot siffleur,2013,0,3
+Rémiz penduline,2016,0,2
+Rollier d'Europe,2013,0,6
+Rousserolle turdoïde,2015,0,7
+Spatule blanche,2014,0,3

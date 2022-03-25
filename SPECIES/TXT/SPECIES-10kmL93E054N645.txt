@@ -1,12 +1,12 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bruant fou
-0        Bruant proyer
-0        Busard Saint-Martin
-0        Canard mandarin
-0        Gobemouche gris
-0        Pigeon colombin
-0        Tichodrome échelette
-0        Vanneau huppé
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bruant fou           2011    0        1
+Bruant proyer        2012    0        2
+Busard Saint-Martin  2017    0        1
+Canard mandarin      2015    0        1
+Gobemouche gris      2017    0        3
+Pigeon colombin      2017    0        3
+Tichodrome échelette 2012    0        2
+Vanneau huppé        2012    0        1
 

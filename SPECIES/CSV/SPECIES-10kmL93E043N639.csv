@@ -1,39 +1,37 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette des champs"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette printanière"
-"0";"Bihoreau gris"
-"0";"Busard des roseaux"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Goéland cendré"
-"0";"Grande Aigrette"
-"0";"Grèbe castagneux"
-"0";"Grive litorne"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Linotte mélodieuse"
-"0";"Merle à plastron"
-"0";"Oie cendrée"
-"0";"Perruche à collier"
-"0";"Pie-grièche écorcheur"
-"0";"Pinson du Nord"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot siffleur"
-"0";"Roitelet huppé"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Aigle botté,2016,0,5
+Alouette des champs,2012,0,2
+Autour des palombes,2017,0,3
+Bécassine des marais,2012,0,2
+Bergeronnette printanière,2011,0,3
+Bihoreau gris,2016,0,1
+Busard des roseaux,2011,0,1
+Caille des blés,2018,0,1
+Canard carolin,2011,0,2
+Canard chipeau,2012,0,1
+Chevalier culblanc,2013,0,1
+Chevalier guignette,2016,0,6
+Chevalier sylvain,2012,0,3
+Cigogne noire,2014,0,1
+Engoulevent d'Europe,2018,0,8
+Faisan de Colchide,2018,0,24
+Fauvette des jardins,2018,0,7
+Foulque macroule,2011,0,1
+Fuligule milouin,2011,0,1
+Goéland cendré,2009,0,1
+Grande Aigrette,2017,0,2
+Grèbe castagneux,2013,0,1
+Grive litorne,2018,0,7
+Hibou des marais,2017,0,1
+Hibou moyen-duc,2018,0,1
+Linotte mélodieuse,2018,0,10
+Merle à plastron,2015,0,1
+Oie cendrée,2017,0,2
+Perruche à collier,2017,0,1
+Pie-grièche écorcheur,2014,0,1
+Pinson du Nord,2018,0,6
+Pouillot de Bonelli,2017,0,7
+Pouillot siffleur,2014,0,1
+Roitelet huppé,2019,0,4
+Traquet motteux,2013,0,1
+Vanneau huppé,2015,0,15

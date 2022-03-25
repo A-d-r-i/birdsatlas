@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Bihoreau gris"
-"0";"Bouvreuil pivoine"
-"0";"Busard cendré"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Moineau friquet"
-"0";"Perroquet jaco"
-"0";"Petit Gravelot"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Rousserolle turdoïde"
-"0";"Sarcelle d'hiver"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,2
+Bécasse des bois,2010,0,1
+Bernache du Canada,2011,0,1
+Bihoreau gris,2009,0,1
+Bouvreuil pivoine,2018,0,1
+Busard cendré,2012,0,1
+Cigogne blanche,2015,0,3
+Corbeau freux,2018,0,2
+Coucou gris,2009,0,1
+Grèbe huppé,2009,0,1
+Héron pourpré,2009,0,1
+Hibou des marais,2018,0,1
+Hibou moyen-duc,2018,0,10
+Hirondelle de rivage,2009,0,1
+Moineau friquet,2018,0,3
+Perroquet jaco,2017,0,1
+Petit Gravelot,2013,0,3
+Pigeon biset (origine naturelle),2016,0,1
+Rousserolle turdoïde,2009,0,1
+Sarcelle d'hiver,2018,0,1

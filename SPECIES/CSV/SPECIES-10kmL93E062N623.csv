@@ -1,41 +1,39 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Autour des palombes"
-"0";"Bécassine des marais"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Bruant ortolan"
-"0";"Busard des roseaux"
-"0";"Busard pâle"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Échasse blanche"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Faucon pèlerin"
-"0";"Fauvette pitchou"
-"0";"Fuligule milouin"
-"0";"Grand Corbeau"
-"0";"Grand-duc d'Europe"
-"0";"Gravelot à collier interrompu"
-"0";"Grive litorne"
-"0";"Grosbec casse-noyaux"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix grise"
-"0";"Petit-duc scops"
-"0";"Pic noir"
-"0";"Pie-grièche à tête rousse"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Rémiz penduline"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Tarin des aulnes"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Aigle royal,2009,0,1
+Autour des palombes,2015,0,3
+Bécassine des marais,2012,0,2
+Bergeronnette des ruisseaux,2017,0,3
+Bernache nonnette,2009,0,1
+Bihoreau gris,2011,0,3
+Bruant ortolan,2009,0,1
+Busard des roseaux,2017,0,4
+Busard pâle,2010,0,1
+Canard chipeau,2015,0,1
+Canard siffleur,2014,0,2
+Échasse blanche,2018,0,4
+Engoulevent d'Europe,2017,0,17
+Faucon kobez,2011,0,1
+Faucon pèlerin,2018,0,7
+Fauvette pitchou,2018,0,1
+Fuligule milouin,2015,0,3
+Grand Corbeau,2012,0,3
+Grand-duc d'Europe,2009,0,2
+Gravelot à collier interrompu,2013,0,1
+Grive litorne,2017,0,1
+Grosbec casse-noyaux,2016,0,3
+Hibou moyen-duc,2009,0,1
+Mésange noire,2017,0,2
+Moineau friquet,2016,0,1
+Mouette rieuse,2018,0,3
+Perdrix grise,2017,0,1
+Petit-duc scops,2009,0,1
+Pic noir,2017,0,1
+Pie-grièche à tête rousse,2016,0,2
+Pinson du Nord,2017,0,3
+Pipit rousseline,2009,0,1
+Rémiz penduline,2017,0,2
+Rougequeue à front blanc,2009,0,2
+Rousserolle effarvatte,2017,0,4
+Sarcelle d'hiver,2018,0,4
+Tarin des aulnes,2013,0,1
+Traquet motteux,2016,0,1

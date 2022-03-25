@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Cigogne noire"
-"0";"Crabier chevelu"
-"0";"Grand-duc d'Europe"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Pic cendré"
-"0";"Pie-grièche à tête rousse"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2017,0,2
+Bec-croisé des sapins,2009,0,1
+Cigogne noire,2013,0,1
+Crabier chevelu,2017,0,1
+Grand-duc d'Europe,2018,0,1
+Harle bièvre,2013,0,3
+Hibou moyen-duc,2016,0,4
+Moineau friquet,2013,0,5
+Pic cendré,2009,0,1
+Pie-grièche à tête rousse,2009,0,1
+Pouillot siffleur,2013,0,2
+Rousserolle turdoïde,2009,0,1

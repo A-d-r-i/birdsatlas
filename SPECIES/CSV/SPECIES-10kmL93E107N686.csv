@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Busard Saint-Martin"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Courlis cendré"
-"0";"Cygne chanteur"
-"0";"Cygne noir"
-"0";"Fauvette babillarde"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland pontique"
-"0";"Grand Corbeau"
-"0";"Grive mauvis"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Marouette ponctuée"
-"0";"Pie-grièche grise"
-"0";"Rémiz penduline"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2019,0,1
+Bécassine des marais,2017,0,4
+Busard Saint-Martin,2013,0,3
+Chevalier guignette,2017,0,2
+Cincle plongeur,2010,0,1
+Courlis cendré,2008,0,1
+Cygne chanteur,2018,0,4
+Cygne noir,2018,0,17
+Fauvette babillarde,2017,0,2
+Gobemouche noir,2014,0,1
+Goéland brun,2018,0,1
+Goéland cendré,2018,0,16
+Goéland pontique,2018,0,1
+Grand Corbeau,2017,0,3
+Grive mauvis,2011,0,1
+Harle piette,2017,0,11
+Hibou moyen-duc,2018,0,3
+Marouette ponctuée,2008,0,1
+Pie-grièche grise,2010,0,1
+Rémiz penduline,2017,0,1
+Tadorne de Belon,2013,0,3

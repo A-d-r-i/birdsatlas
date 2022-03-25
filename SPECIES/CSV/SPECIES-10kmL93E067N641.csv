@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant ortolan"
-"0";"Canard pilet"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Gobemouche gris"
-"0";"Grand-duc d'Europe"
-"0";"Grèbe castagneux"
-"0";"Héron garde-boeufs"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Pie-grièche à tête rousse"
-"0";"Pipit rousseline"
-"0";"Pouillot fitis"
-"0";"Râle d'eau"
-"0";"Roitelet huppé"
-"0";"Tichodrome échelette"
-"0";"Tourterelle des bois"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Aigle royal,2013,0,1
+Aigrette garzette,2017,0,1
+Autour des palombes,2018,0,6
+Bécasse des bois,2015,0,2
+Bergeronnette printanière,2017,0,5
+Bruant ortolan,2016,0,2
+Canard pilet,2015,0,1
+Chevalier culblanc,2008,0,1
+Cigogne blanche,2011,0,1
+Cigogne noire,2016,0,6
+Faisan vénéré,2015,0,1
+Faucon émerillon,2017,0,1
+Gobemouche gris,2013,0,5
+Grand-duc d'Europe,2016,0,7
+Grèbe castagneux,2015,0,1
+Héron garde-boeufs,2012,0,1
+Hibou des marais,2009,0,2
+Hibou moyen-duc,2016,0,1
+Mésange noire,2018,0,17
+Mouette rieuse,2008,0,1
+Pie-grièche à tête rousse,2016,0,4
+Pipit rousseline,2017,0,1
+Pouillot fitis,2018,0,5
+Râle d'eau,2015,0,1
+Roitelet huppé,2015,0,7
+Tichodrome échelette,2014,0,3
+Tourterelle des bois,2018,0,4
+Vautour moine,2016,0,2

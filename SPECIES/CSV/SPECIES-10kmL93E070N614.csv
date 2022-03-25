@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Bec-croisé des sapins"
-"0";"Bondrée apivore"
-"0";"Busard des roseaux"
-"0";"Chouette hulotte"
-"0";"Étourneau sansonnet"
-"0";"Faucon crécerellette"
-"0";"Faucon hobereau"
-"0";"Geai des chênes"
-"0";"Gobemouche noir"
-"0";"Goéland leucophée"
-"0";"Hirondelle rousseline"
-"0";"Martinet pâle"
-"0";"Mésange bleue"
-"0";"Milan royal"
-"0";"Moineau domestique"
-"0";"Pic épeiche"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit farlouse"
-"0";"Pouillot fitis"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2016,0,1
+Bécasse des bois,2009,0,1
+Bec-croisé des sapins,2012,0,1
+Bondrée apivore,2010,0,3
+Busard des roseaux,2017,0,9
+Chouette hulotte,2016,0,1
+Étourneau sansonnet,2012,0,2
+Faucon crécerellette,2016,0,1
+Faucon hobereau,2016,0,2
+Geai des chênes,2012,0,2
+Gobemouche noir,2014,0,3
+Goéland leucophée,2014,0,2
+Hirondelle rousseline,2015,0,6
+Martinet pâle,2015,0,2
+Mésange bleue,2018,0,6
+Milan royal,2017,0,3
+Moineau domestique,2018,0,1
+Pic épeiche,2009,0,1
+Pie-grièche écorcheur,2012,0,1
+Pipit farlouse,2017,0,3
+Pouillot fitis,2016,0,1
+Rougequeue à front blanc,2016,0,2
+Rougequeue noir,2016,0,10
+Traquet motteux,2014,0,1

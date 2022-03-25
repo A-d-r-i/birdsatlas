@@ -1,8 +1,6 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Canard mandarin"
-"0";"Goéland pontique"
-"0";"Moineau friquet"
-"0";"Mouette pygmée"
-"0";"Pouillot à grands sourcils"
+frname,lastobs,newcount,oldcount
+Canard mandarin,2018,0,3
+Goéland pontique,2016,0,1
+Moineau friquet,2015,0,2
+Mouette pygmée,2018,0,1
+Pouillot à grands sourcils,2019,0,5

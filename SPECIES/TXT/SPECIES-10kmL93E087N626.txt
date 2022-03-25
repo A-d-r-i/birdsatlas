@@ -1,79 +1,79 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette calandrelle
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasseau sanderling
-0        Bécasse des bois
-0        Bergeronnette flavéole (M.f.flavissima)
-0        Bernache nonnette
-0        Blongios nain
-0        Bruant des neiges
-0        Bruant fou
-0        Bruant jaune
-0        Bruant nain
-0        Busard pâle
-0        Buse pattue
-0        Butor étoilé
-0        Caille des blés
-0        Calopsitte élégante
-0        Chevalier stagnatile
-0        Cigogne noire
-0        Corneille mantelée
-0        Cygne chanteur
-0        Cygne noir
-0        Dendrocygne fauve
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Érismature rousse
-0        Étourneau unicolore
-0        Faucon crécerellette
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fauvette des jardins
-0        Fauvette passerinette
-0        Fuligule milouin
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Goéland à ailes blanches
-0        Goéland d'Audouin
-0        Grèbe jougris
-0        Grive draine
-0        Grive litorne
-0        Guifette leucoptère
-0        Harelde boréale
-0        Harle bièvre
-0        Héron vert
-0        Hirondelle de rochers
-0        Ibis sacré
-0        Inséparable masqué
-0        Labbe parasite
-0        Locustelle luscinioïde
-0        Locustelle tachetée
-0        Marouette ponctuée
-0        Marouette poussin
-0        Martinet à ventre blanc
-0        Mésange huppée
-0        Monticole de roche
-0        Mouette de Sabine
-0        Mouette pygmée
-0        Mouette tridactyle
-0        Paon bleu
-0        Phalarope à bec étroit
-0        Phalarope à bec large
-0        Phragmite des joncs
-0        Pie-grièche écorcheur
-0        Pie-grièche méridionale
-0        Pigeon colombin
-0        Pipit de Richard
-0        Pipit des arbres
-0        Pluvier guignard
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Sittelle torchepot
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Spatule blanche
+frname                                  lastobs newcount oldcount
+------                                  ------- -------- --------
+Alouette calandrelle                    2017    0        8
+Autour des palombes                     2016    0        6
+Barge à queue noire                     2017    0        41
+Bécasseau sanderling                    2018    0        103
+Bécasse des bois                        2012    0        1
+Bergeronnette flavéole (M.f.flavissima) 2017    0        8
+Bernache nonnette                       2011    0        1
+Blongios nain                           2018    0        5
+Bruant des neiges                       2012    0        5
+Bruant fou                              2016    0        7
+Bruant jaune                            2017    0        3
+Bruant nain                             2015    0        1
+Busard pâle                             2009    0        1
+Buse pattue                             2010    0        8
+Butor étoilé                            2018    0        6
+Caille des blés                         2015    0        12
+Calopsitte élégante                     2012    0        2
+Chevalier stagnatile                    2012    0        8
+Cigogne noire                           2016    0        4
+Corneille mantelée                      2011    0        5
+Cygne chanteur                          2015    0        1
+Cygne noir                              2018    0        23
+Dendrocygne fauve                       2011    0        3
+Effraie des clochers                    2016    0        15
+Engoulevent d'Europe                    2018    0        10
+Érismature rousse                       2014    0        2
+Étourneau unicolore                     2016    0        17
+Faucon crécerellette                    2010    0        1
+Faucon d'Eléonore                       2016    0        2
+Faucon kobez                            2015    0        4
+Fauvette des jardins                    2016    0        21
+Fauvette passerinette                   2015    0        7
+Fuligule milouin                        2015    0        7
+Fuligule nyroca                         2017    0        1
+Garrot à oeil d'or                      2019    0        5
+Gobemouche gris                         2018    0        26
+Goéland à ailes blanches                2017    0        10
+Goéland d'Audouin                       2010    0        2
+Grèbe jougris                           2015    0        29
+Grive draine                            2012    0        3
+Grive litorne                           2017    0        12
+Guifette leucoptère                     2015    0        13
+Harelde boréale                         2018    0        105
+Harle bièvre                            2011    0        5
+Héron vert                              2007    0        1
+Hirondelle de rochers                   2016    0        6
+Ibis sacré                              2017    0        1
+Inséparable masqué                      2012    0        1
+Labbe parasite                          2010    0        1
+Locustelle luscinioïde                  2017    0        2
+Locustelle tachetée                     2017    0        3
+Marouette ponctuée                      2016    0        1
+Marouette poussin                       2010    0        2
+Martinet à ventre blanc                 2018    0        70
+Mésange huppée                          2018    0        3
+Monticole de roche                      2008    0        1
+Mouette de Sabine                       2010    0        1
+Mouette pygmée                          2018    0        6
+Mouette tridactyle                      2009    0        4
+Paon bleu                               2016    0        1
+Phalarope à bec étroit                  2010    0        1
+Phalarope à bec large                   2018    0        7
+Phragmite des joncs                     2017    0        9
+Pie-grièche écorcheur                   2014    0        26
+Pie-grièche méridionale                 2012    0        2
+Pigeon colombin                         2015    0        11
+Pipit de Richard                        2018    0        8
+Pipit des arbres                        2017    0        54
+Pluvier guignard                        2018    0        10
+Pouillot fitis                          2018    0        111
+Pouillot siffleur                       2015    0        2
+Sittelle torchepot                      2008    0        1
+Sizerin cabaret                         2018    0        1
+Sizerin flammé                          2018    0        1
+Spatule blanche                         2017    0        3
 

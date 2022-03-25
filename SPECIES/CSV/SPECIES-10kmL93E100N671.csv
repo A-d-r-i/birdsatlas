@@ -1,18 +1,16 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bernache du Canada"
-"0";"Busard cendré"
-"0";"Canard mandarin"
-"0";"Chevalier guignette"
-"0";"Chevalier sylvain"
-"0";"Cigogne noire"
-"0";"Fuligule milouin"
-"0";"Grèbe castagneux"
-"0";"Locustelle tachetée"
-"0";"Mouette rieuse"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Rousserolle verderolle"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2008,0,1
+Bernache du Canada,2016,0,1
+Busard cendré,2007,0,1
+Canard mandarin,2017,0,2
+Chevalier guignette,2017,0,3
+Chevalier sylvain,2016,0,1
+Cigogne noire,2017,0,7
+Fuligule milouin,2011,0,1
+Grèbe castagneux,2013,0,2
+Locustelle tachetée,2013,0,1
+Mouette rieuse,2016,0,2
+Perruche à collier,2010,0,2
+Petit Gravelot,2016,0,13
+Rousserolle verderolle,2014,0,1
+Vanneau huppé,2018,0,1

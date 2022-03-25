@@ -1,29 +1,27 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bergeronnette printanière"
-"0";"Bruant fou"
-"0";"Busard cendré"
-"0";"Caille des blés"
-"0";"Cassenoix moucheté"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Circaète Jean-le-Blanc"
-"0";"Fauvette passerinette"
-"0";"Foulque macroule"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland leucophée"
-"0";"Grèbe castagneux"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Hypolaïs polyglotte"
-"0";"Monticole de roche"
-"0";"Perdrix rouge"
-"0";"Tourterelle des bois"
-"0";"Tourterelle turque"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2018,0,5
+Bergeronnette printanière,2014,0,3
+Bruant fou,2017,0,11
+Busard cendré,2008,0,3
+Caille des blés,2018,0,3
+Cassenoix moucheté,2017,0,4
+Chevalier culblanc,2010,0,1
+Chevalier guignette,2010,0,3
+Chevêche d'Athéna,2009,0,1
+Circaète Jean-le-Blanc,2009,0,1
+Fauvette passerinette,2008,0,1
+Foulque macroule,2016,0,1
+Fuligule milouin,2011,0,1
+Gallinule poule-d'eau,2019,0,11
+Gobemouche noir,2017,0,1
+Goéland brun,2017,0,1
+Goéland leucophée,2012,0,2
+Grèbe castagneux,2018,0,22
+Hibou moyen-duc,2015,0,9
+Huppe fasciée,2017,0,6
+Hypolaïs polyglotte,2012,0,3
+Monticole de roche,2009,0,1
+Perdrix rouge,2016,0,1
+Tourterelle des bois,2017,0,1
+Tourterelle turque,2018,0,16
+Vanneau huppé,2015,0,1

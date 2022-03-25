@@ -1,19 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Chardonneret élégant"
-"0";"Chevalier guignette"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Gallinule poule-d'eau"
-"0";"Grive litorne"
-"0";"Guêpier d'Europe"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de fenêtre"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Martinet noir"
-"0";"Rousserolle verderolle"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Chardonneret élégant,2013,0,4
+Chevalier guignette,2018,0,2
+Cincle plongeur,2012,0,2
+Effraie des clochers,2018,0,2
+Faucon hobereau,2014,0,3
+Fauvette babillarde,2009,0,1
+Gallinule poule-d'eau,2017,0,4
+Grive litorne,2013,0,2
+Guêpier d'Europe,2018,0,1
+Hibou moyen-duc,2018,0,6
+Hirondelle de fenêtre,2009,0,1
+Huppe fasciée,2018,0,1
+Linotte mélodieuse,2009,0,1
+Martinet noir,2015,0,3
+Rousserolle verderolle,2009,0,1
+Tourterelle des bois,2009,0,1

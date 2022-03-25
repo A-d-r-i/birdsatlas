@@ -1,70 +1,67 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Canard carolin"
-"0";"Canard chipeau"
-"0";"Canard siffleur"
-"0";"Chardonneret élégant"
-"0";"Chevalier aboyeur"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne noire"
-"0";"Effraie des clochers"
-"0";"Épervier d'Europe"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette babillarde"
-"0";"Fauvette des jardins"
-"0";"Fauvette grisette"
-"0";"Fuligule milouin"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grimpereau des jardins"
-"0";"Grive litorne"
-"0";"Grive musicienne"
-"0";"Hibou des marais"
-"0";"Hirondelle rustique"
-"0";"Hypolaïs polyglotte"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Martinet noir"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange à longue queue"
-"0";"Mésange huppée"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Pic épeiche"
-"0";"Pic noir"
-"0";"Pic vert"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pigeon colombin"
-"0";"Pinson du Nord"
-"0";"Pipit des arbres"
-"0";"Pipit farlouse"
-"0";"Pluvier doré"
-"0";"Pouillot fitis"
-"0";"Pouillot véloce"
-"0";"Râle des genêts"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Rougegorge familier"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Sarcelle d'hiver"
-"0";"Serin cini"
-"0";"Sittelle torchepot"
-"0";"Tarier des prés"
-"0";"Tarier pâtre"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
-"0";"Troglodyte mignon"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2015,0,6
+Bondrée apivore,2009,0,1
+Bouvreuil pivoine,2012,0,2
+Bruant des roseaux,2010,0,1
+Bruant jaune,2017,0,23
+Caille des blés,2015,0,6
+Canard carolin,2011,0,2
+Canard chipeau,2010,0,1
+Canard siffleur,2011,0,2
+Chardonneret élégant,2012,0,5
+Chevalier aboyeur,2012,0,1
+Chevêche d'Athéna,2018,0,3
+Cigogne noire,2017,0,5
+Effraie des clochers,2015,0,7
+Épervier d'Europe,2012,0,3
+Faucon émerillon,2012,0,3
+Faucon hobereau,2012,0,4
+Fauvette babillarde,2015,0,3
+Fauvette des jardins,2012,0,7
+Fauvette grisette,2012,0,6
+Fuligule milouin,2012,0,4
+Gallinule poule-d'eau,2015,0,3
+Gobemouche gris,2017,0,2
+Grèbe castagneux,2012,0,4
+Grèbe huppé,2012,0,4
+Grimpereau des jardins,2012,0,6
+Grive litorne,2013,0,9
+Grive musicienne,2013,0,13
+Hibou des marais,2016,0,5
+Hirondelle rustique,2018,0,20
+Hypolaïs polyglotte,2015,0,6
+Locustelle tachetée,2012,0,2
+Loriot d'Europe,2012,0,3
+Martinet noir,2013,0,2
+Martin-pêcheur d'Europe,2012,0,7
+Mésange à longue queue,2012,0,9
+Mésange huppée,2012,0,2
+Mouette rieuse,2013,0,1
+Oedicnème criard,2016,0,9
+Pic épeiche,2012,0,5
+Pic noir,2017,0,3
+Pic vert,2012,0,4
+Pie-grièche écorcheur,2012,0,4
+Pigeon biset domestique,2017,0,8
+Pigeon colombin,2018,0,1
+Pinson du Nord,2010,0,4
+Pipit des arbres,2012,0,12
+Pipit farlouse,2017,0,2
+Pluvier doré,2016,0,3
+Pouillot fitis,2012,0,6
+Pouillot véloce,2018,0,22
+Râle des genêts,2013,0,5
+Roitelet à triple bandeau,2011,0,1
+Roitelet huppé,2012,0,4
+Rossignol philomèle,2012,0,9
+Rougegorge familier,2013,0,22
+Rougequeue à front blanc,2012,0,2
+Rousserolle effarvatte,2012,0,2
+Sarcelle d'hiver,2013,0,7
+Serin cini,2012,0,3
+Sittelle torchepot,2012,0,3
+Tarier des prés,2012,0,4
+Tarier pâtre,2015,0,10
+Tourterelle des bois,2012,0,11
+Traquet motteux,2017,0,4
+Troglodyte mignon,2012,0,10

@@ -1,32 +1,30 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasse des bois"
-"0";"Bernache nonnette"
-"0";"Canard carolin"
-"0";"Canard mandarin"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Faisan vénéré"
-"0";"Fuligule milouin"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche noir"
-"0";"Goéland cendré"
-"0";"Grimpereau des bois"
-"0";"Harle piette"
-"0";"Ibis falcinelle"
-"0";"Macreuse brune"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Nette rousse"
-"0";"Petit Gravelot"
-"0";"Pie-grièche grise"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2016,0,1
+Bécasse des bois,2016,0,2
+Bernache nonnette,2009,0,1
+Canard carolin,2018,0,1
+Canard mandarin,2017,0,1
+Canard pilet,2014,0,5
+Canard souchet,2014,0,4
+Chevalier guignette,2012,0,1
+Chevêche d'Athéna,2016,0,4
+Faisan vénéré,2016,0,1
+Fuligule milouin,2017,0,23
+Garrot à oeil d'or,2013,0,12
+Gobemouche noir,2012,0,1
+Goéland cendré,2012,0,2
+Grimpereau des bois,2015,0,3
+Harle piette,2016,0,7
+Ibis falcinelle,2017,0,1
+Macreuse brune,2009,0,1
+Merle à plastron,2013,0,1
+Mésange boréale,2016,0,9
+Mésange noire,2013,0,2
+Nette rousse,2012,0,1
+Petit Gravelot,2015,0,2
+Pie-grièche grise,2016,0,6
+Pouillot siffleur,2014,0,3
+Rousserolle verderolle,2013,0,1
+Sizerin cabaret,2009,0,1
+Sizerin flammé,2013,0,2
+Tarier des prés,2016,0,3

@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Cygne noir"
-"0";"Fuligule nyroca"
-"0";"Harle bièvre"
-"0";"Jaseur boréal"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Pluvier guignard"
+frname,lastobs,newcount,oldcount
+Cygne noir,2017,0,2
+Fuligule nyroca,2009,0,1
+Harle bièvre,2009,0,1
+Jaseur boréal,2013,0,1
+Mésange boréale,2009,0,1
+Moineau friquet,2013,0,4
+Pluvier guignard,2018,0,1

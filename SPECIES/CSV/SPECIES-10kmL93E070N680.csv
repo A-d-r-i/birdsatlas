@@ -1,44 +1,42 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle botté"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasseau sanderling"
-"0";"Bécasseau tacheté"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bruant ortolan"
-"0";"Butor étoilé"
-"0";"Chevalier arlequin"
-"0";"Chevêche d'Athéna"
-"0";"Cochevis huppé"
-"0";"Courlis corlieu"
-"0";"Faucon émerillon"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule milouinan"
-"0";"Fuligule nyroca"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Grèbe jougris"
-"0";"Harle piette"
-"0";"Hibou des marais"
-"0";"Macreuse noire"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Mésange noire"
-"0";"Moineau friquet"
-"0";"Mouette tridactyle"
-"0";"Oie à bec court"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Pie-grièche grise"
-"0";"Pouillot de Bonelli"
-"0";"Râle des genêts"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Tournepierre à collier"
+frname,lastobs,newcount,oldcount
+Aigle botté,2015,0,3
+Alouette lulu,2016,0,3
+Autour des palombes,2017,0,3
+Avocette élégante,2018,0,18
+Bécasseau cocorli,2012,0,18
+Bécasseau de Temminck,2017,0,7
+Bécasseau minute,2016,0,12
+Bécasseau sanderling,2016,0,3
+Bécasseau tacheté,2009,0,1
+Bergeronnette flavéole (M.f.flavissima),2012,0,2
+Bruant ortolan,2016,0,3
+Butor étoilé,2018,0,2
+Chevalier arlequin,2017,0,27
+Chevêche d'Athéna,2018,0,7
+Cochevis huppé,2018,0,31
+Courlis corlieu,2018,0,9
+Faucon émerillon,2017,0,12
+Fuligule à bec cerclé,2009,0,2
+Fuligule milouinan,2017,0,4
+Fuligule nyroca,2014,0,2
+Goéland brun,2017,0,8
+Goéland cendré,2017,0,13
+Grèbe jougris,2018,0,6
+Harle piette,2018,0,42
+Hibou des marais,2016,0,4
+Macreuse noire,2012,0,3
+Merle à plastron,2017,0,4
+Mésange boréale,2016,0,5
+Mésange noire,2014,0,2
+Moineau friquet,2009,0,1
+Mouette tridactyle,2009,0,1
+Oie à bec court,2009,0,1
+Oie des moissons,2017,0,3
+Oie rieuse,2017,0,22
+Pie-grièche grise,2008,0,1
+Pouillot de Bonelli,2015,0,1
+Râle des genêts,2013,0,3
+Sizerin cabaret,2012,0,1
+Sizerin flammé,2012,0,1
+Sterne arctique,2016,0,5
+Tournepierre à collier,2017,0,7

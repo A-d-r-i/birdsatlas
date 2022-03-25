@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bécasse des bois"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Bruant proyer"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon pèlerin"
-"0";"Grosbec casse-noyaux"
-"0";"Mésange nonnette"
-"0";"Mouette rieuse"
-"0";"Pic épeichette"
-"0";"Pic mar"
-"0";"Pouillot siffleur"
-"0";"Rousserolle verderolle"
-"0";"Sizerin flammé"
-"0";"Sterne pierregarin"
-"0";"Tourterelle des bois"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2016,0,1
+Bécasse des bois,2016,0,1
+Bondrée apivore,2013,0,1
+Bouvreuil pivoine,2016,0,5
+Bruant proyer,2016,0,1
+Canard souchet,2012,0,1
+Chevalier culblanc,2018,0,1
+Effraie des clochers,2018,0,7
+Faisan de Colchide,2014,0,3
+Faucon pèlerin,2016,0,1
+Grosbec casse-noyaux,2013,0,4
+Mésange nonnette,2013,0,3
+Mouette rieuse,2015,0,1
+Pic épeichette,2012,0,2
+Pic mar,2008,0,1
+Pouillot siffleur,2017,0,1
+Rousserolle verderolle,2018,0,4
+Sizerin flammé,2016,0,1
+Sterne pierregarin,2013,0,1
+Tourterelle des bois,2016,0,1
+Traquet motteux,2016,0,2

@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache cravant"
-"0";"Canard chipeau"
-"0";"Faisan doré"
-"0";"Goéland cendré"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Locustelle tachetée"
-"0";"Pipit spioncelle"
-"0";"Pouillot siffleur"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bernache cravant,2014,0,2
+Canard chipeau,2014,0,1
+Faisan doré,2017,0,5
+Goéland cendré,2016,0,1
+Héron pourpré,2018,0,2
+Hirondelle de rivage,2018,0,1
+Locustelle tachetée,2009,0,1
+Pipit spioncelle,2016,0,1
+Pouillot siffleur,2009,0,1
+Traquet motteux,2017,0,1

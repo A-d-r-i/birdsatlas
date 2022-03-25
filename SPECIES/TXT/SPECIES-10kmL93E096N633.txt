@@ -1,32 +1,32 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bouvreuil pivoine
-0        Busard cendré
-0        Caille des blés
-0        Cincle plongeur
-0        Faisan de Colchide
-0        Fauvette mélanocéphale
-0        Fauvette orphée
-0        Fauvette pitchou
-0        Gobemouche noir
-0        Grive mauvis
-0        Grive musicienne
-0        Guêpier d'Europe
-0        Héron cendré
-0        Hypolaïs polyglotte
-0        Loriot d'Europe
-0        Mésange boréale
-0        Niverolle alpine
-0        Pic épeichette
-0        Pinson du Nord
-0        Pipit farlouse
-0        Pouillot siffleur
-0        Roitelet huppé
-0        Tarier des prés
-0        Tétras lyre
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Tourterelle des bois
-0        Vautour moine
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bouvreuil pivoine      2016    0        4
+Busard cendré          2017    0        1
+Caille des blés        2013    0        1
+Cincle plongeur        2018    0        3
+Faisan de Colchide     2011    0        2
+Fauvette mélanocéphale 2009    0        1
+Fauvette orphée        2012    0        5
+Fauvette pitchou       2012    0        4
+Gobemouche noir        2018    0        2
+Grive mauvis           2014    0        1
+Grive musicienne       2017    0        29
+Guêpier d'Europe       2012    0        1
+Héron cendré           2012    0        1
+Hypolaïs polyglotte    2015    0        4
+Loriot d'Europe        2014    0        3
+Mésange boréale        2017    0        21
+Niverolle alpine       2017    0        2
+Pic épeichette         2014    0        3
+Pinson du Nord         2014    0        3
+Pipit farlouse         2018    0        2
+Pouillot siffleur      2015    0        5
+Roitelet huppé         2018    0        17
+Tarier des prés        2012    0        1
+Tétras lyre            2016    0        9
+Tichodrome échelette   2016    0        5
+Torcol fourmilier      2017    0        9
+Tourterelle des bois   2015    0        3
+Vautour moine          2018    0        4
 

@@ -1,20 +1,17 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bécasseau variable"
-"0";"Bergeronnette printanière"
-"0";"Bruant jaune"
-"0";"Busard pâle"
-"0";"Chevalier aboyeur"
-"0";"Cigogne blanche"
-"0";"Corbeau freux"
-"0";"Courlis corlieu"
-"0";"Hibou moyen-duc"
-"0";"Ibis sacré"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Phragmite des joncs"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Sarcelle d'été"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,2
+Bécasseau variable,2016,0,1
+Bergeronnette printanière,2018,0,1
+Bruant jaune,2016,0,2
+Busard pâle,2018,0,1
+Chevalier aboyeur,2018,0,2
+Cigogne blanche,2018,0,4
+Corbeau freux,2009,0,1
+Courlis corlieu,2014,0,1
+Hibou moyen-duc,2017,0,1
+Ibis sacré,2008,0,3
+Moineau friquet,2019,0,3
+Mouette rieuse,2016,0,2
+Perdrix rouge,2010,0,2
+Phragmite des joncs,2018,0,7
+Pigeon biset (origine naturelle),2009,0,1

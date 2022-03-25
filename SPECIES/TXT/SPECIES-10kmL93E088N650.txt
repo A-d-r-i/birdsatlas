@@ -1,41 +1,41 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasseau de Temminck
-0        Bécasseau variable
-0        Bihoreau gris
-0        Blongios nain
-0        Bouscarle de Cetti
-0        Butor étoilé
-0        Calopsitte élégante
-0        Canard chipeau
-0        Canard mandarin
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier gambette
-0        Cincle plongeur
-0        Cisticole des joncs
-0        Combattant varié
-0        Courlis cendré
-0        Crabier chevelu
-0        Cygne tuberculé
-0        Échasse blanche
-0        Faucon kobez
-0        Fauvette des jardins
-0        Fuligule milouin
-0        Goéland cendré
-0        Grand Gravelot
-0        Nette rousse
-0        Paon bleu
-0        Perruche ondulée
-0        Petit Gravelot
-0        Phragmite des joncs
-0        Rémiz penduline
-0        Rousserolle turdoïde
-0        Rousserolle verderolle
-0        Sarcelle d'été
-0        Spatule blanche
-0        Sterne pierregarin
-0        Tadorne casarca
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasseau de Temminck  2017    0        1
+Bécasseau variable     2018    0        12
+Bihoreau gris          2016    0        13
+Blongios nain          2011    0        2
+Bouscarle de Cetti     2015    0        3
+Butor étoilé           2012    0        2
+Calopsitte élégante    2015    0        1
+Canard chipeau         2013    0        1
+Canard mandarin        2011    0        1
+Canard pilet           2015    0        1
+Canard siffleur        2016    0        3
+Canard souchet         2017    0        4
+Chevalier gambette     2012    0        1
+Cincle plongeur        2017    0        3
+Cisticole des joncs    2016    0        5
+Combattant varié       2018    0        9
+Courlis cendré         2017    0        1
+Crabier chevelu        2013    0        1
+Cygne tuberculé        2015    0        44
+Échasse blanche        2017    0        7
+Faucon kobez           2015    0        2
+Fauvette des jardins   2009    0        2
+Fuligule milouin       2015    0        7
+Goéland cendré         2015    0        1
+Grand Gravelot         2017    0        11
+Nette rousse           2016    0        13
+Paon bleu              2014    0        1
+Perruche ondulée       2011    0        1
+Petit Gravelot         2018    0        1
+Phragmite des joncs    2017    0        1
+Rémiz penduline        2012    0        1
+Rousserolle turdoïde   2017    0        5
+Rousserolle verderolle 2018    0        26
+Sarcelle d'été         2015    0        5
+Spatule blanche        2014    0        4
+Sterne pierregarin     2017    0        3
+Tadorne casarca        2015    0        1
 

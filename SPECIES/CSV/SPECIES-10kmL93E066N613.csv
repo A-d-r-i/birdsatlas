@@ -1,24 +1,22 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette des ruisseaux"
-"0";"Busard des roseaux"
-"0";"Buse variable"
-"0";"Chardonneret élégant"
-"0";"Chouette hulotte"
-"0";"Corneille noire"
-"0";"Crave à bec rouge"
-"0";"Faucon crécerelle"
-"0";"Gobemouche noir"
-"0";"Grive draine"
-"0";"Hirondelle de fenêtre"
-"0";"Martinet noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pigeon biset domestique"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit des arbres"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Tarier pâtre"
-"0";"Vautour fauve"
-"0";"Verdier d'Europe"
+frname,lastobs,newcount,oldcount
+Bergeronnette des ruisseaux,2015,0,1
+Busard des roseaux,2015,0,1
+Buse variable,2015,0,1
+Chardonneret élégant,2009,0,1
+Chouette hulotte,2009,0,1
+Corneille noire,2015,0,1
+Crave à bec rouge,2013,0,1
+Faucon crécerelle,2013,0,1
+Gobemouche noir,2015,0,1
+Grive draine,2015,0,3
+Hirondelle de fenêtre,2015,0,1
+Martinet noir,2009,0,1
+Pie-grièche écorcheur,2009,0,1
+Pigeon biset domestique,2009,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pipit des arbres,2013,0,1
+Rougequeue noir,2018,0,3
+Serin cini,2015,0,1
+Tarier pâtre,2013,0,1
+Vautour fauve,2015,0,2
+Verdier d'Europe,2009,0,1

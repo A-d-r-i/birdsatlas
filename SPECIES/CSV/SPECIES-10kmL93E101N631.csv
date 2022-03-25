@@ -1,27 +1,25 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Chevalier culblanc"
-"0";"Chevalier guignette"
-"0";"Chevêche d'Athéna"
-"0";"Chevêchette d'Europe"
-"0";"Cincle plongeur"
-"0";"Cisticole des joncs"
-"0";"Échasse blanche"
-"0";"Étourneau sansonnet"
-"0";"Faisan de Colchide"
-"0";"Faucon kobez"
-"0";"Fauvette passerinette"
-"0";"Léiothrix jaune"
-"0";"Merle à plastron"
-"0";"Mésange boréale"
-"0";"Milan noir"
-"0";"Moineau cisalpin"
-"0";"Pic épeichette"
-"0";"Pie bavarde"
-"0";"Pigeon biset domestique"
-"0";"Rossignol philomèle"
-"0";"Tétras lyre"
-"0";"Tourterelle turque"
+frname,lastobs,newcount,oldcount
+Busard Saint-Martin,2018,0,1
+Canard colvert,2013,0,3
+Chevalier culblanc,2011,0,2
+Chevalier guignette,2015,0,1
+Chevêche d'Athéna,2009,0,1
+Chevêchette d'Europe,2015,0,3
+Cincle plongeur,2018,0,3
+Cisticole des joncs,2017,0,1
+Échasse blanche,2013,0,1
+Étourneau sansonnet,2018,0,4
+Faisan de Colchide,2018,0,2
+Faucon kobez,2015,0,1
+Fauvette passerinette,2018,0,20
+Léiothrix jaune,2018,0,3
+Merle à plastron,2018,0,4
+Mésange boréale,2017,0,6
+Milan noir,2017,0,2
+Moineau cisalpin,2018,0,11
+Pic épeichette,2017,0,5
+Pie bavarde,2016,0,11
+Pigeon biset domestique,2016,0,1
+Rossignol philomèle,2018,0,7
+Tétras lyre,2011,0,4
+Tourterelle turque,2018,0,1

@@ -1,30 +1,28 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Busard cendré"
-"0";"Busard des roseaux"
-"0";"Chevalier guignette"
-"0";"Cigogne blanche"
-"0";"Effraie des clochers"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Huppe fasciée"
-"0";"Mésange noire"
-"0";"Mouette rieuse"
-"0";"Oedicnème criard"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Pic cendré"
-"0";"Pic mar"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rousserolle turdoïde"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,3
+Bihoreau gris,2016,0,1
+Bondrée apivore,2015,0,2
+Busard cendré,2011,0,3
+Busard des roseaux,2016,0,1
+Chevalier guignette,2018,0,1
+Cigogne blanche,2018,0,5
+Effraie des clochers,2012,0,5
+Faisan vénéré,2013,0,1
+Faucon émerillon,2017,0,1
+Faucon hobereau,2013,0,1
+Grèbe huppé,2017,0,1
+Héron pourpré,2012,0,1
+Hibou moyen-duc,2012,0,4
+Huppe fasciée,2018,0,10
+Mésange noire,2010,0,2
+Mouette rieuse,2014,0,3
+Oedicnème criard,2011,0,5
+Perdrix grise,2015,0,8
+Perdrix rouge,2015,0,3
+Pic cendré,2011,0,4
+Pic mar,2011,0,3
+Pluvier doré,2012,0,1
+Pouillot siffleur,2010,0,2
+Rousserolle turdoïde,2008,0,1
+Serin cini,2016,0,12
+Sterne pierregarin,2012,0,1

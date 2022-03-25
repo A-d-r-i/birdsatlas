@@ -1,30 +1,30 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Buse pattue
-0        Canard carolin
-0        Canard pilet
-0        Cigogne noire
-0        Cygne noir
-0        Faisan vénéré
-0        Garrot à oeil d'or
-0        Goéland brun
-0        Goéland cendré
-0        Gorgebleue à miroir
-0        Grèbe à cou noir
-0        Harle piette
-0        Héron garde-boeufs
-0        Jaseur boréal
-0        Locustelle tachetée
-0        Mésange boréale
-0        Nette rousse
-0        Perdrix rouge
-0        Perruche à collier
-0        Pie-grièche grise
-0        Pipit à gorge rousse
-0        Sizerin flammé
-0        Tadorne casarca
-0        Tadorne de Belon
-0        Tourterelle des bois
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Bécasse des bois     2018    0        2
+Buse pattue          2012    0        20
+Canard carolin       2015    0        4
+Canard pilet         2017    0        3
+Cigogne noire        2015    0        3
+Cygne noir           2014    0        1
+Faisan vénéré        2007    0        1
+Garrot à oeil d'or   2015    0        1
+Goéland brun         2013    0        1
+Goéland cendré       2009    0        1
+Gorgebleue à miroir  2013    0        2
+Grèbe à cou noir     2014    0        2
+Harle piette         2015    0        1
+Héron garde-boeufs   2008    0        1
+Jaseur boréal        2014    0        41
+Locustelle tachetée  2013    0        3
+Mésange boréale      2012    0        4
+Nette rousse         2015    0        5
+Perdrix rouge        2013    0        1
+Perruche à collier   2007    0        1
+Pie-grièche grise    2019    0        6
+Pipit à gorge rousse 2010    0        1
+Sizerin flammé       2018    0        1
+Tadorne casarca      2015    0        2
+Tadorne de Belon     2017    0        1
+Tourterelle des bois 2018    0        17
 

@@ -1,29 +1,26 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bondrée apivore"
-"0";"Bruant zizi"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Effraie des clochers"
-"0";"Faisan de Colchide"
-"0";"Faucon hobereau"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche noir"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grand-duc d'Europe"
-"0";"Harle piette"
-"0";"Jaseur boréal"
-"0";"Locustelle tachetée"
-"0";"Pic cendré"
-"0";"Pipit spioncelle"
-"0";"Rousserolle turdoïde"
-"0";"Rousserolle verderolle"
-"0";"Sarcelle d'été"
-"0";"Sizerin cabaret"
-"0";"Tadorne de Belon"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2016,0,2
+Bécassine des marais,2012,0,1
+Bondrée apivore,2015,0,4
+Bruant zizi,2014,0,1
+Caille des blés,2014,0,1
+Canard siffleur,2009,0,1
+Effraie des clochers,2017,0,9
+Faisan de Colchide,2012,0,3
+Faucon hobereau,2015,0,5
+Fuligule milouinan,2010,0,3
+Garrot à oeil d'or,2013,0,5
+Gobemouche noir,2018,0,1
+Goéland cendré,2016,0,6
+Goéland leucophée,2013,0,1
+Grand-duc d'Europe,2018,0,1
+Harle piette,2010,0,2
+Jaseur boréal,2013,0,6
+Locustelle tachetée,2013,0,6
+Pipit spioncelle,2016,0,2
+Rousserolle turdoïde,2018,0,1
+Rousserolle verderolle,2017,0,5
+Sarcelle d'été,2012,0,1
+Sizerin cabaret,2013,0,3
+Tadorne de Belon,2016,0,7
+Traquet motteux,2012,0,1

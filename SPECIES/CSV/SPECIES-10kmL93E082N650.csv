@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle royal"
-"0";"Bécassine des marais"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Chevalier culblanc"
-"0";"Cigogne blanche"
-"0";"Cigogne noire"
-"0";"Cincle plongeur"
-"0";"Engoulevent d'Europe"
-"0";"Faucon kobez"
-"0";"Foulque macroule"
-"0";"Grande Aigrette"
-"0";"Grimpereau des bois"
-"0";"Héron pourpré"
-"0";"Hirondelle de rivage"
-"0";"Marouette poussin"
-"0";"Mésange boréale"
-"0";"Oie cendrée"
-"0";"Perruche ondulée"
-"0";"Petit Gravelot"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Aigle royal,2013,0,1
+Bécassine des marais,2012,0,1
+Bécassine sourde,2012,0,1
+Bec-croisé des sapins,2015,0,15
+Chevalier culblanc,2013,0,1
+Cigogne blanche,2017,0,2
+Cigogne noire,2016,0,6
+Cincle plongeur,2016,0,1
+Engoulevent d'Europe,2016,0,7
+Faucon kobez,2013,0,1
+Foulque macroule,2013,0,1
+Grande Aigrette,2013,0,3
+Grimpereau des bois,2014,0,1
+Héron pourpré,2015,0,1
+Hirondelle de rivage,2018,0,1
+Marouette poussin,2014,0,1
+Mésange boréale,2011,0,4
+Oie cendrée,2014,0,1
+Perruche ondulée,2018,0,1
+Petit Gravelot,2017,0,1
+Pipit rousseline,2016,0,1
+Pipit spioncelle,2009,0,1
+Torcol fourmilier,2017,0,6

@@ -1,27 +1,27 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Accenteur alpin
-0        Bécasseau de Temminck
-0        Bruant jaune
-0        Calopsitte élégante
-0        Canard mandarin
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Cigogne blanche
-0        Cochevis huppé
-0        Combattant varié
-0        Échasse blanche
-0        Effraie des clochers
-0        Faucon d'Eléonore
-0        Faucon kobez
-0        Fauvette des jardins
-0        Héron pourpré
-0        Hirondelle de rivage
-0        Merle à plastron
-0        Outarde canepetière
-0        Pigeon colombin
-0        Pouillot fitis
-0        Pouillot siffleur
-0        Tichodrome échelette
+frname                lastobs newcount oldcount
+------                ------- -------- --------
+Accenteur alpin       2011    0        4
+Bécasseau de Temminck 2013    0        1
+Bruant jaune          2018    0        1
+Calopsitte élégante   2016    0        1
+Canard mandarin       2013    0        2
+Chevalier aboyeur     2013    0        1
+Chevalier gambette    2013    0        2
+Cigogne blanche       2014    0        2
+Cochevis huppé        2015    0        3
+Combattant varié      2013    0        1
+Échasse blanche       2015    0        7
+Effraie des clochers  2018    0        9
+Faucon d'Eléonore     2007    0        1
+Faucon kobez          2009    0        1
+Fauvette des jardins  2018    0        1
+Héron pourpré         2015    0        6
+Hirondelle de rivage  2012    0        1
+Merle à plastron      2010    0        4
+Outarde canepetière   2012    0        2
+Pigeon colombin       2010    0        2
+Pouillot fitis        2018    0        4
+Pouillot siffleur     2012    0        1
+Tichodrome échelette  2018    0        15
 

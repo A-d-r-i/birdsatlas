@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigrette garzette"
-"0";"Bruant zizi"
-"0";"Chevalier aboyeur"
-"0";"Courlis cendré"
-"0";"Courlis corlieu"
-"0";"Fauvette grisette"
-"0";"Fuligule morillon"
-"0";"Gobemouche noir"
-"0";"Goéland à ailes blanches"
-"0";"Goéland cendré"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Moineau friquet"
-"0";"Perdrix grise"
-"0";"Perruche à collier"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic noir"
-"0";"Pipit des arbres"
-"0";"Pipit maritime"
-"0";"Pouillot fitis"
-"0";"Sarcelle d'été"
-"0";"Serin cini"
-"0";"Sterne pierregarin"
-"0";"Tadorne de Belon"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigrette garzette,2017,0,13
+Bruant zizi,2016,0,2
+Chevalier aboyeur,2016,0,1
+Courlis cendré,2009,0,1
+Courlis corlieu,2016,0,2
+Fauvette grisette,2018,0,3
+Fuligule morillon,2017,0,1
+Gobemouche noir,2018,0,2
+Goéland à ailes blanches,2009,0,1
+Goéland cendré,2016,0,3
+Grèbe castagneux,2015,0,2
+Grèbe huppé,2009,0,1
+Héron pourpré,2013,0,1
+Hibou moyen-duc,2018,0,5
+Moineau friquet,2013,0,2
+Perdrix grise,2015,0,1
+Perruche à collier,2018,0,1
+Petit Gravelot,2017,0,7
+Phragmite des joncs,2017,0,3
+Pic noir,2018,0,1
+Pipit des arbres,2018,0,1
+Pipit maritime,2009,0,1
+Pouillot fitis,2014,0,1
+Sarcelle d'été,2018,0,6
+Serin cini,2009,0,1
+Sterne pierregarin,2009,0,1
+Tadorne de Belon,2014,0,3
+Vautour fauve,2017,0,3

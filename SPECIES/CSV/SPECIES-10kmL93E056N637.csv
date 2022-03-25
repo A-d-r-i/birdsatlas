@@ -1,15 +1,13 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bruant proyer"
-"0";"Busard cendré"
-"0";"Chevalier culblanc"
-"0";"Grand Gravelot"
-"0";"Grèbe castagneux"
-"0";"Grive mauvis"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Perdrix rouge"
-"0";"Petit-duc scops"
-"0";"Roitelet huppé"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Bruant proyer,2015,0,1
+Busard cendré,2016,0,1
+Chevalier culblanc,2018,0,2
+Grand Gravelot,2016,0,1
+Grèbe castagneux,2018,0,1
+Grive mauvis,2016,0,10
+Locustelle tachetée,2018,0,1
+Moineau friquet,2014,0,5
+Perdrix rouge,2018,0,3
+Petit-duc scops,2018,0,4
+Roitelet huppé,2018,0,2
+Tarier pâtre,2016,0,1

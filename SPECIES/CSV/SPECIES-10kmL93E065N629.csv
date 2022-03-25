@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Bec-croisé des sapins"
-"0";"Bruant jaune"
-"0";"Caille des blés"
-"0";"Canard colvert"
-"0";"Effraie des clochers"
-"0";"Engoulevent d'Europe"
-"0";"Faucon émerillon"
-"0";"Goéland leucophée"
-"0";"Huppe fasciée"
-"0";"Martinet à ventre blanc"
-"0";"Mésange huppée"
-"0";"Perdrix grise"
-"0";"Pipit farlouse"
-"0";"Pipit spioncelle"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Traquet motteux"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,3
+Bec-croisé des sapins,2012,0,6
+Bruant jaune,2016,0,5
+Caille des blés,2009,0,1
+Canard colvert,2009,0,1
+Effraie des clochers,2018,0,3
+Engoulevent d'Europe,2018,0,2
+Faucon émerillon,2014,0,1
+Goéland leucophée,2010,0,1
+Huppe fasciée,2017,0,1
+Martinet à ventre blanc,2010,0,1
+Mésange huppée,2016,0,4
+Perdrix grise,2014,0,1
+Pipit farlouse,2012,0,2
+Pipit spioncelle,2014,0,1
+Pouillot fitis,2013,0,1
+Tarier des prés,2013,0,1
+Traquet motteux,2018,0,5
+Vanneau huppé,2017,0,2

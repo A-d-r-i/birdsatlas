@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Blongios nain"
-"0";"Bouvreuil pivoine"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Cigogne noire"
-"0";"Coucou geai"
-"0";"Courlis cendré"
-"0";"Cygne noir"
-"0";"Échasse blanche"
-"0";"Fauvette pitchou"
-"0";"Fuligule morillon"
-"0";"Goéland cendré"
-"0";"Grand Gravelot"
-"0";"Grive litorne"
-"0";"Hirondelle rousseline"
-"0";"Ibis falcinelle"
-"0";"Merle à plastron"
-"0";"Moineau soulcie"
-"0";"Mouette rieuse"
-"0";"Ouette d'Egypte"
-"0";"Pic noir"
-"0";"Pie-grièche méridionale"
-"0";"Pigeon colombin"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Rollier d'Europe"
-"0";"Sarcelle d'été"
-"0";"Tarier des prés"
-"0";"Tichodrome échelette"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2018,0,1
+Blongios nain,2016,0,3
+Bouvreuil pivoine,2009,0,1
+Bruant jaune,2015,0,9
+Busard cendré,2016,0,2
+Cigogne noire,2017,0,4
+Coucou geai,2007,0,1
+Courlis cendré,2010,0,2
+Cygne noir,2013,0,10
+Échasse blanche,2016,0,3
+Fauvette pitchou,2015,0,1
+Fuligule morillon,2017,0,8
+Goéland cendré,2011,0,4
+Grand Gravelot,2010,0,1
+Grive litorne,2017,0,3
+Hirondelle rousseline,2017,0,1
+Ibis falcinelle,2017,0,1
+Merle à plastron,2014,0,1
+Moineau soulcie,2017,0,1
+Mouette rieuse,2018,0,6
+Ouette d'Egypte,2018,0,109
+Pic noir,2015,0,3
+Pie-grièche méridionale,2016,0,1
+Pigeon colombin,2018,0,1
+Pluvier doré,2013,0,4
+Pouillot siffleur,2016,0,2
+Rollier d'Europe,2015,0,5
+Sarcelle d'été,2013,0,4
+Tarier des prés,2018,0,7
+Tichodrome échelette,2010,0,2

@@ -1,26 +1,24 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Caille des blés"
-"0";"Canard siffleur"
-"0";"Canard souchet"
-"0";"Chevalier culblanc"
-"0";"Chevêche d'Athéna"
-"0";"Cigogne blanche"
-"0";"Circaète Jean-le-Blanc"
-"0";"Faucon pèlerin"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Hirondelle de rivage"
-"0";"Loriot d'Europe"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Pie-grièche à tête rousse"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Tarin des aulnes"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Bergeronnette printanière,2018,0,2
+Bruant des roseaux,2016,0,7
+Caille des blés,2014,0,2
+Canard siffleur,2014,0,5
+Canard souchet,2017,0,1
+Chevalier culblanc,2013,0,1
+Chevêche d'Athéna,2015,0,1
+Cigogne blanche,2018,0,1
+Circaète Jean-le-Blanc,2018,0,1
+Faucon pèlerin,2015,0,5
+Fauvette des jardins,2018,0,1
+Gobemouche gris,2013,0,3
+Hirondelle de rivage,2012,0,1
+Loriot d'Europe,2018,0,11
+Mésange huppée,2018,0,1
+Moineau friquet,2018,0,3
+Pie-grièche à tête rousse,2018,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pigeon colombin,2018,0,1
+Roitelet huppé,2017,0,1
+Rougequeue à front blanc,2018,0,3
+Tarin des aulnes,2018,0,6
+Vautour fauve,2013,0,1

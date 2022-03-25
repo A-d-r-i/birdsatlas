@@ -1,23 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bruant des roseaux"
-"0";"Bruant fou"
-"0";"Chouette de Tengmalm"
-"0";"Cincle plongeur"
-"0";"Effraie des clochers"
-"0";"Fauvette des jardins"
-"0";"Grive litorne"
-"0";"Linotte mélodieuse"
-"0";"Pipit farlouse"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Pouillot siffleur"
-"0";"Râle d'eau"
-"0";"Rousserolle effarvatte"
-"0";"Tichodrome échelette"
-"0";"Torcol fourmilier"
-"0";"Vanneau huppé"
+frname,lastobs,newcount,oldcount
+Accenteur alpin,2013,0,1
+Alouette des champs,2017,0,2
+Bécasse des bois,2013,0,2
+Bruant des roseaux,2013,0,2
+Bruant fou,2012,0,2
+Chouette de Tengmalm,2016,0,2
+Cincle plongeur,2014,0,4
+Effraie des clochers,2015,0,5
+Fauvette des jardins,2013,0,5
+Grive litorne,2017,0,3
+Linotte mélodieuse,2015,0,2
+Pipit farlouse,2017,0,2
+Pouillot de Bonelli,2015,0,1
+Pouillot fitis,2013,0,5
+Pouillot siffleur,2015,0,2
+Râle d'eau,2011,0,2
+Rousserolle effarvatte,2015,0,1
+Tichodrome échelette,2018,0,2
+Torcol fourmilier,2016,0,2
+Vanneau huppé,2009,0,2

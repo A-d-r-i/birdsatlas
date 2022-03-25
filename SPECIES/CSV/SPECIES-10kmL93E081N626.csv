@@ -1,49 +1,47 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Aigle criard"
-"0";"Astrild ondulé"
-"0";"Autour des palombes"
-"0";"Bécasseau de Bonaparte"
-"0";"Bécasse des bois"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache cravant"
-"0";"Bernache nonnette"
-"0";"Bruant des neiges"
-"0";"Bruant jaune"
-"0";"Bruant lapon"
-"0";"Busard pâle"
-"0";"Chevalier bargette"
-"0";"Chevêche d'Athéna"
-"0";"Conure veuve"
-"0";"Dendrocygne fauve"
-"0";"Dendrocygne veuf"
-"0";"Élanion blanc"
-"0";"Étourneau unicolore"
-"0";"Fuligule milouinan"
-"0";"Gobemouche à demi-collier"
-"0";"Goéland argenté"
-"0";"Grand Labbe"
-"0";"Grèbe jougris"
-"0";"Harelde boréale"
-"0";"Harle piette"
-"0";"Hypolaïs ictérine"
-"0";"Locustelle luscinioïde"
-"0";"Macareux moine"
-"0";"Marouette poussin"
-"0";"Mésange à longue queue"
-"0";"Mésange noire"
-"0";"Moineau cisalpin"
-"0";"Monticole de roche"
-"0";"Océanite tempête"
-"0";"Oie des moissons"
-"0";"Oie rieuse"
-"0";"Ouette d'Egypte"
-"0";"Perruche ondulée"
-"0";"Petit-duc scops"
-"0";"Pipit de Richard"
-"0";"Pouillot ibérique"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Tadorne casarca"
-"0";"Vautour fauve"
+frname,lastobs,newcount,oldcount
+Aigle criard,2017,0,3
+Astrild ondulé,2016,0,1
+Autour des palombes,2017,0,4
+Bécasseau de Bonaparte,2017,0,7
+Bécasse des bois,2015,0,2
+Bergeronnette flavéole (M.f.flavissima),2015,0,2
+Bernache cravant,2012,0,4
+Bernache nonnette,2012,0,1
+Bruant des neiges,2014,0,14
+Bruant jaune,2016,0,1
+Bruant lapon,2010,0,1
+Busard pâle,2013,0,3
+Chevalier bargette,2017,0,29
+Chevêche d'Athéna,2017,0,4
+Conure veuve,2018,0,1
+Dendrocygne fauve,2014,0,48
+Dendrocygne veuf,2012,0,2
+Élanion blanc,2011,0,1
+Étourneau unicolore,2010,0,2
+Fuligule milouinan,2011,0,28
+Gobemouche à demi-collier,2018,0,18
+Goéland argenté,2018,0,3
+Grand Labbe,2016,0,11
+Grèbe jougris,2019,0,10
+Harelde boréale,2010,0,3
+Harle piette,2011,0,3
+Hypolaïs ictérine,2018,0,5
+Locustelle luscinioïde,2016,0,1
+Macareux moine,2007,0,2
+Marouette poussin,2015,0,1
+Mésange à longue queue,2017,0,25
+Mésange noire,2018,0,5
+Moineau cisalpin,2017,0,2
+Monticole de roche,2017,0,1
+Océanite tempête,2009,0,1
+Oie des moissons,2013,0,5
+Oie rieuse,2013,0,3
+Ouette d'Egypte,2012,0,1
+Perruche ondulée,2015,0,1
+Petit-duc scops,2015,0,3
+Pipit de Richard,2013,0,1
+Pouillot ibérique,2018,0,1
+Sizerin cabaret,2018,0,3
+Sizerin flammé,2018,0,3
+Tadorne casarca,2017,0,1
+Vautour fauve,2013,0,5

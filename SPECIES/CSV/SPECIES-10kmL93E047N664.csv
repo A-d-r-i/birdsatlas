@@ -1,22 +1,20 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécassine des marais"
-"0";"Chevalier aboyeur"
-"0";"Chevalier arlequin"
-"0";"Chevalier gambette"
-"0";"Chevalier sylvain"
-"0";"Combattant varié"
-"0";"Courlis corlieu"
-"0";"Goéland argenté"
-"0";"Grand Gravelot"
-"0";"Locustelle tachetée"
-"0";"Moineau friquet"
-"0";"Petit Gravelot"
-"0";"Phragmite des joncs"
-"0";"Pic mar"
-"0";"Pipit rousseline"
-"0";"Pluvier guignard"
-"0";"Râle d'eau"
-"0";"Sarcelle d'hiver"
-"0";"Sterne pierregarin"
+frname,lastobs,newcount,oldcount
+Bécassine des marais,2013,0,3
+Chevalier aboyeur,2017,0,3
+Chevalier arlequin,2014,0,1
+Chevalier gambette,2018,0,3
+Chevalier sylvain,2014,0,2
+Combattant varié,2014,0,1
+Courlis corlieu,2012,0,3
+Goéland argenté,2016,0,3
+Grand Gravelot,2014,0,3
+Locustelle tachetée,2010,0,2
+Moineau friquet,2011,0,6
+Petit Gravelot,2015,0,4
+Phragmite des joncs,2010,0,1
+Pic mar,2018,0,1
+Pipit rousseline,2015,0,2
+Pluvier guignard,2010,0,1
+Râle d'eau,2012,0,3
+Sarcelle d'hiver,2015,0,2
+Sterne pierregarin,2017,0,1

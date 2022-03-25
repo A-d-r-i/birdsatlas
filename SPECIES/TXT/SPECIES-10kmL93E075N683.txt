@@ -1,45 +1,45 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Barge à queue noire
-0        Bécassine des marais
-0        Bergeronnette des ruisseaux
-0        Bondrée apivore
-0        Canard siffleur
-0        Choucas des tours
-0        Corbeau freux
-0        Coucou gris
-0        Courlis cendré
-0        Cygne tuberculé
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Foulque macroule
-0        Fuligule milouin
-0        Geai des chênes
-0        Gobemouche gris
-0        Goéland cendré
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grive mauvis
-0        Grive musicienne
-0        Grosbec casse-noyaux
-0        Hibou des marais
-0        Hirondelle de rivage
-0        Hypolaïs polyglotte
-0        Locustelle tachetée
-0        Loriot d'Europe
-0        Martin-pêcheur d'Europe
-0        Mésange huppée
-0        Mésange noire
-0        Mouette mélanocéphale
-0        Mouette rieuse
-0        Perdrix rouge
-0        Pic noir
-0        Pie-grièche écorcheur
-0        Pinson du Nord
-0        Pipit des arbres
-0        Roitelet à triple bandeau
-0        Rousserolle verderolle
-0        Sterne pierregarin
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Alouette lulu               2013    0        4
+Barge à queue noire         2018    0        1
+Bécassine des marais        2013    0        1
+Bergeronnette des ruisseaux 2012    0        3
+Bondrée apivore             2012    0        2
+Canard siffleur             2018    0        1
+Choucas des tours           2016    0        8
+Corbeau freux               2017    0        8
+Coucou gris                 2017    0        6
+Courlis cendré              2018    0        1
+Cygne tuberculé             2018    0        4
+Faucon pèlerin              2013    0        2
+Fauvette des jardins        2013    0        4
+Foulque macroule            2018    0        3
+Fuligule milouin            2018    0        2
+Geai des chênes             2018    0        7
+Gobemouche gris             2012    0        2
+Goéland cendré              2018    0        1
+Grand Cormoran              2013    0        4
+Grèbe castagneux            2017    0        1
+Grive mauvis                2018    0        3
+Grive musicienne            2013    0        8
+Grosbec casse-noyaux        2018    0        4
+Hibou des marais            2011    0        2
+Hirondelle de rivage        2013    0        1
+Hypolaïs polyglotte         2017    0        12
+Locustelle tachetée         2011    0        2
+Loriot d'Europe             2013    0        7
+Martin-pêcheur d'Europe     2012    0        2
+Mésange huppée              2018    0        4
+Mésange noire               2018    0        6
+Mouette mélanocéphale       2016    0        2
+Mouette rieuse              2018    0        11
+Perdrix rouge               2012    0        2
+Pic noir                    2010    0        4
+Pie-grièche écorcheur       2012    0        2
+Pinson du Nord              2019    0        5
+Pipit des arbres            2017    0        12
+Roitelet à triple bandeau   2011    0        3
+Rousserolle verderolle      2012    0        2
+Sterne pierregarin          2012    0        1
 

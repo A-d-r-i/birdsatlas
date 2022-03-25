@@ -1,22 +1,22 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigrette garzette
-0        Autour des palombes
-0        Bécasse des bois
-0        Bergeronnette des ruisseaux
-0        Cochevis huppé
-0        Coucou gris
-0        Fauvette des jardins
-0        Grimpereau des bois
-0        Moineau friquet
-0        Mouette rieuse
-0        Perdrix rouge
-0        Perruche ondulée
-0        Pic épeichette
-0        Pic mar
-0        Pic noir
-0        Pipit des arbres
-0        Pouillot fitis
-0        Roitelet à triple bandeau
+frname                      lastobs newcount oldcount
+------                      ------- -------- --------
+Aigrette garzette           2009    0        1
+Autour des palombes         2009    0        1
+Bécasse des bois            2009    0        1
+Bergeronnette des ruisseaux 2015    0        6
+Cochevis huppé              2009    0        1
+Coucou gris                 2009    0        1
+Fauvette des jardins        2017    0        3
+Grimpereau des bois         2015    0        1
+Moineau friquet             2014    0        1
+Mouette rieuse              2009    0        1
+Perdrix rouge               2018    0        1
+Perruche ondulée            2018    0        1
+Pic épeichette              2018    0        3
+Pic mar                     2009    0        1
+Pic noir                    2018    0        1
+Pipit des arbres            2009    0        1
+Pouillot fitis              2009    0        1
+Roitelet à triple bandeau   2009    0        2
 

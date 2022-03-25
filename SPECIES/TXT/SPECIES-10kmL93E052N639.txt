@@ -1,53 +1,53 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Barge à queue noire
-0        Bécasseau cocorli
-0        Bécasseau minute
-0        Bécasseau variable
-0        Bécasse des bois
-0        Bernache nonnette
-0        Bouvreuil pivoine
-0        Bruant fou
-0        Bruant jaune
-0        Busard cendré
-0        Canard chipeau
-0        Chevalier arlequin
-0        Chevalier culblanc
-0        Chevalier gambette
-0        Chevalier sylvain
-0        Combattant varié
-0        Crabier chevelu
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fauvette passerinette
-0        Fuligule morillon
-0        Grand Corbeau
-0        Grand Gravelot
-0        Grèbe jougris
-0        Guifette moustac
-0        Guifette noire
-0        Harle huppé
-0        Hibou moyen-duc
-0        Hirondelle de rivage
-0        Labbe à longue queue
-0        Locustelle tachetée
-0        Macreuse brune
-0        Mésange noire
-0        Moineau friquet
-0        Oie cendrée
-0        Petit Gravelot
-0        Pie-grièche à tête rousse
-0        Pinson du Nord
-0        Pipit spioncelle
-0        Plongeon imbrin
-0        Râle d'eau
-0        Tarin des aulnes
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette des champs       2016    0        36
+Autour des palombes       2014    0        6
+Barge à queue noire       2009    0        1
+Bécasseau cocorli         2016    0        2
+Bécasseau minute          2016    0        2
+Bécasseau variable        2011    0        3
+Bécasse des bois          2012    0        4
+Bernache nonnette         2009    0        1
+Bouvreuil pivoine         2013    0        3
+Bruant fou                2011    0        2
+Bruant jaune              2016    0        2
+Busard cendré             2011    0        1
+Canard chipeau            2014    0        36
+Chevalier arlequin        2012    0        1
+Chevalier culblanc        2016    0        5
+Chevalier gambette        2018    0        2
+Chevalier sylvain         2016    0        4
+Combattant varié          2016    0        1
+Crabier chevelu           2011    0        1
+Engoulevent d'Europe      2013    0        4
+Faisan vénéré             2009    0        2
+Faucon hobereau           2017    0        7
+Faucon pèlerin            2012    0        5
+Fauvette des jardins      2010    0        1
+Fauvette passerinette     2009    0        1
+Fuligule morillon         2010    0        5
+Grand Corbeau             2015    0        1
+Grand Gravelot            2012    0        3
+Grèbe jougris             2010    0        1
+Guifette moustac          2012    0        1
+Guifette noire            2016    0        1
+Harle huppé               2018    0        7
+Hibou moyen-duc           2011    0        3
+Hirondelle de rivage      2018    0        3
+Labbe à longue queue      2012    0        1
+Locustelle tachetée       2018    0        1
+Macreuse brune            2012    0        2
+Mésange noire             2016    0        1
+Moineau friquet           2015    0        9
+Oie cendrée               2012    0        5
+Petit Gravelot            2018    0        9
+Pie-grièche à tête rousse 2012    0        1
+Pinson du Nord            2010    0        4
+Pipit spioncelle          2016    0        1
+Plongeon imbrin           2010    0        15
+Râle d'eau                2016    0        1
+Tarin des aulnes          2017    0        8
+Torcol fourmilier         2012    0        4
+Traquet motteux           2011    0        3
 

@@ -1,33 +1,31 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bergeronnette flavéole (M.f.flavissima)"
-"0";"Bernache nonnette"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Canard des Bahamas"
-"0";"Cochevis huppé"
-"0";"Étourneau unicolore"
-"0";"Faisan vénéré"
-"0";"Faucon émerillon"
-"0";"Fauvette babillarde"
-"0";"Fuligule milouinan"
-"0";"Fuligule morillon"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland marin"
-"0";"Grèbe à cou noir"
-"0";"Harle piette"
-"0";"Hibou moyen-duc"
-"0";"Ibis sacré"
-"0";"Phalarope à bec large"
-"0";"Pigeon biset (origine naturelle)"
-"0";"Pipit à dos olive"
-"0";"Râle des genêts"
-"0";"Sizerin cabaret"
-"0";"Sizerin flammé"
-"0";"Sterne arctique"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2007,0,1
+Bécassine sourde,2018,0,5
+Bergeronnette flavéole (M.f.flavissima),2014,0,2
+Bernache nonnette,2009,0,1
+Busard cendré,2013,0,1
+Butor étoilé,2012,0,13
+Canard carolin,2013,0,19
+Canard des Bahamas,2016,0,1
+Cochevis huppé,2018,0,7
+Étourneau unicolore,2013,0,1
+Faisan vénéré,2017,0,2
+Faucon émerillon,2019,0,4
+Fauvette babillarde,2018,0,1
+Fuligule milouinan,2010,0,5
+Fuligule morillon,2017,0,55
+Fuligule nyroca,2012,0,2
+Garrot à oeil d'or,2015,0,18
+Goéland marin,2017,0,53
+Grèbe à cou noir,2017,0,12
+Harle piette,2017,0,24
+Hibou moyen-duc,2016,0,12
+Ibis sacré,2015,0,16
+Phalarope à bec large,2009,0,1
+Pigeon biset (origine naturelle),2009,0,1
+Pipit à dos olive,2018,0,2
+Râle des genêts,2015,0,2
+Sizerin cabaret,2018,0,16
+Sizerin flammé,2018,0,16
+Sterne arctique,2017,0,2
+Torcol fourmilier,2015,0,5

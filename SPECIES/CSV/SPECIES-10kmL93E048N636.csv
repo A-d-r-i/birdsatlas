@@ -1,45 +1,43 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Blongios nain"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard mandarin"
-"0";"Chevalier stagnatile"
-"0";"Corbeau freux"
-"0";"Coucou gris"
-"0";"Engoulevent d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon kobez"
-"0";"Fauvette babillarde"
-"0";"Fauvette pitchou"
-"0";"Goéland cendré"
-"0";"Gorgebleue à miroir"
-"0";"Grive draine"
-"0";"Guêpier d'Europe"
-"0";"Harle huppé"
-"0";"Hibou des marais"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs ictérine"
-"0";"Ibis falcinelle"
-"0";"Locustelle luscinioïde"
-"0";"Merle à plastron"
-"0";"Perdrix grise"
-"0";"Perdrix rouge"
-"0";"Perruche ondulée"
-"0";"Phragmite aquatique"
-"0";"Phragmite des joncs"
-"0";"Pic épeichette"
-"0";"Pluvier doré"
-"0";"Pouillot siffleur"
-"0";"Râle des genêts"
-"0";"Rémiz penduline"
-"0";"Roitelet huppé"
-"0";"Rousserolle turdoïde"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,2
+Bécasse des bois,2018,0,2
+Bécassine sourde,2018,0,5
+Bernache nonnette,2017,0,1
+Blongios nain,2017,0,2
+Bruant fou,2010,0,1
+Bruant jaune,2016,0,1
+Busard cendré,2015,0,4
+Butor étoilé,2012,0,4
+Canard mandarin,2018,0,5
+Chevalier stagnatile,2017,0,1
+Corbeau freux,2019,0,16
+Coucou gris,2016,0,14
+Engoulevent d'Europe,2017,0,6
+Faisan de Colchide,2015,0,11
+Faucon émerillon,2019,0,3
+Faucon kobez,2014,0,3
+Fauvette babillarde,2013,0,2
+Fauvette pitchou,2018,0,3
+Goéland cendré,2015,0,9
+Gorgebleue à miroir,2015,0,26
+Grive draine,2017,0,3
+Guêpier d'Europe,2018,0,9
+Harle huppé,2010,0,2
+Hibou des marais,2011,0,3
+Hibou moyen-duc,2009,0,2
+Hypolaïs ictérine,2009,0,1
+Ibis falcinelle,2018,0,2
+Locustelle luscinioïde,2015,0,5
+Merle à plastron,2010,0,1
+Perdrix grise,2016,0,1
+Perdrix rouge,2017,0,21
+Perruche ondulée,2016,0,1
+Phragmite aquatique,2015,0,7
+Phragmite des joncs,2015,0,35
+Pic épeichette,2018,0,7
+Pluvier doré,2015,0,3
+Pouillot siffleur,2013,0,1
+Râle des genêts,2013,0,2
+Rémiz penduline,2012,0,11
+Roitelet huppé,2017,0,10
+Rousserolle turdoïde,2015,0,9

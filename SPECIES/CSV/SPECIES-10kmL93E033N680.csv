@@ -1,42 +1,40 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Avocette élégante"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Bondrée apivore"
-"0";"Bouvreuil pivoine"
-"0";"Butor étoilé"
-"0";"Canard chipeau"
-"0";"Canard pilet"
-"0";"Canard siffleur"
-"0";"Chevêche d'Athéna"
-"0";"Faisan vénéré"
-"0";"Faucon hobereau"
-"0";"Fauvette grisette"
-"0";"Fuligule à bec cerclé"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland cendré"
-"0";"Goéland marin"
-"0";"Grèbe à cou noir"
-"0";"Grèbe castagneux"
-"0";"Harle bièvre"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Linotte mélodieuse"
-"0";"Mésange huppée"
-"0";"Moineau friquet"
-"0";"Mouette mélanocéphale"
-"0";"Mouette pygmée"
-"0";"Perdrix grise"
-"0";"Pic noir"
-"0";"Pigeon colombin"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Rougequeue à front blanc"
-"0";"Rougequeue noir"
-"0";"Serin cini"
-"0";"Tadorne de Belon"
-"0";"Traquet motteux"
+frname,lastobs,newcount,oldcount
+Avocette élégante,2012,0,2
+Bernache nonnette,2012,0,1
+Bihoreau gris,2015,0,2
+Bondrée apivore,2017,0,4
+Bouvreuil pivoine,2018,0,2
+Butor étoilé,2011,0,5
+Canard chipeau,2012,0,6
+Canard pilet,2013,0,2
+Canard siffleur,2013,0,14
+Chevêche d'Athéna,2017,0,7
+Faisan vénéré,2016,0,1
+Faucon hobereau,2013,0,5
+Fauvette grisette,2009,0,1
+Fuligule à bec cerclé,2009,0,3
+Fuligule nyroca,2011,0,2
+Garrot à oeil d'or,2012,0,2
+Goéland cendré,2012,0,5
+Goéland marin,2012,0,3
+Grèbe à cou noir,2015,0,1
+Grèbe castagneux,2018,0,51
+Harle bièvre,2012,0,1
+Hibou moyen-duc,2018,0,2
+Hirondelle de rivage,2017,0,12
+Huppe fasciée,2018,0,2
+Linotte mélodieuse,2018,0,5
+Mésange huppée,2012,0,3
+Moineau friquet,2017,0,5
+Mouette mélanocéphale,2015,0,3
+Mouette pygmée,2011,0,1
+Perdrix grise,2019,0,2
+Pic noir,2009,0,1
+Pigeon colombin,2011,0,2
+Pipit spioncelle,2012,0,6
+Pluvier doré,2018,0,6
+Rougequeue à front blanc,2009,0,1
+Rougequeue noir,2009,0,1
+Serin cini,2009,0,1
+Tadorne de Belon,2012,0,14
+Traquet motteux,2017,0,3

@@ -1,6 +1,4 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bernache nonnette"
-"0";"Grive draine"
-"0";"Moineau friquet"
+frname,lastobs,newcount,oldcount
+Bernache nonnette,2009,0,1
+Grive draine,2013,0,1
+Moineau friquet,2013,0,1

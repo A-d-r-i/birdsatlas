@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Chevêche d'Athéna"
-"0";"Corbeau freux"
-"0";"Cygne noir"
-"0";"Râle des genêts"
-"0";"Rossignol philomèle"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,1
+Chevêche d'Athéna,2009,0,1
+Corbeau freux,2009,0,1
+Cygne noir,2009,0,1
+Râle des genêts,2009,0,1
+Rossignol philomèle,2009,0,1
+Tourterelle des bois,2009,0,1

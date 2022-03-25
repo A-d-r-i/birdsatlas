@@ -1,31 +1,29 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette des champs"
-"0";"Bécasse des bois"
-"0";"Bergeronnette des ruisseaux"
-"0";"Bergeronnette printanière"
-"0";"Bruant des roseaux"
-"0";"Bruant jaune"
-"0";"Busard Saint-Martin"
-"0";"Canard colvert"
-"0";"Cigogne noire"
-"0";"Cisticole des joncs"
-"0";"Cygne tuberculé"
-"0";"Faucon émerillon"
-"0";"Fauvette pitchou"
-"0";"Gallinule poule-d'eau"
-"0";"Goéland leucophée"
-"0";"Grand Cormoran"
-"0";"Grive litorne"
-"0";"Martin-pêcheur d'Europe"
-"0";"Mésange huppée"
-"0";"Mésange noire"
-"0";"Moineau soulcie"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pic noir"
-"0";"Pie-grièche écorcheur"
-"0";"Pipit des arbres"
-"0";"Pipit rousseline"
-"0";"Tarier pâtre"
+frname,lastobs,newcount,oldcount
+Alouette des champs,2013,0,1
+Bécasse des bois,2013,0,1
+Bergeronnette des ruisseaux,2016,0,2
+Bergeronnette printanière,2013,0,1
+Bruant des roseaux,2016,0,6
+Bruant jaune,2016,0,1
+Busard Saint-Martin,2016,0,3
+Canard colvert,2016,0,2
+Cigogne noire,2014,0,2
+Cisticole des joncs,2016,0,9
+Cygne tuberculé,2016,0,1
+Faucon émerillon,2012,0,3
+Fauvette pitchou,2014,0,2
+Gallinule poule-d'eau,2017,0,3
+Goéland leucophée,2013,0,1
+Grand Cormoran,2017,0,2
+Grive litorne,2015,0,1
+Martin-pêcheur d'Europe,2016,0,2
+Mésange huppée,2016,0,3
+Mésange noire,2015,0,2
+Moineau soulcie,2014,0,2
+Perdrix rouge,2017,0,5
+Pic épeichette,2016,0,1
+Pic noir,2014,0,1
+Pie-grièche écorcheur,2018,0,1
+Pipit des arbres,2014,0,1
+Pipit rousseline,2017,0,5
+Tarier pâtre,2017,0,10

@@ -1,50 +1,50 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette lulu
-0        Bécasseau sanderling
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bergeronnette printanière
-0        Bruant proyer
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Canard chipeau
-0        Canard mandarin
-0        Canard siffleur
-0        Chevalier aboyeur
-0        Chevalier arlequin
-0        Chevalier gambette
-0        Circaète Jean-le-Blanc
-0        Courlis cendré
-0        Engoulevent d'Europe
-0        Faisan vénéré
-0        Faucon émerillon
-0        Faucon hobereau
-0        Faucon pèlerin
-0        Fauvette des jardins
-0        Fuligule nyroca
-0        Garrot à oeil d'or
-0        Gobemouche gris
-0        Goéland à ailes blanches
-0        Goéland bourgmestre
-0        Grand Gravelot
-0        Grèbe à cou noir
-0        Locustelle tachetée
-0        Merle à plastron
-0        Nette rousse
-0        Oie cendrée
-0        Ouette d'Egypte
-0        Perdrix grise
-0        Perdrix rouge
-0        Phragmite des joncs
-0        Pouillot siffleur
-0        Sizerin cabaret
-0        Sizerin flammé
-0        Sterne pierregarin
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Alouette lulu             2016    0        5
+Bécasseau sanderling      2012    0        1
+Bécasse des bois          2015    0        3
+Bécassine des marais      2016    0        11
+Bécassine sourde          2016    0        1
+Bergeronnette printanière 2013    0        2
+Bruant proyer             2016    0        8
+Busard cendré             2008    0        1
+Busard des roseaux        2016    0        2
+Busard Saint-Martin       2018    0        28
+Canard chipeau            2017    0        5
+Canard mandarin           2010    0        2
+Canard siffleur           2017    0        5
+Chevalier aboyeur         2016    0        6
+Chevalier arlequin        2012    0        1
+Chevalier gambette        2016    0        3
+Circaète Jean-le-Blanc    2016    0        6
+Courlis cendré            2009    0        1
+Engoulevent d'Europe      2018    0        7
+Faisan vénéré             2014    0        1
+Faucon émerillon          2007    0        1
+Faucon hobereau           2017    0        11
+Faucon pèlerin            2012    0        3
+Fauvette des jardins      2018    0        13
+Fuligule nyroca           2012    0        2
+Garrot à oeil d'or        2010    0        2
+Gobemouche gris           2016    0        11
+Goéland à ailes blanches  2012    0        2
+Goéland bourgmestre       2009    0        1
+Grand Gravelot            2012    0        1
+Grèbe à cou noir          2010    0        2
+Locustelle tachetée       2007    0        1
+Merle à plastron          2013    0        1
+Nette rousse              2012    0        4
+Oie cendrée               2018    0        4
+Ouette d'Egypte           2009    0        1
+Perdrix grise             2015    0        2
+Perdrix rouge             2012    0        3
+Phragmite des joncs       2012    0        1
+Pouillot siffleur         2018    0        12
+Sizerin cabaret           2017    0        2
+Sizerin flammé            2017    0        2
+Sterne pierregarin        2015    0        2
+Tarier des prés           2016    0        2
+Torcol fourmilier         2009    0        1
+Traquet motteux           2017    0        3
 

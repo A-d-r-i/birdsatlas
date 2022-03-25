@@ -1,34 +1,32 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Alouette lulu"
-"0";"Autour des palombes"
-"0";"Bruant fou"
-"0";"Bruant jaune"
-"0";"Bruant proyer"
-"0";"Busard des roseaux"
-"0";"Canard pilet"
-"0";"Canard souchet"
-"0";"Cigogne noire"
-"0";"Coucou gris"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Fauvette des jardins"
-"0";"Foulque macroule"
-"0";"Gobemouche gris"
-"0";"Grèbe castagneux"
-"0";"Grèbe huppé"
-"0";"Grosbec casse-noyaux"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hypolaïs polyglotte"
-"0";"Loriot d'Europe"
-"0";"Oedicnème criard"
-"0";"Petit Gravelot"
-"0";"Pic mar"
-"0";"Pigeon colombin"
-"0";"Roitelet huppé"
-"0";"Rossignol philomèle"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Alouette lulu,2018,0,9
+Autour des palombes,2009,0,3
+Bruant fou,2017,0,1
+Bruant jaune,2018,0,5
+Bruant proyer,2014,0,2
+Busard des roseaux,2015,0,4
+Canard pilet,2012,0,1
+Canard souchet,2012,0,1
+Cigogne noire,2015,0,4
+Coucou gris,2014,0,6
+Faisan de Colchide,2014,0,1
+Faucon émerillon,2015,0,3
+Faucon hobereau,2016,0,12
+Fauvette des jardins,2018,0,6
+Foulque macroule,2013,0,1
+Gobemouche gris,2009,0,1
+Grèbe castagneux,2009,0,2
+Grèbe huppé,2009,0,1
+Grosbec casse-noyaux,2018,0,5
+Héron pourpré,2016,0,1
+Hibou moyen-duc,2016,0,1
+Hypolaïs polyglotte,2014,0,5
+Loriot d'Europe,2017,0,10
+Oedicnème criard,2018,0,1
+Petit Gravelot,2009,0,1
+Pic mar,2009,0,6
+Pigeon colombin,2015,0,4
+Roitelet huppé,2018,0,2
+Rossignol philomèle,2012,0,6
+Torcol fourmilier,2014,0,1
+Tourterelle des bois,2014,0,5

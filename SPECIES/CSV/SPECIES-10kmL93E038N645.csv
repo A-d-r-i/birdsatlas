@@ -1,63 +1,61 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur mouchet"
-"0";"Aigrette garzette"
-"0";"Autour des palombes"
-"0";"Bécasse des bois"
-"0";"Bécassine des marais"
-"0";"Bruant des roseaux"
-"0";"Bruant ortolan"
-"0";"Bruant proyer"
-"0";"Bruant zizi"
-"0";"Butor étoilé"
-"0";"Caille des blés"
-"0";"Canard souchet"
-"0";"Chevalier aboyeur"
-"0";"Chevalier gambette"
-"0";"Cigogne noire"
-"0";"Circaète Jean-le-Blanc"
-"0";"Coucou gris"
-"0";"Courlis cendré"
-"0";"Cygne tuberculé"
-"0";"Engoulevent d'Europe"
-"0";"Épervier d'Europe"
-"0";"Faisan de Colchide"
-"0";"Faucon émerillon"
-"0";"Faucon hobereau"
-"0";"Faucon pèlerin"
-"0";"Fauvette à tête noire"
-"0";"Fauvette des jardins"
-"0";"Gobemouche gris"
-"0";"Goéland leucophée"
-"0";"Grande Aigrette"
-"0";"Grive litorne"
-"0";"Grive mauvis"
-"0";"Guêpier d'Europe"
-"0";"Héron garde-boeufs"
-"0";"Héron pourpré"
-"0";"Hibou moyen-duc"
-"0";"Hirondelle de rivage"
-"0";"Huppe fasciée"
-"0";"Locustelle tachetée"
-"0";"Loriot d'Europe"
-"0";"Moineau friquet"
-"0";"Mouette rieuse"
-"0";"Perdrix rouge"
-"0";"Petit Gravelot"
-"0";"Pie-grièche à tête rousse"
-"0";"Pinson du Nord"
-"0";"Pipit rousseline"
-"0";"Pipit spioncelle"
-"0";"Pluvier doré"
-"0";"Pouillot de Bonelli"
-"0";"Pouillot fitis"
-"0";"Roitelet à triple bandeau"
-"0";"Roitelet huppé"
-"0";"Rougequeue à front blanc"
-"0";"Rousserolle effarvatte"
-"0";"Serin cini"
-"0";"Spatule blanche"
-"0";"Tarier des prés"
-"0";"Tarin des aulnes"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Accenteur mouchet,2017,0,9
+Aigrette garzette,2015,0,3
+Autour des palombes,2011,0,3
+Bécasse des bois,2011,0,1
+Bécassine des marais,2013,0,7
+Bruant des roseaux,2016,0,14
+Bruant ortolan,2012,0,1
+Bruant proyer,2018,0,7
+Bruant zizi,2010,0,5
+Butor étoilé,2010,0,3
+Caille des blés,2015,0,3
+Canard souchet,2011,0,1
+Chevalier aboyeur,2011,0,3
+Chevalier gambette,2010,0,3
+Cigogne noire,2014,0,2
+Circaète Jean-le-Blanc,2018,0,92
+Coucou gris,2018,0,51
+Courlis cendré,2015,0,30
+Cygne tuberculé,2009,0,1
+Engoulevent d'Europe,2017,0,25
+Épervier d'Europe,2015,0,20
+Faisan de Colchide,2018,0,31
+Faucon émerillon,2014,0,10
+Faucon hobereau,2016,0,37
+Faucon pèlerin,2008,0,1
+Fauvette à tête noire,2018,0,21
+Fauvette des jardins,2008,0,1
+Gobemouche gris,2015,0,11
+Goéland leucophée,2010,0,2
+Grande Aigrette,2016,0,2
+Grive litorne,2016,0,1
+Grive mauvis,2012,0,1
+Guêpier d'Europe,2010,0,1
+Héron garde-boeufs,2018,0,2
+Héron pourpré,2015,0,4
+Hibou moyen-duc,2013,0,2
+Hirondelle de rivage,2015,0,8
+Huppe fasciée,2018,0,84
+Locustelle tachetée,2017,0,16
+Loriot d'Europe,2017,0,8
+Moineau friquet,2010,0,5
+Mouette rieuse,2015,0,1
+Perdrix rouge,2013,0,6
+Petit Gravelot,2010,0,1
+Pie-grièche à tête rousse,2008,0,1
+Pinson du Nord,2018,0,1
+Pipit rousseline,2015,0,24
+Pipit spioncelle,2011,0,3
+Pluvier doré,2013,0,1
+Pouillot de Bonelli,2013,0,7
+Pouillot fitis,2015,0,5
+Roitelet à triple bandeau,2016,0,9
+Roitelet huppé,2015,0,5
+Rougequeue à front blanc,2015,0,12
+Rousserolle effarvatte,2015,0,8
+Serin cini,2015,0,4
+Spatule blanche,2017,0,2
+Tarier des prés,2015,0,20
+Tarin des aulnes,2017,0,4
+Torcol fourmilier,2015,0,6

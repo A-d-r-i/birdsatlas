@@ -1,26 +1,23 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Accenteur alpin"
-"0";"Bécasse des bois"
-"0";"Busard Saint-Martin"
-"0";"Chevalier culblanc"
-"0";"Choucas des tours"
-"0";"Fauvette des jardins"
-"0";"Fauvette mélanocéphale"
-"0";"Foulque macroule"
-"0";"Gallinule poule-d'eau"
-"0";"Gobemouche gris"
-"0";"Gobemouche noir"
-"0";"Grèbe castagneux"
-"0";"Guêpier d'Europe"
-"0";"Loriot d'Europe"
-"0";"Martinet à ventre blanc"
-"0";"Martinet noir"
-"0";"Perdrix rouge"
-"0";"Pic épeichette"
-"0";"Pie bavarde"
-"0";"Pouillot fitis"
-"0";"Tarier des prés"
-"0";"Tourterelle turque"
-"0";"Vautour moine"
+frname,lastobs,newcount,oldcount
+Bécasse des bois,2012,0,1
+Busard Saint-Martin,2017,0,3
+Chevalier culblanc,2013,0,1
+Choucas des tours,2011,0,1
+Fauvette des jardins,2017,0,7
+Fauvette mélanocéphale,2010,0,1
+Foulque macroule,2016,0,1
+Gallinule poule-d'eau,2009,0,1
+Gobemouche gris,2017,0,5
+Gobemouche noir,2015,0,2
+Grèbe castagneux,2012,0,2
+Guêpier d'Europe,2018,0,1
+Loriot d'Europe,2015,0,2
+Martinet à ventre blanc,2018,0,5
+Martinet noir,2017,0,7
+Perdrix rouge,2018,0,7
+Pic épeichette,2017,0,1
+Pie bavarde,2018,0,26
+Pouillot fitis,2013,0,1
+Tarier des prés,2015,0,5
+Tourterelle turque,2015,0,1
+Vautour moine,2013,0,1

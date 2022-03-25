@@ -1,37 +1,35 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Avocette élégante"
-"0";"Bécasseau cocorli"
-"0";"Bécasseau de Temminck"
-"0";"Bécasseau minute"
-"0";"Bécasse des bois"
-"0";"Bécassine sourde"
-"0";"Bernache nonnette"
-"0";"Bihoreau gris"
-"0";"Busard pâle"
-"0";"Cincle plongeur"
-"0";"Échasse blanche"
-"0";"Fuligule milouinan"
-"0";"Garrot à oeil d'or"
-"0";"Gobemouche noir"
-"0";"Goéland brun"
-"0";"Goéland cendré"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Grèbe jougris"
-"0";"Guifette moustac"
-"0";"Harle piette"
-"0";"Héron pourpré"
-"0";"Huppe fasciée"
-"0";"Ibis falcinelle"
-"0";"Locustelle luscinioïde"
-"0";"Marouette ponctuée"
-"0";"Oie des moissons"
-"0";"Pie-grièche grise"
-"0";"Pipit spioncelle"
-"0";"Râle des genêts"
-"0";"Rousserolle turdoïde"
-"0";"Spatule blanche"
-"0";"Torcol fourmilier"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2018,0,4
+Avocette élégante,2008,0,5
+Bécasseau cocorli,2008,0,1
+Bécasseau de Temminck,2018,0,1
+Bécasseau minute,2008,0,2
+Bécasse des bois,2018,0,5
+Bécassine sourde,2016,0,2
+Bernache nonnette,2014,0,16
+Bihoreau gris,2012,0,2
+Busard pâle,2016,0,1
+Cincle plongeur,2011,0,1
+Échasse blanche,2016,0,2
+Fuligule milouinan,2018,0,1
+Garrot à oeil d'or,2011,0,5
+Gobemouche noir,2018,0,4
+Goéland brun,2016,0,14
+Goéland cendré,2016,0,3
+Goéland leucophée,2018,0,9
+Grèbe à cou noir,2016,0,127
+Grèbe jougris,2015,0,4
+Guifette moustac,2007,0,1
+Harle piette,2008,0,5
+Héron pourpré,2013,0,5
+Huppe fasciée,2014,0,1
+Ibis falcinelle,2018,0,2
+Locustelle luscinioïde,2009,0,4
+Marouette ponctuée,2008,0,1
+Oie des moissons,2012,0,1
+Pie-grièche grise,2013,0,22
+Pipit spioncelle,2010,0,11
+Râle des genêts,2008,0,3
+Rousserolle turdoïde,2007,0,2
+Spatule blanche,2018,0,1
+Torcol fourmilier,2018,0,1

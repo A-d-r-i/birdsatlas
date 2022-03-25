@@ -1,39 +1,39 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Alouette des champs
-0        Autour des palombes
-0        Bécassine des marais
-0        Bécassine sourde
-0        Bec-croisé des sapins
-0        Bruant des roseaux
-0        Bruant fou
-0        Bruant jaune
-0        Busard cendré
-0        Busard des roseaux
-0        Butor étoilé
-0        Caille des blés
-0        Chevalier aboyeur
-0        Chevêche d'Athéna
-0        Engoulevent d'Europe
-0        Faucon émerillon
-0        Fauvette des jardins
-0        Fauvette orphée
-0        Fauvette passerinette
-0        Fuligule milouinan
-0        Goéland brun
-0        Gorgebleue à miroir
-0        Hibou moyen-duc
-0        Moineau soulcie
-0        Mouette rieuse
-0        Nette rousse
-0        Petit Gravelot
-0        Pigeon colombin
-0        Pipit des arbres
-0        Pipit spioncelle
-0        Pouillot à grands sourcils
-0        Râle d'eau
-0        Tarier des prés
-0        Torcol fourmilier
-0        Traquet motteux
+frname                     lastobs newcount oldcount
+------                     ------- -------- --------
+Alouette des champs        2018    0        2
+Autour des palombes        2018    0        1
+Bécassine des marais       2017    0        9
+Bécassine sourde           2015    0        1
+Bec-croisé des sapins      2009    0        1
+Bruant des roseaux         2015    0        3
+Bruant fou                 2019    0        8
+Bruant jaune               2017    0        3
+Busard cendré              2012    0        1
+Busard des roseaux         2015    0        1
+Butor étoilé               2016    0        1
+Caille des blés            2009    0        1
+Chevalier aboyeur          2015    0        1
+Chevêche d'Athéna          2012    0        2
+Engoulevent d'Europe       2017    0        2
+Faucon émerillon           2016    0        1
+Fauvette des jardins       2015    0        1
+Fauvette orphée            2009    0        1
+Fauvette passerinette      2009    0        1
+Fuligule milouinan         2010    0        1
+Goéland brun               2018    0        1
+Gorgebleue à miroir        2015    0        1
+Hibou moyen-duc            2009    0        1
+Moineau soulcie            2018    0        9
+Mouette rieuse             2016    0        1
+Nette rousse               2018    0        5
+Petit Gravelot             2016    0        6
+Pigeon colombin            2017    0        5
+Pipit des arbres           2018    0        4
+Pipit spioncelle           2017    0        5
+Pouillot à grands sourcils 2016    0        2
+Râle d'eau                 2009    0        1
+Tarier des prés            2009    0        1
+Torcol fourmilier          2009    0        1
+Traquet motteux            2009    0        1
 

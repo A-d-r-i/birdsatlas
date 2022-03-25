@@ -1,33 +1,33 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécasse des bois
-0        Bruant des roseaux
-0        Busard cendré
-0        Busard des roseaux
-0        Busard Saint-Martin
-0        Caille des blés
-0        Cigogne blanche
-0        Corbeau freux
-0        Effraie des clochers
-0        Faucon émerillon
-0        Faucon pèlerin
-0        Foulque macroule
-0        Grand Cormoran
-0        Grèbe castagneux
-0        Grive litorne
-0        Grive mauvis
-0        Hibou moyen-duc
-0        Hypolaïs ictérine
-0        Jaseur boréal
-0        Moineau friquet
-0        Perdrix rouge
-0        Pie-grièche grise
-0        Pigeon colombin
-0        Pipit spioncelle
-0        Rousserolle effarvatte
-0        Sizerin flammé
-0        Tarier des prés
-0        Traquet motteux
-0        Vanneau huppé
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Bécasse des bois       2012    0        9
+Bruant des roseaux     2014    0        2
+Busard cendré          2008    0        1
+Busard des roseaux     2018    0        2
+Busard Saint-Martin    2018    0        19
+Caille des blés        2011    0        4
+Cigogne blanche        2012    0        2
+Corbeau freux          2017    0        17
+Effraie des clochers   2015    0        14
+Faucon émerillon       2010    0        1
+Faucon pèlerin         2012    0        3
+Foulque macroule       2013    0        2
+Grand Cormoran         2014    0        2
+Grèbe castagneux       2010    0        2
+Grive litorne          2018    0        41
+Grive mauvis           2013    0        6
+Hibou moyen-duc        2015    0        11
+Hypolaïs ictérine      2015    0        1
+Jaseur boréal          2013    0        1
+Moineau friquet        2015    0        14
+Perdrix rouge          2013    0        6
+Pie-grièche grise      2018    0        35
+Pigeon colombin        2014    0        5
+Pipit spioncelle       2015    0        4
+Rousserolle effarvatte 2010    0        2
+Sizerin flammé         2014    0        3
+Tarier des prés        2015    0        7
+Traquet motteux        2015    0        2
+Vanneau huppé          2011    0        6
 

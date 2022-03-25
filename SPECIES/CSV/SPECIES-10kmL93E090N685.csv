@@ -1,24 +1,21 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Bécasseau de Temminck"
-"0";"Bécassine sourde"
-"0";"Bec-croisé des sapins"
-"0";"Busard cendré"
-"0";"Butor étoilé"
-"0";"Canard carolin"
-"0";"Corbeau freux"
-"0";"Cygne chanteur"
-"0";"Dendrocygne fauve"
-"0";"Faisan de Colchide"
-"0";"Fuligule nyroca"
-"0";"Garrot à oeil d'or"
-"0";"Goéland leucophée"
-"0";"Grèbe à cou noir"
-"0";"Harle huppé"
-"0";"Marouette ponctuée"
-"0";"Marouette poussin"
-"0";"Serin cini"
-"0";"Tadorne casarca"
-"0";"Tadorne de Belon"
-"0";"Tarier des prés"
+frname,lastobs,newcount,oldcount
+Bécasseau de Temminck,2014,0,1
+Bécassine sourde,2018,0,1
+Bec-croisé des sapins,2014,0,1
+Busard cendré,2013,0,2
+Butor étoilé,2015,0,4
+Canard carolin,2018,0,2
+Corbeau freux,2018,0,3
+Cygne chanteur,2014,0,1
+Dendrocygne fauve,2017,0,1
+Faisan de Colchide,2018,0,4
+Fuligule nyroca,2012,0,2
+Garrot à oeil d'or,2017,0,2
+Grèbe à cou noir,2013,0,3
+Harle huppé,2015,0,1
+Marouette ponctuée,2016,0,1
+Marouette poussin,2009,0,1
+Serin cini,2016,0,1
+Tadorne casarca,2019,0,1
+Tadorne de Belon,2016,0,1
+Tarier des prés,2018,0,7

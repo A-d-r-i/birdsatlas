@@ -1,40 +1,40 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Avocette élégante
-0        Busard des roseaux
-0        Canard chipeau
-0        Canard pilet
-0        Canard siffleur
-0        Canard souchet
-0        Chevalier aboyeur
-0        Chevalier gambette
-0        Chouette hulotte
-0        Cigogne noire
-0        Cincle plongeur
-0        Courlis cendré
-0        Faucon émerillon
-0        Faucon kobez
-0        Fuligule milouin
-0        Fuligule morillon
-0        Gobemouche noir
-0        Goéland leucophée
-0        Grive mauvis
-0        Grosbec casse-noyaux
-0        Guifette moustac
-0        Guifette noire
-0        Harle bièvre
-0        Merle à plastron
-0        Mésange huppée
-0        Mésange noire
-0        Moineau friquet
-0        Phragmite des joncs
-0        Pie-grièche à tête rousse
-0        Pie-grièche grise
-0        Pipit spioncelle
-0        Pluvier doré
-0        Sterne pierregarin
-0        Tadorne casarca
-0        Tarier des prés
-0        Torcol fourmilier
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Avocette élégante         2012    0        2
+Busard des roseaux        2012    0        2
+Canard chipeau            2011    0        1
+Canard pilet              2013    0        1
+Canard siffleur           2013    0        2
+Canard souchet            2012    0        1
+Chevalier aboyeur         2017    0        3
+Chevalier gambette        2012    0        1
+Chouette hulotte          2016    0        9
+Cigogne noire             2017    0        2
+Cincle plongeur           2018    0        1
+Courlis cendré            2016    0        18
+Faucon émerillon          2014    0        4
+Faucon kobez              2008    0        1
+Fuligule milouin          2018    0        6
+Fuligule morillon         2013    0        2
+Gobemouche noir           2017    0        2
+Goéland leucophée         2013    0        1
+Grive mauvis              2019    0        5
+Grosbec casse-noyaux      2018    0        12
+Guifette moustac          2017    0        2
+Guifette noire            2017    0        2
+Harle bièvre              2017    0        2
+Merle à plastron          2015    0        1
+Mésange huppée            2013    0        2
+Mésange noire             2017    0        1
+Moineau friquet           2009    0        1
+Phragmite des joncs       2009    0        1
+Pie-grièche à tête rousse 2010    0        4
+Pie-grièche grise         2015    0        2
+Pipit spioncelle          2013    0        2
+Pluvier doré              2019    0        6
+Sterne pierregarin        2016    0        1
+Tadorne casarca           2015    0        1
+Tarier des prés           2016    0        5
+Torcol fourmilier         2016    0        5
 

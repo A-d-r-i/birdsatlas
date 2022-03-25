@@ -1,42 +1,42 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Aigle botté
-0        Aigle royal
-0        Bécasse des bois
-0        Bécassine des marais
-0        Bec-croisé des sapins
-0        Bergeronnette printanière
-0        Bruant fou
-0        Chevalier guignette
-0        Choucas des tours
-0        Cigogne noire
-0        Effraie des clochers
-0        Engoulevent d'Europe
-0        Faisan de Colchide
-0        Faucon crécerellette
-0        Faucon d'Eléonore
-0        Faucon hobereau
-0        Guêpier d'Europe
-0        Hibou moyen-duc
-0        Martinet à ventre blanc
-0        Martin-pêcheur d'Europe
-0        Mésange noire
-0        Monticole de roche
-0        Mouette rieuse
-0        Perdrix rouge
-0        Pic épeichette
-0        Pic mar
-0        Pie-grièche à tête rousse
-0        Pipit des arbres
-0        Pouillot de Bonelli
-0        Pouillot fitis
-0        Rollier d'Europe
-0        Sarcelle d'hiver
-0        Serin cini
-0        Tarier des prés
-0        Tarin des aulnes
-0        Tichodrome échelette
-0        Torcol fourmilier
-0        Vanneau huppé
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Aigle botté               2017    0        3
+Aigle royal               2016    0        3
+Bécasse des bois          2009    0        2
+Bécassine des marais      2013    0        2
+Bec-croisé des sapins     2013    0        1
+Bergeronnette printanière 2012    0        3
+Bruant fou                2012    0        1
+Chevalier guignette       2013    0        1
+Choucas des tours         2018    0        2
+Cigogne noire             2008    0        1
+Effraie des clochers      2009    0        2
+Engoulevent d'Europe      2010    0        7
+Faisan de Colchide        2012    0        8
+Faucon crécerellette      2012    0        6
+Faucon d'Eléonore         2016    0        1
+Faucon hobereau           2013    0        3
+Guêpier d'Europe          2009    0        3
+Hibou moyen-duc           2015    0        2
+Martinet à ventre blanc   2012    0        1
+Martin-pêcheur d'Europe   2016    0        5
+Mésange noire             2018    0        10
+Monticole de roche        2016    0        1
+Mouette rieuse            2009    0        1
+Perdrix rouge             2016    0        10
+Pic épeichette            2018    0        11
+Pic mar                   2016    0        2
+Pie-grièche à tête rousse 2012    0        1
+Pipit des arbres          2018    0        27
+Pouillot de Bonelli       2009    0        5
+Pouillot fitis            2012    0        5
+Rollier d'Europe          2011    0        1
+Sarcelle d'hiver          2009    0        1
+Serin cini                2016    0        4
+Tarier des prés           2012    0        8
+Tarin des aulnes          2014    0        1
+Tichodrome échelette      2016    0        1
+Torcol fourmilier         2012    0        6
+Vanneau huppé             2014    0        1
 

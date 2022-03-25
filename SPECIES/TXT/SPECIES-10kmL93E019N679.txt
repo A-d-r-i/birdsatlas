@@ -1,10 +1,10 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Courlis corlieu
-0        Engoulevent d'Europe
-0        Goéland leucophée
-0        Grosbec casse-noyaux
-0        Milan royal
-0        Perdrix rouge
+frname               lastobs newcount oldcount
+------               ------- -------- --------
+Courlis corlieu      2012    0        1
+Engoulevent d'Europe 2009    0        1
+Goéland leucophée    2013    0        1
+Grosbec casse-noyaux 2018    0        1
+Milan royal          2018    0        1
+Perdrix rouge        2009    0        1
 

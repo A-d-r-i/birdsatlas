@@ -1,10 +1,8 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Butor étoilé"
-"0";"Élanion blanc"
-"0";"Hibou des marais"
-"0";"Marouette ponctuée"
-"0";"Oie à tête barrée"
-"0";"Pie-grièche grise"
-"0";"Sterne naine"
+frname,lastobs,newcount,oldcount
+Butor étoilé,2011,0,2
+Élanion blanc,2017,0,1
+Hibou des marais,2009,0,1
+Marouette ponctuée,2018,0,1
+Oie à tête barrée,2017,0,1
+Pie-grièche grise,2010,0,3
+Sterne naine,2017,0,1

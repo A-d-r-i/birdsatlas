@@ -1,14 +1,14 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Bécassine des marais
-0        Bergeronnette printanière
-0        Busard Saint-Martin
-0        Hibou moyen-duc
-0        Locustelle tachetée
-0        Mésange noire
-0        Pipit farlouse
-0        Pouillot fitis
-0        Tarier pâtre
-0        Tarin des aulnes
+frname                    lastobs newcount oldcount
+------                    ------- -------- --------
+Bécassine des marais      2017    0        2
+Bergeronnette printanière 2015    0        1
+Busard Saint-Martin       2018    0        1
+Hibou moyen-duc           2018    0        1
+Locustelle tachetée       2009    0        1
+Mésange noire             2019    0        6
+Pipit farlouse            2019    0        1
+Pouillot fitis            2015    0        1
+Tarier pâtre              2015    0        1
+Tarin des aulnes          2016    0        1
 

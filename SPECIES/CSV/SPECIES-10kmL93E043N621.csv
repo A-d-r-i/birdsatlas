@@ -1,21 +1,19 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Autour des palombes"
-"0";"Bruant zizi"
-"0";"Canard pilet"
-"0";"Chouette de Tengmalm"
-"0";"Courlis cendré"
-"0";"Faucon d'Eléonore"
-"0";"Fauvette des jardins"
-"0";"Fauvette passerinette"
-"0";"Gallinule poule-d'eau"
-"0";"Lagopède alpin"
-"0";"Perruche à collier"
-"0";"Pic à dos blanc"
-"0";"Pic de Sharpe"
-"0";"Pic épeichette"
-"0";"Râle d'eau"
-"0";"Rossignol philomèle"
-"0";"Torcol fourmilier"
-"0";"Tourterelle des bois"
+frname,lastobs,newcount,oldcount
+Autour des palombes,2017,0,4
+Bruant zizi,2015,0,2
+Canard pilet,2009,0,1
+Chouette de Tengmalm,2009,0,1
+Courlis cendré,2013,0,1
+Faucon d'Eléonore,2010,0,2
+Fauvette des jardins,2016,0,3
+Fauvette passerinette,2014,0,1
+Gallinule poule-d'eau,2017,0,6
+Lagopède alpin,2009,0,1
+Perruche à collier,2018,0,1
+Pic à dos blanc,2012,0,2
+Pic de Sharpe,2013,0,1
+Pic épeichette,2013,0,4
+Râle d'eau,2009,0,1
+Rossignol philomèle,2011,0,1
+Torcol fourmilier,2018,0,3
+Tourterelle des bois,2009,0,1

@@ -1,11 +1,11 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Busard Saint-Martin
-0        Chevalier guignette
-0        Chevalier sylvain
-0        Grand Corbeau
-0        Milan noir
-0        Mouette pygmée
-0        Râle d'eau
+frname              lastobs newcount oldcount
+------              ------- -------- --------
+Busard Saint-Martin 2009    0        1
+Chevalier guignette 2017    0        1
+Chevalier sylvain   2017    0        1
+Grand Corbeau       2014    0        1
+Milan noir          2018    0        1
+Mouette pygmée      2018    0        1
+Râle d'eau          2017    0        1
 

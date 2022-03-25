@@ -1,13 +1,13 @@
 
-[32;1mnewcount frname[0m
-[32;1m-------- ------[0m
-0        Buse pattue
-0        Canard chipeau
-0        Engoulevent d'Europe
-0        Goéland brun
-0        Grèbe castagneux
-0        Harle bièvre
-0        Pluvier doré
-0        Rousserolle verderolle
-0        Vautour fauve
+frname                 lastobs newcount oldcount
+------                 ------- -------- --------
+Buse pattue            2011    0        3
+Canard chipeau         2011    0        2
+Engoulevent d'Europe   2012    0        4
+Goéland brun           2012    0        3
+Grèbe castagneux       2018    0        16
+Harle bièvre           2011    0        2
+Pluvier doré           2015    0        1
+Rousserolle verderolle 2010    0        3
+Vautour fauve          2018    0        1
 

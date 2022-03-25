@@ -1,13 +1,11 @@
-"newcount";"frname"
-"[32";"1m[0m"
-"[32";"1m-------- ------[0m"
-"0";"Busard pâle"
-"0";"Fuligule milouin"
-"0";"Gorgebleue à miroir"
-"0";"Grèbe huppé"
-"0";"Jaseur boréal"
-"0";"Mésange boréale"
-"0";"Moineau friquet"
-"0";"Pie-grièche à tête rousse"
-"0";"Pluvier doré"
-"0";"Tadorne de Belon"
+frname,lastobs,newcount,oldcount
+Busard pâle,2016,0,2
+Fuligule milouin,2011,0,1
+Gorgebleue à miroir,2018,0,1
+Grèbe huppé,2017,0,12
+Jaseur boréal,2010,0,2
+Mésange boréale,2018,0,7
+Moineau friquet,2014,0,2
+Pie-grièche à tête rousse,2016,0,1
+Pluvier doré,2013,0,2
+Tadorne de Belon,2017,0,5
