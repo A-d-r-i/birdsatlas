@@ -1,67 +1,90 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>BirdsAtlas</title>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://raw.githubusercontent.com/A-d-r-i/birdsatlas/main/maillesfr.geojson"></script>
-<style>
-	html, body {
-        height: 100%;
-        width: 100%;
-        margin: 0px;
-	}
-</style>
-</head>
-<body>
-<table border="0" width="100%" height="100%">
-<tr><td id="map" style="width:50%">
-</td><td>
-Maille : <span id="area_name"></span> | <a id="area_name_url">LIEN ODF</a><br>
-ID : <span id="area_id"></span><br>
-Espèces non observées après 2019 :<br><embed id="area_species_2019" width="100%" height="100%">
-Espèces non observées (de la plus à la moins courante en France) :<br><embed id="area_species_never" width="100%" height="100%">
-Espèces introuvables dans la liste des blanks :<br><embed id="area_species_nf" width="100%" height="100%">
-</td></tr>
-</table>
-<script>
-var newMap = L.map('map').setView([46.5,2], 6);
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
-}).addTo(newMap);
-
-// loading GeoJSON file
-$.getJSON("maillesfr.geojson",function(data){
-// L.geoJson function is used to parse geojson file and load on to map
-// add GeoJSON layer to the map once the file is loaded
-var datalayer = L.geoJson(data, {
-	
-onEachFeature: function(feature, featureLayer) {
-featureLayer.bindPopup(feature.properties.area_name);
-
-featureLayer.on('click', function() {
-			var area_name = document.getElementById('area_name');
-            area_name.textContent = feature.properties.area_name;
+	<head>
+		<title>BirdsAtlas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="https://raw.githubusercontent.com/A-d-r-i/birdsatlas/main/maillesfr.geojson"></script>
+		<style>
+			html, body {
+			height: 100%;
+			width: 100%;
+			margin: 0px;
+			}
+			td {
+			vertical-align: top;
+			}
+			.monospace {
+			font-family: monospace;
+			font-size: 1em;
+			padding-left: 1em;
+			}
+			.button {
+			background-color: #e8eeeb;
+			color: #5f907a !important;
+			border-radius: 5px;
+			padding: 0 1.5em;
+			text-decoration: none;
+			cursor: pointer
+			}
+		</style>
+	</head>
+	<body>
+		<table border="0" width="100%" height="100%">
+			<tr><td id="map" style="width:50%">
+				</td><td>
+				<h1 align="center">BirdsAtlas</h1>
+				<p class="monospace">MAJ des mailles : <b>28/03/2022</b> | MAJ des blanks : <b>25/03/2022</b></p>
+				<hr>
+				<div id="details" style="display:none;">
+				<b>Maille</b> : <span id="maille"></span> | <b>ID</b> : <span id="area_id"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a><hr>
+				<b>Espèces non observées après 2019</b> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
+				<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
+				<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) :<br>
+				<p class="monospace">Aigle de Bonelli | Aigle pomarin | Balbuzard pêcheur | Grue cendrée | Gypaète barbu | Pie-grièche à poitrine rose | Pygargue à queue blanche | Vautour percnoptère</p><embed id="area_species_nf" width="100%" height="200vh">
+				</div>
+			</td></tr>
+		</table>
+		<script>
+			var newMap = L.map('map').setView([46.5,2], 6);
+			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors | A-d-r-i'
+			}).addTo(newMap);
+			
+			// loading GeoJSON file
+			$.getJSON("maillesfr.geojson",function(data){
+			// L.geoJson function is used to parse geojson file and load on to map
+			// add GeoJSON layer to the map once the file is loaded
+			var datalayer = L.geoJson(data, {
+			
+			onEachFeature: function(feature, featureLayer) {
+			//featureLayer.bindPopup(feature.properties.maille);
+			
+			featureLayer.on('click', function() {
+			document.getElementById('details').style.display = "block";
+			var area_name = feature.properties.area_name;
+			var maille = document.getElementById('maille');
+            maille.textContent = feature.properties.maille;
+			var area_id = document.getElementById('area_id');
+            area_id.textContent = feature.properties.id;
 			document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
 			document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
 			document.getElementById("area_species_never").setAttribute("src","./SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
 			document.getElementById("area_species_nf").setAttribute("src","./SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
-			var area_id = document.getElementById('area_id');
-            area_id.textContent = feature.properties.id;
-        });
-
-featureLayer.setStyle({
-    weight: 1,
-    opacity: 0.5,
-    color: 'red',
-    dashArray: '3',
-    fillOpacity: 0,	
-	});
-
-}
+		});
+		
+		featureLayer.setStyle({
+			weight: 1,
+			opacity: 0.5,
+			color: 'red',
+			dashArray: '3',
+			fillOpacity: 0,	
+		});
+		
+	}
 }).addTo(newMap);
 newMap.fitBounds(datalayer.getBounds());
 
