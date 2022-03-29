@@ -6,6 +6,8 @@ foreach ($code in $list) {
 #$code = '42510'
 $id = ([xml](Get-Content ID.xml)).ID."id$code"
 
+echo $id
+
 # download of JSON
 Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code" -OutFile "./SPECIES/TOTAL/JSON/ODF-$id.json"
 (Get-Content "./SPECIES/TOTAL/JSON/ODF-$id.json" -Encoding UTF8 | ConvertFrom-Json).all_period.last_obs | Out-File "lastobs.csv" -Encoding UTF8
@@ -39,13 +41,6 @@ $BLANKS = Import-Csv -Path "BLANKS.csv" -delimiter ","
 $BLANKS.Vernaculaire | ?{$TOTAL.frname -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-BLANKS-$id.txt"
 ## not found in BLANKS.csv
 $TOTAL.frname | ?{$BLANKS.Vernaculaire -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-NF-$id.txt"
-
-echo $id
-#echo ''
-#echo '------------------- ESPECES NON OBSERVEES DEPUIS 2019 ----------------------'
-#echo $result.frname
-#echo '----------------------------------------------------------------------------'
-#echo ''
 
 }
 
