@@ -13,9 +13,9 @@ Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code"
 
 #}
 
-.\CREATE-TOTAL.ps1
-.\SEARCH-2019.ps1
-.\SEARCH-BLANKS.ps1
+& .\CREATE-TOTAL.ps1
+& .\SEARCH-2019.ps1
+& .\SEARCH-BLANKS.ps1
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
