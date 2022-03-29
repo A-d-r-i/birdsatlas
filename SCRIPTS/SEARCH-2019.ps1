@@ -1,7 +1,7 @@
 $list = Get-Content "./ID.txt"
 
-#foreach ($code in $list) {
-$code = '42510'
+foreach ($code in $list) {
+#$code = '42510'
 $id = ([xml](Get-Content "./ID.xml")).ID."id$code"
 
 # search for not sighting from 2019
@@ -14,7 +14,7 @@ $file | Out-File "./SPECIES/2019/TXT/SPECIES-2019-$id.txt" -Encoding UTF8
 $result | Export-Csv "SPECIES.csv" -Delimiter "," -NoTypeInformation -Encoding UTF8
 (Get-Content "SPECIES.csv") | % {$_ -replace '"', ''} | Out-File "./SPECIES/2019/CSV/SPECIES-2019-$id.csv" -Fo -Encoding UTF8
 
-#}
+}
 
 Remove-Item "SPECIESTEMP.txt", "SPECIES.csv"
 

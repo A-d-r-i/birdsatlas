@@ -1,7 +1,7 @@
 $list = Get-Content "./ID.txt"
 
-#foreach ($code in $list) {
-$code = '42510'
+foreach ($code in $list) {
+#$code = '42510'
 $id = ([xml](Get-Content "./ID.xml")).ID."id$code"
 
 # compare with blanks
@@ -11,7 +11,7 @@ $BLANKS.Vernaculaire | ?{$TOTAL.frname -notcontains $_} | Out-File "./SPECIES/LI
 ## not found in BLANKS.csv
 $TOTAL.frname | ?{$BLANKS.Vernaculaire -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-NF-$id.txt"
 
-#}
+}
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
