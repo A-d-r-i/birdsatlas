@@ -5,6 +5,7 @@ $code = '42510'
 $id = ([xml](Get-Content "./ID.xml")).ID."id$code"
 
 # compare with blanks
+$TOTAL = Import-Csv -Path "./SPECIES/TOTAL/CSV/ALL-SPECIES-$id.csv" -delimiter ","
 $BLANKS = Import-Csv -Path "./BLANKS.csv" -delimiter ","
 $BLANKS.Vernaculaire | ?{$TOTAL.frname -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-BLANKS-$id.txt"
 ## not found in BLANKS.csv
