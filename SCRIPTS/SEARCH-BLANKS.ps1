@@ -1,14 +1,14 @@
-$list = Get-Content "../ID.txt"
+$list = Get-Content "./ID.txt"
 
 #foreach ($code in $list) {
 $code = '42510'
-$id = ([xml](Get-Content "../ID.xml")).ID."id$code"
+$id = ([xml](Get-Content "./ID.xml")).ID."id$code"
 
 # compare with blanks
-$BLANKS = Import-Csv -Path "../BLANKS.csv" -delimiter ","
-$BLANKS.Vernaculaire | ?{$TOTAL.frname -notcontains $_} | Out-File "../SPECIES/LIST/SPECIES-BLANKS-$id.txt"
+$BLANKS = Import-Csv -Path "./BLANKS.csv" -delimiter ","
+$BLANKS.Vernaculaire | ?{$TOTAL.frname -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-BLANKS-$id.txt"
 ## not found in BLANKS.csv
-$TOTAL.frname | ?{$BLANKS.Vernaculaire -notcontains $_} | Out-File "../SPECIES/LIST/SPECIES-NF-$id.txt"
+$TOTAL.frname | ?{$BLANKS.Vernaculaire -notcontains $_} | Out-File "./SPECIES/LIST/SPECIES-NF-$id.txt"
 
 #}
 
