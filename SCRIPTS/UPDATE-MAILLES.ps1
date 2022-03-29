@@ -2,8 +2,8 @@
 #$code = ([xml](Get-Content MAILLES.xml)).MAILLES.$id
 $list = Get-Content "../ID.txt"
 
-foreach ($code in $list) {
-#$code = '42510'
+#foreach ($code in $list) {
+$code = '42510'
 $id = ([xml](Get-Content "../ID.xml")).ID."id$code"
 
 echo $id
@@ -11,7 +11,7 @@ echo $id
 # download of JSON
 Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code" -OutFile "../SPECIES/TOTAL/JSON/ODF-$id.json"
 
-}
+#}
 
 ./CREATE-TOTAL.ps1
 ./SEARCH-2019.ps1
