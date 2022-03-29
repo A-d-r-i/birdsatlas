@@ -1,4 +1,4 @@
-name: UPDATE-MAILLES
+name: CREATE-TOTAL
 
 on:
   #schedule:
@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Script
         run:  |
-          ./SCRIPTS/UPDATE-MAILLES.ps1
+          ./SCRIPTS/CREATE-TOTAL.ps1
