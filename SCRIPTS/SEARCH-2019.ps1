@@ -16,6 +16,10 @@ $result | Export-Csv "SPECIES.csv" -Delimiter "," -NoTypeInformation -Encoding U
 
 }
 
+$text = Get-Content dates.txt
+$date = Get-Date -Format "dd/MM/yyyy"
+$text = $text -replace "2019 : ([0-9]+/[0-9]+/[0-9]+)","2019 : $date" | Set-Content -Path dates.txt
+
 Remove-Item "SPECIESTEMP.txt", "SPECIES.csv"
 
 # git and create tag

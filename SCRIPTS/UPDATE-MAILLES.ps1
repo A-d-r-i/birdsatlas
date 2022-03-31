@@ -13,6 +13,10 @@ Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code"
 
 }
 
+$text = Get-Content dates.txt
+$date = Get-Date -Format "dd/MM/yyyy"
+$text = $text -replace "mailles : ([0-9]+/[0-9]+/[0-9]+)","mailles : $date" | Set-Content -Path dates.txt
+
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
 git config --local user.name "A-d-r-i"

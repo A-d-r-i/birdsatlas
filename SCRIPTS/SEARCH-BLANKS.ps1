@@ -13,6 +13,10 @@ $TOTAL.frname | ?{$BLANKS.Vernaculaire -notcontains $_} | Out-File "./SPECIES/LI
 
 }
 
+$text = Get-Content dates.txt
+$date = Get-Date -Format "dd/MM/yyyy"
+$text = $text -replace "blanks & notfound : ([0-9]+/[0-9]+/[0-9]+)","blanks & notfound : $date" | Set-Content -Path dates.txt
+
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"
 git config --local user.name "A-d-r-i"
