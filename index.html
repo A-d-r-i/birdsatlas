@@ -1,137 +1,41 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>BirdsAtlas</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" /> -->
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<link rel="stylesheet" href="./ASSETS/style.css" />
+		<script src="http://code.jquery.com/jquery-3.6.0.min.js"></script>
 		<script src="https://raw.githubusercontent.com/A-d-r-i/birdsatlas/main/maillesfr.geojson"></script>
-		<link rel="stylesheet" href="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.css" />
-		<script src="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.js"></script>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.css" />
-		<script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>
-		<style>
-			html, body {
-			height: 100%;
-			width: 100%;
-			margin: 0px;
-			}
-			td {
-			vertical-align: top;
-			}
-			.button {
-			background-color: #e8eeeb;
-			color: #5f907a !important;
-			border-radius: 5px;
-			padding: 0 1.5em;
-			text-decoration: none;
-			cursor: pointer
-			}
-			.tooltip {
-			position: relative;
-			display: inline-block;
-			}
-			
-			.tooltip .tooltiptext {
-			visibility: hidden;
-			width: 300px;
-			background-color: #555;
-			color: #fff;
-			text-align: center;
-			border-radius: 6px;
-			padding: 5px;
-			position: absolute;
-			z-index: 1;
-			bottom: 125%;
-			left: 50%;
-			margin-left: -150px;
-			opacity: 0;
-			transition: opacity 0.3s;
-			}
-			
-			.tooltip .tooltiptext::after {
-			content: "";
-			position: absolute;
-			top: 100%;
-			left: 50%;
-			margin-left: -5px;
-			border-width: 5px;
-			border-style: solid;
-			border-color: #555 transparent transparent transparent;
-			}
-			
-			.tooltip:hover .tooltiptext {
-			visibility: visible;
-			opacity: 1;
-			}
-		</style>
 	</head>
+	
 	<body>
-		<table border="0" width="100%" height="100%">
-			<tr><td id="map" style="width:50%">
-				</td><td>
-				<h1 align="center">BirdsAtlas</h1>
-				<embed src="dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
-				<div id="details" style="display:none;">
-					<b>Maille</b> : <span id="maille"></span> | <b>ID</b> : <span id="area_id"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a><hr>
-					<b>Espèces non observées après 2019 </b>
-						<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui furent observées dans la maille antérieurement à 2019.</span></div> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
-					<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) 
-					<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées. De plus les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées.</span></div> :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
-					<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) 
-					<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>.</span></div> :<br>
-					<embed id="area_species_nf" width="100%" height="200vh">
+		<div id="container">
+			<div id="sidebar">
+				<div class="sidebar-wrapper">
+					<div id="features" class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">BirdsAtlas</h3>
+						</div>
+						<embed src="dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
+						<div id="details" style="display:none;">
+							<b>Maille</b> : <span id="maille"></span> | <b>ID</b> : <span id="area_id"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a><hr>
+							<b>Espèces non observées après 2019 </b>
+							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui furent observées dans la maille antérieurement à 2019.</span></div> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
+							<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) 
+							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées. De plus les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées.</span></div> :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
+							<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) 
+							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>.</span></div> :<br>
+							<embed id="area_species_nf" width="100%" height="200vh">
+						</div>
+					</div>
 				</div>
-			</td></tr>
-		</table>
-		<script>
-			var newMap = L.map('map').setView([46.5,2], 6);
-			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors | A-d-r-i'
-			}).addTo(newMap);
-			
-			// loading GeoJSON file
-			$.getJSON("maillesfr.geojson",function(data){
-				// L.geoJson function is used to parse geojson file and load on to map
-				// add GeoJSON layer to the map once the file is loaded
-				var datalayer = L.geoJson(data, {
-					
-					onEachFeature: function(feature, featureLayer) {
-						//featureLayer.bindPopup(feature.properties.maille);
-						
-						featureLayer.on('click', function() {
-							document.getElementById('details').style.display = "block";
-							var area_name = feature.properties.area_name;
-							var maille = document.getElementById('maille');
-							maille.textContent = feature.properties.maille;
-							var area_id = document.getElementById('area_id');
-							area_id.textContent = feature.properties.id;
-							document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
-							document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
-							document.getElementById("area_species_never").setAttribute("src","./SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
-							document.getElementById("area_species_nf").setAttribute("src","./SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
-						});
-						
-						featureLayer.setStyle({
-							weight: 1,
-							opacity: 0.5,
-							color: 'red',
-							dashArray: '3',
-							fillOpacity: 0,	
-						});
-						
-					}
-				}).addTo(newMap);
-				newMap.fitBounds(datalayer.getBounds());
-				L.control.locate().addTo(newMap);
-				//L.control.search().addTo(newMap);
-				
-				
-				
-			});
-			
-		</script>
+			</div>
+			<div id="map"></div>
+		</div>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+		<script src="./ASSETS/script.js"></script>
 	</body>
 </html>
