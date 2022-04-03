@@ -7,7 +7,7 @@ function main() {
 	}).addTo(newMap);
 	
 	// loading GeoJSON file
-	$.getJSON("maillesfr.geojson",function(data){
+	$.getJSON("DATA/MAILLES.geojson",function(data){
 		// L.geoJson function is used to parse geojson file and load on to map
 		// add GeoJSON layer to the map once the file is loaded
 		var datalayer = L.geoJson(data, {
