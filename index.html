@@ -4,11 +4,10 @@
 		<title>BirdsAtlas</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 		<link rel="stylesheet" href="ASSETS/style.css" />
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.css" />
-		<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-		<script type="application/geo+json" src="maillesfr.geojson"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<script type="application/geo+json" src="DATA/MAILLES.geojson"></script>
 		
 	</head>
 	
@@ -21,15 +20,29 @@
 							<h3 class="panel-title">BirdsAtlas</h3>
 						</div>
 						<embed src="dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
-						<div id="details" style="display:none;">
+						<ul class="nav nav-tabs">
+							<li class="active"><a data-toggle="tab" href="#mailles">Mailles</a></li>
+							<li><a data-toggle="tab" href="#aide">Aide</a></li>
+						</ul>
+						<div class="tab-content">
+							<div id="mailles" class="tab-pane fade in active">
+								<div id="tuto" style="margin-top: 20px;margin-bottom: 10px;"><i>Sélectionner une maille</i></div>
+								<div id="details" style="display:none;margin-top: 20px;margin-bottom: 10px;">
 							<b>Maille</b> : <span id="maille"></span> | <b>ID</b> : <span id="area_id"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a><hr>
-							<b>Espèces non observées après 2019 </b>
-							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui furent observées dans la maille antérieurement à 2019.</span></div> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
-							<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) 
-							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées. De plus les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées.</span></div> :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
-							<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) 
-							<div class="tooltip">💡<span class="tooltiptext">Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>.</span></div> :<br>
+							<b>Espèces non observées après 2019</b> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
+							<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
+							<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) :<br>
 							<embed id="area_species_nf" width="100%" height="200vh">
+						</div>
+							</div>
+							<div id="aide" class="tab-pane fade">
+								<h3>Détails et explications</h3>
+								<ul>
+								<li><b>Espèces non observées après 2019</b> : Affiche les espèces qui furent observées dans la maille antérieurement à 2019.</li><br>
+								<li><b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) : Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées. De plus les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées.</li><br>
+								<li><b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) : Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>.</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -38,6 +51,7 @@
 		</div>
 		<script type="text/javascript" src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/leaflet-search@3.0.2/src/leaflet-search.js"></script>
 		<script type="text/javascript" src="ASSETS/script.js"></script>
 	</body>
 </html>
