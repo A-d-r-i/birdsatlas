@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
-Aigle royal,2015,0,1
+Aigle royal,2022,1,1
 Aigrette garzette,2018,0,1
-Alouette lulu,2019,2,1
+Alouette lulu,2022,3,1
 Bondrée apivore,2019,1,0
 Bouscarle de Cetti,2020,3,1
 Bruant ortolan,2019,1,0
@@ -12,7 +12,7 @@ Busard des roseaux,2019,1,0
 Buse variable,2021,3,2
 Caille des blés,2019,2,0
 Canard colvert,2018,0,1
-Chardonneret élégant,2019,2,1
+Chardonneret élégant,2022,3,1
 Chevalier culblanc,2019,1,0
 Chevalier gambette,2019,2,0
 Corneille mantelée,2021,4,3
@@ -26,25 +26,26 @@ Faucon crécerelle,2021,4,0
 Fauvette à tête noire,2019,1,0
 Fauvette de Moltoni,2020,2,2
 Fauvette des jardins,2020,1,0
-Fauvette mélanocéphale,2021,11,6
+Fauvette mélanocéphale,2022,13,6
 Fauvette passerinette,2009,0,1
-Fauvette pitchou,2021,8,2
-Fauvette sarde,2021,11,4
+Fauvette pitchou,2022,11,2
+Fauvette sarde,2022,15,4
 Foulque macroule,2018,0,1
 Gallinule poule-d'eau,2019,3,1
 Geai des chênes,2019,1,2
 Gobemouche gris,2019,2,1
 Goéland leucophée,2019,1,0
-Grand Corbeau,2021,6,3
+Grand Corbeau,2022,8,3
 Grèbe castagneux,2019,2,1
 Grive musicienne,2020,1,0
 Guêpier d'Europe,2009,0,1
 Héron cendré,2018,0,2
-Hirondelle de rochers,2017,0,2
+Hirondelle de fenêtre,2022,1,0
+Hirondelle de rochers,2022,1,2
 Hirondelle rousseline,2021,2,0
 Hirondelle rustique,2018,0,1
 Huppe fasciée,2019,1,0
-Linotte mélodieuse,2017,0,1
+Linotte mélodieuse,2022,1,1
 Martinet à ventre blanc,2021,2,1
 Martinet noir,2019,1,1
 Merle noir,2019,2,3
@@ -54,14 +55,14 @@ Mésange charbonnière,2019,1,2
 Milan royal,2021,18,3
 Moineau cisalpin,2019,1,1
 Monticole bleu,2021,5,1
-Perdrix rouge,2021,3,4
+Perdrix rouge,2022,4,4
 Petit-duc scops,2021,5,0
 Pigeon ramier,2021,5,4
 Pinson des arbres,2021,3,0
 Pipit rousseline,2021,1,0
 Roitelet à triple bandeau,2021,1,1
 Rossignol philomèle,2019,2,1
-Rougegorge familier,2021,6,4
+Rougegorge familier,2022,7,4
 Rougequeue à front blanc,2019,2,0
 Serin cini,2019,1,0
 Tarier des prés,2019,2,0
@@ -70,5 +71,5 @@ Torcol fourmilier,2019,1,0
 Tourterelle des bois,2019,1,1
 Tourterelle turque,2019,2,1
 Troglodyte mignon,2019,1,0
-Venturon corse,2021,4,10
+Venturon corse,2022,5,10
 Verdier d'Europe,2019,2,1

@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,132,136
+Accenteur mouchet,2022,135,136
 Aigrette garzette,2021,1,1
 Alouette des champs,2021,1,0
 Bécasse des bois,2021,1,2
@@ -33,7 +33,7 @@ Engoulevent d'Europe,2013,0,1
 Étourneau sansonnet,2022,126,66
 Faucon crécerelle,2019,2,23
 Faucon hobereau,2019,1,2
-Faucon pèlerin,2022,3,2
+Faucon pèlerin,2022,4,2
 Fauvette à tête noire,2022,44,31
 Fauvette des jardins,2020,1,4
 Fauvette grisette,2009,0,1
@@ -50,7 +50,7 @@ Grand Corbeau,2022,8,0
 Grand Cormoran,2021,8,3
 Grèbe castagneux,2018,0,3
 Grèbe huppé,2018,0,1
-Grimpereau des jardins,2021,4,2
+Grimpereau des jardins,2022,5,2
 Grive draine,2022,12,8
 Grive litorne,2021,1,1
 Grive mauvis,2021,7,4
@@ -66,9 +66,9 @@ Linotte mélodieuse,2021,2,2
 Martinet noir,2021,11,5
 Martin-pêcheur d'Europe,2021,4,1
 Merle à plastron,2021,2,0
-Merle noir,2022,268,308
+Merle noir,2022,270,308
 Mésange à longue queue,2021,10,14
-Mésange bleue,2022,175,239
+Mésange bleue,2022,177,239
 Mésange charbonnière,2022,170,246
 Mésange huppée,2022,7,2
 Mésange noire,2022,12,9
@@ -80,9 +80,9 @@ Perruche à collier,2021,1,0
 Pic épeiche,2022,6,2
 Pic épeichette,2012,0,3
 Pic vert,2022,8,2
-Pie bavarde,2022,106,53
+Pie bavarde,2022,107,53
 Pigeon biset domestique,2022,7,6
-Pigeon ramier,2022,86,53
+Pigeon ramier,2022,87,53
 Pinson des arbres,2022,150,214
 Pinson du Nord,2022,15,7
 Pipit des arbres,2009,0,1
@@ -91,13 +91,13 @@ Pipit maritime,2018,0,3
 Pouillot à grands sourcils,2021,1,0
 Pouillot fitis,2021,1,1
 Pouillot siffleur,2009,0,1
-Pouillot véloce,2022,9,18
+Pouillot véloce,2022,11,18
 Râle d'eau,2020,1,0
 Roitelet à triple bandeau,2019,2,2
 Roitelet huppé,2021,4,4
 Rossignol philomèle,2020,2,0
-Rougegorge familier,2022,218,218
-Rougequeue noir,2021,4,3
+Rougegorge familier,2022,220,218
+Rougequeue noir,2022,5,3
 Rousserolle effarvatte,2009,0,1
 Serin cini,2021,4,1
 Sittelle torchepot,2022,10,3
@@ -108,5 +108,5 @@ Tournepierre à collier,2022,4,1
 Tourterelle des bois,2021,1,0
 Tourterelle turque,2022,137,91
 Traquet motteux,2021,1,1
-Troglodyte mignon,2022,45,74
+Troglodyte mignon,2022,46,74
 Verdier d'Europe,2022,49,154

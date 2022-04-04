@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,18,93
 Aigrette garzette,2020,4,20
-Alouette des champs,2022,9,73
+Alouette des champs,2022,10,73
 Alouette lulu,2020,1,15
 Avocette élégante,2010,0,1
 Bécasse des bois,2018,0,2
@@ -14,7 +14,7 @@ Bouscarle de Cetti,2021,7,9
 Bouvreuil pivoine,2017,0,5
 Bruant des roseaux,2010,0,2
 Bruant jaune,2020,1,10
-Bruant zizi,2022,9,47
+Bruant zizi,2022,10,47
 Busard Saint-Martin,2019,3,33
 Buse variable,2022,31,261
 Caille des blés,2020,1,3
@@ -50,10 +50,10 @@ Faucon pèlerin,2017,0,2
 Fauvette à tête noire,2021,41,122
 Fauvette des jardins,2020,2,15
 Fauvette grisette,2015,0,11
-Foulque macroule,2022,8,61
+Foulque macroule,2022,9,61
 Fuligule milouin,2018,0,61
 Fuligule morillon,2021,2,14
-Gallinule poule-d'eau,2022,10,71
+Gallinule poule-d'eau,2022,11,71
 Geai des chênes,2021,15,195
 Gobemouche gris,2019,1,11
 Gobemouche noir,2019,2,4
@@ -63,7 +63,7 @@ Goéland cendré,2011,0,2
 Goéland leucophée,2020,1,1
 Grand Cormoran,2022,11,116
 Grande Aigrette,2022,18,170
-Grèbe castagneux,2022,1,12
+Grèbe castagneux,2022,2,12
 Grèbe huppé,2022,8,108
 Grimpereau des jardins,2021,22,76
 Grive draine,2020,1,35
@@ -77,14 +77,14 @@ Héron pourpré,2017,0,2
 Hibou moyen-duc,2016,0,9
 Hirondelle de fenêtre,2021,6,22
 Hirondelle de rivage,2018,0,1
-Hirondelle rustique,2021,18,92
+Hirondelle rustique,2022,19,92
 Huppe fasciée,2021,3,24
 Hypolaïs polyglotte,2020,6,19
 Linotte mélodieuse,2021,2,7
 Loriot d'Europe,2021,6,25
 Martinet noir,2020,6,24
 Martin-pêcheur d'Europe,2021,11,81
-Merle noir,2022,49,311
+Merle noir,2022,50,311
 Mésange à longue queue,2021,22,108
 Mésange bleue,2022,38,238
 Mésange charbonnière,2022,62,242
@@ -109,15 +109,15 @@ Pie bavarde,2022,22,185
 Pie-grièche écorcheur,2020,1,4
 Pigeon biset domestique,2020,5,15
 Pigeon colombin,2020,1,7
-Pigeon ramier,2021,38,333
-Pinson des arbres,2022,53,316
+Pigeon ramier,2022,39,333
+Pinson des arbres,2022,54,316
 Pinson du Nord,2022,1,3
 Pipit des arbres,2020,1,1
 Pipit farlouse,2021,6,56
 Pluvier doré,2017,0,15
 Pouillot à grands sourcils,2020,1,1
 Pouillot fitis,2017,0,8
-Pouillot véloce,2022,35,127
+Pouillot véloce,2022,36,127
 Râle d'eau,2011,0,1
 Roitelet à triple bandeau,2021,12,32
 Roitelet huppé,2019,2,21
@@ -129,7 +129,7 @@ Serin cini,2022,5,19
 Sittelle torchepot,2022,18,55
 Sterne pierregarin,2014,0,5
 Tarier des prés,2016,0,7
-Tarier pâtre,2022,3,31
+Tarier pâtre,2022,4,31
 Tarin des aulnes,2021,8,10
 Tourterelle des bois,2021,12,59
 Tourterelle turque,2021,13,56

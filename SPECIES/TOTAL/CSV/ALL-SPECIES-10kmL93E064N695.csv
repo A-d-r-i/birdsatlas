@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,3,3
+Accenteur mouchet,2022,4,3
 Aigrette garzette,2009,0,1
 Alouette des champs,2009,0,2
 Bergeronnette des ruisseaux,2009,0,1
@@ -21,7 +21,7 @@ Chevêche d'Athéna,2009,0,2
 Choucas des tours,2009,0,1
 Chouette hulotte,2020,1,1
 Corbeau freux,2009,0,1
-Corneille noire,2021,12,6
+Corneille noire,2022,13,6
 Coucou gris,2020,1,1
 Effraie des clochers,2019,0,2
 Épervier d'Europe,2021,3,4
@@ -40,7 +40,7 @@ Goéland brun,2009,0,1
 Grimpereau des jardins,2009,0,2
 Grive draine,2009,0,2
 Grive litorne,2009,0,1
-Grive musicienne,2021,13,3
+Grive musicienne,2022,14,3
 Grosbec casse-noyaux,2020,1,2
 Héron cendré,2021,1,1
 Hibou moyen-duc,2009,0,1
@@ -49,27 +49,27 @@ Hirondelle rustique,2021,12,7
 Hypolaïs polyglotte,2009,0,1
 Linotte mélodieuse,2021,3,2
 Loriot d'Europe,2009,0,1
-Merle noir,2022,42,20
+Merle noir,2022,43,20
 Mésange à longue queue,2020,1,2
-Mésange bleue,2022,32,15
-Mésange charbonnière,2022,31,18
+Mésange bleue,2022,33,15
+Mésange charbonnière,2022,32,18
 Mésange huppée,2020,5,9
 Mésange noire,2020,12,8
 Mésange nonnette,2020,12,6
-Moineau domestique,2022,40,23
+Moineau domestique,2022,41,23
 Moineau friquet,2020,1,0
 Oedicnème criard,2009,0,1
 Perdrix grise,2009,0,2
 Perdrix rouge,2009,0,2
-Pic épeiche,2021,9,8
+Pic épeiche,2022,10,8
 Pic épeichette,2017,0,2
 Pic noir,2009,0,2
 Pic vert,2022,12,6
 Pie bavarde,2018,0,6
 Pigeon biset domestique,2021,1,1
 Pigeon colombin,2009,0,1
-Pigeon ramier,2022,34,13
-Pinson des arbres,2022,20,8
+Pigeon ramier,2022,35,13
+Pinson des arbres,2022,21,8
 Pinson du Nord,2020,1,2
 Pipit des arbres,2009,0,1
 Pipit farlouse,2009,0,2
@@ -78,7 +78,7 @@ Pouillot véloce,2021,8,4
 Roitelet à triple bandeau,2009,0,1
 Roitelet huppé,2009,0,2
 Rossignol philomèle,2009,0,1
-Rougegorge familier,2022,30,20
+Rougegorge familier,2022,31,20
 Rougequeue à front blanc,2020,2,0
 Rougequeue noir,2021,11,1
 Serin cini,2009,0,2
@@ -86,7 +86,7 @@ Sittelle torchepot,2021,25,7
 Tarier pâtre,2009,0,1
 Torcol fourmilier,2020,1,0
 Tourterelle des bois,2009,0,1
-Tourterelle turque,2022,28,22
+Tourterelle turque,2022,29,22
 Troglodyte mignon,2020,2,8
 Vanneau huppé,2018,0,2
-Verdier d'Europe,2022,15,10
+Verdier d'Europe,2022,16,10

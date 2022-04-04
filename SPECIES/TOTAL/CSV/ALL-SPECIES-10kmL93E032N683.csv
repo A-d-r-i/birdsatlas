@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,95,27
+Accenteur mouchet,2022,100,27
 Aigrette garzette,2020,1,4
 Alouette des champs,2022,20,5
 Alouette lulu,2021,1,0
@@ -7,17 +7,17 @@ Autour des palombes,2019,1,0
 Bécasse des bois,2020,1,2
 Bécassine des marais,2018,0,1
 Bécassine sourde,2018,0,1
-Bergeronnette des ruisseaux,2022,15,8
+Bergeronnette des ruisseaux,2022,16,8
 Bergeronnette grise,2022,26,13
 Bergeronnette printanière,2019,1,0
 Bernache cravant,2020,1,1
 Bihoreau gris,2019,1,0
 Bondrée apivore,2020,5,4
-Bouscarle de Cetti,2022,47,7
+Bouscarle de Cetti,2022,49,7
 Bouvreuil pivoine,2022,16,12
 Bruant jaune,2021,17,4
 Bruant zizi,2022,31,10
-Buse variable,2022,93,26
+Buse variable,2022,94,26
 Butor étoilé,2011,0,1
 Caille des blés,2009,0,1
 Canard colvert,2022,47,21
@@ -31,19 +31,19 @@ Choucas des tours,2022,26,9
 Chouette hulotte,2021,13,15
 Cigogne blanche,2019,1,0
 Cormoran huppé,2013,0,1
-Corneille noire,2022,96,22
+Corneille noire,2022,101,22
 Coucou gris,2021,22,7
 Cygne tuberculé,2021,2,1
 Effraie des clochers,2021,1,3
 Engoulevent d'Europe,2019,1,0
 Épervier d'Europe,2022,11,10
-Étourneau sansonnet,2022,61,16
+Étourneau sansonnet,2022,62,16
 Faisan de Colchide,2022,12,4
 Faucon crécerelle,2022,31,13
 Faucon émerillon,2021,1,2
 Faucon hobereau,2009,0,1
 Faucon pèlerin,2020,1,0
-Fauvette à tête noire,2022,132,13
+Fauvette à tête noire,2022,137,13
 Fauvette des jardins,2021,8,3
 Fauvette grisette,2009,0,2
 Foulque macroule,2022,17,14
@@ -53,7 +53,7 @@ Gallinule poule-d'eau,2022,16,12
 Garrot à oeil d'or,2011,0,2
 Geai des chênes,2022,43,19
 Gobemouche gris,2019,1,1
-Goéland argenté,2022,33,10
+Goéland argenté,2022,35,10
 Goéland brun,2022,18,6
 Goéland cendré,2020,1,1
 Goéland marin,2022,4,1
@@ -63,10 +63,10 @@ Grande Aigrette,2021,1,1
 Grèbe castagneux,2021,2,5
 Grèbe huppé,2022,26,16
 Grimpereau des jardins,2022,51,14
-Grive draine,2022,29,10
+Grive draine,2022,30,10
 Grive litorne,2020,3,3
 Grive mauvis,2022,27,10
-Grive musicienne,2022,72,25
+Grive musicienne,2022,74,25
 Grosbec casse-noyaux,2022,6,5
 Harle bièvre,2011,0,3
 Héron cendré,2022,37,17
@@ -80,56 +80,56 @@ Huppe fasciée,2020,1,0
 Hypolaïs polyglotte,2021,2,1
 Linotte mélodieuse,2022,42,8
 Martinet noir,2021,19,4
-Martin-pêcheur d'Europe,2021,11,5
-Merle noir,2022,195,60
+Martin-pêcheur d'Europe,2022,12,5
+Merle noir,2022,199,60
 Mésange à longue queue,2022,27,24
-Mésange bleue,2022,150,62
+Mésange bleue,2022,155,62
 Mésange charbonnière,2022,128,47
 Mésange huppée,2021,1,2
 Mésange noire,2018,0,9
 Mésange nonnette,2022,14,10
 Milan noir,2021,1,0
-Moineau domestique,2022,79,28
+Moineau domestique,2022,80,28
 Moineau friquet,2020,1,0
 Mouette mélanocéphale,2022,3,1
 Mouette rieuse,2022,30,11
 Phragmite des joncs,2019,1,0
-Pic épeiche,2022,82,30
+Pic épeiche,2022,85,30
 Pic épeichette,2021,9,2
-Pic mar,2022,5,1
+Pic mar,2022,6,1
 Pic noir,2022,3,2
-Pic vert,2022,98,25
+Pic vert,2022,100,25
 Pie bavarde,2022,92,28
 Pigeon biset domestique,2022,12,3
 Pigeon colombin,2021,2,2
-Pigeon ramier,2022,193,41
-Pinson des arbres,2022,211,60
+Pigeon ramier,2022,198,41
+Pinson des arbres,2022,217,60
 Pinson du Nord,2022,1,4
 Pipit des arbres,2019,1,0
 Pipit farlouse,2022,18,11
 Pipit spioncelle,2020,1,0
 Pouillot fitis,2021,4,3
-Pouillot véloce,2022,125,17
+Pouillot véloce,2022,133,17
 Râle d'eau,2022,5,4
 Roitelet à triple bandeau,2022,16,15
 Roitelet huppé,2022,12,6
-Rougegorge familier,2022,215,68
+Rougegorge familier,2022,221,68
 Rougequeue noir,2021,9,4
 Rousserolle effarvatte,2020,4,5
 Rousserolle verderolle,2009,0,1
 Sarcelle d'hiver,2019,1,1
-Serin cini,2021,8,2
-Sittelle torchepot,2022,50,28
+Serin cini,2022,9,2
+Sittelle torchepot,2022,51,28
 Spatule blanche,2017,0,1
 Sterne caugek,2019,1,0
 Sterne pierregarin,2016,0,1
-Tadorne de Belon,2022,7,0
+Tadorne de Belon,2022,8,0
 Tarier des prés,2019,1,0
 Tarier pâtre,2022,19,5
 Tarin des aulnes,2022,4,7
 Tourterelle des bois,2021,10,4
 Tourterelle turque,2022,52,20
 Traquet motteux,2019,1,0
-Troglodyte mignon,2022,132,27
+Troglodyte mignon,2022,136,27
 Vanneau huppé,2022,5,9
-Verdier d'Europe,2022,31,20
+Verdier d'Europe,2022,32,20

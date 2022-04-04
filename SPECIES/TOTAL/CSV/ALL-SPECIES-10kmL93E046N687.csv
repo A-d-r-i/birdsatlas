@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,30,8
+Accenteur mouchet,2022,34,8
 Alouette des champs,2022,45,7
 Autour des palombes,2009,0,1
 Bécasseau de Temminck,2021,5,0
@@ -38,7 +38,7 @@ Chevêche d'Athéna,2021,4,0
 Choucas des tours,2021,18,5
 Chouette hulotte,2020,4,0
 Corbeau freux,2021,7,0
-Corneille noire,2022,54,9
+Corneille noire,2022,56,9
 Coucou gris,2021,11,1
 Courlis cendré,2019,1,0
 Cygne tuberculé,2020,1,0
@@ -70,10 +70,10 @@ Grand Gravelot,2021,6,2
 Grèbe castagneux,2019,4,0
 Grèbe huppé,2020,3,0
 Grimpereau des jardins,2021,26,3
-Grive draine,2021,23,3
+Grive draine,2022,24,3
 Grive litorne,2021,3,0
-Grive mauvis,2021,1,0
-Grive musicienne,2021,29,4
+Grive mauvis,2022,2,0
+Grive musicienne,2022,30,4
 Grosbec casse-noyaux,2021,12,3
 Héron cendré,2020,5,2
 Héron garde-boeufs,2022,2,0
@@ -85,7 +85,7 @@ Linotte mélodieuse,2022,73,52
 Loriot d'Europe,2021,7,0
 Martinet noir,2021,13,1
 Martin-pêcheur d'Europe,2020,2,0
-Merle noir,2022,78,21
+Merle noir,2022,85,21
 Mésange à longue queue,2022,11,4
 Mésange bleue,2022,51,9
 Mésange charbonnière,2022,51,8
@@ -93,7 +93,7 @@ Mésange huppée,2021,10,0
 Mésange nonnette,2021,12,3
 Milan noir,2020,1,0
 Milan royal,2021,1,0
-Moineau domestique,2022,54,16
+Moineau domestique,2022,55,16
 Mouette mélanocéphale,2019,1,0
 Mouette rieuse,2022,4,1
 Oedicnème criard,2020,8,0
@@ -110,21 +110,21 @@ Pic vert,2022,16,4
 Pie bavarde,2022,9,4
 Pigeon biset domestique,2021,11,4
 Pigeon colombin,2009,0,1
-Pigeon ramier,2022,76,11
-Pinson des arbres,2022,76,11
+Pigeon ramier,2022,83,11
+Pinson des arbres,2022,87,11
 Pipit des arbres,2021,14,0
 Pipit farlouse,2022,44,30
 Pipit spioncelle,2018,0,1
 Pluvier argenté,2018,0,1
 Pluvier doré,2021,2,5
 Pouillot de Bonelli,2020,10,0
-Pouillot fitis,2021,6,0
+Pouillot fitis,2022,7,0
 Pouillot siffleur,2021,36,1
-Pouillot véloce,2021,38,4
+Pouillot véloce,2022,40,4
 Roitelet à triple bandeau,2021,6,2
 Roitelet huppé,2021,12,1
 Rossignol philomèle,2020,1,0
-Rougegorge familier,2022,71,13
+Rougegorge familier,2022,75,13
 Rougequeue à front blanc,2021,26,2
 Rougequeue noir,2022,4,4
 Rousserolle verderolle,2021,1,0
@@ -135,6 +135,6 @@ Tarier pâtre,2022,31,8
 Tourterelle des bois,2020,4,1
 Tourterelle turque,2022,21,6
 Traquet motteux,2022,40,3
-Troglodyte mignon,2022,46,14
+Troglodyte mignon,2022,48,14
 Vanneau huppé,2019,6,3
-Verdier d'Europe,2022,17,6
+Verdier d'Europe,2022,18,6
