@@ -17,7 +17,7 @@
 				<div class="sidebar-wrapper">
 					<div id="features" class="panel panel-default">
 						<div class="panel-heading">
-							<h3 class="panel-title">BirdsAtlas</h3>
+						<h3 class="panel-title">BirdsAtlas</h3>
 						</div>
 						<embed src="dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
 						<ul class="nav nav-tabs">
@@ -28,7 +28,7 @@
 							<div id="mailles" class="tab-pane fade in active">
 								<div id="tuto" style="margin-top: 20px;margin-bottom: 10px;"><i>Sélectionner une maille</i></div>
 								<div id="details" style="display:none;margin-top: 20px;margin-bottom: 10px;">
-							<b>Maille</b> : <span id="maille"></span> | <b>ID</b> : <span id="area_id"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a> | <a id="github_historic" class="button" target="_blank">➔ HISTORIQUE</a><hr>
+							<b>Maille</b> : <span id="maille"></span> | <a id="area_name_url" class="button" target="_blank">➔ ODF</a> | <a id="github_historic" class="button" target="_blank">➔ HISTORIQUE</a><hr>
 							<b>Espèces non observées après 2019</b> :<br><embed id="area_species_2019" width="100%" height="200vh"><hr>
 							<b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) :<br><embed id="area_species_never" width="100%" height="200vh"><hr>
 							<b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) :<br>
@@ -36,12 +36,35 @@
 						</div>
 							</div>
 							<div id="aide" class="tab-pane fade">
-								<h3>Détails et explications</h3>
+								<h4>Détails et explications</h4>
+								<p><u>Mise à jour des fichiers</u> : 
 								<ul>
-								<li><b>Espèces non observées après 2019</b> : Affiche les espèces qui furent observées dans la maille antérieurement à 2019.</li><br>
-								<li><b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) : Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées. De plus les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées.</li><br>
-								<li><b>Espèces introuvables dans la liste des blanks</b> (<i>dont espèces sensibles</i>) : Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>.</li>
+								<li>"<b>mailles</b>" : mise à jour des données globales</li>
+								<li>"<b>2019</b>" : mise à jour des espèces non observées après 2019</li>
+								<li>"<b>blanks & notfound</b>" : mise à jour des espèces non observées et introuvables</li>
 								</ul>
+								<hr>
+								<ul>
+								<li><b>Espèces non observées après 2019</b> : Affiche les espèces qui furent observées dans la maille antérieurement à 2019. L'intérêt est donc de complèter les données actuelles avec des données potentielles vérifiées dans le passé.<br> <font color="red">Cette liste aide à la prospection pour des espèces difficilement détectables et/ou identifiables.</font></li><br>
+								<li><b>Espèces non observées</b> (<i>de la plus à la moins courante en France</i>) : Affiche les espèces qui ne furent jamais observées dans la maille. Ces espèces sont classées en fonction de leur popularité sur le site <a href="https://www.cocheurs.fr">cocheurs.fr</a> : des espèces les plus cochées aux moins cochées (les "blanks"). Ce classement est sujet à discussion et mériterai d'être amélioré, en effet : 
+								<ul>
+								<li>il se base sur les espèces cochées ce qui ne correspond pas forcément à un classement des espèces "communes ➔ rares".</li>
+								<li>il se base sur les espèces observées sur le territoire entier de la France métropolitaine sans distinction régionale/locale. Une espèce très commune en France ne l'est pas nécessairement à l'échelle locale.(<i>ex : le Canard colvert , espèce la plus "commune", peut être indiqué comme absent sur les mailles de haute altitude / des espèces littorales absente des mailles continentales / etc...</i>)</li>
+								</ul>
+								<font color="red">Cette liste aide à la prospection en permettant de cibler les zones où des espèces communes voire très communes n'ont pas été relevées (zones peu prospectées etc...)</font><br>
+								<b>Attention, les espèces <a href="https://oiseauxdefrance.org/about/glossary">sensibles</a> ne sont pas affichées</b>.</li><br>
+								<li><b>Espèces introuvables dans la liste des blanks</b> : Affiche les espèces observées sur la maille qui ne figurent pas dans la liste de <a href="https://www.cocheurs.fr">cocheurs.fr</a>. Cela peut être la conséquence d'une orthographe différente, d'une taxonomie pas à jour ou d'espèces exotiques.</li>
+								</ul>
+								<hr>
+								<h4>Sources des données</h4>
+								<p>L'intégralité des données proviennent des sites <a href="https://oiseauxdefrance.org/">https://oiseauxdefrance.org</a> et <a href="https://www.cocheurs.fr">https://www.cocheurs.fr</a>.<br>
+								<ul>
+								<li>Le site Oiseaux de France fourni les données brutes des observations d'oiseaux : <i>quelles espèces ?</i> , <i>quel nombre d'individus ?</i> , <i>quelle est la dernière année d'observation ?</i> etc ...</li>
+								<li>Le site Cocheurs fourni quant à lui la liste des blanks (<a href="https://www.cocheurs.fr/especes/blanks.php">source</a>)</li>
+								</ul></p>
+								<p>Ce site est donc une aide à la prospection, il combine simplement des données disponibles en un format lisible afin d'orienter les recherches et améliorer les connaissances des espèces.<br>
+								Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme), n'hésitez surtout pas à faire remonter cela en créant une "<a href="https://github.com/A-d-r-i/birdsatlas/issues">issue</a>" sur le dépôt Github du projet :</p>
+								<p align="center"><a href="https://github.com/A-d-r-i/birdsatlas"><img src="https://img.shields.io/badge/Github-BirdsAtlas-green?style=flat-square&logo=github"></img></a></p>
 							</div>
 						</div>
 					</div>
