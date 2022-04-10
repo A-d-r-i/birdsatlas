@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,3,6
-Aigle botté,2021,5,20
-Aigrette garzette,2021,7,9
+Aigle botté,2022,6,20
+Aigrette garzette,2022,8,9
 Alouette des champs,2021,4,9
 Alouette lulu,2020,1,3
 Autour des palombes,2016,0,4
@@ -16,7 +16,7 @@ Bruant zizi,2021,10,23
 Busard cendré,2020,1,7
 Busard des roseaux,2020,2,3
 Busard Saint-Martin,2021,14,36
-Buse variable,2022,51,63
+Buse variable,2022,53,63
 Caille des blés,2012,0,2
 Canard colvert,2022,28,53
 Chardonneret élégant,2022,19,21
@@ -26,20 +26,21 @@ Chevêche d'Athéna,2021,1,2
 Chouette hulotte,2021,4,6
 Cigogne blanche,2021,2,1
 Cigogne noire,2020,2,0
-Cincle plongeur,2022,11,8
-Circaète Jean-le-Blanc,2021,7,18
+Cincle plongeur,2022,12,8
+Circaète Jean-le-Blanc,2022,8,18
 Cochevis huppé,2009,0,1
-Corneille noire,2022,29,36
-Coucou gris,2021,1,24
-Cygne tuberculé,2022,5,21
+Corneille noire,2022,30,36
+Coucou gris,2022,2,24
+Cygne tuberculé,2022,6,21
 Effraie des clochers,2013,0,3
+Élanion blanc,2022,1,0
 Épervier d'Europe,2022,7,8
 Étourneau sansonnet,2022,7,4
 Faisan de Colchide,2018,0,6
-Faucon crécerelle,2022,29,53
+Faucon crécerelle,2022,31,53
 Faucon hobereau,2021,4,17
-Faucon pèlerin,2022,30,41
-Fauvette à tête noire,2022,23,54
+Faucon pèlerin,2022,31,41
+Fauvette à tête noire,2022,25,54
 Fauvette des jardins,2017,0,2
 Fauvette grisette,2016,0,2
 Fauvette passerinette,2021,1,14
@@ -47,42 +48,42 @@ Gallinule poule-d'eau,2022,1,2
 Geai des chênes,2022,19,27
 Gobemouche gris,2021,1,0
 Gobemouche noir,2019,1,4
-Goéland leucophée,2022,36,54
-Grand Corbeau,2021,18,51
-Grand Cormoran,2022,34,44
+Goéland leucophée,2022,37,54
+Grand Corbeau,2022,19,51
+Grand Cormoran,2022,35,44
 Grand-duc d'Europe,2021,3,18
-Grande Aigrette,2022,45,94
+Grande Aigrette,2022,46,94
 Grèbe castagneux,2021,1,1
 Grèbe huppé,2017,0,1
-Grimpereau des jardins,2022,7,20
-Grive draine,2021,4,6
+Grimpereau des jardins,2022,8,20
+Grive draine,2022,5,6
 Grive litorne,2021,1,0
 Grive mauvis,2021,1,0
 Grive musicienne,2022,4,9
 Grosbec casse-noyaux,2022,1,10
 Guêpier d'Europe,2019,1,0
-Héron cendré,2022,43,68
+Héron cendré,2022,45,68
 Héron garde-boeufs,2021,3,4
 Hibou moyen-duc,2015,0,4
-Hirondelle de fenêtre,2021,7,27
+Hirondelle de fenêtre,2022,9,27
 Hirondelle de rochers,2022,41,81
-Hirondelle rustique,2021,5,17
+Hirondelle rustique,2022,6,17
 Huppe fasciée,2018,0,4
 Hypolaïs polyglotte,2018,0,7
 Linotte mélodieuse,2018,0,2
 Loriot d'Europe,2021,11,26
 Martinet noir,2021,5,22
 Martin-pêcheur d'Europe,2021,8,16
-Merle noir,2022,22,42
+Merle noir,2022,23,42
 Mésange à longue queue,2022,10,15
 Mésange bleue,2022,25,30
-Mésange charbonnière,2022,28,38
+Mésange charbonnière,2022,29,38
 Mésange huppée,2009,0,1
 Mésange noire,2022,2,1
 Mésange nonnette,2022,9,8
-Milan noir,2022,47,67
+Milan noir,2022,50,67
 Milan royal,2022,22,36
-Moineau domestique,2022,13,21
+Moineau domestique,2022,14,21
 Mouette rieuse,2016,0,1
 Paon bleu,2016,0,1
 Perdrix rouge,2009,0,1
@@ -90,26 +91,26 @@ Pic épeiche,2021,15,28
 Pic épeichette,2022,5,2
 Pic mar,2021,7,1
 Pic noir,2019,2,5
-Pic vert,2022,14,31
+Pic vert,2022,15,31
 Pie bavarde,2022,6,12
 Pie-grièche à tête rousse,2016,0,1
 Pie-grièche écorcheur,2021,5,10
 Pigeon biset domestique,2021,3,4
 Pigeon ramier,2022,21,26
-Pinson des arbres,2022,35,52
+Pinson des arbres,2022,37,52
 Pinson du Nord,2022,1,2
 Pipit des arbres,2018,0,2
 Pipit farlouse,2021,2,1
 Pouillot de Bonelli,2021,1,4
-Pouillot véloce,2022,7,13
+Pouillot véloce,2022,8,13
 Roitelet à triple bandeau,2022,5,10
 Roitelet huppé,2020,1,2
 Rollier d'Europe,2020,1,0
 Rossignol philomèle,2021,4,18
-Rougegorge familier,2022,38,37
-Rougequeue noir,2022,12,25
+Rougegorge familier,2022,39,37
+Rougequeue noir,2022,14,25
 Serin cini,2021,3,15
-Sittelle torchepot,2022,11,17
+Sittelle torchepot,2022,12,17
 Tarier des prés,2014,0,1
 Tarier pâtre,2020,1,3
 Tarin des aulnes,2013,0,1
@@ -117,7 +118,7 @@ Tichodrome échelette,2010,0,1
 Tourterelle des bois,2016,0,6
 Tourterelle turque,2021,2,14
 Traquet motteux,2015,0,1
-Troglodyte mignon,2021,15,20
+Troglodyte mignon,2022,16,20
 Vautour fauve,2021,4,4
 Vautour moine,2019,1,2
-Verdier d'Europe,2021,6,9
+Verdier d'Europe,2022,8,9

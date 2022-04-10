@@ -1,10 +1,10 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,4,0
-Aigrette garzette,2022,73,9
+Aigrette garzette,2022,75,9
 Alouette des champs,2019,1,0
 Alouette lulu,2021,1,1
 Autour des palombes,2022,1,0
-Avocette élégante,2019,1,0
+Avocette élégante,2022,2,0
 Barge à queue noire,2020,1,0
 Bécasseau sanderling,2022,1,0
 Bécasseau variable,2022,4,5
@@ -21,7 +21,7 @@ Bruant des roseaux,2021,9,0
 Bruant proyer,2022,13,4
 Bruant zizi,2020,3,0
 Busard cendré,2019,1,0
-Busard des roseaux,2022,37,5
+Busard des roseaux,2022,38,5
 Busard pâle,2016,0,2
 Busard Saint-Martin,2019,1,0
 Buse variable,2021,18,2
@@ -63,7 +63,7 @@ Fauvette des jardins,2020,1,0
 Fauvette mélanocéphale,2022,40,2
 Fauvette passerinette,2021,1,1
 Fauvette pitchou,2022,3,1
-Flamant rose,2022,34,6
+Flamant rose,2022,36,6
 Foulque macroule,2022,58,7
 Fuligule milouin,2021,3,1
 Gallinule poule-d'eau,2022,22,3
@@ -71,11 +71,11 @@ Geai des chênes,2022,34,2
 Gobemouche gris,2017,0,2
 Goéland brun,2021,1,1
 Goéland cendré,2021,1,0
-Goéland leucophée,2022,101,9
+Goéland leucophée,2022,102,9
 Goéland railleur,2019,1,2
 Grand Corbeau,2021,1,0
 Grand Cormoran,2022,63,4
-Grande Aigrette,2022,74,8
+Grande Aigrette,2022,76,8
 Grand Gravelot,2009,0,1
 Gravelot à collier interrompu,2019,0,2
 Grèbe à cou noir,2022,27,3
@@ -85,7 +85,7 @@ Grive musicienne,2022,4,0
 Grosbec casse-noyaux,2021,2,0
 Guêpier d'Europe,2021,47,7
 Harle huppé,2021,6,3
-Héron cendré,2022,58,10
+Héron cendré,2022,60,10
 Héron garde-boeufs,2022,3,2
 Héron pourpré,2021,6,0
 Hibou des marais,2021,1,0
@@ -93,7 +93,7 @@ Hirondelle de fenêtre,2021,11,1
 Hirondelle de rivage,2021,6,0
 Hirondelle rustique,2022,51,3
 Huîtrier pie,2022,1,1
-Huppe fasciée,2021,4,1
+Huppe fasciée,2022,5,1
 Hypolaïs ictérine,2019,1,0
 Hypolaïs polyglotte,2019,1,0
 Ibis falcinelle,2021,1,0
@@ -150,8 +150,8 @@ Sarcelle d'hiver,2022,5,1
 Serin cini,2020,6,3
 Spatule blanche,2022,6,0
 Sterne caugek,2022,16,1
-Sterne pierregarin,2021,13,3
-Tadorne de Belon,2022,17,3
+Sterne pierregarin,2022,14,3
+Tadorne de Belon,2022,19,3
 Tarier des prés,2021,2,0
 Tarier pâtre,2021,10,1
 Tarin des aulnes,2021,15,0

@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,17,66
+Accenteur mouchet,2022,18,66
 Aigle botté,2012,0,1
 Aigrette garzette,2013,0,1
 Alouette des champs,2021,4,56
@@ -37,14 +37,14 @@ Cigogne noire,2020,1,1
 Circaète Jean-le-Blanc,2020,1,6
 Cisticole des joncs,2020,2,2
 Cochevis huppé,2014,0,1
-Corbeau freux,2022,14,26
+Corbeau freux,2022,16,26
 Corneille noire,2022,41,135
 Coucou gris,2021,38,45
 Cygne tuberculé,2019,2,4
 Effraie des clochers,2022,16,59
 Engoulevent d'Europe,2021,1,8
 Épervier d'Europe,2019,2,33
-Étourneau sansonnet,2022,52,74
+Étourneau sansonnet,2022,53,74
 Faisan de Colchide,2021,4,22
 Faucon crécerelle,2021,18,62
 Faucon émerillon,2017,0,2
@@ -80,8 +80,8 @@ Héron pourpré,2015,0,4
 Hibou moyen-duc,2019,6,10
 Hirondelle de fenêtre,2021,11,30
 Hirondelle de rivage,2021,9,14
-Hirondelle rustique,2021,32,61
-Huppe fasciée,2021,10,22
+Hirondelle rustique,2022,33,61
+Huppe fasciée,2022,11,22
 Hypolaïs polyglotte,2021,15,13
 Linotte mélodieuse,2022,11,33
 Locustelle tachetée,2020,1,4
@@ -89,7 +89,7 @@ Loriot d'Europe,2021,36,40
 Martinet noir,2021,8,12
 Martin-pêcheur d'Europe,2021,13,41
 Merle à plastron,2015,0,3
-Merle noir,2022,100,144
+Merle noir,2022,101,144
 Mésange à longue queue,2022,21,72
 Mésange bleue,2022,74,97
 Mésange charbonnière,2021,67,127
@@ -98,7 +98,7 @@ Mésange noire,2020,2,3
 Mésange nonnette,2022,12,28
 Milan noir,2021,14,39
 Milan royal,2021,3,20
-Moineau domestique,2021,52,87
+Moineau domestique,2022,53,87
 Moineau friquet,2015,0,1
 Moineau soulcie,2019,2,0
 Mouette rieuse,2014,0,6
@@ -117,7 +117,7 @@ Pie-grièche à tête rousse,2014,0,3
 Pie-grièche écorcheur,2021,13,28
 Pigeon biset domestique,2021,7,7
 Pigeon colombin,2015,0,11
-Pigeon ramier,2022,109,157
+Pigeon ramier,2022,111,157
 Pinson des arbres,2022,93,176
 Pinson du Nord,2022,5,41
 Pipit des arbres,2021,8,22
@@ -132,9 +132,9 @@ Pouillot véloce,2022,85,105
 Roitelet à triple bandeau,2022,28,53
 Roitelet huppé,2019,1,24
 Rossignol philomèle,2021,51,32
-Rougegorge familier,2022,72,129
+Rougegorge familier,2022,73,129
 Rougequeue à front blanc,2021,8,11
-Rougequeue noir,2022,18,66
+Rougequeue noir,2022,19,66
 Rousserolle effarvatte,2014,0,2
 Sarcelle d'hiver,2012,0,1
 Serin cini,2021,1,5

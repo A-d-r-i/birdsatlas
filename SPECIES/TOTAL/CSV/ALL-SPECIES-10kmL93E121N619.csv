@@ -1,13 +1,13 @@
 frname,lastobs,newcount,oldcount
 Aigle royal,2021,5,1
-Aigrette garzette,2021,7,2
+Aigrette garzette,2022,8,2
 Alouette lulu,2021,3,4
 Avocette élégante,2021,1,0
 Bécasseau minute,2019,1,0
-Bécassine des marais,2022,1,0
+Bécassine des marais,2022,2,0
 Bergeronnette des ruisseaux,2020,3,2
 Bergeronnette grise,2022,6,4
-Bergeronnette printanière,2022,1,1
+Bergeronnette printanière,2022,4,1
 Bihoreau gris,2021,3,0
 Blongios nain,2020,1,0
 Bondrée apivore,2018,0,1
@@ -15,15 +15,15 @@ Bouscarle de Cetti,2022,13,4
 Bruant ortolan,2019,1,0
 Bruant proyer,2022,1,1
 Bruant zizi,2022,13,5
-Busard des roseaux,2022,9,1
+Busard des roseaux,2022,12,1
 Busard pâle,2022,1,0
 Buse variable,2021,6,7
 Caille des blés,2009,0,1
 Canard colvert,2022,4,1
 Chardonneret élégant,2022,14,17
 Chevalier aboyeur,2021,1,0
-Chevalier culblanc,2020,1,2
-Chevalier guignette,2022,12,6
+Chevalier culblanc,2022,2,2
+Chevalier guignette,2022,13,6
 Chevalier sylvain,2018,0,1
 Cigogne noire,2018,0,1
 Cisticole des joncs,2020,2,2
@@ -37,7 +37,7 @@ Engoulevent d'Europe,2021,5,3
 Épervier d'Europe,2020,1,1
 Étourneau sansonnet,2022,7,9
 Étourneau unicolore,2022,15,11
-Faucon crécerelle,2022,9,4
+Faucon crécerelle,2022,10,4
 Faucon crécerellette,2022,1,0
 Faucon d'Eléonore,2021,3,0
 Faucon hobereau,2017,0,1
@@ -70,9 +70,9 @@ Héron cendré,2021,7,8
 Héron garde-boeufs,2019,1,0
 Héron pourpré,2019,2,1
 Hirondelle de fenêtre,2022,17,6
-Hirondelle de rivage,2019,3,0
+Hirondelle de rivage,2022,4,0
 Hirondelle de rochers,2020,1,1
-Hirondelle rousseline,2021,1,0
+Hirondelle rousseline,2022,2,0
 Hirondelle rustique,2022,7,1
 Huppe fasciée,2022,3,5
 Hypolaïs polyglotte,2016,0,1
@@ -80,7 +80,7 @@ Linotte mélodieuse,2022,3,1
 Loriot d'Europe,2019,1,0
 Marouette ponctuée,2021,1,0
 Martinet à ventre blanc,2021,2,1
-Martinet noir,2022,7,3
+Martinet noir,2022,8,3
 Martinet pâle,2021,2,1
 Martin-pêcheur d'Europe,2022,3,4
 Merle noir,2022,25,12
@@ -108,6 +108,7 @@ Pinson des arbres,2022,20,9
 Pipit des arbres,2021,1,0
 Pipit spioncelle,2022,1,0
 Pouillot fitis,2009,0,1
+Pouillot siffleur,2022,1,0
 Pouillot véloce,2022,14,3
 Puffin de Scopoli,2022,1,0
 Puffin yelkouan,2022,1,0
@@ -116,11 +117,11 @@ Roitelet à triple bandeau,2021,4,1
 Roitelet huppé,2020,1,1
 Rossignol philomèle,2020,11,3
 Rougegorge familier,2022,20,9
-Rougequeue à front blanc,2022,3,0
+Rougequeue à front blanc,2022,4,0
 Rougequeue noir,2022,8,2
 Serin cini,2022,7,5
 Tadorne de Belon,2019,1,0
-Tarier des prés,2019,2,0
+Tarier des prés,2022,3,0
 Tarier pâtre,2022,8,7
 Tarin des aulnes,2022,1,0
 Torcol fourmilier,2020,4,6
