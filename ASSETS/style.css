@@ -87,3 +87,7 @@ body {
 	text-decoration: none;
 	cursor: pointer
 }
+
+.button:hover {
+    text-decoration: none;
+}
