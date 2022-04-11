@@ -28,6 +28,12 @@ function main() {
 					document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
 					document.getElementById("area_species_never").setAttribute("src","./SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
 					document.getElementById("area_species_nf").setAttribute("src","./SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
+					featureLayer.setStyle({
+						weight: 3,
+						opacity: 5,
+						color: 'red',
+						fillOpacity: 0,	
+					});
 				});
 				
 				featureLayer.setStyle({
