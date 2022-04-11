@@ -6,11 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  UPDATE-ALL:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Script
+
+      - name: Update all
+        run:  |
+          echo "Update the mailles files"
+          ./SCRIPTS/UPDATE-MAILLES.ps1
+          echo "Create the database"
+          ./SCRIPTS/CREATE-TOTAL.ps1
+          echo "Search for sightings after 2019"
+          ./SCRIPTS/SEARCH-2019.ps1
+          echo "Search for never seen species"
+          ./SCRIPTS/SEARCH-BLANKS.ps1
+          
+      - name: Retry if failed
         run:  |
           echo "Update the mailles files"
           ./SCRIPTS/UPDATE-MAILLES.ps1
