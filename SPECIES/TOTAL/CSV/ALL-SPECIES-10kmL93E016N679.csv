@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,31,23
+Accenteur mouchet,2022,32,23
 Aigrette garzette,2022,3,4
 Alouette des champs,2022,3,4
 Alouette lulu,2009,0,1
@@ -14,10 +14,10 @@ Bouvreuil pivoine,2022,17,19
 Bruant jaune,2022,11,4
 Bruant zizi,2022,7,4
 Busard Saint-Martin,2020,2,0
-Buse variable,2022,79,44
+Buse variable,2022,80,44
 Canard colvert,2022,11,3
 Canard mandarin,2022,1,0
-Chardonneret élégant,2022,30,8
+Chardonneret élégant,2022,31,8
 Chevalier culblanc,2021,1,1
 Choucas des tours,2022,80,40
 Chouette hulotte,2022,17,12
@@ -34,7 +34,7 @@ Faisan de Colchide,2021,4,1
 Faucon crécerelle,2022,14,19
 Faucon hobereau,2021,2,2
 Faucon pèlerin,2021,2,1
-Fauvette à tête noire,2022,31,17
+Fauvette à tête noire,2022,32,17
 Fauvette des jardins,2020,6,2
 Foulque macroule,2021,2,1
 Fuligule morillon,2022,1,0
@@ -52,7 +52,7 @@ Grimpereau des jardins,2022,11,14
 Grive draine,2022,4,5
 Grive litorne,2021,5,2
 Grive mauvis,2022,12,9
-Grive musicienne,2022,49,14
+Grive musicienne,2022,50,14
 Héron cendré,2022,8,4
 Héron garde-boeufs,2022,24,11
 Hibou moyen-duc,2009,0,1
@@ -62,7 +62,7 @@ Hirondelle rustique,2021,16,10
 Hypolaïs polyglotte,2014,0,2
 Linotte mélodieuse,2022,4,4
 Martinet noir,2021,9,6
-Martin-pêcheur d'Europe,2021,2,1
+Martin-pêcheur d'Europe,2022,3,1
 Merle noir,2022,73,40
 Mésange à longue queue,2022,17,12
 Mésange bleue,2022,48,42
@@ -80,7 +80,7 @@ Pic épeichette,2021,6,5
 Pic mar,2021,1,0
 Pic noir,2022,15,8
 Pic vert,2022,26,14
-Pie bavarde,2022,54,28
+Pie bavarde,2022,55,28
 Pigeon biset domestique,2022,5,2
 Pigeon colombin,2021,2,1
 Pigeon ramier,2022,109,26
@@ -101,4 +101,4 @@ Tourterelle turque,2022,19,14
 Traquet motteux,2015,0,1
 Troglodyte mignon,2022,29,13
 Vanneau huppé,2021,2,5
-Verdier d'Europe,2022,20,20
+Verdier d'Europe,2022,21,20

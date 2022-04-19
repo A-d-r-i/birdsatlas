@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,9,2
+Accenteur mouchet,2022,10,2
 Aigrette garzette,2021,6,2
 Alouette des champs,2021,3,2
 Bécasseau variable,2021,4,0
@@ -9,7 +9,7 @@ Bergeronnette printanière,2018,0,4
 Bernache cravant,2021,1,0
 Bondrée apivore,2021,2,1
 Bouvreuil pivoine,2020,1,1
-Bruant jaune,2009,0,2
+Bruant jaune,2021,1,2
 Bruant proyer,2021,3,2
 Busard des roseaux,2018,0,1
 Busard Saint-Martin,2009,0,2
@@ -21,25 +21,25 @@ Chardonneret élégant,2022,25,2
 Chevalier aboyeur,2017,0,1
 Chevalier gambette,2021,2,0
 Chevêche d'Athéna,2019,1,1
-Choucas des tours,2021,3,2
+Choucas des tours,2021,4,2
 Chouette hulotte,2020,1,2
 Cisticole des joncs,2021,1,0
 Corbeau freux,2009,0,2
 Cormoran huppé,2021,7,1
-Corneille noire,2022,17,3
+Corneille noire,2022,18,3
 Courlis cendré,2009,0,1
 Courlis corlieu,2021,2,0
 Cygne chanteur,2009,0,1
 Effraie des clochers,2009,0,1
 Épervier d'Europe,2022,5,2
-Étourneau sansonnet,2022,80,5
+Étourneau sansonnet,2022,81,5
 Faisan de Colchide,2021,1,2
 Faucon crécerelle,2021,7,5
 Faucon hobereau,2009,0,1
 Faucon pèlerin,2021,5,7
 Fauvette à tête noire,2021,9,2
 Fauvette babillarde,2021,1,0
-Fauvette des jardins,2009,0,1
+Fauvette des jardins,2021,1,1
 Fauvette grisette,2021,2,1
 Fou de Bassan,2022,13,11
 Fulmar boréal,2022,19,6
@@ -66,9 +66,9 @@ Guillemot de Troïl,2022,7,0
 Harle bièvre,2022,2,0
 Héron cendré,2021,1,0
 Hibou moyen-duc,2009,0,1
-Hirondelle de fenêtre,2019,1,5
+Hirondelle de fenêtre,2021,2,5
 Hirondelle de rivage,2018,0,2
-Hirondelle rustique,2021,3,2
+Hirondelle rustique,2021,4,2
 Huîtrier pie,2021,3,0
 Hypolaïs polyglotte,2009,0,1
 Labbe parasite,2021,1,0
@@ -80,7 +80,7 @@ Macreuse noire,2021,1,0
 Martinet noir,2021,16,4
 Merle noir,2022,161,6
 Mésange à longue queue,2009,0,1
-Mésange bleue,2022,122,3
+Mésange bleue,2022,123,3
 Mésange charbonnière,2022,99,6
 Mésange huppée,2009,0,2
 Mésange noire,2022,54,2
@@ -95,7 +95,7 @@ Perdrix grise,2009,0,2
 Perruche à collier,2019,1,0
 Pic épeiche,2022,23,4
 Pic vert,2022,40,2
-Pie bavarde,2022,7,2
+Pie bavarde,2022,8,2
 Pigeon biset domestique,2022,1,1
 Pigeon biset (origine naturelle),2009,0,1
 Pigeon colombin,2021,1,1
@@ -110,7 +110,7 @@ Pouillot véloce,2021,13,1
 Roitelet à triple bandeau,2009,0,1
 Roitelet huppé,2020,1,2
 Rougegorge familier,2022,132,4
-Rougequeue noir,2021,3,5
+Rougequeue noir,2021,4,5
 Serin cini,2009,0,1
 Sittelle torchepot,2020,12,2
 Spatule blanche,2018,0,1
@@ -118,7 +118,7 @@ Sterne caugek,2021,2,1
 Sterne pierregarin,2021,1,1
 Tadorne de Belon,2021,1,0
 Tarier des prés,2016,0,1
-Tarier pâtre,2009,0,2
+Tarier pâtre,2021,1,2
 Tournepierre à collier,2021,1,0
 Tourterelle des bois,2009,0,1
 Tourterelle turque,2022,96,5

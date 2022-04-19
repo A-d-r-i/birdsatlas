@@ -1,29 +1,31 @@
 frname,lastobs,newcount,oldcount
 Aigle royal,2020,6,2
 Bec-croisé des sapins,2021,1,0
-Bergeronnette des ruisseaux,2021,1,1
+Bergeronnette des ruisseaux,2022,2,1
 Bruant zizi,2021,2,1
 Buse variable,2020,3,2
 Chardonneret élégant,2019,1,0
 Chocard à bec jaune,2019,2,0
+Cincle plongeur,2022,1,0
 Corneille mantelée,2019,1,0
 Corneille noire,2019,1,0
 Coucou gris,2017,0,1
 Épervier d'Europe,2016,0,1
 Faucon crécerelle,2021,1,0
 Faucon pèlerin,2016,0,1
-Fauvette à tête noire,2019,0,1
+Fauvette à tête noire,2022,1,1
 Fauvette de Moltoni,2018,0,7
-Fauvette mélanocéphale,2017,0,2
-Fauvette pitchou,2016,0,2
+Fauvette mélanocéphale,2022,1,2
+Fauvette pitchou,2022,1,2
 Fauvette sarde,2019,1,0
 Geai des chênes,2020,3,3
+Gobemouche à collier,2022,2,0
 Grand Corbeau,2020,4,1
 Grimpereau des bois,2021,1,0
 Hirondelle de fenêtre,2020,2,0
-Hirondelle de rochers,2020,3,0
-Martinet à ventre blanc,2020,2,1
-Martinet noir,2019,1,0
+Hirondelle de rochers,2022,4,0
+Martinet à ventre blanc,2022,3,1
+Martinet noir,2022,2,0
 Martin-pêcheur d'Europe,2019,0,1
 Merle noir,2019,2,7
 Mésange à longue queue,2019,1,5
@@ -42,6 +44,7 @@ Pipit farlouse,2019,0,1
 Pipit rousseline,2018,0,1
 Pouillot de Bonelli,2016,0,1
 Pouillot véloce,2019,0,1
+Roitelet à triple bandeau,2022,1,0
 Rollier d'Europe,2019,1,1
 Rougegorge familier,2020,3,8
 Rougequeue noir,2020,1,2

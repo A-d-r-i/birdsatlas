@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2017,0,9
 Aigrette garzette,2015,0,3
-Alouette des champs,2022,1,65
+Alouette des champs,2022,2,65
 Alouette lulu,2022,1,4
 Autour des palombes,2011,0,3
 Bécasse des bois,2011,0,1
@@ -19,7 +19,7 @@ Bruant zizi,2010,0,5
 Busard cendré,2019,1,187
 Busard des roseaux,2020,3,113
 Busard Saint-Martin,2021,2,89
-Buse variable,2022,5,105
+Buse variable,2022,6,105
 Butor étoilé,2010,0,3
 Caille des blés,2015,0,3
 Canard colvert,2022,1,27
@@ -31,10 +31,10 @@ Chevalier gambette,2010,0,3
 Chouette hulotte,2021,3,15
 Cigogne blanche,2022,1,0
 Cigogne noire,2014,0,2
-Circaète Jean-le-Blanc,2018,0,92
+Circaète Jean-le-Blanc,2022,1,92
 Cisticole des joncs,2021,5,23
 Corneille noire,2022,3,128
-Coucou gris,2018,0,51
+Coucou gris,2022,1,51
 Courlis cendré,2015,0,30
 Cygne tuberculé,2009,0,1
 Effraie des clochers,2021,1,14
@@ -81,10 +81,10 @@ Martin-pêcheur d'Europe,2021,3,8
 Merle noir,2022,4,41
 Mésange à longue queue,2021,4,19
 Mésange bleue,2021,5,23
-Mésange charbonnière,2022,6,41
+Mésange charbonnière,2022,7,41
 Mésange huppée,2019,1,19
 Mésange noire,2020,1,0
-Milan noir,2021,7,104
+Milan noir,2022,8,104
 Milan royal,2019,1,1
 Moineau domestique,2022,3,16
 Moineau friquet,2010,0,5
@@ -101,16 +101,16 @@ Pie-grièche écorcheur,2021,2,69
 Pigeon biset domestique,2022,1,2
 Pigeon colombin,2021,1,5
 Pigeon ramier,2022,16,72
-Pinson des arbres,2021,4,116
+Pinson des arbres,2022,6,116
 Pinson du Nord,2018,0,1
-Pipit des arbres,2021,2,59
+Pipit des arbres,2022,4,59
 Pipit farlouse,2022,2,32
 Pipit rousseline,2015,0,24
 Pipit spioncelle,2011,0,3
 Pluvier doré,2013,0,1
 Pouillot de Bonelli,2013,0,7
 Pouillot fitis,2015,0,5
-Pouillot véloce,2021,8,65
+Pouillot véloce,2022,9,65
 Râle d'eau,2021,4,8
 Roitelet à triple bandeau,2016,0,9
 Roitelet huppé,2015,0,5
@@ -123,7 +123,7 @@ Serin cini,2015,0,4
 Sittelle torchepot,2022,4,14
 Spatule blanche,2017,0,2
 Tarier des prés,2015,0,20
-Tarier pâtre,2021,3,123
+Tarier pâtre,2022,4,123
 Tarin des aulnes,2017,0,4
 Torcol fourmilier,2015,0,6
 Tourterelle des bois,2020,1,81
@@ -131,4 +131,4 @@ Tourterelle turque,2022,23,33
 Traquet motteux,2022,1,38
 Troglodyte mignon,2021,9,39
 Vanneau huppé,2022,1,34
-Verdier d'Europe,2019,1,33
+Verdier d'Europe,2022,2,33

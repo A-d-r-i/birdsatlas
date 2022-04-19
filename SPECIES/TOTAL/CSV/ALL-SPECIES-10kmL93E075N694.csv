@@ -1,25 +1,26 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,4,2
 Alouette des champs,2021,12,2
-Bergeronnette grise,2021,17,4
+Bécassine des marais,2022,1,0
+Bergeronnette grise,2022,18,4
 Bergeronnette printanière,2021,4,1
 Blongios nain,2009,0,1
 Bondrée apivore,2020,2,1
-Bouscarle de Cetti,2021,11,4
-Bouvreuil pivoine,2021,12,2
-Bruant des roseaux,2021,4,2
+Bouscarle de Cetti,2022,16,4
+Bouvreuil pivoine,2022,15,2
+Bruant des roseaux,2022,6,2
 Bruant jaune,2021,2,1
 Bruant proyer,2021,5,5
 Busard cendré,2020,1,1
-Busard des roseaux,2021,5,4
+Busard des roseaux,2022,6,4
 Busard Saint-Martin,2021,3,4
 Buse pattue,2015,0,1
 Buse variable,2021,31,6
 Caille des blés,2018,0,1
-Canard chipeau,2021,1,0
-Canard colvert,2021,7,2
+Canard chipeau,2022,2,0
+Canard colvert,2022,8,2
 Canard mandarin,2020,1,0
-Canard souchet,2021,1,0
+Canard souchet,2022,2,0
 Chardonneret élégant,2021,34,3
 Chevalier culblanc,2021,1,0
 Chevalier guignette,2021,1,0
@@ -29,8 +30,8 @@ Cigogne blanche,2021,1,1
 Cigogne noire,2017,0,1
 Corbeau freux,2021,6,2
 Corneille noire,2022,20,3
-Coucou gris,2021,3,2
-Cygne tuberculé,2020,2,0
+Coucou gris,2022,5,2
+Cygne tuberculé,2022,3,0
 Effraie des clochers,2020,3,0
 Épervier d'Europe,2020,3,2
 Étourneau sansonnet,2022,22,3
@@ -38,9 +39,9 @@ Faisan de Colchide,2022,12,9
 Faucon crécerelle,2022,9,4
 Faucon émerillon,2022,1,0
 Faucon hobereau,2016,0,2
-Fauvette à tête noire,2021,22,1
-Fauvette des jardins,2021,3,2
-Fauvette grisette,2021,9,1
+Fauvette à tête noire,2022,26,1
+Fauvette des jardins,2022,4,2
+Fauvette grisette,2022,11,1
 Foulque macroule,2021,2,2
 Fuligule morillon,2021,1,0
 Gallinule poule-d'eau,2021,31,2
@@ -49,9 +50,9 @@ Gobemouche gris,2021,4,1
 Goéland brun,2021,1,0
 Gorgebleue à miroir,2016,0,2
 Grand Cormoran,2021,6,1
-Grande Aigrette,2022,10,1
+Grande Aigrette,2022,12,1
 Grèbe castagneux,2020,4,1
-Grèbe huppé,2021,2,2
+Grèbe huppé,2022,3,2
 Grimpereau des bois,2020,1,0
 Grimpereau des jardins,2021,14,3
 Grive draine,2020,4,2
@@ -59,20 +60,20 @@ Grive litorne,2020,1,0
 Grive musicienne,2021,16,1
 Grosbec casse-noyaux,2009,0,2
 Guêpier d'Europe,2021,7,2
-Héron cendré,2021,13,1
+Héron cendré,2022,14,1
 Hirondelle de fenêtre,2021,7,1
 Hirondelle rustique,2021,18,1
 Hypolaïs polyglotte,2009,0,1
 Linotte mélodieuse,2021,14,2
-Locustelle luscinioïde,2009,0,1
+Locustelle luscinioïde,2022,3,1
 Locustelle tachetée,2020,1,1
 Loriot d'Europe,2021,4,3
 Martinet noir,2021,4,1
 Martin-pêcheur d'Europe,2021,2,2
 Merle noir,2021,57,2
-Mésange à longue queue,2021,10,3
+Mésange à longue queue,2022,11,3
 Mésange bleue,2021,22,3
-Mésange boréale,2019,2,3
+Mésange boréale,2022,3,3
 Mésange charbonnière,2021,34,3
 Mésange huppée,2019,1,2
 Mésange noire,2020,1,0
@@ -80,13 +81,13 @@ Mésange nonnette,2020,4,3
 Milan royal,2019,1,0
 Moineau domestique,2021,39,2
 Moineau friquet,2009,0,1
-Mouette rieuse,2022,5,1
+Mouette rieuse,2022,6,1
 Ouette d'Egypte,2020,7,0
 Perdrix grise,2021,2,3
 Perdrix rouge,2020,2,0
-Phragmite des joncs,2021,8,2
-Pic épeiche,2021,15,2
-Pic épeichette,2020,1,1
+Phragmite des joncs,2022,13,2
+Pic épeiche,2022,16,2
+Pic épeichette,2022,2,1
 Pic mar,2021,1,2
 Pic noir,2021,8,1
 Pic vert,2021,11,3
@@ -101,24 +102,25 @@ Pipit des arbres,2009,0,1
 Pipit farlouse,2021,1,0
 Pipit spioncelle,2009,0,1
 Pluvier doré,2021,2,0
-Pouillot fitis,2021,5,4
+Pouillot fitis,2022,8,4
 Pouillot siffleur,2009,0,1
-Pouillot véloce,2021,15,1
-Râle d'eau,2021,1,1
+Pouillot véloce,2022,18,1
+Râle d'eau,2022,2,1
 Roitelet à triple bandeau,2021,1,2
 Roitelet huppé,2020,4,2
-Rossignol philomèle,2020,2,2
+Rossignol philomèle,2022,3,2
 Rougegorge familier,2021,30,2
 Rougequeue à front blanc,2020,1,0
 Rougequeue noir,2021,30,2
 Rousserolle effarvatte,2021,5,1
-Rousserolle verderolle,2021,2,1
+Rousserolle verderolle,2022,3,1
 Serin cini,2020,4,0
 Sittelle torchepot,2021,5,3
-Sterne pierregarin,2020,1,0
+Sterne pierregarin,2022,2,0
 Tarier pâtre,2021,3,1
 Tarin des aulnes,2019,1,1
-Tourterelle des bois,2021,8,1
+Torcol fourmilier,2022,1,0
+Tourterelle des bois,2022,9,1
 Tourterelle turque,2021,38,2
 Troglodyte mignon,2021,31,2
 Vanneau huppé,2022,14,3

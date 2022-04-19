@@ -1,14 +1,15 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,7,12
 Aigrette garzette,2020,1,0
-Alouette des champs,2021,52,69
+Alouette des champs,2022,53,69
 Alouette lulu,2009,0,1
 Autour des palombes,2022,6,4
 Bécasse des bois,2020,4,1
 Bécassine des marais,2018,0,1
 Bergeronnette des ruisseaux,2011,0,2
-Bergeronnette grise,2022,13,25
-Bergeronnette printanière,2020,14,19
+Bergeronnette flavéole (M.f.flavissima),2022,1,0
+Bergeronnette grise,2022,14,25
+Bergeronnette printanière,2022,15,19
 Bihoreau gris,2021,1,0
 Bondrée apivore,2020,8,1
 Bouscarle de Cetti,2009,0,1
@@ -21,7 +22,7 @@ Bruant zizi,2022,10,24
 Busard cendré,2021,9,23
 Busard des roseaux,2022,1,2
 Busard Saint-Martin,2022,9,18
-Buse variable,2022,101,57
+Buse variable,2022,102,57
 Caille des blés,2021,2,14
 Canard colvert,2020,1,7
 Canard souchet,2017,0,1
@@ -36,12 +37,12 @@ Cisticole des joncs,2020,17,3
 Cochevis huppé,2021,3,9
 Corbeau freux,2019,1,7
 Corneille noire,2022,45,29
-Coucou gris,2022,19,23
+Coucou gris,2022,21,23
 Effraie des clochers,2018,0,11
 Engoulevent d'Europe,2020,2,5
 Épervier d'Europe,2022,12,9
 Étourneau sansonnet,2022,30,37
-Faisan de Colchide,2021,11,11
+Faisan de Colchide,2022,12,11
 Faucon crécerelle,2022,55,53
 Faucon émerillon,2011,0,2
 Faucon hobereau,2022,3,3
@@ -66,7 +67,7 @@ Héron cendré,2022,8,7
 Héron garde-boeufs,2021,2,0
 Hibou moyen-duc,2021,1,5
 Hirondelle de fenêtre,2016,0,13
-Hirondelle rustique,2022,35,34
+Hirondelle rustique,2022,37,34
 Huppe fasciée,2020,8,7
 Hypolaïs polyglotte,2021,13,20
 Linotte mélodieuse,2021,17,26
@@ -92,7 +93,7 @@ Pic épeichette,2021,7,3
 Pic mar,2021,6,1
 Pic noir,2020,8,5
 Pic vert,2022,23,22
-Pie bavarde,2022,23,21
+Pie bavarde,2022,24,21
 Pie-grièche écorcheur,2020,2,4
 Pigeon biset domestique,2020,1,4
 Pigeon colombin,2020,2,7
