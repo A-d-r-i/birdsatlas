@@ -23,6 +23,7 @@ jobs:
           ./SCRIPTS/SEARCH-BLANKS.ps1
           
       - name: Retry if failed
+        if: failure()
         run:  |
           echo "Update the mailles files"
           ./SCRIPTS/UPDATE-MAILLES.ps1
