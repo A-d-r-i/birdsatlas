@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,3,9
-Alouette des champs,2022,53,49
+Alouette des champs,2022,60,49
 Alouette lulu,2020,1,0
 Autour des palombes,2016,0,1
 Bécasse des bois,2017,0,1
@@ -9,11 +9,11 @@ Bergeronnette grise,2022,20,21
 Bergeronnette printanière,2021,17,32
 Bondrée apivore,2021,5,9
 Bruant des roseaux,2020,1,0
-Bruant jaune,2014,0,8
-Bruant proyer,2022,40,44
+Bruant jaune,2022,1,8
+Bruant proyer,2022,45,44
 Bruant zizi,2013,0,3
 Busard cendré,2022,87,135
-Busard des roseaux,2022,28,20
+Busard des roseaux,2022,29,20
 Busard pâle,2019,1,0
 Busard Saint-Martin,2022,179,329
 Buse pattue,2011,0,5
@@ -29,7 +29,7 @@ Cigogne noire,2019,1,0
 Circaète Jean-le-Blanc,2021,1,0
 Cochevis huppé,2021,7,8
 Corbeau freux,2021,17,18
-Corneille noire,2022,134,80
+Corneille noire,2022,136,80
 Coucou gris,2020,1,2
 Courlis cendré,2021,1,0
 Courlis corlieu,2017,0,1
@@ -44,9 +44,9 @@ Faucon hobereau,2022,24,20
 Faucon kobez,2020,2,1
 Faucon pèlerin,2022,10,10
 Fauvette à tête noire,2021,15,47
-Fauvette babillarde,2021,1,0
+Fauvette babillarde,2022,2,0
 Fauvette des jardins,2021,1,9
-Fauvette grisette,2021,5,15
+Fauvette grisette,2022,10,15
 Gallinule poule-d'eau,2012,0,2
 Geai des chênes,2020,8,5
 Gobemouche gris,2020,1,1
@@ -70,7 +70,7 @@ Hirondelle de rivage,2021,2,0
 Hirondelle rustique,2021,38,27
 Huppe fasciée,2020,7,6
 Hypolaïs polyglotte,2021,3,11
-Linotte mélodieuse,2021,25,34
+Linotte mélodieuse,2022,28,34
 Locustelle tachetée,2012,0,2
 Loriot d'Europe,2021,9,16
 Martinet noir,2021,2,3
@@ -82,7 +82,7 @@ Mésange charbonnière,2022,9,34
 Mésange huppée,2011,0,2
 Mésange noire,2021,1,1
 Mésange nonnette,2018,0,7
-Milan noir,2021,12,17
+Milan noir,2022,13,17
 Milan royal,2022,19,10
 Moineau domestique,2022,22,41
 Moineau friquet,2011,0,2
@@ -96,16 +96,16 @@ Pic épeichette,2018,0,1
 Pic mar,2020,1,0
 Pic noir,2020,2,4
 Pic vert,2020,1,10
-Pie bavarde,2022,8,14
+Pie bavarde,2022,9,14
 Pie-grièche écorcheur,2021,3,0
 Pigeon biset domestique,2019,3,15
 Pigeon colombin,2021,12,3
 Pigeon ramier,2022,102,66
-Pinson des arbres,2022,32,58
+Pinson des arbres,2022,33,58
 Pinson du Nord,2022,5,3
 Pipit à gorge rousse,2017,0,1
 Pipit des arbres,2021,1,7
-Pipit farlouse,2020,2,2
+Pipit farlouse,2022,3,2
 Pipit rousseline,2021,4,1
 Pipit spioncelle,2022,1,0
 Pluvier doré,2022,2,4
@@ -114,7 +114,7 @@ Pouillot fitis,2020,1,4
 Pouillot véloce,2022,10,23
 Roitelet à triple bandeau,2022,2,0
 Roitelet huppé,2019,1,0
-Rossignol philomèle,2021,6,18
+Rossignol philomèle,2022,11,18
 Rougegorge familier,2022,12,29
 Rougequeue à front blanc,2021,3,5
 Rougequeue noir,2021,10,19

@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,16,8
 Aigrette garzette,2022,25,32
-Alouette des champs,2021,24,41
-Alouette lulu,2022,13,21
+Alouette des champs,2022,25,41
+Alouette lulu,2022,14,21
 Bécasse des bois,2021,2,0
 Bécassine des marais,2022,20,23
 Bécassine sourde,2015,0,1
@@ -32,7 +32,7 @@ Choucas des tours,2022,32,19
 Chouette hulotte,2021,5,3
 Cisticole des joncs,2021,9,1
 Corneille noire,2022,18,7
-Coucou gris,2020,6,18
+Coucou gris,2022,7,18
 Courlis cendré,2009,0,1
 Courlis corlieu,2019,1,3
 Échasse blanche,2013,0,1
@@ -40,7 +40,7 @@ Effraie des clochers,2021,1,2
 Épervier d'Europe,2021,4,9
 Étourneau sansonnet,2022,17,9
 Faisan de Colchide,2021,5,3
-Faucon crécerelle,2022,10,21
+Faucon crécerelle,2022,11,21
 Faucon hobereau,2021,6,3
 Faucon pèlerin,2019,1,0
 Fauvette à tête noire,2022,12,20
@@ -79,7 +79,8 @@ Linotte mélodieuse,2021,8,16
 Locustelle tachetée,2009,0,1
 Martinet noir,2021,3,8
 Martin-pêcheur d'Europe,2021,21,22
-Merle noir,2022,29,20
+Merle à plastron,2022,1,0
+Merle noir,2022,30,20
 Mésange à longue queue,2022,9,11
 Mésange bleue,2022,35,13
 Mésange charbonnière,2022,23,12
@@ -106,7 +107,7 @@ Pinson du Nord,2022,8,2
 Pipit farlouse,2022,32,30
 Pipit spioncelle,2020,1,1
 Pluvier doré,2020,1,1
-Pouillot fitis,2019,1,3
+Pouillot fitis,2022,2,3
 Pouillot véloce,2022,28,39
 Râle d'eau,2019,1,0
 Roitelet à triple bandeau,2022,14,21
@@ -119,11 +120,11 @@ Serin cini,2021,8,9
 Sittelle torchepot,2022,11,8
 Tadorne de Belon,2022,20,8
 Tarier des prés,2021,1,2
-Tarier pâtre,2021,17,29
+Tarier pâtre,2022,18,29
 Tarin des aulnes,2021,10,26
 Tourterelle des bois,2022,18,18
 Tourterelle turque,2021,4,7
-Traquet motteux,2021,4,7
+Traquet motteux,2022,5,7
 Troglodyte mignon,2022,30,15
 Vanneau huppé,2021,10,16
 Verdier d'Europe,2022,24,16

@@ -1,18 +1,18 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2021,1,0
 Accenteur mouchet,2022,2,0
-Aigle royal,2021,3,1
+Aigle royal,2022,4,1
 Alouette lulu,2022,2,0
 Bergeronnette des ruisseaux,2022,5,1
 Bergeronnette grise,2020,2,0
-Bruant zizi,2021,4,0
+Bruant zizi,2022,5,0
 Buse variable,2022,4,1
 Canard colvert,2021,2,0
 Chardonneret élégant,2022,10,1
 Chevalier guignette,2020,1,1
 Cincle plongeur,2021,1,2
-Corneille mantelée,2022,41,7
-Corneille noire,2022,41,7
+Corneille mantelée,2022,44,7
+Corneille noire,2022,44,7
 Coucou gris,2019,2,1
 Effraie des clochers,2020,1,1
 Engoulevent d'Europe,2020,2,0
@@ -22,30 +22,31 @@ Faucon crécerelle,2021,1,0
 Faucon pèlerin,2021,1,0
 Fauvette à tête noire,2022,20,2
 Fauvette de Moltoni,2019,1,1
-Fauvette mélanocéphale,2022,10,0
+Fauvette mélanocéphale,2022,12,0
 Fauvette pitchou,2021,1,0
 Fauvette sarde,2021,3,0
 Geai des chênes,2022,5,3
 Gobemouche gris,2020,2,1
+Gobemouche noir,2022,1,0
 Goéland leucophée,2020,1,0
-Grand Corbeau,2022,3,3
+Grand Corbeau,2022,5,3
 Grand Cormoran,2021,7,1
 Grèbe castagneux,2019,2,0
 Grive draine,2019,2,0
 Grive musicienne,2022,2,0
 Grosbec casse-noyaux,2019,2,0
 Hirondelle de fenêtre,2022,14,6
-Hirondelle de rochers,2022,3,1
+Hirondelle de rochers,2022,4,1
 Hirondelle rustique,2021,4,1
 Linotte mélodieuse,2020,2,0
 Martinet noir,2021,3,0
 Merle noir,2022,18,2
-Mésange à longue queue,2019,1,1
+Mésange à longue queue,2022,3,1
 Mésange bleue,2022,11,1
 Mésange charbonnière,2022,8,1
 Mésange noire,2022,6,1
-Milan royal,2022,38,14
-Moineau cisalpin,2022,10,2
+Milan royal,2022,39,14
+Moineau cisalpin,2022,11,2
 Moineau friquet,2020,1,0
 Moineau soulcie,2020,1,0
 Perdrix rouge,2021,3,0
@@ -53,9 +54,10 @@ Petit-duc scops,2020,1,0
 Pic épeiche,2022,9,1
 Pie-grièche écorcheur,2020,1,0
 Pigeon biset domestique,2018,0,1
-Pigeon ramier,2022,5,0
+Pigeon ramier,2022,6,0
 Pinson des arbres,2022,8,0
 Pipit rousseline,2020,1,0
+Pouillot siffleur,2022,1,0
 Roitelet à triple bandeau,2022,7,1
 Roitelet huppé,2021,1,0
 Rossignol philomèle,2019,2,0
@@ -63,8 +65,9 @@ Rougegorge familier,2022,21,0
 Rougequeue noir,2021,4,0
 Serin cini,2020,3,2
 Tarier pâtre,2019,0,1
+Torcol fourmilier,2022,1,0
 Tourterelle des bois,2019,1,1
-Tourterelle turque,2022,17,5
+Tourterelle turque,2022,18,5
 Troglodyte mignon,2022,3,2
 Venturon corse,2022,8,0
 Verdier d'Europe,2022,3,0

@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,56,102
+Accenteur mouchet,2022,57,102
 Aigrette garzette,2022,6,37
 Alouette des champs,2021,7,14
-Alouette lulu,2022,19,15
+Alouette lulu,2022,20,15
 Barge à queue noire,2021,1,8
 Bécasseau variable,2014,0,3
 Bécasse des bois,2020,1,8
@@ -14,14 +14,14 @@ Bergeronnette grise,2022,18,44
 Bergeronnette printanière,2021,3,14
 Bihoreau gris,2013,0,1
 Bondrée apivore,2020,1,14
-Bouscarle de Cetti,2022,38,24
+Bouscarle de Cetti,2022,39,24
 Bouvreuil pivoine,2020,3,1
 Bruant des roseaux,2021,1,14
 Bruant jaune,2021,10,34
 Bruant zizi,2022,16,18
 Busard des roseaux,2021,3,39
 Busard Saint-Martin,2021,11,71
-Buse variable,2022,77,162
+Buse variable,2022,79,162
 Caille des blés,2020,1,0
 Canard chipeau,2016,0,9
 Canard colvert,2022,12,49
@@ -34,39 +34,39 @@ Chevalier culblanc,2021,3,20
 Chevalier gambette,2020,1,7
 Chevêche d'Athéna,2021,11,34
 Choucas des tours,2022,17,20
-Chouette hulotte,2022,50,236
+Chouette hulotte,2022,52,236
 Cigogne blanche,2021,5,37
 Circaète Jean-le-Blanc,2016,0,1
 Cisticole des joncs,2022,7,12
 Combattant varié,2019,0,9
 Corbeau freux,2020,1,4
 Corneille noire,2022,72,53
-Coucou gris,2022,62,105
+Coucou gris,2022,66,105
 Courlis cendré,2021,1,16
 Courlis corlieu,2021,5,19
 Cygne noir,2013,0,1
 Cygne tuberculé,2021,2,8
 Échasse blanche,2016,0,4
-Effraie des clochers,2022,27,179
+Effraie des clochers,2022,28,179
 Élanion blanc,2021,2,2
 Engoulevent d'Europe,2020,4,9
 Épervier d'Europe,2022,11,10
-Étourneau sansonnet,2022,108,112
+Étourneau sansonnet,2022,110,112
 Faisan de Colchide,2021,7,57
-Faucon crécerelle,2022,55,96
+Faucon crécerelle,2022,56,96
 Faucon émerillon,2021,1,5
 Faucon hobereau,2021,3,8
 Faucon pèlerin,2018,0,16
-Fauvette à tête noire,2022,113,131
-Fauvette des jardins,2021,15,12
-Fauvette grisette,2021,12,20
+Fauvette à tête noire,2022,116,131
+Fauvette des jardins,2022,16,12
+Fauvette grisette,2022,14,20
 Fauvette pitchou,2019,1,0
 Foulque macroule,2020,1,8
 Fuligule milouin,2013,0,1
 Fuligule milouinan,2015,0,1
 Fuligule morillon,2014,0,1
 Gallinule poule-d'eau,2021,8,27
-Geai des chênes,2022,81,132
+Geai des chênes,2022,85,132
 Gobemouche gris,2020,1,20
 Gobemouche noir,2021,10,13
 Goéland argenté,2021,6,29
@@ -79,11 +79,11 @@ Grande Aigrette,2022,10,41
 Grand Gravelot,2015,0,2
 Grèbe castagneux,2016,0,10
 Grèbe huppé,2014,0,1
-Grimpereau des jardins,2022,48,86
+Grimpereau des jardins,2022,49,86
 Grive draine,2022,13,101
 Grive litorne,2021,3,12
 Grive mauvis,2022,5,29
-Grive musicienne,2022,75,127
+Grive musicienne,2022,76,127
 Grosbec casse-noyaux,2021,1,26
 Guifette moustac,2013,0,1
 Héron cendré,2022,27,164
@@ -91,10 +91,10 @@ Héron garde-boeufs,2022,50,76
 Héron pourpré,2020,1,7
 Hibou des marais,2018,0,5
 Hibou moyen-duc,2016,0,15
-Hirondelle de fenêtre,2021,26,37
+Hirondelle de fenêtre,2022,27,37
 Hirondelle de rivage,2021,2,3
-Hirondelle rustique,2021,73,159
-Huppe fasciée,2021,49,90
+Hirondelle rustique,2022,75,159
+Huppe fasciée,2022,52,90
 Hypolaïs polyglotte,2021,17,29
 Ibis falcinelle,2022,1,1
 Ibis sacré,2019,1,16
@@ -104,16 +104,16 @@ Loriot d'Europe,2021,56,97
 Martinet noir,2021,18,55
 Martin-pêcheur d'Europe,2022,6,31
 Merle à plastron,2020,1,0
-Merle noir,2022,131,148
-Mésange à longue queue,2022,64,129
-Mésange bleue,2022,141,168
+Merle noir,2022,136,148
+Mésange à longue queue,2022,65,129
+Mésange bleue,2022,142,168
 Mésange charbonnière,2022,140,158
 Mésange huppée,2021,1,4
 Mésange noire,2022,8,23
 Mésange nonnette,2021,5,73
 Milan noir,2021,6,17
-Milan royal,2022,1,2
-Moineau domestique,2022,82,111
+Milan royal,2022,2,2
+Moineau domestique,2022,83,111
 Mouette mélanocéphale,2022,5,12
 Mouette pygmée,2018,0,7
 Mouette rieuse,2022,5,45
@@ -128,28 +128,28 @@ Phragmite des joncs,2015,0,7
 Pic épeiche,2022,61,128
 Pic épeichette,2022,11,33
 Pic noir,2021,3,30
-Pic vert,2022,81,141
-Pie bavarde,2022,48,111
+Pic vert,2022,82,141
+Pie bavarde,2022,49,111
 Pie-grièche écorcheur,2020,3,10
 Pigeon biset domestique,2022,6,4
 Pigeon colombin,2017,0,9
-Pigeon ramier,2022,159,173
-Pinson des arbres,2022,167,172
+Pigeon ramier,2022,161,173
+Pinson des arbres,2022,170,172
 Pinson du Nord,2022,11,22
 Pipit des arbres,2021,19,18
 Pipit farlouse,2022,26,9
 Plongeon arctique,2021,1,0
 Pluvier doré,2021,3,12
 Pouillot fitis,2021,3,1
-Pouillot véloce,2022,119,123
+Pouillot véloce,2022,120,123
 Râle d'eau,2014,0,2
-Roitelet à triple bandeau,2021,23,45
+Roitelet à triple bandeau,2022,24,45
 Roitelet huppé,2022,8,14
 Rollier d'Europe,2020,5,0
-Rossignol philomèle,2022,42,59
-Rougegorge familier,2022,229,168
+Rossignol philomèle,2022,46,59
+Rougegorge familier,2022,231,168
 Rougequeue à front blanc,2020,1,4
-Rougequeue noir,2022,24,24
+Rougequeue noir,2022,25,24
 Rousserolle effarvatte,2020,1,8
 Sarcelle d'été,2016,0,5
 Sarcelle d'hiver,2017,0,17
@@ -165,8 +165,8 @@ Tarin des aulnes,2021,2,31
 Torcol fourmilier,2018,0,1
 Tournepierre à collier,2016,0,1
 Tourterelle des bois,2021,50,47
-Tourterelle turque,2022,55,77
+Tourterelle turque,2022,56,77
 Traquet motteux,2021,3,12
-Troglodyte mignon,2022,70,144
+Troglodyte mignon,2022,71,144
 Vanneau huppé,2022,8,79
 Verdier d'Europe,2022,51,99

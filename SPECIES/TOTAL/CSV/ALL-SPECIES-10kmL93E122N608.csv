@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,40,0
 Aigle royal,2019,1,0
-Aigrette garzette,2022,3,2
+Aigrette garzette,2022,4,2
 Alouette des champs,2020,2,0
 Alouette lulu,2021,3,0
 Bécassine des marais,2021,1,0
@@ -32,9 +32,9 @@ Fauvette mélanocéphale,2022,84,2
 Fauvette pitchou,2015,0,1
 Flamant rose,2022,4,1
 Foulque macroule,2021,1,0
-Geai des chênes,2022,71,3
+Geai des chênes,2022,73,3
 Gobemouche gris,2021,4,10
-Goéland leucophée,2022,9,1
+Goéland leucophée,2022,11,1
 Grand Corbeau,2021,9,0
 Grand Cormoran,2022,4,1
 Grande Aigrette,2022,3,1
@@ -48,9 +48,9 @@ Guêpier d'Europe,2021,5,3
 Héron cendré,2022,3,1
 Héron garde-boeufs,2021,1,0
 Héron pourpré,2021,1,0
-Hirondelle de fenêtre,2021,15,5
+Hirondelle de fenêtre,2022,16,5
 Hirondelle de rochers,2022,2,0
-Hirondelle rustique,2021,17,14
+Hirondelle rustique,2022,20,14
 Huppe fasciée,2021,4,0
 Linotte mélodieuse,2022,5,0
 Martinet noir,2021,4,0
@@ -60,8 +60,8 @@ Mésange à longue queue,2022,52,2
 Mésange bleue,2022,63,1
 Mésange charbonnière,2022,90,7
 Mésange noire,2021,16,2
-Milan royal,2022,31,1
-Moineau cisalpin,2021,11,3
+Milan royal,2022,33,1
+Moineau cisalpin,2022,12,3
 Mouette rieuse,2022,1,0
 Petit-duc scops,2022,20,2
 Petit Gravelot,2017,0,1
@@ -86,6 +86,6 @@ Tadorne de Belon,2022,2,0
 Tarier pâtre,2022,4,0
 Tarin des aulnes,2022,6,0
 Tourterelle des bois,2013,0,1
-Tourterelle turque,2022,68,11
+Tourterelle turque,2022,70,11
 Vanneau huppé,2022,1,0
 Verdier d'Europe,2022,8,9
