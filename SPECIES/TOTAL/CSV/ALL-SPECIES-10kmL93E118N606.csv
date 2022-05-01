@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
-Aigrette garzette,2019,1,1
+Aigrette garzette,2022,2,1
 Bihoreau gris,2021,1,0
-Bouscarle de Cetti,2019,1,1
+Bouscarle de Cetti,2022,2,1
 Bruant zizi,2021,3,3
 Buse variable,2018,0,2
 Caille des blés,2009,0,1
@@ -18,31 +18,31 @@ Engoulevent d'Europe,2009,0,1
 Faucon crécerelle,2021,3,2
 Faucon kobez,2021,1,0
 Faucon pèlerin,2021,3,0
-Fauvette à tête noire,2019,1,3
-Fauvette de Moltoni,2019,1,0
-Fauvette mélanocéphale,2021,6,6
+Fauvette à tête noire,2022,2,3
+Fauvette de Moltoni,2022,2,0
+Fauvette mélanocéphale,2022,7,6
 Fauvette passerinette,2009,0,1
-Fauvette pitchou,2020,1,1
+Fauvette pitchou,2022,2,1
 Fauvette sarde,2020,1,0
 Gallinule poule-d'eau,2021,2,0
-Geai des chênes,2019,1,2
+Geai des chênes,2022,2,2
 Gobemouche gris,2021,2,1
 Goéland d'Audouin,2021,7,1
 Goéland leucophée,2021,3,5
-Grand Corbeau,2021,5,7
-Grand Cormoran,2018,0,2
+Grand Corbeau,2022,6,7
+Grand Cormoran,2022,1,2
 Grive musicienne,2018,0,1
 Guêpier d'Europe,2019,1,0
 Héron cendré,2019,1,2
 Hirondelle de fenêtre,2021,1,2
 Hirondelle de rivage,2015,0,1
 Hirondelle de rochers,2019,1,0
-Hirondelle rustique,2021,3,1
+Hirondelle rustique,2022,4,1
 Huppe fasciée,2015,0,1
 Linotte mélodieuse,2021,4,1
 Martin-pêcheur d'Europe,2018,0,1
 Merle noir,2021,3,6
-Mésange à longue queue,2019,1,2
+Mésange à longue queue,2022,2,2
 Mésange bleue,2017,0,2
 Mésange charbonnière,2021,4,3
 Mésange noire,2017,0,1
@@ -58,7 +58,9 @@ Pinson des arbres,2021,1,4
 Pipit rousseline,2009,0,1
 Pouillot véloce,2018,0,2
 Puffin cendré,2015,0,1
-Puffin yelkouan,2015,0,1
+Puffin de Scopoli,2022,1,0
+Puffin yelkouan,2022,1,1
+Rossignol philomèle,2022,1,0
 Rougegorge familier,2021,2,6
 Rougequeue noir,2018,0,1
 Rousserolle effarvatte,2009,0,1

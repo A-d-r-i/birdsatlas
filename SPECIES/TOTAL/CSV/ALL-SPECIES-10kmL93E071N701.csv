@@ -1,6 +1,8 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,82,12
+Accenteur mouchet,2022,83,12
 Alouette des champs,2019,2,1
+Avocette élégante,2022,1,0
+Bécassine des marais,2022,1,0
 Bergeronnette grise,2021,9,6
 Blongios nain,2009,0,1
 Bouscarle de Cetti,2021,3,2
@@ -14,14 +16,20 @@ Buse variable,2021,5,2
 Caille des blés,2009,0,1
 Canard colvert,2020,1,2
 Chardonneret élégant,2022,29,8
+Chevalier aboyeur,2022,1,0
+Chevalier culblanc,2022,1,0
+Chevalier gambette,2022,1,0
+Chevalier guignette,2022,1,0
+Chevalier stagnatile,2022,1,0
 Choucas des tours,2019,1,0
 Chouette hulotte,2021,1,0
 Cigogne blanche,2021,1,1
+Combattant varié,2022,1,0
 Corbeau freux,2021,1,1
 Corneille noire,2020,11,3
 Coucou gris,2021,14,1
 Cygne tuberculé,2021,2,1
-Échasse blanche,2009,0,1
+Échasse blanche,2022,1,1
 Épervier d'Europe,2022,2,3
 Étourneau sansonnet,2022,107,21
 Faisan de Colchide,2020,3,0
@@ -53,10 +61,10 @@ Loriot d'Europe,2019,1,1
 Martinet noir,2021,8,3
 Martin-pêcheur d'Europe,2020,3,1
 Merle à plastron,2021,1,0
-Merle noir,2022,279,50
+Merle noir,2022,280,50
 Mésange à longue queue,2021,7,1
 Mésange bleue,2022,125,38
-Mésange charbonnière,2022,210,56
+Mésange charbonnière,2022,211,56
 Mésange huppée,2020,1,0
 Mésange noire,2020,1,0
 Mésange nonnette,2021,5,0
@@ -75,12 +83,12 @@ Pigeon ramier,2022,103,28
 Pinson des arbres,2022,186,36
 Pinson du Nord,2022,4,7
 Pouillot fitis,2017,0,1
-Pouillot véloce,2022,17,5
+Pouillot véloce,2022,18,5
 Roitelet huppé,2017,0,1
 Rossignol philomèle,2009,0,1
 Rougegorge familier,2022,136,20
 Rougequeue à front blanc,2021,1,0
-Rougequeue noir,2022,20,5
+Rougequeue noir,2022,21,5
 Rousserolle effarvatte,2009,0,1
 Rousserolle verderolle,2020,1,1
 Sarcelle d'été,2009,0,1
@@ -90,7 +98,7 @@ Sterne pierregarin,2020,2,2
 Tarier pâtre,2019,1,0
 Tarin des aulnes,2020,1,0
 Tourterelle des bois,2009,0,1
-Tourterelle turque,2022,224,48
+Tourterelle turque,2022,225,48
 Troglodyte mignon,2022,53,47
 Vanneau huppé,2019,1,0
 Verdier d'Europe,2022,28,16
