@@ -1,9 +1,9 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,123,19
 Aigrette garzette,2022,43,4
-Alouette des champs,2022,61,4
+Alouette des champs,2022,60,4
 Alouette haussecol,2021,2,1
-Alouette lulu,2022,57,2
+Alouette lulu,2022,56,2
 Avocette élégante,2022,9,1
 Barge à queue noire,2019,1,0
 Barge rousse,2021,3,0
@@ -56,7 +56,7 @@ Corbeau freux,2018,0,3
 Corneille mantelée,2019,0,3
 Corneille noire,2022,161,28
 Coucou gris,2022,68,17
-Courlis cendré,2022,1,3
+Courlis cendré,2019,0,3
 Courlis corlieu,2022,15,1
 Cygne chanteur,2020,1,0
 Cygne tuberculé,2022,25,2
@@ -81,7 +81,7 @@ Foulque macroule,2022,46,7
 Fuligule milouin,2021,2,2
 Fuligule morillon,2021,3,2
 Fulmar boréal,2019,2,1
-Gallinule poule-d'eau,2022,35,10
+Gallinule poule-d'eau,2022,36,10
 Garrot à oeil d'or,2021,3,1
 Geai des chênes,2022,63,10
 Gobemouche gris,2021,7,1
@@ -124,7 +124,7 @@ Hirondelle de rivage,2021,4,0
 Hirondelle rustique,2022,67,3
 Huîtrier pie,2022,44,5
 Hypolaïs ictérine,2021,1,2
-Hypolaïs polyglotte,2022,1,1
+Hypolaïs polyglotte,2009,0,1
 Labbe parasite,2021,8,1
 Linotte mélodieuse,2022,80,5
 Locustelle tachetée,2021,14,5
@@ -208,10 +208,10 @@ Tadorne de Belon,2022,50,5
 Tarier des prés,2021,1,0
 Tarier pâtre,2022,15,3
 Tarin des aulnes,2022,41,18
-Tournepierre à collier,2022,4,1
+Tournepierre à collier,2022,5,1
 Tourterelle des bois,2021,35,6
 Tourterelle turque,2022,159,28
-Traquet motteux,2022,10,0
+Traquet motteux,2022,11,0
 Troglodyte mignon,2022,184,46
 Vanneau huppé,2022,39,6
 Verdier d'Europe,2022,36,9

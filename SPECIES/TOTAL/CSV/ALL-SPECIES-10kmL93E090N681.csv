@@ -1,13 +1,13 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2020,6,25
 Alouette des champs,2022,54,52
-Alouette lulu,2022,22,43
+Alouette lulu,2022,23,43
 Autour des palombes,2021,4,3
 Bécasse des bois,2021,1,3
 Bécassine des marais,2019,1,0
-Bergeronnette des ruisseaux,2022,4,12
+Bergeronnette des ruisseaux,2022,5,12
 Bergeronnette grise,2022,25,39
-Bergeronnette printanière,2022,13,7
+Bergeronnette printanière,2022,14,7
 Bondrée apivore,2021,4,6
 Bouvreuil pivoine,2022,6,47
 Bruant des roseaux,2019,1,0
@@ -31,13 +31,13 @@ Cigogne noire,2021,17,10
 Cincle plongeur,2019,1,16
 Corbeau freux,2021,3,15
 Corneille noire,2022,50,42
-Coucou gris,2022,8,33
+Coucou gris,2022,9,33
 Cygne tuberculé,2020,3,0
 Effraie des clochers,2022,13,8
 Épervier d'Europe,2022,12,36
-Étourneau sansonnet,2022,33,35
+Étourneau sansonnet,2022,34,35
 Faisan de Colchide,2022,6,36
-Faucon crécerelle,2022,37,109
+Faucon crécerelle,2022,38,109
 Faucon émerillon,2019,1,0
 Faucon hobereau,2021,1,7
 Faucon pèlerin,2021,1,1
@@ -49,7 +49,7 @@ Gallinule poule-d'eau,2021,2,31
 Geai des chênes,2022,22,67
 Gobemouche gris,2021,2,1
 Gobemouche noir,2019,1,0
-Grand Corbeau,2022,2,0
+Grand Corbeau,2022,3,0
 Grand Cormoran,2022,10,28
 Grand-duc d'Europe,2022,20,29
 Grande Aigrette,2022,6,67
@@ -64,6 +64,7 @@ Grosbec casse-noyaux,2022,11,44
 Héron cendré,2022,24,52
 Hibou moyen-duc,2022,4,13
 Hirondelle de fenêtre,2021,5,42
+Hirondelle de rivage,2022,1,0
 Hirondelle rustique,2022,20,26
 Huppe fasciée,2022,7,37
 Hypolaïs polyglotte,2021,3,5
@@ -75,14 +76,14 @@ Martin-pêcheur d'Europe,2022,11,32
 Merle à plastron,2020,1,0
 Merle noir,2022,61,110
 Mésange à longue queue,2022,5,48
-Mésange bleue,2022,38,123
+Mésange bleue,2022,39,123
 Mésange boréale,2021,1,3
 Mésange charbonnière,2022,64,112
 Mésange huppée,2022,6,34
 Mésange noire,2015,0,8
 Mésange nonnette,2022,5,52
-Milan noir,2022,28,48
-Milan royal,2022,130,131
+Milan noir,2022,29,48
+Milan royal,2022,131,131
 Moineau domestique,2022,29,55
 Moineau friquet,2021,3,22
 Ouette d'Egypte,2021,2,1
@@ -101,7 +102,7 @@ Pigeon biset domestique,2022,6,19
 Pigeon biset (origine naturelle),2009,0,1
 Pigeon colombin,2022,6,6
 Pigeon ramier,2022,47,36
-Pinson des arbres,2022,64,117
+Pinson des arbres,2022,65,117
 Pinson du Nord,2022,3,7
 Pipit des arbres,2022,16,45
 Pipit farlouse,2022,6,2

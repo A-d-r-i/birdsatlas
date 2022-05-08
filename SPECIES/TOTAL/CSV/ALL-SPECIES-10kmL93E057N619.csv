@@ -2,7 +2,7 @@ frname,lastobs,newcount,oldcount
 Accenteur alpin,2021,8,3
 Accenteur mouchet,2022,13,13
 Aigle botté,2020,2,1
-Aigle royal,2022,14,29
+Aigle royal,2022,17,29
 Alouette des champs,2022,7,4
 Autour des palombes,2019,2,0
 Bécasse des bois,2021,1,0
@@ -17,15 +17,15 @@ Bruant jaune,2021,8,4
 Busard cendré,2020,1,0
 Busard des roseaux,2021,4,0
 Busard Saint-Martin,2021,1,2
-Buse variable,2021,35,31
+Buse variable,2022,36,31
 Caille des blés,2020,3,0
 Canard colvert,2021,1,0
 Chocard à bec jaune,2021,15,5
 Chouette hulotte,2021,11,9
 Cincle plongeur,2021,4,6
-Circaète Jean-le-Blanc,2022,15,16
+Circaète Jean-le-Blanc,2022,18,16
 Corneille noire,2021,20,15
-Coucou gris,2022,8,1
+Coucou gris,2022,10,1
 Crave à bec rouge,2022,13,2
 Épervier d'Europe,2021,8,7
 Étourneau sansonnet,2017,0,1
@@ -51,7 +51,7 @@ Héron cendré,2021,3,1
 Hibou moyen-duc,2019,1,0
 Hirondelle de fenêtre,2020,4,4
 Hirondelle de rochers,2021,5,3
-Hirondelle rustique,2018,0,2
+Hirondelle rustique,2022,1,2
 Lagopède alpin,2022,2,1
 Linotte mélodieuse,2019,1,1
 Loriot d'Europe,2021,1,0
@@ -60,7 +60,7 @@ Martinet noir,2021,9,1
 Merle à plastron,2022,7,2
 Merle noir,2022,45,26
 Mésange à longue queue,2021,8,5
-Mésange bleue,2021,32,15
+Mésange bleue,2022,33,15
 Mésange charbonnière,2021,36,23
 Mésange huppée,2021,16,6
 Mésange noire,2021,32,20
@@ -95,6 +95,6 @@ Tarin des aulnes,2021,5,6
 Torcol fourmilier,2021,1,0
 Traquet motteux,2021,5,5
 Troglodyte mignon,2021,27,17
-Vautour fauve,2022,51,37
+Vautour fauve,2022,52,37
 Venturon montagnard,2016,0,1
 Verdier d'Europe,2020,1,0

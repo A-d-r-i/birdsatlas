@@ -2,7 +2,7 @@ frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,27,30
 Aigle botté,2020,1,2
 Aigrette garzette,2022,1,4
-Alouette des champs,2022,492,319
+Alouette des champs,2022,493,319
 Alouette lulu,2020,1,3
 Barge à queue noire,2011,0,3
 Bécasseau maubèche,2013,0,1
@@ -18,15 +18,15 @@ Bouscarle de Cetti,2018,0,2
 Bouvreuil pivoine,2019,0,6
 Bruant des roseaux,2021,1,3
 Bruant jaune,2022,20,48
-Bruant ortolan,2021,9,62
-Bruant proyer,2022,411,402
+Bruant ortolan,2022,10,62
+Bruant proyer,2022,412,402
 Bruant zizi,2022,21,29
-Busard cendré,2022,227,671
-Busard des roseaux,2022,39,124
+Busard cendré,2022,231,671
+Busard des roseaux,2022,40,124
 Busard pâle,2012,0,3
-Busard Saint-Martin,2022,449,728
+Busard Saint-Martin,2022,454,728
 Buse variable,2022,167,267
-Caille des blés,2022,161,302
+Caille des blés,2022,170,302
 Canard colvert,2022,27,49
 Chardonneret élégant,2022,51,66
 Chevalier aboyeur,2020,3,13
@@ -42,15 +42,15 @@ Circaète Jean-le-Blanc,2021,8,26
 Cisticole des joncs,2021,10,8
 Cochevis huppé,2022,11,48
 Corbeau freux,2022,37,59
-Corneille noire,2022,272,176
+Corneille noire,2022,273,176
 Coucou gris,2022,34,22
-Courlis cendré,2022,310,174
+Courlis cendré,2022,313,174
 Courlis corlieu,2015,0,3
 Effraie des clochers,2021,17,45
 Élanion blanc,2021,23,1
 Engoulevent d'Europe,2009,0,1
 Épervier d'Europe,2022,9,28
-Étourneau sansonnet,2022,86,105
+Étourneau sansonnet,2022,87,105
 Faisan de Colchide,2021,14,9
 Faucon crécerelle,2022,186,333
 Faucon émerillon,2022,11,25
@@ -59,7 +59,7 @@ Faucon kobez,2019,1,0
 Faucon pèlerin,2022,7,4
 Fauvette à tête noire,2022,135,99
 Fauvette des jardins,2021,6,7
-Fauvette grisette,2022,153,170
+Fauvette grisette,2022,159,170
 Foulque macroule,2012,0,2
 Gallinule poule-d'eau,2022,15,24
 Geai des chênes,2022,18,22
@@ -86,18 +86,18 @@ Guifette noire,2010,0,4
 Héron cendré,2022,52,76
 Héron garde-boeufs,2022,7,0
 Hibou des marais,2018,0,33
-Hibou moyen-duc,2022,13,13
+Hibou moyen-duc,2022,14,13
 Hirondelle de fenêtre,2021,14,30
 Hirondelle de rivage,2021,2,1
 Hirondelle rustique,2022,108,134
 Huppe fasciée,2022,44,53
-Hypolaïs polyglotte,2022,69,71
+Hypolaïs polyglotte,2022,70,71
 Linotte mélodieuse,2022,147,209
 Locustelle tachetée,2015,0,2
 Loriot d'Europe,2021,21,21
 Martinet noir,2021,19,32
 Martin-pêcheur d'Europe,2022,8,7
-Merle noir,2022,107,135
+Merle noir,2022,109,135
 Mésange à longue queue,2022,7,13
 Mésange bleue,2022,18,46
 Mésange charbonnière,2022,39,61
@@ -110,10 +110,10 @@ Moineau friquet,2015,0,6
 Moineau soulcie,2010,0,2
 Mouette rieuse,2017,0,7
 Océanite culblanc,2007,0,2
-Oedicnème criard,2022,376,811
-Outarde canepetière,2022,1030,1795
-Perdrix grise,2022,70,120
-Perdrix rouge,2022,40,89
+Oedicnème criard,2022,390,811
+Outarde canepetière,2022,1065,1795
+Perdrix grise,2022,72,120
+Perdrix rouge,2022,41,89
 Petit-duc scops,2017,0,2
 Petit Gravelot,2014,0,5
 Pic épeiche,2022,23,29
@@ -121,12 +121,12 @@ Pic épeichette,2022,4,8
 Pic mar,2022,1,2
 Pic noir,2020,2,1
 Pic vert,2022,16,24
-Pie bavarde,2022,93,86
+Pie bavarde,2022,94,86
 Pie-grièche à tête rousse,2013,0,3
 Pie-grièche écorcheur,2021,8,22
 Pigeon biset domestique,2020,1,3
 Pigeon colombin,2016,0,5
-Pigeon ramier,2022,233,131
+Pigeon ramier,2022,235,131
 Pinson des arbres,2022,83,107
 Pinson du Nord,2022,3,4
 Pipit des arbres,2022,11,16
@@ -140,7 +140,7 @@ Pouillot fitis,2021,2,9
 Pouillot véloce,2022,26,59
 Roitelet à triple bandeau,2022,3,9
 Roitelet huppé,2021,1,4
-Rossignol philomèle,2022,180,156
+Rossignol philomèle,2022,182,156
 Rougegorge familier,2022,53,52
 Rougequeue à front blanc,2022,12,19
 Rougequeue noir,2022,20,38
@@ -150,13 +150,13 @@ Serin cini,2021,3,17
 Sittelle torchepot,2022,6,13
 Tadorne de Belon,2019,1,3
 Tarier des prés,2022,11,56
-Tarier pâtre,2022,70,104
+Tarier pâtre,2022,71,104
 Tarin des aulnes,2020,1,6
 Torcol fourmilier,2009,0,1
-Tourterelle des bois,2021,123,136
+Tourterelle des bois,2022,124,136
 Tourterelle turque,2022,41,72
 Traquet motteux,2022,65,224
 Troglodyte mignon,2022,13,43
 Vanneau huppé,2022,39,120
 Vautour fauve,2014,0,1
-Verdier d'Europe,2022,17,42
+Verdier d'Europe,2022,18,42
