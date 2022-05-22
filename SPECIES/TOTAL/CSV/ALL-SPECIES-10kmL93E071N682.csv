@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2020,4,34
 Aigle botté,2021,1,0
-Alouette des champs,2022,3,49
+Alouette des champs,2022,4,49
 Alouette lulu,2021,1,2
 Autour des palombes,2009,0,1
 Bécasse des bois,2014,0,4
@@ -17,10 +17,10 @@ Bruant des roseaux,2014,0,3
 Bruant jaune,2021,1,28
 Bruant proyer,2018,0,29
 Bruant zizi,2018,0,23
-Busard cendré,2021,1,6
-Busard des roseaux,2021,1,11
-Busard Saint-Martin,2022,9,48
-Buse variable,2021,18,60
+Busard cendré,2022,2,6
+Busard des roseaux,2022,2,11
+Busard Saint-Martin,2022,10,48
+Buse variable,2022,19,60
 Caille des blés,2014,0,8
 Canard chipeau,2013,0,5
 Canard colvert,2019,1,20
@@ -35,7 +35,7 @@ Chouette hulotte,2017,0,20
 Cigogne blanche,2013,0,2
 Combattant varié,2014,0,1
 Corbeau freux,2021,7,31
-Corneille noire,2021,10,39
+Corneille noire,2022,11,39
 Coucou gris,2018,0,7
 Cygne tuberculé,2017,0,12
 Effraie des clochers,2020,2,14
@@ -43,14 +43,14 @@ Effraie des clochers,2020,2,14
 Étourneau sansonnet,2022,19,40
 Faisan de Colchide,2022,3,16
 Faisan vénéré,2016,0,1
-Faucon crécerelle,2022,27,47
+Faucon crécerelle,2022,28,47
 Faucon émerillon,2014,0,1
 Faucon hobereau,2020,1,12
 Faucon pèlerin,2017,0,1
 Fauvette à tête noire,2021,1,24
 Fauvette babillarde,2018,0,2
 Fauvette des jardins,2017,0,7
-Fauvette grisette,2018,0,13
+Fauvette grisette,2022,1,13
 Foulque macroule,2017,0,17
 Fuligule morillon,2014,0,10
 Gallinule poule-d'eau,2021,1,17
@@ -92,7 +92,7 @@ Milan royal,2021,1,10
 Moineau domestique,2022,43,55
 Moineau friquet,2021,1,2
 Mouette mélanocéphale,2020,8,14
-Mouette rieuse,2019,1,28
+Mouette rieuse,2022,3,28
 Oedicnème criard,2013,0,10
 Perdrix grise,2019,1,54
 Perdrix rouge,2013,0,2

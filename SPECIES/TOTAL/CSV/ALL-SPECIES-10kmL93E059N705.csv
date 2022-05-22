@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,9,3
+Accenteur mouchet,2022,10,3
 Aigrette garzette,2021,8,0
 Alouette des champs,2021,13,0
 Alouette lulu,2022,20,0
@@ -8,8 +8,8 @@ Barge à queue noire,2022,3,0
 Barge rousse,2022,9,0
 Bécasseau maubèche,2021,2,0
 Bécasseau minute,2021,3,0
-Bécasseau sanderling,2022,31,8
-Bécasseau variable,2022,17,1
+Bécasseau sanderling,2022,32,8
+Bécasseau variable,2022,18,1
 Bécasse des bois,2021,1,0
 Bécassine des marais,2021,5,0
 Bec-croisé des sapins,2021,11,0
@@ -52,9 +52,9 @@ Faucon crécerelle,2021,3,2
 Faucon émerillon,2021,1,0
 Faucon hobereau,2021,1,0
 Faucon pèlerin,2021,7,0
-Fauvette à tête noire,2021,2,0
+Fauvette à tête noire,2022,4,0
 Fauvette babillarde,2015,0,1
-Fauvette grisette,2021,1,0
+Fauvette grisette,2022,3,0
 Fou de Bassan,2022,9,2
 Geai des chênes,2021,10,2
 Goéland à ailes blanches,2018,0,3
@@ -66,9 +66,9 @@ Goéland cendré,2021,2,0
 Goéland leucophée,2021,2,0
 Goéland marin,2022,7,1
 Goéland pontique,2021,7,10
-Grand Cormoran,2022,19,1
+Grand Cormoran,2022,20,1
 Grande Aigrette,2021,8,0
-Grand Gravelot,2022,27,4
+Grand Gravelot,2022,28,4
 Grèbe huppé,2022,5,0
 Grèbe jougris,2021,1,0
 Grimpereau des jardins,2019,1,0
@@ -114,7 +114,7 @@ Pie bavarde,2022,4,3
 Pie-grièche grise,2020,1,0
 Pigeon biset domestique,2022,1,0
 Pigeon colombin,2021,11,0
-Pigeon ramier,2022,13,4
+Pigeon ramier,2022,14,4
 Pingouin torda,2020,1,0
 Pinson des arbres,2021,24,3
 Pinson du Nord,2021,18,0
@@ -132,13 +132,13 @@ Râle d'eau,2021,11,0
 Rémiz penduline,2021,1,0
 Roitelet à triple bandeau,2021,1,0
 Roitelet huppé,2021,5,1
-Rossignol philomèle,2021,1,0
+Rossignol philomèle,2022,2,0
 Rougegorge familier,2022,7,6
 Rougequeue à front blanc,2021,1,1
 Rougequeue noir,2022,6,1
 Rousserolle effarvatte,2021,1,0
 Sarcelle d'hiver,2021,5,0
-Serin cini,2022,11,1
+Serin cini,2022,12,1
 Sittelle torchepot,2021,2,0
 Sizerin flammé,2021,1,0
 Spatule blanche,2022,10,1
@@ -153,6 +153,6 @@ Tarin des aulnes,2021,21,0
 Tournepierre à collier,2022,10,0
 Tourterelle turque,2021,11,2
 Traquet motteux,2022,17,1
-Troglodyte mignon,2021,2,2
+Troglodyte mignon,2022,3,2
 Vanneau huppé,2021,1,0
 Verdier d'Europe,2022,12,0

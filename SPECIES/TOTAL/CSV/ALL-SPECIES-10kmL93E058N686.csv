@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,65,58
 Aigrette garzette,2020,1,0
-Alouette des champs,2021,4,6
+Alouette des champs,2022,6,6
 Autour des palombes,2021,1,0
 Bergeronnette des ruisseaux,2021,5,1
 Bergeronnette grise,2022,7,4
@@ -12,10 +12,10 @@ Bondrée apivore,2021,2,1
 Bouvreuil pivoine,2020,2,6
 Bruant des roseaux,2014,0,1
 Bruant jaune,2021,5,4
-Bruant proyer,2019,1,0
+Bruant proyer,2022,2,0
 Bruant zizi,2022,26,31
-Busard Saint-Martin,2021,3,1
-Buse variable,2021,5,7
+Busard Saint-Martin,2022,4,1
+Buse variable,2022,6,7
 Caille des blés,2019,1,0
 Canard colvert,2022,33,13
 Canard souchet,2022,2,0
@@ -62,7 +62,7 @@ Locustelle tachetée,2009,0,1
 Loriot d'Europe,2019,1,1
 Martinet noir,2021,19,9
 Martin-pêcheur d'Europe,2020,1,1
-Merle noir,2022,140,223
+Merle noir,2022,141,223
 Mésange à longue queue,2022,17,25
 Mésange bleue,2022,102,175
 Mésange charbonnière,2022,104,152
@@ -102,12 +102,13 @@ Rossignol philomèle,2022,1,1
 Rougegorge familier,2022,118,138
 Rougequeue à front blanc,2021,5,0
 Rougequeue noir,2022,36,10
+Rousserolle effarvatte,2022,1,0
 Rousserolle verderolle,2009,0,1
 Serin cini,2022,4,2
 Sittelle torchepot,2022,29,10
 Tarier pâtre,2022,6,2
 Tarin des aulnes,2022,3,6
-Tourterelle des bois,2019,2,2
+Tourterelle des bois,2022,3,2
 Tourterelle turque,2022,96,77
 Troglodyte mignon,2021,41,27
 Vanneau huppé,2021,3,1

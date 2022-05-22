@@ -1,14 +1,14 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,3,12
 Aigle botté,2020,2,2
-Alouette des champs,2022,64,162
+Alouette des champs,2022,67,162
 Alouette lulu,2022,13,25
 Autour des palombes,2017,0,8
 Bécassine des marais,2020,4,17
 Bécassine sourde,2020,1,8
-Bec-croisé des sapins,2022,14,14
+Bec-croisé des sapins,2022,15,14
 Bergeronnette des ruisseaux,2021,5,18
-Bergeronnette grise,2022,64,103
+Bergeronnette grise,2022,65,103
 Bergeronnette printanière,2022,1,5
 Bondrée apivore,2021,4,10
 Bouvreuil pivoine,2021,5,17
@@ -22,7 +22,7 @@ Busard des roseaux,2022,2,5
 Busard Saint-Martin,2021,10,25
 Buse variable,2022,73,297
 Caille des blés,2021,5,5
-Canard colvert,2022,15,20
+Canard colvert,2022,16,20
 Chardonneret élégant,2022,19,28
 Chevalier aboyeur,2018,0,4
 Chevalier culblanc,2022,11,15
@@ -34,19 +34,19 @@ Cigogne blanche,2022,1,4
 Cincle plongeur,2022,4,6
 Circaète Jean-le-Blanc,2022,20,26
 Corneille noire,2022,76,281
-Coucou gris,2021,15,48
-Courlis cendré,2022,66,130
+Coucou gris,2022,17,48
+Courlis cendré,2022,67,130
 Épervier d'Europe,2021,5,15
 Étourneau sansonnet,2022,37,79
 Faisan de Colchide,2019,1,3
 Faucon crécerelle,2022,81,321
 Faucon émerillon,2020,3,3
-Faucon hobereau,2021,4,4
+Faucon hobereau,2022,5,4
 Faucon kobez,2019,1,6
 Faucon pèlerin,2014,0,3
-Fauvette à tête noire,2021,13,10
-Fauvette des jardins,2020,1,10
-Fauvette grisette,2021,7,24
+Fauvette à tête noire,2022,14,10
+Fauvette des jardins,2022,2,10
+Fauvette grisette,2022,8,24
 Geai des chênes,2022,30,43
 Gobemouche gris,2020,1,1
 Gobemouche noir,2020,1,5
@@ -56,57 +56,57 @@ Grand Cormoran,2020,1,0
 Grande Aigrette,2022,37,40
 Grimpereau des bois,2016,0,3
 Grimpereau des jardins,2021,4,5
-Grive draine,2022,28,90
+Grive draine,2022,29,90
 Grive litorne,2022,21,45
 Grive mauvis,2011,0,2
 Grive musicienne,2021,7,10
 Guêpier d'Europe,2021,1,0
 Héron cendré,2022,18,41
 Hibou moyen-duc,2021,8,11
-Hirondelle de fenêtre,2021,15,27
+Hirondelle de fenêtre,2022,16,27
 Hirondelle de rochers,2011,0,2
-Hirondelle rustique,2021,14,57
+Hirondelle rustique,2022,15,57
 Huppe fasciée,2021,15,22
 Hypolaïs polyglotte,2017,0,1
-Linotte mélodieuse,2022,20,70
+Linotte mélodieuse,2022,21,70
 Martinet noir,2021,11,32
 Martin-pêcheur d'Europe,2020,1,1
 Merle à plastron,2015,0,1
 Merle noir,2022,14,28
 Mésange à longue queue,2016,0,3
-Mésange bleue,2022,14,19
+Mésange bleue,2022,15,19
 Mésange charbonnière,2022,22,31
 Mésange huppée,2022,11,21
-Mésange noire,2022,27,44
-Mésange nonnette,2022,14,8
-Milan noir,2022,26,80
-Milan royal,2022,111,331
+Mésange noire,2022,29,44
+Mésange nonnette,2022,15,8
+Milan noir,2022,28,80
+Milan royal,2022,113,331
 Moineau domestique,2022,27,47
 Moineau soulcie,2018,0,6
 Perdrix grise,2019,1,2
 Perdrix rouge,2020,3,10
 Pic épeiche,2022,8,23
 Pic noir,2021,7,19
-Pic vert,2021,17,23
-Pie bavarde,2022,54,139
+Pic vert,2022,18,23
+Pie bavarde,2022,55,139
 Pie-grièche à tête rousse,2017,0,1
 Pie-grièche écorcheur,2021,35,36
 Pie-grièche grise,2022,83,333
 Pigeon biset domestique,2021,2,0
 Pigeon colombin,2021,1,2
 Pigeon ramier,2022,13,24
-Pinson des arbres,2022,45,101
+Pinson des arbres,2022,47,101
 Pinson du Nord,2022,6,10
-Pipit des arbres,2021,6,24
+Pipit des arbres,2022,10,24
 Pipit farlouse,2022,55,135
 Pipit spioncelle,2021,2,5
 Pluvier doré,2022,1,3
 Pouillot de Bonelli,2009,0,1
 Pouillot fitis,2020,1,1
 Pouillot siffleur,2020,1,0
-Pouillot véloce,2021,17,26
+Pouillot véloce,2022,18,26
 Roitelet à triple bandeau,2021,3,14
-Roitelet huppé,2021,4,11
+Roitelet huppé,2022,5,11
 Rollier d'Europe,2017,0,5
 Rossignol philomèle,2017,0,1
 Rougegorge familier,2022,16,17
@@ -119,12 +119,12 @@ Sittelle torchepot,2022,13,13
 Sizerin cabaret,2018,0,2
 Sizerin flammé,2018,0,2
 Tarier des prés,2022,25,103
-Tarier pâtre,2022,30,62
+Tarier pâtre,2022,31,62
 Tarin des aulnes,2022,3,2
 Torcol fourmilier,2022,7,8
 Tourterelle turque,2022,21,41
-Traquet motteux,2021,50,104
-Troglodyte mignon,2022,11,11
+Traquet motteux,2022,51,104
+Troglodyte mignon,2022,12,11
 Vanneau huppé,2022,35,148
 Vautour fauve,2021,6,9
 Verdier d'Europe,2021,3,1

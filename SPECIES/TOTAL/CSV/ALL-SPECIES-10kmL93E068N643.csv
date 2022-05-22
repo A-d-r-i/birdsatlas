@@ -1,32 +1,32 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2021,2,10
-Accenteur mouchet,2022,96,151
+Accenteur mouchet,2022,97,151
 Aigle botté,2020,5,5
 Aigle royal,2022,28,45
 Aigrette garzette,2018,0,1
 Alouette calandrelle,2012,0,1
-Alouette des champs,2022,406,467
-Alouette lulu,2022,172,126
+Alouette des champs,2022,407,467
+Alouette lulu,2022,173,126
 Autour des palombes,2021,13,8
 Avocette élégante,2019,1,0
 Bécasse des bois,2020,4,1
 Bécassine des marais,2021,2,2
 Bec-croisé des sapins,2021,32,42
 Bergeronnette des ruisseaux,2022,77,117
-Bergeronnette grise,2022,196,243
+Bergeronnette grise,2022,197,243
 Bergeronnette printanière,2022,25,39
-Bondrée apivore,2021,42,65
+Bondrée apivore,2022,44,65
 Bouvreuil pivoine,2021,43,61
 Bruant des neiges,2021,1,0
 Bruant des roseaux,2022,19,23
 Bruant fou,2021,32,29
-Bruant jaune,2022,226,284
+Bruant jaune,2022,228,284
 Bruant proyer,2022,21,10
 Bruant zizi,2021,4,8
 Busard cendré,2022,19,48
 Busard des roseaux,2022,27,28
 Busard Saint-Martin,2022,55,113
-Buse variable,2022,237,527
+Buse variable,2022,238,527
 Caille des blés,2021,23,26
 Canard colvert,2021,10,5
 Chardonneret élégant,2022,156,288
@@ -36,7 +36,7 @@ Chouette de Tengmalm,2022,2,0
 Chouette hulotte,2022,30,43
 Cigogne noire,2021,6,5
 Cincle plongeur,2020,13,18
-Circaète Jean-le-Blanc,2022,101,206
+Circaète Jean-le-Blanc,2022,102,206
 Corbeau freux,2021,1,2
 Corneille noire,2022,108,240
 Coucou gris,2022,103,96
@@ -48,7 +48,7 @@ Faisan de Colchide,2018,0,5
 Faucon crécerelle,2022,263,492
 Faucon d'Eléonore,2016,0,3
 Faucon émerillon,2021,22,25
-Faucon hobereau,2021,10,29
+Faucon hobereau,2022,11,29
 Faucon kobez,2020,1,0
 Faucon pèlerin,2021,29,63
 Fauvette à tête noire,2022,73,133
@@ -59,8 +59,8 @@ Gallinule poule-d'eau,2021,1,1
 Geai des chênes,2022,130,231
 Gobemouche gris,2021,2,3
 Gobemouche noir,2020,6,18
-Goéland leucophée,2022,13,5
-Grand Corbeau,2022,148,322
+Goéland leucophée,2022,14,5
+Grand Corbeau,2022,149,322
 Grand Cormoran,2022,31,40
 Grand-duc d'Europe,2021,1,14
 Grande Aigrette,2022,5,0
@@ -82,10 +82,10 @@ Hirondelle de rochers,2021,10,17
 Hirondelle rustique,2022,109,230
 Huppe fasciée,2022,21,8
 Hypolaïs polyglotte,2011,0,4
-Linotte mélodieuse,2022,264,456
+Linotte mélodieuse,2022,266,456
 Locustelle tachetée,2018,0,3
 Martinet à ventre blanc,2020,3,0
-Martinet noir,2021,18,45
+Martinet noir,2022,19,45
 Martin-pêcheur d'Europe,2018,0,2
 Merle à plastron,2022,42,41
 Merle noir,2022,160,226
@@ -96,10 +96,10 @@ Mésange huppée,2022,14,17
 Mésange noire,2022,67,111
 Mésange nonnette,2022,70,97
 Milan noir,2022,97,134
-Milan royal,2022,441,683
+Milan royal,2022,442,683
 Moineau domestique,2022,110,174
 Moineau friquet,2021,3,10
-Monticole de roche,2021,72,89
+Monticole de roche,2022,74,89
 Niverolle alpine,2016,0,4
 Perdrix grise,2022,2,1
 Perdrix rouge,2019,1,2
@@ -108,7 +108,7 @@ Pic épeichette,2022,2,1
 Pic noir,2022,49,51
 Pic vert,2022,75,105
 Pie bavarde,2022,87,108
-Pie-grièche écorcheur,2021,178,106
+Pie-grièche écorcheur,2022,179,106
 Pie-grièche grise,2022,21,27
 Pigeon biset domestique,2016,0,1
 Pigeon colombin,2021,64,33
@@ -116,9 +116,9 @@ Pigeon ramier,2022,260,136
 Pinson des arbres,2022,303,356
 Pinson du Nord,2022,69,65
 Pipit des arbres,2022,101,152
-Pipit farlouse,2022,229,389
+Pipit farlouse,2022,230,389
 Pipit rousseline,2011,0,2
-Pipit spioncelle,2022,190,235
+Pipit spioncelle,2022,192,235
 Pluvier doré,2020,1,0
 Pluvier guignard,2021,4,18
 Pouillot de Bonelli,2020,2,0
@@ -131,20 +131,20 @@ Roitelet huppé,2021,11,23
 Rossignol philomèle,2011,0,3
 Rougegorge familier,2022,111,93
 Rougequeue à front blanc,2022,8,24
-Rougequeue noir,2022,201,377
+Rougequeue noir,2022,203,377
 Serin cini,2021,41,76
 Sittelle torchepot,2022,76,54
 Sizerin flammé,2010,0,1
 Tarier des prés,2021,51,137
-Tarier pâtre,2022,187,139
+Tarier pâtre,2022,188,139
 Tarin des aulnes,2021,90,81
 Tichodrome échelette,2018,0,5
 Torcol fourmilier,2021,7,5
 Tourterelle turque,2022,17,28
-Traquet motteux,2022,321,549
+Traquet motteux,2022,323,549
 Troglodyte mignon,2022,13,40
 Vanneau huppé,2018,0,1
-Vautour fauve,2021,165,38
+Vautour fauve,2022,166,38
 Vautour moine,2020,2,1
 Venturon montagnard,2021,3,1
 Verdier d'Europe,2021,33,41
