@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,17,15
 Aigle botté,2020,1,0
-Alouette des champs,2022,2,8
+Alouette des champs,2022,3,8
 Alouette lulu,2011,0,2
 Autour des palombes,2020,2,3
 Bécasse des bois,2017,0,4
@@ -18,7 +18,7 @@ Bruant des roseaux,2022,1,4
 Bruant jaune,2021,2,7
 Bruant proyer,2022,3,7
 Bruant zizi,2019,1,5
-Busard cendré,2021,2,2
+Busard cendré,2022,3,2
 Busard des roseaux,2021,8,5
 Busard Saint-Martin,2022,5,14
 Buse variable,2022,12,33
@@ -35,20 +35,20 @@ Chevalier culblanc,2009,0,1
 Chevalier gambette,2020,1,0
 Chevalier guignette,2019,1,4
 Chevêche d'Athéna,2021,1,2
-Choucas des tours,2022,30,35
+Choucas des tours,2022,31,35
 Chouette hulotte,2022,3,3
 Cigogne blanche,2021,1,4
 Cigogne noire,2021,1,1
 Circaète Jean-le-Blanc,2020,1,0
 Cochevis huppé,2015,0,2
 Corbeau freux,2021,1,14
-Corneille noire,2022,42,58
+Corneille noire,2022,43,58
 Coucou gris,2022,12,19
 Cygne tuberculé,2022,10,22
 Effraie des clochers,2009,0,1
 Engoulevent d'Europe,2018,0,3
-Épervier d'Europe,2022,8,6
-Étourneau sansonnet,2022,35,35
+Épervier d'Europe,2022,9,6
+Étourneau sansonnet,2022,36,35
 Faisan de Colchide,2022,4,8
 Faucon crécerelle,2021,15,33
 Faucon émerillon,2021,1,2
@@ -88,7 +88,7 @@ Linotte mélodieuse,2021,7,12
 Locustelle tachetée,2014,0,2
 Loriot d'Europe,2022,5,4
 Marouette ponctuée,2009,0,1
-Martinet noir,2021,18,15
+Martinet noir,2022,20,15
 Martin-pêcheur d'Europe,2020,4,10
 Merle à plastron,2022,1,0
 Merle noir,2022,194,70
@@ -100,9 +100,9 @@ Mésange noire,2022,29,4
 Mésange nonnette,2022,153,19
 Milan noir,2018,0,5
 Milan royal,2021,1,1
-Moineau domestique,2022,112,62
+Moineau domestique,2022,114,62
 Moineau friquet,2015,0,2
-Mouette mélanocéphale,2011,0,1
+Mouette mélanocéphale,2022,1,1
 Mouette rieuse,2022,5,19
 Oedicnème criard,2012,0,1
 Perdrix grise,2020,1,4
@@ -115,11 +115,11 @@ Pic épeichette,2022,7,6
 Pic mar,2022,11,5
 Pic noir,2022,10,14
 Pic vert,2022,13,48
-Pie bavarde,2022,55,44
+Pie bavarde,2022,56,44
 Pie-grièche écorcheur,2020,1,3
 Pigeon biset domestique,2022,37,18
 Pigeon colombin,2022,6,6
-Pigeon ramier,2022,102,79
+Pigeon ramier,2022,104,79
 Pinson des arbres,2022,274,67
 Pinson du Nord,2022,29,2
 Pipit des arbres,2022,3,5

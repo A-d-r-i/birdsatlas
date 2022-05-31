@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,54,61
+Accenteur mouchet,2022,55,61
 Aigrette garzette,2021,15,72
 Alouette des champs,2022,13,59
 Alouette lulu,2021,1,0
@@ -56,7 +56,7 @@ Faisan de Colchide,2022,23,11
 Faisan vénéré,2017,0,2
 Faucon crécerelle,2022,36,149
 Faucon émerillon,2022,2,0
-Faucon hobereau,2022,4,9
+Faucon hobereau,2022,5,9
 Faucon pèlerin,2019,2,0
 Fauvette à tête noire,2022,48,50
 Fauvette des jardins,2021,1,16
@@ -84,7 +84,7 @@ Guêpier d'Europe,2017,0,1
 Héron cendré,2022,59,121
 Héron garde-boeufs,2022,72,47
 Héron pourpré,2021,3,1
-Hibou moyen-duc,2017,0,4
+Hibou moyen-duc,2022,1,4
 Hirondelle de fenêtre,2022,15,37
 Hirondelle de rivage,2017,0,4
 Hirondelle rustique,2022,21,60
@@ -96,16 +96,16 @@ Loriot d'Europe,2021,7,18
 Martinet noir,2022,23,52
 Martin-pêcheur d'Europe,2022,2,10
 Merle à plastron,2016,0,2
-Merle noir,2022,123,135
+Merle noir,2022,124,135
 Mésange à longue queue,2022,22,27
-Mésange bleue,2022,136,120
-Mésange charbonnière,2022,116,129
+Mésange bleue,2022,137,120
+Mésange charbonnière,2022,117,129
 Mésange huppée,2021,8,22
 Mésange noire,2022,8,21
 Mésange nonnette,2022,12,33
-Milan noir,2021,3,5
+Milan noir,2022,4,5
 Milan royal,2020,1,0
-Moineau domestique,2022,91,93
+Moineau domestique,2022,92,93
 Moineau friquet,2015,0,1
 Mouette rieuse,2022,5,17
 Oedicnème criard,2021,7,13
@@ -124,7 +124,7 @@ Pie-grièche écorcheur,2017,0,10
 Pigeon biset domestique,2022,12,20
 Pigeon biset (origine naturelle),2009,0,1
 Pigeon colombin,2021,7,14
-Pigeon ramier,2022,99,112
+Pigeon ramier,2022,100,112
 Pinson des arbres,2022,115,129
 Pinson du Nord,2022,9,20
 Pipit des arbres,2021,4,15
@@ -137,8 +137,8 @@ Pouillot véloce,2022,43,61
 Roitelet à triple bandeau,2022,8,7
 Roitelet huppé,2022,4,14
 Rossignol philomèle,2022,10,41
-Rougegorge familier,2022,99,123
-Rougequeue à front blanc,2022,10,13
+Rougegorge familier,2022,100,123
+Rougequeue à front blanc,2022,11,13
 Rougequeue noir,2022,33,59
 Rousserolle effarvatte,2018,0,6
 Sarcelle d'été,2018,0,3

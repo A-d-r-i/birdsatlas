@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,100,34
+Accenteur mouchet,2022,101,34
 Alouette des champs,2022,6,2
 Bergeronnette des ruisseaux,2019,1,0
 Bergeronnette grise,2022,11,8
@@ -21,15 +21,16 @@ Choucas des tours,2022,45,2
 Chouette hulotte,2021,1,1
 Cigogne blanche,2017,0,2
 Corbeau freux,2021,1,1
-Corneille noire,2022,48,7
+Corneille noire,2022,49,7
 Coucou gris,2022,8,2
 Épervier d'Europe,2022,6,7
 Étourneau sansonnet,2022,157,32
 Faisan de Colchide,2022,7,0
 Faucon crécerelle,2021,3,1
 Fauvette à tête noire,2022,20,4
+Fauvette babillarde,2022,1,0
 Fauvette des jardins,2021,3,1
-Fauvette grisette,2022,4,1
+Fauvette grisette,2022,5,1
 Foulque macroule,2021,1,1
 Gallinule poule-d'eau,2022,2,2
 Geai des chênes,2022,34,9
@@ -40,6 +41,7 @@ Goéland cendré,2009,0,1
 Goéland leucophée,2009,0,1
 Goéland pontique,2009,0,1
 Gorgebleue à miroir,2009,0,1
+Grand Corbeau,2022,1,0
 Grèbe castagneux,2022,1,1
 Grimpereau des jardins,2022,12,1
 Grive draine,2021,10,2
@@ -57,7 +59,7 @@ Hypolaïs polyglotte,2021,1,1
 Linotte mélodieuse,2021,2,3
 Locustelle tachetée,2021,1,1
 Martinet noir,2021,6,5
-Merle noir,2022,286,70
+Merle noir,2022,287,70
 Mésange à longue queue,2022,19,6
 Mésange bleue,2022,182,69
 Mésange boréale,2009,0,1
@@ -66,7 +68,7 @@ Mésange huppée,2021,5,2
 Mésange noire,2021,46,3
 Mésange nonnette,2021,27,1
 Milan noir,2021,1,1
-Moineau domestique,2022,259,70
+Moineau domestique,2022,260,70
 Moineau friquet,2021,14,4
 Mouette rieuse,2022,4,1
 Oie cendrée,2021,1,0
@@ -76,10 +78,10 @@ Perruche à collier,2009,0,1
 Pic épeiche,2022,26,10
 Pic épeichette,2020,1,2
 Pic vert,2022,22,11
-Pie bavarde,2022,83,12
+Pie bavarde,2022,84,12
 Pigeon biset domestique,2022,18,7
 Pigeon colombin,2021,1,0
-Pigeon ramier,2022,145,21
+Pigeon ramier,2022,146,21
 Pinson des arbres,2022,229,70
 Pinson du Nord,2022,32,12
 Pipit des arbres,2021,3,0
@@ -90,7 +92,7 @@ Râle des genêts,2009,0,1
 Roitelet à triple bandeau,2021,1,1
 Roitelet huppé,2021,2,4
 Rossignol philomèle,2021,1,1
-Rougegorge familier,2022,183,49
+Rougegorge familier,2022,184,49
 Rougequeue noir,2022,13,2
 Rousserolle effarvatte,2021,2,0
 Sarcelle d'été,2009,0,1

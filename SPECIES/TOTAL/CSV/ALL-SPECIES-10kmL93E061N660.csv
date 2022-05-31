@@ -1,18 +1,19 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,1,2
 Alouette des champs,2009,0,2
-Alouette lulu,2009,0,2
+Alouette lulu,2022,1,2
 Autour des palombes,2009,0,1
 Bergeronnette des ruisseaux,2009,0,1
 Bergeronnette grise,2009,0,2
+Bergeronnette printanière,2022,1,0
 Bondrée apivore,2009,0,1
 Bouvreuil pivoine,2009,0,1
 Bruant des roseaux,2009,0,2
 Bruant jaune,2009,0,2
-Bruant proyer,2021,1,1
-Bruant zizi,2020,3,2
+Bruant proyer,2022,2,1
+Bruant zizi,2022,4,2
 Busard Saint-Martin,2009,0,2
-Buse variable,2022,4,2
+Buse variable,2022,5,2
 Caille des blés,2009,0,1
 Canard colvert,2009,0,2
 Chardonneret élégant,2022,2,1
@@ -27,15 +28,15 @@ Engoulevent d'Europe,2009,0,1
 Épervier d'Europe,2009,0,2
 Étourneau sansonnet,2021,1,2
 Faisan de Colchide,2021,2,2
-Faucon crécerelle,2009,0,2
+Faucon crécerelle,2022,1,2
 Faucon émerillon,2009,0,1
 Faucon hobereau,2009,0,1
-Fauvette à tête noire,2021,3,1
+Fauvette à tête noire,2022,4,1
 Fauvette des jardins,2009,0,1
 Fauvette grisette,2021,2,1
 Foulque macroule,2009,0,1
 Gallinule poule-d'eau,2009,0,1
-Geai des chênes,2022,3,3
+Geai des chênes,2022,4,3
 Gobemouche gris,2009,0,1
 Grand Cormoran,2009,0,1
 Grande Aigrette,2009,0,1
@@ -47,25 +48,26 @@ Grive mauvis,2009,0,1
 Grive musicienne,2009,0,2
 Grosbec casse-noyaux,2009,0,2
 Héron cendré,2009,0,1
+Héron garde-boeufs,2022,1,0
 Hibou moyen-duc,2009,0,1
 Hirondelle de fenêtre,2021,2,1
-Hirondelle rustique,2021,2,1
-Huppe fasciée,2009,0,1
+Hirondelle rustique,2022,3,1
+Huppe fasciée,2022,1,1
 Hypolaïs polyglotte,2021,2,1
-Linotte mélodieuse,2020,1,2
-Loriot d'Europe,2009,0,1
-Martinet noir,2009,0,1
+Linotte mélodieuse,2022,2,2
+Loriot d'Europe,2022,1,1
+Martinet noir,2022,1,1
 Martin-pêcheur d'Europe,2009,0,2
-Merle noir,2022,3,3
+Merle noir,2022,4,3
 Mésange à longue queue,2021,1,2
 Mésange bleue,2022,3,2
 Mésange charbonnière,2022,6,3
 Mésange huppée,2009,0,2
 Mésange noire,2009,0,1
 Mésange nonnette,2022,2,2
-Milan noir,2009,0,1
+Milan noir,2022,1,1
 Milan royal,2017,0,2
-Moineau domestique,2022,3,3
+Moineau domestique,2022,4,3
 Oedicnème criard,2009,0,1
 Perdrix rouge,2009,0,2
 Pic épeiche,2022,4,2
@@ -85,15 +87,15 @@ Pouillot siffleur,2009,0,1
 Pouillot véloce,2009,0,2
 Roitelet à triple bandeau,2009,0,2
 Roitelet huppé,2021,1,2
-Rossignol philomèle,2021,1,1
+Rossignol philomèle,2022,2,1
 Rougegorge familier,2022,2,3
 Rougequeue à front blanc,2009,0,1
 Rougequeue noir,2022,3,2
 Serin cini,2009,0,1
-Sittelle torchepot,2022,3,2
-Tarier pâtre,2020,1,1
+Sittelle torchepot,2022,4,2
+Tarier pâtre,2022,2,1
 Tarin des aulnes,2009,0,1
-Tourterelle des bois,2020,1,1
+Tourterelle des bois,2022,2,1
 Tourterelle turque,2021,1,2
 Troglodyte mignon,2022,1,2
 Verdier d'Europe,2009,0,2

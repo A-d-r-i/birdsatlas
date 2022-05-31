@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,44,61
 Aigrette garzette,2022,2,5
-Alouette des champs,2022,11,10
+Alouette des champs,2022,12,10
 Alouette lulu,2018,0,6
 Autour des palombes,2019,1,6
 Barge rousse,2018,0,4
@@ -39,14 +39,14 @@ Chevalier guignette,2021,7,8
 Choucas des tours,2022,44,36
 Chouette hulotte,2020,3,3
 Cigogne noire,2016,0,2
-Cisticole des joncs,2022,34,58
+Cisticole des joncs,2022,35,58
 Corbeau freux,2020,1,1
 Cormoran huppé,2022,42,33
 Corneille noire,2022,24,25
 Coucou gris,2022,42,35
 Courlis cendré,2020,3,4
 Courlis corlieu,2022,14,15
-Crave à bec rouge,2022,96,99
+Crave à bec rouge,2022,98,99
 Cygne chanteur,2018,0,1
 Effraie des clochers,2021,5,5
 Engoulevent d'Europe,2020,7,5
@@ -54,7 +54,7 @@ Engoulevent d'Europe,2020,7,5
 Etourneau roselin,2015,0,3
 Étourneau sansonnet,2021,8,11
 Faisan de Colchide,2022,40,25
-Faucon crécerelle,2022,36,35
+Faucon crécerelle,2022,37,35
 Faucon émerillon,2019,6,14
 Faucon hobereau,2019,3,5
 Faucon kobez,2013,0,1
@@ -66,7 +66,7 @@ Fauvette pitchou,2022,21,36
 Fou de Bassan,2022,13,36
 Foulque macroule,2022,16,6
 Fuligule morillon,2020,6,2
-Fulmar boréal,2022,50,30
+Fulmar boréal,2022,51,30
 Gallinule poule-d'eau,2022,20,13
 Gobemouche gris,2017,0,6
 Gobemouche noir,2016,0,6
@@ -148,7 +148,7 @@ Pinson des arbres,2022,55,40
 Pinson du Nord,2021,2,5
 Pipit de Richard,2016,0,3
 Pipit des arbres,2020,1,3
-Pipit farlouse,2022,49,72
+Pipit farlouse,2022,50,72
 Pipit maritime,2022,28,24
 Pipit rousseline,2013,0,2
 Pipit spioncelle,2018,0,4
@@ -185,7 +185,7 @@ Sterne naine,2014,0,1
 Sterne pierregarin,2017,0,4
 Tadorne de Belon,2022,35,28
 Tarier des prés,2020,4,7
-Tarier pâtre,2022,70,73
+Tarier pâtre,2022,71,73
 Tarin des aulnes,2021,2,8
 Torcol fourmilier,2020,1,7
 Tournepierre à collier,2022,17,3
@@ -193,5 +193,5 @@ Tourterelle des bois,2021,4,17
 Tourterelle turque,2022,19,24
 Traquet motteux,2022,28,33
 Troglodyte mignon,2022,59,87
-Vanneau huppé,2022,13,12
+Vanneau huppé,2022,14,12
 Verdier d'Europe,2022,9,15

@@ -1,13 +1,13 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2018,0,5
-Alouette des champs,2020,14,45
+Alouette des champs,2022,31,45
 Alouette lulu,2021,1,2
-Autour des palombes,2022,2,0
+Autour des palombes,2022,3,0
 Bécasse des bois,2022,1,2
 Bec-croisé des sapins,2011,0,1
 Bergeronnette des ruisseaux,2011,0,4
 Bergeronnette grise,2020,4,36
-Bergeronnette printanière,2020,2,22
+Bergeronnette printanière,2022,3,22
 Bondrée apivore,2012,0,7
 Bouvreuil pivoine,2021,3,5
 Bruant des roseaux,2007,0,1
@@ -15,10 +15,10 @@ Bruant jaune,2021,5,23
 Bruant proyer,2020,9,12
 Bruant zizi,2020,2,5
 Busard cendré,2020,2,5
-Busard des roseaux,2020,1,0
-Busard Saint-Martin,2020,1,26
-Buse variable,2022,19,42
-Caille des blés,2020,3,9
+Busard des roseaux,2022,4,0
+Busard Saint-Martin,2022,3,26
+Buse variable,2022,38,42
+Caille des blés,2022,4,9
 Canard colvert,2012,0,2
 Chardonneret élégant,2020,2,16
 Chevalier culblanc,2007,0,1
@@ -28,12 +28,12 @@ Chouette hulotte,2021,1,8
 Cigogne noire,2015,0,7
 Corbeau freux,2020,2,8
 Corneille noire,2022,16,27
-Coucou gris,2020,2,4
+Coucou gris,2022,3,4
 Courlis cendré,2007,0,1
 Effraie des clochers,2021,1,8
 Épervier d'Europe,2019,1,8
 Étourneau sansonnet,2022,9,30
-Faucon crécerelle,2022,10,28
+Faucon crécerelle,2022,27,28
 Faucon émerillon,2007,0,2
 Faucon hobereau,2011,0,4
 Fauvette à tête noire,2022,36,37
@@ -56,7 +56,7 @@ Hirondelle de fenêtre,2021,3,3
 Hirondelle rustique,2021,6,21
 Hypolaïs polyglotte,2021,3,15
 Linotte mélodieuse,2020,4,34
-Loriot d'Europe,2020,1,7
+Loriot d'Europe,2022,2,7
 Martin-pêcheur d'Europe,2014,0,1
 Merle noir,2022,64,76
 Mésange à longue queue,2019,1,7
@@ -66,8 +66,8 @@ Mésange charbonnière,2022,48,53
 Mésange huppée,2013,0,5
 Mésange noire,2011,0,4
 Mésange nonnette,2022,11,20
-Milan noir,2022,5,7
-Milan royal,2021,7,18
+Milan noir,2022,7,7
+Milan royal,2022,8,18
 Moineau domestique,2020,3,16
 Oie cendrée,2012,0,1
 Perruche à collier,2020,1,0
@@ -78,7 +78,7 @@ Pic mar,2022,3,12
 Pic noir,2022,5,17
 Pic vert,2021,6,13
 Pie bavarde,2020,1,13
-Pie-grièche écorcheur,2020,2,10
+Pie-grièche écorcheur,2022,3,10
 Pigeon biset domestique,2020,3,8
 Pigeon colombin,2022,11,12
 Pigeon ramier,2022,39,61

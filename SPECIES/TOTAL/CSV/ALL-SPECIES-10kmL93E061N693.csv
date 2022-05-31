@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,6,3
+Accenteur mouchet,2022,8,3
 Aigrette garzette,2019,1,0
 Alouette des champs,2021,2,2
 Bécassine des marais,2021,3,0
@@ -26,7 +26,7 @@ Cigogne blanche,2021,1,0
 Combattant varié,2021,1,0
 Corbeau freux,2020,1,2
 Corneille noire,2022,7,4
-Coucou gris,2021,10,0
+Coucou gris,2022,17,0
 Cygne tuberculé,2021,3,1
 Effraie des clochers,2020,1,1
 Épervier d'Europe,2019,1,1
@@ -47,33 +47,33 @@ Grimpereau des jardins,2009,0,2
 Grive draine,2022,2,0
 Grive litorne,2021,3,1
 Grive mauvis,2021,5,0
-Grive musicienne,2022,48,3
+Grive musicienne,2022,50,3
 Grosbec casse-noyaux,2009,0,1
 Héron cendré,2021,6,1
 Hirondelle de fenêtre,2020,2,2
-Hirondelle rustique,2022,97,3
+Hirondelle rustique,2022,103,3
 Huppe fasciée,2021,1,0
 Hypolaïs polyglotte,2021,2,1
 Linotte mélodieuse,2019,1,1
 Martinet noir,2018,0,1
 Martin-pêcheur d'Europe,2009,0,1
-Merle noir,2022,297,7
+Merle noir,2022,310,7
 Mésange à longue queue,2021,3,1
-Mésange bleue,2022,230,5
+Mésange bleue,2022,236,5
 Mésange charbonnière,2022,247,5
 Mésange huppée,2018,0,2
 Mésange nonnette,2022,127,3
-Moineau domestique,2022,41,5
+Moineau domestique,2022,48,5
 Moineau friquet,2021,1,0
 Perdrix grise,2021,6,2
 Pic épeiche,2022,17,3
 Pic mar,2009,0,1
 Pic vert,2022,9,2
-Pie bavarde,2022,175,5
+Pie bavarde,2022,181,5
 Pie-grièche écorcheur,2021,2,0
 Pigeon biset domestique,2018,0,1
-Pigeon ramier,2022,147,4
-Pinson des arbres,2022,243,4
+Pigeon ramier,2022,156,4
+Pinson des arbres,2022,255,4
 Pipit des arbres,2009,0,1
 Pipit farlouse,2017,0,1
 Pipit spioncelle,2021,3,0
@@ -82,7 +82,7 @@ Pouillot véloce,2022,14,2
 Roitelet à triple bandeau,2009,0,1
 Roitelet huppé,2018,0,2
 Rossignol philomèle,2021,1,1
-Rougegorge familier,2022,148,5
+Rougegorge familier,2022,149,5
 Rougequeue à front blanc,2021,6,2
 Rougequeue noir,2021,12,1
 Sittelle torchepot,2022,18,3
@@ -90,7 +90,7 @@ Tarier pâtre,2009,0,1
 Tarin des aulnes,2022,1,0
 Torcol fourmilier,2022,1,0
 Tourterelle des bois,2009,0,1
-Tourterelle turque,2022,96,5
-Troglodyte mignon,2022,70,2
+Tourterelle turque,2022,99,5
+Troglodyte mignon,2022,74,2
 Vanneau huppé,2021,8,0
-Verdier d'Europe,2022,102,2
+Verdier d'Europe,2022,104,2

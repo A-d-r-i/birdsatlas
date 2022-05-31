@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,24,5
 Aigrette garzette,2022,156,12
-Alouette des champs,2022,116,12
+Alouette des champs,2022,118,12
 Avocette élégante,2021,7,0
 Barge à queue noire,2022,8,1
 Barge rousse,2022,29,2
@@ -13,9 +13,9 @@ Bécasseau variable,2022,43,5
 Bécassine des marais,2022,60,2
 Bécassine sourde,2021,1,0
 Bergeronnette des ruisseaux,2021,3,1
-Bergeronnette flavéole (M.f.flavissima),2022,65,1
-Bergeronnette grise,2022,92,12
-Bergeronnette printanière,2022,81,2
+Bergeronnette flavéole (M.f.flavissima),2022,66,1
+Bergeronnette grise,2022,93,12
+Bergeronnette printanière,2022,82,2
 Bernache cravant,2022,54,19
 Bernache du Canada,2021,2,0
 Bernache nonnette,2020,1,4
@@ -23,10 +23,10 @@ Bondrée apivore,2020,1,0
 Bouscarle de Cetti,2022,75,2
 Bouvreuil pivoine,2019,1,1
 Bruant des neiges,2021,7,1
-Bruant des roseaux,2022,148,2
+Bruant des roseaux,2022,149,2
 Bruant jaune,2021,5,1
 Bruant lapon,2021,4,4
-Bruant proyer,2021,1,0
+Bruant proyer,2022,2,0
 Bruant zizi,2021,6,0
 Busard cendré,2020,1,0
 Busard des roseaux,2022,61,4
@@ -35,7 +35,7 @@ Buse variable,2022,138,11
 Butor étoilé,2021,1,1
 Caille des blés,2022,10,1
 Canard chipeau,2022,4,0
-Canard colvert,2022,104,7
+Canard colvert,2022,105,7
 Canard pilet,2022,18,0
 Canard siffleur,2021,11,0
 Canard souchet,2022,20,0
@@ -48,7 +48,7 @@ Chevêche d'Athéna,2021,6,2
 Choucas des tours,2022,22,7
 Chouette hulotte,2021,1,1
 Cigogne blanche,2022,132,2
-Cisticole des joncs,2022,30,1
+Cisticole des joncs,2022,31,1
 Combattant varié,2022,2,0
 Corbeau freux,2018,0,2
 Cormoran huppé,2022,5,2
@@ -61,7 +61,7 @@ Cygne tuberculé,2022,72,3
 Effraie des clochers,2022,10,2
 Eider à duvet,2020,1,1
 Épervier d'Europe,2022,16,1
-Étourneau sansonnet,2022,95,16
+Étourneau sansonnet,2022,96,16
 Faisan de Colchide,2022,8,0
 Faucon crécerelle,2022,67,6
 Faucon émerillon,2022,9,2
@@ -69,23 +69,23 @@ Faucon hobereau,2021,9,0
 Faucon pèlerin,2022,17,2
 Fauvette à tête noire,2021,7,2
 Fauvette des jardins,2009,0,1
-Fauvette grisette,2021,9,1
+Fauvette grisette,2022,10,1
 Fou de Bassan,2022,23,2
 Foulque macroule,2022,36,2
 Fuligule milouin,2019,2,0
 Fuligule milouinan,2021,1,0
 Fuligule morillon,2021,2,0
-Fulmar boréal,2022,6,3
+Fulmar boréal,2022,7,3
 Gallinule poule-d'eau,2022,112,6
 Garrot à oeil d'or,2021,2,0
 Geai des chênes,2022,4,1
 Gobemouche gris,2021,1,1
-Goéland argenté,2022,88,16
+Goéland argenté,2022,89,16
 Goéland brun,2022,5,1
 Goéland cendré,2022,28,2
 Goéland leucophée,2019,1,0
 Goéland marin,2022,52,15
-Gorgebleue à miroir,2022,4,0
+Gorgebleue à miroir,2022,6,0
 Grand Corbeau,2021,4,1
 Grand Cormoran,2022,148,10
 Grande Aigrette,2022,118,3
@@ -113,13 +113,13 @@ Héron pourpré,2022,1,0
 Hibou des marais,2022,6,3
 Hirondelle de fenêtre,2021,16,2
 Hirondelle de rivage,2022,28,0
-Hirondelle rustique,2022,99,3
+Hirondelle rustique,2022,100,3
 Huîtrier pie,2022,28,3
 Huppe fasciée,2018,0,1
 Hypolaïs polyglotte,2021,3,1
 Ibis falcinelle,2021,3,0
 Labbe parasite,2021,3,0
-Linotte mélodieuse,2022,49,11
+Linotte mélodieuse,2022,50,11
 Locustelle tachetée,2022,3,1
 Macreuse brune,2019,2,1
 Macreuse noire,2022,8,1
@@ -132,7 +132,7 @@ Mésange à longue queue,2021,5,0
 Mésange bleue,2022,25,5
 Mésange charbonnière,2022,19,4
 Milan noir,2021,1,0
-Moineau domestique,2022,50,8
+Moineau domestique,2022,51,8
 Mouette mélanocéphale,2022,49,6
 Mouette pygmée,2019,1,1
 Mouette rieuse,2022,96,18
@@ -143,14 +143,14 @@ Oie rieuse,2020,1,0
 Ouette d'Egypte,2018,0,1
 Perdrix grise,2019,2,0
 Petit Gravelot,2009,0,1
-Phragmite des joncs,2022,88,1
+Phragmite des joncs,2022,89,1
 Pic épeiche,2022,5,1
 Pic épeichette,2009,0,1
 Pic vert,2022,7,1
 Pie bavarde,2022,40,4
 Pigeon biset domestique,2021,15,3
 Pigeon colombin,2009,0,1
-Pigeon ramier,2022,57,7
+Pigeon ramier,2022,58,7
 Pingouin torda,2022,16,2
 Pinson des arbres,2022,95,8
 Pinson du Nord,2021,8,0
@@ -167,7 +167,7 @@ Pouillot fitis,2021,2,0
 Pouillot véloce,2022,26,3
 Puffin des Anglais,2021,2,0
 Puffin des Baléares,2021,4,0
-Râle d'eau,2022,3,1
+Râle d'eau,2022,4,1
 Roitelet à triple bandeau,2019,1,0
 Roitelet huppé,2019,1,3
 Rougegorge familier,2022,61,7

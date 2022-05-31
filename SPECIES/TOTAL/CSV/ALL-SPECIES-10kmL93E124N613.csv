@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2020,3,0
-Aigrette garzette,2022,32,3
+Aigrette garzette,2022,34,3
 Alouette calandrelle,2017,0,1
 Alouette des champs,2020,3,0
 Avocette élégante,2022,1,0
@@ -36,18 +36,18 @@ Chevalier sylvain,2020,2,0
 Choucas des tours,2021,4,1
 Cisticole des joncs,2021,10,1
 Cormoran huppé,2016,0,1
-Corneille mantelée,2022,34,6
-Corneille noire,2022,34,6
+Corneille mantelée,2022,35,6
+Corneille noire,2022,35,6
 Coucou gris,2022,4,0
 Courlis cendré,2020,1,0
 Crabier chevelu,2021,3,0
-Cygne tuberculé,2022,9,0
+Cygne tuberculé,2022,10,0
 Échasse blanche,2022,3,0
 Effraie des clochers,2020,2,0
 Engoulevent d'Europe,2021,3,0
 Épervier d'Europe,2022,3,0
 Étourneau sansonnet,2022,8,1
-Étourneau unicolore,2022,10,1
+Étourneau unicolore,2022,11,1
 Faisan de Colchide,2020,1,0
 Faucon crécerelle,2021,17,2
 Faucon d'Eléonore,2020,2,0
@@ -60,12 +60,12 @@ Fauvette mélanocéphale,2022,41,4
 Fauvette passerinette,2009,0,1
 Fauvette pitchou,2022,11,2
 Flamant rose,2022,20,5
-Foulque macroule,2022,26,7
+Foulque macroule,2022,27,7
 Fuligule milouin,2022,2,2
 Gallinule poule-d'eau,2022,20,2
 Geai des chênes,2022,16,2
 Gobemouche gris,2021,2,0
-Goéland leucophée,2022,34,4
+Goéland leucophée,2022,35,4
 Grand Corbeau,2019,1,0
 Grand Cormoran,2022,26,3
 Grande Aigrette,2022,32,5
@@ -78,7 +78,7 @@ Guêpier d'Europe,2022,22,2
 Guifette moustac,2022,1,0
 Héron cendré,2022,33,6
 Héron garde-boeufs,2021,4,1
-Héron pourpré,2022,9,2
+Héron pourpré,2022,10,2
 Hibou des marais,2018,0,1
 Hirondelle de fenêtre,2019,1,1
 Hirondelle de rivage,2019,2,0
@@ -97,7 +97,7 @@ Mésange à longue queue,2022,4,0
 Mésange bleue,2022,3,1
 Mésange charbonnière,2022,8,2
 Milan royal,2022,19,6
-Moineau cisalpin,2022,16,2
+Moineau cisalpin,2022,17,2
 Moineau friquet,2020,3,0
 Mouette mélanocéphale,2020,3,0
 Mouette rieuse,2022,7,1
@@ -137,7 +137,8 @@ Serin cini,2022,7,0
 Spatule blanche,2021,2,0
 Sterne caspienne,2020,3,0
 Sterne caugek,2022,12,0
-Sterne pierregarin,2022,9,1
+Sterne naine,2022,1,0
+Sterne pierregarin,2022,10,1
 Tadorne de Belon,2022,2,1
 Tarier des prés,2019,3,2
 Tarier pâtre,2022,15,0

@@ -1,14 +1,14 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,9,4
-Alouette des champs,2022,22,14
+Alouette des champs,2022,23,14
 Alouette lulu,2022,6,4
 Autour des palombes,2019,1,1
 Bécasse des bois,2013,0,1
 Bécassine des marais,2021,1,4
 Bec-croisé des sapins,2021,1,2
 Bergeronnette des ruisseaux,2021,1,5
-Bergeronnette grise,2022,13,12
-Bergeronnette printanière,2021,2,1
+Bergeronnette grise,2022,14,12
+Bergeronnette printanière,2022,3,1
 Bondrée apivore,2019,1,3
 Bouvreuil pivoine,2021,4,8
 Bruant des roseaux,2021,1,1
@@ -16,12 +16,12 @@ Bruant jaune,2021,16,11
 Bruant proyer,2022,21,4
 Bruant zizi,2021,1,0
 Busard cendré,2013,0,1
-Busard des roseaux,2022,6,9
+Busard des roseaux,2022,7,9
 Busard Saint-Martin,2019,1,12
-Buse variable,2022,27,38
+Buse variable,2022,28,38
 Caille des blés,2019,1,1
-Canard chipeau,2021,2,7
-Canard colvert,2021,6,13
+Canard chipeau,2022,3,7
+Canard colvert,2022,7,13
 Canard souchet,2013,0,2
 Chardonneret élégant,2022,11,10
 Chevalier culblanc,2021,1,0
@@ -32,12 +32,12 @@ Chouette hulotte,2021,2,4
 Cigogne blanche,2022,18,2
 Cigogne noire,2022,7,1
 Cincle plongeur,2013,0,1
-Corbeau freux,2022,3,4
+Corbeau freux,2022,4,4
 Corneille noire,2022,17,22
-Coucou gris,2021,3,5
+Coucou gris,2022,4,5
 Courlis cendré,2021,6,2
 Cygne chanteur,2018,0,2
-Cygne tuberculé,2020,2,15
+Cygne tuberculé,2022,4,15
 Effraie des clochers,2018,0,6
 Épervier d'Europe,2022,4,4
 Étourneau sansonnet,2022,32,18
@@ -50,7 +50,7 @@ Fauvette à tête noire,2022,17,8
 Fauvette babillarde,2021,5,0
 Fauvette des jardins,2021,1,3
 Fauvette grisette,2022,12,2
-Foulque macroule,2017,0,10
+Foulque macroule,2022,1,10
 Fuligule milouin,2020,2,8
 Fuligule morillon,2021,1,11
 Gallinule poule-d'eau,2021,2,2
@@ -61,10 +61,10 @@ Goéland cendré,2012,0,2
 Grand Corbeau,2022,2,1
 Grand Cormoran,2022,4,10
 Grand-duc d'Europe,2022,37,35
-Grande Aigrette,2022,6,27
+Grande Aigrette,2022,7,27
 Grèbe à cou noir,2015,0,2
-Grèbe castagneux,2021,1,9
-Grèbe huppé,2019,1,5
+Grèbe castagneux,2022,2,9
+Grèbe huppé,2022,2,5
 Grimpereau des bois,2022,2,5
 Grimpereau des jardins,2022,10,8
 Grive draine,2022,4,10
@@ -73,7 +73,8 @@ Grive mauvis,2013,0,1
 Grive musicienne,2021,9,8
 Grosbec casse-noyaux,2021,2,4
 Guêpier d'Europe,2021,1,0
-Héron cendré,2021,11,22
+Héron cendré,2022,12,22
+Héron pourpré,2022,1,0
 Hibou moyen-duc,2020,2,0
 Hirondelle de fenêtre,2021,4,6
 Hirondelle de rivage,2021,3,5
@@ -94,15 +95,15 @@ Mésange charbonnière,2022,36,26
 Mésange huppée,2021,6,5
 Mésange noire,2018,0,1
 Mésange nonnette,2021,2,5
-Milan noir,2022,15,14
+Milan noir,2022,16,14
 Milan royal,2022,17,18
-Moineau domestique,2022,14,12
+Moineau domestique,2022,15,12
 Moineau friquet,2022,2,5
 Mouette mélanocéphale,2015,0,1
 Mouette rieuse,2020,1,9
-Nette rousse,2012,0,1
+Nette rousse,2022,1,1
 Oie cendrée,2021,1,0
-Ouette d'Egypte,2022,8,2
+Ouette d'Egypte,2022,9,2
 Perdrix grise,2014,0,1
 Perdrix rouge,2021,1,0
 Petit Gravelot,2021,3,3
@@ -115,7 +116,7 @@ Pic vert,2021,4,9
 Pie bavarde,2022,12,9
 Pie-grièche écorcheur,2022,12,7
 Pie-grièche grise,2022,4,15
-Pigeon biset domestique,2022,12,13
+Pigeon biset domestique,2022,13,13
 Pigeon biset (origine naturelle),2009,0,1
 Pigeon colombin,2021,4,0
 Pigeon ramier,2022,21,16
@@ -135,8 +136,8 @@ Rossignol philomèle,2022,16,3
 Rougegorge familier,2022,20,17
 Rougequeue à front blanc,2022,5,5
 Rougequeue noir,2022,12,21
-Rousserolle effarvatte,2021,2,2
-Rousserolle turdoïde,2019,3,6
+Rousserolle effarvatte,2022,3,2
+Rousserolle turdoïde,2022,4,6
 Rousserolle verderolle,2021,1,1
 Sarcelle d'hiver,2014,0,2
 Serin cini,2020,3,1
@@ -144,13 +145,13 @@ Sittelle torchepot,2021,8,13
 Sizerin flammé,2015,0,2
 Tadorne de Belon,2016,0,3
 Tarier des prés,2021,3,2
-Tarier pâtre,2021,3,4
+Tarier pâtre,2022,4,4
 Tarin des aulnes,2011,0,2
 Tichodrome échelette,2021,15,12
 Torcol fourmilier,2021,5,0
-Tourterelle des bois,2019,1,11
-Tourterelle turque,2021,10,9
+Tourterelle des bois,2022,2,11
+Tourterelle turque,2022,11,9
 Traquet motteux,2021,2,9
-Troglodyte mignon,2022,18,13
+Troglodyte mignon,2022,19,13
 Vanneau huppé,2021,1,9
 Verdier d'Europe,2022,17,10

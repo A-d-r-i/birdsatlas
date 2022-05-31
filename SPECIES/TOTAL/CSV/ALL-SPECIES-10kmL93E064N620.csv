@@ -1,13 +1,13 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,6,7
-Aigle botté,2022,39,76
-Aigle royal,2022,13,30
+Aigle botté,2022,40,76
+Aigle royal,2022,15,30
 Alouette des champs,2022,13,27
 Alouette lulu,2022,36,45
 Autour des palombes,2021,8,7
 Bécasse des bois,2021,5,6
 Bec-croisé des sapins,2022,3,1
-Bergeronnette des ruisseaux,2021,14,23
+Bergeronnette des ruisseaux,2022,15,23
 Bergeronnette grise,2022,23,21
 Bergeronnette printanière,2017,0,2
 Bondrée apivore,2022,30,71
@@ -22,23 +22,23 @@ Busard des roseaux,2022,3,4
 Busard Saint-Martin,2021,2,12
 Buse variable,2022,67,81
 Caille des blés,2019,2,7
-Canard colvert,2022,5,11
-Chardonneret élégant,2022,19,28
+Canard colvert,2022,6,11
+Chardonneret élégant,2022,20,28
 Chevalier guignette,2016,0,2
 Chevêche d'Athéna,2019,2,7
 Choucas des tours,2019,1,1
 Chouette hulotte,2022,3,12
 Cigogne blanche,2016,0,1
 Cincle plongeur,2021,8,2
-Circaète Jean-le-Blanc,2022,68,95
+Circaète Jean-le-Blanc,2022,69,95
 Cisticole des joncs,2021,4,1
 Corneille noire,2022,43,45
 Coucou geai,2014,0,1
 Coucou gris,2022,28,28
 Effraie des clochers,2020,1,1
 Élanion blanc,2020,2,0
-Engoulevent d'Europe,2022,3,21
-Épervier d'Europe,2022,26,51
+Engoulevent d'Europe,2022,4,21
+Épervier d'Europe,2022,27,51
 Étourneau sansonnet,2022,15,16
 Faisan de Colchide,2021,5,1
 Faucon crécerelle,2022,23,34
@@ -48,7 +48,7 @@ Faucon émerillon,2020,1,0
 Faucon hobereau,2022,5,7
 Faucon kobez,2013,0,4
 Faucon pèlerin,2022,46,55
-Fauvette à tête noire,2022,43,55
+Fauvette à tête noire,2022,44,55
 Fauvette grisette,2021,3,9
 Fauvette mélanocéphale,2022,23,18
 Fauvette orphée,2022,2,1
@@ -56,11 +56,11 @@ Fauvette passerinette,2022,14,14
 Fauvette pitchou,2020,1,4
 Flamant rose,2017,0,1
 Gallinule poule-d'eau,2009,0,1
-Geai des chênes,2022,23,44
-Gobemouche gris,2021,5,1
-Gobemouche noir,2021,3,12
+Geai des chênes,2022,25,44
+Gobemouche gris,2022,8,1
+Gobemouche noir,2022,5,12
 Goéland leucophée,2009,0,1
-Grand Corbeau,2022,46,108
+Grand Corbeau,2022,47,108
 Grand Cormoran,2018,0,3
 Grand-duc d'Europe,2016,0,8
 Grande Aigrette,2022,2,0
@@ -85,24 +85,24 @@ Loriot d'Europe,2020,2,5
 Martinet à ventre blanc,2015,0,1
 Martinet noir,2021,18,14
 Martin-pêcheur d'Europe,2021,3,3
-Merle noir,2022,84,69
-Mésange à longue queue,2022,19,18
-Mésange bleue,2022,28,41
-Mésange charbonnière,2022,40,40
-Mésange huppée,2022,15,16
+Merle noir,2022,87,69
+Mésange à longue queue,2022,20,18
+Mésange bleue,2022,29,41
+Mésange charbonnière,2022,43,40
+Mésange huppée,2022,16,16
 Mésange noire,2022,4,6
-Mésange nonnette,2022,5,11
-Milan noir,2022,5,28
+Mésange nonnette,2022,6,11
+Milan noir,2022,6,28
 Milan royal,2022,38,9
 Moineau domestique,2022,27,17
 Moineau friquet,2020,1,1
 Monticole bleu,2021,1,0
 Perdrix grise,2022,2,1
-Perdrix rouge,2021,10,24
+Perdrix rouge,2022,11,24
 Petit-duc scops,2022,2,13
 Pic de Sharpe,2022,12,10
-Pic épeiche,2022,21,22
-Pic épeichette,2022,8,7
+Pic épeiche,2022,22,22
+Pic épeichette,2022,10,7
 Pic noir,2022,9,23
 Pic vert,2022,2,9
 Pie bavarde,2021,15,25
@@ -110,7 +110,7 @@ Pie-grièche à tête rousse,2019,2,4
 Pie-grièche écorcheur,2022,14,28
 Pigeon colombin,2022,3,2
 Pigeon ramier,2022,47,74
-Pinson des arbres,2022,84,74
+Pinson des arbres,2022,86,74
 Pinson du Nord,2019,3,0
 Pipit des arbres,2022,1,5
 Pipit farlouse,2021,3,5
@@ -122,14 +122,14 @@ Roitelet à triple bandeau,2022,23,25
 Roitelet huppé,2020,2,3
 Rollier d'Europe,2019,1,14
 Rossignol philomèle,2022,17,22
-Rougegorge familier,2022,62,52
+Rougegorge familier,2022,64,52
 Rougequeue à front blanc,2021,1,5
 Rougequeue noir,2022,21,32
 Serin cini,2022,28,21
-Sittelle torchepot,2022,16,27
+Sittelle torchepot,2022,17,27
 Tarier des prés,2021,1,7
 Tarier pâtre,2021,19,44
-Tarin des aulnes,2021,6,1
+Tarin des aulnes,2022,7,1
 Tichodrome échelette,2019,1,1
 Torcol fourmilier,2022,6,12
 Tourterelle des bois,2022,8,18
@@ -138,6 +138,6 @@ Traquet motteux,2021,5,12
 Traquet oreillard,2016,0,1
 Troglodyte mignon,2022,45,32
 Vanneau huppé,2010,0,1
-Vautour fauve,2022,212,193
+Vautour fauve,2022,214,193
 Vautour moine,2020,1,4
 Verdier d'Europe,2022,21,14

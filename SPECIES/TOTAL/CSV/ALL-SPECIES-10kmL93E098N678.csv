@@ -1,5 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,9,1
+Alouette lulu,2022,1,0
 Autour des palombes,2012,0,3
 Bécasse des bois,2022,4,2
 Bec-croisé des sapins,2021,15,9
@@ -27,7 +28,7 @@ Cigogne blanche,2017,0,2
 Cigogne noire,2020,1,0
 Cincle plongeur,2022,18,12
 Corbeau freux,2018,0,1
-Corneille noire,2022,82,18
+Corneille noire,2022,83,18
 Coucou gris,2021,5,0
 Cygne tuberculé,2018,0,10
 Échasse blanche,2016,0,1
@@ -55,7 +56,7 @@ Grèbe à cou noir,2018,0,2
 Grèbe castagneux,2011,0,3
 Grèbe huppé,2013,0,3
 Grimpereau des bois,2021,9,4
-Grimpereau des jardins,2021,3,1
+Grimpereau des jardins,2022,4,1
 Grive draine,2022,40,9
 Grive litorne,2021,3,11
 Grive mauvis,2019,1,1
@@ -66,35 +67,35 @@ Harelde boréale,2011,0,4
 Harle bièvre,2019,1,9
 Harle huppé,2012,0,2
 Héron cendré,2022,9,4
-Hirondelle de fenêtre,2021,15,2
+Hirondelle de fenêtre,2022,16,2
 Hirondelle rustique,2022,14,3
 Linotte mélodieuse,2021,5,0
-Martinet noir,2022,20,4
+Martinet noir,2022,21,4
 Martin-pêcheur d'Europe,2021,5,5
 Merle à plastron,2011,0,2
-Merle noir,2022,115,48
+Merle noir,2022,116,48
 Mésange à longue queue,2022,6,4
-Mésange bleue,2022,52,28
+Mésange bleue,2022,53,28
 Mésange boréale,2021,7,3
-Mésange charbonnière,2022,71,30
-Mésange huppée,2022,34,18
+Mésange charbonnière,2022,72,30
+Mésange huppée,2022,35,18
 Mésange noire,2022,77,29
 Mésange nonnette,2022,20,17
 Milan royal,2022,2,2
-Moineau domestique,2022,68,21
+Moineau domestique,2022,69,21
 Moineau friquet,2020,2,6
 Mouette mélanocéphale,2013,0,2
 Mouette rieuse,2022,2,13
 Nette rousse,2019,1,1
 Petit Gravelot,2021,1,0
 Pic cendré,2019,1,1
-Pic épeiche,2022,36,11
+Pic épeiche,2022,37,11
 Pic épeichette,2019,0,2
 Pic mar,2022,5,0
-Pic noir,2022,18,5
+Pic noir,2022,19,5
 Pic vert,2021,5,3
-Pie bavarde,2022,34,14
-Pie-grièche écorcheur,2021,17,2
+Pie bavarde,2022,35,14
+Pie-grièche écorcheur,2022,19,2
 Pie-grièche grise,2012,0,1
 Pigeon colombin,2019,2,1
 Pigeon ramier,2022,53,17
@@ -104,13 +105,13 @@ Pipit des arbres,2022,4,3
 Plongeon arctique,2018,0,5
 Plongeon catmarin,2021,2,1
 Plongeon imbrin,2020,11,0
-Pouillot fitis,2022,17,4
+Pouillot fitis,2022,19,4
 Pouillot siffleur,2018,0,1
 Pouillot véloce,2022,57,12
 Roitelet à triple bandeau,2022,19,5
 Roitelet huppé,2022,39,16
 Rougegorge familier,2022,104,32
-Rougequeue à front blanc,2021,15,5
+Rougequeue à front blanc,2022,16,5
 Rougequeue noir,2022,59,19
 Sarcelle d'été,2013,0,1
 Sarcelle d'hiver,2019,1,2
@@ -125,5 +126,5 @@ Tichodrome échelette,2016,0,1
 Torcol fourmilier,2022,5,0
 Tourterelle des bois,2020,2,0
 Tourterelle turque,2022,8,7
-Troglodyte mignon,2022,43,12
+Troglodyte mignon,2022,44,12
 Verdier d'Europe,2022,31,18
