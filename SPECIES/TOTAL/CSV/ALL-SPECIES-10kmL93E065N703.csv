@@ -1,14 +1,14 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,39,43
 Aigrette garzette,2019,1,0
-Alouette des champs,2022,5,0
-Bergeronnette grise,2022,4,1
-Bergeronnette printanière,2021,1,0
+Alouette des champs,2022,6,0
+Bergeronnette grise,2022,5,1
+Bergeronnette printanière,2022,2,0
 Bouvreuil pivoine,2020,11,27
 Bruant des roseaux,2021,1,0
 Bruant jaune,2022,4,1
 Bruant proyer,2009,0,1
-Busard des roseaux,2009,0,1
+Busard des roseaux,2022,1,1
 Busard Saint-Martin,2021,2,1
 Buse variable,2022,15,4
 Chardonneret élégant,2022,16,2
@@ -23,7 +23,7 @@ Faisan de Colchide,2021,6,3
 Faucon crécerelle,2021,2,0
 Faucon pèlerin,2020,1,0
 Fauvette à tête noire,2021,7,6
-Fauvette grisette,2021,3,0
+Fauvette grisette,2022,4,0
 Geai des chênes,2022,14,9
 Gobemouche gris,2022,1,0
 Grande Aigrette,2022,1,1
@@ -33,9 +33,9 @@ Grive mauvis,2020,1,0
 Grive musicienne,2021,15,16
 Grosbec casse-noyaux,2018,0,2
 Héron cendré,2021,3,1
-Hirondelle de fenêtre,2021,1,0
+Hirondelle de fenêtre,2022,2,0
 Hirondelle rustique,2022,2,3
-Linotte mélodieuse,2022,2,1
+Linotte mélodieuse,2022,3,1
 Martinet noir,2013,0,1
 Merle noir,2022,63,62
 Mésange à longue queue,2022,8,36
@@ -67,5 +67,5 @@ Tarin des aulnes,2016,0,1
 Tourterelle des bois,2009,0,1
 Tourterelle turque,2022,33,22
 Troglodyte mignon,2022,17,14
-Vanneau huppé,2022,4,1
-Verdier d'Europe,2022,10,5
+Vanneau huppé,2022,5,1
+Verdier d'Europe,2022,11,5

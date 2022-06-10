@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,4,27
 Aigrette garzette,2012,0,2
-Alouette des champs,2022,63,197
+Alouette des champs,2022,65,197
 Bergeronnette des ruisseaux,2017,0,5
 Bergeronnette grise,2022,10,53
 Bergeronnette printanière,2022,23,96
@@ -10,13 +10,13 @@ Bondrée apivore,2018,0,7
 Bouvreuil pivoine,2018,0,20
 Bruant des roseaux,2016,0,6
 Bruant jaune,2021,2,35
-Bruant proyer,2022,42,110
+Bruant proyer,2022,43,110
 Bruant zizi,2022,3,44
 Busard cendré,2022,17,75
 Busard des roseaux,2022,2,7
 Busard pâle,2016,0,1
-Busard Saint-Martin,2022,61,135
-Buse variable,2022,44,235
+Busard Saint-Martin,2022,63,135
+Buse variable,2022,45,235
 Caille des blés,2022,9,36
 Canard colvert,2022,5,49
 Canard des Bahamas,2015,0,7
@@ -26,7 +26,7 @@ Chouette hulotte,2016,0,22
 Cigogne blanche,2022,3,4
 Cigogne noire,2021,1,0
 Cochevis huppé,2017,0,13
-Corbeau freux,2021,9,110
+Corbeau freux,2022,10,110
 Corneille noire,2022,35,163
 Coucou gris,2021,4,14
 Cygne tuberculé,2015,0,11
@@ -35,7 +35,7 @@ Effraie des clochers,2021,4,10
 Étourneau sansonnet,2022,21,173
 Faisan de Colchide,2022,5,47
 Faisan vénéré,2012,0,1
-Faucon crécerelle,2022,42,195
+Faucon crécerelle,2022,46,195
 Faucon émerillon,2011,0,1
 Faucon hobereau,2017,0,6
 Fauvette à tête noire,2022,42,107
@@ -54,8 +54,8 @@ Grive litorne,2021,2,44
 Grive mauvis,2018,0,10
 Grive musicienne,2022,3,35
 Grosbec casse-noyaux,2021,2,7
-Héron cendré,2022,14,72
-Héron garde-boeufs,2022,13,0
+Héron cendré,2022,15,72
+Héron garde-boeufs,2022,14,0
 Hibou des marais,2021,1,0
 Hibou moyen-duc,2022,2,9
 Hirondelle de fenêtre,2020,3,11
@@ -79,17 +79,17 @@ Milan royal,2022,4,10
 Moineau domestique,2022,46,248
 Moineau friquet,2010,0,2
 Mouette mélanocéphale,2022,5,0
-Mouette rieuse,2022,5,14
-Oedicnème criard,2021,13,43
+Mouette rieuse,2022,6,14
+Oedicnème criard,2022,14,43
 Oie cendrée,2015,0,8
-Perdrix grise,2022,10,72
+Perdrix grise,2022,11,72
 Perdrix rouge,2011,0,2
 Pic épeiche,2022,16,57
 Pic épeichette,2015,0,3
 Pic noir,2021,1,13
 Pic vert,2021,5,42
 Pie bavarde,2022,12,55
-Pie-grièche écorcheur,2021,2,6
+Pie-grièche écorcheur,2022,3,6
 Pigeon biset domestique,2022,13,67
 Pigeon colombin,2021,1,6
 Pigeon ramier,2022,64,347
@@ -100,7 +100,7 @@ Pipit farlouse,2020,1,19
 Pluvier doré,2022,1,2
 Pluvier guignard,2014,0,2
 Pouillot fitis,2018,0,8
-Pouillot véloce,2022,22,61
+Pouillot véloce,2022,23,61
 Râle d'eau,2014,0,2
 Roitelet à triple bandeau,2016,0,6
 Roitelet huppé,2018,0,6

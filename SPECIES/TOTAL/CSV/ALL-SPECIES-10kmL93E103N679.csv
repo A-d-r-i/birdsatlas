@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,10,18
 Aigle criard,2020,5,0
-Alouette des champs,2022,134,168
+Alouette des champs,2022,135,168
 Alouette lulu,2020,1,1
 Autour des palombes,2021,2,15
 Barge à queue noire,2020,1,0
@@ -14,15 +14,15 @@ Bergeronnette printanière,2022,28,43
 Bernache du Canada,2021,5,0
 Bondrée apivore,2022,4,4
 Bouvreuil pivoine,2022,4,14
-Bruant des roseaux,2022,18,31
-Bruant jaune,2022,71,117
+Bruant des roseaux,2022,19,31
+Bruant jaune,2022,72,117
 Bruant ortolan,2021,1,1
 Bruant proyer,2018,0,2
-Busard des roseaux,2022,20,6
+Busard des roseaux,2022,22,6
 Busard Saint-Martin,2022,113,192
 Buse pattue,2011,0,1
 Buse variable,2022,106,336
-Caille des blés,2022,7,19
+Caille des blés,2022,8,19
 Canard carolin,2022,1,0
 Canard chipeau,2012,0,1
 Canard colvert,2022,49,99
@@ -45,12 +45,12 @@ Combattant varié,2018,0,6
 Corbeau freux,2021,3,27
 Corneille noire,2022,101,183
 Coucou gris,2022,46,30
-Courlis cendré,2022,98,92
+Courlis cendré,2022,101,92
 Courlis corlieu,2014,0,2
 Cygne chanteur,2014,0,35
 Cygne de Bewick,2021,1,3
 Cygne tuberculé,2022,34,118
-Effraie des clochers,2020,4,23
+Effraie des clochers,2021,5,23
 Épervier d'Europe,2022,19,63
 Étourneau sansonnet,2022,57,84
 Faisan de Colchide,2022,55,87
@@ -135,7 +135,7 @@ Pic mar,2022,17,39
 Pic noir,2022,48,43
 Pic vert,2022,50,64
 Pie bavarde,2022,9,26
-Pie-grièche écorcheur,2021,37,23
+Pie-grièche écorcheur,2022,38,23
 Pie-grièche grise,2020,2,19
 Pigeon biset domestique,2019,1,16
 Pigeon colombin,2021,23,19
@@ -155,8 +155,8 @@ Rossignol philomèle,2021,12,15
 Rougegorge familier,2022,84,102
 Rougequeue à front blanc,2021,1,3
 Rougequeue noir,2022,18,53
-Rousserolle effarvatte,2022,15,10
-Rousserolle verderolle,2015,0,3
+Rousserolle effarvatte,2022,16,10
+Rousserolle verderolle,2022,1,3
 Sarcelle d'été,2018,0,1
 Sarcelle d'hiver,2016,0,3
 Serin cini,2022,6,13
@@ -171,5 +171,5 @@ Tourterelle des bois,2021,8,39
 Tourterelle turque,2022,24,56
 Traquet motteux,2022,10,8
 Troglodyte mignon,2022,77,93
-Vanneau huppé,2022,247,170
+Vanneau huppé,2022,251,170
 Verdier d'Europe,2022,25,59

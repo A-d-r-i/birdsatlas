@@ -1,10 +1,10 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,22,228
-Alouette des champs,2022,22,1
+Accenteur mouchet,2022,23,228
+Alouette des champs,2022,24,1
 Bergeronnette des ruisseaux,2020,1,0
 Bergeronnette grise,2022,6,1
-Bergeronnette printanière,2022,5,1
-Bondrée apivore,2018,0,2
+Bergeronnette printanière,2022,7,1
+Bondrée apivore,2022,1,2
 Bouvreuil pivoine,2021,3,2
 Bruant jaune,2022,12,3
 Bruant proyer,2009,0,1
@@ -20,11 +20,11 @@ Choucas des tours,2022,23,1
 Chouette hulotte,2020,2,2
 Cochevis huppé,2021,1,0
 Corbeau freux,2022,7,1
-Corneille noire,2022,32,5
-Coucou gris,2022,2,7
+Corneille noire,2022,34,5
+Coucou gris,2022,3,7
 Épervier d'Europe,2021,4,1
 Étourneau sansonnet,2022,31,18
-Faisan de Colchide,2022,32,1
+Faisan de Colchide,2022,36,1
 Faisan vénéré,2022,1,0
 Faucon crécerelle,2022,14,4
 Faucon hobereau,2009,0,1
@@ -36,7 +36,7 @@ Fauvette grisette,2022,12,1
 Foulque macroule,2009,0,1
 Gallinule poule-d'eau,2022,1,1
 Geai des chênes,2022,22,1
-Gobemouche gris,2021,2,1
+Gobemouche gris,2022,3,1
 Goéland argenté,2022,2,0
 Goéland brun,2019,1,0
 Grèbe castagneux,2009,0,1
@@ -44,7 +44,7 @@ Grimpereau des jardins,2022,16,1
 Grive draine,2021,7,2
 Grive litorne,2022,4,0
 Grive mauvis,2022,5,1
-Grive musicienne,2022,38,49
+Grive musicienne,2022,39,49
 Grosbec casse-noyaux,2021,1,6
 Héron cendré,2022,2,0
 Hirondelle de fenêtre,2021,6,2
@@ -53,7 +53,7 @@ Hypolaïs polyglotte,2009,0,1
 Linotte mélodieuse,2022,6,2
 Loriot d'Europe,2009,0,1
 Martinet noir,2021,4,3
-Merle noir,2022,76,346
+Merle noir,2022,77,346
 Mésange à longue queue,2022,7,17
 Mésange bleue,2022,44,206
 Mésange charbonnière,2022,63,332
@@ -61,7 +61,7 @@ Mésange huppée,2022,4,1
 Mésange noire,2020,1,3
 Mésange nonnette,2022,8,4
 Milan noir,2021,1,0
-Moineau domestique,2022,45,417
+Moineau domestique,2022,46,417
 Moineau friquet,2017,0,2
 Mouette rieuse,2022,1,0
 Perdrix grise,2021,2,2
@@ -72,7 +72,7 @@ Pic vert,2022,26,18
 Pie bavarde,2022,20,5
 Pigeon biset domestique,2021,5,1
 Pigeon colombin,2021,2,2
-Pigeon ramier,2022,53,36
+Pigeon ramier,2022,54,36
 Pinson des arbres,2022,77,322
 Pinson du Nord,2022,2,2
 Pipit farlouse,2022,1,1
@@ -91,7 +91,7 @@ Sittelle torchepot,2022,27,7
 Tarier pâtre,2021,1,1
 Tarin des aulnes,2022,1,0
 Tourterelle des bois,2021,4,1
-Tourterelle turque,2022,72,486
+Tourterelle turque,2022,73,486
 Traquet motteux,2021,2,0
 Troglodyte mignon,2022,46,242
 Vanneau huppé,2022,3,1

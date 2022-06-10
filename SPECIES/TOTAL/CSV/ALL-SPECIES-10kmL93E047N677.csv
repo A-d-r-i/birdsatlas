@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,13,29
 Aigrette garzette,2021,1,0
-Alouette des champs,2022,17,19
+Alouette des champs,2022,19,19
 Autour des palombes,2019,1,0
 Barge à queue noire,2021,1,0
 Barge rousse,2019,3,0
@@ -9,14 +9,14 @@ Bécasse des bois,2014,0,1
 Bécassine des marais,2017,0,1
 Bergeronnette des ruisseaux,2021,2,2
 Bergeronnette grise,2022,11,18
-Bergeronnette printanière,2016,0,2
-Bondrée apivore,2021,4,3
+Bergeronnette printanière,2022,2,2
+Bondrée apivore,2022,5,3
 Bruant des roseaux,2019,1,1
 Bruant jaune,2021,2,10
-Bruant proyer,2022,14,13
+Bruant proyer,2022,15,13
 Bruant zizi,2022,8,24
-Busard cendré,2022,10,71
-Busard des roseaux,2022,1,4
+Busard cendré,2022,13,71
+Busard des roseaux,2022,2,4
 Busard pâle,2018,0,1
 Busard Saint-Martin,2022,27,69
 Buse variable,2022,86,69
@@ -43,7 +43,7 @@ Faisan vénéré,2012,0,3
 Faucon crécerelle,2022,33,43
 Faucon émerillon,2021,1,6
 Faucon hobereau,2015,0,3
-Faucon pèlerin,2022,1,0
+Faucon pèlerin,2022,2,0
 Fauvette à tête noire,2022,10,18
 Fauvette des jardins,2015,0,1
 Fauvette grisette,2022,3,14
@@ -70,22 +70,22 @@ Hirondelle de fenêtre,2019,2,5
 Hirondelle rustique,2021,10,45
 Huppe fasciée,2021,2,5
 Hypolaïs polyglotte,2022,4,5
-Linotte mélodieuse,2022,8,21
+Linotte mélodieuse,2022,9,21
 Locustelle tachetée,2017,0,1
 Loriot d'Europe,2022,3,2
 Martinet noir,2021,3,10
-Merle noir,2022,30,62
+Merle noir,2022,31,62
 Mésange à longue queue,2022,5,14
 Mésange bleue,2022,32,52
 Mésange charbonnière,2022,29,58
 Mésange noire,2018,0,9
 Mésange nonnette,2022,3,4
-Milan noir,2021,3,5
+Milan noir,2022,4,5
 Milan royal,2021,1,1
 Moineau domestique,2022,33,56
 Mouette mélanocéphale,2022,4,1
 Mouette rieuse,2021,5,10
-Oedicnème criard,2022,33,31
+Oedicnème criard,2022,36,31
 Oie cendrée,2020,1,7
 Perdrix grise,2022,35,30
 Perdrix rouge,2022,8,19
@@ -96,7 +96,7 @@ Pic vert,2020,3,26
 Pie bavarde,2022,44,36
 Pie-grièche écorcheur,2013,0,2
 Pigeon biset domestique,2021,1,11
-Pigeon colombin,2016,0,4
+Pigeon colombin,2022,1,4
 Pigeon ramier,2022,55,57
 Pinson des arbres,2022,34,62
 Pinson du Nord,2022,8,29

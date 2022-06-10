@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,93,90
 Aigrette garzette,2020,4,9
-Alouette des champs,2022,102,82
+Alouette des champs,2022,103,82
 Alouette lulu,2022,38,29
 Autour des palombes,2020,2,1
 Bécasse des bois,2012,0,2
@@ -10,19 +10,19 @@ Bergeronnette des ruisseaux,2020,3,7
 Bergeronnette grise,2022,94,84
 Bergeronnette printanière,2020,9,4
 Bihoreau gris,2021,3,1
-Bondrée apivore,2021,2,9
-Bouscarle de Cetti,2022,14,21
+Bondrée apivore,2022,6,9
+Bouscarle de Cetti,2022,15,21
 Bouvreuil pivoine,2020,3,4
 Bruant des roseaux,2020,2,5
 Bruant jaune,2022,6,19
 Bruant proyer,2021,5,1
-Bruant zizi,2022,71,98
+Bruant zizi,2022,74,98
 Busard cendré,2020,1,2
 Busard des roseaux,2021,2,0
-Busard Saint-Martin,2021,81,102
-Buse variable,2022,169,192
-Caille des blés,2021,19,2
-Canard colvert,2022,62,74
+Busard Saint-Martin,2022,87,102
+Buse variable,2022,178,192
+Caille des blés,2022,20,2
+Canard colvert,2022,63,74
 Canard souchet,2020,2,0
 Chardonneret élégant,2022,85,159
 Chevalier aboyeur,2019,1,0
@@ -31,7 +31,7 @@ Chevalier guignette,2019,1,1
 Chevêche d'Athéna,2021,33,30
 Choucas des tours,2021,18,46
 Chouette hulotte,2021,18,23
-Cigogne blanche,2022,1,1
+Cigogne blanche,2022,2,1
 Circaète Jean-le-Blanc,2017,0,3
 Cisticole des joncs,2021,97,0
 Cochevis huppé,2020,1,0
@@ -42,14 +42,14 @@ Courlis corlieu,2016,0,1
 Cygne tuberculé,2019,0,1
 Effraie des clochers,2022,25,122
 Élanion blanc,2021,1,0
-Épervier d'Europe,2021,30,34
+Épervier d'Europe,2022,32,34
 Étourneau sansonnet,2022,124,121
-Faisan de Colchide,2021,62,73
+Faisan de Colchide,2022,64,73
 Faisan vénéré,2019,1,1
-Faucon crécerelle,2022,103,135
+Faucon crécerelle,2022,106,135
 Faucon hobereau,2021,4,8
 Faucon pèlerin,2020,1,1
-Fauvette à tête noire,2022,43,80
+Fauvette à tête noire,2022,44,80
 Fauvette des jardins,2022,4,8
 Fauvette grisette,2022,22,26
 Foulque macroule,2021,10,24
@@ -72,17 +72,17 @@ Grive mauvis,2021,26,23
 Grive musicienne,2022,32,63
 Grosbec casse-noyaux,2022,12,4
 Héron cendré,2022,59,98
-Héron garde-boeufs,2022,69,67
+Héron garde-boeufs,2022,74,67
 Héron pourpré,2018,0,3
 Hibou moyen-duc,2014,0,4
-Hirondelle de fenêtre,2021,7,18
-Hirondelle rustique,2022,113,122
-Huppe fasciée,2021,11,11
+Hirondelle de fenêtre,2022,9,18
+Hirondelle rustique,2022,114,122
+Huppe fasciée,2022,12,11
 Hypolaïs polyglotte,2022,33,33
 Ibis sacré,2015,0,1
 Linotte mélodieuse,2021,30,29
-Loriot d'Europe,2020,8,16
-Martinet noir,2022,20,34
+Loriot d'Europe,2022,9,16
+Martinet noir,2022,21,34
 Martin-pêcheur d'Europe,2021,6,12
 Merle noir,2022,127,184
 Mésange à longue queue,2022,67,56
@@ -91,10 +91,10 @@ Mésange charbonnière,2022,221,225
 Mésange huppée,2022,1,1
 Mésange noire,2022,4,8
 Mésange nonnette,2022,45,10
-Milan noir,2022,26,37
+Milan noir,2022,34,37
 Milan royal,2020,1,6
 Moineau domestique,2022,146,167
-Mouette mélanocéphale,2021,21,17
+Mouette mélanocéphale,2022,22,17
 Mouette rieuse,2022,38,22
 Nette rousse,2017,0,1
 Oedicnème criard,2021,82,73
@@ -111,9 +111,9 @@ Pic noir,2021,6,7
 Pic vert,2022,41,46
 Pie bavarde,2022,80,82
 Pie-grièche à tête rousse,2010,0,1
-Pie-grièche écorcheur,2020,9,8
+Pie-grièche écorcheur,2022,10,8
 Pigeon biset domestique,2021,17,20
-Pigeon colombin,2020,2,4
+Pigeon colombin,2022,3,4
 Pigeon ramier,2022,123,96
 Pinson des arbres,2022,212,291
 Pinson du Nord,2022,20,47
@@ -126,7 +126,7 @@ Pouillot véloce,2022,61,94
 Râle d'eau,2019,1,0
 Roitelet à triple bandeau,2021,14,16
 Roitelet huppé,2021,15,14
-Rossignol philomèle,2022,33,47
+Rossignol philomèle,2022,34,47
 Rougegorge familier,2022,216,214
 Rougequeue à front blanc,2016,0,1
 Rougequeue noir,2021,40,154
@@ -137,12 +137,12 @@ Sittelle torchepot,2022,51,17
 Spatule blanche,2017,0,1
 Sterne pierregarin,2020,1,2
 Tadorne casarca,2017,0,1
-Tadorne de Belon,2021,17,12
+Tadorne de Belon,2022,18,12
 Tarier des prés,2021,3,9
-Tarier pâtre,2022,88,104
+Tarier pâtre,2022,92,104
 Tarin des aulnes,2022,12,13
 Torcol fourmilier,2020,2,1
-Tourterelle des bois,2021,24,44
+Tourterelle des bois,2022,25,44
 Tourterelle turque,2022,59,88
 Traquet motteux,2021,12,22
 Troglodyte mignon,2022,75,138
