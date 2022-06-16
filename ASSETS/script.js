@@ -21,8 +21,8 @@ function main() {
 					var area_name = feature.properties.area_name;
 					var maille = document.getElementById('maille');
 					maille.textContent = feature.properties.maille;
-					//var area_id = document.getElementById('area_id');
-					//area_id.textContent = feature.properties.id;
+					// var area_id = document.getElementById('area_id');
+					// area_id.textContent = feature.properties.id;
 					document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
 					document.getElementById("github_historic").setAttribute("href","https://github.com/A-d-r-i/birdsatlas/commits/main/SPECIES/TOTAL/CSV/ALL-SPECIES-" + feature.properties.area_name + ".csv");
 					document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
@@ -42,6 +42,23 @@ function main() {
 					color: 'red',
 					dashArray: '3',
 					fillOpacity: 0,	
+				});
+				
+				featureLayer.on('mouseover', function () {
+					featureLayer.setStyle({
+						color: 'red',
+						fillOpacity: 0.5,
+					});
+				});
+				
+				featureLayer.on('mouseout', function () {
+					featureLayer.setStyle({
+						// weight: 1,
+						// opacity: 0.5,
+						color: 'red',
+						dashArray: '3',
+						fillOpacity: 0,	
+					});
 				});
 				
 			}
