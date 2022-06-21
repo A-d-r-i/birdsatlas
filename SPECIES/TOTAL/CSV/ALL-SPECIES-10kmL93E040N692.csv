@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,26,5
 Aigrette garzette,2022,160,12
-Alouette des champs,2022,118,12
+Alouette des champs,2022,122,12
 Avocette élégante,2021,7,0
 Barge à queue noire,2022,8,1
 Barge rousse,2022,29,2
@@ -9,13 +9,13 @@ Bécasseau cocorli,2021,5,0
 Bécasseau maubèche,2021,13,0
 Bécasseau minute,2021,5,0
 Bécasseau sanderling,2022,23,3
-Bécasseau variable,2022,43,5
+Bécasseau variable,2022,44,5
 Bécassine des marais,2022,60,2
 Bécassine sourde,2021,1,0
 Bergeronnette des ruisseaux,2021,3,1
-Bergeronnette flavéole (M.f.flavissima),2022,66,1
+Bergeronnette flavéole (M.f.flavissima),2022,70,1
 Bergeronnette grise,2022,96,12
-Bergeronnette printanière,2022,82,2
+Bergeronnette printanière,2022,86,2
 Bernache cravant,2022,54,19
 Bernache du Canada,2021,2,0
 Bernache nonnette,2020,1,4
@@ -23,15 +23,15 @@ Bondrée apivore,2020,1,0
 Bouscarle de Cetti,2022,75,2
 Bouvreuil pivoine,2019,1,1
 Bruant des neiges,2021,7,1
-Bruant des roseaux,2022,149,2
-Bruant jaune,2021,5,1
+Bruant des roseaux,2022,156,2
+Bruant jaune,2022,6,1
 Bruant lapon,2021,4,4
-Bruant proyer,2022,2,0
+Bruant proyer,2022,3,0
 Bruant zizi,2021,6,0
 Busard cendré,2020,1,0
 Busard des roseaux,2022,61,4
 Busard Saint-Martin,2022,13,2
-Buse variable,2022,139,11
+Buse variable,2022,140,11
 Butor étoilé,2021,1,1
 Caille des blés,2022,10,1
 Canard chipeau,2022,4,0
@@ -39,7 +39,7 @@ Canard colvert,2022,106,7
 Canard pilet,2022,18,0
 Canard siffleur,2021,11,0
 Canard souchet,2022,20,0
-Chardonneret élégant,2022,23,3
+Chardonneret élégant,2022,26,3
 Chevalier aboyeur,2022,10,0
 Chevalier culblanc,2022,11,0
 Chevalier gambette,2022,8,0
@@ -48,11 +48,11 @@ Chevêche d'Athéna,2021,6,2
 Choucas des tours,2022,25,7
 Chouette hulotte,2021,1,1
 Cigogne blanche,2022,132,2
-Cisticole des joncs,2022,32,1
+Cisticole des joncs,2022,33,1
 Combattant varié,2022,2,0
 Corbeau freux,2018,0,2
 Cormoran huppé,2022,5,2
-Corneille noire,2022,90,13
+Corneille noire,2022,92,13
 Coucou gris,2022,23,1
 Courlis cendré,2022,88,4
 Courlis corlieu,2022,22,0
@@ -71,14 +71,14 @@ Fauvette à tête noire,2021,7,2
 Fauvette des jardins,2022,1,1
 Fauvette grisette,2022,10,1
 Fou de Bassan,2022,23,2
-Foulque macroule,2022,37,2
+Foulque macroule,2022,38,2
 Fuligule milouin,2019,2,0
 Fuligule milouinan,2021,1,0
 Fuligule morillon,2021,2,0
 Fulmar boréal,2022,7,3
 Gallinule poule-d'eau,2022,112,6
 Garrot à oeil d'or,2021,2,0
-Geai des chênes,2022,4,1
+Geai des chênes,2022,5,1
 Gobemouche gris,2022,2,1
 Goéland argenté,2022,90,16
 Goéland brun,2022,5,1
@@ -88,10 +88,10 @@ Goéland marin,2022,53,15
 Gorgebleue à miroir,2022,6,0
 Grand Corbeau,2021,4,1
 Grand Cormoran,2022,149,10
-Grande Aigrette,2022,118,3
-Grand Gravelot,2022,36,3
+Grande Aigrette,2022,120,3
+Grand Gravelot,2022,37,3
 Grand Labbe,2021,3,0
-Gravelot à collier interrompu,2022,34,2
+Gravelot à collier interrompu,2022,36,2
 Grèbe à cou noir,2022,9,0
 Grèbe castagneux,2022,15,0
 Grèbe esclavon,2022,20,2
@@ -107,7 +107,7 @@ Guillemot de Troïl,2022,5,2
 Harelde boréale,2019,1,0
 Harle bièvre,2019,1,0
 Harle huppé,2022,47,8
-Héron cendré,2022,162,10
+Héron cendré,2022,166,10
 Héron garde-boeufs,2022,66,0
 Héron pourpré,2022,1,0
 Hibou des marais,2022,6,3
@@ -119,7 +119,7 @@ Huppe fasciée,2018,0,1
 Hypolaïs polyglotte,2021,3,1
 Ibis falcinelle,2021,3,0
 Labbe parasite,2021,3,0
-Linotte mélodieuse,2022,54,11
+Linotte mélodieuse,2022,56,11
 Locustelle tachetée,2022,3,1
 Macreuse brune,2019,2,1
 Macreuse noire,2022,8,1
@@ -127,7 +127,7 @@ Marouette ponctuée,2022,1,1
 Martinet noir,2022,30,1
 Martinet pâle,2018,0,1
 Martin-pêcheur d'Europe,2022,39,1
-Merle noir,2022,79,8
+Merle noir,2022,80,8
 Mésange à longue queue,2021,5,0
 Mésange bleue,2022,25,5
 Mésange charbonnière,2022,19,4
@@ -143,7 +143,7 @@ Oie rieuse,2020,1,0
 Ouette d'Egypte,2018,0,1
 Perdrix grise,2019,2,0
 Petit Gravelot,2009,0,1
-Phragmite des joncs,2022,90,1
+Phragmite des joncs,2022,93,1
 Pic épeiche,2022,5,1
 Pic épeichette,2009,0,1
 Pic vert,2022,7,1
@@ -184,7 +184,7 @@ Sterne naine,2021,2,0
 Sterne pierregarin,2020,3,0
 Tadorne casarca,2021,1,0
 Tadorne de Belon,2022,38,4
-Tarier des prés,2022,51,1
+Tarier des prés,2022,54,1
 Tarier pâtre,2022,58,9
 Tarin des aulnes,2021,7,0
 Torcol fourmilier,2019,1,0

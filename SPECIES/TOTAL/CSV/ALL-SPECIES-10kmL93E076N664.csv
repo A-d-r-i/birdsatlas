@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,9,8
 Aigle botté,2019,1,8
-Aigrette garzette,2021,11,3
+Aigrette garzette,2022,12,3
 Alouette des champs,2021,6,2
 Alouette lulu,2022,64,22
 Autour des palombes,2018,0,5
@@ -22,7 +22,7 @@ Busard des roseaux,2019,1,0
 Buse variable,2022,141,197
 Butor étoilé,2021,1,0
 Canard chipeau,2020,9,10
-Canard colvert,2022,86,80
+Canard colvert,2022,87,80
 Canard pilet,2012,0,1
 Canard siffleur,2020,8,9
 Canard souchet,2021,4,8
@@ -33,8 +33,8 @@ Chevalier guignette,2022,5,1
 Chevêche d'Athéna,2011,0,4
 Choucas des tours,2021,6,11
 Chouette hulotte,2022,3,12
-Cigogne blanche,2020,5,8
-Cigogne noire,2022,11,10
+Cigogne blanche,2022,6,8
+Cigogne noire,2022,13,10
 Corbeau freux,2021,21,14
 Corneille noire,2022,142,65
 Coucou gris,2022,37,25
@@ -60,7 +60,7 @@ Geai des chênes,2022,169,94
 Goéland leucophée,2018,0,1
 Grand Corbeau,2022,50,4
 Grand Cormoran,2022,61,61
-Grande Aigrette,2022,79,73
+Grande Aigrette,2022,80,73
 Grèbe castagneux,2021,12,5
 Grèbe huppé,2022,50,43
 Grimpereau des jardins,2022,25,20
@@ -69,7 +69,7 @@ Grive litorne,2020,6,15
 Grive mauvis,2020,1,4
 Grive musicienne,2022,24,25
 Grosbec casse-noyaux,2022,9,10
-Héron cendré,2022,93,84
+Héron cendré,2022,94,84
 Hirondelle de fenêtre,2021,5,7
 Hirondelle de rivage,2019,1,0
 Hirondelle rustique,2021,25,26
@@ -131,5 +131,5 @@ Torcol fourmilier,2009,0,2
 Tourterelle des bois,2021,17,8
 Tourterelle turque,2022,27,10
 Troglodyte mignon,2022,87,79
-Vanneau huppé,2022,43,51
+Vanneau huppé,2022,44,51
 Verdier d'Europe,2021,10,9

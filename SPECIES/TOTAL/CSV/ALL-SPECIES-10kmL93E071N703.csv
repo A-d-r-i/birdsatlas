@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,62,30
+Accenteur mouchet,2022,63,30
 Aigrette garzette,2021,2,4
-Alouette des champs,2022,4,0
+Alouette des champs,2022,5,0
 Avocette élégante,2018,0,1
 Bécasseau variable,2018,0,1
 Bécassine des marais,2021,2,1
@@ -13,9 +13,9 @@ Blongios nain,2009,0,1
 Bondrée apivore,2020,1,2
 Bouscarle de Cetti,2021,11,9
 Bouvreuil pivoine,2022,2,6
-Bruant des roseaux,2020,1,8
+Bruant des roseaux,2022,2,8
 Bruant jaune,2022,6,2
-Busard des roseaux,2021,2,1
+Busard des roseaux,2022,3,1
 Busard Saint-Martin,2009,0,1
 Buse variable,2022,18,5
 Canard chipeau,2021,1,4
@@ -26,7 +26,7 @@ Canard souchet,2021,1,3
 Chardonneret élégant,2022,48,28
 Chevalier culblanc,2021,1,2
 Chevalier guignette,2021,1,2
-Chevêche d'Athéna,2021,1,2
+Chevêche d'Athéna,2022,2,2
 Choucas des tours,2022,30,6
 Chouette hulotte,2021,2,1
 Cigogne blanche,2022,1,1
@@ -46,7 +46,7 @@ Faucon hobereau,2020,2,1
 Fauvette à tête noire,2022,21,9
 Fauvette babillarde,2020,1,1
 Fauvette des jardins,2022,5,1
-Fauvette grisette,2022,6,5
+Fauvette grisette,2022,8,5
 Foulque macroule,2022,20,16
 Fuligule milouin,2022,12,16
 Fuligule milouinan,2020,1,0
@@ -59,7 +59,7 @@ Goéland brun,2021,5,14
 Goéland cendré,2013,0,3
 Goéland leucophée,2018,0,1
 Goéland pontique,2019,1,4
-Gorgebleue à miroir,2021,2,2
+Gorgebleue à miroir,2022,4,2
 Grand Cormoran,2022,17,14
 Grande Aigrette,2022,8,9
 Grèbe à cou noir,2017,0,2
@@ -81,9 +81,9 @@ Hirondelle rustique,2021,11,4
 Hypolaïs ictérine,2009,0,1
 Hypolaïs polyglotte,2009,0,1
 Jaseur boréal,2009,0,1
-Linotte mélodieuse,2021,6,1
+Linotte mélodieuse,2022,7,1
 Locustelle tachetée,2018,0,2
-Loriot d'Europe,2020,1,1
+Loriot d'Europe,2022,3,1
 Martinet noir,2020,2,2
 Martin-pêcheur d'Europe,2021,8,7
 Merle noir,2022,175,90
@@ -126,6 +126,7 @@ Rossignol philomèle,2020,2,3
 Rougegorge familier,2022,159,80
 Rougequeue noir,2022,8,2
 Rousserolle effarvatte,2021,5,8
+Rousserolle turdoïde,2022,1,0
 Rousserolle verderolle,2020,2,1
 Sarcelle d'été,2009,0,1
 Sarcelle d'hiver,2013,0,2

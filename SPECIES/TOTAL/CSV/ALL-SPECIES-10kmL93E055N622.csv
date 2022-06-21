@@ -1,6 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,2,1
 Aigle botté,2014,0,4
+Aigle royal,2022,1,0
 Alouette des champs,2021,1,1
 Alouette lulu,2013,0,3
 Autour des palombes,2020,1,2
@@ -15,7 +16,7 @@ Bruant jaune,2022,3,4
 Bruant proyer,2019,1,3
 Bruant zizi,2020,1,4
 Busard Saint-Martin,2021,1,1
-Buse variable,2022,19,16
+Buse variable,2022,20,16
 Caille des blés,2009,0,1
 Canard colvert,2022,10,3
 Chardonneret élégant,2022,4,5
@@ -63,7 +64,7 @@ Hirondelle rustique,2022,2,6
 Huppe fasciée,2019,2,5
 Hypolaïs polyglotte,2009,0,1
 Linotte mélodieuse,2018,0,3
-Loriot d'Europe,2022,3,4
+Loriot d'Europe,2022,4,4
 Martinet noir,2022,1,9
 Martin-pêcheur d'Europe,2014,0,3
 Merle noir,2022,27,9
@@ -73,15 +74,15 @@ Mésange charbonnière,2022,26,17
 Mésange huppée,2022,2,4
 Mésange noire,2020,1,5
 Mésange nonnette,2022,2,3
-Milan noir,2022,4,3
-Milan royal,2022,23,9
+Milan noir,2022,5,3
+Milan royal,2022,24,9
 Moineau domestique,2022,6,5
 Moineau soulcie,2012,0,2
 Perdrix rouge,2022,1,1
-Pic épeiche,2022,8,8
+Pic épeiche,2022,9,8
 Pic épeichette,2014,0,2
 Pic mar,2020,1,2
-Pic noir,2022,6,10
+Pic noir,2022,7,10
 Pic vert,2022,5,8
 Pie bavarde,2019,1,4
 Pie-grièche à tête rousse,2016,0,1
@@ -105,7 +106,7 @@ Sittelle torchepot,2022,5,7
 Tarier des prés,2009,0,1
 Tarier pâtre,2019,1,4
 Tarin des aulnes,2021,2,4
-Torcol fourmilier,2009,0,2
+Torcol fourmilier,2022,1,2
 Tourterelle des bois,2022,4,6
 Tourterelle turque,2022,23,7
 Traquet motteux,2009,0,1
