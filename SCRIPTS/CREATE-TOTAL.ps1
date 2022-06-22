@@ -1,8 +1,8 @@
-$list = Get-Content "./ID.txt"
+$list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
 #$code = '42510'
-$id = ([xml](Get-Content "./ID.xml")).ID."id$code"
+$id = ([xml](Get-Content "./DATA/ID.xml")).ID."id$code"
 
 (Get-Content "./SPECIES/TOTAL/JSON/ODF-$id.json" -Encoding UTF8 | ConvertFrom-Json).common_name_fr | Out-File "name.csv" -Encoding UTF8
 (Get-Content "./SPECIES/TOTAL/JSON/ODF-$id.json" -Encoding UTF8 | ConvertFrom-Json).all_period.last_obs | Out-File "lastobs.csv" -Encoding UTF8

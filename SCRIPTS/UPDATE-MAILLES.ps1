@@ -1,10 +1,10 @@
 #$id = Read-Host -Prompt "Saisir l`'identifiant de la maille "
 #$code = ([xml](Get-Content MAILLES.xml)).MAILLES.$id
-$list = Get-Content "./ID.txt"
+$list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
 #$code = '42510'
-$id = ([xml](Get-Content "./ID.xml")).ID."id$code"
+$id = ([xml](Get-Content "./DATA/ID.xml")).ID."id$code"
 
 echo $id
 
@@ -15,7 +15,7 @@ Invoke-WebRequest -Uri "https://oiseauxdefrance.org/api/v1/area/taxa_list/$code"
 
 $text = Get-Content dates.txt
 $date = Get-Date -Format "dd/MM/yyyy"
-$text = $text -replace "mailles : ([0-9]+/[0-9]+/[0-9]+)","mailles : $date" | Set-Content -Path dates.txt
+$text = $text -replace "mailles : ([0-9]+/[0-9]+/[0-9]+)","mailles : $date" | Set-Content -Path "dates.txt"
 
 # git and create tag
 git config --local user.email "a-d-r-i@outlook.fr"

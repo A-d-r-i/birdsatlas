@@ -1,8 +1,8 @@
-$list = Get-Content "./ID.txt"
+$list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
 #$code = '42510'
-$id = ([xml](Get-Content "./ID.xml")).ID."id$code"
+$id = ([xml](Get-Content "./DATA/ID.xml")).ID."id$code"
 
 # search for not sighting from 2019
 $TOTAL = Import-Csv -Path "./SPECIES/TOTAL/CSV/ALL-SPECIES-$id.csv" -delimiter ","
@@ -18,7 +18,7 @@ $result | Export-Csv "SPECIES.csv" -Delimiter "," -NoTypeInformation -Encoding U
 
 $text = Get-Content dates.txt
 $date = Get-Date -Format "dd/MM/yyyy"
-$text = $text -replace "2019 : ([0-9]+/[0-9]+/[0-9]+)","2019 : $date" | Set-Content -Path dates.txt
+$text = $text -replace "2019 : ([0-9]+/[0-9]+/[0-9]+)","2019 : $date" | Set-Content -Path "dates.txt"
 
 Remove-Item "SPECIESTEMP.txt", "SPECIES.csv"
 

@@ -24,7 +24,8 @@ function main() {
 					// var area_id = document.getElementById('area_id');
 					// area_id.textContent = feature.properties.id;
 					document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
-					document.getElementById("github_historic").setAttribute("href","https://github.com/A-d-r-i/birdsatlas/commits/main/SPECIES/TOTAL/CSV/ALL-SPECIES-" + feature.properties.area_name + ".csv");
+					document.getElementById("faune_france").setAttribute("href","https://www.faune-france.org/index.php?m_id=94&sp_DChoice=all&sp_SChoice=all&sp_PChoice=grid&sp_FChoice=species&sp_Grid=" + feature.properties.id_faune_france);
+					// document.getElementById("github_historic").setAttribute("href","https://github.com/A-d-r-i/birdsatlas/commits/main/SPECIES/TOTAL/CSV/ALL-SPECIES-" + feature.properties.area_name + ".csv");
 					document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
 					document.getElementById("area_species_never").setAttribute("src","./SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
 					document.getElementById("area_species_nf").setAttribute("src","./SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
