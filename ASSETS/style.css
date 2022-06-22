@@ -84,7 +84,7 @@ body {
 	color: #5f907a !important;
 	border-radius: 5px;
 	padding: 0 1.5em;
-	text-decoration: none;
+	text-decoration: none !important;
 	cursor: pointer
 }
 
