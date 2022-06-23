@@ -13,3 +13,5 @@ Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme)
 **Lien : [A-d-r-i/BirdsAtlas](https://a-d-r-i.github.io/birdsatlas)**
 
 [![pages-build-deployment](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment)
+
+<p align="center"><img src="ASSETS/ICON.png"/></p>
