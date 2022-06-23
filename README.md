@@ -14,4 +14,4 @@ Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme)
 
 [![pages-build-deployment](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment)
 
-<p align="center"><img src="ASSETS/ICON.png"/></p>
+<p align="center"><img width="400px" src="ASSETS/ICON.png"/></p>

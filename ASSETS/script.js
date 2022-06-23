@@ -65,9 +65,41 @@ function main() {
 			}
 		}).addTo(newMap);
 		newMap.fitBounds(datalayer.getBounds());
+
+		// USER LOCATION
 		L.control.locate().addTo(newMap);
 		//L.control.search().addTo(newMap);
+
+		// SCALE
+		L.control.scale({
+			metric: true,
+			imperial: false,
+			position: 'bottomright'
+		}).addTo(newMap)
 		
+		// WATERMARK
+		L.Control.Watermark = L.Control.extend({
+			onAdd: function (newMap) {
+				var img = L.DomUtil.create('img');
+				
+				img.src = './DATA/ICON.png';
+				img.style.width = '100px';
+				
+				return img;
+			},
+			
+			onRemove: function (newMap) {
+				// Nothing to do here
+			}
+		});
+		
+		L.control.watermark = function (opts) {
+			return new L.Control.Watermark(opts);
+		};
+		
+		var watermarkControl = L.control.watermark({position: 'topright'}).addTo(newMap);
+		
+		// SEARCH
 		newMap.addControl( new L.Control.Search({
 			url: 'https://nominatim.openstreetmap.org/search?format=json&q={s}',
 			jsonpParam: 'json_callback',
