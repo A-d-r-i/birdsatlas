@@ -82,7 +82,7 @@ function main() {
 			onAdd: function (newMap) {
 				var img = L.DomUtil.create('img');
 				
-				img.src = './DATA/ICON.png';
+				img.src = './ASSETS/ICON.png';
 				img.style.width = '100px';
 				
 				return img;
