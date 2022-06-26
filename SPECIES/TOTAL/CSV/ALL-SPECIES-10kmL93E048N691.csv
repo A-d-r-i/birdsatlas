@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,100,10
-Aigrette garzette,2022,80,7
+Aigrette garzette,2022,81,7
 Alouette des champs,2022,6,0
 Autour des palombes,2018,0,1
 Avocette élégante,2020,2,0
@@ -55,14 +55,14 @@ Coucou gris,2022,41,1
 Courlis cendré,2022,3,1
 Courlis corlieu,2021,4,0
 Cygne noir,2009,0,1
-Cygne tuberculé,2022,61,11
+Cygne tuberculé,2022,62,11
 Échasse blanche,2022,10,1
 Effraie des clochers,2022,5,2
 Eider à duvet,2022,12,0
 Épervier d'Europe,2021,8,7
 Étourneau sansonnet,2022,105,8
 Faisan de Colchide,2022,34,4
-Faucon crécerelle,2022,67,6
+Faucon crécerelle,2022,68,6
 Faucon hobereau,2021,3,1
 Faucon pèlerin,2021,3,0
 Fauvette à tête noire,2022,107,3
@@ -70,7 +70,7 @@ Fauvette babillarde,2022,6,0
 Fauvette des jardins,2022,8,2
 Fauvette grisette,2022,38,1
 Fou de Bassan,2022,51,2
-Foulque macroule,2022,64,6
+Foulque macroule,2022,65,6
 Fuligule milouin,2022,51,7
 Fuligule morillon,2022,42,4
 Fuligule nyroca,2019,11,0
@@ -78,7 +78,7 @@ Fulmar boréal,2022,1,0
 Gallinule poule-d'eau,2022,85,9
 Geai des chênes,2022,80,4
 Gobemouche gris,2021,13,3
-Goéland argenté,2022,177,10
+Goéland argenté,2022,178,10
 Goéland brun,2022,13,2
 Goéland cendré,2022,68,3
 Goéland leucophée,2019,1,0
@@ -89,18 +89,18 @@ Grand Cormoran,2022,127,17
 Grande Aigrette,2022,24,2
 Grand Gravelot,2021,1,0
 Grand Labbe,2022,2,1
-Grèbe castagneux,2022,39,4
-Grèbe huppé,2022,187,5
+Grèbe castagneux,2022,40,4
+Grèbe huppé,2022,188,5
 Grimpereau des jardins,2022,84,4
 Grive draine,2022,66,6
 Grive litorne,2022,8,1
 Grive mauvis,2022,7,4
-Grive musicienne,2022,130,13
+Grive musicienne,2022,131,13
 Grosbec casse-noyaux,2020,1,2
 Guifette noire,2019,1,0
 Guillemot de Troïl,2022,23,2
 Harle huppé,2020,2,0
-Héron cendré,2022,70,8
+Héron cendré,2022,71,8
 Héron garde-boeufs,2022,39,1
 Héron pourpré,2021,2,0
 Hibou des marais,2021,1,0
@@ -108,7 +108,7 @@ Hirondelle de fenêtre,2022,29,2
 Hirondelle de rivage,2022,6,1
 Hirondelle rustique,2022,53,3
 Huîtrier pie,2022,18,0
-Hypolaïs polyglotte,2022,13,1
+Hypolaïs polyglotte,2022,14,1
 Ibis falcinelle,2019,2,0
 Labbe parasite,2020,2,0
 Linotte mélodieuse,2022,44,2
@@ -118,7 +118,7 @@ Loriot d'Europe,2021,1,0
 Macreuse brune,2022,9,0
 Macreuse noire,2022,34,2
 Marouette ponctuée,2021,1,1
-Martinet noir,2022,64,3
+Martinet noir,2022,66,3
 Martin-pêcheur d'Europe,2021,19,6
 Merle à plastron,2020,1,0
 Merle noir,2022,253,23
@@ -169,7 +169,7 @@ Rougegorge familier,2022,194,25
 Rougequeue à front blanc,2022,15,0
 Rougequeue noir,2022,39,1
 Rousserolle effarvatte,2022,32,2
-Rousserolle verderolle,2022,12,1
+Rousserolle verderolle,2022,13,1
 Sarcelle d'été,2022,3,1
 Sarcelle d'hiver,2022,17,3
 Serin cini,2021,57,3
@@ -186,5 +186,5 @@ Tourterelle des bois,2009,0,1
 Tourterelle turque,2022,78,16
 Traquet motteux,2022,18,0
 Troglodyte mignon,2022,163,12
-Vanneau huppé,2022,70,4
+Vanneau huppé,2022,71,4
 Verdier d'Europe,2022,49,11

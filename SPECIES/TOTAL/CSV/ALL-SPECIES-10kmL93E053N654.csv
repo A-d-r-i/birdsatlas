@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,6,35
+Accenteur mouchet,2022,7,35
 Alouette des champs,2022,1,5
 Alouette lulu,2022,20,17
 Autour des palombes,2021,1,2
@@ -7,7 +7,7 @@ Bécasse des bois,2017,0,4
 Bécassine des marais,2012,0,2
 Bec-croisé des sapins,2018,0,4
 Bergeronnette des ruisseaux,2015,0,9
-Bergeronnette grise,2022,5,12
+Bergeronnette grise,2022,6,12
 Bondrée apivore,2022,3,3
 Bouvreuil pivoine,2022,10,29
 Bruant des roseaux,2021,2,8
@@ -15,13 +15,13 @@ Bruant jaune,2022,27,17
 Bruant proyer,2015,0,1
 Bruant zizi,2022,4,17
 Busard des roseaux,2022,1,0
-Busard Saint-Martin,2022,17,16
+Busard Saint-Martin,2022,18,16
 Buse variable,2022,31,63
 Caille des blés,2022,2,0
 Canard colvert,2022,12,34
 Canard mandarin,2016,0,1
 Canard siffleur,2019,1,0
-Chardonneret élégant,2022,8,23
+Chardonneret élégant,2022,9,23
 Chevalier guignette,2022,1,1
 Chevêche d'Athéna,2022,23,16
 Choucas des tours,2022,2,8
@@ -29,12 +29,13 @@ Chouette hulotte,2022,24,27
 Cigogne blanche,2022,1,0
 Cigogne noire,2022,2,0
 Circaète Jean-le-Blanc,2021,2,3
+Cisticole des joncs,2022,1,0
 Corbeau freux,2015,0,4
-Corneille noire,2022,33,48
+Corneille noire,2022,34,48
 Coucou gris,2022,52,37
 Effraie des clochers,2020,13,18
 Élanion blanc,2019,1,0
-Engoulevent d'Europe,2022,8,6
+Engoulevent d'Europe,2022,9,6
 Épervier d'Europe,2022,4,3
 Étourneau sansonnet,2022,12,22
 Faisan de Colchide,2022,2,6
@@ -42,7 +43,7 @@ Faucon crécerelle,2022,3,8
 Faucon émerillon,2009,0,1
 Faucon hobereau,2021,1,1
 Faucon pèlerin,2014,0,2
-Fauvette à tête noire,2022,161,74
+Fauvette à tête noire,2022,163,74
 Fauvette des jardins,2022,8,3
 Fauvette grisette,2022,18,11
 Fauvette pitchou,2022,4,2
@@ -60,49 +61,49 @@ Grande Aigrette,2022,7,12
 Grèbe castagneux,2022,1,3
 Grèbe huppé,2018,0,13
 Grimpereau des jardins,2022,35,36
-Grive draine,2022,35,19
+Grive draine,2022,36,19
 Grive litorne,2015,0,2
 Grive mauvis,2022,4,7
 Grive musicienne,2022,25,24
-Grosbec casse-noyaux,2022,13,13
+Grosbec casse-noyaux,2022,14,13
 Guêpier d'Europe,2020,1,0
-Héron cendré,2022,14,32
+Héron cendré,2022,15,32
 Héron garde-boeufs,2022,48,1
 Héron pourpré,2016,0,1
 Hibou moyen-duc,2022,2,2
-Hirondelle de fenêtre,2020,4,12
-Hirondelle rustique,2022,5,23
+Hirondelle de fenêtre,2022,6,12
+Hirondelle rustique,2022,6,23
 Huppe fasciée,2022,3,6
 Hypolaïs polyglotte,2022,20,27
 Linotte mélodieuse,2021,19,10
 Locustelle tachetée,2009,0,1
-Loriot d'Europe,2022,18,13
+Loriot d'Europe,2022,19,13
 Martinet noir,2022,5,4
 Martin-pêcheur d'Europe,2021,8,22
-Merle noir,2022,45,86
+Merle noir,2022,46,86
 Mésange à longue queue,2022,14,22
-Mésange bleue,2022,36,52
+Mésange bleue,2022,37,52
 Mésange charbonnière,2022,24,60
 Mésange huppée,2022,4,9
 Mésange noire,2021,5,7
 Mésange nonnette,2022,7,16
 Milan noir,2022,6,2
 Milan royal,2017,0,4
-Moineau domestique,2022,14,29
+Moineau domestique,2022,15,29
 Perdrix rouge,2022,4,2
-Pic épeiche,2022,31,50
+Pic épeiche,2022,32,50
 Pic épeichette,2020,1,6
 Pic mar,2021,2,6
 Pic noir,2022,11,20
 Pic vert,2022,15,26
 Pie bavarde,2022,3,15
 Pie-grièche à tête rousse,2022,1,1
-Pie-grièche écorcheur,2021,4,4
+Pie-grièche écorcheur,2022,5,4
 Pie-grièche grise,2009,0,1
 Pigeon biset domestique,2018,0,8
 Pigeon colombin,2015,0,2
-Pigeon ramier,2022,67,83
-Pinson des arbres,2022,120,116
+Pigeon ramier,2022,69,83
+Pinson des arbres,2022,121,116
 Pinson du Nord,2022,4,5
 Pipit des arbres,2022,32,22
 Pipit farlouse,2022,2,8
@@ -114,18 +115,18 @@ Râle d'eau,2015,0,2
 Roitelet à triple bandeau,2022,47,35
 Roitelet huppé,2022,12,19
 Rossignol philomèle,2022,14,24
-Rougegorge familier,2022,124,77
+Rougegorge familier,2022,126,77
 Rougequeue à front blanc,2022,6,7
 Rougequeue noir,2022,4,19
 Rousserolle effarvatte,2014,0,1
 Sarcelle d'hiver,2018,0,2
 Serin cini,2016,0,7
 Sittelle torchepot,2022,16,33
-Tarier pâtre,2022,12,14
+Tarier pâtre,2022,13,14
 Tarin des aulnes,2022,8,15
 Torcol fourmilier,2016,0,1
 Tourterelle des bois,2022,14,21
 Tourterelle turque,2022,9,29
 Troglodyte mignon,2022,73,70
 Vanneau huppé,2019,1,3
-Verdier d'Europe,2020,2,13
+Verdier d'Europe,2022,3,13

@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,37,27
+Accenteur mouchet,2022,38,27
 Aigrette garzette,2022,32,39
 Alouette des champs,2021,2,7
 Alouette lulu,2019,1,2
@@ -26,12 +26,12 @@ Bruant des neiges,2020,4,10
 Bruant des roseaux,2018,0,3
 Bruant jaune,2021,4,0
 Bruant lapon,2015,0,1
-Bruant zizi,2022,57,74
+Bruant zizi,2022,59,74
 Busard des roseaux,2019,1,0
 Busard Saint-Martin,2013,0,1
 Buse variable,2022,9,1
 Canard colvert,2022,1,2
-Chardonneret élégant,2022,30,10
+Chardonneret élégant,2022,32,10
 Chevalier aboyeur,2021,1,0
 Chevalier culblanc,2015,0,1
 Chevalier gambette,2017,0,1
@@ -40,7 +40,7 @@ Choucas des tours,2022,8,2
 Cisticole des joncs,2022,7,7
 Corbeau freux,2020,1,1
 Cormoran huppé,2022,122,68
-Corneille noire,2022,40,24
+Corneille noire,2022,41,24
 Coucou gris,2022,4,1
 Courlis cendré,2022,8,9
 Courlis corlieu,2022,10,2
@@ -48,8 +48,8 @@ Crave à bec rouge,2016,0,1
 Échasse blanche,2022,2,0
 Eider à duvet,2020,1,8
 Épervier d'Europe,2022,7,10
-Étourneau sansonnet,2022,34,27
-Faucon crécerelle,2022,31,19
+Étourneau sansonnet,2022,35,27
+Faucon crécerelle,2022,32,19
 Faucon émerillon,2020,2,4
 Faucon hobereau,2020,1,0
 Faucon pèlerin,2021,9,7
@@ -66,7 +66,7 @@ Gobemouche gris,2021,4,3
 Gobemouche nain,2020,5,0
 Gobemouche noir,2021,5,6
 Goéland à ailes blanches,2018,0,1
-Goéland argenté,2022,91,70
+Goéland argenté,2022,93,70
 Goéland brun,2022,22,21
 Goéland cendré,2022,12,15
 Goéland leucophée,2022,2,1
@@ -83,7 +83,7 @@ Grimpereau des jardins,2015,0,1
 Grive draine,2022,6,7
 Grive litorne,2015,0,3
 Grive mauvis,2022,2,8
-Grive musicienne,2022,33,20
+Grive musicienne,2022,34,20
 Guêpier d'Europe,2021,1,1
 Guifette noire,2015,0,1
 Guillemot de Troïl,2022,76,36
@@ -95,7 +95,7 @@ Hibou des marais,2016,0,4
 Hibou moyen-duc,2019,1,3
 Hirondelle de fenêtre,2020,2,3
 Hirondelle de rivage,2022,11,7
-Hirondelle rustique,2022,41,23
+Hirondelle rustique,2022,42,23
 Huîtrier pie,2022,135,126
 Huppe fasciée,2022,7,1
 Hypolaïs polyglotte,2014,0,1
@@ -103,21 +103,21 @@ Ibis sacré,2013,0,1
 Labbe à longue queue,2020,2,0
 Labbe parasite,2021,5,8
 Labbe pomarin,2019,1,1
-Linotte mélodieuse,2022,22,22
+Linotte mélodieuse,2022,23,22
 Macareux moine,2022,1,4
 Macreuse brune,2020,1,4
 Macreuse noire,2021,7,11
-Martinet noir,2022,12,3
+Martinet noir,2022,13,3
 Martinet pâle,2019,3,0
 Martin-pêcheur d'Europe,2021,9,15
-Merle noir,2022,71,25
+Merle noir,2022,74,25
 Mésange à longue queue,2020,2,14
 Mésange bleue,2022,13,20
 Mésange charbonnière,2022,27,26
-Mésange huppée,2022,7,12
+Mésange huppée,2022,9,12
 Mésange noire,2021,2,3
 Mésange nonnette,2022,1,0
-Moineau domestique,2022,44,8
+Moineau domestique,2022,45,8
 Mouette mélanocéphale,2022,26,41
 Mouette pygmée,2019,2,9
 Mouette rieuse,2022,45,43
@@ -129,12 +129,12 @@ Petit Gravelot,2014,0,1
 Phalarope à bec large,2019,1,0
 Pic épeiche,2021,4,5
 Pic noir,2016,0,1
-Pic vert,2022,14,6
-Pie bavarde,2022,50,41
+Pic vert,2022,15,6
+Pie bavarde,2022,52,41
 Pigeon biset domestique,2022,3,0
-Pigeon ramier,2022,49,16
+Pigeon ramier,2022,50,16
 Pingouin torda,2022,12,35
-Pinson des arbres,2022,40,36
+Pinson des arbres,2022,42,36
 Pinson du Nord,2021,1,2
 Pipit de Richard,2014,0,2
 Pipit des arbres,2021,1,0
@@ -148,18 +148,18 @@ Pluvier argenté,2022,27,68
 Pluvier doré,2019,1,4
 Pouillot à grands sourcils,2021,7,15
 Pouillot fitis,2021,7,11
-Pouillot véloce,2022,49,102
+Pouillot véloce,2022,51,102
 Puffin cendré,2017,0,1
 Puffin des Anglais,2022,5,2
 Puffin des Baléares,2022,22,7
 Râle d'eau,2021,4,5
-Roitelet à triple bandeau,2022,25,69
+Roitelet à triple bandeau,2022,26,69
 Roitelet huppé,2022,4,29
 Rossignol philomèle,2015,0,1
-Rougegorge familier,2022,56,41
+Rougegorge familier,2022,57,41
 Rougequeue à front blanc,2021,2,4
 Rougequeue noir,2022,17,17
-Serin cini,2022,54,53
+Serin cini,2022,55,53
 Sittelle torchepot,2008,0,1
 Sterne caugek,2022,80,91
 Sterne de Dougall,2015,0,1
@@ -171,7 +171,7 @@ Tarier pâtre,2022,24,14
 Tarin des aulnes,2021,8,8
 Torcol fourmilier,2019,1,0
 Tournepierre à collier,2022,117,104
-Tourterelle turque,2022,31,7
+Tourterelle turque,2022,32,7
 Traquet motteux,2022,33,40
 Troglodyte mignon,2022,28,20
 Vanneau huppé,2015,0,1
