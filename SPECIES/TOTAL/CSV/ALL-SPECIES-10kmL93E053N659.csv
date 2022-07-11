@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,37,38
 Aigle botté,2009,0,2
-Aigrette garzette,2019,1,10
-Alouette des champs,2022,64,80
+Aigrette garzette,2022,2,10
+Alouette des champs,2022,65,80
 Alouette lulu,2022,36,45
 Autour des palombes,2022,10,5
 Avocette élégante,2011,0,2
@@ -24,11 +24,11 @@ Bruant proyer,2022,49,34
 Bruant zizi,2022,44,40
 Busard cendré,2021,1,24
 Busard des roseaux,2021,2,7
-Busard Saint-Martin,2022,19,66
+Busard Saint-Martin,2022,20,66
 Buse variable,2022,72,110
 Caille des blés,2021,2,9
 Canard chipeau,2021,2,6
-Canard colvert,2022,34,129
+Canard colvert,2022,35,129
 Canard mandarin,2019,1,0
 Canard pilet,2011,0,2
 Canard siffleur,2022,2,8
@@ -44,7 +44,7 @@ Choucas des tours,2022,20,39
 Chouette hulotte,2019,1,8
 Cigogne blanche,2021,2,9
 Cigogne noire,2021,2,0
-Circaète Jean-le-Blanc,2022,31,21
+Circaète Jean-le-Blanc,2022,32,21
 Cisticole des joncs,2019,1,1
 Cochevis huppé,2012,0,2
 Corbeau freux,2022,16,19
@@ -54,12 +54,12 @@ Courlis cendré,2022,2,18
 Courlis corlieu,2021,1,0
 Cygne tuberculé,2022,13,22
 Effraie des clochers,2022,5,19
-Élanion blanc,2022,12,0
+Élanion blanc,2022,13,0
 Engoulevent d'Europe,2017,0,5
 Épervier d'Europe,2022,16,33
 Étourneau sansonnet,2022,45,73
 Faisan de Colchide,2021,11,21
-Faucon crécerelle,2022,37,66
+Faucon crécerelle,2022,38,66
 Faucon émerillon,2018,0,5
 Faucon hobereau,2021,5,5
 Faucon pèlerin,2022,2,4
@@ -70,7 +70,7 @@ Fauvette pitchou,2022,5,5
 Foulque macroule,2022,28,50
 Fuligule milouin,2022,9,19
 Fuligule morillon,2022,1,1
-Gallinule poule-d'eau,2022,21,38
+Gallinule poule-d'eau,2022,22,38
 Geai des chênes,2022,30,72
 Gobemouche gris,2019,2,4
 Gobemouche noir,2021,4,11
@@ -88,8 +88,8 @@ Grive mauvis,2022,5,13
 Grive musicienne,2022,23,31
 Grosbec casse-noyaux,2022,10,31
 Guêpier d'Europe,2022,48,121
-Héron cendré,2022,34,144
-Héron garde-boeufs,2022,26,34
+Héron cendré,2022,35,144
+Héron garde-boeufs,2022,27,34
 Héron pourpré,2019,3,12
 Hibou moyen-duc,2020,1,5
 Hirondelle de fenêtre,2022,46,40
@@ -114,7 +114,7 @@ Milan noir,2022,22,39
 Milan royal,2021,2,10
 Moineau domestique,2022,106,128
 Moineau friquet,2015,0,4
-Mouette rieuse,2022,36,6
+Mouette rieuse,2022,37,6
 Nette rousse,2015,0,2
 Oedicnème criard,2021,22,43
 Oie cendrée,2016,0,6

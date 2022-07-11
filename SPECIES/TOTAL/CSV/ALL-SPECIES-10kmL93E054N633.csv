@@ -1,12 +1,12 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,19,16
 Aigle botté,2022,7,0
-Aigrette garzette,2022,319,140
+Aigrette garzette,2022,320,140
 Alouette des champs,2021,5,6
 Alouette lulu,2012,0,2
 Autour des palombes,2020,3,0
-Avocette élégante,2022,12,5
-Barge à queue noire,2022,42,35
+Avocette élégante,2022,15,5
+Barge à queue noire,2022,45,35
 Bécasseau cocorli,2021,6,0
 Bécasseau de Temminck,2019,5,0
 Bécasseau maubèche,2021,2,0
@@ -30,18 +30,18 @@ Busard Saint-Martin,2021,3,3
 Buse variable,2022,66,38
 Butor étoilé,2021,1,1
 Canard à collier noir,2022,11,0
-Canard chipeau,2022,223,115
-Canard colvert,2022,324,110
+Canard chipeau,2022,224,115
+Canard colvert,2022,327,110
 Canard des Bahamas,2019,1,0
 Canard mandarin,2021,13,3
 Canard pilet,2021,38,24
 Canard siffleur,2022,33,25
 Canard souchet,2022,83,46
 Chardonneret élégant,2022,43,38
-Chevalier aboyeur,2022,59,27
-Chevalier arlequin,2022,30,5
+Chevalier aboyeur,2022,60,27
+Chevalier arlequin,2022,32,5
 Chevalier bargette,2019,2,0
-Chevalier culblanc,2022,23,9
+Chevalier culblanc,2022,24,9
 Chevalier gambette,2022,68,18
 Chevalier guignette,2022,108,31
 Chevalier sylvain,2022,44,10
@@ -57,14 +57,14 @@ Combattant varié,2022,36,8
 Corbeau freux,2020,1,4
 Corneille noire,2022,112,61
 Coucou gris,2020,1,2
-Courlis cendré,2022,148,65
+Courlis cendré,2022,150,65
 Courlis corlieu,2021,1,1
-Crabier chevelu,2022,112,1
+Crabier chevelu,2022,113,1
 Cygne chanteur,2010,0,1
 Cygne noir,2022,34,24
-Cygne tuberculé,2022,375,100
+Cygne tuberculé,2022,382,100
 Dendrocygne fauve,2022,6,0
-Échasse blanche,2022,98,28
+Échasse blanche,2022,100,28
 Effraie des clochers,2022,5,4
 Élanion blanc,2022,46,1
 Épervier d'Europe,2022,15,11
@@ -75,7 +75,7 @@ Faucon hobereau,2022,27,4
 Faucon pèlerin,2021,5,3
 Fauvette à tête noire,2022,40,28
 Fauvette grisette,2022,2,9
-Foulque macroule,2022,243,77
+Foulque macroule,2022,245,77
 Fuligule milouin,2021,15,8
 Fuligule morillon,2019,1,0
 Gallinule poule-d'eau,2022,106,62
@@ -86,10 +86,10 @@ Gobemouche noir,2021,17,2
 Goéland argenté,2019,0,2
 Goéland brun,2022,28,15
 Goéland cendré,2022,38,16
-Goéland leucophée,2022,223,87
+Goéland leucophée,2022,224,87
 Goéland pontique,2020,2,5
-Grand Cormoran,2022,273,117
-Grande Aigrette,2022,295,104
+Grand Cormoran,2022,275,117
+Grande Aigrette,2022,297,104
 Grand Gravelot,2022,20,8
 Grèbe castagneux,2022,114,63
 Grèbe huppé,2022,136,58
@@ -104,9 +104,9 @@ Guifette moustac,2022,33,0
 Guifette noire,2022,35,8
 Harle bièvre,2021,1,0
 Harle huppé,2019,7,0
-Héron cendré,2022,315,118
+Héron cendré,2022,316,118
 Héron garde-boeufs,2022,86,43
-Héron pourpré,2022,133,6
+Héron pourpré,2022,134,6
 Hibou moyen-duc,2010,0,2
 Hirondelle de fenêtre,2022,17,8
 Hirondelle de rivage,2022,37,2
@@ -127,22 +127,22 @@ Mésange à longue queue,2022,52,42
 Mésange bleue,2022,96,117
 Mésange charbonnière,2022,128,139
 Mésange noire,2022,7,56
-Milan noir,2022,116,20
+Milan noir,2022,117,20
 Milan royal,2022,30,7
 Moineau domestique,2022,55,104
 Moineau friquet,2021,15,52
-Mouette mélanocéphale,2022,11,1
+Mouette mélanocéphale,2022,12,1
 Mouette pygmée,2022,5,2
-Mouette rieuse,2022,304,103
+Mouette rieuse,2022,307,103
 Nette rousse,2021,35,10
 Oie à tête barrée,2019,1,0
 Oie cendrée,2022,57,16
 Oie rieuse,2020,1,0
 Perdrix rouge,2019,1,2
-Petit Gravelot,2022,23,18
+Petit Gravelot,2022,24,18
 Pic épeiche,2022,37,22
 Pic épeichette,2021,4,7
-Pic noir,2022,3,1
+Pic noir,2022,4,1
 Pic vert,2022,61,37
 Pie bavarde,2022,72,107
 Pie-grièche écorcheur,2022,1,1
@@ -166,17 +166,17 @@ Rougegorge familier,2022,104,140
 Rougequeue à front blanc,2013,0,2
 Rougequeue noir,2022,16,14
 Sarcelle d'été,2022,37,9
-Sarcelle d'hiver,2022,207,103
+Sarcelle d'hiver,2022,209,103
 Serin cini,2017,0,2
 Sittelle torchepot,2022,13,8
-Spatule blanche,2022,117,22
+Spatule blanche,2022,119,22
 Sterne caspienne,2022,1,4
 Sterne caugek,2020,2,0
 Sterne hansel,2020,2,0
-Sterne naine,2022,9,5
-Sterne pierregarin,2022,183,47
-Tadorne casarca,2022,29,13
-Tadorne de Belon,2022,204,74
+Sterne naine,2022,10,5
+Sterne pierregarin,2022,186,47
+Tadorne casarca,2022,32,13
+Tadorne de Belon,2022,206,74
 Talève sultane,2021,4,0
 Tarier pâtre,2021,2,1
 Tarin des aulnes,2022,17,45

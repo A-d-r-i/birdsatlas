@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2020,3,0
-Aigrette garzette,2022,34,3
+Aigrette garzette,2022,35,3
 Alouette calandrelle,2017,0,1
 Alouette des champs,2020,3,0
 Avocette élégante,2022,1,0
@@ -23,7 +23,7 @@ Busard Saint-Martin,2020,1,0
 Buse variable,2020,4,2
 Caille des blés,2019,2,0
 Canard chipeau,2021,2,0
-Canard colvert,2022,8,4
+Canard colvert,2022,9,4
 Canard pilet,2021,1,0
 Canard siffleur,2019,2,2
 Canard souchet,2019,0,1
@@ -60,25 +60,25 @@ Fauvette mélanocéphale,2022,41,4
 Fauvette passerinette,2009,0,1
 Fauvette pitchou,2022,11,2
 Flamant rose,2022,20,5
-Foulque macroule,2022,27,7
+Foulque macroule,2022,28,7
 Fuligule milouin,2022,2,2
-Gallinule poule-d'eau,2022,20,2
+Gallinule poule-d'eau,2022,21,2
 Geai des chênes,2022,16,2
 Gobemouche gris,2021,2,0
-Goéland leucophée,2022,35,4
+Goéland leucophée,2022,36,4
 Grand Corbeau,2019,1,0
 Grand Cormoran,2022,26,3
-Grande Aigrette,2022,32,5
+Grande Aigrette,2022,33,5
 Grand Gravelot,2020,4,0
 Grèbe à cou noir,2020,5,2
-Grèbe castagneux,2022,21,3
-Grèbe huppé,2022,21,5
+Grèbe castagneux,2022,23,3
+Grèbe huppé,2022,22,5
 Grive musicienne,2020,3,0
 Guêpier d'Europe,2022,22,2
 Guifette moustac,2022,1,0
-Héron cendré,2022,33,6
-Héron garde-boeufs,2021,4,1
-Héron pourpré,2022,11,2
+Héron cendré,2022,34,6
+Héron garde-boeufs,2022,5,1
+Héron pourpré,2022,12,2
 Hibou des marais,2018,0,1
 Hirondelle de fenêtre,2019,1,1
 Hirondelle de rivage,2019,2,0
@@ -101,7 +101,7 @@ Moineau cisalpin,2022,17,2
 Moineau friquet,2020,3,0
 Mouette mélanocéphale,2020,3,0
 Mouette rieuse,2022,7,1
-Nette rousse,2022,17,4
+Nette rousse,2022,19,4
 Oedicnème criard,2021,4,1
 Perdrix grise,2020,1,0
 Perdrix rouge,2022,11,0
@@ -112,7 +112,7 @@ Pic épeiche,2022,7,1
 Pie-grièche à tête rousse,2022,9,0
 Pie-grièche écorcheur,2019,1,0
 Pigeon biset domestique,2021,3,0
-Pigeon ramier,2022,7,2
+Pigeon ramier,2022,8,2
 Pinson des arbres,2022,19,1
 Pinson du Nord,2022,2,0
 Pipit des arbres,2019,2,0
@@ -123,7 +123,7 @@ Pouillot siffleur,2022,1,0
 Pouillot véloce,2022,13,1
 Puffin de Scopoli,2020,5,1
 Puffin yelkouan,2020,1,0
-Râle d'eau,2020,5,3
+Râle d'eau,2022,6,3
 Rémiz penduline,2020,3,0
 Roitelet à triple bandeau,2020,1,0
 Rossignol philomèle,2021,7,3
@@ -132,6 +132,7 @@ Rougequeue à front blanc,2018,0,1
 Rougequeue noir,2020,15,0
 Rousserolle effarvatte,2021,5,0
 Rousserolle turdoïde,2021,3,0
+Sarcelle d'été,2022,1,0
 Sarcelle d'hiver,2021,2,1
 Serin cini,2022,7,0
 Spatule blanche,2021,2,0
