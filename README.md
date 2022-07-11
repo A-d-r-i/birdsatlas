@@ -1,4 +1,6 @@
 # BirdsAtlas
+![Last deployment](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment/badge.svg) ![Last update](https://github.com/A-d-r-i/birdsatlas/actions/workflows/UPDATE-ALL.yml/badge.svg)
+
 🇬🇧 This site is an aid to fieldwork for the atlas of breeding birds of France ([Oiseaux de France](https://oiseauxdefrance.org/)): it simply combines available data ([Oiseaux de France](https://oiseauxdefrance.org/) and [Cocheurs](https://www.cocheurs.fr/)) in a readable format in order to guide research and improve species knowledge.
 
 Errors are absolutely not excluded (whether of substance or form), do not hesitate to bring this up by creating an [issue](https://github.com/A-d-r-i/birdsatlas/issues).
@@ -11,7 +13,5 @@ Errors are absolutely not excluded (whether of substance or form), do not hesita
 Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme), n'hésitez surtout pas à faire remonter cela en créant une "[issue](https://github.com/A-d-r-i/birdsatlas/issues)".
 
 **Lien : [A-d-r-i/BirdsAtlas](https://a-d-r-i.github.io/birdsatlas)**
-
-[![pages-build-deployment](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/A-d-r-i/birdsatlas/actions/workflows/pages/pages-build-deployment)
 
 <p align="center"><img width="400px" src="ASSETS/ICON.png"/></p>
